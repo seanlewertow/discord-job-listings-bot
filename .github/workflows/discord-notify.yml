@@ -33,5 +33,22 @@ jobs:
         env:
           DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
         run: |
-          cat <<EOF > script.py
-
+          echo "import json" > script.py
+          echo "import os" >> script.py
+          echo "from pathlib import Path" >> script.py
+          echo "" >> script.py
+          echo "# Load the listings" >> script.py
+          echo "listings_path = Path('job-listings/.github/scripts/listings.json')" >> script.py
+          echo "with listings_path.open() as f:" >> script.py
+          echo "    listings = json.load(f)" >> script.py
+          echo "" >> script.py
+          echo "# Process each listing" >> script.py
+          echo "for listing in listings:" >> script.py
+          echo "    company_name = listing['company_name']" >> script.py
+          echo "    title = listing['title']" >> script.py
+          echo "    locations = ', '.join(listing['locations'])" >> script.py
+          echo "    url = listing['url']" >> script.py
+          echo "    message = f'{company_name}: {title} in {locations} - [Apply Here]({url})'" >> script.py
+          echo "    print(f'Sending message: {message}')" >> script.py
+          echo "    os.system(f'curl -H \\"Content-Type: application/json\\" -X POST -d \\"{{\\"content\\": \\"{message}\\"}}\\" {os.getenv('DISCORD_WEBHOOK')}')" >> script.py
+          python script.py
