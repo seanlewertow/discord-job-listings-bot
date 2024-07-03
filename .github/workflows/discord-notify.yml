@@ -19,28 +19,36 @@ jobs:
           repository: SimplifyJobs/Summer2025-Internships # Public repository with job listings
           path: job-listings
 
-      - name: Extract job listings
-        id: extract_jobs
-        run: |
-          listings=$(cat job-listings/.github/scripts/listings.json)
-          listings="${listings//'%'/'%25'}"
-          listings="${listings//$'\n'/ }"
-          echo "::set-output name=listings::$listings"
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.x'
 
-      - name: Send to Discord
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install jq
+
+      - name: Extract and Send job listings
         env:
           DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
         run: |
-          listings="${{ steps.extract_jobs.outputs.listings }}"
-          echo "Listings: $listings"
-          formatted_listings=$(echo "$listings" | jq -r '.[] | "\(.company_name): \(.title) in \(.locations | join(", ")) - [Apply Here](\(.url))"')
-          if [[ -z "$formatted_listings" || "$formatted_listings" == "[]" ]]; then
-            message="No new job listings available."
-          else
-            message="$formatted_listings"
-          fi
-          echo "Message: $message"
-          curl -H "Content-Type: application/json" \
-               -X POST \
-               -d "{\"content\": \"$message\"}" \
-               $DISCORD_WEBHOOK
+          python -c "
+import json
+from pathlib import Path
+
+# Load the listings
+listings_path = Path('job-listings/.github/scripts/listings.json')
+with listings_path.open() as f:
+    listings = json.load(f)
+
+# Process each listing
+for listing in listings:
+    company_name = listing['company_name']
+    title = listing['title']
+    locations = ', '.join(listing['locations'])
+    url = listing['url']
+    message = f'{company_name}: {title} in {locations} - [Apply Here]({url})'
+    print(f'Sending message: {message}')
+    os.system(f'curl -H \\"Content-Type: application/json\\" -X POST -d \\"{{\\"content\\": \\"{message}\\"}}\\" {os.getenv('DISCORD_WEBHOOK')}')
+"
