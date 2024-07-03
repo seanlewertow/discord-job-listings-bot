@@ -33,22 +33,35 @@ jobs:
         env:
           DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
         run: |
-          echo "import json" > script.py
-          echo "import os" >> script.py
-          echo "from pathlib import Path" >> script.py
-          echo "" >> script.py
-          echo "# Load the listings" >> script.py
-          echo "listings_path = Path('job-listings/.github/scripts/listings.json')" >> script.py
-          echo "with listings_path.open() as f:" >> script.py
-          echo "    listings = json.load(f)" >> script.py
-          echo "" >> script.py
-          echo "# Process each listing" >> script.py
-          echo "for listing in listings:" >> script.py
-          echo "    company_name = listing['company_name']" >> script.py
-          echo "    title = listing['title']" >> script.py
-          echo "    locations = ', '.join(listing['locations'])" >> script.py
-          echo "    url = listing['url']" >> script.py
-          echo "    message = f'{company_name}: {title} in {locations} - [Apply Here]({url})'" >> script.py
-          echo "    print(f'Sending message: {message}')" >> script.py
-          echo "    os.system(f'curl -H \\"Content-Type: application/json\\" -X POST -d \\"{{\\"content\\": \\"{message}\\"}}\\" {os.getenv('DISCORD_WEBHOOK')}')" >> script.py
+          cat << 'EOF' > script.py
+          import json
+          import os
+          from pathlib import Path
+
+          # Load the listings
+          listings_path = Path('job-listings/.github/scripts/listings.json')
+          with listings_path.open() as f:
+              listings = json.load(f)
+
+          # Sort listings by date_posted in descending order and get the last 5 listings
+          sorted_listings = sorted(listings, key=lambda x: x['date_posted'], reverse=True)[:5]
+
+          # Process each listing
+          messages = []
+          for listing in sorted_listings:
+              company_name = listing['company_name']
+              title = listing['title']
+              locations = ', '.join(listing['locations'])
+              url = listing['url']
+              message = f'{company_name}: {title} in {locations} - [Apply Here]({url})'
+              print(f'Sending message: {message}')
+              os.system(f'curl -H "Content-Type: application/json" -X POST -d "{{\\"content\\": \\"{message}\\"}}" {os.getenv("DISCORD_WEBHOOK")}')
+              messages.append(message)
+
+          # Output the extracted and sent messages
+          print("\n--- Extracted Listings ---")
+          for msg in messages:
+              print(msg)
+          
+          EOF
           python script.py
