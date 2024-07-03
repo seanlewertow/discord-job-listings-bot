@@ -1,0 +1,35 @@
+name: Notify Discord
+
+on:
+  schedule:
+    - cron: '0 12 * * *' # Runs daily at 12:00 UTC
+  push:
+    branches:
+      - main
+
+jobs:
+  notify:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout job listings repository
+        uses: actions/checkout@v2
+        with:
+          repository: SimplifyJobs/Summer2025-Internships # Public repository with job listings
+          path: job-listings
+
+      - name: Extract job listings
+        id: extract_jobs
+        run: |
+          jobs=$(cat job-listings/.github/scripts/listings.json) # Path to the job listings file
+          echo "::set-output name=jobs::$jobs"
+
+      - name: Send to Discord
+        env:
+          DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
+        run: |
+          jobs="${{ steps.extract_jobs.outputs.jobs }}"
+          curl -H "Content-Type: application/json" \
+               -X POST \
+               -d "{\"content\": \"$jobs\"}" \
+               $DISCORD_WEBHOOK
