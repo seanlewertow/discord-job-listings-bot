@@ -1,12 +1,9 @@
-name: Notify Discord
+name: Notify on New Job Listing
 
 on:
-  schedule:
-    - cron: '0 12 * * *' # Runs daily at 12:00 UTC
-  workflow_dispatch: # Allows manual triggering of the workflow
   push:
-    branches:
-      - main
+    paths:
+      - 'job-listings/.github/scripts/listings.json'
 
 jobs:
   notify:
@@ -15,9 +12,6 @@ jobs:
     steps:
       - name: Checkout job listings repository
         uses: actions/checkout@v2
-        with:
-          repository: SimplifyJobs/Summer2025-Internships # Public repository with job listings
-          path: job-listings
 
       - name: Set up Python
         uses: actions/setup-python@v2
@@ -27,41 +21,51 @@ jobs:
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install jq
 
       - name: Extract and Send job listings
         env:
           DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
         run: |
-          cat << 'EOF' > script.py
-          import json
-          import os
-          from pathlib import Path
+          cat <<EOF > script.py
+import json
+import os
+from pathlib import Path
+from datetime import datetime
 
-          # Load the listings
-          listings_path = Path('job-listings/.github/scripts/listings.json')
-          with listings_path.open() as f:
-              listings = json.load(f)
+def setOutput(key, value):
+    if output := os.getenv('GITHUB_OUTPUT', None):
+        with open(output, 'a') as fh:
+            print(f'{key}={value}', file=fh)
 
-          # Sort listings by date_posted in descending order and get the last 5 listings
-          sorted_listings = sorted(listings, key=lambda x: x['date_posted'], reverse=True)[:5]
+def send_to_discord(listing):
+    message = f"**Company**: {listing['company_name']}\n**Role**: {listing['title']}\n**Location**: {', '.join(listing['locations'])}\n**Application/Link**: [Apply Here]({listing['url']})\n**Date Posted**: {datetime.fromtimestamp(listing['date_posted']).strftime('%b %d, %Y')}\n**Terms**: {', '.join(listing['terms'])}"
+    payload = {
+        "content": message
+    }
+    webhook_url = os.getenv('DISCORD_WEBHOOK')
+    response = os.system(f"curl -H 'Content-Type: application/json' -X POST -d '{json.dumps(payload)}' {webhook_url}")
+    print(f"Sent message to Discord: {message}")
+    return response
 
-          # Process each listing
-          messages = []
-          for listing in sorted_listings:
-              company_name = listing['company_name']
-              title = listing['title']
-              locations = ', '.join(listing['locations'])
-              url = listing['url']
-              message = f'{company_name}: {title} in {locations} - [Apply Here]({url})'
-              print(f'Sending message: {message}')
-              os.system(f'curl -H "Content-Type: application/json" -X POST -d "{{\\"content\\": \\"{message}\\"}}" {os.getenv("DISCORD_WEBHOOK")}')
-              messages.append(message)
+def main():
+    listings_path = Path('job-listings/.github/scripts/listings.json')
+    last_id_path = Path('.github/scripts/last_listing_id.txt')
+    
+    if not last_id_path.exists():
+        last_id_path.write_text("0")
+    
+    with listings_path.open() as f:
+        listings = json.load(f)
+    
+    last_id = last_id_path.read_text().strip()
+    new_listing = next((listing for listing in sorted(listings, key=lambda x: x['id']) if listing['id'] > last_id), None)
+    
+    if new_listing:
+        send_to_discord(new_listing)
+        last_id_path.write_text(new_listing['id'])
 
-          # Output the extracted and sent messages
-          print("\n--- Extracted Listings ---")
-          for msg in messages:
-              print(msg)
-          
-          EOF
+if __name__ == "__main__":
+    main()
+EOF
+
           python script.py
