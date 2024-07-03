@@ -4,6 +4,7 @@ on:
   push:
     paths:
       - 'job-listings/.github/scripts/listings.json'
+  workflow_dispatch:
 
 jobs:
   notify:
