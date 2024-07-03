@@ -35,6 +35,7 @@ jobs:
         run: |
           python -c "
 import json
+import os
 from pathlib import Path
 
 # Load the listings
