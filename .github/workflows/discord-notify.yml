@@ -23,6 +23,7 @@ jobs:
         id: extract_jobs
         run: |
           listings=$(cat job-listings/.github/scripts/listings.json)
+          echo "$listings"
           echo "::set-output name=listings::$listings"
 
       - name: Send to Discord
@@ -36,6 +37,7 @@ jobs:
           else
             message="$formatted_listings"
           fi
+          echo "Message: $message"
           curl -H "Content-Type: application/json" \
                -X POST \
                -d "{\"content\": \"$message\"}" \
