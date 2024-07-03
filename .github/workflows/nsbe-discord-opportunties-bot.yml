@@ -1,84 +1,77 @@
-name: Notify
+name: Extract and Send job listings
 
 on:
   push:
     paths:
       - 'job-listings/.github/scripts/listings.json'
+  workflow_dispatch:
 
 jobs:
-  notify:
+  build:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Checkout job listings repository
-      uses: actions/checkout@v2
-      with:
-        repository: SimplifyJobs/Summer2025-Internships
-        path: job-listings
+      - name: Checkout job listings repository
+        uses: actions/checkout@v2
 
-    - name: Set up Python
-      uses: actions/setup-python@v2
-      with:
-        python-version: '3.x'
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.x'
 
-    - name: Install dependencies
-      run: |
-        python -m pip install --upgrade pip
-        pip install jq
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install jq
 
-    - name: Extract and Send job listings
-      env:
-        DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
-      run: |
-        cat << 'EOF' > script.py
-        import json
-        import os
-        from pathlib import Path
-        from datetime import datetime
+      - name: Extract and Send job listings
+        env:
+          DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
+        run: |
+          cat << 'EOF' > script.py
+          import json
+          import os
+          from pathlib import Path
 
-        def setOutput(key, value):
-            if output := os.getenv('GITHUB_OUTPUT', None):
-                with open(output, 'a') as fh:
-                    print(f'{key}={value}', file=fh)
+          # Load the listings
+          listings_path = Path('job-listings/.github/scripts/listings.json')
+          last_id_path = Path('job-listings/.github/scripts/last_listing_id.txt')
+          
+          with listings_path.open() as f:
+              listings = json.load(f)
 
-        def send_to_discord(listing):
-            message = f"**Company**: {listing['company_name']}\n**Role**: {listing['title']}\n**Location**: {', '.join(listing['locations'])}\n**Application/Link**: [Apply Here]({listing['url']})\n**Date Posted**: {datetime.fromtimestamp(listing['date_posted']).strftime('%b %d, %Y')}\n**Terms**: {', '.join(listing['terms'])}"
-            payload = {
-                "content": message
-            }
-            webhook_url = os.getenv('DISCORD_WEBHOOK')
-            response = os.system(f"curl -H 'Content-Type: application/json' -X POST -d '{json.dumps(payload)}' {webhook_url}")
-            print(f"Sent message to Discord: {message}")
-            return response
+          # Sort listings by date_posted in descending order
+          sorted_listings = sorted(listings, key=lambda x: x['date_posted'], reverse=True)
 
-        def main():
-            listings_path = Path('job-listings/.github/scripts/listings.json')
-            last_id_path = Path('.github/scripts/last_listing_id.txt')
-            
-            # Ensure the directory exists
-            last_id_path.parent.mkdir(parents=True, exist_ok=True)
+          # Load the last processed listing ID
+          with last_id_path.open() as f:
+              last_id = int(f.read().strip())
 
-            # Create the file if it doesn't exist and write "0"
-            if not last_id_path.exists():
-                last_id_path.write_text("0")
-            
-            with listings_path.open() as f:
-                listings = json.load(f)
-            
-            last_id = last_id_path.read_text().strip()
-            new_listing = next((listing for listing in sorted(listings, key=lambda x: x['id']) if listing['id'] > last_id), None)
-            
-            if new_listing:
-                send_to_discord(new_listing)
-                last_id_path.write_text(new_listing['id'])
+          # Find the new listings since the last processed ID
+          new_listings = [listing for listing in sorted_listings if listing['date_posted'] > last_id]
 
-        if __name__ == "__main__":
-            main()
-        EOF
-        python script.py
+          # Process each new listing
+          messages = []
+          for listing in new_listings:
+              company_name = listing['company_name']
+              title = listing['title']
+              locations = ', '.join(listing['locations'])
+              url = listing['url']
+              date_posted = listing['date_posted']
+              terms = ', '.join(listing['terms'])
+              message = f"**Company**: {company_name}\n**Role**: {title}\n**Location**: {locations}\n**Application/Link**: [Apply Here]({url})\n**Date Posted**: {date_posted}\n**Term**: {terms}"
+              print(f'Sending message: {message}')
+              os.system(f'curl -H "Content-Type: application/json" -X POST -d "{{\\"content\\": \\"{message}\\"}}" {os.getenv("DISCORD_WEBHOOK")}')
+              messages.append(message)
+          
+          # Update the last processed listing ID
+          if new_listings:
+              last_id_path.write_text(str(new_listings[0]['date_posted']))
 
-    - name: Post Checkout job listings repository
-      run: echo "Post checkout step"
-
-    - name: Complete job
-      run: echo "Complete job"
+          # Output the extracted and sent messages
+          print("\n--- Extracted Listings ---")
+          for msg in messages:
+              print(msg)
+          
+          EOF
+          python script.py
