@@ -1,7 +1,7 @@
-name: Notify Discord - Internships
+name: Notify Discord
 
 on:
-  workflow_dispatch: # Allows manual triggering of the workflow
+  workflow_dispatch:
   push:
     branches:
       - main
@@ -48,73 +48,72 @@ jobs:
           from pathlib import Path
           import requests
 
-          # Load the listings from job listings repository
-          job_listings_path = Path('job-listings/.github/scripts/listings.json')
-          
-          with job_listings_path.open() as f:
-              job_listings = json.load(f)
+          # Load the listings
+          listings_path = Path('job-listings/.github/scripts/listings.json')
+          with listings_path.open() as f:
+              listings = json.load(f)
 
-          # Load the last sent listing for internships
-          last_sent_path = Path('personal-repo/.github/data/last_sent_internship_listing.json')
-
+          # Load the last sent listing
+          last_sent_path = Path('personal-repo/.github/data/last_sent_listing.json') # Updated directory
           if last_sent_path.exists():
               with last_sent_path.open() as f:
-                  last_sent_internship_listing = json.load(f)
+                  last_sent_listing = json.load(f)
           else:
-              last_sent_internship_listing = {}
+              last_sent_listing = {}
 
-          # Get the most recent internship listing (the last one in the JSON file)
-          recent_job_listing = job_listings[-1]
+          # Get the most recent listing (the last one in the JSON file)
+          recent_listing = listings[-1]
 
           # Debug: Print recent and last sent listings
-          print(f"Recent Job Listing ID: {recent_job_listing['id']}")
-          print(f"Last Sent Job Listing ID: {last_sent_internship_listing.get('id')}")
+          print(f"Recent Listing ID: {recent_listing['id']}")
+          print(f"Last Sent Listing ID: {last_sent_listing.get('id')}")
 
           # Check if the recent listing was already sent
-          job_listing_message = ""
-          if recent_job_listing['id'] != last_sent_internship_listing.get('id'):
-              # Extract job listing details
-              job_company_name = recent_job_listing['company_name']
-              job_title = recent_job_listing['title']
-              job_locations = ', '.join(recent_job_listing['locations'])
-              job_url = recent_job_listing['url']
-              job_date_posted = datetime.fromtimestamp(recent_job_listing['date_posted']).strftime('%Y-%m-%d')
-              job_term = ', '.join(recent_job_listing['terms'])
+          if recent_listing['id'] == last_sent_listing.get('id'):
+              print("No new listings to send.")
+              # Create a flag file to indicate no new listings
+              with open('no_new_listings.txt', 'w') as flag_file:
+                  flag_file.write('true')
+              exit(0)
 
-              # Format the message for job listing
-              job_listing_message = (
-                  f"**[INTERNSHIP]**\n"
-                  f"**Company:** {job_company_name}\n"
-                  f"**Role:** {job_title}\n"
-                  f"**Location:** {job_locations}\n"
-                  f"**Application/Link:** [Apply Here]({job_url})\n"
-                  f"**Date Posted:** {job_date_posted}\n"
-                  f"**Term:** {job_term}\n"
-                  "---------------------------"
-              )
+          # Extract listing details
+          company_name = recent_listing['company_name']
+          title = recent_listing['title']
+          locations = ', '.join(recent_listing['locations'])
+          url = recent_listing['url']
+          date_posted = datetime.fromtimestamp(recent_listing['date_posted']).strftime('%Y-%m-%d')
+          term = ', '.join(recent_listing['terms'])
 
-              # Send the message to Discord
-              response = requests.post(
-                  os.getenv('DISCORD_WEBHOOK'),
-                  json={'content': job_listing_message}
-              )
+          # Format the message
+          message = (
+              f"**Company:** {company_name}\n"
+              f"**Role:** {title}\n"
+              f"**Location:** {locations}\n"
+              f"**Application/Link:** [Apply Here]({url})\n"
+              f"**Date Posted:** {date_posted}\n"
+              f"**Term:** {term}\n"
+              "---------------------------"
+          )
 
-              # Raise an error if the request failed
-              response.raise_for_status()
+          # Send the message to Discord
+          response = requests.post(
+              os.getenv('DISCORD_WEBHOOK'),
+              json={'content': message}
+          )
 
-              # Output the sent message
-              print("\n--- Sent Job Listing ---")
-              print(job_listing_message)
+          # Raise an error if the request failed
+          response.raise_for_status()
 
-              # Update last sent job listing file
-              with last_sent_path.open('w') as f:
-                  json.dump(recent_job_listing, f, indent=2)
+          # Output the sent message
+          print("\n--- Sent Listing ---")
+          print(message)
+
+          # Update last sent listing file
+          with last_sent_path.open('w') as f:
+              json.dump(recent_listing, f, indent=2)
 
           # Prepare commit message
-          commit_message = ""
-          if job_listing_message:
-              commit_message += f"Update last sent job listing: {recent_job_listing['title']}"
-
+          commit_message = f"Update last sent listing: {title}"
           print(f"\n--- Commit Message ---\n{commit_message}")
           EOF
           python script.py
@@ -134,6 +133,6 @@ jobs:
           cd personal-repo
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-          git add .github/data/last_sent_internship_listing.json
-          git commit -m "Update last sent listings"
+          git add .github/data/last_sent_listing.json
+          git commit -m "Update last sent listing"
           git push
