@@ -1,4 +1,4 @@
-name: Notify Discord
+name: Notify Discord - Internships
 
 on:
   workflow_dispatch:
@@ -54,22 +54,22 @@ jobs:
               listings = json.load(f)
 
           # Load the last sent listing
-          last_sent_path = Path('personal-repo/.github/data/last_sent_listing.json') # Updated directory
+          last_sent_path = Path('personal-repo/.github/data/last_sent_internship_listing.json') # Updated directory
           if last_sent_path.exists():
               with last_sent_path.open() as f:
-                  last_sent_listing = json.load(f)
+                  last_sent_internship_listing = json.load(f)
           else:
-              last_sent_listing = {}
+              last_sent_internship_listing = {}
 
           # Get the most recent listing (the last one in the JSON file)
           recent_listing = listings[-1]
 
           # Debug: Print recent and last sent listings
           print(f"Recent Listing ID: {recent_listing['id']}")
-          print(f"Last Sent Listing ID: {last_sent_listing.get('id')}")
+          print(f"Last Sent Listing ID: {last_sent_internship_listing.get('id')}")
 
           # Check if the recent listing was already sent
-          if recent_listing['id'] == last_sent_listing.get('id'):
+          if recent_listing['id'] == last_sent_internship_listing.get('id'):
               print("No new listings to send.")
               # Create a flag file to indicate no new listings
               with open('no_new_listings.txt', 'w') as flag_file:
@@ -133,6 +133,6 @@ jobs:
           cd personal-repo
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-          git add .github/data/last_sent_listing.json
+          git add .github/data/last_sent_internship_listing.json
           git commit -m "Update last sent listing"
           git push
