@@ -5,6 +5,8 @@ on:
     - cron: '0 12 * * *' # Runs daily at 12:00 UTC
   workflow_dispatch: # Allows manual triggering of the workflow
   push:
+    paths:
+      - 'job-listings/.github/scripts/listings.json' # Triggers only when listings.json is updated
     branches:
       - main
 
@@ -36,6 +38,7 @@ jobs:
           cat << 'EOF' > script.py
           import json
           import os
+          from datetime import datetime
           from pathlib import Path
 
           # Load the listings
@@ -43,25 +46,33 @@ jobs:
           with listings_path.open() as f:
               listings = json.load(f)
 
-          # Sort listings by date_posted in descending order and get the last 5 listings
-          sorted_listings = sorted(listings, key=lambda x: x['date_posted'], reverse=True)[:5]
+          # Get the most recent listing (the last one in the JSON file)
+          recent_listing = listings[-1]
 
-          # Process each listing
-          messages = []
-          for listing in sorted_listings:
-              company_name = listing['company_name']
-              title = listing['title']
-              locations = ', '.join(listing['locations'])
-              url = listing['url']
-              message = f'{company_name}: {title} in {locations} - [Apply Here]({url})'
-              print(f'Sending message: {message}')
-              os.system(f'curl -H "Content-Type: application/json" -X POST -d "{{\\"content\\": \\"{message}\\"}}" {os.getenv("DISCORD_WEBHOOK")}')
-              messages.append(message)
+          # Extract listing details
+          company_name = recent_listing['company_name']
+          title = recent_listing['title']
+          locations = ', '.join(recent_listing['locations'])
+          url = recent_listing['url']
+          date_posted = datetime.fromtimestamp(recent_listing['date_posted']).strftime('%Y-%m-%d')
+          terms = ', '.join(recent_listing['terms'])
 
-          # Output the extracted and sent messages
-          print("\n--- Extracted Listings ---")
-          for msg in messages:
-              print(msg)
-          
+          # Format the message
+          message = (
+              f"**Company:** {company_name}\n"
+              f"**Role:** {title}\n"
+              f"**Location:** {locations}\n"
+              f"**Application/Link:** [Apply Here]({url})\n"
+              f"**Date Posted:** {date_posted}\n"
+              f"**Terms:** {terms}\n"
+              "---------------------------"
+          )
+
+          # Send the message to Discord
+          os.system(f'curl -H "Content-Type: application/json" -X POST -d "{{\\"content\\": \\"{message}\\"}}" {os.getenv("DISCORD_WEBHOOK")}')
+
+          # Output the sent message
+          print("\n--- Sent Listing ---")
+          print(message)
           EOF
           python script.py
