@@ -4,7 +4,7 @@ on:
   push:
     paths:
       - 'Summer2025-Internships/.github/scripts/listings.json' # Only run when listings.json is edited
-      - 'discord-job-listings-bot/.github/workflows/nsbe-discord-opportunities-bot.yml' # Only run when the nsbe-discord-opportunities-bot.yml is edited
+      - '.github/workflows/nsbe-discord-opportunities-bot.yml' # Only run when the nsbe-discord-opportunities-bot.yml is edited
   workflow_dispatch: # Allows manual triggering of the workflow
 
 jobs:
@@ -16,6 +16,7 @@ jobs:
         uses: actions/checkout@v2
         with:
           repository: SimplifyJobs/Summer2025-Internships # Public repository with job listings
+          ref: dev # Ensure the correct branch is checked out
           path: job-listings
 
       - name: Checkout bot repository
@@ -43,7 +44,7 @@ jobs:
           import requests
 
           # Load the listings
-          listings_path = Path('Summer2025-Internships/.github/scripts/listings.json')
+          listings_path = Path('job-listings/.github/scripts/listings.json')
           with listings_path.open() as f:
               listings = json.load(f)
 
@@ -54,7 +55,7 @@ jobs:
           recent_listing_id = recent_listing['id']
 
           # Load the last sent listing ID from last_listing.json
-          last_listing_path = Path('discord-job-listings-bot/.github/workflows/last_listing.json')
+          last_listing_path = Path('.github/workflows/last_listing.json')
           if last_listing_path.exists():
               with last_listing_path.open() as f:
                   last_sent_listing = json.load(f)
