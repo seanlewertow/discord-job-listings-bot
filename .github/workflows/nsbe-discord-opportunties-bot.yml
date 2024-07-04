@@ -7,7 +7,7 @@ on:
   push:
     paths:
       - 'job-listings/.github/scripts/listings.json' # Triggers only when listings.json is updated
-    branches:
+      branches:
       - main
 
 jobs:
@@ -29,7 +29,7 @@ jobs:
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install jq
+          pip install jq requests
 
       - name: Extract and Send job listings
         env:
@@ -39,6 +39,7 @@ jobs:
           import json
           import os
           from datetime import datetime
+          import requests
           from pathlib import Path
 
           # Load the listings
@@ -46,33 +47,56 @@ jobs:
           with listings_path.open() as f:
               listings = json.load(f)
 
-          # Get the most recent listing (the last one in the JSON file)
-          recent_listing = listings[-1]
+          # Load sent listing IDs from the environment variable
+          sent_listing_ids = os.getenv('SENT_LISTINGS', '').split(',')
+          sent_listing_ids = [x for x in sent_listing_ids if x]  # Remove empty strings
 
-          # Extract listing details
-          company_name = recent_listing['company_name']
-          title = recent_listing['title']
-          locations = ', '.join(recent_listing['locations'])
-          url = recent_listing['url']
-          date_posted = datetime.fromtimestamp(recent_listing['date_posted']).strftime('%Y-%m-%d')
-          terms = ', '.join(recent_listing['terms'])
+          # Get new listings that haven't been sent before
+          new_listings = [listing for listing in listings if listing['id'] not in sent_listing_ids]
 
-          # Format the message
-          message = (
-              f"**Company:** {company_name}\n"
-              f"**Role:** {title}\n"
-              f"**Location:** {locations}\n"
-              f"**Application/Link:** [Apply Here]({url})\n"
-              f"**Date Posted:** {date_posted}\n"
-              f"**Terms:** {terms}\n"
-              "---------------------------"
-          )
+          for recent_listing in new_listings:
+              # Extract listing details
+              company_name = recent_listing['company_name']
+              title = recent_listing['title']
+              locations = ', '.join(recent_listing['locations'])
+              url = recent_listing['url']
+              date_posted = datetime.fromtimestamp(recent_listing['date_posted']).strftime('%Y-%m-%d')
+              terms = ', '.join(recent_listing['terms'])
 
-          # Send the message to Discord
-          os.system(f'curl -H "Content-Type: application/json" -X POST -d "{{\\"content\\": \\"{message}\\"}}" {os.getenv("DISCORD_WEBHOOK")}')
+              # Format the message
+              message = (
+                  f"**Company:** {company_name}\n"
+                  f"**Role:** {title}\n"
+                  f"**Location:** {locations}\n"
+                  f"**Application/Link:** [Apply Here]({url})\n"
+                  f"**Date Posted:** {date_posted}\n"
+                  f"**Terms:** {terms}\n"
+                  "---------------------------"
+              )
 
-          # Output the sent message
-          print("\n--- Sent Listing ---")
-          print(message)
+              # Send the message to Discord
+              response = requests.post(
+                  os.getenv('DISCORD_WEBHOOK'),
+                  json={'content': message}
+              )
+
+              # Raise an error if the request failed
+              response.raise_for_status()
+
+              # Output the sent message
+              print("\n--- Sent Listing ---")
+              print(message)
+
+              # Append the listing ID to the sent listing IDs
+              sent_listing_ids.append(recent_listing['id'])
+
+          # Save the updated list of sent listing IDs
+          new_sent_listing_ids = ','.join(sent_listing_ids)
+          print(f"::set-output name=sent_listings::{new_sent_listing_ids}")
+
           EOF
           python script.py
+
+      - name: Persist sent listings
+        if: success()
+        run: echo "SENT_LISTINGS=${{ steps.extract_and_send.outputs.sent_listings }}" >> $GITHUB_ENV
