@@ -1,26 +1,23 @@
-name: Extract and Send job listings
+name: Notify Discord
 
 on:
+  schedule:
+    - cron: '0 12 * * *' # Runs daily at 12:00 UTC
+  workflow_dispatch: # Allows manual triggering of the workflow
   push:
     paths:
-      - 'job-listings/.github/scripts/listings.json'
-  workflow_dispatch:
+      - 'job-listings/.github/scripts/listings.json' # Triggers only when listings.json is updated
 
 jobs:
-  build:
+  notify:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout Simplify repository
+      - name: Checkout job listings repository
         uses: actions/checkout@v2
         with:
-          repository: 'SimplifyJobs/Summer2025-Internships'
-          path: 'simplify-repo'
-
-      - name: Checkout discord bot repository
-        uses: actions/checkout@v2
-        with:
-          path: 'discord-bot-repo'
+          repository: SimplifyJobs/Summer2025-Internships # Public repository with job listings
+          path: job-listings
 
       - name: Set up Python
         uses: actions/setup-python@v2
@@ -36,50 +33,44 @@ jobs:
         env:
           DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
         run: |
-          cat << 'EOF' > discord-bot-repo/.github/scripts/script.py
+          cat << 'EOF' > script.py
           import json
           import os
+          from datetime import datetime
           from pathlib import Path
 
           # Load the listings
-          listings_path = Path('simplify-repo/job-listings/.github/scripts/listings.json')
-          last_id_path = Path('discord-bot-repo/.github/scripts/last_listing_id.txt')
-          
+          listings_path = Path('job-listings/.github/scripts/listings.json')
           with listings_path.open() as f:
               listings = json.load(f)
 
-          # Sort listings by date_posted in descending order
-          sorted_listings = sorted(listings, key=lambda x: x['date_posted'], reverse=True)
+          # Get the most recent listing (the last one in the JSON file)
+          recent_listing = listings[-1]
 
-          # Load the last processed listing ID
-          with last_id_path.open() as f:
-              last_id = int(f.read().strip())
+          # Extract listing details
+          company_name = recent_listing['company_name']
+          title = recent_listing['title']
+          locations = ', '.join(recent_listing['locations'])
+          url = recent_listing['url']
+          date_posted = datetime.fromtimestamp(recent_listing['date_posted']).strftime('%Y-%m-%d')
+          terms = ', '.join(recent_listing['terms'])
 
-          # Find the new listings since the last processed ID
-          new_listings = [listing for listing in sorted_listings if listing['date_posted'] > last_id]
+          # Format the message
+          message = (
+              f"**Company:** {company_name}\n"
+              f"**Role:** {title}\n"
+              f"**Location:** {locations}\n"
+              f"**Application/Link:** [Apply Here]({url})\n"
+              f"**Date Posted:** {date_posted}\n"
+              f"**Terms:** {terms}\n"
+              "---------------------------"
+          )
 
-          # Process each new listing
-          messages = []
-          for listing in new_listings:
-              company_name = listing['company_name']
-              title = listing['title']
-              locations = ', '.join(listing['locations'])
-              url = listing['url']
-              date_posted = listing['date_posted']
-              terms = ', '.join(listing['terms'])
-              message = f"**Company**: {company_name}\n**Role**: {title}\n**Location**: {locations}\n**Application/Link**: [Apply Here]({url})\n**Date Posted**: {date_posted}\n**Term**: {terms}"
-              print(f'Sending message: {message}')
-              os.system(f'curl -H "Content-Type: application/json" -X POST -d "{{\\"content\\": \\"{message}\\"}}" {os.getenv("DISCORD_WEBHOOK")}')
-              messages.append(message)
-          
-          # Update the last processed listing ID
-          if new_listings:
-              last_id_path.write_text(str(new_listings[0]['date_posted']))
+          # Send the message to Discord
+          os.system(f'curl -H "Content-Type: application/json" -X POST -d "{{\\"content\\": \\"{message}\\"}}" {os.getenv("DISCORD_WEBHOOK")}')
 
-          # Output the extracted and sent messages
-          print("\n--- Extracted Listings ---")
-          for msg in messages:
-              print(msg)
-          
+          # Output the sent message
+          print("\n--- Sent Listing ---")
+          print(message)
           EOF
-          python discord-bot-repo/.github/scripts/script.py
+          python script.py
