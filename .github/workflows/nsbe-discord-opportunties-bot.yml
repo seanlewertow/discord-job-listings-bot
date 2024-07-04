@@ -19,6 +19,12 @@ jobs:
           repository: SimplifyJobs/Summer2025-Internships # Public repository with job listings
           path: job-listings
 
+      - name: Checkout personal repository
+        uses: actions/checkout@v2
+        with:
+          repository: seanlewertow/discord-job-listings-bot # Replace with your GitHub username and repository name
+          path: personal-repo
+
       - name: Set up Python
         uses: actions/setup-python@v2
         with:
@@ -40,13 +46,24 @@ jobs:
           from pathlib import Path
           import requests
 
-          # Load the listings
+          # Paths to the listings and log files
           listings_path = Path('job-listings/.github/scripts/listings.json')
+          last_sent_path = Path('personal-repo/.github/workflows/last_sent_listing.json')
+
+          # Load the listings
           with listings_path.open() as f:
               listings = json.load(f)
 
           # Get the most recent listing (the last one in the JSON file)
           recent_listing = listings[-1]
+
+          # Check if the recent listing was already sent
+          if last_sent_path.exists():
+              with last_sent_path.open() as f:
+                  last_sent_listing = json.load(f)
+              if recent_listing['id'] == last_sent_listing['id']:
+                  print("No new listings to send.")
+                  exit(0)
 
           # Extract listing details
           company_name = recent_listing['company_name']
@@ -54,7 +71,7 @@ jobs:
           locations = ', '.join(recent_listing['locations'])
           url = recent_listing['url']
           date_posted = datetime.fromtimestamp(recent_listing['date_posted']).strftime('%Y-%m-%d')
-          term = ', '.join(recent_listing['term'])
+          term = recent_listing['term']
 
           # Format the message
           message = (
@@ -80,9 +97,24 @@ jobs:
           print("\n--- Sent Listing ---")
           print(message)
 
+          # Update the last sent listing log
+          with last_sent_path.open('w') as f:
+              json.dump(recent_listing, f)
+
           # Commit message for the listings
           commit_message = f"Updated listing sent to Discord: {title}"
           print(f"\n--- Commit Message ---\n{commit_message}")
 
           EOF
           python script.py
+
+      - name: Commit and push last sent listing to personal repository
+        env:
+          GITHUB_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
+        run: |
+          cd personal-repo
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add last_sent_listing.json
+          git commit -m "Update last sent listing"
+          git push origin main
