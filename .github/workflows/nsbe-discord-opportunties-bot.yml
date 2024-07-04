@@ -1,7 +1,7 @@
 name: Notify Discord
 
 on:
-  workflow_dispatch: # Allows manual triggering of the workflow
+  workflow_dispatch:
   push:
     branches:
       - main
@@ -16,13 +16,13 @@ jobs:
       - name: Checkout job listings repository
         uses: actions/checkout@v2
         with:
-          repository: SimplifyJobs/Summer2025-Internships # Public repository with job listings
+          repository: SimplifyJobs/Summer2025-Internships
           path: job-listings
 
       - name: Checkout personal repository
         uses: actions/checkout@v2
         with:
-          repository: seanlewertow/discord-job-listings-bot # Your personal repository
+          repository: seanlewertow/discord-job-listings-bot
           path: personal-repo
           token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
 
