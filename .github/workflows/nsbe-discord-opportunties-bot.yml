@@ -1,15 +1,12 @@
 name: Notify Discord
 
 on:
-  schedule:
-    - cron: '0 12 * * *' # Runs daily at 12:00 UTC
-  workflow_dispatch: # Allows manual triggering of the workflow
   push:
-    branches:
-      - main
+    paths:
+      - '.github/workflows/nsbe-discord-opportunities-bot.yml' # Triggers when this workflow file is updated
 
 jobs:
-  notify:
+  sync_and_notify:
     runs-on: ubuntu-latest
 
     steps:
@@ -33,7 +30,7 @@ jobs:
           python -m pip install --upgrade pip
           pip install requests
 
-      - name: Extract and Send job listing
+      - name: Extract and Send job listings
         env:
           DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
         run: |
@@ -100,7 +97,7 @@ jobs:
                   f.write(title)
 
               # Commit message for the listings
-              commit_message = f"Updated last_sent.txt with the latest listing: {title}"
+              commit_message = f"Updated listing sent to Discord: {title}"
               print(f"\n--- Commit Message ---\n{commit_message}")
           else:
               print("No new listings to send.")
@@ -109,9 +106,11 @@ jobs:
           python script.py
 
       - name: Commit the last sent listing
+        env:
+          GH_PAT: ${{ secrets.GH_PAT }}
         run: |
           git config --global user.name "github-actions"
           git config --global user.email "github-actions@github.com"
           git add job-listings/.github/scripts/last_sent.txt
           git commit -m "Update last_sent.txt with the latest listing"
-          git push
+          git push https://x-access-token:${{ secrets.GH_PAT }}@github.com/${{ github.repository }}.git HEAD:main
