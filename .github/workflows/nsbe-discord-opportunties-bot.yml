@@ -4,7 +4,7 @@ on:
   push:
     paths:
       - '.github/workflows/nsbe-discord-opportunities-bot.yml' # Triggers when this workflow file is updated
-      - 'job-listings/.github/scripts/listings.json'
+      - 'job-listings/.github/scripts/listings.json' # Triggers when the listings.json file is updated
 
 jobs:
   sync_and_notify:
