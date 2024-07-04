@@ -102,8 +102,9 @@ jobs:
               job_date_posted = datetime.fromtimestamp(recent_job_listing['date_posted']).strftime('%Y-%m-%d')
               job_term = ', '.join(recent_job_listing['terms'])
 
-              # Format the message for job listing
+              # Format the message for job listing with label
               job_listing_message = (
+                  f"**[Internship]**\n"
                   f"**Company:** {job_company_name}\n"
                   f"**Role:** {job_title}\n"
                   f"**Location:** {job_locations}\n"
@@ -138,16 +139,15 @@ jobs:
               new_grad_locations = ', '.join(recent_new_grad_listing['locations'])
               new_grad_url = recent_new_grad_listing['url']
               new_grad_date_posted = datetime.fromtimestamp(recent_new_grad_listing['date_posted']).strftime('%Y-%m-%d')
-              new_grad_term = ', '.join(recent_new_grad_listing['terms'])
 
-              # Format the message for new grad listing
+              # Format the message for new grad listing with label
               new_grad_listing_message = (
+                  f"**[Full-Time]**\n"
                   f"**Company:** {new_grad_company_name}\n"
                   f"**Role:** {new_grad_title}\n"
                   f"**Location:** {new_grad_locations}\n"
                   f"**Application/Link:** [Apply Here]({new_grad_url})\n"
                   f"**Date Posted:** {new_grad_date_posted}\n"
-                  f"**Term:** {new_grad_term}\n"
                   "---------------------------"
               )
 
@@ -185,7 +185,7 @@ jobs:
         run: |
           if [ -f "no_new_listings.txt" ]; then
             echo "no_new_listings=true" >> $GITHUB_ENV
-          else:
+          else
             echo "no_new_listings=false" >> $GITHUB_ENV
           fi
 
