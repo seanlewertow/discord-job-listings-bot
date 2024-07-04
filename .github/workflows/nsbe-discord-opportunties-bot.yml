@@ -45,52 +45,43 @@ jobs:
           with listings_path.open() as f:
               listings = json.load(f)
 
-          # Sort listings by date_posted in descending order and get the last 5 listings
-          sorted_listings = sorted(listings, key=lambda x: x['date_posted'], reverse=True)[:5]
+          # Get the most recent listing (the last one in the JSON file)
+          recent_listing = listings[-1]
 
-          # Process each listing
-          messages = []
-          for listing in sorted_listings:
-              company_name = listing['company_name']
-              title = listing['title']
-              locations = ', '.join(listing['locations'])
-              url = listing['url']
-              date_posted = datetime.fromtimestamp(listing['date_posted']).strftime('%Y-%m-%d')
-              terms = ', '.join(listing['terms'])
-              
-              # Format the message
-              message = (
-                  f"**Company:** {company_name}\n"
-                  f"**Role:** {title}\n"
-                  f"**Location:** {locations}\n"
-                  f"**Application/Link:** [Apply Here]({url})\n"
-                  f"**Date Posted:** {date_posted}\n"
-                  f"**Terms:** {terms}\n"
-                  "---------------------------"
-              )
-              
-              # Send the message to Discord
-              response = requests.post(
-                  os.getenv('DISCORD_WEBHOOK'),
-                  json={'content': message}
-              )
+          # Extract listing details
+          company_name = recent_listing['company_name']
+          title = recent_listing['title']
+          locations = ', '.join(recent_listing['locations'])
+          url = recent_listing['url']
+          date_posted = datetime.fromtimestamp(recent_listing['date_posted']).strftime('%Y-%m-%d')
+          term = ', '.join(recent_listing['term'])
 
-              # Raise an error if the request failed
-              response.raise_for_status()
+          # Format the message
+          message = (
+              f"**Company:** {company_name}\n"
+              f"**Role:** {title}\n"
+              f"**Location:** {locations}\n"
+              f"**Application/Link:** [Apply Here]({url})\n"
+              f"**Date Posted:** {date_posted}\n"
+              f"**Term:** {term}\n"
+              "---------------------------"
+          )
 
-              # Output the sent message
-              print("\n--- Sent Listing ---")
-              print(message)
+          # Send the message to Discord
+          response = requests.post(
+              os.getenv('DISCORD_WEBHOOK'),
+              json={'content': message}
+          )
 
-              messages.append(message)
+          # Raise an error if the request failed
+          response.raise_for_status()
 
-          # Output the extracted and sent messages
-          print("\n--- Extracted Listings ---")
-          for msg in messages:
-              print(msg)
+          # Output the sent message
+          print("\n--- Sent Listing ---")
+          print(message)
 
           # Commit message for the listings
-          commit_message = "Updated listings sent to Discord:\n" + "\n".join([listing['title'] for listing in sorted_listings])
+          commit_message = f"Updated listing sent to Discord: {title}"
           print(f"\n--- Commit Message ---\n{commit_message}")
 
           EOF
