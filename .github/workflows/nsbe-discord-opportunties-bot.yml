@@ -1,13 +1,12 @@
 name: Notify Discord
 
 on:
-  schedule:
-    - cron: '0 12 * * *' # Runs daily at 12:00 UTC
   workflow_dispatch: # Allows manual triggering of the workflow
   push:
     branches:
       - main
-
+    paths:
+      - 'job-listings/.github/scripts/listings.json' # Triggers only when listings.json is updated
 jobs:
   notify:
     runs-on: ubuntu-latest
@@ -51,7 +50,6 @@ jobs:
           listings_path = Path('job-listings/.github/scripts/listings.json')
           with listings_path.open() as f:
               listings = json.load(f)
-          print(f"Listings loaded: {listings}")  # Debug: Print all listings loaded
 
           # Load the last sent listing
           last_sent_path = Path('personal-repo/.github/workflows/last_sent_listing.json')
@@ -60,30 +58,22 @@ jobs:
                   last_sent_listing = json.load(f)
           else:
               last_sent_listing = {}
-          print(f"Last sent listing: {last_sent_listing}")  # Debug: Print last sent listing
 
           # Get the most recent listing (the last one in the JSON file)
           recent_listing = listings[-1]
-          print(f"Most recent listing: {recent_listing}")  # Debug: Print most recent listing
 
           # Check if the recent listing was already sent
           if recent_listing['id'] == last_sent_listing.get('id'):
-              print("No new listings to send.")  # Debug: No new listings to send
+              print("No new listings to send.")
               exit(0)
 
           # Extract listing details
           company_name = recent_listing['company_name']
-          print(f"Company Name: {company_name}")  # Debug: Print company name
           title = recent_listing['title']
-          print(f"Title: {title}")  # Debug: Print title
           locations = ', '.join(recent_listing['locations'])
-          print(f"Locations: {locations}")  # Debug: Print locations
           url = recent_listing['url']
-          print(f"URL: {url}")  # Debug: Print URL
           date_posted = datetime.fromtimestamp(recent_listing['date_posted']).strftime('%Y-%m-%d')
-          print(f"Date Posted: {date_posted}")  # Debug: Print date posted
           term = ', '.join(recent_listing['terms'])
-          print(f"Term: {term}")  # Debug: Print term
 
           # Format the message
           message = (
@@ -95,14 +85,15 @@ jobs:
               f"**Term:** {term}\n"
               "---------------------------"
           )
-          print(f"Message: {message}")  # Debug: Print formatted message
 
           # Send the message to Discord
           response = requests.post(
               os.getenv('DISCORD_WEBHOOK'),
               json={'content': message}
           )
-          response.raise_for_status()  # Raise an error if the request failed
+
+          # Raise an error if the request failed
+          response.raise_for_status()
 
           # Output the sent message
           print("\n--- Sent Listing ---")
@@ -111,12 +102,10 @@ jobs:
           # Update last sent listing file
           with last_sent_path.open('w') as f:
               json.dump(recent_listing, f, indent=2)
-          print("Last sent listing file updated.")  # Debug: Confirm file update
 
           # Prepare commit message
           commit_message = f"Update last sent listing: {title}"
           print(f"\n--- Commit Message ---\n{commit_message}")
-
           EOF
           python script.py
 
