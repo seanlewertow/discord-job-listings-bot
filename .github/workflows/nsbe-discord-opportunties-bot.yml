@@ -70,7 +70,7 @@ jobs:
               f"**Location:** {locations}\n"
               f"**Application/Link:** [Apply Here]({url})\n"
               f"**Date Posted:** {date_posted}\n"
-              f"**Term:** {terms}\n"
+              f"**Term:** {term}\n"
               "---------------------------"
           )
 
