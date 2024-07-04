@@ -1,6 +1,7 @@
 name: Notify Discord
 
 on:
+  workflow_dispatch:
   push:
     paths:
       - '.github/workflows/nsbe-discord-opportunities-bot.yml' # Triggers when this workflow file is updated
