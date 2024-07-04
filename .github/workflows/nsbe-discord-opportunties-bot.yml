@@ -54,7 +54,7 @@ jobs:
           recent_listing_id = recent_listing['id']
 
           # Load the last sent listing ID from last_listing.json
-          last_listing_path = Path('.github/workflows/last_listing.json')
+          last_listing_path = Path('discord-job-listings-bot/.github/workflows/last_listing.json')
           if last_listing_path.exists():
               with last_listing_path.open() as f:
                   last_sent_listing = json.load(f)
