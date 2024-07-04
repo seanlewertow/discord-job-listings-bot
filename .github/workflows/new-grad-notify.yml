@@ -114,20 +114,25 @@ jobs:
               commit_message += f"Update last sent new grad listing: {recent_new_grad_listing['title']}"
 
           print(f"\n--- Commit Message ---\n{commit_message}")
+
+          # Create a flag file if there's nothing to commit
+          if not commit_message:
+              with open('no_new_listings.txt', 'w') as flag_file:
+                  flag_file.write('true')
           EOF
           python script.py
 
       - name: Check if there are new listings
         id: check_new_listings
         run: |
-          if [ -f "no_new_grad_listings.txt" ]; then
-            echo "no_new_grad_listings=true" >> $GITHUB_ENV
+          if [ -f "no_new_listings.txt" ]; then
+            echo "no_new_listings=true" >> $GITHUB_ENV
           else
-            echo "no_new_grad_listings=false" >> $GITHUB_ENV
+            echo "no_new_listings=false" >> $GITHUB_ENV
           fi
 
       - name: Commit and push last sent listing to personal repository
-        if: env.no_new_grad_listings == 'false'
+        if: env.no_new_listings == 'false'
         run: |
           cd personal-repo
           git config --global user.name 'github-actions[bot]'
