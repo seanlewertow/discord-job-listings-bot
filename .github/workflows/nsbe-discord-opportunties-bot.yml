@@ -11,8 +11,16 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout job listings repository
+      - name: Checkout Simplify repository
         uses: actions/checkout@v2
+        with:
+          repository: 'SimplifyJobs/Summer2025-Internships'
+          path: 'simplify-repo'
+
+      - name: Checkout discord bot repository
+        uses: actions/checkout@v2
+        with:
+          path: 'discord-bot-repo'
 
       - name: Set up Python
         uses: actions/setup-python@v2
@@ -28,14 +36,14 @@ jobs:
         env:
           DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
         run: |
-          cat << 'EOF' > script.py
+          cat << 'EOF' > discord-bot-repo/.github/scripts/script.py
           import json
           import os
           from pathlib import Path
 
           # Load the listings
-          listings_path = Path('job-listings/.github/scripts/listings.json')
-          last_id_path = Path('job-listings/.github/scripts/last_listing_id.txt')
+          listings_path = Path('simplify-repo/job-listings/.github/scripts/listings.json')
+          last_id_path = Path('discord-bot-repo/.github/scripts/last_listing_id.txt')
           
           with listings_path.open() as f:
               listings = json.load(f)
@@ -74,4 +82,4 @@ jobs:
               print(msg)
           
           EOF
-          python script.py
+          python discord-bot-repo/.github/scripts/script.py
