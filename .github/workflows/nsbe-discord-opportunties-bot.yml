@@ -48,7 +48,7 @@ jobs:
 
           # Paths to the listings and log files
           listings_path = Path('job-listings/.github/scripts/listings.json')
-          last_sent_path = Path('personal-repo/.github/workflows/last_sent_listing.json')
+          last_sent_path = Path('personal-repo/last_sent_listing.json')
 
           # Load the listings
           with listings_path.open() as f:
