@@ -66,14 +66,14 @@ jobs:
               new_grad_listings = json.load(f)
 
           # Load the last sent listing for both types
-          last_sent_path = Path('personal-repo/.github/data/last_sent_listing.json')
+          last_sent_path = Path('personal-repo/.github/data/last_sent_internship_listing.json')
           last_sent_new_grad_path = Path('personal-repo/.github/data/last_sent_new_grad_listing.json')
 
           if last_sent_path.exists():
               with last_sent_path.open() as f:
-                  last_sent_listing = json.load(f)
+                  last_sent_internship_listing = json.load(f)
           else:
-              last_sent_listing = {}
+              last_sent_internship_listing = {}
 
           if last_sent_new_grad_path.exists():
               with last_sent_new_grad_path.open() as f:
@@ -87,13 +87,13 @@ jobs:
 
           # Debug: Print recent and last sent listings
           print(f"Recent Job Listing ID: {recent_job_listing['id']}")
-          print(f"Last Sent Job Listing ID: {last_sent_listing.get('id')}")
+          print(f"Last Sent Job Listing ID: {last_sent_internship_listing.get('id')}")
           print(f"Recent New Grad Listing ID: {recent_new_grad_listing['id']}")
           print(f"Last Sent New Grad Listing ID: {last_sent_new_grad_listing.get('id')}")
 
           # Check if the recent listings were already sent
           job_listing_message = ""
-          if recent_job_listing['id'] != last_sent_listing.get('id'):
+          if recent_job_listing['id'] != last_sent_internship_listing.get('id'):
               # Extract job listing details
               job_company_name = recent_job_listing['company_name']
               job_title = recent_job_listing['title']
@@ -195,6 +195,6 @@ jobs:
           cd personal-repo
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-          git add .github/data/last_sent_listing.json .github/data/last_sent_new_grad_listing.json
+          git add .github/data/last_sent_internship_listing.json .github/data/last_sent_new_grad_listing.json
           git commit -m "Update last sent listings"
           git push
