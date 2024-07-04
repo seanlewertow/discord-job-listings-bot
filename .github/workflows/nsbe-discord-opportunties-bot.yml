@@ -114,3 +114,4 @@ jobs:
           git add job-listings/.github/scripts/last_sent.txt
           git commit -m "Update last_sent.txt with the latest listing"
           git push https://x-access-token:${{ secrets.GH_PAT }}@github.com/${{ github.repository }}.git HEAD:main
+          
