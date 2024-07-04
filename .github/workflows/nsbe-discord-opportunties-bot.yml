@@ -1,25 +1,23 @@
 name: Notify Discord
 
 on:
-  workflow_dispatch:
+  schedule:
+    - cron: '0 12 * * *' # Runs daily at 12:00 UTC
+  workflow_dispatch: # Allows manual triggering of the workflow
   push:
-    paths:
-      - '.github/workflows/nsbe-discord-opportunities-bot.yml' # Triggers when this workflow file is updated
-      - 'job-listings/.github/scripts/listings.json' # Triggers when the listings.json file is updated
+    branches:
+      - main
 
 jobs:
-  sync_and_notify:
+  notify:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout your repository
+      - name: Checkout job listings repository
         uses: actions/checkout@v2
-
-      - name: Fetch listings.json from SimplifyJobs repository
-        run: |
-          git clone --depth=1 https://github.com/SimplifyJobs/Summer2025-Internships.git temp_repo
-          cp temp_repo/.github/scripts/listings.json job-listings/.github/scripts/listings.json
-          rm -rf temp_repo
+        with:
+          repository: SimplifyJobs/Summer2025-Internships # Public repository with job listings
+          path: job-listings
 
       - name: Set up Python
         uses: actions/setup-python@v2
@@ -29,7 +27,7 @@ jobs:
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install requests
+          pip install jq requests
 
       - name: Extract and Send job listings
         env:
@@ -42,44 +40,35 @@ jobs:
           from pathlib import Path
           import requests
 
-          # Paths to listings and last_sent files
-          listings_path = Path('job-listings/.github/scripts/listings.json')
-          last_sent_path = Path('job-listings/.github/scripts/last_sent.txt')
-
           # Load the listings
+          listings_path = Path('job-listings/.github/scripts/listings.json')
           with listings_path.open() as f:
               listings = json.load(f)
 
-          # Get the most recent listing (the last one in the JSON file)
-          recent_listing = listings[-1]
+          # Sort listings by date_posted in descending order and get the last 5 listings
+          sorted_listings = sorted(listings, key=lambda x: x['date_posted'], reverse=True)[:5]
 
-          # Extract listing details
-          company_name = recent_listing['company_name']
-          title = recent_listing['title']
-          locations = ', '.join(recent_listing['locations'])
-          url = recent_listing['url']
-          date_posted = datetime.fromtimestamp(recent_listing['date_posted']).strftime('%Y-%m-%d')
-          term = ', '.join(recent_listing['term'])
-
-          # Format the message
-          message = (
-              f"**Company:** {company_name}\n"
-              f"**Role:** {title}\n"
-              f"**Location:** {locations}\n"
-              f"**Application/Link:** [Apply Here]({url})\n"
-              f"**Date Posted:** {date_posted}\n"
-              f"**Term:** {term}\n"
-              "---------------------------"
-          )
-
-          # Check if the last listing has been sent before
-          if last_sent_path.exists():
-              with last_sent_path.open() as f:
-                  last_sent = f.read().strip()
-          else:
-              last_sent = ""
-
-          if last_sent != title:
+          # Process each listing
+          messages = []
+          for listing in sorted_listings:
+              company_name = listing['company_name']
+              title = listing['title']
+              locations = ', '.join(listing['locations'])
+              url = listing['url']
+              date_posted = datetime.fromtimestamp(listing['date_posted']).strftime('%Y-%m-%d')
+              terms = ', '.join(listing['terms'])
+              
+              # Format the message
+              message = (
+                  f"**Company:** {company_name}\n"
+                  f"**Role:** {title}\n"
+                  f"**Location:** {locations}\n"
+                  f"**Application/Link:** [Apply Here]({url})\n"
+                  f"**Date Posted:** {date_posted}\n"
+                  f"**Term:** {terms}\n"
+                  "---------------------------"
+              )
+              
               # Send the message to Discord
               response = requests.post(
                   os.getenv('DISCORD_WEBHOOK'),
@@ -93,23 +82,16 @@ jobs:
               print("\n--- Sent Listing ---")
               print(message)
 
-              # Update the last_sent.txt file
-              with last_sent_path.open('w') as f:
-                  f.write(title)
+              messages.append(message)
 
-              # Commit message for the listings
-              commit_message = f"Updated listing sent to Discord: {title}"
-              print(f"\n--- Commit Message ---\n{commit_message}")
-          else:
-              print("No new listings to send.")
+          # Output the extracted and sent messages
+          print("\n--- Extracted Listings ---")
+          for msg in messages:
+              print(msg)
+
+          # Commit message for the listings
+          commit_message = "Updated listings sent to Discord:\n" + "\n".join([listing['title'] for listing in sorted_listings])
+          print(f"\n--- Commit Message ---\n{commit_message}")
 
           EOF
           python script.py
-
-      - name: Commit the last sent listing
-        run: |
-          git config --global user.name "github-actions"
-          git config --global user.email "github-actions@github.com"
-          git add job-listings/.github/scripts/last_sent.txt
-          git commit -m "Update last_sent.txt with the latest listing"
-          git push
