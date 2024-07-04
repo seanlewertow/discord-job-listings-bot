@@ -86,6 +86,7 @@ jobs:
 
           # Format the message
           message = (
+              f"**[INTERNSHIP]**\n"
               f"**Company:** {company_name}\n"
               f"**Role:** {title}\n"
               f"**Location:** {locations}\n"
