@@ -1,11 +1,13 @@
 name: Notify Discord
 
 on:
+  schedule:
+    - cron: '0 12 * * *' # Runs daily at 12:00 UTC
+  workflow_dispatch: # Allows manual triggering of the workflow
   push:
     paths:
-      - 'Summer2025-Internships/.github/scripts/listings.json' # Only run when listings.json is edited
-      - '.github/workflows/nsbe-discord-opportunities-bot.yml' # Only run when the nsbe-discord-opportunities-bot.yml is edited
-  workflow_dispatch: # Allows manual triggering of the workflow
+      - '.github/scripts/listings.json' # Triggers only when listings.json is updated
+      - '.github/workflows/nsbe-discord-opportunities-bot.yml' # Triggers when this workflow file is updated
 
 jobs:
   notify:
@@ -16,11 +18,7 @@ jobs:
         uses: actions/checkout@v2
         with:
           repository: SimplifyJobs/Summer2025-Internships # Public repository with job listings
-          ref: dev # Ensure the correct branch is checked out
           path: job-listings
-
-      - name: Checkout bot repository
-        uses: actions/checkout@v2
 
       - name: Set up Python
         uses: actions/setup-python@v2
@@ -48,33 +46,24 @@ jobs:
           with listings_path.open() as f:
               listings = json.load(f)
 
-          # Get the most recent listing (the last one in the JSON file)
-          recent_listing = listings[-1]
-
-          # Extract the ID of the most recent listing
-          recent_listing_id = recent_listing['id']
-
-          # Load the last sent listing ID from last_listing.json
+          # Path to the last sent listing file
           last_listing_path = Path('.github/workflows/last_listing.json')
+
+          # Check if the last_listing.json file exists
           if last_listing_path.exists():
               with last_listing_path.open() as f:
                   last_sent_listing = json.load(f)
-                  last_sent_listing_id = last_sent_listing[0]['id']
           else:
-              last_sent_listing_id = None
+              last_sent_listing = []
 
-          # Print the last sent listing ID and recent listing ID
-          print(f"Last Sent Listing ID: {last_sent_listing_id}")
-          print(f"Recent Listing ID: {recent_listing_id}")
+          # Get the most recent listing (the last one in the JSON file)
+          recent_listing = listings[-1]
 
-          if recent_listing_id == last_sent_listing_id:
-              print("No new listings to send. IDs matched.")
-              note_message = "No new job listings to send at this time."
-              response = requests.post(
-                  os.getenv('DISCORD_WEBHOOK'),
-                  json={'content': note_message}
-              )
-              response.raise_for_status()
+          # Check if the recent listing has been sent before
+          if recent_listing in last_sent_listing:
+              message = "No new listings to send."
+              print("\n--- Message ---")
+              print(message)
           else:
               # Extract listing details
               company_name = recent_listing['company_name']
@@ -100,27 +89,22 @@ jobs:
                   os.getenv('DISCORD_WEBHOOK'),
                   json={'content': message}
               )
+
+              # Raise an error if the request failed
               response.raise_for_status()
 
               # Output the sent message
               print("\n--- Sent Listing ---")
               print(message)
 
-              # Update the last sent listing ID in last_listing.json
+              # Update the last_listing.json file
+              last_sent_listing.append(recent_listing)
               with last_listing_path.open('w') as f:
-                  json.dump([recent_listing], f)
+                  json.dump(last_sent_listing, f, indent=4)
 
               # Commit message for the listings
-              commit_message = f"Updated last listing sent to Discord: {title}"
+              commit_message = f"Updated listing sent to Discord: {title}"
               print(f"\n--- Commit Message ---\n{commit_message}")
 
           EOF
           python script.py
-
-      - name: Commit and push updated last listing
-        run: |
-          git config --global user.name 'github-actions'
-          git config --global user.email 'github-actions@github.com'
-          git add .github/workflows/last_listing.json
-          git commit -m "Update last sent listing"
-          git push
