@@ -61,7 +61,7 @@ jobs:
           locations = ', '.join(recent_listing['locations'])
           url = recent_listing['url']
           date_posted = datetime.fromtimestamp(recent_listing['date_posted']).strftime('%Y-%m-%d')
-          term = ', '.join(recent_listing['term'])
+          term = ', '.join(recent_listing['terms'])
 
           # Format the message
           message = (
