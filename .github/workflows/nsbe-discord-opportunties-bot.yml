@@ -37,6 +37,7 @@ jobs:
           pip install jq requests
 
       - name: Extract and Send job listings
+        id: extract_and_send
         env:
           DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
         run: |
@@ -70,6 +71,8 @@ jobs:
           # Check if the recent listing was already sent
           if recent_listing['id'] == last_sent_listing.get('id'):
               print("No new listings to send.")
+              # Create a flag file to indicate no new listings
+              Path('no_new_listings.txt').touch()
               exit(0)
 
           # Extract listing details
@@ -115,6 +118,7 @@ jobs:
           python script.py
 
       - name: Commit and push last sent listing to personal repository
+        if: success() && !steps.extract_and_send.outputs.no_new_listings
         run: |
           cd personal-repo
           git config --global user.name 'github-actions[bot]'
