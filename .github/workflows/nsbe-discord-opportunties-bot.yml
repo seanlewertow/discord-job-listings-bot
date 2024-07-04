@@ -63,6 +63,10 @@ jobs:
           # Get the most recent listing (the last one in the JSON file)
           recent_listing = listings[-1]
 
+          # Debug: Print recent and last sent listings
+          print(f"Recent Listing ID: {recent_listing['id']}")
+          print(f"Last Sent Listing ID: {last_sent_listing.get('id')}")
+
           # Check if the recent listing was already sent
           if recent_listing['id'] == last_sent_listing.get('id'):
               print("No new listings to send.")
