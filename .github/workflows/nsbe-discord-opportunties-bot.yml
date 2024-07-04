@@ -10,8 +10,9 @@ on:
       - 'new-grad-positions/.github/scripts/listings.json' # Triggers only when new grad listings.json is updated
 
 jobs:
-  notify:
+  notify_internships:
     runs-on: ubuntu-latest
+    if: github.event.paths.includes('job-listings/.github/scripts/listings.json')
 
     steps:
       - name: Checkout job listings repository
@@ -20,6 +21,119 @@ jobs:
           repository: SimplifyJobs/Summer2025-Internships
           path: job-listings
 
+      - name: Checkout personal repository
+        uses: actions/checkout@v2
+        with:
+          repository: seanlewertow/discord-job-listings-bot
+          path: personal-repo
+          token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
+
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install jq requests
+
+      - name: Extract and Send internship job listings
+        id: extract_and_send_internships
+        env:
+          DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
+        run: |
+          cat << 'EOF' > script_internships.py
+          import json
+          import os
+          from datetime import datetime
+          from pathlib import Path
+          import requests
+
+          # Load the listings from the job listings repository
+          job_listings_path = Path('job-listings/.github/scripts/listings.json')
+          
+          with job_listings_path.open() as f:
+              job_listings = json.load(f)
+
+          # Load the last sent listing for internships
+          last_sent_path = Path('personal-repo/.github/data/last_sent_internship_listing.json')
+
+          if last_sent_path.exists():
+              with last_sent_path.open() as f:
+                  last_sent_internship_listing = json.load(f)
+          else:
+              last_sent_internship_listing = {}
+
+          # Get the most recent listing (the last one in the JSON file)
+          recent_job_listing = job_listings[-1]
+
+          # Debug: Print recent and last sent listings
+          print(f"Recent Job Listing ID: {recent_job_listing['id']}")
+          print(f"Last Sent Job Listing ID: {last_sent_internship_listing.get('id')}")
+
+          # Check if the recent listing was already sent
+          if recent_job_listing['id'] == last_sent_internship_listing.get('id'):
+              print("No new listings to send.")
+              exit(0)
+
+          # Extract job listing details
+          job_company_name = recent_job_listing['company_name']
+          job_title = recent_job_listing['title']
+          job_locations = ', '.join(recent_job_listing['locations'])
+          job_url = recent_job_listing['url']
+          job_date_posted = datetime.fromtimestamp(recent_job_listing['date_posted']).strftime('%Y-%m-%d')
+          job_term = ', '.join(recent_job_listing['terms'])
+
+          # Format the message for job listing
+          job_listing_message = (
+              f"**[INTERNSHIP]**\n"
+              f"**Company:** {job_company_name}\n"
+              f"**Role:** {job_title}\n"
+              f"**Location:** {job_locations}\n"
+              f"**Application/Link:** [Apply Here]({job_url})\n"
+              f"**Date Posted:** {job_date_posted}\n"
+              f"**Term:** {job_term}\n"
+              "---------------------------"
+          )
+
+          # Send the message to Discord
+          response = requests.post(
+              os.getenv('DISCORD_WEBHOOK'),
+              json={'content': job_listing_message}
+          )
+
+          # Raise an error if the request failed
+          response.raise_for_status()
+
+          # Output the sent message
+          print("\n--- Sent Job Listing ---")
+          print(job_listing_message)
+
+          # Update last sent job listing file
+          with last_sent_path.open('w') as f:
+              json.dump(recent_job_listing, f, indent=2)
+
+          # Prepare commit message
+          commit_message = f"Update last sent job listing: {recent_job_listing['title']}"
+          print(f"\n--- Commit Message ---\n{commit_message}")
+          EOF
+          python script_internships.py
+
+      - name: Commit and push last sent internship listing to personal repository
+        run: |
+          cd personal-repo
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add .github/data/last_sent_internship_listing.json
+          git commit -m "Update last sent internship listing"
+          git push
+
+  notify_new_grads:
+    runs-on: ubuntu-latest
+    if: github.event.paths.includes('new-grad-positions/.github/scripts/listings.json')
+
+    steps:
       - name: Checkout new grad positions repository
         uses: actions/checkout@v2
         with:
@@ -43,37 +157,26 @@ jobs:
           python -m pip install --upgrade pip
           pip install jq requests
 
-      - name: Extract and Send job listings
-        id: extract_and_send
+      - name: Extract and Send new grad job listings
+        id: extract_and_send_new_grads
         env:
           DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
         run: |
-          cat << 'EOF' > script.py
+          cat << 'EOF' > script_new_grads.py
           import json
           import os
           from datetime import datetime
           from pathlib import Path
           import requests
 
-          # Load the listings from both repositories
-          job_listings_path = Path('job-listings/.github/scripts/listings.json')
+          # Load the listings from the new grad positions repository
           new_grad_listings_path = Path('new-grad-positions/.github/scripts/listings.json')
-          
-          with job_listings_path.open() as f:
-              job_listings = json.load(f)
           
           with new_grad_listings_path.open() as f:
               new_grad_listings = json.load(f)
 
-          # Load the last sent listing for both types
-          last_sent_path = Path('personal-repo/.github/data/last_sent_internship_listing.json')
+          # Load the last sent listing for new grad positions
           last_sent_new_grad_path = Path('personal-repo/.github/data/last_sent_new_grad_listing.json')
-
-          if last_sent_path.exists():
-              with last_sent_path.open() as f:
-                  last_sent_internship_listing = json.load(f)
-          else:
-              last_sent_internship_listing = {}
 
           if last_sent_new_grad_path.exists():
               with last_sent_new_grad_path.open() as f:
@@ -81,120 +184,64 @@ jobs:
           else:
               last_sent_new_grad_listing = {}
 
-          # Get the most recent listings (the last ones in the JSON files)
-          recent_job_listing = job_listings[-1]
+          # Get the most recent listing (the last one in the JSON file)
           recent_new_grad_listing = new_grad_listings[-1]
 
           # Debug: Print recent and last sent listings
-          print(f"Recent Job Listing ID: {recent_job_listing['id']}")
-          print(f"Last Sent Job Listing ID: {last_sent_internship_listing.get('id')}")
           print(f"Recent New Grad Listing ID: {recent_new_grad_listing['id']}")
           print(f"Last Sent New Grad Listing ID: {last_sent_new_grad_listing.get('id')}")
 
-          # Check if the recent listings were already sent
-          job_listing_message = ""
-          if recent_job_listing['id'] != last_sent_internship_listing.get('id'):
-              # Extract job listing details
-              job_company_name = recent_job_listing['company_name']
-              job_title = recent_job_listing['title']
-              job_locations = ', '.join(recent_job_listing['locations'])
-              job_url = recent_job_listing['url']
-              job_date_posted = datetime.fromtimestamp(recent_job_listing['date_posted']).strftime('%Y-%m-%d')
-              job_term = ', '.join(recent_job_listing['terms'])
+          # Check if the recent listing was already sent
+          if recent_new_grad_listing['id'] == last_sent_new_grad_listing.get('id'):
+              print("No new listings to send.")
+              exit(0)
 
-              # Format the message for job listing with label
-              job_listing_message = (
-                  f"**[Internship]**\n"
-                  f"**Company:** {job_company_name}\n"
-                  f"**Role:** {job_title}\n"
-                  f"**Location:** {job_locations}\n"
-                  f"**Application/Link:** [Apply Here]({job_url})\n"
-                  f"**Date Posted:** {job_date_posted}\n"
-                  f"**Term:** {job_term}\n"
-                  "---------------------------"
-              )
+          # Extract new grad listing details
+          new_grad_company_name = recent_new_grad_listing['company_name']
+          new_grad_title = recent_new_grad_listing['title']
+          new_grad_locations = ', '.join(recent_new_grad_listing['locations'])
+          new_grad_url = recent_new_grad_listing['url']
+          new_grad_date_posted = datetime.fromtimestamp(recent_new_grad_listing['date_posted']).strftime('%Y-%m-%d')
 
-              # Send the message to Discord
-              response = requests.post(
-                  os.getenv('DISCORD_WEBHOOK'),
-                  json={'content': job_listing_message}
-              )
+          # Format the message for new grad listing
+          new_grad_listing_message = (
+              f"**[FULL-TIME]**\n"
+              f"**Company:** {new_grad_company_name}\n"
+              f"**Role:** {new_grad_title}\n"
+              f"**Location:** {new_grad_locations}\n"
+              f"**Application/Link:** [Apply Here]({new_grad_url})\n"
+              f"**Date Posted:** {new_grad_date_posted}\n"
+              "---------------------------"
+          )
 
-              # Raise an error if the request failed
-              response.raise_for_status()
+          # Send the message to Discord
+          response = requests.post(
+              os.getenv('DISCORD_WEBHOOK'),
+              json={'content': new_grad_listing_message}
+          )
 
-              # Output the sent message
-              print("\n--- Sent Job Listing ---")
-              print(job_listing_message)
+          # Raise an error if the request failed
+          response.raise_for_status()
 
-              # Update last sent job listing file
-              with last_sent_path.open('w') as f:
-                  json.dump(recent_job_listing, f, indent=2)
+          # Output the sent message
+          print("\n--- Sent New Grad Listing ---")
+          print(new_grad_listing_message)
 
-          new_grad_listing_message = ""
-          if recent_new_grad_listing['id'] != last_sent_new_grad_listing.get('id'):
-              # Extract new grad listing details
-              new_grad_company_name = recent_new_grad_listing['company_name']
-              new_grad_title = recent_new_grad_listing['title']
-              new_grad_locations = ', '.join(recent_new_grad_listing['locations'])
-              new_grad_url = recent_new_grad_listing['url']
-              new_grad_date_posted = datetime.fromtimestamp(recent_new_grad_listing['date_posted']).strftime('%Y-%m-%d')
-
-              # Format the message for new grad listing with label
-              new_grad_listing_message = (
-                  f"**[Full-Time]**\n"
-                  f"**Company:** {new_grad_company_name}\n"
-                  f"**Role:** {new_grad_title}\n"
-                  f"**Location:** {new_grad_locations}\n"
-                  f"**Application/Link:** [Apply Here]({new_grad_url})\n"
-                  f"**Date Posted:** {new_grad_date_posted}\n"
-                  "---------------------------"
-              )
-
-              # Send the message to Discord
-              response = requests.post(
-                  os.getenv('DISCORD_WEBHOOK'),
-                  json={'content': new_grad_listing_message}
-              )
-
-              # Raise an error if the request failed
-              response.raise_for_status()
-
-              # Output the sent message
-              print("\n--- Sent New Grad Listing ---")
-              print(new_grad_listing_message)
-
-              # Update last sent new grad listing file
-              with last_sent_new_grad_path.open('w') as f:
-                  json.dump(recent_new_grad_listing, f, indent=2)
+          # Update last sent new grad listing file
+          with last_sent_new_grad_path.open('w') as f:
+              json.dump(recent_new_grad_listing, f, indent=2)
 
           # Prepare commit message
-          commit_message = ""
-          if job_listing_message:
-              commit_message += f"Update last sent job listing: {recent_job_listing['title']}"
-
-          if new_grad_listing_message:
-              commit_message += f"\nUpdate last sent new grad listing: {recent_new_grad_listing['title']}"
-
+          commit_message = f"Update last sent new grad listing: {recent_new_grad_listing['title']}"
           print(f"\n--- Commit Message ---\n{commit_message}")
           EOF
-          python script.py
+          python script_new_grads.py
 
-      - name: Check if there are new listings
-        id: check_new_listings
-        run: |
-          if [ -f "no_new_listings.txt" ]; then
-            echo "no_new_listings=true" >> $GITHUB_ENV
-          else
-            echo "no_new_listings=false" >> $GITHUB_ENV
-          fi
-
-      - name: Commit and push last sent listing to personal repository
-        if: env.no_new_listings == 'false'
+      - name: Commit and push last sent new grad listing to personal repository
         run: |
           cd personal-repo
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-          git add .github/data/last_sent_internship_listing.json .github/data/last_sent_new_grad_listing.json
-          git commit -m "Update last sent listings"
+          git add .github/data/last_sent_new_grad_listing.json
+          git commit -m "Update last sent new grad listing"
           git push
