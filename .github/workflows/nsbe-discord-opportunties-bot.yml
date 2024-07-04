@@ -7,7 +7,7 @@ on:
   push:
     paths:
       - 'job-listings/.github/scripts/listings.json' # Triggers only when listings.json is updated
-      branches:
+    branches:
       - main
 
 jobs:
