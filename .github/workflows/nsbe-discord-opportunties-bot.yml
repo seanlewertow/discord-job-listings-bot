@@ -1,11 +1,13 @@
 name: Notify Discord
 
 on:
+  schedule:
+    - cron: '0 12 * * *' # Runs daily at 12:00 UTC
+  workflow_dispatch: # Allows manual triggering of the workflow
   push:
     paths:
-      - 'job-listings/.github/scripts/listings.json'
-      - '.github/workflows/nsbe-discord-opportunities-bot.yml'
-  workflow_dispatch: # Allows manual triggering of the workflow
+      - '.github/scripts/listings.json' # Triggers only when listings.json is updated
+      - '.github/workflows/nsbe-discord-opportunities-bot.yml' # Triggers when this workflow file is updated
 
 jobs:
   notify:
@@ -44,20 +46,24 @@ jobs:
           with listings_path.open() as f:
               listings = json.load(f)
 
+          # Path to the last sent listing file
+          last_listing_path = Path('.github/workflows/last_listing.json')
+
+          # Check if the last_listing.json file exists
+          if last_listing_path.exists():
+              with last_listing_path.open() as f:
+                  last_sent_listing = json.load(f)
+          else:
+              last_sent_listing = []
+
           # Get the most recent listing (the last one in the JSON file)
           recent_listing = listings[-1]
 
-          # Load the last sent listing
-          last_listing_path = Path('.github/scripts/last_listing.json')
-          if last_listing_path.exists():
-              with last_listing_path.open() as f:
-                  last_listing = json.load(f)
-          else:
-              last_listing = {}
-
-          # Check if the recent listing is the same as the last sent listing
-          if recent_listing == last_listing:
-              message = "No new listings. The most recent listing has already been sent to Discord."
+          # Check if the recent listing has been sent before
+          if recent_listing in last_sent_listing:
+              message = "No new listings to send."
+              print("\n--- Message ---")
+              print(message)
           else:
               # Extract listing details
               company_name = recent_listing['company_name']
@@ -87,17 +93,18 @@ jobs:
               # Raise an error if the request failed
               response.raise_for_status()
 
-              # Save the recent listing to last_listing.json
+              # Output the sent message
+              print("\n--- Sent Listing ---")
+              print(message)
+
+              # Update the last_listing.json file
+              last_sent_listing.append(recent_listing)
               with last_listing_path.open('w') as f:
-                  json.dump(recent_listing, f, indent=4)
+                  json.dump(last_sent_listing, f, indent=4)
 
-          # Output the sent message
-          print("\n--- Sent Listing ---")
-          print(message)
-
-          # Commit message for the listings
-          commit_message = f"Updated listing sent to Discord: {title}" if recent_listing != last_listing else "No new listings sent to Discord."
-          print(f"\n--- Commit Message ---\n{commit_message}")
+              # Commit message for the listings
+              commit_message = f"Updated listing sent to Discord: {title}"
+              print(f"\n--- Commit Message ---\n{commit_message}")
 
           EOF
           python script.py
