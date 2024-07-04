@@ -72,7 +72,8 @@ jobs:
           if recent_listing['id'] == last_sent_listing.get('id'):
               print("No new listings to send.")
               # Create a flag file to indicate no new listings
-              Path('no_new_listings.txt').touch()
+              with open('no_new_listings.txt', 'w') as flag_file:
+                  flag_file.write('true')
               exit(0)
 
           # Extract listing details
@@ -117,8 +118,17 @@ jobs:
           EOF
           python script.py
 
+      - name: Check if there are new listings
+        id: check_new_listings
+        run: |
+          if [ -f "no_new_listings.txt" ]; then
+            echo "no_new_listings=true" >> $GITHUB_ENV
+          else
+            echo "no_new_listings=false" >> $GITHUB_ENV
+          fi
+
       - name: Commit and push last sent listing to personal repository
-        if: success() && !steps.extract_and_send.outputs.no_new_listings
+        if: env.no_new_listings == 'false'
         run: |
           cd personal-repo
           git config --global user.name 'github-actions[bot]'
