@@ -102,11 +102,11 @@ jobs:
                   json.dump(recent_listing, f, indent=4)
 
               # Commit the updated last sent listing
-              os.system('git config --global user.name "github-actions[bot]"')
-              os.system('git config --global user.email "github-actions[bot]@users.noreply.github.com"')
-              os.system('git add personal-repo/last_sent_listing.json')
-              os.system(f'git commit -m "Update last sent listing: {title}"')
-              os.system(f'git push https://seanlewertow:${{ secrets.PERSONAL_ACCESS_TOKEN }}@github.com/seanlewertow/discord-job-listings-bot.git')
-          
+              os.system('cd personal-repo && git config --global user.name "github-actions[bot]"')
+              os.system('cd personal-repo && git config --global user.email "github-actions[bot]@users.noreply.github.com"')
+              os.system('cd personal-repo && git add last_sent_listing.json')
+              os.system(f'cd personal-repo && git commit -m "Update last sent listing: {title}"')
+              os.system(f'cd personal-repo && git push https://seanlewertow:${{ secrets.PERSONAL_ACCESS_TOKEN }}@github.com/seanlewertow/discord-job-listings-bot.git')
+
           EOF
           python script.py
