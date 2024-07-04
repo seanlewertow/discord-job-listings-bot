@@ -19,6 +19,7 @@ jobs:
       - name: Fetch listings.json from SimplifyJobs repository
         run: |
           git clone --depth=1 https://github.com/SimplifyJobs/Summer2025-Internships.git temp_repo
+          mkdir -p job-listings/.github/scripts
           cp temp_repo/.github/scripts/listings.json job-listings/.github/scripts/listings.json
           rm -rf temp_repo
 
