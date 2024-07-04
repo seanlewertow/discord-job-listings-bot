@@ -5,8 +5,6 @@ on:
     - cron: '0 12 * * *' # Runs daily at 12:00 UTC
   workflow_dispatch: # Allows manual triggering of the workflow
   push:
-    paths:
-      - 'job-listings/.github/scripts/listings.json' # Triggers only when listings.json is updated
     branches:
       - main
 
@@ -39,30 +37,27 @@ jobs:
           import json
           import os
           from datetime import datetime
-          import requests
           from pathlib import Path
+          import requests
 
           # Load the listings
           listings_path = Path('job-listings/.github/scripts/listings.json')
           with listings_path.open() as f:
               listings = json.load(f)
 
-          # Load sent listing IDs from the environment variable
-          sent_listing_ids = os.getenv('SENT_LISTINGS', '').split(',')
-          sent_listing_ids = [x for x in sent_listing_ids if x]  # Remove empty strings
+          # Sort listings by date_posted in descending order and get the last 5 listings
+          sorted_listings = sorted(listings, key=lambda x: x['date_posted'], reverse=True)[:5]
 
-          # Get new listings that haven't been sent before
-          new_listings = [listing for listing in listings if listing['id'] not in sent_listing_ids]
-
-          for recent_listing in new_listings:
-              # Extract listing details
-              company_name = recent_listing['company_name']
-              title = recent_listing['title']
-              locations = ', '.join(recent_listing['locations'])
-              url = recent_listing['url']
-              date_posted = datetime.fromtimestamp(recent_listing['date_posted']).strftime('%Y-%m-%d')
-              terms = ', '.join(recent_listing['terms'])
-
+          # Process each listing
+          messages = []
+          for listing in sorted_listings:
+              company_name = listing['company_name']
+              title = listing['title']
+              locations = ', '.join(listing['locations'])
+              url = listing['url']
+              date_posted = datetime.fromtimestamp(listing['date_posted']).strftime('%Y-%m-%d')
+              terms = ', '.join(listing['terms'])
+              
               # Format the message
               message = (
                   f"**Company:** {company_name}\n"
@@ -73,7 +68,7 @@ jobs:
                   f"**Terms:** {terms}\n"
                   "---------------------------"
               )
-
+              
               # Send the message to Discord
               response = requests.post(
                   os.getenv('DISCORD_WEBHOOK'),
@@ -87,16 +82,16 @@ jobs:
               print("\n--- Sent Listing ---")
               print(message)
 
-              # Append the listing ID to the sent listing IDs
-              sent_listing_ids.append(recent_listing['id'])
+              messages.append(message)
 
-          # Save the updated list of sent listing IDs
-          new_sent_listing_ids = ','.join(sent_listing_ids)
-          print(f"::set-output name=sent_listings::{new_sent_listing_ids}")
+          # Output the extracted and sent messages
+          print("\n--- Extracted Listings ---")
+          for msg in messages:
+              print(msg)
+
+          # Commit message for the listings
+          commit_message = "Updated listings sent to Discord:\n" + "\n".join([listing['title'] for listing in sorted_listings])
+          print(f"\n--- Commit Message ---\n{commit_message}")
 
           EOF
           python script.py
-
-      - name: Persist sent listings
-        if: success()
-        run: echo "SENT_LISTINGS=${{ steps.extract_and_send.outputs.sent_listings }}" >> $GITHUB_ENV
