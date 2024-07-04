@@ -1,6 +1,7 @@
 name: Notify Discord
 
 on:
+  workflow_dispatch:
   push:
     paths:
       - 'job-listings/.github/scripts/listings.json' # Only run when listings.json is edited
@@ -46,16 +47,13 @@ jobs:
           # Get the most recent listing (the last one in the JSON file)
           recent_listing = listings[-1]
 
-          # Load the last sent listing
-          last_listing_path = Path('.github/workflows/last_listing.json')
-          try:
-              with last_listing_path.open() as f:
-                  last_listing = json.load(f)
-          except FileNotFoundError:
-              last_listing = {}
+          # Extract the ID of the most recent listing
+          recent_listing_id = recent_listing['id']
 
-          # Compare the most recent listing with the last sent listing
-          if recent_listing == last_listing:
+          # Load the last sent listing ID from an environment variable (if exists)
+          last_sent_listing_id = os.getenv('LAST_SENT_LISTING_ID')
+
+          if recent_listing_id == last_sent_listing_id:
               print("No new listings to send.")
               note_message = "No new job listings to send at this time."
               response = requests.post(
@@ -94,13 +92,4 @@ jobs:
               print("\n--- Sent Listing ---")
               print(message)
 
-              # Update the last sent listing file
-              with last_listing_path.open('w') as f:
-                  json.dump(recent_listing, f, indent=2)
-
-              # Commit message for the listings
-              commit_message = f"Updated listing sent to Discord: {title}"
-              print(f"\n--- Commit Message ---\n{commit_message}")
-
-          EOF
-          python script.py
+              # Set the last se
