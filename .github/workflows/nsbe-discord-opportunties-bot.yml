@@ -5,9 +5,8 @@ on:
     - cron: '0 12 * * *' # Runs daily at 12:00 UTC
   workflow_dispatch: # Allows manual triggering of the workflow
   push:
-    paths:
-      - '.github/scripts/listings.json' # Triggers only when listings.json is updated
-      - '.github/workflows/nsbe-discord-opportunities-bot.yml' # Triggers when this workflow file is updated
+    branches:
+      - main
 
 jobs:
   notify:
@@ -46,65 +45,44 @@ jobs:
           with listings_path.open() as f:
               listings = json.load(f)
 
-          # Path to the last sent listing file
-          last_listing_path = Path('.github/workflows/last_listing.json')
-
-          # Check if the last_listing.json file exists
-          if last_listing_path.exists():
-              with last_listing_path.open() as f:
-                  last_sent_listing = json.load(f)
-          else:
-              last_sent_listing = []
-
           # Get the most recent listing (the last one in the JSON file)
           recent_listing = listings[-1]
 
-          # Check if the recent listing has been sent before
-          if recent_listing in last_sent_listing:
-              message = "No new listings to send."
-              print("\n--- Message ---")
-              print(message)
-          else:
-              # Extract listing details
-              company_name = recent_listing['company_name']
-              title = recent_listing['title']
-              locations = ', '.join(recent_listing['locations'])
-              url = recent_listing['url']
-              date_posted = datetime.fromtimestamp(recent_listing['date_posted']).strftime('%Y-%m-%d')
-              term = ', '.join(recent_listing['terms'])
+          # Extract listing details
+          company_name = recent_listing['company_name']
+          title = recent_listing['title']
+          locations = ', '.join(recent_listing['locations'])
+          url = recent_listing['url']
+          date_posted = datetime.fromtimestamp(recent_listing['date_posted']).strftime('%Y-%m-%d')
+          term = ', '.join(recent_listing['term'])
 
-              # Format the message
-              message = (
-                  f"**Company:** {company_name}\n"
-                  f"**Role:** {title}\n"
-                  f"**Location:** {locations}\n"
-                  f"**Application/Link:** [Apply Here]({url})\n"
-                  f"**Date Posted:** {date_posted}\n"
-                  f"**Term:** {term}\n"
-                  "---------------------------"
-              )
+          # Format the message
+          message = (
+              f"**Company:** {company_name}\n"
+              f"**Role:** {title}\n"
+              f"**Location:** {locations}\n"
+              f"**Application/Link:** [Apply Here]({url})\n"
+              f"**Date Posted:** {date_posted}\n"
+              f"**Term:** {term}\n"
+              "---------------------------"
+          )
 
-              # Send the message to Discord
-              response = requests.post(
-                  os.getenv('DISCORD_WEBHOOK'),
-                  json={'content': message}
-              )
+          # Send the message to Discord
+          response = requests.post(
+              os.getenv('DISCORD_WEBHOOK'),
+              json={'content': message}
+          )
 
-              # Raise an error if the request failed
-              response.raise_for_status()
+          # Raise an error if the request failed
+          response.raise_for_status()
 
-              # Output the sent message
-              print("\n--- Sent Listing ---")
-              print(message)
+          # Output the sent message
+          print("\n--- Sent Listing ---")
+          print(message)
 
-              # Update the last_listing.json file
-              last_sent_listing.append(recent_listing)
-              with last_listing_path.open('w') as f:
-                  json.dump(last_sent_listing, f, indent=4)
-
-              # Commit message for the listings
-              commit_message = f"Updated listing sent to Discord: {title}"
-              print(f"\n--- Commit Message ---\n{commit_message}")
+          # Commit message for the listings
+          commit_message = f"Updated listing sent to Discord: {title}"
+          print(f"\n--- Commit Message ---\n{commit_message}")
 
           EOF
           python script.py
