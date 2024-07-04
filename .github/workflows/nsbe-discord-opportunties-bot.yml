@@ -46,13 +46,13 @@ jobs:
           from pathlib import Path
           import requests
 
-          # Paths to the listings and log files
-          listings_path = Path('job-listings/.github/scripts/listings.json')
-          last_sent_path = Path('personal-repo/last_sent_listing.json')
-
           # Load the listings
+          listings_path = Path('job-listings/.github/scripts/listings.json')
           with listings_path.open() as f:
               listings = json.load(f)
+
+          # Path to last sent listing log
+          last_sent_path = Path('personal-repo/last_sent_listing.json')
 
           # Get the most recent listing (the last one in the JSON file)
           recent_listing = listings[-1]
@@ -71,7 +71,7 @@ jobs:
           locations = ', '.join(recent_listing['locations'])
           url = recent_listing['url']
           date_posted = datetime.fromtimestamp(recent_listing['date_posted']).strftime('%Y-%m-%d')
-          term = recent_listing['terms']
+          term = recent_listing['term']
 
           # Format the message
           message = (
@@ -99,7 +99,7 @@ jobs:
 
           # Update the last sent listing log
           with last_sent_path.open('w') as f:
-              json.dump(recent_listing, f)
+              json.dump({'id': recent_listing['id']}, f)
 
           # Commit message for the listings
           commit_message = f"Updated listing sent to Discord: {title}"
