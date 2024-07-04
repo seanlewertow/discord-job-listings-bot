@@ -3,8 +3,8 @@ name: Notify Discord
 on:
   push:
     paths:
-      - 'job-listings/.github/scripts/listings.json' # Only run when listings.json is edited
-      - '.github/workflows/nsbe-discord-opportunities-bot.yml' # Only run when the nsbe-discord-opportunities-bot.yml is edited
+      - 'Summer2025-Internships/.github/scripts/listings.json' # Only run when listings.json is edited
+      - 'discord-job-listings-bot/.github/workflows/nsbe-discord-opportunities-bot.yml' # Only run when the nsbe-discord-opportunities-bot.yml is edited
   workflow_dispatch: # Allows manual triggering of the workflow
 
 jobs:
@@ -43,7 +43,7 @@ jobs:
           import requests
 
           # Load the listings
-          listings_path = Path('job-listings/.github/scripts/listings.json')
+          listings_path = Path('Summer2025-Internships/.github/scripts/listings.json')
           with listings_path.open() as f:
               listings = json.load(f)
 
