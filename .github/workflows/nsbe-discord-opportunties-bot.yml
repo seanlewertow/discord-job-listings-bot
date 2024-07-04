@@ -1,25 +1,22 @@
 name: Notify Discord
 
 on:
-  workflow_dispatch:
   push:
     paths:
-      - '.github/workflows/nsbe-discord-opportunities-bot.yml' # Triggers when this workflow file is updated
+      - 'job-listings/.github/scripts/listings.json'
+      - '.github/workflows/nsbe-discord-opportunities-bot.yml'
+  workflow_dispatch: # Allows manual triggering of the workflow
 
 jobs:
-  sync_and_notify:
+  notify:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout your repository
+      - name: Checkout job listings repository
         uses: actions/checkout@v2
-
-      - name: Fetch listings.json from SimplifyJobs repository
-        run: |
-          git clone --depth=1 https://github.com/SimplifyJobs/Summer2025-Internships.git temp_repo
-          mkdir -p job-listings/.github/scripts
-          cp temp_repo/.github/scripts/listings.json job-listings/.github/scripts/listings.json
-          rm -rf temp_repo
+        with:
+          repository: SimplifyJobs/Summer2025-Internships # Public repository with job listings
+          path: job-listings
 
       - name: Set up Python
         uses: actions/setup-python@v2
@@ -29,7 +26,7 @@ jobs:
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install requests
+          pip install jq requests
 
       - name: Extract and Send job listings
         env:
@@ -42,44 +39,45 @@ jobs:
           from pathlib import Path
           import requests
 
-          # Paths to listings and last_sent files
-          listings_path = Path('job-listings/.github/scripts/listings.json')
-          last_sent_path = Path('job-listings/.github/scripts/last_sent.txt')
-
           # Load the listings
+          listings_path = Path('job-listings/.github/scripts/listings.json')
           with listings_path.open() as f:
               listings = json.load(f)
 
           # Get the most recent listing (the last one in the JSON file)
           recent_listing = listings[-1]
 
-          # Extract listing details
-          company_name = recent_listing['company_name']
-          title = recent_listing['title']
-          locations = ', '.join(recent_listing['locations'])
-          url = recent_listing['url']
-          date_posted = datetime.fromtimestamp(recent_listing['date_posted']).strftime('%Y-%m-%d')
-          term = ', '.join(recent_listing['terms'])
-
-          # Format the message
-          message = (
-              f"**Company:** {company_name}\n"
-              f"**Role:** {title}\n"
-              f"**Location:** {locations}\n"
-              f"**Application/Link:** [Apply Here]({url})\n"
-              f"**Date Posted:** {date_posted}\n"
-              f"**Term:** {term}\n"
-              "---------------------------"
-          )
-
-          # Check if the last listing has been sent before
-          if last_sent_path.exists():
-              with last_sent_path.open() as f:
-                  last_sent = f.read().strip()
+          # Load the last sent listing
+          last_listing_path = Path('.github/scripts/last_listing.json')
+          if last_listing_path.exists():
+              with last_listing_path.open() as f:
+                  last_listing = json.load(f)
           else:
-              last_sent = ""
+              last_listing = {}
 
-          if last_sent != title:
+          # Check if the recent listing is the same as the last sent listing
+          if recent_listing == last_listing:
+              message = "No new listings. The most recent listing has already been sent to Discord."
+          else:
+              # Extract listing details
+              company_name = recent_listing['company_name']
+              title = recent_listing['title']
+              locations = ', '.join(recent_listing['locations'])
+              url = recent_listing['url']
+              date_posted = datetime.fromtimestamp(recent_listing['date_posted']).strftime('%Y-%m-%d')
+              term = ', '.join(recent_listing['terms'])
+
+              # Format the message
+              message = (
+                  f"**Company:** {company_name}\n"
+                  f"**Role:** {title}\n"
+                  f"**Location:** {locations}\n"
+                  f"**Application/Link:** [Apply Here]({url})\n"
+                  f"**Date Posted:** {date_posted}\n"
+                  f"**Term:** {term}\n"
+                  "---------------------------"
+              )
+
               # Send the message to Discord
               response = requests.post(
                   os.getenv('DISCORD_WEBHOOK'),
@@ -89,30 +87,17 @@ jobs:
               # Raise an error if the request failed
               response.raise_for_status()
 
-              # Output the sent message
-              print("\n--- Sent Listing ---")
-              print(message)
+              # Save the recent listing to last_listing.json
+              with last_listing_path.open('w') as f:
+                  json.dump(recent_listing, f, indent=4)
 
-              # Update the last_sent.txt file
-              with last_sent_path.open('w') as f:
-                  f.write(title)
+          # Output the sent message
+          print("\n--- Sent Listing ---")
+          print(message)
 
-              # Commit message for the listings
-              commit_message = f"Updated listing sent to Discord: {title}"
-              print(f"\n--- Commit Message ---\n{commit_message}")
-          else:
-              print("No new listings to send.")
+          # Commit message for the listings
+          commit_message = f"Updated listing sent to Discord: {title}" if recent_listing != last_listing else "No new listings sent to Discord."
+          print(f"\n--- Commit Message ---\n{commit_message}")
 
           EOF
           python script.py
-
-      - name: Commit the last sent listing
-        env:
-          GH_PAT: ${{ secrets.GH_PAT }}
-        run: |
-          git config --global user.name "github-actions"
-          git config --global user.email "github-actions@github.com"
-          git add job-listings/.github/scripts/last_sent.txt
-          git commit -m "Update last_sent.txt with the latest listing"
-          git push https://x-access-token:${{ secrets.GH_PAT }}@github.com/${{ github.repository }}.git HEAD:main
-          
