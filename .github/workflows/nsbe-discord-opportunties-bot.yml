@@ -1,12 +1,13 @@
 name: Notify Discord
 
 on:
+  schedule:
+    - cron: '0 12 * * *' # Runs daily at 12:00 UTC
   workflow_dispatch: # Allows manual triggering of the workflow
   push:
     branches:
       - main
-    paths:
-      - 'job-listings/.github/scripts/listings.json' # Triggers only when listings.json is updated
+
 jobs:
   notify:
     runs-on: ubuntu-latest
