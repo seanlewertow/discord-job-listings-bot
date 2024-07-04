@@ -1,12 +1,13 @@
 name: Notify Discord
 
 on:
-  workflow_dispatch:
+  workflow_dispatch: # Allows manual triggering of the workflow
   push:
     branches:
       - main
     paths:
       - 'job-listings/.github/scripts/listings.json' # Triggers only when listings.json is updated
+      - 'new-grad-positions/.github/scripts/listings.json' # Triggers only when new grad listings.json is updated
 
 jobs:
   notify:
@@ -18,6 +19,12 @@ jobs:
         with:
           repository: SimplifyJobs/Summer2025-Internships
           path: job-listings
+
+      - name: Checkout new grad positions repository
+        uses: actions/checkout@v2
+        with:
+          repository: SimplifyJobs/New-Grad-Positions
+          path: new-grad-positions
 
       - name: Checkout personal repository
         uses: actions/checkout@v2
@@ -48,72 +55,127 @@ jobs:
           from pathlib import Path
           import requests
 
-          # Load the listings
-          listings_path = Path('job-listings/.github/scripts/listings.json')
-          with listings_path.open() as f:
-              listings = json.load(f)
+          # Load the listings from both repositories
+          job_listings_path = Path('job-listings/.github/scripts/listings.json')
+          new_grad_listings_path = Path('new-grad-positions/.github/scripts/listings.json')
+          
+          with job_listings_path.open() as f:
+              job_listings = json.load(f)
+          
+          with new_grad_listings_path.open() as f:
+              new_grad_listings = json.load(f)
 
-          # Load the last sent listing
-          last_sent_path = Path('personal-repo/.github/data/last_sent_listing.json') # Updated directory
+          # Load the last sent listing for both types
+          last_sent_path = Path('personal-repo/.github/data/last_sent_listing.json')
+          last_sent_new_grad_path = Path('personal-repo/.github/data/last_sent_new_grad_listing.json')
+
           if last_sent_path.exists():
               with last_sent_path.open() as f:
                   last_sent_listing = json.load(f)
           else:
               last_sent_listing = {}
 
-          # Get the most recent listing (the last one in the JSON file)
-          recent_listing = listings[-1]
+          if last_sent_new_grad_path.exists():
+              with last_sent_new_grad_path.open() as f:
+                  last_sent_new_grad_listing = json.load(f)
+          else:
+              last_sent_new_grad_listing = {}
+
+          # Get the most recent listings (the last ones in the JSON files)
+          recent_job_listing = job_listings[-1]
+          recent_new_grad_listing = new_grad_listings[-1]
 
           # Debug: Print recent and last sent listings
-          print(f"Recent Listing ID: {recent_listing['id']}")
-          print(f"Last Sent Listing ID: {last_sent_listing.get('id')}")
+          print(f"Recent Job Listing ID: {recent_job_listing['id']}")
+          print(f"Last Sent Job Listing ID: {last_sent_listing.get('id')}")
+          print(f"Recent New Grad Listing ID: {recent_new_grad_listing['id']}")
+          print(f"Last Sent New Grad Listing ID: {last_sent_new_grad_listing.get('id')}")
 
-          # Check if the recent listing was already sent
-          if recent_listing['id'] == last_sent_listing.get('id'):
-              print("No new listings to send.")
-              # Create a flag file to indicate no new listings
-              with open('no_new_listings.txt', 'w') as flag_file:
-                  flag_file.write('true')
-              exit(0)
+          # Check if the recent listings were already sent
+          job_listing_message = ""
+          if recent_job_listing['id'] != last_sent_listing.get('id'):
+              # Extract job listing details
+              job_company_name = recent_job_listing['company_name']
+              job_title = recent_job_listing['title']
+              job_locations = ', '.join(recent_job_listing['locations'])
+              job_url = recent_job_listing['url']
+              job_date_posted = datetime.fromtimestamp(recent_job_listing['date_posted']).strftime('%Y-%m-%d')
+              job_term = ', '.join(recent_job_listing['terms'])
 
-          # Extract listing details
-          company_name = recent_listing['company_name']
-          title = recent_listing['title']
-          locations = ', '.join(recent_listing['locations'])
-          url = recent_listing['url']
-          date_posted = datetime.fromtimestamp(recent_listing['date_posted']).strftime('%Y-%m-%d')
-          term = ', '.join(recent_listing['terms'])
+              # Format the message for job listing
+              job_listing_message = (
+                  f"**Company:** {job_company_name}\n"
+                  f"**Role:** {job_title}\n"
+                  f"**Location:** {job_locations}\n"
+                  f"**Application/Link:** [Apply Here]({job_url})\n"
+                  f"**Date Posted:** {job_date_posted}\n"
+                  f"**Term:** {job_term}\n"
+                  "---------------------------"
+              )
 
-          # Format the message
-          message = (
-              f"**Company:** {company_name}\n"
-              f"**Role:** {title}\n"
-              f"**Location:** {locations}\n"
-              f"**Application/Link:** [Apply Here]({url})\n"
-              f"**Date Posted:** {date_posted}\n"
-              f"**Term:** {term}\n"
-              "---------------------------"
-          )
+              # Send the message to Discord
+              response = requests.post(
+                  os.getenv('DISCORD_WEBHOOK'),
+                  json={'content': job_listing_message}
+              )
 
-          # Send the message to Discord
-          response = requests.post(
-              os.getenv('DISCORD_WEBHOOK'),
-              json={'content': message}
-          )
+              # Raise an error if the request failed
+              response.raise_for_status()
 
-          # Raise an error if the request failed
-          response.raise_for_status()
+              # Output the sent message
+              print("\n--- Sent Job Listing ---")
+              print(job_listing_message)
 
-          # Output the sent message
-          print("\n--- Sent Listing ---")
-          print(message)
+              # Update last sent job listing file
+              with last_sent_path.open('w') as f:
+                  json.dump(recent_job_listing, f, indent=2)
 
-          # Update last sent listing file
-          with last_sent_path.open('w') as f:
-              json.dump(recent_listing, f, indent=2)
+          new_grad_listing_message = ""
+          if recent_new_grad_listing['id'] != last_sent_new_grad_listing.get('id'):
+              # Extract new grad listing details
+              new_grad_company_name = recent_new_grad_listing['company_name']
+              new_grad_title = recent_new_grad_listing['title']
+              new_grad_locations = ', '.join(recent_new_grad_listing['locations'])
+              new_grad_url = recent_new_grad_listing['url']
+              new_grad_date_posted = datetime.fromtimestamp(recent_new_grad_listing['date_posted']).strftime('%Y-%m-%d')
+              new_grad_term = ', '.join(recent_new_grad_listing['terms'])
+
+              # Format the message for new grad listing
+              new_grad_listing_message = (
+                  f"**Company:** {new_grad_company_name}\n"
+                  f"**Role:** {new_grad_title}\n"
+                  f"**Location:** {new_grad_locations}\n"
+                  f"**Application/Link:** [Apply Here]({new_grad_url})\n"
+                  f"**Date Posted:** {new_grad_date_posted}\n"
+                  f"**Term:** {new_grad_term}\n"
+                  "---------------------------"
+              )
+
+              # Send the message to Discord
+              response = requests.post(
+                  os.getenv('DISCORD_WEBHOOK'),
+                  json={'content': new_grad_listing_message}
+              )
+
+              # Raise an error if the request failed
+              response.raise_for_status()
+
+              # Output the sent message
+              print("\n--- Sent New Grad Listing ---")
+              print(new_grad_listing_message)
+
+              # Update last sent new grad listing file
+              with last_sent_new_grad_path.open('w') as f:
+                  json.dump(recent_new_grad_listing, f, indent=2)
 
           # Prepare commit message
-          commit_message = f"Update last sent listing: {title}"
+          commit_message = ""
+          if job_listing_message:
+              commit_message += f"Update last sent job listing: {recent_job_listing['title']}"
+
+          if new_grad_listing_message:
+              commit_message += f"\nUpdate last sent new grad listing: {recent_new_grad_listing['title']}"
+
           print(f"\n--- Commit Message ---\n{commit_message}")
           EOF
           python script.py
@@ -123,7 +185,7 @@ jobs:
         run: |
           if [ -f "no_new_listings.txt" ]; then
             echo "no_new_listings=true" >> $GITHUB_ENV
-          else
+          else:
             echo "no_new_listings=false" >> $GITHUB_ENV
           fi
 
@@ -133,6 +195,6 @@ jobs:
           cd personal-repo
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-          git add .github/data/last_sent_listing.json
-          git commit -m "Update last sent listing"
+          git add .github/data/last_sent_listing.json .github/data/last_sent_new_grad_listing.json
+          git commit -m "Update last sent listings"
           git push
