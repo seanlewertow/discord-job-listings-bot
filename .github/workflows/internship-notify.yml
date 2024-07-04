@@ -122,4 +122,18 @@ jobs:
       - name: Check if there are new listings
         id: check_new_listings
         run: |
-          if [ -f "no_new_listings.txt" ];
+          if [ -f "no_new_listings.txt" ]; then
+            echo "no_new_listings=true" >> $GITHUB_ENV
+          else
+            echo "no_new_listings=false" >> $GITHUB_ENV
+          fi
+
+      - name: Commit and push last sent listing to personal repository
+        if: env.no_new_listings == 'false'
+        run: |
+          cd personal-repo
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add .github/data/last_sent_internship_listing.json
+          git commit -m "Update last sent listings"
+          git push
