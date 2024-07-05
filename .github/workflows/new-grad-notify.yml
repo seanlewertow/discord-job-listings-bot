@@ -4,7 +4,7 @@ on:
   workflow_dispatch: # Allows manual triggering of the workflow
   push:
     branches:
-      - main
+      - dev
     paths:
       - 'new-grad-positions/.github/scripts/listings.json' # Triggers only when new grad listings.json is updated
 
