@@ -1,19 +1,19 @@
 {
   "source": "Simplify",
-  "company_name": "OfferUp",
-  "id": "7106730e-7acc-4cee-b236-f2481b8d7478",
-  "title": "Software Development Engineer Intern - Summer 2024",
+  "company_name": "Air Company",
+  "id": "9f26c37b-dc9b-4f89-b5bb-9cb030a30736",
+  "title": "Engineering Intern",
   "active": true,
   "terms": [
-    "Summer 2024"
+    "Summer 2025"
   ],
-  "date_updated": 1719962633,
-  "date_posted": 1719962633,
-  "url": "https://boards.greenhouse.io/offerup/jobs/6084534",
+  "date_updated": 1720048398,
+  "date_posted": 1720048398,
+  "url": "https://boards.greenhouse.io/aircompany/jobs/4440209005",
   "locations": [
-    "Bellevue, WA"
+    "NYC"
   ],
-  "company_url": "https://simplify.jobs/c/OfferUp",
+  "company_url": "https://simplify.jobs/c/Air-Company",
   "is_visible": true,
   "sponsorship": "Other"
 }
