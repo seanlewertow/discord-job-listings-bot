@@ -6,7 +6,7 @@ on:
     branches:
       - dev
     paths:
-      - 'new-grad-positions/.github/scripts/listings.json' # Triggers only when new grad listings.json is updated
+      - '.github/scripts/listings.json' # Triggers only when new grad listings.json is updated
 
 jobs:
   notify:
@@ -80,14 +80,14 @@ jobs:
               new_grad_url = recent_new_grad_listing['url']
               new_grad_date_posted = datetime.fromtimestamp(recent_new_grad_listing['date_posted']).strftime('%Y-%m-%d')
 
-              # Format the message for new grad listing
+              # Format the message for new grad listing with emojis
               new_grad_listing_message = (
-                  f"**[FULL-TIME]**\n"
-                  f"**Company:** {new_grad_company_name}\n"
-                  f"**Role:** {new_grad_title}\n"
-                  f"**Location:** {new_grad_locations}\n"
-                  f"**Application/Link:** [Apply Here]({new_grad_url})\n"
-                  f"**Date Posted:** {new_grad_date_posted}\n"
+                  f"🌟 **[FULL-TIME]** 🌟\n"
+                  f"🏢 **Company:** {new_grad_company_name}\n"
+                  f"💼 **Role:** {new_grad_title}\n"
+                  f"📍 **Location:** {new_grad_locations}\n"
+                  f"🔗 **Application/Link:** [Apply Here]({new_grad_url})\n"
+                  f"📅 **Date Posted:** {new_grad_date_posted}\n"
                   "---------------------------"
               )
 
