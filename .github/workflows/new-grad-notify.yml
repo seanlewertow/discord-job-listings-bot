@@ -1,19 +1,15 @@
 name: Notify Discord - New Grad Positions
 
 on:
-  workflow_dispatch: # Allows manual triggering of the workflow
-  push:
-    branches:
-      - dev
-    paths:
-      - '.github/scripts/listings.json' # Triggers only when new grad listings.json is updated
+  repository_dispatch:
+    types: [new_grad_update_detected]
 
 jobs:
   notify:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout new grad positions repository
+      - name: Checkout New-Grad-Positions repository
         uses: actions/checkout@v2
         with:
           repository: SimplifyJobs/New-Grad-Positions
