@@ -1,12 +1,8 @@
 name: Notify Discord - Internships
 
 on:
-  workflow_dispatch:
-  push:
-    branches:
-      - dev
-    paths:
-      - '.github/scripts/listings.json' # Triggers when listings.json is updated in either repo
+  repository_dispatch:
+    types: [internship_update_detected]
 
 jobs:
   notify:
