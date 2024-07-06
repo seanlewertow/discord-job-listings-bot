@@ -1,19 +1,19 @@
 {
-  "source": "Simplify",
-  "company_name": "Air Company",
-  "id": "9f26c37b-dc9b-4f89-b5bb-9cb030a30736",
-  "title": "Engineering Intern",
-  "active": true,
+  "date_updated": 1720226246,
+  "url": "https://apply.workable.com/capula-investment-management-ltd/j/CADD57CDA5/",
+  "company_name": "Capula",
+  "title": "Trading and Research Summer Internship",
+  "locations": [
+    "New York, New York, United States"
+  ],
   "terms": [
     "Summer 2025"
   ],
-  "date_updated": 1720048398,
-  "date_posted": 1720048398,
-  "url": "https://boards.greenhouse.io/aircompany/jobs/4440209005",
-  "locations": [
-    "NYC"
-  ],
-  "company_url": "https://simplify.jobs/c/Air-Company",
-  "is_visible": true,
-  "sponsorship": "Other"
+  "sponsorship": "Offers Sponsorship",
+  "active": true,
+  "source": "JihuiTanUchicago",
+  "id": "330e0143-b984-451c-8e54-229b5620b343",
+  "date_posted": 1720226246,
+  "company_url": "",
+  "is_visible": true
 }
