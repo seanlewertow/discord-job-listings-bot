@@ -78,7 +78,7 @@ jobs:
 
               # Format the message for new grad listing with emojis
               new_grad_listing_message = (
-                  f"🌟 **[FULL-TIME]** 🌟\n"
+                  f"🌟 **[NEW GRAD]** 🌟\n"
                   f"🏢 **Company:** {new_grad_company_name}\n"
                   f"💼 **Role:** {new_grad_title}\n"
                   f"📍 **Location:** {new_grad_locations}\n"
