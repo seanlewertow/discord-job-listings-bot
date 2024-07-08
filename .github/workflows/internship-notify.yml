@@ -147,7 +147,9 @@ jobs:
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
           git stash
           git pull --rebase
-          git stash pop
+          if git stash list | grep -q 'stash@{0}'; then
+            git stash pop
+          fi
           git add .github/data/last_sent_internship_listing.json
           if [ -f "../commit_message.txt" ]; then
             commit_message=$(cat ../commit_message.txt)
