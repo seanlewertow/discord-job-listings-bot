@@ -158,6 +158,13 @@ jobs:
           echo "Contents of the modified file:"
           cat .github/data/last_sent_internship_listings.json
 
+      - name: Add and Track New File
+        if: env.no_new_listings == 'false'
+        run: |
+          cd personal-repo
+          git add .github/data/last_sent_internship_listings.json
+          git status  # Debug: Check if the file is now tracked
+
       - name: Commit and push last sent listing to personal repository
         if: env.no_new_listings == 'false'
         run: |
