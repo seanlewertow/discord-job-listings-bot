@@ -145,6 +145,15 @@ jobs:
             echo "no_new_listings=false" >> $GITHUB_ENV
           fi
 
+      - name: Debug Git Status Before Commit
+        if: env.no_new_listings == 'false'
+        run: |
+          cd personal-repo
+          echo "Git status before adding files:"
+          git status
+          echo "Contents of the modified file:"
+          cat .github/data/last_sent_internship_listings.json
+
       - name: Commit and push last sent listing to personal repository
         if: env.no_new_listings == 'false'
         run: |
@@ -154,8 +163,9 @@ jobs:
           git stash
           git pull --rebase
           git stash pop
-          cat .github/data/last_sent_internship_listings.json  # Debug: Print the contents of the file to verify changes
           git add .github/data/last_sent_internship_listings.json
+          echo "Git status after adding files:"
+          git status
           commit_message=$(cat ../commit_message.txt)
           echo "Commit message: $commit_message"
           git commit -m "$commit_message"
