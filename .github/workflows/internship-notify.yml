@@ -1,26 +1,15 @@
 name: Notify Discord - Internships
 
 on:
-  workflow_dispatch:
+  repository_dispatch:
+    types: [internship_update_detected]
 
 jobs:
   notify:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout Summer2025-Internships repository
-        uses: actions/checkout@v2
-        with:
-          repository: SimplifyJobs/Summer2025-Internships
-          path: summer2025
-
-      - name: Checkout New-Grad-Positions repository
-        uses: actions/checkout@v2
-        with:
-          repository: SimplifyJobs/New-Grad-Positions
-          path: new-grad
-
-      - name: Checkout personal repository
+      - name: Checkout repositories
         uses: actions/checkout@v2
         with:
           repository: seanlewertow/discord-job-listings-bot
@@ -35,7 +24,7 @@ jobs:
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install jq requests
+          pip install requests
 
       - name: Extract and Send job listings
         id: extract_and_send
@@ -51,8 +40,7 @@ jobs:
 
           # Load the listings
           listings_paths = [
-              Path('summer2025/.github/scripts/listings.json'),
-              Path('new-grad/.github/scripts/listings.json')
+              Path('personal-repo/.github/data/previous_internship_listings.json')
           ]
 
           listings = []
