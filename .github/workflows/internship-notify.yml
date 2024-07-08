@@ -50,33 +50,42 @@ jobs:
           with summer_listings_path.open() as f:
               summer_listings = json.load(f)
 
-          # Load the last sent listing for internships
-          last_sent_internship_path = Path('personal-repo/.github/data/last_sent_internship_listing.json')
+          # Load the last sent listings for internships
+          last_sent_internships_path = Path('personal-repo/.github/data/last_sent_internship_listings.json')
 
-          if last_sent_internship_path.exists():
-              with last_sent_internship_path.open() as f:
-                  last_sent_internship_listing = json.load(f)
+          if last_sent_internships_path.exists():
+              with last_sent_internships_path.open() as f:
+                  last_sent_internship_listings = json.load(f)
           else:
-              last_sent_internship_listing = {}
+              last_sent_internship_listings = []
 
-          # Get the most recent internship listing (the last one in the JSON file)
-          recent_internship_listing = summer_listings[-1]
+          # Get the most recent 5 internship listings
+          recent_internship_listings = summer_listings[-5:]
 
           # Debug: Print recent and last sent listings
-          print(f"Recent Internship Listing ID: {recent_internship_listing['id']}")
-          print(f"Last Sent Internship Listing ID: {last_sent_internship_listing.get('id')}")
+          print(f"Recent Internship Listings IDs: {[listing['id'] for listing in recent_internship_listings]}")
+          print(f"Last Sent Internship Listings IDs: {[listing['id'] for listing in last_sent_internship_listings]}")
 
-          # Check if the recent listing was already sent
-          internship_listing_message = ""
+          # Initialize flag for new listings
+          new_listings = []
+
+          # Check if the recent listings were already sent
+          for listing in recent_internship_listings:
+              if listing['id'] not in [sent_listing['id'] for sent_listing in last_sent_internship_listings]:
+                  new_listings.append(listing)
+
+          # Prepare commit message
           commit_message = ""
-          if recent_internship_listing['id'] != last_sent_internship_listing.get('id'):
+
+          # If there are new listings, process them
+          for listing in new_listings:
               # Extract internship listing details
-              internship_company_name = recent_internship_listing['company_name']
-              internship_title = recent_internship_listing['title']
-              internship_locations = ', '.join(recent_internship_listing['locations'])
-              internship_url = recent_internship_listing['url']
-              internship_date_posted = datetime.fromtimestamp(recent_internship_listing['date_posted']).strftime('%Y-%m-%d')
-              internship_term = ', '.join(recent_internship_listing['terms'])
+              internship_company_name = listing['company_name']
+              internship_title = listing['title']
+              internship_locations = ', '.join(listing['locations'])
+              internship_url = listing['url']
+              internship_date_posted = datetime.fromtimestamp(listing['date_posted']).strftime('%Y-%m-%d')
+              internship_term = ', '.join(listing['terms'])
 
               # Format the message for internship listing with emojis
               internship_listing_message = (
@@ -103,21 +112,21 @@ jobs:
               print("\n--- Sent Internship Listing ---")
               print(internship_listing_message)
 
-              # Update last sent internship listing file
-              with last_sent_internship_path.open('w') as f:
-                  json.dump(recent_internship_listing, f, indent=2)
+              # Update last sent internship listings file
+              last_sent_internship_listings.append(listing)
+              with last_sent_internships_path.open('w') as f:
+                  json.dump(last_sent_internship_listings[-5:], f, indent=2)
 
-              # Prepare commit message
-              commit_message = f"added {internship_title} role by {internship_company_name}"
+              # Add to commit message
+              commit_message += f"added {internship_title} role by {internship_company_name}\n"
 
           # Create a flag file if there's nothing to commit
           if not commit_message:
               with open('no_new_listings.txt', 'w') as flag_file:
                   flag_file.write('true')
-
-          # Write the commit message to a file to be read by the next step
-          with open('commit_message.txt', 'w') as f:
-              f.write(commit_message)
+          else:
+              with open('commit_message.txt', 'w') as f:
+                  f.write(commit_message)
 
           EOF
           python script.py
@@ -140,7 +149,7 @@ jobs:
           git stash
           git pull --rebase
           git stash pop
-          git add .github/data/last_sent_internship_listing.json
+          git add .github/data/last_sent_internship_listings.json
           commit_message=$(cat ../commit_message.txt)
           git commit -m "$commit_message"
           git push
