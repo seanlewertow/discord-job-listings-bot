@@ -135,6 +135,7 @@ jobs:
           cd personal-repo
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git pull --rebase
           git add .github/data/last_sent_internship_listing.json
           git commit -m "Update last sent listing"
           git push
