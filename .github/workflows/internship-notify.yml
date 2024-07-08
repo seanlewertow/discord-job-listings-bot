@@ -149,6 +149,10 @@ jobs:
           git pull --rebase
           git stash pop
           git add .github/data/last_sent_internship_listing.json
-          commit_message=$(cat ../commit_message.txt)
-          git commit -m "$commit_message"
-          git push
+          if [ -f "../commit_message.txt" ]; then
+            commit_message=$(cat ../commit_message.txt)
+            git commit -m "$commit_message"
+            git push
+          else
+            echo "No commit message found, skipping commit."
+          fi
