@@ -15,12 +15,6 @@ jobs:
           repository: SimplifyJobs/Summer2025-Internships
           path: summer2025
 
-      - name: Checkout New-Grad-Positions repository
-        uses: actions/checkout@v2
-        with:
-          repository: SimplifyJobs/New-Grad-Positions
-          path: new-grad
-
       - name: Checkout personal repository
         uses: actions/checkout@v2
         with:
@@ -50,84 +44,79 @@ jobs:
           from pathlib import Path
           import requests
 
-          # Load the listings
-          listings_paths = [
-              Path('summer2025/.github/scripts/listings.json'),
-              Path('new-grad/.github/scripts/listings.json')
-          ]
+          # Load the listings from summer internships repository
+          summer_listings_path = Path('summer2025/.github/scripts/listings.json')
 
-          listings = []
-          for listings_path in listings_paths:
-              if listings_path.exists():
-                  with listings_path.open() as f:
-                      listings.extend(json.load(f))
+          with summer_listings_path.open() as f:
+              summer_listings = json.load(f)
 
-          # Sort listings by date posted
-          listings.sort(key=lambda x: x['date_posted'], reverse=True)
+          # Load the last sent listing for internships
+          last_sent_internship_path = Path('personal-repo/.github/data/last_sent_internship_listing.json')
 
-          # Load the last sent listing
-          last_sent_path = Path('personal-repo/.github/data/last_sent_internship_listing.json')
-          if last_sent_path.exists():
-              with last_sent_path.open() as f:
+          if last_sent_internship_path.exists():
+              with last_sent_internship_path.open() as f:
                   last_sent_internship_listing = json.load(f)
           else:
               last_sent_internship_listing = {}
 
-          # Get the most recent listing (the last one in the JSON file)
-          recent_listing = listings[0]
+          # Get the most recent internship listing (the last one in the JSON file)
+          recent_internship_listing = summer_listings[-1]
 
           # Debug: Print recent and last sent listings
-          print(f"Recent Listing ID: {recent_listing['id']}")
-          print(f"Last Sent Listing ID: {last_sent_internship_listing.get('id')}")
+          print(f"Recent Internship Listing ID: {recent_internship_listing['id']}")
+          print(f"Last Sent Internship Listing ID: {last_sent_internship_listing.get('id')}")
 
           # Check if the recent listing was already sent
-          if recent_listing['id'] == last_sent_internship_listing.get('id'):
-              print("No new listings to send.")
-              # Create a flag file to indicate no new listings
-              with open('no_new_listings.txt', 'w') as flag_file:
-                  flag_file.write('true')
-              exit(0)
+          internship_listing_message = ""
+          if recent_internship_listing['id'] != last_sent_internship_listing.get('id'):
+              # Extract internship listing details
+              internship_company_name = recent_internship_listing['company_name']
+              internship_title = recent_internship_listing['title']
+              internship_locations = ', '.join(recent_internship_listing['locations'])
+              internship_url = recent_internship_listing['url']
+              internship_date_posted = datetime.fromtimestamp(recent_internship_listing['date_posted']).strftime('%Y-%m-%d')
+              internship_term = ', '.join(recent_internship_listing['terms'])
 
-          # Extract listing details
-          company_name = recent_listing['company_name']
-          title = recent_listing['title']
-          locations = ', '.join(recent_listing['locations'])
-          url = recent_listing['url']
-          date_posted = datetime.fromtimestamp(recent_listing['date_posted']).strftime('%Y-%m-%d')
-          term = ', '.join(recent_listing['terms'])
+              # Format the message for internship listing with emojis
+              internship_listing_message = (
+                  f"🚀 **[INTERNSHIP]** 🚀\n"
+                  f"🏢 **Company:** {internship_company_name}\n"
+                  f"💼 **Role:** {internship_title}\n"
+                  f"📍 **Location:** {internship_locations}\n"
+                  f"🔗 **Application/Link:** [Apply Here]({internship_url})\n"
+                  f"📅 **Date Posted:** {internship_date_posted}\n"
+                  f"🕒 **Term:** {internship_term}\n"
+                  "---------------------------"
+              )
 
-          # Format the message with emojis
-          message = (
-              f"🚀 **[INTERNSHIP]** 🚀\n"
-              f"🏢 **Company:** {company_name}\n"
-              f"💼 **Role:** {title}\n"
-              f"📍 **Location:** {locations}\n"
-              f"🔗 **Application/Link:** [Apply Here]({url})\n"
-              f"📅 **Date Posted:** {date_posted}\n"
-              f"🕒 **Term:** {term}\n"
-              "---------------------------"
-          )
+              # Send the message to Discord
+              response = requests.post(
+                  os.getenv('DISCORD_WEBHOOK'),
+                  json={'content': internship_listing_message}
+              )
 
-          # Send the message to Discord
-          response = requests.post(
-              os.getenv('DISCORD_WEBHOOK'),
-              json={'content': message}
-          )
+              # Raise an error if the request failed
+              response.raise_for_status()
 
-          # Raise an error if the request failed
-          response.raise_for_status()
+              # Output the sent message
+              print("\n--- Sent Internship Listing ---")
+              print(internship_listing_message)
 
-          # Output the sent message
-          print("\n--- Sent Listing ---")
-          print(message)
-
-          # Update last sent listing file
-          with last_sent_path.open('w') as f:
-              json.dump(recent_listing, f, indent=2)
+              # Update last sent internship listing file
+              with last_sent_internship_path.open('w') as f:
+                  json.dump(recent_internship_listing, f, indent=2)
 
           # Prepare commit message
-          commit_message = f"Update last sent listing: {title}"
+          commit_message = ""
+          if internship_listing_message:
+              commit_message += f"Update last sent internship listing: {recent_internship_listing['title']}"
+
           print(f"\n--- Commit Message ---\n{commit_message}")
+
+          # Create a flag file if there's nothing to commit
+          if not commit_message:
+              with open('no_new_listings.txt', 'w') as flag_file:
+                  flag_file.write('true')
           EOF
           python script.py
 
