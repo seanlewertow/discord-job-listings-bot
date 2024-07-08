@@ -1,8 +1,7 @@
 name: Notify Discord - New Grad Positions
 
 on:
-  repository_dispatch:
-    types: [new_grad_update_detected]
+  workflow_dispatch:
 
 jobs:
   notify:
