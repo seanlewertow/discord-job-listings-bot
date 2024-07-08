@@ -68,6 +68,7 @@ jobs:
 
           # Check if the recent listing was already sent
           internship_listing_message = ""
+          commit_message = ""
           if recent_internship_listing['id'] != last_sent_internship_listing.get('id'):
               # Extract internship listing details
               internship_company_name = recent_internship_listing['company_name']
@@ -106,17 +107,18 @@ jobs:
               with last_sent_internship_path.open('w') as f:
                   json.dump(recent_internship_listing, f, indent=2)
 
-          # Prepare commit message
-          commit_message = ""
-          if internship_listing_message:
-              commit_message += f"added {recent_internship_listing['title']} role by {recent_internship_listing['company_name']}"
-
-          print(f"\n--- Commit Message ---\n{commit_message}")
+              # Prepare commit message
+              commit_message = f"added {internship_title} role by {internship_company_name}"
 
           # Create a flag file if there's nothing to commit
           if not commit_message:
               with open('no_new_listings.txt', 'w') as flag_file:
                   flag_file.write('true')
+
+          # Write the commit message to a file to be read by the next step
+          with open('commit_message.txt', 'w') as f:
+              f.write(commit_message)
+
           EOF
           python script.py
 
@@ -139,5 +141,6 @@ jobs:
           git pull --rebase
           git stash pop
           git add .github/data/last_sent_internship_listing.json
-          git commit -m "added ${recent_internship_listing['title']} role by ${recent_internship_listing['company_name']}"
+          commit_message=$(cat ../commit_message.txt)
+          git commit -m "$commit_message"
           git push
