@@ -43,6 +43,7 @@ jobs:
           from datetime import datetime
           from pathlib import Path
           import requests
+          import time  # Import time for delay
 
           # Load the listings from summer internships repository
           summer_listings_path = Path('summer2025/.github/scripts/listings.json')
@@ -59,8 +60,8 @@ jobs:
           else:
               last_sent_internship_listings = []
 
-          # Get the most recent 5 internship listings
-          recent_internship_listings = summer_listings[-5:]
+          # Get the most recent 3 internship listings
+          recent_internship_listings = summer_listings[-3:]
 
           # Debug: Print recent and last sent listings
           print(f"Recent Internship Listings IDs: {[listing['id'] for listing in recent_internship_listings]}")
@@ -115,12 +116,15 @@ jobs:
               # Update last sent internship listings file
               last_sent_internship_listings.append(listing)
               with last_sent_internships_path.open('w') as f:
-                  json.dump(last_sent_internship_listings[-5:], f, indent=2)
+                  json.dump(last_sent_internship_listings[-3:], f, indent=2)
                   f.flush()  # Ensure data is written to disk
                   os.fsync(f.fileno())
 
               # Add to commit message
               commit_message += f"added {internship_title} role by {internship_company_name}\n"
+
+              # Delay to prevent rate limiting
+              time.sleep(5)
 
           # Debug: Print updated listings
           print(f"Updated Last Sent Internship Listings: {last_sent_internship_listings}")
