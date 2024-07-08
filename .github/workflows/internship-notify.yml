@@ -2,7 +2,7 @@ name: Notify Discord - Internships
 
 on:
   repository_dispatch:
-    types: [check_internship_updates]
+    types: [internship_update_detected]
 
 jobs:
   notify:
