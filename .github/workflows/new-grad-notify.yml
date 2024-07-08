@@ -89,7 +89,6 @@ jobs:
               new_grad_locations = ', '.join(listing['locations'])
               new_grad_url = listing['url']
               new_grad_date_posted = datetime.fromtimestamp(listing['date_posted']).strftime('%Y-%m-%d')
-              new_grad_term = ', '.join(listing['terms'])
 
               # Format the message for new grad listing with emojis
               new_grad_listing_message = (
@@ -99,7 +98,6 @@ jobs:
                   f"📍 **Location:** {new_grad_locations}\n"
                   f"🔗 **Application/Link:** [Apply Here]({new_grad_url})\n"
                   f"📅 **Date Posted:** {new_grad_date_posted}\n"
-                  f"🕒 **Term:** {new_grad_term}\n"
                   "---------------------------"
               )
 
