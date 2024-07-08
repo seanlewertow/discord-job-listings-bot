@@ -107,7 +107,7 @@ jobs:
           # Prepare commit message
           commit_message = ""
           if new_grad_listing_message:
-              commit_message += f"Update last sent new grad listing: {recent_new_grad_listing['title']}"
+              commit_message += f"added {recent_new_grad_listing['title']} role by {recent_new_grad_listing['company_name']}"
 
           print(f"\n--- Commit Message ---\n{commit_message}")
 
@@ -133,6 +133,9 @@ jobs:
           cd personal-repo
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git stash
+          git pull --rebase
+          git stash pop
           git add .github/data/last_sent_new_grad_listing.json
-          git commit -m "Update last sent listings"
+          git commit -m "added ${recent_new_grad_listing['title']} role by ${recent_new_grad_listing['company_name']}"
           git push
