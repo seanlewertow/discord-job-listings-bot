@@ -56,6 +56,9 @@ jobs:
           if last_sent_internship_path.exists():
               with last_sent_internship_path.open() as f:
                   last_sent_internship_listings = json.load(f)
+                  # Ensure it's a list
+                  if not isinstance(last_sent_internship_listings, list):
+                      last_sent_internship_listings = [last_sent_internship_listings]
           else:
               last_sent_internship_listings = []
 
