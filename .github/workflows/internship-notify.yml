@@ -154,6 +154,7 @@ jobs:
           git stash
           git pull --rebase
           git stash pop
+          cat .github/data/last_sent_internship_listings.json  # Debug: Print the contents of the file to verify changes
           git add .github/data/last_sent_internship_listings.json
           commit_message=$(cat ../commit_message.txt)
           echo "Commit message: $commit_message"
