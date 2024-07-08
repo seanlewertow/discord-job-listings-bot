@@ -1,7 +1,8 @@
 name: Notify Discord - Internships
 
 on:
-  workflow_dispatch:
+  repository_dispatch:
+    types: [check_internship_updates]
 
 jobs:
   notify:
