@@ -116,9 +116,14 @@ jobs:
               last_sent_internship_listings.append(listing)
               with last_sent_internships_path.open('w') as f:
                   json.dump(last_sent_internship_listings[-5:], f, indent=2)
+                  f.flush()  # Ensure data is written to disk
+                  os.fsync(f.fileno())
 
               # Add to commit message
               commit_message += f"added {internship_title} role by {internship_company_name}\n"
+
+          # Debug: Print updated listings
+          print(f"Updated Last Sent Internship Listings: {last_sent_internship_listings}")
 
           # Create a flag file if there's nothing to commit
           if not commit_message:
@@ -151,5 +156,6 @@ jobs:
           git stash pop
           git add .github/data/last_sent_internship_listings.json
           commit_message=$(cat ../commit_message.txt)
+          echo "Commit message: $commit_message"
           git commit -m "$commit_message"
           git push
