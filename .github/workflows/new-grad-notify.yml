@@ -46,36 +46,45 @@ jobs:
 
           # Load the listings from new grad positions repository
           new_grad_listings_path = Path('new-grad-positions/.github/scripts/listings.json')
-          
+
           with new_grad_listings_path.open() as f:
               new_grad_listings = json.load(f)
 
-          # Load the last sent listing for new grad positions
-          last_sent_new_grad_path = Path('personal-repo/.github/data/last_sent_new_grad_listing.json')
+          # Load the last sent listings for new grad positions
+          last_sent_new_grads_path = Path('personal-repo/.github/data/last_sent_new_grad_listings.json')
 
-          if last_sent_new_grad_path.exists():
-              with last_sent_new_grad_path.open() as f:
-                  last_sent_new_grad_listing = json.load(f)
+          if last_sent_new_grads_path.exists():
+              with last_sent_new_grads_path.open() as f:
+                  last_sent_new_grad_listings = json.load(f)
           else:
-              last_sent_new_grad_listing = {}
+              last_sent_new_grad_listings = []
 
-          # Get the most recent new grad listing (the last one in the JSON file)
-          recent_new_grad_listing = new_grad_listings[-1]
+          # Get the most recent 5 new grad listings
+          recent_new_grad_listings = new_grad_listings[-5:]
 
           # Debug: Print recent and last sent listings
-          print(f"Recent New Grad Listing ID: {recent_new_grad_listing['id']}")
-          print(f"Last Sent New Grad Listing ID: {last_sent_new_grad_listing.get('id')}")
+          print(f"Recent New Grad Listings IDs: {[listing['id'] for listing in recent_new_grad_listings]}")
+          print(f"Last Sent New Grad Listings IDs: {[listing['id'] for listing in last_sent_new_grad_listings]}")
 
-          # Check if the recent listing was already sent
-          new_grad_listing_message = ""
+          # Initialize flag for new listings
+          new_listings = []
+
+          # Check if the recent listings were already sent
+          for listing in recent_new_grad_listings:
+              if listing['id'] not in [sent_listing['id'] for sent_listing in last_sent_new_grad_listings]:
+                  new_listings.append(listing)
+
+          # Prepare commit message
           commit_message = ""
-          if recent_new_grad_listing['id'] != last_sent_new_grad_listing.get('id'):
+
+          # If there are new listings, process them
+          for listing in new_listings:
               # Extract new grad listing details
-              new_grad_company_name = recent_new_grad_listing['company_name']
-              new_grad_title = recent_new_grad_listing['title']
-              new_grad_locations = ', '.join(recent_new_grad_listing['locations'])
-              new_grad_url = recent_new_grad_listing['url']
-              new_grad_date_posted = datetime.fromtimestamp(recent_new_grad_listing['date_posted']).strftime('%Y-%m-%d')
+              new_grad_company_name = listing['company_name']
+              new_grad_title = listing['title']
+              new_grad_locations = ', '.join(listing['locations'])
+              new_grad_url = listing['url']
+              new_grad_date_posted = datetime.fromtimestamp(listing['date_posted']).strftime('%Y-%m-%d')
 
               # Format the message for new grad listing with emojis
               new_grad_listing_message = (
@@ -101,21 +110,21 @@ jobs:
               print("\n--- Sent New Grad Listing ---")
               print(new_grad_listing_message)
 
-              # Update last sent new grad listing file
-              with last_sent_new_grad_path.open('w') as f:
-                  json.dump(recent_new_grad_listing, f, indent=2)
+              # Update last sent new grad listings file
+              last_sent_new_grad_listings.append(listing)
+              with last_sent_new_grads_path.open('w') as f:
+                  json.dump(last_sent_new_grad_listings[-5:], f, indent=2)
 
-              # Prepare commit message
-              commit_message = f"added {new_grad_title} role by {new_grad_company_name}"
+              # Add to commit message
+              commit_message += f"added {new_grad_title} role by {new_grad_company_name}\n"
 
           # Create a flag file if there's nothing to commit
           if not commit_message:
               with open('no_new_listings.txt', 'w') as flag_file:
                   flag_file.write('true')
-
-          # Write the commit message to a file to be read by the next step
-          with open('commit_message.txt', 'w') as f:
-              f.write(commit_message)
+          else:
+              with open('commit_message.txt', 'w') as f:
+                  f.write(commit_message)
 
           EOF
           python script.py
@@ -138,7 +147,7 @@ jobs:
           git stash
           git pull --rebase
           git stash pop
-          git add .github/data/last_sent_new_grad_listing.json
+          git add .github/data/last_sent_new_grad_listings.json
           commit_message=$(cat ../commit_message.txt)
           git commit -m "$commit_message"
           git push
