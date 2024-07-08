@@ -109,7 +109,7 @@ jobs:
           # Prepare commit message
           commit_message = ""
           if internship_listing_message:
-              commit_message += f"Update last sent internship listing: {recent_internship_listing['title']}"
+              commit_message += f"added {recent_internship_listing['title']} role by {recent_internship_listing['company_name']}"
 
           print(f"\n--- Commit Message ---\n{commit_message}")
 
@@ -139,6 +139,5 @@ jobs:
           git pull --rebase
           git stash pop
           git add .github/data/last_sent_internship_listing.json
-          git commit -m "Update last sent listing"
+          git commit -m "added ${recent_internship_listing['title']} role by ${recent_internship_listing['company_name']}"
           git push
-
