@@ -3,7 +3,6 @@ name: Check for Updates
 on:
   workflow_dispatch:
 
-
 jobs:
   check_updates:
     runs-on: ubuntu-latest
@@ -20,6 +19,13 @@ jobs:
         with:
           repository: SimplifyJobs/New-Grad-Positions
           path: new-grad
+
+      - name: Checkout personal repository
+        uses: actions/checkout@v2
+        with:
+          repository: seanlewertow/discord-job-listings-bot
+          path: personal-repo
+          token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
 
       - name: Set up Python
         uses: actions/setup-python@v2
@@ -38,13 +44,13 @@ jobs:
           curl -o current_internship_listings.json https://raw.githubusercontent.com/SimplifyJobs/Summer2025-Internships/dev/.github/scripts/listings.json
 
           # Compare with the previous version
-          if [ -f "previous_internship_listings.json" ] && cmp -s "current_internship_listings.json" "previous_internship_listings.json"; then
+          if [ -f "personal-repo/.github/data/previous_internship_listings.json" ] && cmp -s "current_internship_listings.json" "personal-repo/.github/data/previous_internship_listings.json"; then
             echo "No changes detected in Summer2025-Internships listings.json."
             echo "no_changes_internship=true" >> $GITHUB_ENV
           else
             echo "Changes detected in Summer2025-Internships listings.json."
             echo "no_changes_internship=false" >> $GITHUB_ENV
-            cp current_internship_listings.json previous_internship_listings.json
+            cp current_internship_listings.json personal-repo/.github/data/previous_internship_listings.json
           fi
 
       - name: Check for updates in New-Grad-Positions listings.json
@@ -54,13 +60,13 @@ jobs:
           curl -o current_new_grad_listings.json https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/.github/scripts/listings.json
 
           # Compare with the previous version
-          if [ -f "previous_new_grad_listings.json" ] && cmp -s "current_new_grad_listings.json" "previous_new_grad_listings.json"; then
+          if [ -f "personal-repo/.github/data/previous_new_grad_listings.json" ] && cmp -s "current_new_grad_listings.json" "personal-repo/.github/data/previous_new_grad_listings.json"; then
             echo "No changes detected in New-Grad-Positions listings.json."
             echo "no_changes_new_grad=true" >> $GITHUB_ENV
           else
             echo "Changes detected in New-Grad-Positions listings.json."
             echo "no_changes_new_grad=false" >> $GITHUB_ENV
-            cp current_new_grad_listings.json previous_new_grad_listings.json
+            cp current_new_grad_listings.json personal-repo/.github/data/previous_new_grad_listings.json
           fi
 
       - name: Trigger Internship Workflow
