@@ -50,28 +50,29 @@ jobs:
           with summer_listings_path.open() as f:
               summer_listings = json.load(f)
 
-          # Load the last sent listing for internships
+          # Load the last sent listings for internships
           last_sent_internship_path = Path('personal-repo/.github/data/last_sent_internship_listing.json')
 
           if last_sent_internship_path.exists():
               with last_sent_internship_path.open() as f:
-                  last_sent_internship_listing = json.load(f)
+                  last_sent_internship_listings = json.load(f)
           else:
-              last_sent_internship_listing = {}
+              last_sent_internship_listings = []
 
           # Get the most recent internship listings (last five in the JSON file)
           recent_internship_listings = summer_listings[-5:]
 
           # Debug: Print recent and last sent listings
           print(f"Recent Internship Listings IDs: {[listing['id'] for listing in recent_internship_listings]}")
-          print(f"Last Sent Internship Listing ID: {last_sent_internship_listing.get('id')}")
+          print(f"Last Sent Internship Listings IDs: {[listing['id'] for listing in last_sent_internship_listings]}")
 
           # Initialize flag for new listings
           new_listings = []
 
           # Check if the recent listings were already sent
+          last_sent_ids = {listing['id'] for listing in last_sent_internship_listings}
           for listing in recent_internship_listings:
-              if listing['id'] != last_sent_internship_listing.get('id'):
+              if listing['id'] not in last_sent_ids:
                   new_listings.append(listing)
 
           # Prepare commit message
@@ -112,9 +113,8 @@ jobs:
               print("\n--- Sent Internship Listing ---")
               print(internship_listing_message)
 
-              # Update last sent internship listing file
-              with last_sent_internship_path.open('w') as f:
-                  json.dump(listing, f, indent=2)
+              # Add to the list of last sent listings
+              last_sent_internship_listings.append(listing)
 
               # Add to commit message
               commit_message += f"added {internship_title} role by {internship_company_name}\n"
@@ -126,6 +126,10 @@ jobs:
           else:
               with open('commit_message.txt', 'w') as f:
                   f.write(commit_message)
+
+              # Update last sent internship listings file
+              with last_sent_internship_path.open('w') as f:
+                  json.dump(last_sent_internship_listings, f, indent=2)
 
           EOF
           python script.py
