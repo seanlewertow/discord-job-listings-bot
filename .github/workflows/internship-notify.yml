@@ -2,7 +2,7 @@ name: Notify Discord - Internships
 
 on:
   repository_dispatch:
-    types: [internship_update_detected]
+    types: [internship_update_detected] # triggers on internship function call in check-updates.yml
 
 jobs:
   notify:
