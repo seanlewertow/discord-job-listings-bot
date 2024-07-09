@@ -132,5 +132,43 @@
     "date_posted": 1720489251,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "source": "Simplify",
+    "company_name": "OfferUp",
+    "id": "8960a5c9-4a5f-4a76-b640-97697b7f9fe9",
+    "title": "Data Science Intern - Summer 2024",
+    "active": true,
+    "terms": [
+      "Summer 2024"
+    ],
+    "date_updated": 1720481038,
+    "date_posted": 1720481038,
+    "url": "https://boards.greenhouse.io/offerup/jobs/6087085",
+    "locations": [
+      "Bellevue, WA"
+    ],
+    "company_url": "https://simplify.jobs/c/OfferUp",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Tower Research Capital",
+    "id": "4f6ecd1b-121b-49fe-a143-88fc71d3c0de",
+    "title": "Quantitative Trader Intern - Summer 2025",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1720481014,
+    "date_posted": 1720481014,
+    "url": "https://www.tower-research.com/open-positions/?gh_jid=6072039",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Tower-Research-Capital",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
