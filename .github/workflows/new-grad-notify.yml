@@ -2,7 +2,7 @@ name: Notify Discord - New Grad
 
 on:
   repository_dispatch:
-    types: [new_grad_update_detected]
+    types: [new_grad_update_detected] # triggers on new grad function in check-updates.yml - every 3-4 mins
 
 jobs:
   notify:
