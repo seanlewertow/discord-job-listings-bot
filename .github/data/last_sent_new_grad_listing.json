@@ -124,5 +124,88 @@
     "date_posted": 1720489342,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "source": "Simplify",
+    "company_name": "HealthJoy",
+    "id": "9ada8f5d-98c1-411b-9efd-e03f362882a6",
+    "title": "Associate Data Scientist",
+    "active": true,
+    "date_updated": 1720538413,
+    "date_posted": 1720538413,
+    "url": "https://boards.greenhouse.io/healthjoy/jobs/7487584002",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/HealthJoy",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Tower Research Capital",
+    "id": "94fb4e14-f70c-4a17-b8e0-d3fca91e7698",
+    "title": "Quantitative Trader - 2025",
+    "active": true,
+    "date_updated": 1720481014,
+    "date_posted": 1720481014,
+    "url": "https://www.tower-research.com/open-positions/?gh_jid=6072033",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Tower-Research-Capital",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Regrello",
+    "id": "0fd5c74a-e2e7-4b03-a2e1-d8a0cc6545dd",
+    "title": "Software Engineer - Frontend - Forms Engine",
+    "active": true,
+    "date_updated": 1720484851,
+    "date_posted": 1720480055,
+    "url": "https://jobs.lever.co/regrello/5d0cccdc-c5a1-44e0-9ff6-b08d586462f1/apply",
+    "locations": [
+      "Seattle, WA",
+      "SF",
+      "Austin, TX",
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Regrello",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Granicus",
+    "id": "1a10f1ec-d680-432f-96e9-dd5a934b8f70",
+    "title": "Implementation Associate - Address ID & Validation",
+    "active": true,
+    "date_updated": 1720486387,
+    "date_posted": 1719616214,
+    "url": "https://jobs.lever.co/granicus/e5451632-f0bd-4f16-be0f-9296777eebf4/apply",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/Granicus",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Welocalize",
+    "id": "bfbab0eb-f229-4e62-b482-1c626fd3b5fc",
+    "title": "Search Satisfaction Grader - English - US - Language",
+    "active": true,
+    "date_updated": 1720485213,
+    "date_posted": 1719069811,
+    "url": "https://jobs.lever.co/welocalize/6bc91e9d-e58f-4013-b755-c7f188ac196c/apply",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/Welocalize",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
