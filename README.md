@@ -7,7 +7,7 @@ Welcome to the **Discord Job Listings Bot** repository! This bot is designed to 
 
 ## Overview
 
-As the President of UF NSBE, I am dedicated to supporting my peers by providing tools and resources that enhance our journey as engineers. This bot ensures that every member is aware of new opportunities as they arise, thanks to the SimplifyJobs organization.
+I love supporting my peers by providing tools and resources that enhance our journey as engineers. This bot ensures that every member is aware of new opportunities as they arise, thanks to the SimplifyJobs organization.
 
 <img width="431" alt="image" src="https://github.com/seanlewertow/discord-job-listings-bot/assets/116752300/5d25437a-47d0-470a-9edd-5bdb86483754">
 
@@ -24,7 +24,7 @@ The bot automatically scans for new internship and new grad roles from the Simpl
 
 ## Why This Matters
 
-In April 2024, I was had the honor to officially represent my local chapter as President. I work to be the backbone and reinforcement for my peers. This bot is a step towards that goal, making sure that every member has the best chance to succeed by staying informed about career opportunities. With SimplifyJobs providing these listings, we're ensuring you have access to some of the best opportunities out there.
+In April 2024, I had the honor to be inducted and officially represent my local chapter as President. I work to be the backbone and reinforcement for my peers. This bot is a step towards that goal, making sure that every member has the best chance to succeed by staying informed about career opportunities. With SimplifyJobs providing these listings, we're ensuring you have access to some of the best opportunities out there.
 
 ## How to Recreate This Bot in Your Discord Channel
 
