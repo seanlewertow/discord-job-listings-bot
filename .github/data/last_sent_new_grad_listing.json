@@ -255,5 +255,85 @@
     "date_posted": 1720558860,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Applied Intuition",
+    "id": "a5846470-6311-4ea3-8cd8-f958210c0987",
+    "title": "Software Engineer - Frontend",
+    "active": true,
+    "date_updated": 1716967005,
+    "date_posted": 1689751280,
+    "url": "https://boards.greenhouse.io/appliedintuition/jobs/4045237005",
+    "locations": [
+      "Mountain View, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Applied-Intuition",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Coin Metrics",
+    "id": "bfe06c39-ad42-4238-a63c-83e02d27dd0b",
+    "title": "Protocol Specialist",
+    "active": true,
+    "date_updated": 1720639078,
+    "date_posted": 1716246571,
+    "url": "https://boards.greenhouse.io/coinmetrics/jobs/5184681004",
+    "locations": [
+      "Boston, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/Coin-Metrics",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Zip",
+    "id": "17f1b740-2c6a-4b83-bbe8-8142b619f20e",
+    "title": "Software Engineer \u2013 Early Career - Product",
+    "active": true,
+    "date_updated": 1716405609,
+    "date_posted": 1714807576,
+    "url": "https://boards.greenhouse.io/zip/jobs/4731006004",
+    "locations": [
+      "SF"
+    ],
+    "company_url": "https://simplify.jobs/c/Zip",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Rhombus Power",
+    "id": "f0fea00b-d9ff-4d0a-8a43-516e013ef698",
+    "title": "Strategic Intelligence Analyst / Data Analyst - Washington DC",
+    "active": true,
+    "date_updated": 1718414392,
+    "date_posted": 1714778822,
+    "url": "https://boards.greenhouse.io/rhombuspower/jobs/5598640003",
+    "locations": [
+      "Washington, DC"
+    ],
+    "company_url": "https://simplify.jobs/c/Rhombus-Power",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Quora",
+    "id": "4377c507-aff2-4fcb-9452-80cc433c1058",
+    "title": "Software Engineer - Ads - Remote",
+    "active": true,
+    "date_updated": 1711410842,
+    "date_posted": 1711410842,
+    "url": "https://jobs.ashbyhq.com/quora/2dea8b1e-4898-481f-a7c3-0ec3befee426/application",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/Quora",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
