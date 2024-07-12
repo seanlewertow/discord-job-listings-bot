@@ -209,24 +209,4 @@
     "is_visible": true,
     "sponsorship": "Other"
   },
-  {
-    "source": "Simplify",
-    "company_name": "GPTZero",
-    "id": "85d9aada-1016-4113-88e9-ad05a178e614",
-    "title": "Machine Learning Intern",
-    "active": true,
-    "terms": [
-      "Summer 2025"
-    ],
-    "date_updated": 1720710369,
-    "date_posted": 1720710369,
-    "url": "https://jobs.ashbyhq.com/GPTZero/d7e6f3ee-8446-4ac4-b1f8-e79c9876c31a/application",
-    "locations": [
-      "Toronto, ON, Canada",
-      "NYC"
-    ],
-    "company_url": "https://simplify.jobs/c/GPTZero",
-    "is_visible": true,
-    "sponsorship": "Other"
-  }
 ]
