@@ -461,5 +461,100 @@
     "date_posted": 1721145558,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "source": "Simplify",
+    "company_name": "IXL Learning",
+    "id": "8ca0c749-e89e-4d5e-b537-7d4c18f08e9c",
+    "title": "Software Engineer \u2013 Intern",
+    "active": true,
+    "terms": [
+      "Summer 2024"
+    ],
+    "date_updated": 1721085842,
+    "date_posted": 1721085842,
+    "url": "https://www.ixl.com/company/jobs?gh_jid=7535493002",
+    "locations": [
+      "San Mateo, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/IXL-Learning",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Klue",
+    "id": "00347dd3-7eb0-4322-888f-e7334b4a36e0",
+    "title": "Data Analyst Intern",
+    "active": true,
+    "terms": [
+      "Fall 2024"
+    ],
+    "date_updated": 1721085402,
+    "date_posted": 1721085402,
+    "url": "https://jobs.ashbyhq.com/klue/329ca111-0653-490d-9a9c-3776c3b58e77/application",
+    "locations": [
+      "Vancouver, BC, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/klue",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Point72",
+    "id": "793bcd34-4a64-46a3-a84a-2cd684a0bef8",
+    "title": "2024 Software Engineer Internship - Long/Short Equities",
+    "active": true,
+    "terms": [
+      "Fall 2024"
+    ],
+    "date_updated": 1721085402,
+    "date_posted": 1721085402,
+    "url": "https://boards.greenhouse.io/point72/jobs/7534587002",
+    "locations": [
+      "London, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Point72",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Akuna Capital",
+    "id": "df1b789e-f7a1-4ef8-999e-88a393e5e169",
+    "title": "Trader Intern - Summer 2025",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1721085371,
+    "date_posted": 1721085371,
+    "url": "https://www.akunacapital.com/job-details?gh_jid=6075208",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/Akuna-Capital",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Akuna Capital",
+    "id": "87d18c63-3a25-45cc-ab10-d99c351a6a8c",
+    "title": "Quantitative Development Internship - Summer 2025",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1721085368,
+    "date_posted": 1721085368,
+    "url": "https://www.akunacapital.com/job-details?gh_jid=5744527",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/Akuna-Capital",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
