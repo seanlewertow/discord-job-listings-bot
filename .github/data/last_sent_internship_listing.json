@@ -639,5 +639,62 @@
     "company_url": "https://simplify.jobs/c/Leidos",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Sunwater Capital",
+    "id": "e098c292-137b-44ae-913a-16754a5663f9",
+    "title": "Sunwater Institute Congressional Data Internship",
+    "active": true,
+    "terms": [
+      "Fall 2024"
+    ],
+    "date_updated": 1721316005,
+    "date_posted": 1721316005,
+    "url": "https://jobs.lever.co/sunwatercapital/2ea3dcf2-2b94-4ac2-864e-e08688539830/apply",
+    "locations": [
+      "North Bethesda, MD"
+    ],
+    "company_url": "https://simplify.jobs/c/SunwaterCapital",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Sunwater Capital",
+    "id": "24bd39ce-3dbc-465b-8597-103dd32ed06e",
+    "title": "Sunwater Institute Data Science Intern",
+    "active": true,
+    "terms": [
+      "Fall 2024"
+    ],
+    "date_updated": 1721316004,
+    "date_posted": 1721316004,
+    "url": "https://jobs.lever.co/sunwatercapital/5c255114-0dc9-4a94-995f-0daefb727b1f/apply",
+    "locations": [
+      "North Bethesda, MD"
+    ],
+    "company_url": "https://simplify.jobs/c/SunwaterCapital",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Pison",
+    "id": "1585093a-69dd-4004-97e1-ad05820646ac",
+    "title": "Data Collection Fall Intern",
+    "active": true,
+    "terms": [
+      "Fall 2024"
+    ],
+    "date_updated": 1721315187,
+    "date_posted": 1721315187,
+    "url": "https://jobs.lever.co/pison/942dbddb-f6d1-459b-8281-271e8734388c/apply",
+    "locations": [
+      "Boston, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/PisonTech",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
