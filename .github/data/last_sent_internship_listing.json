@@ -848,5 +848,24 @@
     "date_posted": 1721605521,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "source": "Simplify",
+    "company_name": "T. Rowe Price",
+    "id": "2545afb8-201e-4ab1-910c-f8fc06be7c60",
+    "title": "2025 Global Trading Internship Program",
+    "active": true,
+    "terms": [
+      "Summer 2024"
+    ],
+    "date_updated": 1721661564,
+    "date_posted": 1721661564,
+    "url": "https://troweprice.wd5.myworkdayjobs.com/en-US/TRowePrice/job/Baltimore-MD/XMLNAME-2025-Global-Trading-Internship-Program_72418",
+    "locations": [
+      "Baltimore, MD"
+    ],
+    "company_url": "https://simplify.jobs/c/t-rowe-price",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
