@@ -867,5 +867,100 @@
     "company_url": "https://simplify.jobs/c/t-rowe-price",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Antimetal",
+    "id": "b06d0184-d0f8-4fc4-99ca-32df25fd6848",
+    "title": "Engineering Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1721719803,
+    "date_posted": 1721719803,
+    "url": "https://jobs.ashbyhq.com/antimetal/a9081c17-93b4-4db9-a1d2-0d608d53de0c/application",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/820f56ab-d9a7-4427-82c7-b053b6eaa0d4",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "MachineFi",
+    "id": "44a974bb-ba39-42d9-8188-13b12f295ac6",
+    "title": "Developer Relations Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1721719464,
+    "date_posted": 1721719464,
+    "url": "https://jobs.lever.co/machinefilab/8009f812-9a24-49d5-beb4-9f22a60db006/apply",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/8f5b2f28-01ae-46b2-8cdd-183cfa2f95ee",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Codeium",
+    "id": "8c071f6e-a41b-4034-8f1e-34d82a4c940e",
+    "title": "Software Engineering Intern - Fall 2024",
+    "active": true,
+    "terms": [
+      "Fall 2024"
+    ],
+    "date_updated": 1721719438,
+    "date_posted": 1721719438,
+    "url": "https://jobs.ashbyhq.com/codeium/4058ab0f-8074-4b61-aa13-6b5b5f734035/application",
+    "locations": [
+      "Mountain View, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/5db7086b-b6ff-42a7-8f16-5967451d29bf",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Leidos",
+    "id": "c1e21835-a4a6-432c-b8c4-62c0475d88a9",
+    "title": "Software Engineer Co-op-Fall 2024",
+    "active": true,
+    "terms": [
+      "Fall 2024"
+    ],
+    "date_updated": 1721690169,
+    "date_posted": 1721690169,
+    "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Arlington-VA/Software-Engineer-Co-op--Fall-2024_R-00139947",
+    "locations": [
+      "Arlington, VA"
+    ],
+    "company_url": "https://simplify.jobs/c/Leidos",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "GuidePoint Security",
+    "id": "13d5f359-e39e-4760-b537-3a7994e11388",
+    "title": "Resource Management Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1721689613,
+    "date_posted": 1721603190,
+    "url": "https://boards.greenhouse.io/guidepointsecurity/jobs/5236367004",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/GuidePoint-Security",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
