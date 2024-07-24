@@ -982,5 +982,43 @@
     "date_posted": 1721779939,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "source": "Simplify",
+    "company_name": "CACI",
+    "id": "37e50883-22f2-4b23-96a5-8422c3cd08f3",
+    "title": "Software Developer Intern - Fall 2024",
+    "active": true,
+    "terms": [
+      "Fall 2024"
+    ],
+    "date_updated": 1721776081,
+    "date_posted": 1721776081,
+    "url": "https://caci.wd1.myworkdayjobs.com/External/job/US-VA-Charlottesville/Software-Developer-Intern---Fall-2024_299212-1",
+    "locations": [
+      "Charlottesville, VA"
+    ],
+    "company_url": "https://simplify.jobs/c/CACI",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Akuna Capital",
+    "id": "b13ff4b5-fbc9-4fcd-8ec5-08c3e510f67c",
+    "title": "Performance Engineer Intern - Summer 2025",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1721085376,
+    "date_posted": 1721085376,
+    "url": "https://www.akunacapital.com/job-details?gh_jid=5744699",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/Akuna-Capital",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
