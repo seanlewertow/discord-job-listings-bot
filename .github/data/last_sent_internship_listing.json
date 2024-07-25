@@ -1020,5 +1020,66 @@
     "company_url": "https://simplify.jobs/c/Akuna-Capital",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Gordian Biotechnology",
+    "id": "277bad20-b5f4-4158-9b18-e9584db29d59",
+    "title": "Gordian Apprenticeship - Data Science",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1721892531,
+    "date_posted": 1721892531,
+    "url": "https://jobs.lever.co/gordian-bio/8c0b28f2-ed01-450d-a9eb-758073638050/apply",
+    "locations": [
+      "San Bruno, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Gordian-Biotechnology",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "ATPCO",
+    "id": "787289d2-3d47-4052-88f0-88833953a6aa",
+    "title": "Systems Engineer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1721720089,
+    "date_posted": 1721720089,
+    "url": "https://jobs.smartrecruiters.com/ATPCO1/744000000717125",
+    "locations": [
+      "Remote in USA",
+      "Dulles, VA"
+    ],
+    "company_url": "https://simplify.jobs/c/e38ff337-ef4e-42b4-b1fc-e1834b3b603f",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Rivos",
+    "id": "9f55fb4b-5ccf-48ff-9654-a2fd4b002062",
+    "title": "Silicon Formal Verification \u2013 Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1719518910,
+    "date_posted": 1719518910,
+    "url": "https://jobs.lever.co/rivosinc/53230c5e-cec1-4069-9771-1ce7b525d71c/apply",
+    "locations": [
+      "Austin, TX",
+      "Santa Clara, CA",
+      "Fort Collins, CO",
+      "Portland, OR"
+    ],
+    "company_url": "https://simplify.jobs/c/Rivos",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
