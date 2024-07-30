@@ -1306,5 +1306,82 @@
     "date_posted": 1722290924,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Western Digital",
+    "id": "1835d5b8-d862-4843-a543-77867071987a",
+    "title": "Co-op \u2013 Jan - Jul 2025 - Software Engineer - System Testing",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1722352230,
+    "date_posted": 1722352230,
+    "url": "https://jobs.smartrecruiters.com/WesternDigital/744000003629105",
+    "locations": [
+      "Rochester, MN"
+    ],
+    "company_url": "https://simplify.jobs/c/Western-Digital",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Virtu Financial",
+    "id": "c06871a9-2d33-43bf-ad90-24568de92046",
+    "title": "Internship - Developer",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1722287068,
+    "date_posted": 1722287068,
+    "url": "https://job-boards.greenhouse.io/virtu/jobs/7520504002",
+    "locations": [
+      "Austin, TX",
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Virtu-Financial",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Akuna Capital",
+    "id": "7a39f337-c269-4301-8f0c-9c6d9336687f",
+    "title": "Quantitative Research Intern - Summer 2025",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1722286568,
+    "date_posted": 1722286568,
+    "url": "https://www.akunacapital.com/job-details?gh_jid=5744541",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/Akuna-Capital",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "DRW",
+    "id": "711574d1-db88-4aad-9904-57640cea34bc",
+    "title": "Quantitative Research Intern",
+    "active": true,
+    "terms": [
+      "Summer 2024"
+    ],
+    "date_updated": 1722285926,
+    "date_posted": 1722285926,
+    "url": "https://boards.greenhouse.io/drweng/jobs/6064872",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/DRW",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
