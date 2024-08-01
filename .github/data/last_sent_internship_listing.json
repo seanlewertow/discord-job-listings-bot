@@ -1537,5 +1537,100 @@
     "company_url": "https://simplify.jobs/c/Leidos",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Sentry",
+    "id": "e1b09348-eef5-443f-b05e-c6845bd3590a",
+    "title": "Software Engineer Intern - Summer 2025",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1722527093,
+    "date_posted": 1722527093,
+    "url": "https://boards.greenhouse.io/sentry/jobs/6145601",
+    "locations": [
+      "Toronto, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Sentry",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Sentry",
+    "id": "3d7dbe8a-e064-464f-9b63-3cf9db7fe68a",
+    "title": "Software Engineer Intern - Summer 2025",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1722539757,
+    "date_posted": 1722526831,
+    "url": "https://boards.greenhouse.io/sentry/jobs/6145556",
+    "locations": [
+      "SF"
+    ],
+    "company_url": "https://simplify.jobs/c/Sentry",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Codeium",
+    "id": "21309919-68fe-4bc7-9637-aadc734b0fd3",
+    "title": "Software Engineering Intern - Spring 2025",
+    "active": true,
+    "terms": [
+      "Spring 2025"
+    ],
+    "date_updated": 1722496958,
+    "date_posted": 1722496958,
+    "url": "https://jobs.ashbyhq.com/codeium/940148d2-14b0-41ff-979e-36a95af038b9/application",
+    "locations": [
+      "Mountain View, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/5db7086b-b6ff-42a7-8f16-5967451d29bf",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Codeium",
+    "id": "7dc59b9b-cd8b-4fe7-9acf-95f0859c91ac",
+    "title": "Software Engineering Intern - Summer 2025",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1722496956,
+    "date_posted": 1722496956,
+    "url": "https://jobs.ashbyhq.com/codeium/58e309a8-5451-466a-b34d-4ea44b60e1e4/application",
+    "locations": [
+      "Mountain View, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/5db7086b-b6ff-42a7-8f16-5967451d29bf",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Leidos",
+    "id": "91f8f4fd-6701-44fe-9adc-af9c7e92afe6",
+    "title": "Software Developer Co-op",
+    "active": true,
+    "terms": [
+      "Winter 2025"
+    ],
+    "date_updated": 1722468279,
+    "date_posted": 1722468279,
+    "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Bethesda-MD/Software-Developer-Co-op_R-00140627",
+    "locations": [
+      "Bethesda, MD"
+    ],
+    "company_url": "https://simplify.jobs/c/Leidos",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
