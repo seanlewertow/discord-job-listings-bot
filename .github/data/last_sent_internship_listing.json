@@ -1632,5 +1632,43 @@
     "company_url": "https://simplify.jobs/c/Leidos",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "HPR (Hyannis Port Research)",
+    "id": "97a69c42-89b3-4409-9891-4b877d0f8716",
+    "title": "Software Engineering Intern - Summer 2025",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1722555928,
+    "date_posted": 1722555928,
+    "url": "https://job-boards.greenhouse.io/hyannisportresearch/jobs/6038522003",
+    "locations": [
+      "Needham, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/HyannisPortResearch",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Leidos",
+    "id": "93b3f1c0-4f15-441b-81a7-f0e0b4e1cb8b",
+    "title": "Junior Software Engineer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2024"
+    ],
+    "date_updated": 1722554545,
+    "date_posted": 1722554545,
+    "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Tucson-AZ/Junior-Software-Engineer-Intern_R-00140738",
+    "locations": [
+      "Tucson, AZ"
+    ],
+    "company_url": "https://simplify.jobs/c/Leidos",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
