@@ -1766,5 +1766,85 @@
     "date_posted": 1722830699,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "date_updated": 1722886357,
+    "url": "https://capitalone.wd1.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Technology-Internship-Program---Summer-2025_R189727-1?redirect=/Capital_One/job/McLean-VA/Design-Development-Internship-Program---Summer-2025_R189647-1/apply&workerSubType=a12c70bf789e10572aab83c4780919ad",
+    "company_name": "Capital One",
+    "title": "Technology Internship Program",
+    "locations": [
+      "McLean, VA",
+      "Richmond, VA",
+      "Plano, TX"
+    ],
+    "terms": [
+      "Summer 2025"
+    ],
+    "sponsorship": "Does Not Offer Sponsorship",
+    "active": true,
+    "source": "omarmneimneh",
+    "id": "a51111fa-c587-40c7-a7ab-a148cddbfb5d",
+    "date_posted": 1722886357,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1722886379,
+    "url": "https://apply.deloitte.com/careers/JobDetail/Deloitte-Consulting-Software-Engineering-Summer-Scholar/185362",
+    "company_name": "Deloitte",
+    "title": "Software Engineering Summer Scholar",
+    "locations": [
+      "San Francisco, CA",
+      "Austin, TX",
+      "New York, NY"
+    ],
+    "terms": [
+      "Summer 2025"
+    ],
+    "sponsorship": "Does Not Offer Sponsorship",
+    "active": true,
+    "source": "aroramrinaal",
+    "id": "0a80b128-095b-43aa-b1b8-ea4756e4cefb",
+    "date_posted": 1722886379,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1722886404,
+    "url": "https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/57957?bid=326&tid=x_7e024e72-9265-4f2c-ba2f-59998a99af38&utm_medium=Jobboard",
+    "company_name": "BNY",
+    "title": "Internship Program - Engineering (Developer)",
+    "locations": [
+      "Pittsburgh, PA, United States"
+    ],
+    "terms": [
+      "Summer 2025"
+    ],
+    "sponsorship": "Does Not Offer Sponsorship",
+    "active": true,
+    "source": "aroramrinaal",
+    "id": "d9cc11df-a46e-4d4b-a188-1f09a39e87c2",
+    "date_posted": 1722886404,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1722886425,
+    "url": "https://careers.tiktok.com/position/7397158652886763814/detail?spread=5MWH5CQ",
+    "company_name": "TikTok",
+    "title": "Software Engineer Intern (Data-TnS-Eng-Biz Arch)",
+    "locations": [
+      "Vancouver, Canada"
+    ],
+    "terms": [
+      "Summer 2025"
+    ],
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "source": "GaryZhous",
+    "id": "18c8e7e4-5277-4f4b-aefd-ff03ba11bd2a",
+    "date_posted": 1722886425,
+    "company_url": "",
+    "is_visible": true
   }
 ]
