@@ -1989,5 +1989,107 @@
     "date_posted": 1722973636,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Arrowstreet Capital",
+    "id": "70df288c-a26d-4892-8843-ab3a862ac9c5",
+    "title": "Quantitative Developer Intern - Summer 2025",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1722901604,
+    "date_posted": 1722901604,
+    "url": "https://arrowstreetcapital.wd5.myworkdayjobs.com/en-US/Arrowstreet/job/Boston/Quantitative-Developer-Intern--Summer-2025_R1117",
+    "locations": [
+      "Boston, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/Arrowstreet-Capital",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Arrowstreet Capital",
+    "id": "0daa975d-9f39-4bba-91c9-12e32d1af8ae",
+    "title": "Quantitative Researcher Intern - Summer 2025",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1722901604,
+    "date_posted": 1722901604,
+    "url": "https://arrowstreetcapital.wd5.myworkdayjobs.com/en-US/Arrowstreet/job/Boston/Quantitative-Researcher-Intern--Summer-2025_R1118",
+    "locations": [
+      "Boston, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/Arrowstreet-Capital",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Salesforce",
+    "id": "fa063a1b-3bfe-48f4-a5e9-6cc2d0253b0a",
+    "title": "Summer 2025 Intern - Software Engineer",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1722901102,
+    "date_posted": 1722901102,
+    "url": "https://salesforce.wd12.myworkdayjobs.com/en-us/External_Career_Site/job/California---San-Francisco/Summer-2025-Intern---Software-Engineer_JR262842-2",
+    "locations": [
+      "Boston, MA",
+      "Seattle, WA",
+      "Indianapolis, IN",
+      "SF",
+      "Dallas, TX",
+      "Bellevue, WA",
+      "Atlanta, GA",
+      "Burlington, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/Salesforce",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Capstone Investment Advisors",
+    "id": "bff02a0d-f389-4473-b6ab-f93b56427d0f",
+    "title": "2025 Summer Internship - Quantitative Risk Technology",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1722901065,
+    "date_posted": 1722901065,
+    "url": "https://boards.greenhouse.io/capstoneinvestmentadvisors/jobs/7582422002",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/CapstoneCo",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Capstone Investment Advisors",
+    "id": "c050b237-c757-4fb8-be33-9434aff91618",
+    "title": "2025 Summer Internship - Quantitative Risk Technology",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1722901001,
+    "date_posted": 1722901001,
+    "url": "https://boards.greenhouse.io/capstoneinvestmentadvisors/jobs/7582423002",
+    "locations": [
+      "London, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/CapstoneCo",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
