@@ -2286,5 +2286,81 @@
     "company_url": "https://simplify.jobs/c/Oshkosh",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Jump Trading",
+    "id": "b04ab8c0-6ce1-4f7d-97ea-0e5149889bd9",
+    "title": "Campus Web Dev / UI Software Engineer \u2013 Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1723218194,
+    "date_posted": 1723218194,
+    "url": "https://boards.greenhouse.io/embed/job_app?token=6165570",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/Jump-Trading",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Jump Trading",
+    "id": "aa3c9a39-b03d-4365-9290-d29f2effa2a4",
+    "title": "Campus Quantitative Trader \u2013 Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1723218040,
+    "date_posted": 1723218040,
+    "url": "https://boards.greenhouse.io/embed/job_app?token=6163189",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/Jump-Trading",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Jump Trading",
+    "id": "32736356-8893-4912-92c8-03a1009f748c",
+    "title": "Campus Quantitative Researcher \u2013 Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1723218042,
+    "date_posted": 1723218042,
+    "url": "https://boards.greenhouse.io/embed/job_app?token=6142397",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/Jump-Trading",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Jump Trading",
+    "id": "d44d2a3b-10ac-4215-a600-6530f5dfdab3",
+    "title": "Campus Software Engineer \u2013 Intern",
+    "active": true,
+    "terms": [
+      "Summer 2024"
+    ],
+    "date_updated": 1723218041,
+    "date_posted": 1723218041,
+    "url": "https://boards.greenhouse.io/embed/job_app?token=6165360",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/Jump-Trading",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
