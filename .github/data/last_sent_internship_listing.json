@@ -2534,5 +2534,130 @@
     "company_url": "https://simplify.jobs/c/Virtu-Financial",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Jump Trading",
+    "id": "885362e5-31ed-4f04-8f72-87ff0c2cfd60",
+    "title": "Campus Software Engineer \u2013 Intern",
+    "active": true,
+    "terms": [
+      "Summer 2024",
+      "Winter 2025",
+      "Spring 2025",
+      "Fall 2025"
+    ],
+    "date_updated": 1723506421,
+    "date_posted": 1723506421,
+    "url": "https://boards.greenhouse.io/embed/job_app?token=5624032",
+    "locations": [
+      "London, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Jump-Trading",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Intel",
+    "id": "4fb5070e-9cc4-4d45-82b0-0d84f5a5a440",
+    "title": "Software Engineer \u2013 PEY Intern",
+    "active": true,
+    "terms": [
+      "Winter 2024"
+    ],
+    "date_updated": 1723505741,
+    "date_posted": 1723505741,
+    "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/Canada-Toronto/Software-Engineer---PEY-Intern_JR0266625",
+    "locations": [
+      "Toronto, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Intel",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Intel",
+    "id": "4cc0f3c7-4e1b-49a2-883c-fd6042e7dee1",
+    "title": "Software Engineer Intern",
+    "active": true,
+    "terms": [
+      "Winter 2024"
+    ],
+    "date_updated": 1723505742,
+    "date_posted": 1723505742,
+    "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/Canada-Toronto/Software-Engineer-Intern_JR0267056",
+    "locations": [
+      "Toronto, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Intel",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Uber",
+    "id": "b5d6183d-0b3d-440c-a465-adedcce1fd4f",
+    "title": "2025 Software Engineering Uberstar Internship - Uber Career Prep - United States",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1723505393,
+    "date_posted": 1723505393,
+    "url": "https://university-uber.icims.com/jobs/133321/job",
+    "locations": [
+      "SF"
+    ],
+    "company_url": "https://simplify.jobs/c/Uber",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "The Boeing Company",
+    "id": "b27f5b96-3966-4a1c-97d6-55dc5d6a25e4",
+    "title": "Boeing Summer 2025 Internship Program - Paid - Information Technology - IT - And Data Analytics - Da - And Digital Aviation Solutions - Das",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1723504978,
+    "date_posted": 1723504978,
+    "url": "https://boeing.wd1.myworkdayjobs.com/external_careers/job/USA---Everett-WA/Boeing-Summer-2025-Internship-Program--Paid----Information-Technology--IT--and-Data-Analytics--DA--and-Digital-Aviation-Solutions--DAS-_00000434120-1",
+    "locations": [
+      "Seattle, WA",
+      "Chester, PA",
+      "Long Beach, CA",
+      "Mesa, AZ",
+      "Colorado Springs, CO",
+      "Dallas, TX",
+      "Fairfax, VA",
+      "Plano, TX",
+      "Chicago, IL",
+      "Seal Beach, CA",
+      "Tukwila, WA",
+      "St Charles, MO",
+      "San Antonio, TX",
+      "Arlington, VA",
+      "Everett, WA",
+      "Auburn, WA",
+      "Reston, VA",
+      "Oklahoma City, OK",
+      "Kent, WA",
+      "Charleston, SC",
+      "Bellevue, WA",
+      "Atlanta, GA",
+      "Huntsville, AL",
+      "North Charleston, SC",
+      "Huntington Beach, CA",
+      "Hazelwood, MO",
+      "Mukilteo, WA",
+      "El Segundo, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Boeing",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
