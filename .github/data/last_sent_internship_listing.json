@@ -2917,5 +2917,100 @@
     "date_posted": 1723694741,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "source": "Simplify",
+    "company_name": "CACI",
+    "id": "6814e858-9b31-4794-af25-682817c62cd5",
+    "title": "Software Engineering Intern - Summer 2025",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1723748945,
+    "date_posted": 1723736637,
+    "url": "https://caci.wd1.myworkdayjobs.com/External/job/US-IL-Lisle/Software-Engineering-Intern---Summer-2025_300424-1",
+    "locations": [
+      "Downers Grove, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/CACI",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Capital One",
+    "id": "449c21e3-67b3-4ee8-91d9-ed2d33d29780",
+    "title": "Data Analyst \u2013 Co Op - Winter 2025",
+    "active": true,
+    "terms": [
+      "Winter 2025"
+    ],
+    "date_updated": 1723707089,
+    "date_posted": 1723707089,
+    "url": "https://capitalone.wd1.myworkdayjobs.com/Capital_One/job/Toronto-ON/Data-Analyst--Co-Op--Winter-2025-_R194493",
+    "locations": [
+      "Toronto, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Capital-One",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Capital One",
+    "id": "c217d0c1-93e6-4395-818e-a0628e35a3fe",
+    "title": "Data Scientist \u2013 Co Op - Winter 2025",
+    "active": true,
+    "terms": [
+      "Winter 2025"
+    ],
+    "date_updated": 1723707088,
+    "date_posted": 1723707088,
+    "url": "https://capitalone.wd1.myworkdayjobs.com/Capital_One/job/Toronto-ON/Data-Scientist--Co-Op--Winter-2025-_R194539",
+    "locations": [
+      "Toronto, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Capital-One",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Bristol-Myers Squibb",
+    "id": "3ad0e981-d336-43f5-b9b3-4bbd3c97acfd",
+    "title": "Digital Accelerator Program Internship - Summer 2025",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1723706831,
+    "date_posted": 1723706831,
+    "url": "https://bristolmyerssquibb.wd5.myworkdayjobs.com/en-US/BMS/job/Princeton---NJ---US/DigITal-Accelerator-Program-Internship---Summer-2025_R1584488",
+    "locations": [
+      "Princeton, NJ"
+    ],
+    "company_url": "https://simplify.jobs/c/Bristol-Myers-Squibb",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "General Assembly",
+    "id": "94255a57-3b11-4f5f-a6fa-12c082f16a7b",
+    "title": "Data Analyst Apprentice",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1723706390,
+    "date_posted": 1723706390,
+    "url": "https://job-boards.greenhouse.io/generalassembly/jobs/6179975",
+    "locations": [
+      "Austin, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/General-Assembly",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
