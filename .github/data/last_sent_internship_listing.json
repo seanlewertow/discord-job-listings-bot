@@ -3012,5 +3012,103 @@
     "company_url": "https://simplify.jobs/c/General-Assembly",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Point72",
+    "id": "a81c5682-3dca-47ef-808f-2e64793ae29f",
+    "title": "Quantitative Research Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1723764948,
+    "date_posted": 1723764948,
+    "url": "https://job-boards.greenhouse.io/point72/jobs/7297667002",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Point72",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Point72",
+    "id": "0a61c01c-d6c3-41b7-8e79-ecde5bae7780",
+    "title": "Summer 2025 Quantitative Developer Internship",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1723764952,
+    "date_posted": 1723764952,
+    "url": "https://job-boards.greenhouse.io/point72/jobs/7297613002",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Point72",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Fetch",
+    "id": "dc0da6a0-114e-44cd-8640-6bbcc9dc1eb4",
+    "title": "IOS Engineer \u2013 Apprenticeship",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1723764677,
+    "date_posted": 1723764677,
+    "url": "https://boards.greenhouse.io/fetchrewards/jobs/6011278003",
+    "locations": [
+      "Madison, WI"
+    ],
+    "company_url": "https://simplify.jobs/c/FetchRewards",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Fetch",
+    "id": "c4f3c3fb-fa73-4a8f-93c2-ce5e3a525849",
+    "title": "IOS Engineer \u2013 Apprenticeship",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1723764674,
+    "date_posted": 1723764674,
+    "url": "https://boards.greenhouse.io/fetchrewards/jobs/6011280003",
+    "locations": [
+      "Birmingham, AL"
+    ],
+    "company_url": "https://simplify.jobs/c/FetchRewards",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Salesforce",
+    "id": "3d0efd81-c286-46aa-93be-ee58e76b91aa",
+    "title": "Summer 2025 Intern - Software Engineer",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1723764615,
+    "date_posted": 1723764615,
+    "url": "https://salesforce.wd12.myworkdayjobs.com/en-us/External_Career_Site/job/Washington---Bellevue/Summer-2025-Intern---Software-Engineer_JR263200-1",
+    "locations": [
+      "Seattle, WA",
+      "SF",
+      "Bellevue, WA",
+      "Atlanta, GA"
+    ],
+    "company_url": "https://simplify.jobs/c/Salesforce",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
