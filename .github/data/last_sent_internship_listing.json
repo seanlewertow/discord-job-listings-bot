@@ -3110,5 +3110,65 @@
     "company_url": "https://simplify.jobs/c/Salesforce",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "date_updated": 1723855653,
+    "url": "https://jobs.boeing.com/job/richmond/data-science-intern/185/68796050496",
+    "company_name": "Boeing Canada",
+    "title": "Data Science Intern",
+    "locations": [
+      "Richmond, BC",
+      "Hybrid"
+    ],
+    "terms": [
+      "Winter 2025"
+    ],
+    "sponsorship": "Does Not Offer Sponsorship",
+    "active": true,
+    "source": "asagu383",
+    "id": "3a734143-8730-4f95-bff3-fa1d159dee23",
+    "date_posted": 1723855653,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1723855727,
+    "url": "https://www.goldmansachs.com/careers/students/programs-and-internships/americas/2025-summer-analyst-program",
+    "company_name": "Goldman Sachs",
+    "title": "2025 Summer Analyst Program",
+    "locations": [
+      "Dallas, TX",
+      "NYC, NY",
+      "Salt lake City, UT"
+    ],
+    "terms": [
+      "Summer 2025"
+    ],
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "source": "Felomondi",
+    "id": "e3e9c1bd-3334-4968-ad5c-891d63acbbc4",
+    "date_posted": 1723855727,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1723855836,
+    "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9923/?lastSelectedFacet=TITLES&location=Canada&locationId=300000000471544&locationLevel=country&mode=location&selectedTitlesFacet=TRA",
+    "company_name": "Nokia",
+    "title": "Web Portal Developer Co-op/Intern",
+    "locations": [
+      "Ottawa, ON"
+    ],
+    "terms": [
+      "Winter 2025"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "source": "asagu383",
+    "id": "9fdf79e1-809d-45eb-812f-0c2bd0280c44",
+    "date_posted": 1723855836,
+    "company_url": "",
+    "is_visible": true
   }
 ]
