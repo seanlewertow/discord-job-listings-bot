@@ -3322,5 +3322,100 @@
     "date_posted": 1724128140,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Bank of Montreal (BMO)",
+    "id": "777c4b5c-ca62-4685-a7d1-c0a0b24581c3",
+    "title": "Data Analytics and Reporting Analyst \u2013 Co-op/Internship - Fall 2024 - 8 Months",
+    "active": true,
+    "terms": [
+      "Fall 2024"
+    ],
+    "date_updated": 1724102374,
+    "date_posted": 1724102374,
+    "url": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Data-Analytics-and-Reporting-Analyst---Fall-2024--Co-op-Internship----8-Months_R240021972",
+    "locations": [
+      "Toronto, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/BMO",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Pison",
+    "id": "9cdfb579-69c6-48c8-b21d-cf0022065919",
+    "title": "Software Intern-Fall",
+    "active": true,
+    "terms": [
+      "Fall 2024"
+    ],
+    "date_updated": 1724101982,
+    "date_posted": 1724101982,
+    "url": "https://jobs.lever.co/pison/3ca2210d-2b4b-445d-9077-f97127e24b2d/apply",
+    "locations": [
+      "Boston, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/PisonTech",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Sony Music Entertainment UK",
+    "id": "18a8669b-316b-4a2e-a76a-87888296bc2e",
+    "title": "Insight & Analytics Intern",
+    "active": true,
+    "terms": [
+      "Winter 2025"
+    ],
+    "date_updated": 1724101909,
+    "date_posted": 1724101909,
+    "url": "https://www.sonymusic.co.uk/careers/job-description/?gh_jid=7569235002",
+    "locations": [
+      "London, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/SonyMusicEnt-UK",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Verkada",
+    "id": "608329ef-256c-49f8-91db-966901cd5e21",
+    "title": "IOS Engineering Intern - Summer 2025",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1724101527,
+    "date_posted": 1724101527,
+    "url": "https://job-boards.greenhouse.io/verkada/jobs/4484581007",
+    "locations": [
+      "San Mateo, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Verkada",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "STR",
+    "id": "e600e563-d15e-4a2e-bb2f-3a810e17cc55",
+    "title": "Research Engineer Spring Co-Op",
+    "active": true,
+    "terms": [
+      "Spring 2024"
+    ],
+    "date_updated": 1724167358,
+    "date_posted": 1723707347,
+    "url": "https://job-boards.greenhouse.io/systemstechnologyresearch/jobs/4394265006",
+    "locations": [
+      "Burlington, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/STR",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
