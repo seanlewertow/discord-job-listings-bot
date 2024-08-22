@@ -3588,5 +3588,63 @@
     "date_posted": 1724287728,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Leidos",
+    "id": "790221fc-b25f-4646-8043-c5903f46d9b8",
+    "title": "Software Engineer Intern - Spring 2025",
+    "active": true,
+    "terms": [
+      "Spring 2025"
+    ],
+    "date_updated": 1724340204,
+    "date_posted": 1724340204,
+    "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Arlington-VA/Software-Engineer-Intern---Spring-2025_R-00142183-1",
+    "locations": [
+      "Arlington, VA"
+    ],
+    "company_url": "https://simplify.jobs/c/Leidos",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Leidos",
+    "id": "f5c0aa0d-ddd2-4327-a13e-d0ffc0c88460",
+    "title": "Software Engineer Intern - Summer 2025",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1724340203,
+    "date_posted": 1724340203,
+    "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Arlington-VA/Software-Engineer-Intern---Summer-2025_R-00142184",
+    "locations": [
+      "Arlington, VA"
+    ],
+    "company_url": "https://simplify.jobs/c/Leidos",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "DriveTime",
+    "id": "6675a0c9-148e-4095-ad5d-e711c67a3daa",
+    "title": "Data Analytics Intern - Summer 2025",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1724282975,
+    "date_posted": 1724282975,
+    "url": "https://drivetime.wd1.myworkdayjobs.com/DriveTime/job/1720-W-Rio-Salado-Pkwy-Tempe-AZ-85281/Data-Analytics-Intern--Summer-2025-_R9141",
+    "locations": [
+      "Texas",
+      "Arizona"
+    ],
+    "company_url": "https://simplify.jobs/c/drivetime",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
