@@ -3666,5 +3666,103 @@
     "date_posted": 1724391556,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Chamberlain Group",
+    "id": "7349c3ec-da49-4f30-a311-cfaea3dbd8a6",
+    "title": "Intern \u2013 Myq Front End Engineer - Android or iOS - Summer 2025",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1724426596,
+    "date_posted": 1724426596,
+    "url": "https://chamberlain.wd1.myworkdayjobs.com/Chamberlain_Group/job/Oak-Brook-IL/Intern--myQ-Front-End-Engineer--Android-or-iOS---Summer-2025-_JR27800",
+    "locations": [
+      "Western Springs, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/Chamberlain-Group",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Stripe",
+    "id": "2cd3eb08-6a76-457c-8442-94397da5ed3e",
+    "title": "Software Engineer \u2013 Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1724398564,
+    "date_posted": 1724398564,
+    "url": "https://stripe.com/jobs/search?gh_jid=6142753",
+    "locations": [
+      "Seattle, WA",
+      "SF",
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Stripe",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Workiva",
+    "id": "28a5430a-ae25-4db4-a0df-25f9cf18d409",
+    "title": "2025 Summer Intern - Software Engineer",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1724369921,
+    "date_posted": 1724369921,
+    "url": "https://workiva.wd1.myworkdayjobs.com/careers/job/USA---Remote/XMLNAME-2025-Summer-Intern---Software-Engineer_R9088",
+    "locations": [
+      "Ames, IA"
+    ],
+    "company_url": "https://simplify.jobs/c/Workiva",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Workiva",
+    "id": "47dca1f4-f047-4148-94eb-3eef6577d9f7",
+    "title": "2025 Summer Intern - Data Science",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1724369920,
+    "date_posted": 1724369920,
+    "url": "https://workiva.wd1.myworkdayjobs.com/careers/job/Denver/Intern---Data-Science_R8720",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/Workiva",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Workiva",
+    "id": "729b7840-d448-4591-bdbf-28c01ecfa822",
+    "title": "2025 Summer Intern - Machine Learning Engineering",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1724369763,
+    "date_posted": 1724369763,
+    "url": "https://workiva.wd1.myworkdayjobs.com/careers/job/USA---Remote/Intern---Machine-Learning-Engineering_R8718-1",
+    "locations": [
+      "Remote in USA",
+      "Denver, CO"
+    ],
+    "company_url": "https://simplify.jobs/c/Workiva",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
