@@ -3898,5 +3898,81 @@
     "company_url": "https://simplify.jobs/c/Wealthsimple",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Chamberlain Group",
+    "id": "614c09eb-c369-4bdf-bf62-037f69d02019",
+    "title": "Intern \u2013 Machine Learning - Computer Vision - And AI - Summer 2025",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1724685533,
+    "date_posted": 1724685533,
+    "url": "https://chamberlain.wd1.myworkdayjobs.com/Chamberlain_Group/job/Oak-Brook-IL/Intern--Machine-Learning--Computer-Vision--and-AI--Summer-2025-_JR27785",
+    "locations": [
+      "Western Springs, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/Chamberlain-Group",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "DV Trading",
+    "id": "ef491a99-b19a-4e4d-b330-0c01b5fda069",
+    "title": "2025 Summer Internship - Trader - DV Energy",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1724658286,
+    "date_posted": 1724658286,
+    "url": "https://boards.greenhouse.io/dvtrading/jobs/4446153005",
+    "locations": [
+      "London, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/DV-Trading",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "DV Trading",
+    "id": "2a49cf78-6b4f-4f55-9daa-cd4d1b2493fa",
+    "title": "2025 Summer Internship - Trader - DV Energy",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1724658287,
+    "date_posted": 1724658287,
+    "url": "https://boards.greenhouse.io/dvtrading/jobs/4443923005",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/DV-Trading",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "DV Trading",
+    "id": "4255b0ba-3ffb-4574-8456-dcf4a8d407c7",
+    "title": "2025 Summer Internship - Software Developer - DV Energy",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1724658285,
+    "date_posted": 1724658285,
+    "url": "https://boards.greenhouse.io/dvtrading/jobs/4443921005",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/DV-Trading",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
