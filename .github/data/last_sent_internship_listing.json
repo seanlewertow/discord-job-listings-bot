@@ -3974,5 +3974,82 @@
     "company_url": "https://simplify.jobs/c/DV-Trading",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "date_updated": 1724703970,
+    "url": "https://www.mathworks.com/company/jobs/opportunities/25610-multiple-openings-engineering-development-group-internship?source=19813&s_eid=Rci_19813",
+    "company_name": "MathWorks",
+    "title": "Software Engineer",
+    "locations": [
+      "Natick, MA"
+    ],
+    "terms": [
+      "Summer 2025"
+    ],
+    "sponsorship": "Does Not Offer Sponsorship",
+    "active": true,
+    "source": "nothans",
+    "id": "5967940f-b8ae-4217-9675-c441d4a48ffc",
+    "date_posted": 1724703970,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1724704028,
+    "url": "https://careers.truist.com/us/en/job/R0092584",
+    "company_name": "Truist",
+    "title": "2025 Technology and Innovation Internship",
+    "locations": [
+      "Charlotte, NC",
+      "Atlanta, GA"
+    ],
+    "terms": [
+      "Summer 2025"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "source": "ajain02",
+    "id": "e2e9bbd7-d8d2-4c17-ac83-c17ad1ee00d2",
+    "date_posted": 1724704028,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1724704071,
+    "url": "https://www.amazon.jobs/en/jobs/2739024/systems-development-engineer-summer-internship-2025-us",
+    "company_name": "Amazon",
+    "title": "Systems Development Engineer Intern",
+    "locations": [
+      "USA, WA, Seattle"
+    ],
+    "terms": [
+      "Summer 2025"
+    ],
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "source": "LuaanNguyen",
+    "id": "5eedaa0a-7057-4eb8-8bfb-df292be9bfb0",
+    "date_posted": 1724704071,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1724704096,
+    "url": "https://geico.wd1.myworkdayjobs.com/en-US/External/details/Software-Development-Intern_R0051950?q=software%20engineer%20intern",
+    "company_name": "GEICO",
+    "title": "Software Development Intern",
+    "locations": [
+      "Remote"
+    ],
+    "terms": [
+      "Summer 2025"
+    ],
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "source": "LuaanNguyen",
+    "id": "62f6dc11-e342-4c62-9755-ed40b8232803",
+    "date_posted": 1724704096,
+    "company_url": "",
+    "is_visible": true
   }
 ]
