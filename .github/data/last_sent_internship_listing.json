@@ -4051,5 +4051,100 @@
     "date_posted": 1724704096,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Stripe",
+    "id": "a6e4aee9-405b-4f2a-95fa-d5018b1b536a",
+    "title": "Software Engineer \u2013 Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1724717036,
+    "date_posted": 1724717036,
+    "url": "https://stripe.com/jobs/search?gh_jid=6172089",
+    "locations": [
+      "Toronto, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Stripe",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Chamberlain Group",
+    "id": "d7b80da4-d6a1-431b-9535-1e6a3f61e228",
+    "title": "Intern \u2013 Myq Front End Developer - Android or iOS - Summer 2025",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1724716480,
+    "date_posted": 1724716480,
+    "url": "https://chamberlain.wd1.myworkdayjobs.com/Chamberlain_Group/job/Oak-Brook-IL/Intern--myQ-Front-End-Developer--Android-or-iOS---Summer-2025-_JR27802",
+    "locations": [
+      "Western Springs, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/Chamberlain-Group",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Vectra",
+    "id": "4b1b5d88-3a23-4901-bf4f-84b181138bf1",
+    "title": "Software Engineering Intern",
+    "active": true,
+    "terms": [
+      "Summer 2024"
+    ],
+    "date_updated": 1724716712,
+    "date_posted": 1724716712,
+    "url": "https://boards.greenhouse.io/vectranetworks/jobs/6142052",
+    "locations": [
+      "Austin, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Vectra",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "date_updated": 1724790573,
+    "url": "https://careers.thomsonreuters.com/us/en/job/JREQ181909/Software-Engineering-Intern-Summer-2025",
+    "company_name": "Thompson Reuters",
+    "title": "Software Engineer Intern",
+    "locations": [
+      "Eagan, MN"
+    ],
+    "terms": [
+      "Summer 2025"
+    ],
+    "sponsorship": "Does Not Offer Sponsorship",
+    "active": true,
+    "source": "akhmadmamirov",
+    "id": "980c23ef-0d73-4b35-aa20-21425ed3d773",
+    "date_posted": 1724790573,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1724790618,
+    "url": "https://careers.tiktok.com/position/7393130155009886501/detail",
+    "company_name": "TikTok",
+    "title": "Front-End Engineer Intern - (User and Creator Product)",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "terms": [
+      "Summer 2025"
+    ],
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "source": "LuaanNguyen",
+    "id": "69f0ba39-5782-45e4-92aa-4cea02b5a3ab",
+    "date_posted": 1724790618,
+    "company_url": "",
+    "is_visible": true
   }
 ]
