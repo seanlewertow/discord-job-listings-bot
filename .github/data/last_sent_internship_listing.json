@@ -4146,5 +4146,102 @@
     "date_posted": 1724790618,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Numerade",
+    "id": "b6847303-0840-4823-8eb1-98ef4f4119b5",
+    "title": "Data Scientist Intern",
+    "active": true,
+    "terms": [
+      "Winter 2025",
+      "Spring 2025",
+      "Summer 2025"
+    ],
+    "date_updated": 1724858988,
+    "date_posted": 1724858988,
+    "url": "http://www.numerade.com/careers?gh_jid=5283710004",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/Numerade",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Workiva",
+    "id": "fdcc1103-f637-4d22-a925-a90e71c04347",
+    "title": "2025 Summer Intern - Data Engineering",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1724802096,
+    "date_posted": 1724802096,
+    "url": "https://workiva.wd1.myworkdayjobs.com/careers/job/Denver/XMLNAME-2025-Summer-Intern---Data-Engineering_R9028",
+    "locations": [
+      "Denver, CO"
+    ],
+    "company_url": "https://simplify.jobs/c/Workiva",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Reinventing Geospatial",
+    "id": "b9e214c0-e503-4a5f-ac24-1e31f027ce65",
+    "title": "Software Engineer \u2013 Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1724801954,
+    "date_posted": 1724801954,
+    "url": "https://jobs.lever.co/rgi/72f108b1-274a-4d59-a74f-28bc7a6051af/apply",
+    "locations": [
+      "Fairfax, VA"
+    ],
+    "company_url": "https://simplify.jobs/c/RGi",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Bank of Montreal (BMO)",
+    "id": "7eaf7f31-02b4-442d-b346-ad020fe9b736",
+    "title": "Data Analyst \u2013 Co-op/Internship - Winter 2025 - 4 Months",
+    "active": true,
+    "terms": [
+      "Winter 2025"
+    ],
+    "date_updated": 1724800423,
+    "date_posted": 1724800423,
+    "url": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Data-Analyst---Winter-2025--Co-op-Internship----4-Months_R240022717",
+    "locations": [
+      "Toronto, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/BMO",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Garda Capital Partners",
+    "id": "de1d68c3-aa4f-4c9e-9244-aa0cde552ef6",
+    "title": "Software Engineer Intern - .Net",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1724800315,
+    "date_posted": 1724800315,
+    "url": "https://job-boards.greenhouse.io/gardacp/jobs/4174191004",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Garda-Capital-Partners",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
