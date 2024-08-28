@@ -4305,5 +4305,43 @@
     "date_posted": 1724883879,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "date_updated": 1724886741,
+    "url": "https://jobs.ericsson.com/careers/job/563121760620475?domain=ericsson.com",
+    "company_name": "Ericsson",
+    "title": "Software Developer Intern",
+    "locations": [
+      "Plano, TX"
+    ],
+    "terms": [
+      "Summer 2025"
+    ],
+    "sponsorship": "Does Not Offer Sponsorship",
+    "active": true,
+    "source": "Ziqi-M",
+    "id": "d842c2d7-f6c4-487a-a7ba-4d881af5fc81",
+    "date_posted": 1724886741,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1724887017,
+    "url": "https://www.jobs-ups.com/job/-/-/1187/69216247280",
+    "company_name": "UPS",
+    "title": "Technology Group Summer 2025 Internship",
+    "locations": [
+      "Parsippany, NJ"
+    ],
+    "terms": [
+      "Summer 2025"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "source": "Ziqi-M",
+    "id": "3a883a7e-8935-4b57-b992-b3d7fc8f2406",
+    "date_posted": 1724887017,
+    "company_url": "",
+    "is_visible": true
   }
 ]
