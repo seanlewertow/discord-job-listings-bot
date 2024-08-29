@@ -4477,5 +4477,104 @@
     "date_posted": 1724957204,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "source": "Simplify",
+    "company_name": "NVIDIA",
+    "id": "09160c63-5372-4624-9c59-0f5b24dd2458",
+    "title": "NVIDIA 2025 Internships: Deep Learning Computer Architecture",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1724888786,
+    "date_posted": 1724888786,
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-CA-Santa-Clara/NVIDIA-2025-Internships--Deep-Learning-Computer-Architecture_JR1986533",
+    "locations": [
+      "Remote in USA",
+      "Santa Clara, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/NVIDIA",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Valkyrie Trading",
+    "id": "d651f0f5-675b-4ae3-8157-c4d678b12bde",
+    "title": "Quantitative Researcher Intern - Summer 2025",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1724888345,
+    "date_posted": 1724888345,
+    "url": "https://jobs.lever.co/valkyrietrading/c015dd83-5316-4430-b345-76a01e23eba3/apply",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/Valkyrie-Trading",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Workiva",
+    "id": "7af034fd-d034-46ee-a1e0-1c7f9c5af440",
+    "title": "2025 Spring and Summer Intern - Sales Business Intelligence Analyst",
+    "active": true,
+    "terms": [
+      "Spring 2025",
+      "Summer 2025"
+    ],
+    "date_updated": 1724888345,
+    "date_posted": 1724888345,
+    "url": "https://workiva.wd1.myworkdayjobs.com/careers/job/USA---Remote/XMLNAME-2025-Spring-and-Summer-Intern---Business-Intelligence-Analyst_R9185",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/Workiva",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Epic Games",
+    "id": "51519136-54e0-4a33-aca6-05f43f47503e",
+    "title": "Capture Technician Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1724888143,
+    "date_posted": 1724888143,
+    "url": "https://job-boards.greenhouse.io/epicgames/jobs/5267671004",
+    "locations": [
+      "Morrisville, NC"
+    ],
+    "company_url": "https://simplify.jobs/c/Epic-Games",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Splunk",
+    "id": "d5a5310b-26e4-4ebc-94ba-e2993a74b066",
+    "title": "Software Engineer Intern - Backend/Full Stack - Remote US - Winter 2025",
+    "active": true,
+    "terms": [
+      "Winter 2025"
+    ],
+    "date_updated": 1724886968,
+    "date_posted": 1724886968,
+    "url": "https://jobs.jobvite.com/splunk-careers/job/oE4pufwl?nl=1&nl=1&fr=false",
+    "locations": [
+      "Remote in USA",
+      "Colorado",
+      "North Carolina"
+    ],
+    "company_url": "https://simplify.jobs/c/Splunk",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
