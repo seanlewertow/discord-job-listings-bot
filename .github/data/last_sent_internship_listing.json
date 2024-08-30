@@ -4728,5 +4728,24 @@
     "company_url": "https://simplify.jobs/c/Dropbox",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Interactive Brokers",
+    "id": "095f77f1-e045-42e8-8e80-da515ce41f7e",
+    "title": "Software Developer Summer Internship - 2025",
+    "active": true,
+    "terms": [
+      "Summer 2024"
+    ],
+    "date_updated": 1725059680,
+    "date_posted": 1725059680,
+    "url": "https://job-boards.greenhouse.io/ibkr/jobs/7607414002",
+    "locations": [
+      "Greenwich, CT"
+    ],
+    "company_url": "https://simplify.jobs/c/IBKR",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
