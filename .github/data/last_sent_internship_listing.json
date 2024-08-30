@@ -4633,5 +4633,100 @@
     "date_posted": 1725004312,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Oshkosh",
+    "id": "a3e3e614-0b12-44fe-9899-206a02448d67",
+    "title": "Digital Technology Intern - Manufacturing Support - Year Round",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1724974338,
+    "date_posted": 1724974338,
+    "url": "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Greenville-Wisconsin-United-States/Digital-Technology-Intern---Manufacturing-Support--Year-Round-_R31734",
+    "locations": [
+      "Appleton, WI"
+    ],
+    "company_url": "https://simplify.jobs/c/Oshkosh",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Atomic Semi",
+    "id": "62e0787a-abd2-444a-bcc8-38de407c81f5",
+    "title": "Embedded SWE Intern - Summer",
+    "active": true,
+    "terms": [
+      "Summer 2024"
+    ],
+    "date_updated": 1724974272,
+    "date_posted": 1724974272,
+    "url": "https://jobs.ashbyhq.com/atomicsemi/42c79ce3-8b1c-4df6-b09f-5614bec93ec0/application",
+    "locations": [
+      "SF"
+    ],
+    "company_url": "https://simplify.jobs/c/Atomic-Semi",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Fetch",
+    "id": "84465aa7-2dfe-4156-af79-ddbc583aa4e7",
+    "title": "Android Engineer \u2013 Apprenticeship",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1724974084,
+    "date_posted": 1724974084,
+    "url": "https://boards.greenhouse.io/fetchrewards/jobs/6104824003",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/FetchRewards",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Dropbox",
+    "id": "22413c88-be70-4bfc-bb09-3df070be342e",
+    "title": "Software Engineer Intern - Summer 2025",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1725045882,
+    "date_posted": 1724973329,
+    "url": "https://boards.greenhouse.io/embed/job_app?token=6209859",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/Dropbox",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Dropbox",
+    "id": "f8735120-517e-45a7-a611-e6b82b81bd8d",
+    "title": "Software Engineer Intern - Summer 2025",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1725045888,
+    "date_posted": 1724973328,
+    "url": "https://boards.greenhouse.io/embed/job_app?token=6209863",
+    "locations": [
+      "Remote in Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Dropbox",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
