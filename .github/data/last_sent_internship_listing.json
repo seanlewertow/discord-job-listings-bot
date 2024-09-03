@@ -5293,5 +5293,82 @@
     "company_url": "https://simplify.jobs/c/Stryker",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "CACI",
+    "id": "244bf0a5-9cf6-4774-b17a-d98ee6a289a9",
+    "title": "Software Development Intern - Summer 2025",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1725377399,
+    "date_posted": 1725377399,
+    "url": "https://caci.wd1.myworkdayjobs.com/External/job/US-CO-Denver/Software-Development-Intern---Summer-2025_301106-1",
+    "locations": [
+      "Denver, CO"
+    ],
+    "company_url": "https://simplify.jobs/c/CACI",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Chamberlain Group",
+    "id": "69b3739c-14d1-4139-8abc-2a4c6162ea58",
+    "title": "Intern \u2013 Firmware Engineering - Summer 2025",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1725376904,
+    "date_posted": 1725376904,
+    "url": "https://chamberlain.wd1.myworkdayjobs.com/Chamberlain_Group/job/Oak-Brook-IL/Intern--Firmware-Engineering--Summer-2025-_JR27880",
+    "locations": [
+      "Western Springs, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/Chamberlain-Group",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Datadog",
+    "id": "d035d56b-86c2-4cee-9621-745a2ac3a4c8",
+    "title": "Software Engineer \u2013 Summer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2024"
+    ],
+    "date_updated": 1725376583,
+    "date_posted": 1725376583,
+    "url": "https://careers.datadoghq.com/detail/6182495/?gh_jid=6182495",
+    "locations": [
+      "Boston, MA",
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Datadog",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Datadog",
+    "id": "8817d72b-d03f-4077-b4eb-a0ea603b1985",
+    "title": "Software Engineer \u2013 Winter Intern",
+    "active": true,
+    "terms": [
+      "Winter 2025"
+    ],
+    "date_updated": 1725376584,
+    "date_posted": 1725376584,
+    "url": "https://careers.datadoghq.com/detail/6172414/?gh_jid=6172414",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Datadog",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
