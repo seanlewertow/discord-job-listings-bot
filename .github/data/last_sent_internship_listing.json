@@ -5523,5 +5523,102 @@
     "company_url": "https://simplify.jobs/c/C3ai",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Moloco",
+    "id": "d5ce9fec-c9dd-42ca-aec2-68af16e6d415",
+    "title": "Data Science Intern",
+    "active": true,
+    "terms": [
+      "Spring 2025",
+      "Summer 2025",
+      "Fall 2025"
+    ],
+    "date_updated": 1725393048,
+    "date_posted": 1725393048,
+    "url": "https://boards.greenhouse.io/moloco/jobs/6097498003",
+    "locations": [
+      "San Carlos, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Moloco",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Leidos",
+    "id": "87d3c076-6325-4899-893f-727215cad757",
+    "title": "Software Engineer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1725392939,
+    "date_posted": 1725392939,
+    "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Omaha-NE/Software-Engineer-Intern_R-00142809",
+    "locations": [
+      "Omaha, NE"
+    ],
+    "company_url": "https://simplify.jobs/c/Leidos",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Stryker",
+    "id": "b1fb92cc-ea31-4c89-8f8b-48ad7e10ecaf",
+    "title": "Summer 2025 Intern - Software Digital Engineering - Florida",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1725393894,
+    "date_posted": 1725393894,
+    "url": "https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Fort-Lauderdale-Florida/Summer-2025-Intern---Software-Digital-Engineering---Florida_R527507",
+    "locations": [
+      "Fort Lauderdale, FL"
+    ],
+    "company_url": "https://simplify.jobs/c/Stryker",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Dev Technology Group",
+    "id": "bde2eed1-2719-4a13-938e-6a527bc5af75",
+    "title": "Summer AI/ML Intern",
+    "active": true,
+    "terms": [
+      "Summer 2024"
+    ],
+    "date_updated": 1725393759,
+    "date_posted": 1725393759,
+    "url": "https://boards.greenhouse.io/devtechnology/jobs/7601730002",
+    "locations": [
+      "Reston, VA"
+    ],
+    "company_url": "https://simplify.jobs/c/DevTechGrp",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Riot Games",
+    "id": "22882091-23ef-4962-aa19-5040ce237ec7",
+    "title": "Software Engineering Intern - Summer 2025 - Remote",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1725393643,
+    "date_posted": 1725393643,
+    "url": "https://www.riotgames.com/en/work-with-us/job/6176784?gh_jid=6176784",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/Riot-Games",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
