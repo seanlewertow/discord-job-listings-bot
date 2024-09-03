@@ -1014,5 +1014,21 @@
     "company_url": "https://simplify.jobs/c/Datadog",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "ZipRecruiter",
+    "id": "ec8cddda-da0c-4e6c-be99-8c8ac79a925c",
+    "title": "Software Engineer \u2013 New Grad",
+    "active": true,
+    "date_updated": 1725391341,
+    "date_posted": 1725391341,
+    "url": "https://job-boards.greenhouse.io/ziprecruiter/jobs/6165341",
+    "locations": [
+      "Santa Monica, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/ZipRecruiter",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
