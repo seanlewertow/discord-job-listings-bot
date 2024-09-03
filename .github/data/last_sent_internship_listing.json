@@ -5504,5 +5504,24 @@
     "company_url": "https://simplify.jobs/c/ZipRecruiter",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "C3.ai",
+    "id": "a4db6a6b-3c56-4ce7-8457-57abd0e57b18",
+    "title": "Software Engineer \u2013 Intern - Summer 2025",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1725392038,
+    "date_posted": 1725392038,
+    "url": "https://c3.ai/job-description/7575558002?gh_jid=7575558002",
+    "locations": [
+      "San Carlos, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/C3ai",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
