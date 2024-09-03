@@ -5656,5 +5656,62 @@
     "company_url": "https://simplify.jobs/c/Chamberlain-Group",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Saronic",
+    "id": "1ee4f6f9-5a8e-4d40-8bd9-3a8af2d17ac9",
+    "title": "Software Engineer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1725406954,
+    "date_posted": 1725406954,
+    "url": "https://jobs.lever.co/saronic/8e547d4b-9495-48b5-a1e1-08eac4403a92/apply",
+    "locations": [
+      "Austin, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Saronic",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Glean",
+    "id": "bd92cc96-a931-4615-9d3d-2cdbd093c941",
+    "title": "Software Engineer \u2013 Intern",
+    "active": true,
+    "terms": [
+      "Summer 2024"
+    ],
+    "date_updated": 1725406777,
+    "date_posted": 1725406777,
+    "url": "https://boards.greenhouse.io/gleanwork/jobs/4463752005",
+    "locations": [
+      "Palo Alto, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Glean",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Epic Games",
+    "id": "0cb8053d-1100-4662-bedd-f32934086388",
+    "title": "Backend Engineer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1725393077,
+    "date_posted": 1725393077,
+    "url": "https://job-boards.greenhouse.io/epicgames/jobs/5281117004",
+    "locations": [
+      "Morrisville, NC"
+    ],
+    "company_url": "https://simplify.jobs/c/Epic-Games",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
