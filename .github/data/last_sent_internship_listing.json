@@ -6078,5 +6078,25 @@
     "company_url": "https://simplify.jobs/c/CesiumAstro",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Dun & Bradstreet",
+    "id": "b57eaaa7-328e-48f2-987d-568d0d5a3805",
+    "title": "2025 Summer Internship Program - Technology",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1725481531,
+    "date_posted": 1725481531,
+    "url": "https://jobs.lever.co/dnb/1f4e2397-33cb-4304-b19a-7533a9b2dd97/apply",
+    "locations": [
+      "Austin, TX",
+      "Jacksonville, FL"
+    ],
+    "company_url": "https://simplify.jobs/c/Dun-and-Bradstreet",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
