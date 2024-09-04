@@ -5923,5 +5923,24 @@
     "company_url": "https://simplify.jobs/c/CACI",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "InterSystems",
+    "id": "09e22b10-4344-4909-b8b2-e713da6a91f4",
+    "title": "Summer Internship 2025",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1725464410,
+    "date_posted": 1725464410,
+    "url": "https://www.intersystems.com/careers/careers-search/?gh_jid=6052859003",
+    "locations": [
+      "Boston, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/InterSystems",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
