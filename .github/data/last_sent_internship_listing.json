@@ -6517,5 +6517,92 @@
     "company_url": "https://simplify.jobs/c/DataGrail",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "National Information Solutions Cooperative (NISC)",
+    "id": "129f0856-64e2-46e3-ba9a-2dab5b0c08b9",
+    "title": "Intern \u2013 Software Development - IOS",
+    "active": true,
+    "terms": [
+      "Spring 2025",
+      "Summer 2025"
+    ],
+    "date_updated": 1725555722,
+    "date_posted": 1725555722,
+    "url": "https://boards.greenhouse.io/nisc/jobs/6235211",
+    "locations": [
+      "Bismarck, ND",
+      "Lake St Louis, MO",
+      "Cedar Rapids, IA"
+    ],
+    "company_url": "https://simplify.jobs/c/National-Information-Solutions-Cooperative-(NISC)",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "National Information Solutions Cooperative (NISC)",
+    "id": "3ce96083-8fbc-4266-9dc7-c7caa50d1c2c",
+    "title": "Intern \u2013 Software Development",
+    "active": true,
+    "terms": [
+      "Spring 2025",
+      "Summer 2025"
+    ],
+    "date_updated": 1725555529,
+    "date_posted": 1725555529,
+    "url": "https://boards.greenhouse.io/nisc/jobs/6138297",
+    "locations": [
+      "Bismarck, ND",
+      "Lake St Louis, MO",
+      "Cedar Rapids, IA"
+    ],
+    "company_url": "https://simplify.jobs/c/National-Information-Solutions-Cooperative-(NISC)",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "National Information Solutions Cooperative (NISC)",
+    "id": "27d647d4-4a79-466a-934e-52a80965af92",
+    "title": "Intern \u2013 Database Conversion Programming",
+    "active": true,
+    "terms": [
+      "Spring 2025",
+      "Summer 2025"
+    ],
+    "date_updated": 1725555350,
+    "date_posted": 1725555350,
+    "url": "https://boards.greenhouse.io/nisc/jobs/6235377",
+    "locations": [
+      "Bismarck, ND",
+      "Lake St Louis, MO"
+    ],
+    "company_url": "https://simplify.jobs/c/National-Information-Solutions-Cooperative-(NISC)",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "National Information Solutions Cooperative (NISC)",
+    "id": "7b1fc6c5-1c0e-4040-b988-fe5bf5680e20",
+    "title": "Intern \u2013 Software Development - Machine Learning",
+    "active": true,
+    "terms": [
+      "Spring 2025",
+      "Summer 2025"
+    ],
+    "date_updated": 1725555021,
+    "date_posted": 1725555021,
+    "url": "https://boards.greenhouse.io/nisc/jobs/6235244",
+    "locations": [
+      "Bismarck, ND",
+      "Lake St Louis, MO",
+      "Cedar Rapids, IA"
+    ],
+    "company_url": "https://simplify.jobs/c/National-Information-Solutions-Cooperative-(NISC)",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
