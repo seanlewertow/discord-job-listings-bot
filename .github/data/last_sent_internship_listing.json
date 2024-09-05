@@ -6720,5 +6720,24 @@
     "company_url": "https://simplify.jobs/c/drivetime",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Allegion",
+    "id": "4cf9ed52-4fbd-4d41-8960-f2098db2c092",
+    "title": "Firmware Engineer \u2013 Summer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2024"
+    ],
+    "date_updated": 1725566678,
+    "date_posted": 1725566678,
+    "url": "https://allegion.wd5.myworkdayjobs.com/careers/job/Indianapolis-IN---Hague-Rd/Firmware-Engineer---Summer-Intern_JR30269",
+    "locations": [
+      "Indianapolis, IN"
+    ],
+    "company_url": "https://simplify.jobs/c/allegion",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
