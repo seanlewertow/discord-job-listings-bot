@@ -6156,5 +6156,24 @@
     "date_posted": 1725492795,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Matroid",
+    "id": "5b88431b-c2d7-4bde-9683-761298005dba",
+    "title": "Full Stack Engineer Intern for Computer Vision Products - Summer 2025",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1725494498,
+    "date_posted": 1725494498,
+    "url": "https://matroid.breezy.hr/p/79e27f665d2b/apply",
+    "locations": [
+      "Palo Alto, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Matroid",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
