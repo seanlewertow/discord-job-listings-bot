@@ -6498,5 +6498,24 @@
     "company_url": "https://simplify.jobs/c/Akuna-Capital",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "DataGrail",
+    "id": "1e61ef39-2c60-4b6d-b8d7-40133822f452",
+    "title": "Managed Services Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1725554697,
+    "date_posted": 1725554697,
+    "url": "https://boards.greenhouse.io/datagrail/jobs/6109859003",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/DataGrail",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
