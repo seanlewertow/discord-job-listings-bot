@@ -6270,5 +6270,100 @@
     "company_url": "https://simplify.jobs/c/ServiceNow",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Openmesh Networks",
+    "id": "6604aa9a-7b7f-4e48-89bb-415b3cd500f5",
+    "title": "Mathematician Intern - Quantitative Analysis and Problem-Solving",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1725508536,
+    "date_posted": 1725508536,
+    "url": "https://job-boards.greenhouse.io/openmesh/jobs/4145292007",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Openmesh-Networks",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Openmesh Networks",
+    "id": "e6d74d97-da13-4b88-b29c-8ca7f87c3c54",
+    "title": "Networking Engineer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1725508531,
+    "date_posted": 1725508531,
+    "url": "https://job-boards.greenhouse.io/openmesh/jobs/4145229007",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Openmesh-Networks",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Openmesh Networks",
+    "id": "7e72bc16-ba0e-4047-b7a7-7c8f4f620d66",
+    "title": "Smart Contract Development Intern - Blockchain Technology and Security",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1725508549,
+    "date_posted": 1725508549,
+    "url": "https://job-boards.greenhouse.io/openmesh/jobs/4145290007",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Openmesh-Networks",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Openmesh Networks",
+    "id": "d092d9a9-a861-45fd-a620-1dbf4edff0e1",
+    "title": "Front-End Development Intern - Web Interface and User Experience",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1725508503,
+    "date_posted": 1725508503,
+    "url": "https://job-boards.greenhouse.io/openmesh/jobs/4145268007",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Openmesh-Networks",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "date_updated": 1725509566,
+    "url": "https://jobs.keysight.com/external/jobs/44329?mode=apply",
+    "company_name": "Keysight Technologies",
+    "title": "Full Stack Software Development Internship",
+    "locations": [
+      "Colorado Springs, CO"
+    ],
+    "terms": [
+      "Summer 2025"
+    ],
+    "sponsorship": "Does Not Offer Sponsorship",
+    "active": true,
+    "source": "GaryZhous",
+    "id": "1d390d27-ae34-40f7-8ecf-711dc492503d",
+    "date_posted": 1725509566,
+    "company_url": "",
+    "is_visible": true
   }
 ]
