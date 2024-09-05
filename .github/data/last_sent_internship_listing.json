@@ -6759,5 +6759,24 @@
     "company_url": "https://simplify.jobs/c/National-Information-Solutions-Cooperative-(NISC)",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Genesis Therapeutics",
+    "id": "afba7098-7508-4a1a-9426-f55103bcfb3f",
+    "title": "Software Engineer Intern - Summer 2025",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1725579841,
+    "date_posted": 1725579841,
+    "url": "https://jobs.lever.co/genesistherapeutics/d13c7dea-6c8c-4741-9220-a6dd6300a175/apply",
+    "locations": [
+      "Burlingame, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Genesis-Thera",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
