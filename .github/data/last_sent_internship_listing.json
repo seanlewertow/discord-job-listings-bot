@@ -7276,5 +7276,24 @@
     "company_url": "https://simplify.jobs/c/Wealthsimple",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Stryker",
+    "id": "19a9f4c2-3d49-4f15-a644-28d7831c317a",
+    "title": "Summer 2025 Intern - Data Science - Illinois",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1725655584,
+    "date_posted": 1725655584,
+    "url": "https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Cary-Illinois/Summer-2025-Intern---Data-Science---Illinois_R527346",
+    "locations": [
+      "Cary, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/Stryker",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
