@@ -6778,5 +6778,101 @@
     "company_url": "https://simplify.jobs/c/Genesis-Thera",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Epic Games",
+    "id": "173e760d-9ece-465f-bbe7-81067363a494",
+    "title": "Engine Programmer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1725566046,
+    "date_posted": 1725566046,
+    "url": "https://job-boards.greenhouse.io/epicgames/jobs/5285492004",
+    "locations": [
+      "Morrisville, NC"
+    ],
+    "company_url": "https://simplify.jobs/c/Epic-Games",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Snowflake",
+    "id": "743ad175-e435-430b-8cd1-0b09d8e6b054",
+    "title": "Software Engineer Intern - Pey",
+    "active": true,
+    "terms": [
+      "Spring 2025"
+    ],
+    "date_updated": 1725047033,
+    "date_posted": 1725047033,
+    "url": "https://boards.greenhouse.io/embed/job_app?token=7618740002",
+    "locations": [
+      "Remote in Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Snowflake",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Hewlett Packard (HP)",
+    "id": "57164b0d-178f-4775-8056-1f3cbfe5c9ea",
+    "title": "Imaging and Print Software Internship",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1725580838,
+    "date_posted": 1725580838,
+    "url": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Vancouver-Washington-United-States-of-America/Imaging-and-Print-Software-Internship_3141394",
+    "locations": [
+      "Boise, ID",
+      "Vancouver, WA"
+    ],
+    "company_url": "https://simplify.jobs/c/Hewlett-Packard",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Motorola",
+    "id": "5496d160-478f-40cb-8fef-6a0cfbeff6d7",
+    "title": "Android Applications Developer Intern - Summer 2025",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1725582491,
+    "date_posted": 1725582491,
+    "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/Android-Applications-Developer-Intern---Summer-2025_R49633",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/MotorolaSolutions",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "EarnIn",
+    "id": "35dbb9db-a889-4211-8e9d-234ff8db2483",
+    "title": "Machine Learning Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1725582098,
+    "date_posted": 1725582098,
+    "url": "https://boards.greenhouse.io/earnin/jobs/6233802",
+    "locations": [
+      "Palo Alto, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Earnin",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
