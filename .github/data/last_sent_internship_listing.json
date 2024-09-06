@@ -6988,5 +6988,43 @@
     "company_url": "https://simplify.jobs/c/Demiurge-Studios",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Neon",
+    "id": "6ed236b1-8b43-4027-8c51-6e70fb4f22bc",
+    "title": "System Software Engineer \u2013 Internship",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1725637014,
+    "date_posted": 1725637014,
+    "url": "https://job-boards.greenhouse.io/neondatabase/jobs/5118753004",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/Neon-Database",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "CACI",
+    "id": "d29ce236-4959-4e9f-b9af-a40ed8aaf006",
+    "title": "Software Engineering Intern - Summer 2025",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1725636645,
+    "date_posted": 1725636645,
+    "url": "https://caci.wd1.myworkdayjobs.com/External/job/US-CO-Denver/Software-Engineering-Intern---Summer-2025_301413-1",
+    "locations": [
+      "Denver, CO"
+    ],
+    "company_url": "https://simplify.jobs/c/CACI",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
