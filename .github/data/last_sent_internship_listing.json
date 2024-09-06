@@ -7219,5 +7219,24 @@
     "company_url": "https://simplify.jobs/c/CoVar",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Wealthsimple",
+    "id": "5c96f4ba-9d18-44c5-b741-2e5008430144",
+    "title": "Intern \u2013 Data Science - Winter 2025",
+    "active": true,
+    "terms": [
+      "Winter 2025"
+    ],
+    "date_updated": 1725652370,
+    "date_posted": 1725652370,
+    "url": "https://jobs.lever.co/wealthsimple/1d39e81a-bcfa-425a-a330-a15c0fcb3446/apply",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/Wealthsimple",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
