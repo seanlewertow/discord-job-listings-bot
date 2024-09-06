@@ -6969,5 +6969,24 @@
     "date_posted": 1725631617,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Demiurge Studios",
+    "id": "f815ea06-8013-4fee-8d51-e4addc1a84fa",
+    "title": "2025 Engineering Intern",
+    "active": true,
+    "terms": [
+      "Winter 2025"
+    ],
+    "date_updated": 1725636012,
+    "date_posted": 1725636012,
+    "url": "https://jobs.lever.co/demiurgestudios/2a36847f-cd25-474c-a20c-a3626ea3f9a5/apply",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/Demiurge-Studios",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
