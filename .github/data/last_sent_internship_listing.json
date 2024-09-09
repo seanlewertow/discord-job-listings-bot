@@ -7680,5 +7680,106 @@
     "company_url": "https://simplify.jobs/c/Epic-Games",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "ManTech",
+    "id": "538d34f6-fe0a-4fb9-a88b-1f2b9331688d",
+    "title": "Dod Skillbridge Software Engineer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1725923667,
+    "date_posted": 1725923667,
+    "url": "https://mantech.wd1.myworkdayjobs.com/en-US/External/job/USA-VA-Herndon/Software-Engineering-SkillBridge-Fellow_R50810",
+    "locations": [
+      "Reston, VA"
+    ],
+    "company_url": "https://simplify.jobs/c/c6651565-44c8-4050-8412-111c54942390",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Marvell",
+    "id": "e14a6592-4123-4e9c-85bf-eba6ed1a8f5a",
+    "title": "Firmware Engineer Intern - Bachelors",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1725923258,
+    "date_posted": 1725923258,
+    "url": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers2/job/Westlake-Village-CA/Firmware-Engineer-Intern---Bachelors_2401849",
+    "locations": [
+      "Westlake Village, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/80961b05-9ed3-462d-aef9-4b418c7fb796",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Symbotic",
+    "id": "fd3ffc08-9601-4315-9947-0eeb41ace8d9",
+    "title": "Intern \u2013 Routing",
+    "active": true,
+    "terms": [
+      "Summer 2024",
+      "Spring 2025",
+      "Fall 2025"
+    ],
+    "date_updated": 1725924140,
+    "date_posted": 1725924140,
+    "url": "https://symbotic.wd1.myworkdayjobs.com/en-US/Symbotic/job/USA-Wilmington--MA---HQ/Intern---Routing_R3934",
+    "locations": [
+      "Burlington, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/symbotic",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Symbotic",
+    "id": "f0322943-ec96-4ae5-975d-d16889067179",
+    "title": "Intern \u2013 Front End Software Engineer",
+    "active": true,
+    "terms": [
+      "Summer 2024",
+      "Spring 2025",
+      "Fall 2025"
+    ],
+    "date_updated": 1725924133,
+    "date_posted": 1725924133,
+    "url": "https://symbotic.wd1.myworkdayjobs.com/en-US/Symbotic/job/USA-Wilmington--MA---HQ/Intern---Front-End-Software-Engineer_R3927",
+    "locations": [
+      "Burlington, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/symbotic",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Symbotic",
+    "id": "e07bd8f5-b3c5-4838-863c-5f631eb21099",
+    "title": "Intern \u2013 Back End Software Engineer",
+    "active": true,
+    "terms": [
+      "Summer 2024",
+      "Spring 2025",
+      "Fall 2025"
+    ],
+    "date_updated": 1725924129,
+    "date_posted": 1725924129,
+    "url": "https://symbotic.wd1.myworkdayjobs.com/en-US/Symbotic/job/USA-Wilmington--MA---HQ/Intern---Back-End-Software-Engineer_R3928",
+    "locations": [
+      "Burlington, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/symbotic",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
