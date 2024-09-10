@@ -1661,5 +1661,38 @@
     "company_url": "https://simplify.jobs/c/Subsplash",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Disney Careers",
+    "id": "29bb61ea-711c-453d-b98c-e8f52686426b",
+    "title": "Software Engineer I",
+    "active": true,
+    "date_updated": 1726009972,
+    "date_posted": 1726009972,
+    "url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Santa-Monica-CA-USA/Software-Engineer-I_10099376",
+    "locations": [
+      "Santa Monica, CA",
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/f4ca773e-168e-4f3d-bc3d-e0cc32345fc6",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Perpay",
+    "id": "87535675-cdd3-44ea-b36f-622b1a2be47b",
+    "title": "Software Engineer \u2013 New Grad",
+    "active": true,
+    "date_updated": 1726009552,
+    "date_posted": 1726009552,
+    "url": "https://boards.greenhouse.io/perpay/jobs/4034578007",
+    "locations": [
+      "Philadelphia, PA"
+    ],
+    "company_url": "https://simplify.jobs/c/Perpay",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
