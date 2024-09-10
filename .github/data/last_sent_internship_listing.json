@@ -7838,5 +7838,101 @@
     "company_url": "https://simplify.jobs/c/750f50d0-c3f8-4334-822f-fb70fa81b529",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Here",
+    "id": "4ba361dc-85f0-4531-9966-75f992e76d92",
+    "title": "Full-Stack Engineering Intern - Computer Science",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1725925688,
+    "date_posted": 1725925688,
+    "url": "https://boards.greenhouse.io/hereio/jobs/6190877",
+    "locations": [
+      "Remote in USA",
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Here-io",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Core Specialty",
+    "id": "5d227c9a-4161-432e-960a-aae8aeb4838b",
+    "title": "Summer Intern - IT Data",
+    "active": true,
+    "terms": [
+      "Summer 2024"
+    ],
+    "date_updated": 1725925684,
+    "date_posted": 1725925684,
+    "url": "https://corespecialtyinsurance.wd1.myworkdayjobs.com/en-US/Core_Specialty/job/Cincinnati-OH/Summer-Intern---IT-Data_JR100880",
+    "locations": [
+      "Cincinnati, OH"
+    ],
+    "company_url": "https://simplify.jobs/c/bd027e9d-7116-4d62-b558-b3ae0dac68fd",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Relativity Space",
+    "id": "1097f6c6-8757-4cae-9291-13f827004121",
+    "title": "Software Engineer Intern - Summer 2025",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1725925665,
+    "date_posted": 1725925665,
+    "url": "https://boards.greenhouse.io/rsinternboard/jobs/7612314002",
+    "locations": [
+      "Long Beach, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Relativity-Space",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Relativity Space",
+    "id": "794b3115-8814-4939-aa7c-04c7e699be09",
+    "title": "Data Science & Simulation Intern - Summer 2025",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1725925664,
+    "date_posted": 1725925664,
+    "url": "https://boards.greenhouse.io/rsinternboard/jobs/7612335002",
+    "locations": [
+      "Long Beach, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Relativity-Space",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Relativity Space",
+    "id": "c7b0af27-7a35-426a-b039-0e7599cdf4fb",
+    "title": "Robotics Software Engineer Intern - Summer 2025",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1725925662,
+    "date_posted": 1725925662,
+    "url": "https://boards.greenhouse.io/rsinternboard/jobs/7612270002",
+    "locations": [
+      "Long Beach, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Relativity-Space",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
