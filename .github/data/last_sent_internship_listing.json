@@ -8208,5 +8208,100 @@
     "company_url": "https://simplify.jobs/c/45cb775d-2ca3-49ea-810f-65334ec70079",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Lucid Motors",
+    "id": "7355890d-6cc3-4d13-bf82-853bcf0be94a",
+    "title": "Intern \u2013 Software Automation Engineer - Summer 2025",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1725958679,
+    "date_posted": 1725958679,
+    "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/4469216007",
+    "locations": [
+      "Newark, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Lucid-Motors",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Lucid Motors",
+    "id": "096b510e-7cf4-4552-8c59-78c52ffe3a36",
+    "title": "Intern \u2013 SQA Data Analyst - Summer 2025",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1725958679,
+    "date_posted": 1725958679,
+    "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/4472053007",
+    "locations": [
+      "Newark, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Lucid-Motors",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Lucid Motors",
+    "id": "ae221c2e-bfee-411a-b431-1a3dbd633eab",
+    "title": "Intern \u2013 Motor Control Software Development and Validation Engineer - Summer 2024",
+    "active": true,
+    "terms": [
+      "Summer 2024"
+    ],
+    "date_updated": 1725958678,
+    "date_posted": 1725958678,
+    "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/4475493007",
+    "locations": [
+      "Newark, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Lucid-Motors",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Lumentum",
+    "id": "79c5db95-d616-478b-a076-3fa748f9afb5",
+    "title": "Solution Software System Engineer Co-op/Intern - Test",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1725959363,
+    "date_posted": 1725959363,
+    "url": "https://lumentum.wd5.myworkdayjobs.com/en-US/LITE/job/Canada---Ottawa-Bill-Leathem/Solution-Software-System-Engineer--Test-_2024795",
+    "locations": [
+      "Ottawa, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/0985b121-88fd-4402-aea9-c0c55bfbbc99",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Lucid Motors",
+    "id": "0cbb53d5-82f7-4fa7-a46d-0a93c79e1a90",
+    "title": "Intern \u2013 Infotainment Software Engineer - Summer 2025",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1725940518,
+    "date_posted": 1725940518,
+    "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/4469167007",
+    "locations": [
+      "Newark, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Lucid-Motors",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
