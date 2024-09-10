@@ -1501,5 +1501,85 @@
     "company_url": "https://simplify.jobs/c/c6651565-44c8-4050-8412-111c54942390",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "TSC",
+    "id": "b6199ede-2821-4844-8cc0-85107b4525ba",
+    "title": "Software Engineer I",
+    "active": true,
+    "date_updated": 1725925847,
+    "date_posted": 1725925847,
+    "url": "https://tsc.wd12.myworkdayjobs.com/en-US/TSC-Careers/job/Bloomington-IN/Software-Engineer-I_JR1283",
+    "locations": [
+      "Bloomington, IN"
+    ],
+    "company_url": "https://simplify.jobs/c/3d3125df-3bbc-48fc-993c-8e2d0db65649",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "TSC",
+    "id": "6ce62492-ef72-4285-9e04-ceb92fe1ea35",
+    "title": "Software Engineer I",
+    "active": true,
+    "date_updated": 1725925832,
+    "date_posted": 1725925832,
+    "url": "https://tsc.wd12.myworkdayjobs.com/en-US/TSC-Careers/job/Bloomington-IN/Software-Engineer-I_JR1519",
+    "locations": [
+      "Bloomington, IN"
+    ],
+    "company_url": "https://simplify.jobs/c/3d3125df-3bbc-48fc-993c-8e2d0db65649",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "TSC",
+    "id": "794cc728-6700-4b4a-b913-bd57024ff3d9",
+    "title": "Software Engineer I",
+    "active": true,
+    "date_updated": 1725925801,
+    "date_posted": 1725925801,
+    "url": "https://tsc.wd12.myworkdayjobs.com/en-US/TSC-Careers/job/Silver-Spring-MD/Software-Engineer-I--Evergreen-_JR1602",
+    "locations": [
+      "Silver Spring, MD"
+    ],
+    "company_url": "https://simplify.jobs/c/3d3125df-3bbc-48fc-993c-8e2d0db65649",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "TSC",
+    "id": "d06cb150-5167-4f61-8872-fbc267181d23",
+    "title": "Software Engineer I",
+    "active": true,
+    "date_updated": 1725925764,
+    "date_posted": 1725925764,
+    "url": "https://tsc.wd12.myworkdayjobs.com/en-US/TSC-Careers/job/Silver-Spring-MD/Software-Engineer-I_JR1709",
+    "locations": [
+      "Silver Spring, MD"
+    ],
+    "company_url": "https://simplify.jobs/c/3d3125df-3bbc-48fc-993c-8e2d0db65649",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "date_updated": 1725928018,
+    "url": "https://job-boards.greenhouse.io/newsbreak/jobs/4338876006",
+    "company_name": "NewsBreak",
+    "title": "Machine Learning Engineer (Junior & New Grad)",
+    "locations": [
+      "Bellevue, WA"
+    ],
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "source": "YifengW86",
+    "id": "48b08de8-31b5-4dde-b181-47f7353aadf0",
+    "date_posted": 1725928018,
+    "company_url": "",
+    "is_visible": true
   }
 ]
