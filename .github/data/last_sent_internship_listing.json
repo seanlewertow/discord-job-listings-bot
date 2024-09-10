@@ -8457,5 +8457,24 @@
     "company_url": "https://simplify.jobs/c/1495091e-1f19-4c30-a48a-5afa4aa5e7dd",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Lucid Motors",
+    "id": "ca722184-b0f3-44b5-98ae-61f7cfb31df7",
+    "title": "Intern \u2013 Software Tools - Diagnostic System - Summer 2025",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1725990759,
+    "date_posted": 1725990759,
+    "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/4472061007",
+    "locations": [
+      "Newark, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Lucid-Motors",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
