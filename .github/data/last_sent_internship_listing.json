@@ -8476,5 +8476,24 @@
     "company_url": "https://simplify.jobs/c/Lucid-Motors",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Badger Meter",
+    "id": "431108f8-5021-4fa7-bd01-ba6c562e3c04",
+    "title": "Software Engineering Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1725995909,
+    "date_posted": 1725995909,
+    "url": "https://badgermeter.wd5.myworkdayjobs.com/US_CareerSite/job/Milwaukee-WI/Software-Engineering-Intern_3514-1",
+    "locations": [
+      "Milwaukee, WI"
+    ],
+    "company_url": "https://simplify.jobs/c/Badger-Meter",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
