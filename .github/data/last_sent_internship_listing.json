@@ -7934,5 +7934,102 @@
     "company_url": "https://simplify.jobs/c/Relativity-Space",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Gecko Robotics",
+    "id": "25bd402b-aa4c-4cf6-aedf-ce95b24e529b",
+    "title": "Field Software Engineer \u2013 Intern",
+    "active": true,
+    "terms": [
+      "Spring 2025",
+      "Summer 2025"
+    ],
+    "date_updated": 1725927365,
+    "date_posted": 1725927365,
+    "url": "https://jobs.ashbyhq.com/gecko-robotics/f4fc0a1d-5ecc-45f9-a186-616052a7928e/application",
+    "locations": [
+      "Pittsburgh, PA"
+    ],
+    "company_url": "https://simplify.jobs/c/Gecko-Robotics",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "MarketAxess",
+    "id": "3cdb8768-36d2-479e-8f33-7bd9d111a62e",
+    "title": "Data Software Engineering Intern 2025",
+    "active": true,
+    "terms": [
+      "Spring 2024"
+    ],
+    "date_updated": 1725912366,
+    "date_posted": 1725912366,
+    "url": "https://www.marketaxess.com/careers/current-openings/detail/jobs/4400274006?gh_jid=4400274006",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/MarketAxess",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "ManTech",
+    "id": "e15cf92b-83b8-4ced-ad3f-97c3ccc20393",
+    "title": "Dod Skillbridge CNO Developer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1725923672,
+    "date_posted": 1725923672,
+    "url": "https://mantech.wd1.myworkdayjobs.com/en-US/External/job/USA-MD-Hanover/DoD-SkillBridge-CNO-Software-Developer-Fellow_R51228",
+    "locations": [
+      "San Antonio, TX",
+      "Hanover, MD"
+    ],
+    "company_url": "https://simplify.jobs/c/c6651565-44c8-4050-8412-111c54942390",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Lucid Motors",
+    "id": "30fe2dda-7d12-472c-8b7e-7b078add8e01",
+    "title": "Intern \u2013 ADAS Mapping and Navigation Engineer - Summer 2025",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1725925872,
+    "date_posted": 1725925872,
+    "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/4473458007",
+    "locations": [
+      "Newark, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Lucid-Motors",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Lucid Motors",
+    "id": "714e4d00-9424-4b97-9658-71cdf0159a64",
+    "title": "Intern \u2013 Android Infotainment Software Engineer - Summer 2025",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1725925868,
+    "date_posted": 1725925868,
+    "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/4469192007",
+    "locations": [
+      "Newark, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Lucid-Motors",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
