@@ -1763,5 +1763,53 @@
     "company_url": "https://simplify.jobs/c/adae5c6b-e3f9-4029-96e7-aa9b050e80d0",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Chime",
+    "id": "37ddb0b1-17d9-4b43-b1ca-15fa8da3652d",
+    "title": "Software Engineer-New Grad - For Fall 2024 Event Attendees",
+    "active": true,
+    "date_updated": 1726096329,
+    "date_posted": 1726096329,
+    "url": "https://boards.greenhouse.io/chime/jobs/7626713002",
+    "locations": [
+      "SF"
+    ],
+    "company_url": "https://simplify.jobs/c/Chime",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Alto Pharmacy",
+    "id": "0e38bd82-57b3-4b35-8bb2-e96f647a2e52",
+    "title": "Early Career Software Engineer",
+    "active": true,
+    "date_updated": 1726096026,
+    "date_posted": 1726096026,
+    "url": "https://boards.greenhouse.io/alto/jobs/6235262",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/Alto",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Verkada",
+    "id": "7505f584-d1ff-4447-872b-bcfa742bf044",
+    "title": "Embedded Software Engineer \u2013 University Graduate 2025",
+    "active": true,
+    "date_updated": 1724102452,
+    "date_posted": 1724102452,
+    "url": "https://job-boards.greenhouse.io/verkada/jobs/4471668007",
+    "locations": [
+      "San Mateo, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Verkada",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
