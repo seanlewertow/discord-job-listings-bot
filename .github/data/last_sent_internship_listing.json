@@ -9074,5 +9074,44 @@
     "company_url": "https://simplify.jobs/c/Optiver",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Samsung Research America",
+    "id": "3ab740d7-c75d-409a-8ae8-81d279b51f89",
+    "title": "2024 Fall Intern - Android - Digital Health",
+    "active": true,
+    "terms": [
+      "Fall 2024"
+    ],
+    "date_updated": 1726096144,
+    "date_posted": 1726096144,
+    "url": "https://job-boards.greenhouse.io/samsungresearchamericainternship/jobs/7449868002",
+    "locations": [
+      "Mountain View, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Samsung-Research-America",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Truveta",
+    "id": "0aa7a52b-e695-4ce4-84fb-e90ee6bf5f10",
+    "title": "Graduate Software Engineering Intern - Service Quality",
+    "active": true,
+    "terms": [
+      "Spring 2024",
+      "Fall 2024"
+    ],
+    "date_updated": 1725665427,
+    "date_posted": 1725665427,
+    "url": "https://job-boards.greenhouse.io/truveta/jobs/5309090004",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "company_url": "https://simplify.jobs/c/Truveta",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
