@@ -9055,5 +9055,24 @@
     "company_url": "https://simplify.jobs/c/Epic-Games",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Optiver",
+    "id": "f3a3d84b-670b-406d-92c3-518e0db867f6",
+    "title": "Trading Operations Analyst Intern - Summer 2025",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1726082390,
+    "date_posted": 1726082390,
+    "url": "https://optiver.com/working-at-optiver/career-opportunities/7632445002/?gh_jid=7632445002",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/Optiver",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
