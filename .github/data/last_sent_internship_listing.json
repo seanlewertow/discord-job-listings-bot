@@ -8919,5 +8919,103 @@
     "company_url": "https://simplify.jobs/c/Capital-One",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Span",
+    "id": "8729238e-cc23-4573-97ea-9e07afd16a74",
+    "title": "R&D Infrastructure Software Engineering Co-op January-June 2025",
+    "active": true,
+    "terms": [
+      "Winter 2026",
+      "Spring 2026",
+      "Summer 2026"
+    ],
+    "date_updated": 1726082949,
+    "date_posted": 1726082949,
+    "url": "https://boards.greenhouse.io/spanio/jobs/6119181003",
+    "locations": [
+      "SF"
+    ],
+    "company_url": "https://simplify.jobs/c/Span",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Span",
+    "id": "ecd363e5-f9a1-465d-9ed3-1ae5d470120a",
+    "title": "Data Science Internship-Summer 2025",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1726082945,
+    "date_posted": 1726082945,
+    "url": "https://boards.greenhouse.io/spanio/jobs/6080939003",
+    "locations": [
+      "SF"
+    ],
+    "company_url": "https://simplify.jobs/c/Span",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Allegion",
+    "id": "a16a92b9-a709-41c9-929c-4f08e9b4bc4a",
+    "title": "Software Engineering Verification Intern",
+    "active": true,
+    "terms": [
+      "Summer 2024"
+    ],
+    "date_updated": 1726082768,
+    "date_posted": 1726082768,
+    "url": "https://allegion.wd5.myworkdayjobs.com/careers/job/Golden-CO/Software-Engineering-Verification-Intern_JR30499-1",
+    "locations": [
+      "Golden, CO",
+      "Boulder, CO"
+    ],
+    "company_url": "https://simplify.jobs/c/allegion",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Allegion",
+    "id": "1d16d6ff-eeb8-4d2e-be09-ae0adad570b5",
+    "title": "Software Systems Engineering Intern",
+    "active": true,
+    "terms": [
+      "Summer 2024"
+    ],
+    "date_updated": 1726082773,
+    "date_posted": 1726082773,
+    "url": "https://allegion.wd5.myworkdayjobs.com/careers/job/Golden-CO/Software-Systems-Engineering-Intern_JR30489-1",
+    "locations": [
+      "Golden, CO"
+    ],
+    "company_url": "https://simplify.jobs/c/allegion",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Sigma Computing",
+    "id": "8fb3730b-b089-45a5-9a40-30ada8227573",
+    "title": "Frontend Software Engineering Intern \u2013 Recent Grad",
+    "active": true,
+    "terms": [
+      "Fall 2024"
+    ],
+    "date_updated": 1726082618,
+    "date_posted": 1726082618,
+    "url": "https://job-boards.greenhouse.io/sigmacomputing/jobs/6117787003",
+    "locations": [
+      "SF"
+    ],
+    "company_url": "https://simplify.jobs/c/Sigma-Computing",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
