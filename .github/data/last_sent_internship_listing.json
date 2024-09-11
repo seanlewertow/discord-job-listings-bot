@@ -9113,5 +9113,100 @@
     "company_url": "https://simplify.jobs/c/Truveta",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Marvell",
+    "id": "3d053314-a839-4ebf-8277-cf03c36e193b",
+    "title": "Product Engineer Intern - Bachelors",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1726096689,
+    "date_posted": 1726096689,
+    "url": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers2/job/Santa-Clara-CA/Product-Engineer-Intern---Bachelors_2401898",
+    "locations": [
+      "Santa Clara, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/80961b05-9ed3-462d-aef9-4b418c7fb796",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Motorola",
+    "id": "7c2f83a4-fbbd-4c57-9e94-4120e64ce4d8",
+    "title": "Software Engineer Intern - Summer 2025",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1726096627,
+    "date_posted": 1726096627,
+    "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Schaumburg-IL/Software-Engineer-Intern---Summer-2025_R49943",
+    "locations": [
+      "Hoffman Estates, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/MotorolaSolutions",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Motorola",
+    "id": "92caa2d6-dc02-4718-90a3-076f876070b9",
+    "title": "Software Engineer Intern - Summer 2025",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1726096625,
+    "date_posted": 1726096625,
+    "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Schaumburg-IL/Software-Engineer-Intern---Summer-2025_R49908",
+    "locations": [
+      "Hoffman Estates, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/MotorolaSolutions",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Oshkosh",
+    "id": "7375f2a6-9631-492b-94f2-5a9696f525bf",
+    "title": "Advance Technologies Engineering Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1726096545,
+    "date_posted": 1726096545,
+    "url": "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Greencastle-Pennsylvania-United-States/Engineering-Intern_R30900",
+    "locations": [
+      "Waynesboro, PA"
+    ],
+    "company_url": "https://simplify.jobs/c/Oshkosh",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Figure",
+    "id": "4f0aaffd-abff-4630-885d-6b95b8dbadf4",
+    "title": "Embedded Software Intern - Winter 2025",
+    "active": true,
+    "terms": [
+      "Winter 2025"
+    ],
+    "date_updated": 1724887020,
+    "date_posted": 1724887020,
+    "url": "https://job-boards.greenhouse.io/figureai/jobs/4397706006",
+    "locations": [
+      "Sunnyvale, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Figure-AI",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
