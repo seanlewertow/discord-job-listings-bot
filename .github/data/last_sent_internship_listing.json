@@ -9627,5 +9627,24 @@
     "company_url": "https://simplify.jobs/c/Cerebras-Systems",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Epirus",
+    "id": "33d861dc-4f46-4825-9533-91e0ea4ad593",
+    "title": "Internship-Software",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1726168093,
+    "date_posted": 1726168093,
+    "url": "https://www.epirusinc.com/open-roles?gh_jid=5320594004",
+    "locations": [
+      "Carson, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Epirus",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
