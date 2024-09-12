@@ -9296,5 +9296,102 @@
     "company_url": "https://simplify.jobs/c/Anteriad",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "The Voleon Group",
+    "id": "f8559f30-e4a2-4a26-824b-258ec0dae6e2",
+    "title": "Trading Intern - Summer 2025",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1724801623,
+    "date_posted": 1724801623,
+    "url": "https://jobs.lever.co/voleon/9ffefa6d-f066-47ee-89b3-29b9deb3ec26/apply",
+    "locations": [
+      "Berkeley, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/The-Voleon-Group",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Wellmark",
+    "id": "1b92bac7-5559-4627-a8bd-664db70b43ab",
+    "title": "Data Science - Part-Time Student - Spring and Summer 2025",
+    "active": true,
+    "terms": [],
+    "date_updated": 1726094314,
+    "date_posted": 1726094314,
+    "url": "https://jobs.smartrecruiters.com/WellmarkInc/744000013170115",
+    "locations": [
+      "Des Moines, IA"
+    ],
+    "company_url": "https://simplify.jobs/c/Wellmark",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Vantage Data Centers",
+    "id": "c1bb1b5f-7c70-4491-89ad-09613488ef94",
+    "title": "Vantage Data Centers Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1725924426,
+    "date_posted": 1725924426,
+    "url": "https://vantagedc.wd1.myworkdayjobs.com/en-US/Vantage/job/Denver-Colorado/Vantage-Data-Centers-Intern--NA_R13288",
+    "locations": [
+      "Quincy, WA",
+      "Santa Clara, CA",
+      "Ashburn, VA",
+      "Phoenix, AZ",
+      "Denver, CO"
+    ],
+    "company_url": "https://simplify.jobs/c/62df3370-bf7b-46b7-8619-e32dcd7d3fb3",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Chatham Financial",
+    "id": "3a46da13-5a7a-48b0-a1f5-c02841d65c88",
+    "title": "2025 Quantitative Analyst Internship",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1725925699,
+    "date_posted": 1725925699,
+    "url": "https://boards.greenhouse.io/chathamfinancial/jobs/6209887",
+    "locations": [
+      "West Chester, PA"
+    ],
+    "company_url": "https://simplify.jobs/c/73e27fa4-30a7-4b07-b2e9-002fbcef664b",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "AQR Capital Management",
+    "id": "1c42a0e3-fb44-473e-9a65-edc3b1404926",
+    "title": "2025 Portfolio Implementation \u2013 Trading and Portfolio Finance Summer Analyst",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1723707031,
+    "date_posted": 1723707031,
+    "url": "https://careers.aqr.com/jobs?gh_jid=6179304&gh_jid=6179304",
+    "locations": [
+      "Greenwich, CT"
+    ],
+    "company_url": "https://simplify.jobs/c/AQR-Capital-Management",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
