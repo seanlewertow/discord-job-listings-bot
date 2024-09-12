@@ -9564,5 +9564,68 @@
     "company_url": "https://simplify.jobs/c/Wayfair",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Booz Allen",
+    "id": "33d143e2-e733-4f81-bacb-c91e9814ce71",
+    "title": "University \u2013 Data Scientist Intern",
+    "active": true,
+    "terms": [
+      "Spring 2025",
+      "Summer 2025",
+      "Fall 2025",
+      "Winter 2026",
+      "Spring 2026",
+      "Summer 2026",
+      "Fall 2026"
+    ],
+    "date_updated": 1726154754,
+    "date_posted": 1726154754,
+    "url": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/San-Diego-CA/University---Data-Scientist-Intern_R0205761",
+    "locations": [
+      "San Diego, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/45cb775d-2ca3-49ea-810f-65334ec70079",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Santander",
+    "id": "787fc0cb-49aa-4973-a224-b07c447e4387",
+    "title": "Technology and Data Analytics Intern",
+    "active": true,
+    "terms": [
+      "Summer 2024"
+    ],
+    "date_updated": 1726154575,
+    "date_posted": 1726154575,
+    "url": "https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/Dorchester/Technology-and-Data-Analytics-Intern_Req1364555",
+    "locations": [
+      "Quincy, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/Santander",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Cerebras",
+    "id": "37753852-ed0e-43ab-af8e-c4de705fd9f1",
+    "title": "Applied Machine Learning Engineer \u2013 Internship - PEY 2025",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1726154534,
+    "date_posted": 1726154534,
+    "url": "https://boards.greenhouse.io/embed/job_app?token=6120149003",
+    "locations": [
+      "Toronto, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Cerebras-Systems",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
