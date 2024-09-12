@@ -9671,5 +9671,43 @@
     "company_url": "https://simplify.jobs/c/45cb775d-2ca3-49ea-810f-65334ec70079",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Pendo",
+    "id": "9e7c3991-97b0-4c95-bea7-53093234b5ab",
+    "title": "Summer 2025 Software Engineering Internship - Front End/Back End/Site Reliability/Security",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1726169627,
+    "date_posted": 1726169627,
+    "url": "https://boards.greenhouse.io/pendo/jobs/7636210002",
+    "locations": [
+      "Raleigh, NC"
+    ],
+    "company_url": "https://simplify.jobs/c/Pendo",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Oshkosh",
+    "id": "43e1751f-b102-4631-874a-53828b450117",
+    "title": "Advance Technologies Engineering Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1726169278,
+    "date_posted": 1726169278,
+    "url": "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Hagerstown-Maryland-United-States/Advance-Technologies-Engineering-Intern_R30899",
+    "locations": [
+      "Hagerstown, MD"
+    ],
+    "company_url": "https://simplify.jobs/c/Oshkosh",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
