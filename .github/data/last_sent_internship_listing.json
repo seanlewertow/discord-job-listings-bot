@@ -10073,5 +10073,103 @@
     "company_url": "https://simplify.jobs/c/Span",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Schonfeld",
+    "id": "01be5c79-6b5b-4c32-9804-1d6642500752",
+    "title": "2025 Quant Research Summer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1726257766,
+    "date_posted": 1726257766,
+    "url": "https://job-boards.greenhouse.io/schonfeld/jobs/6250099",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Schonfeld",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Gilead Sciences",
+    "id": "0ac1dd04-d0fc-4d07-a32c-1e4e371036e2",
+    "title": "Intern \u2013 IT - Machine Learning Engineer / Data Scientist",
+    "active": true,
+    "terms": [
+      "Spring 2024",
+      "Summer 2024"
+    ],
+    "date_updated": 1726257434,
+    "date_posted": 1726257434,
+    "url": "https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---North-Carolina---Raleigh/Intern----IT--Machine-Learning-Engineer---Data-Scientist_R0042298",
+    "locations": [
+      "Raleigh, NC"
+    ],
+    "company_url": "https://simplify.jobs/c/Gilead-Sciences",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Carter's Careers",
+    "id": "dd7ac7bc-763e-4978-8919-b4c527d5225c",
+    "title": "Full Stack Developer \u2013 Ecomm Intern",
+    "active": true,
+    "terms": [
+      "Spring 2024",
+      "Summer 2024"
+    ],
+    "date_updated": 1726257774,
+    "date_posted": 1726257774,
+    "url": "https://carters.wd1.myworkdayjobs.com/en-US/CartersCareers/job/Atlanta-GA/Full-Stack-Developer--eComm-Intern_JR35351",
+    "locations": [
+      "Atlanta, GA"
+    ],
+    "company_url": "https://simplify.jobs/c/65a3e9ca-0aaa-423e-a372-a8f6a6cb9ea0",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Gilead Sciences",
+    "id": "f9503927-d6a4-4c58-9173-96ac27120f52",
+    "title": "Intern \u2013 Quality-Machine Learning Engineer / Data Scientist",
+    "active": true,
+    "terms": [
+      "Spring 2024",
+      "Summer 2024"
+    ],
+    "date_updated": 1726257430,
+    "date_posted": 1726257430,
+    "url": "https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---California---Foster-City/Intern---Quality--Machine-Learning-Engineer---Data-Scientist_R0042419",
+    "locations": [
+      "San Mateo, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Gilead-Sciences",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Wellington Management",
+    "id": "60cf3f7f-859a-4c52-8d19-78e7a120cd7a",
+    "title": "Summer 2025 Technology Undergraduate Intern - Boston",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1726259408,
+    "date_posted": 1726259408,
+    "url": "https://wellington.wd5.myworkdayjobs.com/Campus/job/Boston-MA-United-States/Summer-2025-Technology-Undergraduate-Intern---Boston_R91208",
+    "locations": [
+      "Boston, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/Wellington",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
