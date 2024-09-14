@@ -10268,5 +10268,65 @@
     "company_url": "https://simplify.jobs/c/Wurl",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "date_updated": 1726286775,
+    "url": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Spring-Texas-United-States-of-America/Personal-Systems-Software-Engineer-Internship_3141362-1?src=HPCompanyWebsite",
+    "company_name": "HP",
+    "title": "Personal Systems Software Engineer Internship",
+    "locations": [
+      "Spring, Texas, United States of America",
+      "Palo Alto, California, United States of America",
+      "Fort Collins, Colorado, United States of America",
+      "Austin, Texas, United States of America"
+    ],
+    "terms": [
+      "Summer 2025"
+    ],
+    "sponsorship": "Does Not Offer Sponsorship",
+    "active": true,
+    "source": "GiridharRNair",
+    "id": "9773e5b8-3641-4673-bf3f-9e8c92b76a10",
+    "date_posted": 1726286775,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1726286868,
+    "url": "https://app.ripplematch.com/v2/public/job/ea284763/details",
+    "company_name": "Greif",
+    "title": "Summer 2025 Engineering/Automation Intern",
+    "locations": [
+      "Alsip, IL"
+    ],
+    "terms": [
+      "Summer 2025"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "source": "mtlogs",
+    "id": "03168838-a75d-40a0-9ebb-1f8a213397a3",
+    "date_posted": 1726286868,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1726287122,
+    "url": "https://app.ripplematch.com/v2/public/job/4b1e6e0d/details",
+    "company_name": "ULINE Inc.",
+    "title": "Network Engineer Intern",
+    "locations": [
+      "Pleasant Prairie, W"
+    ],
+    "terms": [
+      "Summer 2025"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "source": "mtlogs",
+    "id": "93b7db5f-bc2f-469f-8080-19f9e4091099",
+    "date_posted": 1726287122,
+    "company_url": "",
+    "is_visible": true
   }
 ]
