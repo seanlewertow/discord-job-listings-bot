@@ -10780,5 +10780,24 @@
     "company_url": "https://simplify.jobs/c/MotorolaSolutions",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Western Digital",
+    "id": "5433ee73-9173-4937-9878-669333bcf5cc",
+    "title": "Ramp Co Op - Jan 2025 - July 2025 - SIT-Lab Engineer",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1726515856,
+    "date_posted": 1726515856,
+    "url": "https://jobs.smartrecruiters.com/WesternDigital/744000014248145",
+    "locations": [
+      "Rochester, MN"
+    ],
+    "company_url": "https://simplify.jobs/c/Western-Digital",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
