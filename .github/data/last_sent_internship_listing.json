@@ -10932,5 +10932,24 @@
     "company_url": "https://simplify.jobs/c/Enova",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Oshkosh",
+    "id": "08fad577-c9de-4356-80d8-674cb58599de",
+    "title": "Engineer Intern - Software - Summer 2025",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1726528619,
+    "date_posted": 1726528619,
+    "url": "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Murfreesboro-Tennessee-United-States/Engineering-Intern---Software--Summer-2025-_R32558",
+    "locations": [
+      "Murfreesboro, TN"
+    ],
+    "company_url": "https://simplify.jobs/c/Oshkosh",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
