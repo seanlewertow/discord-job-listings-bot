@@ -10665,5 +10665,100 @@
     "company_url": "https://simplify.jobs/c/symbotic",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Visa",
+    "id": "061a6dec-f500-4d27-b2b5-fa4fb6e322f8",
+    "title": "Software Engineer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2024"
+    ],
+    "date_updated": 1726514163,
+    "date_posted": 1726514163,
+    "url": "https://jobs.smartrecruiters.com/Visa/744000014255436",
+    "locations": [
+      "Highlands Ranch, CO"
+    ],
+    "company_url": "https://simplify.jobs/c/Visa",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Bristol-Myers Squibb",
+    "id": "3168a7eb-fda2-4535-9301-1c6ee21e4963",
+    "title": "Co-Op \u2013 Machine Learning - Spring 2025",
+    "active": true,
+    "terms": [
+      "Spring 2025"
+    ],
+    "date_updated": 1726514373,
+    "date_posted": 1726514373,
+    "url": "https://bristolmyerssquibb.wd5.myworkdayjobs.com/en-US/BMS/job/Cambridge-Crossing---MA---US/Co-Op---Machine-Learning--Spring-2025-_R1585534",
+    "locations": [
+      "Cambridge, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/Bristol-Myers-Squibb",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Galaxy",
+    "id": "9ed25ce2-e689-4723-854d-e21c3c0df2db",
+    "title": "2025 Blockchain Engineering Intern - London",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1726514217,
+    "date_posted": 1726514217,
+    "url": "https://job-boards.greenhouse.io/galaxydigitalservices/jobs/5329547004",
+    "locations": [
+      "London, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Galaxy",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Visa",
+    "id": "702e6a72-01c4-4e63-a1de-523e6b58ab2e",
+    "title": "Software Engineer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2024"
+    ],
+    "date_updated": 1726514163,
+    "date_posted": 1726514163,
+    "url": "https://jobs.smartrecruiters.com/Visa/744000014255255",
+    "locations": [
+      "Austin, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Visa",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Sentry Insurance",
+    "id": "dc5fd824-b32b-4ff5-b021-f6867a17239a",
+    "title": "Software Developer Co-op - Madison - WI Student Opportunity",
+    "active": true,
+    "terms": [
+      "Summer 2024"
+    ],
+    "date_updated": 1726514426,
+    "date_posted": 1726514426,
+    "url": "https://sentryinsurance.wd1.myworkdayjobs.com/en-US/SentryCareers/job/Madison-WI/Software-Developer-Co-op---Madison--WI-Student-Opportunity_JR-137070",
+    "locations": [
+      "Madison, WI"
+    ],
+    "company_url": "https://simplify.jobs/c/782e6c3f-aff3-4aed-9d50-50676cb8ed7f",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
