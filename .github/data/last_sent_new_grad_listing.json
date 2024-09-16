@@ -2070,5 +2070,21 @@
     "company_url": "https://simplify.jobs/c/Visa",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Applied Intuition",
+    "id": "feae57c5-bd69-4c29-aa99-8299b7f8854e",
+    "title": "Embedded Software Engineer \u2013 New Grad",
+    "active": true,
+    "date_updated": 1726528466,
+    "date_posted": 1726528466,
+    "url": "https://boards.greenhouse.io/appliedintuition/jobs/4319633005",
+    "locations": [
+      "Mountain View, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Applied-Intuition",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
