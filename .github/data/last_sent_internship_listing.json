@@ -11012,5 +11012,68 @@
     "company_url": "https://simplify.jobs/c/FetchRewards",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Fetch",
+    "id": "5a764ad7-35b5-4ae1-9167-ee590dd9eacc",
+    "title": "Front-end Software Engineering Internship",
+    "active": true,
+    "terms": [
+      "Spring 2025",
+      "Summer 2025"
+    ],
+    "date_updated": 1726557161,
+    "date_posted": 1726557161,
+    "url": "https://boards.greenhouse.io/fetchrewards/jobs/6209637003",
+    "locations": [
+      "Madison, WI",
+      "Birmingham, AL"
+    ],
+    "company_url": "https://simplify.jobs/c/FetchRewards",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Fetch",
+    "id": "a5082961-899f-4624-a26f-303f90a02b17",
+    "title": "Machine Learning Software Engineering Internship",
+    "active": true,
+    "terms": [
+      "Spring 2025",
+      "Summer 2025"
+    ],
+    "date_updated": 1726557160,
+    "date_posted": 1726557160,
+    "url": "https://boards.greenhouse.io/fetchrewards/jobs/6209641003",
+    "locations": [
+      "Madison, WI",
+      "Birmingham, AL"
+    ],
+    "company_url": "https://simplify.jobs/c/FetchRewards",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Fetch",
+    "id": "458eb070-d4e6-4543-b985-6f4955f83c29",
+    "title": "Backend Software Engineering Internship",
+    "active": true,
+    "terms": [
+      "Spring 2025",
+      "Summer 2025"
+    ],
+    "date_updated": 1726557159,
+    "date_posted": 1726557159,
+    "url": "https://boards.greenhouse.io/fetchrewards/jobs/6209640003",
+    "locations": [
+      "Madison, WI",
+      "Birmingham, AL"
+    ],
+    "company_url": "https://simplify.jobs/c/FetchRewards",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
