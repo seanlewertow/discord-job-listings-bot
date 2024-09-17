@@ -11114,5 +11114,24 @@
     "company_url": "https://simplify.jobs/c/MotorolaSolutions",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Visa",
+    "id": "25a7eb3b-231d-408b-a3b7-1d659986c658",
+    "title": "Consulting & Analytics Intern",
+    "active": true,
+    "terms": [
+      "Fall 2024"
+    ],
+    "date_updated": 1726571104,
+    "date_posted": 1726571104,
+    "url": "https://jobs.smartrecruiters.com/Visa/744000014502159",
+    "locations": [
+      "London, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Visa",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
