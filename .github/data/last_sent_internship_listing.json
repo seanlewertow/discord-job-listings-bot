@@ -11578,5 +11578,106 @@
     "company_url": "https://simplify.jobs/c/Minitab",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Pinterest",
+    "id": "bcfee0ce-b3c1-4161-94ac-02263873cf21",
+    "title": "Software Engineering Intern 2025 - Toronto",
+    "active": true,
+    "terms": [
+      "Spring 2025",
+      "Summer 2025",
+      "Fall 2025"
+    ],
+    "date_updated": 1726614878,
+    "date_posted": 1726614878,
+    "url": "https://www.pinterestcareers.com/job-form?gh_jid=6225207",
+    "locations": [
+      "Toronto, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Pinterest",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Pinterest",
+    "id": "331c43ba-bc0e-462e-a6e1-1d492a4fc36c",
+    "title": "Software Engineering Intern 2025 - USA",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1726614879,
+    "date_posted": 1726614879,
+    "url": "https://www.pinterestcareers.com/job-form?gh_jid=6210381",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/Pinterest",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Dow Jones",
+    "id": "54c64056-7e71-42a1-a119-0abfdfd66fe9",
+    "title": "Summer 2025 Internship \u2013 Software Engineer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1726614837,
+    "date_posted": 1726614837,
+    "url": "https://dowjones.wd1.myworkdayjobs.com/en-US/Dow_Jones_Career/job/NYC---1211-Ave-of-the-Americas/Summer-2025-Internship---Software-Engineer-Intern_Job_Req_43114",
+    "locations": [
+      "Princeton, NJ",
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Dow-Jones",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Rockwell Automation",
+    "id": "a1ca3650-9cbb-45f6-b2eb-751d77844565",
+    "title": "Co-op \u2013 Software Engineering",
+    "active": true,
+    "terms": [
+      "Spring 2024",
+      "Summer 2024",
+      "Fall 2024",
+      "Winter 2025"
+    ],
+    "date_updated": 1726614836,
+    "date_posted": 1726614836,
+    "url": "https://rockwellautomation.wd1.myworkdayjobs.com/en-US/External_Rockwell_Automation/job/Mayfield-Heights-Ohio-United-States/Co-op--Software-Engineering_R24-5168-1",
+    "locations": [
+      "Mayfield Heights, OH"
+    ],
+    "company_url": "https://simplify.jobs/c/Rockwell-Automation",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "skillz",
+    "id": "63c5953e-f2ee-4657-916f-2176c4d43eec",
+    "title": "Software Engineer \u2013 2025 Spring Co-Op",
+    "active": true,
+    "terms": [
+      "Spring 2025"
+    ],
+    "date_updated": 1726614494,
+    "date_posted": 1726614494,
+    "url": "http://corp.skillz.com/careers-list/?gh_jid=6246097",
+    "locations": [
+      "Las Vegas, NV"
+    ],
+    "company_url": "https://simplify.jobs/c/c955eac9-1026-451b-95fe-582bb7c07c4c",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
