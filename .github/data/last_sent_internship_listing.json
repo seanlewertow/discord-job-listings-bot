@@ -10970,5 +10970,47 @@
     "company_url": "https://simplify.jobs/c/Sayari",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Fetch",
+    "id": "ad50b352-1e23-4fe6-903b-0fd9c0f4d07f",
+    "title": "Android Software Engineering Internship",
+    "active": true,
+    "terms": [
+      "Spring 2025",
+      "Summer 2025"
+    ],
+    "date_updated": 1726542642,
+    "date_posted": 1726542642,
+    "url": "https://boards.greenhouse.io/fetchrewards/jobs/6209561003",
+    "locations": [
+      "Madison, WI",
+      "Birmingham, AL"
+    ],
+    "company_url": "https://simplify.jobs/c/FetchRewards",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Fetch",
+    "id": "ae915db5-5caf-4651-a366-bdfe7d767454",
+    "title": "IOS Software Engineering Internship",
+    "active": true,
+    "terms": [
+      "Spring 2025",
+      "Summer 2025"
+    ],
+    "date_updated": 1726542642,
+    "date_posted": 1726542642,
+    "url": "https://boards.greenhouse.io/fetchrewards/jobs/6209636003",
+    "locations": [
+      "Madison, WI",
+      "Birmingham, AL"
+    ],
+    "company_url": "https://simplify.jobs/c/FetchRewards",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
