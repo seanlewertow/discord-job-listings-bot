@@ -11459,5 +11459,24 @@
     "company_url": "https://simplify.jobs/c/elevance-health",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Wellmark",
+    "id": "72abe030-031a-45e8-b5a5-beb17b3896bd",
+    "title": "Software Engineer Internship",
+    "active": true,
+    "terms": [
+      "Spring 2025"
+    ],
+    "date_updated": 1726601985,
+    "date_posted": 1726601985,
+    "url": "https://jobs.smartrecruiters.com/WellmarkInc/744000014619925",
+    "locations": [
+      "Des Moines, IA"
+    ],
+    "company_url": "https://simplify.jobs/c/Wellmark",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
