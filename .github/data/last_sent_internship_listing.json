@@ -11075,5 +11075,44 @@
     "company_url": "https://simplify.jobs/c/FetchRewards",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Motorola",
+    "id": "08bf4abd-3509-49b9-bf83-163e0e887c85",
+    "title": "Supply Chain Data Analytics Internship 2025",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1726557346,
+    "date_posted": 1726557346,
+    "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/Supply-Chain-Data-Analytics-Internship-2025_R49655",
+    "locations": [
+      "Chicago, IL",
+      "Hoffman Estates, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/MotorolaSolutions",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Motorola",
+    "id": "ea4bca9a-7497-436e-bc50-056e34105289",
+    "title": "Supply Chain Data Analyst Internship 2025",
+    "active": true,
+    "terms": [
+      "Summer 2024"
+    ],
+    "date_updated": 1726557343,
+    "date_posted": 1726557343,
+    "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/Supply-Chain-Data-Analyst-Internship-2025_R49479",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/MotorolaSolutions",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
