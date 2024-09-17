@@ -11333,5 +11333,24 @@
     "date_posted": 1726591837,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Curri",
+    "id": "09a70bbe-03be-4341-8e3d-d8de2f8c7bc9",
+    "title": "Software Engineer Intern - Full-Time",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1726600277,
+    "date_posted": 1726600277,
+    "url": "https://jobs.lever.co/curri/1ef189c5-e7a5-4cfb-9cf6-9739be780987/apply",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/Curri",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
