@@ -11133,5 +11133,46 @@
     "company_url": "https://simplify.jobs/c/Visa",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Red Hat",
+    "id": "3243bf9f-a377-4ce1-8d0a-9bfbaf2beebd",
+    "title": "Software Engineering Internship",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1725447998,
+    "date_posted": 1725447998,
+    "url": "https://redhat.wd5.myworkdayjobs.com/jobs/job/Boston/Software-Engineering-Internship_R-041167",
+    "locations": [
+      "Boston, MA",
+      "Raleigh, NC"
+    ],
+    "company_url": "https://simplify.jobs/c/Red-Hat",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "WillowTree",
+    "id": "85807221-a9b3-4ec8-b9c9-896d918315aa",
+    "title": "Software Engineering Intern - US - Summer 2025",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1725377862,
+    "date_posted": 1725377862,
+    "url": "https://boards.greenhouse.io/willowtree/jobs/7596209002",
+    "locations": [
+      "Durham, NC",
+      "Columbus, OH",
+      "Charlottesville, VA"
+    ],
+    "company_url": "https://simplify.jobs/c/WillowTree",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
