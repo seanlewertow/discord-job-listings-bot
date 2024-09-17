@@ -11174,5 +11174,84 @@
     "company_url": "https://simplify.jobs/c/WillowTree",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Capital One",
+    "id": "edbb4d6b-ecbe-4199-8eb6-403599804fee",
+    "title": "Product Development Internship Program - Carnegie Mellon University - Summer 2025",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1726586106,
+    "date_posted": 1726586106,
+    "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Product-Development-Internship-Program---Carnegie-Mellon-University---Summer-2025_R196617-1",
+    "locations": [
+      "Plano, TX",
+      "McLean, VA"
+    ],
+    "company_url": "https://simplify.jobs/c/Capital-One",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "CACI",
+    "id": "7ff71059-98f4-4f29-ae65-4134ccec468f",
+    "title": "Cleared Software Engineer Intern - Summer 2025",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1726585948,
+    "date_posted": 1726585948,
+    "url": "https://caci.wd1.myworkdayjobs.com/External/job/US-CO-Denver/Cleared-Software-Engineer-Intern---Summer-2025_301978-1",
+    "locations": [
+      "Denver, CO",
+      "Dulles, VA"
+    ],
+    "company_url": "https://simplify.jobs/c/CACI",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Immuta",
+    "id": "c166b6d1-509b-4992-8389-b69a81483f61",
+    "title": "Product Engineering Internship - Summer 2025",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1726585810,
+    "date_posted": 1726585810,
+    "url": "https://jobs.lever.co/immuta/bc8de9df-4ae8-450a-b715-58adeea4789a/apply",
+    "locations": [
+      "Columbus, OH"
+    ],
+    "company_url": "https://simplify.jobs/c/Immuta",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Minitab",
+    "id": "245a58fe-9bf6-4d73-aa00-d5c3e034476b",
+    "title": "Intern Opportunities - Summer 2025",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1726585810,
+    "date_posted": 1726585810,
+    "url": "https://job-boards.greenhouse.io/minitab/jobs/6209470003",
+    "locations": [
+      "State College, PA",
+      "Chicago, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/Minitab",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
