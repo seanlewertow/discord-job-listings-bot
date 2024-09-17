@@ -11352,5 +11352,64 @@
     "company_url": "https://simplify.jobs/c/Curri",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "F5",
+    "id": "aa8948a2-d072-4ff2-84b8-84f6424421ab",
+    "title": "Software Engineer Intern - San Jose",
+    "active": true,
+    "terms": [
+      "Spring 2025",
+      "Summer 2025"
+    ],
+    "date_updated": 1726601269,
+    "date_posted": 1726601269,
+    "url": "https://ffive.wd5.myworkdayjobs.com/en-US/f5jobs/job/San-Jose/Software-Engineer-Intern--San-Jose-_RP1031557",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/f5",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Bristol-Myers Squibb",
+    "id": "ec3ab055-1c9f-4a75-9539-18a6d63bfe7d",
+    "title": "Summer 2025 \u2013 Clinical Pharmacology Analysis and Reporting/Data Science Internship",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1726600955,
+    "date_posted": 1726600955,
+    "url": "https://bristolmyerssquibb.wd5.myworkdayjobs.com/en-US/BMS/job/Princeton---NJ---US/Summer-2025---Clinical-Pharmacology-Analysis-and-Reporting-Data-Science-Internship_R1585580",
+    "locations": [
+      "Princeton, NJ"
+    ],
+    "company_url": "https://simplify.jobs/c/Bristol-Myers-Squibb",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Humane",
+    "id": "8c157d9c-a6be-4354-80c6-3c3bc75a5901",
+    "title": "Software Engineering Intern - Device Experiences",
+    "active": true,
+    "terms": [
+      "Spring 2024",
+      "Summer 2024"
+    ],
+    "date_updated": 1726600505,
+    "date_posted": 1726600505,
+    "url": "https://job-boards.greenhouse.io/humane/jobs/5323827004",
+    "locations": [
+      "SF"
+    ],
+    "company_url": "https://simplify.jobs/c/Humane",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
