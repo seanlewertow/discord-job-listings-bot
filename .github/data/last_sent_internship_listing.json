@@ -11960,5 +11960,43 @@
     "company_url": "https://simplify.jobs/c/Q2Software",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Lucid",
+    "id": "f7e109fc-5854-4f16-96fe-e45e09d37384",
+    "title": "Software Engineer Internship 2025",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1726700993,
+    "date_posted": 1726700993,
+    "url": "https://job-boards.greenhouse.io/lucidsoftware/jobs/5251374004",
+    "locations": [
+      "South Jordan, UT"
+    ],
+    "company_url": "https://simplify.jobs/c/Lucid",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Fullscript",
+    "id": "49da07f8-438f-4f9c-8770-8e9ce57202b9",
+    "title": "Co-op/Intern Ruby Engineer - Winter 2025",
+    "active": true,
+    "terms": [
+      "Winter 2025"
+    ],
+    "date_updated": 1726700965,
+    "date_posted": 1726700965,
+    "url": "https://jobs.lever.co/fullscript/bcf00242-0247-459c-883e-cce1ee2a225d/apply",
+    "locations": [
+      "Remote in Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/FullScript",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
