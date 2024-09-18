@@ -11940,5 +11940,25 @@
     "company_url": "https://simplify.jobs/c/MotorolaSolutions",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Q2",
+    "id": "cd913a03-70ed-4cd7-beee-68b9e7069ecb",
+    "title": "Engineering/Data Science Internship",
+    "active": true,
+    "terms": [
+      "Spring 2024",
+      "Summer 2024"
+    ],
+    "date_updated": 1726687746,
+    "date_posted": 1726687746,
+    "url": "https://q2ebanking.wd5.myworkdayjobs.com/en-US/Q2/job/Austin-TX/Engineering-Data-Science-Internship_REQ-10697",
+    "locations": [
+      "Austin, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Q2Software",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
