@@ -11894,5 +11894,51 @@
     "company_url": "https://simplify.jobs/c/MotorolaSolutions",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Fidelity Investments",
+    "id": "c473b469-713d-47fb-9ec0-540acd19444d",
+    "title": "Summer 2025 Undergraduate Internship - Technology",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1726687804,
+    "date_posted": 1726687804,
+    "url": "https://wd1.myworkdaysite.com/recruiting/fmr/FidelityCareers/job/Boston-MA/Summer-2025-Undergraduate-Internship---Technology_2100827",
+    "locations": [
+      "Salt Lake City, UT",
+      "Boston, MA",
+      "Westlake, TX",
+      "Durham, NC",
+      "Smithfield, RI",
+      "Merrimack, NH",
+      "NYC",
+      "Cincinnati, OH"
+    ],
+    "company_url": "https://simplify.jobs/c/Fidelity",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Motorola",
+    "id": "545fc5f4-0bac-40a0-bc29-fa8243933b22",
+    "title": "Software Engineer Intern - Summer 2025",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1726687597,
+    "date_posted": 1726687597,
+    "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/Software-Engineer-Intern---Summer-2025_R50046",
+    "locations": [
+      "Chicago, IL",
+      "Hoffman Estates, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/MotorolaSolutions",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
