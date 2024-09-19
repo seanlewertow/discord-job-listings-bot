@@ -12181,5 +12181,43 @@
     "company_url": "https://simplify.jobs/c/Duolingo",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Lexington Medical",
+    "id": "9d1acc33-8566-4ce3-bf62-326b072a1585",
+    "title": "Product Engineer Intern - Summer 2025",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1726773882,
+    "date_posted": 1726773882,
+    "url": "https://jobs.lever.co/lexingtonmedical/db04962e-a7a2-4b62-9302-b753b3483d03/apply",
+    "locations": [
+      "Bedford, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/Lexington-Medical",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Demiurge Studios",
+    "id": "577e00ce-b44e-4041-b80b-b05363252be7",
+    "title": "2025 Engineering Intern",
+    "active": true,
+    "terms": [
+      "Winter 2025"
+    ],
+    "date_updated": 1726773446,
+    "date_posted": 1726773446,
+    "url": "https://jobs.lever.co/demiurgestudios/5b325f22-aaf3-4d0f-9535-2a0520afe35f/apply",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/Demiurge-Studios",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
