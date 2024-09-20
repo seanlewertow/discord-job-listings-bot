@@ -12381,5 +12381,100 @@
     "company_url": "https://simplify.jobs/c/DoorDash",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "NinjaTrader",
+    "id": "ef54770b-b354-41ff-96ce-c396c2fa1836",
+    "title": "Software Engineer Intern - Trading Services - Summer 2025",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1726802276,
+    "date_posted": 1726802276,
+    "url": "https://ninjatrader.com/careers/internships/?gh_jid=4403101006",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/NinjaTrader",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Jahnel Group",
+    "id": "3cc235ae-fe61-4c42-850d-78450d8e18d7",
+    "title": "Associate Software Engineer \u2013 Intern",
+    "active": true,
+    "terms": [
+      "Summer 2024"
+    ],
+    "date_updated": 1726802250,
+    "date_posted": 1726802250,
+    "url": "https://www.jahnelgroup.com/apply.html?gh_jid=4102298007",
+    "locations": [
+      "Schenectady, NY"
+    ],
+    "company_url": "https://simplify.jobs/c/8f9a7760-f770-41b9-8046-3892b6e193ff",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "NinjaTrader",
+    "id": "32b3b579-cbf6-457c-8b16-69e473465d3f",
+    "title": "Web Engineer Intern - Summer 2025",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1726802240,
+    "date_posted": 1726802240,
+    "url": "https://ninjatrader.com/careers/internships/?gh_jid=4403107006",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/NinjaTrader",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "NinjaTrader",
+    "id": "7c4eb28a-6bd8-45ec-951f-6e7d08e82d35",
+    "title": "Software Developer in Test Intern - Summer 2025",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1726802246,
+    "date_posted": 1726802246,
+    "url": "https://ninjatrader.com/careers/internships/?gh_jid=4403117006",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/NinjaTrader",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Astranis",
+    "id": "44dcc6a6-4597-4d0c-9b74-3e35f6674d50",
+    "title": "Software Developer \u2013 Intern - Network/Payload Software - Winter 2025",
+    "active": true,
+    "terms": [
+      "Winter 2025"
+    ],
+    "date_updated": 1726802138,
+    "date_posted": 1726802138,
+    "url": "https://job-boards.greenhouse.io/astranis/jobs/4404612006",
+    "locations": [
+      "SF"
+    ],
+    "company_url": "https://simplify.jobs/c/Astranis",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
