@@ -12591,5 +12591,24 @@
     "company_url": "https://simplify.jobs/c/Leidos",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "CACI",
+    "id": "dce29a72-70d2-4600-9d1a-56fbaf04fa06",
+    "title": "Software Engineering Intern - Summer 2025",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1726860431,
+    "date_posted": 1726860431,
+    "url": "https://caci.wd1.myworkdayjobs.com/External/job/US-FL-Sarasota/Software-Engineering-Intern---Summer-2025_302132-1",
+    "locations": [
+      "Sarasota, FL"
+    ],
+    "company_url": "https://simplify.jobs/c/CACI",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
