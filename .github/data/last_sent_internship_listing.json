@@ -12667,5 +12667,43 @@
     "company_url": "https://simplify.jobs/c/Intel",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Astranis",
+    "id": "2da81e78-4b39-452f-974e-7caff2be995c",
+    "title": "Full Stack Developer \u2013 Intern - Network Software - Spring 2025",
+    "active": true,
+    "terms": [
+      "Spring 2025"
+    ],
+    "date_updated": 1726874059,
+    "date_posted": 1726874059,
+    "url": "https://job-boards.greenhouse.io/astranis/jobs/4400091006",
+    "locations": [
+      "SF"
+    ],
+    "company_url": "https://simplify.jobs/c/Astranis",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Astranis",
+    "id": "f008700a-117b-4b47-87ec-308512d1d596",
+    "title": "Full Stack Developer \u2013 Intern - Network Software - Winter 2025",
+    "active": true,
+    "terms": [
+      "Winter 2025"
+    ],
+    "date_updated": 1726874058,
+    "date_posted": 1726874058,
+    "url": "https://job-boards.greenhouse.io/astranis/jobs/4400090006",
+    "locations": [
+      "SF"
+    ],
+    "company_url": "https://simplify.jobs/c/Astranis",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
