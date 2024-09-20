@@ -12648,5 +12648,24 @@
     "company_url": "https://simplify.jobs/c/80961b05-9ed3-462d-aef9-4b418c7fb796",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Intel",
+    "id": "bd6fc94d-5668-46f4-ad93-58f09d5c37c5",
+    "title": "Software Engineer \u2013 PEY Intern",
+    "active": true,
+    "terms": [
+      "Winter 2024"
+    ],
+    "date_updated": 1726874017,
+    "date_posted": 1726874017,
+    "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/Canada-Toronto/Software-Engineer---PEY-Intern_JR0266630",
+    "locations": [
+      "Toronto, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Intel",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
