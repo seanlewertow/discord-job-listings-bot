@@ -12496,5 +12496,24 @@
     "company_url": "https://simplify.jobs/c/DoorDash",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "AQR Capital Management",
+    "id": "3cdaa905-8d9d-465f-bc35-a6fc2bfb2f25",
+    "title": "2025 Quantitative Research Development Summer Analyst",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1726844953,
+    "date_posted": 1726844953,
+    "url": "https://careers.aqr.com/jobs?gh_jid=6269811&gh_jid=6269811",
+    "locations": [
+      "Greenwich, CT"
+    ],
+    "company_url": "https://simplify.jobs/c/AQR-Capital-Management",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
