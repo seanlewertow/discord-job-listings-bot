@@ -12962,5 +12962,104 @@
     "company_url": "https://simplify.jobs/c/Autodesk",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Intel",
+    "id": "12d300b4-df8a-4234-9423-017c5f076586",
+    "title": "Graduate Intern - Software Engineer",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1727119525,
+    "date_posted": 1727119525,
+    "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-California-Santa-Clara/Graduate-Intern---Software-Engineer_JR0267596",
+    "locations": [
+      "Santa Clara, CA",
+      "Folsom, CA",
+      "Phoenix, AZ"
+    ],
+    "company_url": "https://simplify.jobs/c/Intel",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Bose",
+    "id": "c7755d20-e6cf-4679-ae48-b39b466b9bb8",
+    "title": "CE Wearables a/D Software Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1727119439,
+    "date_posted": 1727119439,
+    "url": "https://boseallaboutme.wd1.myworkdayjobs.com/en-US/Bose_Careers/job/US-MA---Framingham/CE-Wearables-A-D-Software-Intern_R27583",
+    "locations": [
+      "Framingham, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/bose",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "ICF",
+    "id": "196b4943-b97d-447c-b5d2-51b69fe03e8b",
+    "title": "2025 Summer Intern - Generative AI Research - Global Health - Bachelors/Masters - Hybrid or Remote",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1727119420,
+    "date_posted": 1727119420,
+    "url": "https://icf.wd5.myworkdayjobs.com/en-US/ICFExternal_Career_Site/job/Rockville-MD/XMLNAME-2025-Summer-Intern--Generative-AI-Research---Global-Health--Bachelors-Masters--Hybrid-or-Remote-_R2403662",
+    "locations": [
+      "North Bethesda, MD",
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/750f50d0-c3f8-4334-822f-fb70fa81b529",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Marvell",
+    "id": "3dbd18d6-9540-4c74-8106-d23361188d05",
+    "title": "Application Engineering Intern - Bachelors",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1727119261,
+    "date_posted": 1727119261,
+    "url": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers2/job/Santa-Clara-CA/Application-Engineering-Intern---Bachelors_2401790",
+    "locations": [
+      "Santa Clara, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/80961b05-9ed3-462d-aef9-4b418c7fb796",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Autodesk",
+    "id": "415a0700-b6e0-4b2a-89c6-26fb107c3819",
+    "title": "Intern \u2013 Data Engineer - Vancouver",
+    "active": true,
+    "terms": [
+      "Winter 2025",
+      "Spring 2025"
+    ],
+    "date_updated": 1727118713,
+    "date_posted": 1727118713,
+    "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Vancouver-BC-CAN/Intern--Data-Engineer--Vancouver-_24WD81980-1",
+    "locations": [
+      "Vancouver, BC, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Autodesk",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
