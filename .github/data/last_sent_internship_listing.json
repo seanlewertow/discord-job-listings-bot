@@ -12898,5 +12898,69 @@
     "company_url": "https://simplify.jobs/c/OpenAI",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Autodesk",
+    "id": "10072ed3-43c0-445a-9d3c-18988d7dbdd0",
+    "title": "Intern \u2013 Software Engineer - United States",
+    "active": true,
+    "terms": [
+      "Spring 2025",
+      "Summer 2025",
+      "Fall 2025"
+    ],
+    "date_updated": 1727118709,
+    "date_posted": 1727118709,
+    "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/San-Francisco-CA-USA/Intern--Software-Engineer--United-States-_24WD81856-1",
+    "locations": [
+      "SF"
+    ],
+    "company_url": "https://simplify.jobs/c/Autodesk",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Autodesk",
+    "id": "cdd9c9f1-f4e0-4bcb-907e-b81ad5ddbb4f",
+    "title": "Intern \u2013 Software Developer - Canada",
+    "active": true,
+    "terms": [
+      "Winter 2025",
+      "Spring 2025",
+      "Summer 2025"
+    ],
+    "date_updated": 1727118707,
+    "date_posted": 1727118707,
+    "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/AMER---Canada---Ontario---Toronto---University-Ave/Intern--Software-Developer--Canada-_24WD81949-1",
+    "locations": [
+      "Toronto, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Autodesk",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Autodesk",
+    "id": "9b84d38d-7bbb-4e7f-985b-779900d210dc",
+    "title": "Intern \u2013 Machine Learning Engineer",
+    "active": true,
+    "terms": [
+      "Winter 2025",
+      "Spring 2025",
+      "Summer 2025"
+    ],
+    "date_updated": 1727118710,
+    "date_posted": 1727118710,
+    "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Ontario-CAN---Remote/Intern--Machine-Learning-Engineer_24WD82001-1",
+    "locations": [
+      "Montreal, QC, Canada",
+      "Remote in Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Autodesk",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
