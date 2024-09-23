@@ -13102,5 +13102,48 @@
     "date_posted": 1727125349,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Salesforce",
+    "id": "8567dab1-84c6-450d-b220-b39a9ac162b5",
+    "title": "Summer 2025 Intern - Business Insights Analyst",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1727133882,
+    "date_posted": 1727133882,
+    "url": "https://salesforce.wd12.myworkdayjobs.com/en-us/External_Career_Site/job/California---San-Francisco/Summer-2025-Intern---Business-Insights-Analyst_JR264521-2",
+    "locations": [
+      "Seattle, WA",
+      "Indianapolis, IN",
+      "SF",
+      "Bellevue, WA",
+      "Atlanta, GA",
+      "Burlington, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/Salesforce",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Anchorage",
+    "id": "6bf3cc31-1f81-4497-8858-33100c68c13d",
+    "title": "Software Engineering Internship - Summer 2025",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1727133431,
+    "date_posted": 1727133431,
+    "url": "https://jobs.lever.co/anchorage/702cc421-edfb-4e1c-a549-38041306b442/apply",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/Anchorage",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
