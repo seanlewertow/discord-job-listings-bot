@@ -13145,5 +13145,43 @@
     "company_url": "https://simplify.jobs/c/Anchorage",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Astranis",
+    "id": "2cd830ad-9303-4492-b06d-f1f901cf209e",
+    "title": "Software Systems Hardware Integration Engineer Intern - Winter 2025",
+    "active": true,
+    "terms": [
+      "Winter 2025"
+    ],
+    "date_updated": 1726802123,
+    "date_posted": 1726802123,
+    "url": "https://job-boards.greenhouse.io/astranis/jobs/4393050006",
+    "locations": [
+      "SF"
+    ],
+    "company_url": "https://simplify.jobs/c/Astranis",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Medtronic",
+    "id": "6e76e84f-a0a3-47eb-9fd8-7a63493cd9a8",
+    "title": "Summer 2025 Management Information Systems Intern - Undergraduate",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1726629139,
+    "date_posted": 1726629139,
+    "url": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Mounds-View-Minnesota-United-States-of-America/Summer-2025-Management-Information-Systems-Intern---Undergraduate_R897-1",
+    "locations": [
+      "Blaine, MN"
+    ],
+    "company_url": "https://simplify.jobs/c/9b240811-be36-4b51-8f40-6973a27e1f62",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
