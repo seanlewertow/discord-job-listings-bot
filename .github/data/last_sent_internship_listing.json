@@ -13389,5 +13389,108 @@
     "company_url": "https://simplify.jobs/c/PayPal",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "skillz",
+    "id": "ff5d142f-195f-45b0-8816-4604e5e1e448",
+    "title": "Data Engineering \u2013 2025 Spring Co-Op",
+    "active": true,
+    "terms": [
+      "Spring 2025"
+    ],
+    "date_updated": 1727205268,
+    "date_posted": 1727205268,
+    "url": "http://corp.skillz.com/careers-list/?gh_jid=6274754",
+    "locations": [
+      "Las Vegas, NV"
+    ],
+    "company_url": "https://simplify.jobs/c/c955eac9-1026-451b-95fe-582bb7c07c4c",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Leidos",
+    "id": "00ba9011-4d9a-4da2-a328-77ec9037ebb7",
+    "title": "Data Science Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1727205535,
+    "date_posted": 1727205535,
+    "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Aurora-CO/Data-Science-Intern_R-00144398",
+    "locations": [
+      "Aurora, CO",
+      "Chantilly, VA"
+    ],
+    "company_url": "https://simplify.jobs/c/Leidos",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Leidos",
+    "id": "e2a634e0-936f-441a-a11a-bf8004d3a748",
+    "title": "Software Engineer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1727205533,
+    "date_posted": 1727205533,
+    "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Aurora-CO/Software-Engineer-Intern_R-00144403",
+    "locations": [
+      "Aurora, CO",
+      "Chantilly, VA"
+    ],
+    "company_url": "https://simplify.jobs/c/Leidos",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "K2 Space",
+    "id": "5d50d7c3-e94a-4fb8-a4aa-7a2e221f44b8",
+    "title": "Software Engineering Intern - Summer 2025",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1727205485,
+    "date_posted": 1727205485,
+    "url": "https://jobs.ashbyhq.com/K2space/ce03524e-939a-4dad-8588-24a1983047ea/application",
+    "locations": [
+      "LA"
+    ],
+    "company_url": "https://simplify.jobs/c/K2-Space",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "PayPal",
+    "id": "ef95d06a-985b-4ab8-8a2e-d9d65d5c6c8e",
+    "title": "Mobile Software Engineer Intern",
+    "active": true,
+    "terms": [
+      "Spring 2025",
+      "Fall 2025"
+    ],
+    "date_updated": 1727205204,
+    "date_posted": 1727205204,
+    "url": "https://wd1.myworkdaysite.com/recruiting/paypal/jobs/job/San-Jose-California-United-States-of-America/Mobile-Software-Engineer-Intern_R0117700",
+    "locations": [
+      "Austin, TX",
+      "San Jose, CA",
+      "Chicago, IL",
+      "Omaha, NE",
+      "Scottsdale, AZ",
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/PayPal",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
