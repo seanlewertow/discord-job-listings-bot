@@ -13221,5 +13221,98 @@
     "date_posted": 1727156991,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Marvell",
+    "id": "ffe81eec-0cfb-4683-87d3-c2c3f92b99e6",
+    "title": "Field Application Engineering Intern - Bachelor's Degree",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1727190832,
+    "date_posted": 1727190832,
+    "url": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers2/job/Santa-Clara-CA/Field-Application-Engineering-Intern---Bachelor-s-Degree_2401846",
+    "locations": [
+      "Santa Clara, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/80961b05-9ed3-462d-aef9-4b418c7fb796",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Galaxy",
+    "id": "0aeb3459-ac8c-4a72-9d83-a6420cf29d22",
+    "title": "2025 Data Engineer Intern - NYC",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1727190551,
+    "date_posted": 1727190551,
+    "url": "https://job-boards.greenhouse.io/galaxydigitalservices/jobs/5337595004",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Galaxy",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Galaxy",
+    "id": "97857706-0904-49f9-8579-1341e8d68130",
+    "title": "2025 Derivatives Engineer Intern - NYC",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1727190556,
+    "date_posted": 1727190556,
+    "url": "https://job-boards.greenhouse.io/galaxydigitalservices/jobs/5337628004",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Galaxy",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Visa",
+    "id": "36efc28e-d101-496a-918b-2c0f0f46b675",
+    "title": "Software Engineer - Months Placement Student",
+    "active": true,
+    "terms": [],
+    "date_updated": 1727190467,
+    "date_posted": 1727190467,
+    "url": "https://jobs.smartrecruiters.com/Visa/744000016088096",
+    "locations": [
+      "Belfast, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Visa",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Wayfair",
+    "id": "1f00d68e-10cf-4eaf-96b2-45737b37dcee",
+    "title": "Software Engineering Internship - Summer 2025 - Austin - TX",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1727190428,
+    "date_posted": 1727190428,
+    "url": "https://www.wayfair.com/careers/jobs/7653561002?gh_jid=7653561002",
+    "locations": [
+      "Austin, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Wayfair",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
