@@ -13848,5 +13848,24 @@
     "company_url": "https://simplify.jobs/c/Trimble",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "ServiceNow",
+    "id": "c460ec74-5440-4a34-8ad3-30232eda1d38",
+    "title": "Digital Technology \u2013 Associate Data Informatics Analyst Intern - Dt",
+    "active": true,
+    "terms": [
+      "Summer 2024"
+    ],
+    "date_updated": 1727314435,
+    "date_posted": 1726528177,
+    "url": "https://jobs.smartrecruiters.com/ServiceNow/744000016450735",
+    "locations": [
+      "Santa Clara, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/ServiceNow",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
