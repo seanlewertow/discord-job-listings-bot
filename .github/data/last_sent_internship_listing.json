@@ -13867,5 +13867,105 @@
     "company_url": "https://simplify.jobs/c/ServiceNow",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "National Information Solutions Cooperative (NISC)",
+    "id": "2d128eea-4e91-4573-a23d-57810476b833",
+    "title": "Intern \u2013 Software Development - Machine Learning",
+    "active": true,
+    "terms": [
+      "Spring 2025",
+      "Summer 2025"
+    ],
+    "date_updated": 1727320025,
+    "date_posted": 1727320025,
+    "url": "https://boards.greenhouse.io/testnisc/jobs/6235874",
+    "locations": [
+      "Bismarck, ND"
+    ],
+    "company_url": "https://simplify.jobs/c/National-Information-Solutions-Cooperative-(NISC)",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "National Information Solutions Cooperative (NISC)",
+    "id": "124b0e63-062a-4d34-ba99-c372a2752dcb",
+    "title": "Intern \u2013 Software Development - IOS",
+    "active": true,
+    "terms": [
+      "Spring 2025",
+      "Summer 2025"
+    ],
+    "date_updated": 1727320023,
+    "date_posted": 1727320023,
+    "url": "https://boards.greenhouse.io/testnisc/jobs/6235239",
+    "locations": [
+      "Bismarck, ND"
+    ],
+    "company_url": "https://simplify.jobs/c/National-Information-Solutions-Cooperative-(NISC)",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "National Information Solutions Cooperative (NISC)",
+    "id": "0e829def-1fba-46a0-bc0c-7908dba0a836",
+    "title": "Intern \u2013 Software Development - Machine Learning",
+    "active": true,
+    "terms": [
+      "Spring 2025",
+      "Summer 2025"
+    ],
+    "date_updated": 1727320025,
+    "date_posted": 1727320025,
+    "url": "https://boards.greenhouse.io/testnisc/jobs/6235866",
+    "locations": [
+      "Bismarck, ND",
+      "Lake St Louis, MO",
+      "Cedar Rapids, IA"
+    ],
+    "company_url": "https://simplify.jobs/c/National-Information-Solutions-Cooperative-(NISC)",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Noah Medical",
+    "id": "d30c1e03-a6d8-4837-b9d7-f9db7518e8e5",
+    "title": "System Software Engineer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1727319944,
+    "date_posted": 1727319944,
+    "url": "https://boards.greenhouse.io/noahmedical/jobs/4135743008",
+    "locations": [
+      "San Carlos, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/NoahMedical",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Noah Medical",
+    "id": "143b9986-4852-4208-840c-9df055074d0b",
+    "title": "Software Engineer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1727319940,
+    "date_posted": 1727319940,
+    "url": "https://boards.greenhouse.io/noahmedical/jobs/4126024008",
+    "locations": [
+      "San Carlos, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/NoahMedical",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
