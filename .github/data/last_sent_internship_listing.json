@@ -14084,5 +14084,103 @@
     "company_url": "https://simplify.jobs/c/Flynn-Companies",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Uber",
+    "id": "ecd29bcc-a8fb-484d-998a-011204615de1",
+    "title": "2025 Software Engineering Internship - Clark Atlanta University - Morehouse College - Or Spelman College - Aucc",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1727378726,
+    "date_posted": 1727378726,
+    "url": "https://university-uber.icims.com/jobs/135650/job",
+    "locations": [
+      "SF"
+    ],
+    "company_url": "https://simplify.jobs/c/Uber",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Uber",
+    "id": "86d47b5a-d192-4f86-90d2-773be4dec2a5",
+    "title": "2025 Software Engineering Internship - Kennesaw State University",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1727378730,
+    "date_posted": 1727378730,
+    "url": "https://university-uber.icims.com/jobs/135646/job",
+    "locations": [
+      "SF"
+    ],
+    "company_url": "https://simplify.jobs/c/Uber",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Uber",
+    "id": "a4e7d34f-274a-4a70-b463-0544473d361a",
+    "title": "2025 Software Engineering Internship - Bowie State University",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1727378727,
+    "date_posted": 1727378727,
+    "url": "https://university-uber.icims.com/jobs/135643/job",
+    "locations": [
+      "SF"
+    ],
+    "company_url": "https://simplify.jobs/c/Uber",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Uber",
+    "id": "50655465-02ae-4a31-abad-896ef239ffe7",
+    "title": "2025 Software Engineering Internship - University of Maryland - College Park",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1727378727,
+    "date_posted": 1727378727,
+    "url": "https://university-uber.icims.com/jobs/135644/job",
+    "locations": [
+      "SF"
+    ],
+    "company_url": "https://simplify.jobs/c/Uber",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Uber",
+    "id": "b055cc40-da76-4c76-a0ea-c356eb9350e7",
+    "title": "2025 Software Engineer Internship - Michigan",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1727363896,
+    "date_posted": 1727363896,
+    "url": "https://www.uber.com/global/en/careers/list/135413/",
+    "locations": [
+      "Seattle, WA",
+      "SF",
+      "NYC",
+      "Sunnyvale, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Uber",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
