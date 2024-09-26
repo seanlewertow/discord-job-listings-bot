@@ -13989,5 +13989,100 @@
     "company_url": "https://simplify.jobs/c/Uber",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Uber",
+    "id": "419ca3b8-3683-4ab1-b119-57686a35aa62",
+    "title": "2025 Software Engineer Internship - Michigan",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1727363620,
+    "date_posted": 1727363620,
+    "url": "https://university-uber.icims.com/jobs/135413/job",
+    "locations": [
+      "SF"
+    ],
+    "company_url": "https://simplify.jobs/c/Uber",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Uber",
+    "id": "34f1d111-758c-4146-b288-7bd22904013b",
+    "title": "2025 Software Engineering Uberstar Internship - United States",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1727363618,
+    "date_posted": 1727363618,
+    "url": "https://university-uber.icims.com/jobs/135639/job",
+    "locations": [
+      "SF"
+    ],
+    "company_url": "https://simplify.jobs/c/Uber",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Uber",
+    "id": "044e1894-4326-4d2a-9083-ee147a87a5a8",
+    "title": "2025 Software Engineering Uberstar Internship - Canadian Schools",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1727363615,
+    "date_posted": 1727363615,
+    "url": "https://university-uber.icims.com/jobs/135417/job",
+    "locations": [
+      "SF"
+    ],
+    "company_url": "https://simplify.jobs/c/Uber",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Uber",
+    "id": "772f0cad-00bc-4a2c-a665-7f3fbd0f2f41",
+    "title": "2025 Software Engineer Internship - UC Berkeley",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1727363612,
+    "date_posted": 1727363612,
+    "url": "https://university-uber.icims.com/jobs/135410/job",
+    "locations": [
+      "SF"
+    ],
+    "company_url": "https://simplify.jobs/c/Uber",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Flynn Companies",
+    "id": "96926ba6-7b24-4d01-9253-f7259def1201",
+    "title": "Innovation and Strategic Development Co-Op",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1727363351,
+    "date_posted": 1727363351,
+    "url": "https://jobs.lever.co/flynncompanies/8eaeaa6b-8961-44b8-afa7-55cbe4282bb0/apply",
+    "locations": [
+      "Toronto, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Flynn-Companies",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
