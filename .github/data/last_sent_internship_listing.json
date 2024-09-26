@@ -14182,5 +14182,24 @@
     "company_url": "https://simplify.jobs/c/Uber",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "ServiceNow",
+    "id": "5367a7d6-26b8-4ca0-af59-5085ace7d3d6",
+    "title": "Digital Technology \u2013 Data Scientist Intern - Dt",
+    "active": true,
+    "terms": [
+      "Summer 2024"
+    ],
+    "date_updated": 1727380462,
+    "date_posted": 1727380462,
+    "url": "https://jobs.smartrecruiters.com/ServiceNow/744000016685086",
+    "locations": [
+      "Santa Clara, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/ServiceNow",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
