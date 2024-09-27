@@ -14556,5 +14556,102 @@
     "company_url": "https://simplify.jobs/c/Uber",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Uber",
+    "id": "b854e44a-4ab0-4933-b288-32f77d9dde5a",
+    "title": "2025 Software Engineering Uberstar Internship - Carnegie Mellon University",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1727449986,
+    "date_posted": 1727449986,
+    "url": "https://university-uber.icims.com/jobs/135747/job",
+    "locations": [
+      "SF"
+    ],
+    "company_url": "https://simplify.jobs/c/Uber",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Uber",
+    "id": "962b18ef-a0d3-40fa-aab9-73f287498c1c",
+    "title": "2025 Software Engineering Uberstar Internship - University of Texas at El Paso",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1727449984,
+    "date_posted": 1727449984,
+    "url": "https://university-uber.icims.com/jobs/135752/job",
+    "locations": [
+      "SF"
+    ],
+    "company_url": "https://simplify.jobs/c/Uber",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Uber",
+    "id": "76377c02-088f-4b38-bf3b-aabfa8fc271c",
+    "title": "2025 Software Engineering Internship - University of Texas at El Paso",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1727449989,
+    "date_posted": 1727449989,
+    "url": "https://university-uber.icims.com/jobs/135746/job",
+    "locations": [
+      "SF"
+    ],
+    "company_url": "https://simplify.jobs/c/Uber",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Uber",
+    "id": "011d0108-c420-43f7-8b53-4fa5ff225f0b",
+    "title": "2025 Software Engineering Uberstar Internship - University of Washington",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1727449988,
+    "date_posted": 1727449988,
+    "url": "https://university-uber.icims.com/jobs/135751/job",
+    "locations": [
+      "Seattle, WA",
+      "SF",
+      "Sunnyvale, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Uber",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Visa",
+    "id": "eb852221-cc47-48c1-943d-032ea58572ba",
+    "title": "Consulting & Analytics Intern - Managed Services",
+    "active": true,
+    "terms": [
+      "Fall 2024"
+    ],
+    "date_updated": 1727449890,
+    "date_posted": 1727449890,
+    "url": "https://jobs.smartrecruiters.com/Visa/744000016929205",
+    "locations": [
+      "London, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Visa",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
