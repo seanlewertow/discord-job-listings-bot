@@ -15391,5 +15391,85 @@
     "company_url": "https://simplify.jobs/c/c6651565-44c8-4050-8412-111c54942390",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "SeatGeek",
+    "id": "ba43a853-4c70-4df0-8471-57b700afafb2",
+    "title": "Software Engineer \u2013 Internship",
+    "active": true,
+    "terms": [
+      "Spring 2026",
+      "Summer 2026"
+    ],
+    "date_updated": 1727811721,
+    "date_posted": 1727811721,
+    "url": "https://seatgeek.com/jobs/6295827?gh_jid=6295827",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/SeatGeek",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Khan Academy",
+    "id": "ce5e6613-4951-4f0d-a8af-9785c4f1f88e",
+    "title": "Software Engineer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1727811705,
+    "date_posted": 1727811705,
+    "url": "https://boards.greenhouse.io/khanacademy/jobs/6257065",
+    "locations": [
+      "Remote in USA",
+      "Remote in Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Khan-Academy",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Clever",
+    "id": "abd86841-2666-4356-b5d5-c1257622ffbf",
+    "title": "Engineering Intern - Undergraduate Student",
+    "active": true,
+    "terms": [
+      "Spring 2025",
+      "Summer 2025"
+    ],
+    "date_updated": 1727810796,
+    "date_posted": 1727810796,
+    "url": "https://www.clever.com/about/careers?gh_jid=6292407",
+    "locations": [
+      "SF",
+      "Durham, NC"
+    ],
+    "company_url": "https://simplify.jobs/c/Clever",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Challenge Manufacturing",
+    "id": "83d6b176-94e6-4dc7-b78f-ff78c2fd2cba",
+    "title": "Software Engineer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1727810749,
+    "date_posted": 1727810749,
+    "url": "https://www.challenge-mfg.com/careers/job/?gh_jid=5343220004",
+    "locations": [
+      "Pontiac, MI"
+    ],
+    "company_url": "https://simplify.jobs/c/Challenge-Manufacturing",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
