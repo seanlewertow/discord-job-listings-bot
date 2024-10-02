@@ -15738,5 +15738,43 @@
     "company_url": "https://simplify.jobs/c/Worldcoin",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "CesiumAstro",
+    "id": "a1adc9b0-a3f7-445d-87a3-3e6ad92e2c5a",
+    "title": "Summer 2025 \u2013 Embedded Software Engineering Internship",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1727882197,
+    "date_posted": 1727882197,
+    "url": "https://jobs.lever.co/CesiumAstro/b98dfc8d-5c28-449b-b5fd-62cfa34c1230/apply",
+    "locations": [
+      "Broomfield, CO"
+    ],
+    "company_url": "https://simplify.jobs/c/CesiumAstro",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Snackpass",
+    "id": "5a96a832-a1e6-44f0-9c98-ff93659d741f",
+    "title": "Software Engineer \u2013 Intern - Summer",
+    "active": true,
+    "terms": [
+      "Summer 2024"
+    ],
+    "date_updated": 1727882275,
+    "date_posted": 1727882275,
+    "url": "https://job-boards.greenhouse.io/snackpasspt/jobs/5343803004",
+    "locations": [
+      "SF"
+    ],
+    "company_url": "https://simplify.jobs/c/Snackpass",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
