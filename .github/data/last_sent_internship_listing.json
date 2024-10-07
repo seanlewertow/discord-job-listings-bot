@@ -16844,5 +16844,24 @@
     "company_url": "https://simplify.jobs/c/Moderna",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Lumentum",
+    "id": "81c0e5d7-c508-474b-9c1e-0ec21979ed40",
+    "title": "Optical Algorithms & Analytics Engineer \u2013 Co-op",
+    "active": true,
+    "terms": [
+      "Spring 2025"
+    ],
+    "date_updated": 1728329490,
+    "date_posted": 1728329490,
+    "url": "https://lumentum.wd5.myworkdayjobs.com/en-US/LITE/job/Canada---Ottawa-Bill-Leathem/Optical-Algorithms---Analytics-Engineer--Co-op-_2024962",
+    "locations": [
+      "Ottawa, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/0985b121-88fd-4402-aea9-c0c55bfbbc99",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
