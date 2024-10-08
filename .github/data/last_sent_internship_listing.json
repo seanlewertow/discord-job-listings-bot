@@ -17170,5 +17170,26 @@
     "company_url": "https://simplify.jobs/c/MarketAxess",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Rivian",
+    "id": "6ba77184-816b-42a3-8ad1-534053499e03",
+    "title": "UIUC Research Park Intern - Machine Learning",
+    "active": true,
+    "terms": [
+      "Fall 2024",
+      "Spring 2025",
+      "Summer 2025"
+    ],
+    "date_updated": 1728415607,
+    "date_posted": 1728415607,
+    "url": "https://careers.rivian.com/jobs/19516?lang=en-us&icims=1",
+    "locations": [
+      "Urbana, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/Rivian",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
