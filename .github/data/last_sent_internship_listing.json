@@ -17191,5 +17191,72 @@
     "company_url": "https://simplify.jobs/c/Rivian",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Booz Allen",
+    "id": "c4ec108d-b28d-49a6-b2f7-b7dda1483b9a",
+    "title": "University \u2013 Data Scientist Intern",
+    "active": true,
+    "terms": [
+      "Spring 2025",
+      "Summer 2025",
+      "Fall 2025",
+      "Winter 2026",
+      "Spring 2026",
+      "Summer 2026",
+      "Fall 2026"
+    ],
+    "date_updated": 1728416466,
+    "date_posted": 1728416466,
+    "url": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Norfolk-VA/University---Data-Scientist-Intern_R0207595",
+    "locations": [
+      "Norfolk, VA"
+    ],
+    "company_url": "https://simplify.jobs/c/45cb775d-2ca3-49ea-810f-65334ec70079",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "PlayStation Global",
+    "id": "7d0ac1cb-e489-49ff-8832-245970ded4d7",
+    "title": "Data Engineer Intern - Undergraduate",
+    "active": true,
+    "terms": [
+      "Spring 2024",
+      "Summer 2024",
+      "Fall 2024"
+    ],
+    "date_updated": 1728416450,
+    "date_posted": 1728416450,
+    "url": "https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5342904004",
+    "locations": [
+      "LA"
+    ],
+    "company_url": "https://simplify.jobs/c/PlayStation-Global",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "PlayStation Global",
+    "id": "152c9504-a8fa-489b-8474-5882ab014dbd",
+    "title": "Analytics Engineer Intern - Undergraduate",
+    "active": true,
+    "terms": [
+      "Spring 2024",
+      "Summer 2024",
+      "Fall 2024"
+    ],
+    "date_updated": 1728416449,
+    "date_posted": 1728416449,
+    "url": "https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5343091004",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/PlayStation-Global",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
