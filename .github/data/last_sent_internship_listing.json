@@ -17472,5 +17472,102 @@
     "company_url": "https://simplify.jobs/c/Northwestern-Mutual",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Snowflake",
+    "id": "43a231b8-6975-442a-b56e-04187b166ff3",
+    "title": "Software Engineer Intern - AI/ML - Summer 2025",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1728502463,
+    "date_posted": 1728502463,
+    "url": "https://boards.greenhouse.io/embed/job_app?token=7635215002",
+    "locations": [
+      "San Mateo, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Snowflake",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Snowflake",
+    "id": "90762762-b41f-4b5a-aa27-dddf91ef9475",
+    "title": "Software Engineer Intern - AI/ML - Spring 2025",
+    "active": true,
+    "terms": [
+      "Spring 2025"
+    ],
+    "date_updated": 1728502462,
+    "date_posted": 1728502462,
+    "url": "https://boards.greenhouse.io/embed/job_app?token=7635186002",
+    "locations": [
+      "San Mateo, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Snowflake",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Booz Allen",
+    "id": "a7c59d2f-c7ce-4046-82e4-b03ae4659d83",
+    "title": "University \u2013 Systems Engineer Intern",
+    "active": true,
+    "terms": [
+      "Winter 2025",
+      "Spring 2025",
+      "Summer 2025"
+    ],
+    "date_updated": 1728502441,
+    "date_posted": 1728502441,
+    "url": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fayetteville-NC/University--Systems-Engineer-Intern_R0207658",
+    "locations": [
+      "Fayetteville, NC"
+    ],
+    "company_url": "https://simplify.jobs/c/45cb775d-2ca3-49ea-810f-65334ec70079",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Force Factor",
+    "id": "4b16b02f-3e54-4af7-afb1-001ffd362831",
+    "title": "AI Spring Co-Op",
+    "active": true,
+    "terms": [
+      "Spring 2024"
+    ],
+    "date_updated": 1728502346,
+    "date_posted": 1728502346,
+    "url": "https://forcefactor.com/pages/job-openings?gh_jid=5350197004",
+    "locations": [
+      "Boston, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/Force-Factor",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Force Factor",
+    "id": "12a97ad0-ada3-4b08-b286-e0ab0b7e12cc",
+    "title": "Summer 2025 AI Internship",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1728502350,
+    "date_posted": 1728502350,
+    "url": "https://forcefactor.com/pages/job-openings?gh_jid=5350201004",
+    "locations": [
+      "Boston, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/Force-Factor",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
