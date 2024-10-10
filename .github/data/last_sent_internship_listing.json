@@ -17740,5 +17740,24 @@
     "company_url": "https://simplify.jobs/c/acadian-asset-management",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Motorola",
+    "id": "bcc7ec07-1cb5-431d-8a89-c25b4d15ce02",
+    "title": "Software Engineer Summer 2025 Internship - UIUC Research Park",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1728573358,
+    "date_posted": 1728573358,
+    "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Champaign-IL-IL169/Software-Engineer-Summer-2025-Internship--UIUC-Research-Park-_R50649",
+    "locations": [
+      "Urbana, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/MotorolaSolutions",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
