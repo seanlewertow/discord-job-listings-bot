@@ -18164,5 +18164,24 @@
     "company_url": "https://simplify.jobs/c/Leidos",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Allegion",
+    "id": "340d53ce-918e-4f5d-ad69-83ca242c3290",
+    "title": "Summer Intern - Software Engineer",
+    "active": true,
+    "terms": [
+      "Summer 2024"
+    ],
+    "date_updated": 1728675167,
+    "date_posted": 1728675167,
+    "url": "https://allegion.wd5.myworkdayjobs.com/careers/job/Carmel-IN/Summer-Intern---Software-Engineer_JR30611-1",
+    "locations": [
+      "Carmel, IN"
+    ],
+    "company_url": "https://simplify.jobs/c/allegion",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
