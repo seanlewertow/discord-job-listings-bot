@@ -18357,5 +18357,25 @@
     "company_url": "https://simplify.jobs/c/Wing",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Galaxy",
+    "id": "640a1f9f-0e8e-4af1-8afe-18b60e092ada",
+    "title": "2025 Sales and Trading Intern - London",
+    "active": true,
+    "terms": [
+      "Summer 2025",
+      "Fall 2025"
+    ],
+    "date_updated": 1728702496,
+    "date_posted": 1728702496,
+    "url": "https://job-boards.greenhouse.io/galaxydigitalservices/jobs/5353435004",
+    "locations": [
+      "London, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Galaxy",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
