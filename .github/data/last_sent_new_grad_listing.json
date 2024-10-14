@@ -3318,5 +3318,22 @@
     "company_url": "https://simplify.jobs/c/Amazon",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Amazon",
+    "id": "f84a3029-c308-453f-894b-161ea8dc5105",
+    "title": "Software Dev Engineer I - Redshift",
+    "active": true,
+    "date_updated": 1728934645,
+    "date_posted": 1728934645,
+    "url": "https://amazon.jobs/en/jobs/2649147/software-dev-engineer-i-redshift",
+    "locations": [
+      "Toronto, ON, Canada",
+      "Vancouver, BC, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Amazon",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
