@@ -18862,5 +18862,24 @@
     "company_url": "https://simplify.jobs/c/Live-Ramp",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Skydio",
+    "id": "bef8710c-fd94-4b9a-89ef-0b42463081c1",
+    "title": "Software Engineer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1729020095,
+    "date_posted": 1729020095,
+    "url": "https://www.skydio.com/jobs/6220519003?gh_jid=6220519003",
+    "locations": [
+      "San Mateo, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Skydio",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
