@@ -18772,5 +18772,56 @@
     "company_url": "https://simplify.jobs/c/9b240811-be36-4b51-8f40-6973a27e1f62",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "date_updated": 1728965691,
+    "url": "https://jobs.thecignagroup.com/us/en/summer-internship-program",
+    "company_name": "Cigna",
+    "title": "Software Engineering Internship",
+    "locations": [
+      "Philadelphia, PA",
+      "Bloomfield, CT",
+      "St. Louis, MO",
+      "Denver, CO l Morris Plains, NJ l Nashville/Franklin, TN",
+      "Austin, TX",
+      "Bloomington, MN"
+    ],
+    "terms": [
+      "Summer 2025"
+    ],
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "source": "maxgoldberg25",
+    "id": "8f4741b5-eca8-4bf5-b83d-20fd6319e9f1",
+    "date_posted": 1728965691,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1728966276,
+    "url": "https://jobs.thecignagroup.com/us/en/job/24012109/Technology-Development-Program-TECDP-Summer-Internship%E2%80%AF2025",
+    "company_name": "Cigna",
+    "title": "Technology Development Program (TECDP) Summer Internship\u202f2025",
+    "locations": [
+      "St. Louis, MO",
+      "Austin, TX",
+      "Bloomfield, CT",
+      "Bloomington, MN",
+      "Denver, CO",
+      "Morris Plains, NJ",
+      "Philadelphia, PA",
+      "Nashville, TN",
+      "Franklin, TN"
+    ],
+    "terms": [
+      "Summer 2025"
+    ],
+    "sponsorship": "Does Not Offer Sponsorship",
+    "active": true,
+    "source": "GaryZhous",
+    "id": "78af1ee5-712e-43ee-97a7-ad559fdae329",
+    "date_posted": 1728966276,
+    "company_url": "",
+    "is_visible": true
   }
 ]
