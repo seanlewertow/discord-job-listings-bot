@@ -19072,5 +19072,122 @@
     "date_posted": 1729051422,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Adobe",
+    "id": "947d3319-8468-4372-abe1-3fc9b25f031d",
+    "title": "2025 Intern - Software Engineer",
+    "active": true,
+    "terms": [
+      "Spring 2024",
+      "Summer 2024",
+      "Fall 2024"
+    ],
+    "date_updated": 1729062860,
+    "date_posted": 1729062860,
+    "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Seattle/XMLNAME-2025-Intern---Software-Engineer_R149380",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "company_url": "https://simplify.jobs/c/Adobe",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Adobe",
+    "id": "c9434b4a-02ad-45ed-8b26-88bfd738a582",
+    "title": "2025 Intern - Software Engineer",
+    "active": true,
+    "terms": [
+      "Spring 2024",
+      "Summer 2024",
+      "Fall 2024"
+    ],
+    "date_updated": 1729048538,
+    "date_posted": 1729048538,
+    "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2025-Intern---Software-Engineer_R147746",
+    "locations": [
+      "Seattle, WA",
+      "SF",
+      "Austin, TX",
+      "San Jose, CA",
+      "NYC",
+      "Lehi, UT"
+    ],
+    "company_url": "https://simplify.jobs/c/Adobe",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Adobe",
+    "id": "0c89ea08-9316-4fa4-a15c-ff3e1cf8a98e",
+    "title": "2025 Intern - Research Scientist/Engineer",
+    "active": true,
+    "terms": [
+      "Spring 2025",
+      "Summer 2025",
+      "Fall 2025"
+    ],
+    "date_updated": 1729048475,
+    "date_posted": 1729048475,
+    "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2025-Intern---Research-Scientist-Engineer_R150692",
+    "locations": [
+      "Cambridge, MA",
+      "Seattle, WA",
+      "Toronto, ON, Canada",
+      "SF",
+      "San Jose, CA",
+      "Hyattsville, MD",
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Adobe",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Adobe",
+    "id": "bef37a50-3687-45fc-8b37-b09185ae4828",
+    "title": "2025 Intern - Associate Technical Account Manager",
+    "active": true,
+    "terms": [
+      "Spring 2024",
+      "Summer 2024",
+      "Fall 2024"
+    ],
+    "date_updated": 1729048524,
+    "date_posted": 1729048524,
+    "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2025-Intern---Associate-Technical-Account-Manager_R149277",
+    "locations": [
+      "Austin, TX",
+      "San Jose, CA",
+      "NYC",
+      "Lehi, UT"
+    ],
+    "company_url": "https://simplify.jobs/c/Adobe",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Two Six Technologies",
+    "id": "6b01de32-7a11-4683-b141-66f2716f7e31",
+    "title": "AI/ML Research Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1729034272,
+    "date_posted": 1729034272,
+    "url": "https://job-boards.greenhouse.io/twosixtechnologies/jobs/5345464004",
+    "locations": [
+      "Arlington, VA"
+    ],
+    "company_url": "https://simplify.jobs/c/Two-Six-Technologies",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
