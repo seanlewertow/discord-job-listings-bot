@@ -20489,5 +20489,88 @@
     "company_url": "https://simplify.jobs/c/Eulerity",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Mercury",
+    "id": "fcc4d867-1b38-4c12-8319-57c827003343",
+    "title": "Software Engineering Intern - Spring 2025",
+    "active": true,
+    "terms": [
+      "Spring 2025"
+    ],
+    "date_updated": 1729539368,
+    "date_posted": 1729539368,
+    "url": "https://job-boards.greenhouse.io/mercury/jobs/5357300004",
+    "locations": [
+      "SF",
+      "NYC",
+      "Portland, OR"
+    ],
+    "company_url": "https://simplify.jobs/c/Mercury",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Motorola",
+    "id": "9457ca83-705a-496c-8ca5-e91c93bf15c9",
+    "title": "CPE SW E2E Triage Intern - Summer 2025",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1729539461,
+    "date_posted": 1729539461,
+    "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Plantation-FL/CPE-SW-E2E-Triage-Intern---Summer-2025_R49202",
+    "locations": [
+      "Plantation, FL"
+    ],
+    "company_url": "https://simplify.jobs/c/MotorolaSolutions",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Samsara",
+    "id": "10f7a111-7a88-4ee3-be33-5b4a135d0b6a",
+    "title": "Software Engineering Intern - US",
+    "active": true,
+    "terms": [
+      "Winter 2025",
+      "Summer 2025",
+      "Fall 2025"
+    ],
+    "date_updated": 1729539578,
+    "date_posted": 1729539578,
+    "url": "https://www.samsara.com/company/careers/roles/6295077?gh_jid=6295077",
+    "locations": [
+      "SF"
+    ],
+    "company_url": "https://simplify.jobs/c/Samsara",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Axon",
+    "id": "1484e885-992e-46d8-bb49-67855fc07607",
+    "title": "Software Engineering Internship - Afrotech Candidates Only",
+    "active": true,
+    "terms": [
+      "Summer 2024"
+    ],
+    "date_updated": 1729538597,
+    "date_posted": 1729538597,
+    "url": "https://boards.greenhouse.io/axon/jobs/6245041003",
+    "locations": [
+      "Boston, MA",
+      "Seattle, WA",
+      "Phoenix, AZ",
+      "Atlanta, GA"
+    ],
+    "company_url": "https://simplify.jobs/c/Axon",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
