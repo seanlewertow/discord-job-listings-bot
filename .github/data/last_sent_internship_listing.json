@@ -20709,5 +20709,44 @@
     "company_url": "https://simplify.jobs/c/Optiver",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Autodesk",
+    "id": "f728d564-601a-49ca-a1b6-a1f33dc48d25",
+    "title": "Intern \u2013 Software Developer /Stagiaire - D\u00e9veloppeur.D\u00e9veloppeuse logiciels",
+    "active": true,
+    "terms": [
+      "Winter 2026",
+      "Spring 2026"
+    ],
+    "date_updated": 1729610397,
+    "date_posted": 1729610397,
+    "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Montreal-QC-CAN/Intern--Software-Developer_24WD82069",
+    "locations": [
+      "Montreal, QC, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Autodesk",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Amazon",
+    "id": "6115baff-e2c4-454b-8106-fd5f11f03242",
+    "title": "2025 Business Intelligence Engineer Internship",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1729610165,
+    "date_posted": 1729610165,
+    "url": "https://amazon.jobs/en/jobs/2790327/2025-business-intelligence-engineer-internship",
+    "locations": [
+      "London, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Amazon",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
