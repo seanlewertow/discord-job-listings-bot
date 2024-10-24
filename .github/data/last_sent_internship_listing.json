@@ -20925,5 +20925,104 @@
     "date_posted": 1729749125,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "source": "Simplify",
+    "company_name": "HCSC",
+    "id": "5bbc8408-c660-4b93-b11f-24ed86300684",
+    "title": "University Relations \u2013 Chicago Assistant Analytics Consultant Associate Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1729714447,
+    "date_posted": 1729714447,
+    "url": "https://hcsc.wd1.myworkdayjobs.com/en-US/HCSC_External/job/IL---Chicago/University-Relations---Chicago-Assistant-Analytics-Consultant-Associate-Intern_R0037201",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/de9db5fc-93ac-4e2a-873c-61d8a830873c",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Zoox",
+    "id": "4e971676-1bee-4dfa-be4d-38093e6c003c",
+    "title": "Agent Behavior Software Engineer Internship/Co-op",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1729034319,
+    "date_posted": 1729034319,
+    "url": "https://jobs.lever.co/zoox/c12f9228-19c4-4aad-8315-737ebf54e967/apply",
+    "locations": [
+      "San Mateo, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Zoox",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Plexus",
+    "id": "5f885a05-5b8b-4380-954a-e06a6e52830f",
+    "title": "Intern \u2013 Software Engineer - Fall 2025",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1729638850,
+    "date_posted": 1729638850,
+    "url": "https://plexus.wd5.myworkdayjobs.com/en-US/Plexus_Careers/job/Raleigh-NC/Intern---Software-Engineer---Fall-2025_R030243",
+    "locations": [
+      "Raleigh, NC"
+    ],
+    "company_url": "https://simplify.jobs/c/Plexus",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Marvell",
+    "id": "c8d08ea7-f2a4-4026-b631-04a16da122fd",
+    "title": "Application Engineering Intern - Masters",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1729739572,
+    "date_posted": 1729739572,
+    "url": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers2/job/Santa-Clara-CA/Application-Engineering-Intern---Masters_2401785",
+    "locations": [
+      "Santa Clara, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/80961b05-9ed3-462d-aef9-4b418c7fb796",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "PlayStation Global",
+    "id": "db012a80-43cd-43ef-bc4d-73ff36ddc2e8",
+    "title": "Dev Tools Engineer Intern - Undergraduate",
+    "active": true,
+    "terms": [
+      "Spring 2024",
+      "Summer 2024",
+      "Fall 2024"
+    ],
+    "date_updated": 1729714060,
+    "date_posted": 1729714060,
+    "url": "https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5355815004",
+    "locations": [
+      "California",
+      "San Diego, CA",
+      "United States"
+    ],
+    "company_url": "https://simplify.jobs/c/PlayStation-Global",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
