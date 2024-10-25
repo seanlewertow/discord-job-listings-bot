@@ -21373,5 +21373,24 @@
     "company_url": "https://simplify.jobs/c/Apptronik",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Splunk",
+    "id": "77a43eb4-6023-40e8-b6e5-40a3a8729f7f",
+    "title": "Applied Scientist Intern - Boulder - CO - Summer 2025",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1729886451,
+    "date_posted": 1729886451,
+    "url": "https://jobs.jobvite.com/splunk-careers/job/oHKJufwo?nl=1&nl=1&fr=false",
+    "locations": [
+      "Boulder, CO"
+    ],
+    "company_url": "https://simplify.jobs/c/Splunk",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
