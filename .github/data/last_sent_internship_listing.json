@@ -21294,5 +21294,45 @@
     "company_url": "https://simplify.jobs/c/MarketAxess",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Leidos",
+    "id": "756edce3-257c-41df-8cfd-80990534b7e5",
+    "title": "Associate Software Engineer Intern - Spring Semester - November - May",
+    "active": true,
+    "terms": [
+      "Fall 2024",
+      "Winter 2025",
+      "Spring 2025"
+    ],
+    "date_updated": 1729868852,
+    "date_posted": 1729868852,
+    "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Peachtree-Corners-GA/Associate-Software-Engineer-Intern---Spring-Semester--November---May-_R-00146958",
+    "locations": [
+      "Norcross, GA"
+    ],
+    "company_url": "https://simplify.jobs/c/Leidos",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Cerence",
+    "id": "917869fc-4e79-4a63-b4aa-965000c3662c",
+    "title": "Janvier 2025/January 2025 \u2013 / Software Developer Intern - D\u00e9veloppeur logiciel - Stagiaire",
+    "active": true,
+    "terms": [
+      "Winter 2025"
+    ],
+    "date_updated": 1729868824,
+    "date_posted": 1729868824,
+    "url": "https://cerence.wd5.myworkdayjobs.com/Cerence/job/Montreal/XMLNAME--JANVIER-2025-JANUARY-2025--Dveloppeur-logiciel--Stagiaire----Software-Developer-Intern_R0005459",
+    "locations": [
+      "Montreal, QC, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Cerence",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
