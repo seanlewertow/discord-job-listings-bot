@@ -21142,5 +21142,62 @@
     "company_url": "https://simplify.jobs/c/Uber",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Western Digital",
+    "id": "837b2871-04ed-4ff8-9c11-50a66e3de37d",
+    "title": "Summer 2025 \u2013 Software Engineer Intern - System Test",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1729800418,
+    "date_posted": 1729800418,
+    "url": "https://jobs.smartrecruiters.com/WesternDigital/744000022565418",
+    "locations": [
+      "Rochester, MN"
+    ],
+    "company_url": "https://simplify.jobs/c/Western-Digital",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Matroid",
+    "id": "e789569c-40ec-44a5-b961-017c0fd5ee4c",
+    "title": "Computer Vision Intern - Summer 2025",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1729811854,
+    "date_posted": 1729811854,
+    "url": "https://matroid.breezy.hr/p/22b948693d3f/apply",
+    "locations": [
+      "Palo Alto, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Matroid",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Corelogic",
+    "id": "68a3c799-9514-4380-a202-46fa2a6129d1",
+    "title": "Intern \u2013 Data Analytics",
+    "active": true,
+    "terms": [
+      "Spring 2024"
+    ],
+    "date_updated": 1729811361,
+    "date_posted": 1729811361,
+    "url": "https://corelogic.wd5.myworkdayjobs.com/en-US/Global/job/United-States/Intern---Data-Analytics_REQ15704",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/84f3bc2b-33c1-4bb0-af43-21bb8d59d639",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
