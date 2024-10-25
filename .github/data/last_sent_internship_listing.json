@@ -21199,5 +21199,43 @@
     "company_url": "https://simplify.jobs/c/84f3bc2b-33c1-4bb0-af43-21bb8d59d639",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "date_updated": 1729830202,
+    "url": "https://careers.t-mobile.com/summer-2025-business-analyst-full-stack-developer-internship/job/1509A100D2F95A86B30A118915994995",
+    "company_name": "T-Mobile",
+    "title": "Summer 2025 Business Analyst, Full Stack Developer Internship",
+    "locations": [
+      "Bellevue, WA"
+    ],
+    "terms": [
+      "Summer 2025"
+    ],
+    "sponsorship": "Does Not Offer Sponsorship",
+    "active": true,
+    "source": "GaryZhous",
+    "id": "522a0fd7-4353-4b1b-8ff1-80ba7ec65e34",
+    "date_posted": 1729830202,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1729830307,
+    "url": "https://www.pega.com/about/careers/21105/software-engineer-summer-intern-orion",
+    "company_name": "Pegasystems",
+    "title": "Software Engineer Summer Intern, Orion",
+    "locations": [
+      "Waltham, MA"
+    ],
+    "terms": [
+      "Summer 2025"
+    ],
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "source": "GaryZhous",
+    "id": "a5176dd9-033b-4db4-8aa5-89b37a8f7f5e",
+    "date_posted": 1729830307,
+    "company_url": "",
+    "is_visible": true
   }
 ]
