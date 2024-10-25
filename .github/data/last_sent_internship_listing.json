@@ -21334,5 +21334,24 @@
     "company_url": "https://simplify.jobs/c/Cerence",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Cloudflare",
+    "id": "617042dd-bec0-4337-8a68-ef785ecd0259",
+    "title": "Software Engineer Intern - Summer 2025",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1729868842,
+    "date_posted": 1729868842,
+    "url": "https://boards.greenhouse.io/cloudflare/jobs/6342326",
+    "locations": [
+      "London, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Cloudflare",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
