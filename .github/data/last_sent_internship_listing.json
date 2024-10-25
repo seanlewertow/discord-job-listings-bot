@@ -21353,5 +21353,25 @@
     "company_url": "https://simplify.jobs/c/Cloudflare",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Apptronik",
+    "id": "eeb96cbd-dabb-4bd1-9840-de7b3f8f915a",
+    "title": "Software Engineer Test Ops \u2013 Intern 2025",
+    "active": true,
+    "terms": [
+      "Spring 2025",
+      "Summer 2025"
+    ],
+    "date_updated": 1729884465,
+    "date_posted": 1729884465,
+    "url": "https://boards.greenhouse.io/apptronik/jobs/5362238004",
+    "locations": [
+      "Austin, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Apptronik",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
