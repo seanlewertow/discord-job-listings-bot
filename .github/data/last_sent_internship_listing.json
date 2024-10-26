@@ -21622,5 +21622,24 @@
     "company_url": "https://simplify.jobs/c/717694f5-7321-4c6f-91a5-5a46b250f459",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Allegion",
+    "id": "b94b84e5-ee02-4273-9c65-8b78a9648aa7",
+    "title": "Systems Engineer Summer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2024"
+    ],
+    "date_updated": 1725996735,
+    "date_posted": 1725996735,
+    "url": "https://allegion.wd5.myworkdayjobs.com/careers/job/Indianapolis-IN---Hague-Rd/Systems-Engineer-Summer-Intern_JR30395-1",
+    "locations": [
+      "Indianapolis, IN"
+    ],
+    "company_url": "https://simplify.jobs/c/allegion",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
