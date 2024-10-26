@@ -21527,5 +21527,100 @@
     "company_url": "https://simplify.jobs/c/ae32298c-f0ee-4a98-bab4-78caaecde84d",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Snowflake",
+    "id": "4782f900-0029-49e5-87be-3dfa74b4b2ee",
+    "title": "Software Engineer Intern - Core Engineering - Spring 2025",
+    "active": true,
+    "terms": [
+      "Spring 2025"
+    ],
+    "date_updated": 1729912667,
+    "date_posted": 1729912667,
+    "url": "https://jobs.ashbyhq.com/snowflake/b4a1c5f2-2050-48b0-9359-b0817d15973d/application",
+    "locations": [
+      "Bellevue, WA"
+    ],
+    "company_url": "https://simplify.jobs/c/Snowflake",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Snowflake",
+    "id": "46fb8f5e-4402-4ccf-a76e-c349faa43ca9",
+    "title": "Software Engineer Intern - Database Engineering - Summer 2025",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1729912668,
+    "date_posted": 1729912668,
+    "url": "https://jobs.ashbyhq.com/snowflake/3377623a-ef97-4eaf-abf5-c29180040540/application",
+    "locations": [
+      "Bellevue, WA"
+    ],
+    "company_url": "https://simplify.jobs/c/Snowflake",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Snowflake",
+    "id": "1851ddf9-a6b2-47f5-9a72-87b628afc7fc",
+    "title": "Software Engineer Intern - Core Engineering - Summer 2025",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1729912668,
+    "date_posted": 1729912668,
+    "url": "https://jobs.ashbyhq.com/snowflake/6b9eadd4-d00a-46ab-812f-a9dfce661fed/application",
+    "locations": [
+      "San Mateo, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Snowflake",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Sony Pictures Entertainment",
+    "id": "517772c6-92a3-4355-aa49-6084226aa71d",
+    "title": "Systems & Data Analytics Intern - US TV Production - Spring 2025",
+    "active": true,
+    "terms": [
+      "Spring 2025"
+    ],
+    "date_updated": 1729912617,
+    "date_posted": 1729912617,
+    "url": "https://spe.wd1.myworkdayjobs.com/en-US/SonyPicturesEntertainment/job/Culver-City-California/Systems---Data-Analytics-Intern--US-TV-Production---Spring-2025_JR104689",
+    "locations": [
+      "Culver City, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/cba19b9c-c87b-4670-905f-598655ed2801",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Coinbase",
+    "id": "eac6b5a2-71cc-4b3b-9512-f4c6cc60bd24",
+    "title": "Software Engineer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1729912367,
+    "date_posted": 1729912367,
+    "url": "https://www.coinbase.com/careers/positions/6266440?gh_jid=6266440",
+    "locations": [
+      "SF"
+    ],
+    "company_url": "https://simplify.jobs/c/717694f5-7321-4c6f-91a5-5a46b250f459",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
