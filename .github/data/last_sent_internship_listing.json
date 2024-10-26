@@ -21392,5 +21392,101 @@
     "company_url": "https://simplify.jobs/c/Splunk",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Northrop Grumman",
+    "id": "9971b235-383a-4200-85bd-094808e44ee6",
+    "title": "2025 Systems/Software Intern-Huntsville AL",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1729900301,
+    "date_posted": 1729900301,
+    "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/XMLNAME-2025-Systems-Software-Intern--Huntsville-AL_R10173232-1",
+    "locations": [
+      "Huntsville, AL"
+    ],
+    "company_url": "https://simplify.jobs/c/238c95d8-0d6e-4717-b28c-078b16d675d7",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Northrop Grumman",
+    "id": "1790c9a1-7fc1-4a1e-a9bf-9ed1a38b3ddf",
+    "title": "2025 Systems Engineer Intern - Mclean VA",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1729899682,
+    "date_posted": 1729899682,
+    "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Virginia-McLean/XMLNAME-2025-Systems-Engineer-Intern---McLean-VA_R10173681",
+    "locations": [
+      "McLean, VA",
+      "Elkton, MD"
+    ],
+    "company_url": "https://simplify.jobs/c/238c95d8-0d6e-4717-b28c-078b16d675d7",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Oshkosh",
+    "id": "97cd097d-c564-4df5-9566-8a8f051b95bd",
+    "title": "Systems Engineer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1727792544,
+    "date_posted": 1726096545,
+    "url": "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Greencastle-Pennsylvania-United-States/Systems-Engineer-Intern_R30896",
+    "locations": [
+      "Waynesboro, PA"
+    ],
+    "company_url": "https://simplify.jobs/c/Oshkosh",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Salesforce",
+    "id": "cd269514-1b25-4f3f-9c37-e4db8df4033a",
+    "title": "Summer 2025 \u2013 AI Software Engineer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1729906245,
+    "date_posted": 1728515207,
+    "url": "https://salesforce.wd12.myworkdayjobs.com/en-us/External_Career_Site/job/California---Palo-Alto/Summer-2025---AI-Software-Engineer-Intern_JR267142-2",
+    "locations": [
+      "Palo Alto, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Salesforce",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Motorola",
+    "id": "55f9417b-07f0-49a1-b1a5-4ea25b151e2e",
+    "title": "Sales Systems Engineer Summer 2025 Internship Program",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1729192278,
+    "date_posted": 1724975018,
+    "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Linthicum-MD/Sales-Systems-Engineer-Summer-2025-Internship-Program_R49569",
+    "locations": [
+      "Halethorpe, MD"
+    ],
+    "company_url": "https://simplify.jobs/c/MotorolaSolutions",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
