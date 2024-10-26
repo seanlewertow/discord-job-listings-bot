@@ -21488,5 +21488,44 @@
     "company_url": "https://simplify.jobs/c/MotorolaSolutions",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Motorola",
+    "id": "ba67fc4e-e1ee-4a22-9a9b-32e8c3efea68",
+    "title": "Presales Systems Engineer \u2013 2025 Internship",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1728502485,
+    "date_posted": 1728502485,
+    "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/San-Diego-CA/Presales-Systems-Engineer--2025-Internship-_R50249",
+    "locations": [
+      "Allen, TX",
+      "San Diego, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/MotorolaSolutions",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Analog Devices",
+    "id": "c6e6c9dd-2422-433d-b715-2a612b8aeeb1",
+    "title": "FY25 Systems Engineer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1729898946,
+    "date_posted": 1729898946,
+    "url": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/United-Kingdom-Edinburgh-SC-Freer/FY25-Systems-Engineer-Intern_R244119",
+    "locations": [
+      "Edinburgh, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/ae32298c-f0ee-4a98-bab4-78caaecde84d",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
