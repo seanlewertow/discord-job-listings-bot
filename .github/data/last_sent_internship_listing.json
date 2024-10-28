@@ -21679,5 +21679,24 @@
     "date_posted": 1730004040,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "date_updated": 1730080785,
+    "url": "https://jobs.thermofisher.com/global/en/job/R-01268670/Software-Engineering-Co-op",
+    "company_name": "Thermo Fisher Scientific",
+    "title": "Software Engineering Co-op",
+    "locations": [
+      "Hillsboro, OR"
+    ],
+    "terms": [
+      "Summer 2025"
+    ],
+    "sponsorship": "Does Not Offer Sponsorship",
+    "active": true,
+    "source": "GaryZhous",
+    "id": "ae32f343-2ce6-44bb-83ef-6b10ed64a26a",
+    "date_posted": 1730080785,
+    "company_url": "",
+    "is_visible": true
   }
 ]
