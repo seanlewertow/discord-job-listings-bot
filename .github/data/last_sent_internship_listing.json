@@ -21949,5 +21949,45 @@
     "company_url": "https://simplify.jobs/c/Intradiem",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "ICF",
+    "id": "5bb2b507-d69b-44b0-9432-ff8bb6367c8d",
+    "title": "2025 Summer Intern - Developer - Bachelor's; Remote or Reston - VA",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1730157839,
+    "date_posted": 1730157839,
+    "url": "https://icf.wd5.myworkdayjobs.com/en-US/ICFExternal_Career_Site/job/Reston-VA/XMLNAME-2025-Summer-Intern--Developer--Bachelor-s--Remote-or-Reston--VA-_R2404211",
+    "locations": [
+      "Reston, VA"
+    ],
+    "company_url": "https://simplify.jobs/c/750f50d0-c3f8-4334-822f-fb70fa81b529",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Booz Allen",
+    "id": "767c7bf5-0d8d-4089-9029-f401a63e89c7",
+    "title": "University \u2013 Systems Engineer Intern",
+    "active": true,
+    "terms": [
+      "Winter 2024",
+      "Spring 2024",
+      "Summer 2024"
+    ],
+    "date_updated": 1730157562,
+    "date_posted": 1730157562,
+    "url": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Houston-TX/University--Systems-Engineer-Intern_R0208820",
+    "locations": [
+      "Houston, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/45cb775d-2ca3-49ea-810f-65334ec70079",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
