@@ -21816,5 +21816,24 @@
     "company_url": "https://simplify.jobs/c/21dffcc2-c17a-4628-b26d-c6e0b368edc2",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Cadence Design Systems",
+    "id": "64b6c1dc-24d2-4c0b-bb8d-69c4f9dbfd5b",
+    "title": "Software Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1730146027,
+    "date_posted": 1730146027,
+    "url": "https://cadence.wd1.myworkdayjobs.com/en-US/External_Careers/job/SAN-JOSE/Software-Intern_R47859-1",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Cadence-Design-Systems",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
