@@ -21698,5 +21698,46 @@
     "date_posted": 1730080785,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "date_updated": 1730090436,
+    "url": "https://careers.gene.com/us/en/job/GENEUS202410126855EXTERNALENUS/2025-Summer-Intern-Product-Development-Data-Sciences",
+    "company_name": "Genentech",
+    "title": "2025 Summer Intern - Product Development Data Sciences",
+    "locations": [
+      "South San Francisco, CA"
+    ],
+    "terms": [
+      "Summer 2025"
+    ],
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "source": "GaryZhous",
+    "id": "d4505f8e-8f7e-4e58-929a-e9188298916c",
+    "date_posted": 1730090436,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1730090593,
+    "url": "https://careers.honeywell.com/us/en/job/HONEUSREQ460193EXTERNALENUS/Future-IT-Leaders-Summer-2025-Intern",
+    "company_name": "Honeywell",
+    "title": "Future IT Leaders - Summer 2025 Intern",
+    "locations": [
+      "Charlotte, NC",
+      "Atlanta, GA",
+      "Phoenix, AZ",
+      "Houston, TX"
+    ],
+    "terms": [
+      "Summer 2025"
+    ],
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "source": "GaryZhous",
+    "id": "d0ecad09-21c5-41fb-96a9-3b1c640cd3ff",
+    "date_posted": 1730090593,
+    "company_url": "",
+    "is_visible": true
   }
 ]
