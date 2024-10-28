@@ -21892,5 +21892,62 @@
     "company_url": "https://simplify.jobs/c/bose",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Corelogic",
+    "id": "4d409e7a-9744-4d5f-8def-4cfe533ae756",
+    "title": "Intern \u2013 Software Engineer",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1730156971,
+    "date_posted": 1730156971,
+    "url": "https://corelogic.wd5.myworkdayjobs.com/en-US/Global/job/United-States/Intern--Software-Engineer_REQ15741",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/84f3bc2b-33c1-4bb0-af43-21bb8d59d639",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Corelogic",
+    "id": "374a2c4a-0133-47c2-af6a-223b1e536ef5",
+    "title": "Intern \u2013 Database Administration",
+    "active": true,
+    "terms": [
+      "Spring 2024"
+    ],
+    "date_updated": 1730156971,
+    "date_posted": 1730156971,
+    "url": "https://corelogic.wd5.myworkdayjobs.com/en-US/Global/job/Oxford-MS/Intern--Database-Administration_REQ15787",
+    "locations": [
+      "Batesville, MS"
+    ],
+    "company_url": "https://simplify.jobs/c/84f3bc2b-33c1-4bb0-af43-21bb8d59d639",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Intradiem",
+    "id": "7be2ab90-74ed-4ec9-97e3-dd8287793e0e",
+    "title": "Summer 2025 UI Software Engineering Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1730144496,
+    "date_posted": 1730144496,
+    "url": "https://job-boards.greenhouse.io/intradiem/jobs/4409423006",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/Intradiem",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
