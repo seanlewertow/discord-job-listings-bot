@@ -21835,5 +21835,62 @@
     "company_url": "https://simplify.jobs/c/Cadence-Design-Systems",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Merlin Labs",
+    "id": "a22247e9-e47a-4dd5-ab9e-301c9f56f7f3",
+    "title": "Software Engineer Internship - Summer 2025",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1730147638,
+    "date_posted": 1730147638,
+    "url": "https://jobs.lever.co/merlinlabs/bd6f2137-64b5-4d5c-9f64-02d1a1407cf7/apply",
+    "locations": [
+      "Boston, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/MerlinLabs",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Ares Management",
+    "id": "91a17ddd-1356-4317-8825-61060753ef4a",
+    "title": "Intern \u2013 Application Development",
+    "active": true,
+    "terms": [
+      "Summer 2024"
+    ],
+    "date_updated": 1730147589,
+    "date_posted": 1730147589,
+    "url": "https://aresmgmt.wd1.myworkdayjobs.com/en-US/External/job/Culver-City-CA/Intern--Application-Development_R1202-1",
+    "locations": [
+      "Culver City, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/ea25dd6c-f530-49ce-b6aa-60a42ba77d95",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Bose",
+    "id": "c020fbee-97f3-4d46-b4d8-9cb19f78cc84",
+    "title": "Embedded Software Engineer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1730146986,
+    "date_posted": 1730146986,
+    "url": "https://boseallaboutme.wd1.myworkdayjobs.com/en-US/Bose_Careers/job/US-MA---Framingham/Embedded-Software-Engineer-Intern_R27660",
+    "locations": [
+      "Framingham, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/bose",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
