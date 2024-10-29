@@ -22283,5 +22283,24 @@
     "company_url": "https://simplify.jobs/c/a93a0fb2-e10a-434c-a88c-a639748677a4",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Hewlett Packard (HP)",
+    "id": "0fe7a36e-7a2f-445b-be7b-e5a0d709ad54",
+    "title": "Apprentice - Software Applications Development",
+    "active": true,
+    "terms": [
+      "Spring 2025"
+    ],
+    "date_updated": 1730233950,
+    "date_posted": 1730233950,
+    "url": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Spring-Texas-United-States-of-America/Apprentice---Software-Applications-Development_3142013-1",
+    "locations": [
+      "Spring, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Hewlett-Packard",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
