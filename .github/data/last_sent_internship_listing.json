@@ -22163,5 +22163,106 @@
     "company_url": "https://simplify.jobs/c/Altera",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Sony Interactive Entertainment",
+    "id": "cfdbd924-9167-4ef8-8cb6-174a36181308",
+    "title": "Spatial Computer Vision Engineer Intern - Undergraduate",
+    "active": true,
+    "terms": [
+      "Spring 2024",
+      "Summer 2024",
+      "Fall 2024"
+    ],
+    "date_updated": 1730231829,
+    "date_posted": 1730231829,
+    "url": "https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5340510004",
+    "locations": [
+      "San Mateo, CA",
+      "United States"
+    ],
+    "company_url": "https://simplify.jobs/c/Sony-Interactive-Entertainment",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Sony Interactive Entertainment",
+    "id": "0ee99490-91f7-470b-acd2-3f6d12d087e0",
+    "title": "Software Engineering Intern - Undergraduate",
+    "active": true,
+    "terms": [
+      "Spring 2024",
+      "Summer 2024",
+      "Fall 2024"
+    ],
+    "date_updated": 1730231813,
+    "date_posted": 1730231813,
+    "url": "https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5340499004",
+    "locations": [
+      "California",
+      "San Diego, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Sony-Interactive-Entertainment",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Sunwater Capital",
+    "id": "4ba8a9d8-e274-4325-9d0e-c021733f1f08",
+    "title": "Intern-Data Science Spring 2025",
+    "active": true,
+    "terms": [
+      "Spring 2025"
+    ],
+    "date_updated": 1730231169,
+    "date_posted": 1730231169,
+    "url": "https://jobs.lever.co/sunwatercapital/6df3eca4-d23c-4c80-96b3-d0babb39fe31/apply",
+    "locations": [
+      "North Bethesda, MD"
+    ],
+    "company_url": "https://simplify.jobs/c/SunwaterCapital",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Amazon",
+    "id": "c89d767c-de54-4af4-a739-3ea00bd33d57",
+    "title": "Business Intelligence Engineer Summer Internship - 2025 - US",
+    "active": true,
+    "terms": [
+      "Summer 2024"
+    ],
+    "date_updated": 1730232468,
+    "date_posted": 1730232468,
+    "url": "https://amazon.jobs/en/jobs/2740337/business-intelligence-engineer-summer-internship-2025-us",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "company_url": "https://simplify.jobs/c/Amazon",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "TIH",
+    "id": "0a64d3db-2ded-43e1-859b-e7e7017d01fe",
+    "title": "Intern \u2013 Salesforce Developer",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1730232169,
+    "date_posted": 1730232169,
+    "url": "https://tihinsurance.wd1.myworkdayjobs.com/en-US/TIH_Careers/job/Dallas-TX/Intern---Salesforce-Developer_R0000000384",
+    "locations": [
+      "Dallas, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/2f524a20-88a9-4307-b97b-e39799afb4c7",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
