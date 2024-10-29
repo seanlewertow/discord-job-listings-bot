@@ -22028,5 +22028,24 @@
     "company_url": "https://simplify.jobs/c/Astranis",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "date_updated": 1730174927,
+    "url": "https://careers.vizientinc.com/careers/job/446702440552",
+    "company_name": "Vizient, Inc",
+    "title": "Summer Intern - Software Engineering",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "terms": [
+      "Summer 2025"
+    ],
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "source": "GaryZhous",
+    "id": "63ef9157-c831-4e86-8803-00dcadea5cbe",
+    "date_posted": 1730174927,
+    "company_url": "",
+    "is_visible": true
   }
 ]
