@@ -22345,5 +22345,26 @@
     "company_url": "https://simplify.jobs/c/Sony-Interactive-Entertainment",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Leidos",
+    "id": "5f9d5402-9664-4f03-8fba-e8ce451adb0f",
+    "title": "Associate Software Engineer Intern - Spring Semester - November - May",
+    "active": true,
+    "terms": [
+      "Fall 2024",
+      "Winter 2025",
+      "Spring 2025"
+    ],
+    "date_updated": 1730244137,
+    "date_posted": 1730244137,
+    "url": "https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Associate-Software-Engineer-Intern---Spring-Semester--November---May-_R-00147198",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/Leidos",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
