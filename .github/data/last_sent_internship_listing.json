@@ -22068,5 +22068,81 @@
     "company_url": "https://simplify.jobs/c/MotorolaSolutions",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Hypertherm Associates",
+    "id": "a84e65b3-d832-4ff0-b8ec-93ec18a410e2",
+    "title": "Intern \u2013 Software",
+    "active": true,
+    "terms": [
+      "Summer 2024"
+    ],
+    "date_updated": 1730215569,
+    "date_posted": 1730215569,
+    "url": "https://hypertherm.wd5.myworkdayjobs.com/en-US/hypertherm-careers/job/West-Lebanon-NH/Intern---Software_R3222-1",
+    "locations": [
+      "Hanover, NH"
+    ],
+    "company_url": "https://simplify.jobs/c/62655121-4cb3-4dab-81d2-4abcad089fc6",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Rockwell Automation",
+    "id": "7d9ef1b8-bf23-41da-8690-ded76cbcdc35",
+    "title": "Intern \u2013 Innovation Platform Software Engineer",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1730215460,
+    "date_posted": 1730215460,
+    "url": "https://rockwellautomation.wd1.myworkdayjobs.com/en-US/External_Rockwell_Automation/job/United-States-of-America-Milwaukee-South-2nd-Street/Intern--Innovation-Platform-Software-Engineer_R24-5260-1",
+    "locations": [
+      "Milwaukee, WI"
+    ],
+    "company_url": "https://simplify.jobs/c/Rockwell-Automation",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Weber Shandwick",
+    "id": "130b428a-c9e1-4c16-a8a0-7e0e59cc8d94",
+    "title": "Business Analytics Intern - Spring 2025",
+    "active": true,
+    "terms": [
+      "Spring 2025"
+    ],
+    "date_updated": 1730215447,
+    "date_posted": 1730215447,
+    "url": "https://www.webershandwick.com/work-at-weber/careers/?gh_jid=7703665002",
+    "locations": [
+      "Washington, DC"
+    ],
+    "company_url": "https://simplify.jobs/c/Weber-Shandwick",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "IPG DXTRA",
+    "id": "d37c9545-c6c6-4f83-a477-25cd5a221ef5",
+    "title": "Business Analytics Intern - Spring 2025",
+    "active": true,
+    "terms": [
+      "Spring 2025"
+    ],
+    "date_updated": 1730215030,
+    "date_posted": 1730215030,
+    "url": "https://job-boards.greenhouse.io/dxacirca/jobs/7703666002",
+    "locations": [
+      "Washington, DC"
+    ],
+    "company_url": "https://simplify.jobs/c/IPG-DXTRA",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
