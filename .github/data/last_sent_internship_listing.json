@@ -22302,5 +22302,25 @@
     "company_url": "https://simplify.jobs/c/Hewlett-Packard",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Northrop Grumman",
+    "id": "31fd15d8-fde7-4629-ae94-fd6274038c23",
+    "title": "2025 Systems Engineer Internship - Linthicum MD/Annapolis Junction MD",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1730234718,
+    "date_posted": 1730234718,
+    "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Maryland-Linthicum/XMLNAME-2025-Systems-Engineer-Internship---Linthicum-MD-Annapolis-Junction-MD_R10175485",
+    "locations": [
+      "Halethorpe, MD",
+      "Annapolis Junction, MD"
+    ],
+    "company_url": "https://simplify.jobs/c/238c95d8-0d6e-4717-b28c-078b16d675d7",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
