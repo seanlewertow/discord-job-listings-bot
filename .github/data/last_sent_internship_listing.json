@@ -22144,5 +22144,24 @@
     "company_url": "https://simplify.jobs/c/IPG-DXTRA",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Altera",
+    "id": "857ea339-1431-4ff9-a91d-c48fee5b99f9",
+    "title": "Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1730230593,
+    "date_posted": 1730230593,
+    "url": "https://jobs.ashbyhq.com/altera.al/fccaee31-5a39-4978-837e-577f74a4d9b5/application",
+    "locations": [
+      "Menlo Park, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Altera",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
