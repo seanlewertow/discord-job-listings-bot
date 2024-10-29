@@ -22322,5 +22322,28 @@
     "company_url": "https://simplify.jobs/c/238c95d8-0d6e-4717-b28c-078b16d675d7",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Sony Interactive Entertainment",
+    "id": "f3b369cd-1ade-4d99-bfa5-b94a7d9ca95f",
+    "title": "Software Developer in Test Intern - Undergraduate",
+    "active": true,
+    "terms": [
+      "Spring 2024",
+      "Summer 2024",
+      "Fall 2024"
+    ],
+    "date_updated": 1730243758,
+    "date_posted": 1730243758,
+    "url": "https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5344752004",
+    "locations": [
+      "Madison, WI",
+      "Wisconsin",
+      "United States"
+    ],
+    "company_url": "https://simplify.jobs/c/Sony-Interactive-Entertainment",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
