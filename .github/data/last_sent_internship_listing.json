@@ -22264,5 +22264,24 @@
     "company_url": "https://simplify.jobs/c/2f524a20-88a9-4307-b97b-e39799afb4c7",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Brunswick",
+    "id": "6d0bbab6-dd81-417c-99a8-a1464f233790",
+    "title": "Application Software Engineer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1730233329,
+    "date_posted": 1730233329,
+    "url": "https://brunswick.wd1.myworkdayjobs.com/en-US/search/job/Fond-du-Lac-WI/Application-Software-Engineer-Intern_JR-044279",
+    "locations": [
+      "Fond du Lac, WI"
+    ],
+    "company_url": "https://simplify.jobs/c/a93a0fb2-e10a-434c-a88c-a639748677a4",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
