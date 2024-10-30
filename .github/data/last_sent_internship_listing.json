@@ -22523,5 +22523,63 @@
     "company_url": "https://simplify.jobs/c/62df3370-bf7b-46b7-8619-e32dcd7d3fb3",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Motorola",
+    "id": "e9d2c6d3-5544-4772-9a81-683cda30f331",
+    "title": "Tableau Data Scientist Intern - Summer 2025",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1730302105,
+    "date_posted": 1730302105,
+    "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/Tableau-Data-Scientist-Intern---Summer-2025_R51321",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/MotorolaSolutions",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Northrop Grumman",
+    "id": "69403e05-fae8-4104-a421-afa2e2fdc1d5",
+    "title": "2025 Business Intern - Plymouth MN or Mesa AZ",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1730302182,
+    "date_posted": 1730302182,
+    "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Minnesota-Plymouth/XMLNAME-2025-Business-Intern---Plymouth-MN-or-Mesa-AZ_R10175729",
+    "locations": [
+      "Wayzata, MN",
+      "Mesa, AZ"
+    ],
+    "company_url": "https://simplify.jobs/c/238c95d8-0d6e-4717-b28c-078b16d675d7",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Hewlett Packard (HP)",
+    "id": "e613e9f3-5546-4e44-8644-7ff997a28107",
+    "title": "Apprentice - Software Engineering",
+    "active": true,
+    "terms": [
+      "Spring 2025"
+    ],
+    "date_updated": 1730302073,
+    "date_posted": 1730302073,
+    "url": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Austin-Texas-United-States-of-America/Apprentice---Software-Engineering_3141415-1",
+    "locations": [
+      "Austin, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Hewlett-Packard",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
