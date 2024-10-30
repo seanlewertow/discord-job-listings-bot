@@ -22600,5 +22600,24 @@
     "company_url": "https://simplify.jobs/c/238c95d8-0d6e-4717-b28c-078b16d675d7",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Waymo",
+    "id": "7cff6fb0-896d-40c8-9c28-bd8e63cc9503",
+    "title": "2025 Intern - BS/MS - SWE Simulation",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1730329844,
+    "date_posted": 1730329844,
+    "url": "https://careers.withwaymo.com/jobs?gh_jid=6347933",
+    "locations": [
+      "United States"
+    ],
+    "company_url": "https://simplify.jobs/c/Waymo",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
