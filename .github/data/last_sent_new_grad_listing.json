@@ -3905,5 +3905,21 @@
     "company_url": "https://simplify.jobs/c/4019ae9c-3cfa-47fe-83fd-758f3b050277",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Wayfair",
+    "id": "ba404dfa-b4af-43bc-9ee8-616886163bf3",
+    "title": "Software Engineer I \u2013 Experienced Graduates - Fall 2024 Start",
+    "active": true,
+    "date_updated": 1730316554,
+    "date_posted": 1727996760,
+    "url": "https://www.wayfair.com/careers/jobs/7626279002?gh_jid=7626279002",
+    "locations": [
+      "Boston, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/Wayfair",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
