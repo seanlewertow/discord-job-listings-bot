@@ -22619,5 +22619,81 @@
     "company_url": "https://simplify.jobs/c/Waymo",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Adobe",
+    "id": "1ee4b9f5-107f-4c1c-92a0-5f87b47d4b7a",
+    "title": "2025 Intern - Engineer/Architect",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1730330575,
+    "date_posted": 1730330575,
+    "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2025-Intern---Engineer-Architect_R148750",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Adobe",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Crowdstrike",
+    "id": "f6525d7e-4313-4200-8dba-3179827eaad5",
+    "title": "Sales Excellence Data Analytics Intern - Summer 2025 - Texas - Remote",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1730330271,
+    "date_posted": 1730330271,
+    "url": "https://crowdstrike.wd5.myworkdayjobs.com/en-us/crowdstrikecareers/job/USA---Remote-TX/Sales-Excellence-Data-Analytics-Intern---Summer-2025--Texas--Remote-_R20687-1",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/Crowdstrike",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Anduril",
+    "id": "a42b1849-e876-49de-9de1-e555977bbdc5",
+    "title": "Embedded Haskell Developer Intern",
+    "active": true,
+    "terms": [
+      "Winter 2025"
+    ],
+    "date_updated": 1730330249,
+    "date_posted": 1730330249,
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/4552467007",
+    "locations": [
+      "Newport Beach, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Anduril",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "The Federal Reserve System",
+    "id": "8d9f2c10-c9f9-4238-866f-114b65b19d87",
+    "title": "Summer 2025 Intern - Information Technology Services",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1730330195,
+    "date_posted": 1730330195,
+    "url": "https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Dallas-TX/Summer-2025-Intern---Information-Technology-Services_R-0000026614",
+    "locations": [
+      "Dallas, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/6a7a42d3-327f-4b48-a7a7-c68f405e3396",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
