@@ -22735,5 +22735,104 @@
     "date_posted": 1730348223,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Dialpad",
+    "id": "7f6b7907-3ef9-424d-a597-fca7b0d15027",
+    "title": "Co-op Software Engineer - AI Eng",
+    "active": true,
+    "terms": [
+      "Winter 2025"
+    ],
+    "date_updated": 1730417327,
+    "date_posted": 1730417327,
+    "url": "https://job-boards.greenhouse.io/dialpad/jobs/7696028002",
+    "locations": [
+      "Vancouver, BC, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Dialpad",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Dialpad",
+    "id": "cc8451c6-9336-4fd5-a407-7ced8145556c",
+    "title": "Co-op Software Engineer - Full Stack",
+    "active": true,
+    "terms": [
+      "Winter 2025"
+    ],
+    "date_updated": 1730417320,
+    "date_posted": 1730417320,
+    "url": "https://job-boards.greenhouse.io/dialpad/jobs/7695248002",
+    "locations": [
+      "Kitchener, ON, Canada",
+      "Vancouver, BC, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Dialpad",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Dialpad",
+    "id": "87cdcb56-3818-40e3-82ee-8df0397ab4d0",
+    "title": "Co-op Software Engineer - Backend",
+    "active": true,
+    "terms": [
+      "Winter 2025"
+    ],
+    "date_updated": 1730417320,
+    "date_posted": 1730417320,
+    "url": "https://job-boards.greenhouse.io/dialpad/jobs/7696014002",
+    "locations": [
+      "Vancouver, BC, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Dialpad",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "SEO (Sponsors for Educational Opportunity)",
+    "id": "ebb6f892-0b59-4d36-a918-22d38889beb2",
+    "title": "Data Intern",
+    "active": true,
+    "terms": [
+      "Winter 2026",
+      "Spring 2026"
+    ],
+    "date_updated": 1730417222,
+    "date_posted": 1730417222,
+    "url": "https://job-boards.greenhouse.io/sponsorsforeducationalopportunity/jobs/7707141002",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/SEO",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "SharkNinja",
+    "id": "fa74f5cc-1e44-4a59-bae3-da85f2a33c78",
+    "title": "Spring \u2013 Software Automation Engineer Co-op: January to June 2025",
+    "active": true,
+    "terms": [
+      "Winter 2026",
+      "Spring 2026",
+      "Summer 2026"
+    ],
+    "date_updated": 1730417143,
+    "date_posted": 1730417143,
+    "url": "https://www.sharkninja.com/careers/?gh_jid=4415285006",
+    "locations": [
+      "Needham, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/SharkNinja",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
