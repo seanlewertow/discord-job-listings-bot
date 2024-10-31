@@ -22834,5 +22834,83 @@
     "company_url": "https://simplify.jobs/c/SharkNinja",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "CVS Pharmacy",
+    "id": "5c9f4286-977f-4f07-96ca-836b0a015dcd",
+    "title": "Data Science Graduate Internship - Summer 2025",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1730418235,
+    "date_posted": 1730418235,
+    "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/New-York-161-Ave-of-the-Americas/Data-Science-Graduate-Internship---Summer-2025_R0409081",
+    "locations": [
+      "Needham, MA",
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/CVS",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Ncino",
+    "id": "131a38ec-1fad-4ec8-a20e-692af9735f73",
+    "title": "Data Science Intern - Summer 2025",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1730418075,
+    "date_posted": 1730418075,
+    "url": "https://ncino.wd5.myworkdayjobs.com/en-US/nCinoCareers/job/Wilmington-NC/Data-Science-Intern---Summer-2025_R5219",
+    "locations": [
+      "Wilmington, NC",
+      "Lehi, UT"
+    ],
+    "company_url": "https://simplify.jobs/c/1e4b945b-2f92-4ff0-86e1-e650599003ae",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Point72",
+    "id": "3505a4e7-4298-4a6f-a379-a97daae034d4",
+    "title": "2025 Spring Internship - Data Engineer - Proprietary Research",
+    "active": true,
+    "terms": [
+      "Spring 2025"
+    ],
+    "date_updated": 1730417727,
+    "date_posted": 1730417727,
+    "url": "https://job-boards.greenhouse.io/point72/jobs/7671322002",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Point72",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "The Federal Reserve System",
+    "id": "ac9c499f-7b13-49fc-b9a0-a0236d4b3c84",
+    "title": "Summer 2025 Intern - IT S&R Enablement",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1730417635,
+    "date_posted": 1730417635,
+    "url": "https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Dallas-TX/Summer-2025-Intern---IT-S-R-Enablement_R-0000026688",
+    "locations": [
+      "Dallas, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/6a7a42d3-327f-4b48-a7a7-c68f405e3396",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
