@@ -22931,5 +22931,62 @@
     "company_url": "https://simplify.jobs/c/f22ab711-4900-472d-be8a-7263e99e49fa",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "date_updated": 1730426857,
+    "url": "https://vsp.wd1.myworkdayjobs.com/VSPVisionCareers/job/Remote-US/Internship--Software-Engineer---Eyefinity_R-6732?source=LinkedIn",
+    "company_name": "Eyefinity",
+    "title": "Software Engineer - Eyefinity",
+    "locations": [
+      "Remote"
+    ],
+    "terms": [
+      "Summer 2025"
+    ],
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "source": "DereC4",
+    "id": "59daa2db-340e-40f7-ac6f-b35cbc5323d6",
+    "date_posted": 1730426857,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1730426889,
+    "url": "https://recruiting2.ultipro.com/HER1001ACFIN/JobBoard/ab33798a-3521-417b-8db8-a8e435c475fa/OpportunityDetail?opportunityId=7080938d-3a7b-47ce-989d-0dd4994f0a8a&source=LinkedIn",
+    "company_name": "Acuity",
+    "title": "Programmer Intern",
+    "locations": [
+      "Austin, TX"
+    ],
+    "terms": [
+      "Summer 2025"
+    ],
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "source": "DereC4",
+    "id": "af149392-f4a5-45ff-892a-968f6a5a7386",
+    "date_posted": 1730426889,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1730426996,
+    "url": "https://careers.honeywell.com/us/en/job/HONEUSREQ460339EXTERNALENUS/Information-Systems-IT-Cyber-Engineer-Data-Science-Summer-2025-Intern",
+    "company_name": "Honeywell",
+    "title": "Information Systems, IT, Cyber Engineer & Data Science - Summer 2025 Intern",
+    "locations": [
+      "Remote"
+    ],
+    "terms": [
+      "Summer 2025"
+    ],
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "source": "DereC4",
+    "id": "fd904eb3-e752-463b-8005-3fdf6060a526",
+    "date_posted": 1730426996,
+    "company_url": "",
+    "is_visible": true
   }
 ]
