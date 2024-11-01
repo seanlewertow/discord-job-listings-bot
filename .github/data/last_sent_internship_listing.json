@@ -23144,5 +23144,25 @@
     "company_url": "https://simplify.jobs/c/WaveFinancial",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Corelogic",
+    "id": "01bb67ef-5334-490d-aee5-c8b719f3048f",
+    "title": "Intern \u2013 Geospatial Operations",
+    "active": true,
+    "terms": [
+      "Spring 2024"
+    ],
+    "date_updated": 1730489625,
+    "date_posted": 1730489625,
+    "url": "https://corelogic.wd5.myworkdayjobs.com/en-US/Global/job/Austin-TX/Intern--Geospatial-Operations_REQ15742",
+    "locations": [
+      "Austin, TX",
+      "Dallas, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/84f3bc2b-33c1-4bb0-af43-21bb8d59d639",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
