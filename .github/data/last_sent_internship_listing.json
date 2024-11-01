@@ -23068,5 +23068,24 @@
     "company_url": "https://simplify.jobs/c/Disney",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Associated Bank",
+    "id": "3f251f30-6d87-4fab-b0cc-6fbece6aef17",
+    "title": "Corporate Intern - Artificial Intelligence - Summer 2025",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1730430988,
+    "date_posted": 1730430988,
+    "url": "https://associatedbank.wd1.myworkdayjobs.com/en-US/external_careers/job/Milwaukee-111-Kilbourn/Corporate-Intern---Artificial-Intelligence---Summer-2025_JR102019",
+    "locations": [
+      "Milwaukee, WI"
+    ],
+    "company_url": "https://simplify.jobs/c/63ed32ad-4f6b-4bd2-bce7-58ea7a9415ad",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
