@@ -23259,5 +23259,46 @@
     "company_url": "https://simplify.jobs/c/6223a3c8-d5e0-47cb-a64c-2cf512c65e98",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Sony Interactive Entertainment",
+    "id": "8aa559ae-b7e1-465a-bb58-d6ffc0f4bf68",
+    "title": "Software Engineer Intern - Undergraduate",
+    "active": true,
+    "terms": [
+      "Spring 2024",
+      "Summer 2024",
+      "Fall 2024"
+    ],
+    "date_updated": 1730502885,
+    "date_posted": 1730502885,
+    "url": "https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5355807004",
+    "locations": [
+      "Madison, WI"
+    ],
+    "company_url": "https://simplify.jobs/c/Sony-Interactive-Entertainment",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "ServiceNow",
+    "id": "4825efd1-b554-4544-a1ba-a5635398bbe7",
+    "title": "Software Engineer Intern - Innovation Team",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1730502683,
+    "date_posted": 1730502683,
+    "url": "https://jobs.smartrecruiters.com/ServiceNow/744000024209166",
+    "locations": [
+      "Remote in USA",
+      "Santa Clara, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/ServiceNow",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
