@@ -23221,5 +23221,43 @@
     "company_url": "https://simplify.jobs/c/Visa",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "PitchBook",
+    "id": "7892391d-4ea1-44b3-8d64-b186b04b552f",
+    "title": "Data Analyst Summer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2024"
+    ],
+    "date_updated": 1730492864,
+    "date_posted": 1730492864,
+    "url": "https://job-boards.greenhouse.io/pitchbookdata/jobs/4410115006",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "company_url": "https://simplify.jobs/c/PitchBook",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Cognex",
+    "id": "83a20ae5-c39b-40f0-b6c4-2207b77143ab",
+    "title": "Software Engineering Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1730492293,
+    "date_posted": 1730492293,
+    "url": "https://cognex.wd1.myworkdayjobs.com/en-US/External_Career_Site/job/Wauwatosa-Wisconsin/Software-Engineering-Intern_R0010292",
+    "locations": [
+      "Wauwatosa, WI"
+    ],
+    "company_url": "https://simplify.jobs/c/6223a3c8-d5e0-47cb-a64c-2cf512c65e98",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
