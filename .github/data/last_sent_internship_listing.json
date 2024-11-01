@@ -23164,5 +23164,62 @@
     "company_url": "https://simplify.jobs/c/84f3bc2b-33c1-4bb0-af43-21bb8d59d639",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Seismic",
+    "id": "05a89055-b190-4eda-8f52-ff9dce7a3a5b",
+    "title": "Software Engineer \u2013 Co-Op/Pey",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1730491389,
+    "date_posted": 1730491389,
+    "url": "https://seismic.com/company/careers/job-detail/?gh_jid=5368925004",
+    "locations": [
+      "Toronto, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Seismic",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Visa",
+    "id": "0ea06764-fe56-4a15-a707-876d026f9e8f",
+    "title": "Associate Data Scientist \u2013 Intern - Cybersecurity",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1730491260,
+    "date_posted": 1730491260,
+    "url": "https://jobs.smartrecruiters.com/Visa/744000024149200",
+    "locations": [
+      "Ashburn, VA"
+    ],
+    "company_url": "https://simplify.jobs/c/Visa",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Visa",
+    "id": "f048a50d-651c-4202-ba2b-619acfecc386",
+    "title": "Data Engineer Intern",
+    "active": true,
+    "terms": [
+      "Spring 2024"
+    ],
+    "date_updated": 1730491255,
+    "date_posted": 1730491255,
+    "url": "https://jobs.smartrecruiters.com/Visa/744000024169985",
+    "locations": [
+      "Austin, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Visa",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
