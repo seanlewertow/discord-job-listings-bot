@@ -23047,5 +23047,26 @@
     "date_posted": 1730437676,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "source": "Simplify",
+    "company_name": "The Walt Disney Company",
+    "id": "7a81f4a0-5f7d-4d14-9b7b-f9c4a4727735",
+    "title": "Tax data Management & Innovation Graduate Intern",
+    "active": true,
+    "terms": [
+      "Spring 2024",
+      "Summer 2024",
+      "Fall 2024"
+    ],
+    "date_updated": 1730445176,
+    "date_posted": 1730445176,
+    "url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Celebration-FL-USA/Tax-data-Management---Innovation-Graduate-Intern_10104886-2",
+    "locations": [
+      "Celebration, FL"
+    ],
+    "company_url": "https://simplify.jobs/c/Disney",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
