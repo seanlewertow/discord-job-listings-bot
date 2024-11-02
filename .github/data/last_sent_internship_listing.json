@@ -23340,5 +23340,44 @@
     "date_posted": 1730505755,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Leidos",
+    "id": "18ddfbb5-edc3-4b6e-a940-206548683e8c",
+    "title": "Software Engineer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1730503085,
+    "date_posted": 1730503085,
+    "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Reston-VA/Software-Engineer-Intern_R-00147490",
+    "locations": [
+      "Reston, VA"
+    ],
+    "company_url": "https://simplify.jobs/c/Leidos",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "CVS Pharmacy",
+    "id": "9242131b-9dd6-4443-955c-205c9d46f5b9",
+    "title": "Data Science Undergraduate Internship - Summer 2025",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1730493135,
+    "date_posted": 1730493135,
+    "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/NY---New-York/Data-Science-Undergraduate-Internship---Summer-2025_R0409086",
+    "locations": [
+      "Needham, MA",
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/CVS",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
