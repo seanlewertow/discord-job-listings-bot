@@ -23379,5 +23379,26 @@
     "company_url": "https://simplify.jobs/c/CVS",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "PlayStation Global",
+    "id": "ccf0c89e-70c5-4cc3-922c-5626a2970f1f",
+    "title": "Software Engineer Intern - Undergraduate",
+    "active": true,
+    "terms": [
+      "Spring 2024",
+      "Summer 2024",
+      "Fall 2024"
+    ],
+    "date_updated": 1730517340,
+    "date_posted": 1730517340,
+    "url": "https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5340600004",
+    "locations": [
+      "San Mateo, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/PlayStation-Global",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
