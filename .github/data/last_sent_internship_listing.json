@@ -23400,5 +23400,43 @@
     "company_url": "https://simplify.jobs/c/PlayStation-Global",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "date_updated": 1730520151,
+    "url": "https://jobs.careers.microsoft.com/us/en/job/1781490/Software-Engineer-Fullstack-Intern-Opportunities-for-University-Students-New-York-City",
+    "company_name": "Microsoft",
+    "title": "Software Engineer: Fullstack Intern Opportunities for University Students, New York City",
+    "locations": [
+      "New York, NY"
+    ],
+    "terms": [
+      "Summer 2025"
+    ],
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "source": "GaryZhous",
+    "id": "5607ca13-04b8-460e-a0eb-70d9c272344c",
+    "date_posted": 1730520151,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1730520235,
+    "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---Palo-Alto/Summer-2025---AI-Software-Engineer-Intern_JR267142-2",
+    "company_name": "Salesforce",
+    "title": "Summer 2025 - AI Software Engineer Intern",
+    "locations": [
+      "Palo Alto, CA"
+    ],
+    "terms": [
+      "Summer 2025"
+    ],
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "source": "GaryZhous",
+    "id": "563bd486-7aa0-42b4-a803-f05f8e3d4edb",
+    "date_posted": 1730520235,
+    "company_url": "",
+    "is_visible": true
   }
 ]
