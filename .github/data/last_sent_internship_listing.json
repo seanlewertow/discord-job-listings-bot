@@ -23319,5 +23319,26 @@
     "company_url": "https://simplify.jobs/c/Leidos",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "date_updated": 1730505755,
+    "url": "https://app.ripplematch.com/v2/public/job/82ab6644/details",
+    "company_name": "Reddit",
+    "title": "Software Engineer Intern",
+    "locations": [
+      "New York, NY",
+      "San Francisco, CA",
+      "Remote"
+    ],
+    "terms": [
+      "Summer 2025"
+    ],
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "source": "LuaanNguyen",
+    "id": "58568a42-1f8a-49a4-9864-8ef04bb974a3",
+    "date_posted": 1730505755,
+    "company_url": "",
+    "is_visible": true
   }
 ]
