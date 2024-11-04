@@ -23710,5 +23710,62 @@
     "company_url": "https://simplify.jobs/c/Autodesk",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Echo Global Logistics",
+    "id": "cdf042b6-63f6-410b-a36d-8dec42556acf",
+    "title": "Software Engineering Intern-Chicago",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1730755555,
+    "date_posted": 1730755555,
+    "url": "https://echo.wd1.myworkdayjobs.com/en-US/Echo_Logistics/job/Remote/Software-Engineering-Intern--Chicago_R3239",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/02d318d6-1b68-4674-a557-5095f957451e",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "DriveWealth",
+    "id": "3f31f0fc-e01a-46af-a1b7-e17e9396b927",
+    "title": "Summer 2025 Intern - Partner Engineering",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1730755422,
+    "date_posted": 1730755422,
+    "url": "https://boards.greenhouse.io/drivewealth/jobs/6256736003",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/DriveWealth",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "ONE Finance",
+    "id": "c93eee3d-5e8d-446b-a7b1-7136ba616cef",
+    "title": "Software Engineer \u2013 Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1730755218,
+    "date_posted": 1730755218,
+    "url": "https://jobs.ashbyhq.com/oneapp/b07cfe24-620d-4652-926f-695b56734a40/application",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/One-Finance",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
