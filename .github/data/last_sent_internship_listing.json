@@ -23670,5 +23670,45 @@
     "company_url": "https://simplify.jobs/c/Kitware",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Clio",
+    "id": "03fe34f3-e022-41c9-9220-4cde9b8e06dd",
+    "title": "Data Engineer \u2013 Co-op",
+    "active": true,
+    "terms": [
+      "Winter 2026",
+      "Spring 2026",
+      "Summer 2026"
+    ],
+    "date_updated": 1730754923,
+    "date_posted": 1730754923,
+    "url": "https://clio.wd3.myworkdayjobs.com/en-US/ClioCareerSite/job/Remote---Canada/Data-Engineer--Co-op_BF-REQ-2809-1",
+    "locations": [
+      "Remote in Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Clio",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Autodesk",
+    "id": "f66a7e9b-dd8d-4585-bc12-4a02193f3c39",
+    "title": "Intern \u2013 Software Developer",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1730754794,
+    "date_posted": 1730754794,
+    "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Montreal-QC-CAN/Intern--Software-Developer_24WD83294",
+    "locations": [
+      "Montreal, QC, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Autodesk",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
