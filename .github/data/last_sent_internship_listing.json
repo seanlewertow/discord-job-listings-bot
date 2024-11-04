@@ -23535,5 +23535,24 @@
     "company_url": "https://simplify.jobs/c/Visa",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Five Rings Capital",
+    "id": "354f885e-0245-4abd-9ce9-f186fcd079d4",
+    "title": "Summer Intern 2025 - Quantitative Research Analyst",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1730693804,
+    "date_posted": 1730693804,
+    "url": "https://job-boards.greenhouse.io/fiveringsllc/jobs/4069548008",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Five-Rings",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
