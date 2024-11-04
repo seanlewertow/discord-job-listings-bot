@@ -4113,5 +4113,37 @@
     "company_url": "https://simplify.jobs/c/Wayfair",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Two Six Technologies",
+    "id": "d5379622-ee88-46e8-9c40-9d517f70b176",
+    "title": "Junior Software Engineer",
+    "active": true,
+    "date_updated": 1730753829,
+    "date_posted": 1730330064,
+    "url": "https://job-boards.greenhouse.io/twosixtechnologies/jobs/5367134004",
+    "locations": [
+      "Cherry Hills Village, CO"
+    ],
+    "company_url": "https://simplify.jobs/c/Two-Six-Technologies",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Genmo",
+    "id": "2785d820-e76e-4f39-a52a-94f4a7932f95",
+    "title": "Software Engineer \u2013 New Grad",
+    "active": true,
+    "date_updated": 1730754290,
+    "date_posted": 1730754290,
+    "url": "https://jobs.ashbyhq.com/genmo/9b5477f4-97af-4aaa-b855-910c982ce191/application",
+    "locations": [
+      "SF"
+    ],
+    "company_url": "https://simplify.jobs/c/Genmo",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
