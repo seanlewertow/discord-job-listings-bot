@@ -23554,5 +23554,43 @@
     "company_url": "https://simplify.jobs/c/Five-Rings",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "date_updated": 1730696865,
+    "url": "https://careers.adobe.com/us/en/job/ADOBUSR148758EXTERNALENUS/2025-Intern-Emerging-Technology-Analyst",
+    "company_name": "Adobe",
+    "title": "2025 Intern - Emerging Technology Analyst",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "terms": [
+      "Summer 2025"
+    ],
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "source": "GaryZhous",
+    "id": "a1a631d9-1dc1-4367-8a60-d72a44a7eb0b",
+    "date_posted": 1730696865,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1730696885,
+    "url": "https://campus-americas.icims.com/jobs/14983/software-engineer-intern%25252c-2025-summer-u.s./job?iis=LinkedIn&iisn=LinkedIn_Job_Ad&mode=job",
+    "company_name": "Atlassian",
+    "title": "Software Engineer Intern",
+    "locations": [
+      "Mountain View, CA"
+    ],
+    "terms": [
+      "Summer 2025"
+    ],
+    "sponsorship": "Does Not Offer Sponsorship",
+    "active": true,
+    "source": "LuaanNguyen",
+    "id": "89da4147-710b-4ce2-863c-4e8a96ea9515",
+    "date_posted": 1730696885,
+    "company_url": "",
+    "is_visible": true
   }
 ]
