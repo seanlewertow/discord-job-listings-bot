@@ -23651,5 +23651,24 @@
     "company_url": "https://simplify.jobs/c/Twitch",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Kitware",
+    "id": "2f973a51-0a26-4fa2-a2c1-c5daafd1e640",
+    "title": "Computer Vision Software Development Internship",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1730752221,
+    "date_posted": 1730752221,
+    "url": "https://jobs.lever.co/kitware/c36a7fa6-8bd7-412c-ac6d-17cdaa3b0c56/apply",
+    "locations": [
+      "Clifton Park, NY"
+    ],
+    "company_url": "https://simplify.jobs/c/Kitware",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
