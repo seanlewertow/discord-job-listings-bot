@@ -4161,5 +4161,87 @@
     "company_url": "https://simplify.jobs/c/Splunk",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Grand Rounds",
+    "id": "b6a09598-febb-4d18-9df7-c89d7413e5ce",
+    "title": "Backend Engineer I - Customer Experience",
+    "active": true,
+    "date_updated": 1730230117,
+    "date_posted": 1730171638,
+    "url": "https://jobs.lever.co/includedhealth/843a62b0-af91-4dc3-8b4c-67aef79d1304/apply",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/Grand-Rounds",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Telnyx",
+    "id": "2ca6621b-eea1-4669-9c28-67609df8e832",
+    "title": "Junior Software Engineer - Python - Remote",
+    "active": true,
+    "date_updated": 1728934282,
+    "date_posted": 1728934282,
+    "url": "https://boards.greenhouse.io/telnyx54/jobs/4413191003",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/Telnyx",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Hallow",
+    "id": "4bf1f59b-a19e-4586-8296-1e8a3d578dda",
+    "title": "Junior Backend Developer",
+    "active": true,
+    "date_updated": 1729579417,
+    "date_posted": 1729579417,
+    "url": "https://jobs.lever.co/hallow/e14361be-5685-48a9-a537-b44a80f10829/apply",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/Hallow",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Strive Health",
+    "id": "6e675a50-038c-4aa9-a5ef-fb1a5e1ee804",
+    "title": "Data Engineer I",
+    "active": true,
+    "date_updated": 1730258306,
+    "date_posted": 1730258306,
+    "url": "https://boards.greenhouse.io/strivehealth/jobs/4406927006",
+    "locations": [
+      "Washington, DC"
+    ],
+    "company_url": "https://simplify.jobs/c/fb4bdaa0-c951-4127-9241-493a8a986078",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Zappos",
+    "id": "995cd3fd-0f16-46e2-ab64-6b5350ecd73f",
+    "title": "Software Development Engineer I - Discovery",
+    "active": true,
+    "date_updated": 1729897616,
+    "date_posted": 1729897616,
+    "url": "https://zappos.wd1.myworkdayjobs.com/en-US/Zappos/job/Las-Vegas-Office/Software-Development-Engineer-II--Discovery_JR596",
+    "locations": [
+      "Las Vegas, NV",
+      "Seattle, WA",
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/a6570f4d-f873-454f-be46-9267de8d387b",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
