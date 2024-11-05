@@ -23905,5 +23905,102 @@
     "company_url": "https://simplify.jobs/c/MLB",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Epic Games",
+    "id": "7d4ca2a7-4a3d-4096-a32a-c0c922fe757f",
+    "title": "Gameplay Systems Engineer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1727464003,
+    "date_posted": 1727450105,
+    "url": "https://epicgames.com/careers/jobs/5278895004?gh_jid=5278895004",
+    "locations": [
+      "Morrisville, NC"
+    ],
+    "company_url": "https://simplify.jobs/c/Epic-Games",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Aigen",
+    "id": "adf3eaa6-55c7-4c50-95f6-9e503e5db19c",
+    "title": "Field Robot Operator \u2013 Early Interest: Summer Interns 2025",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1727478915,
+    "date_posted": 1727478915,
+    "url": "https://jobs.lever.co/aigen/9512d1ca-7a62-4f21-aa27-d4284ed78cc0/apply",
+    "locations": [
+      "Merced, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Aigen",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": " PrizePicks",
+    "id": "cecf1219-b4f8-4257-8952-8f57a70f272a",
+    "title": "Marketing Analytics Internship",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1727811743,
+    "date_posted": 1727811743,
+    "url": "http://prizepicks.com/position?gh_jid=6226930003",
+    "locations": [
+      "Atlanta, GA"
+    ],
+    "company_url": "https://simplify.jobs/c/PrizePicks",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Epic Games",
+    "id": "acc34235-ca95-4ce3-8931-86c1a43db1f0",
+    "title": "Gameplay Programmer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1726687229,
+    "date_posted": 1726528634,
+    "url": "https://epicgames.com/careers/jobs/5302372004?gh_jid=5302372004",
+    "locations": [
+      "Montreal, QC, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Epic-Games",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Aquatic Capital Management",
+    "id": "cb147f07-7e35-469b-acc8-0facb8e89667",
+    "title": "Quantitative Researcher \u2013 Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1729725521,
+    "date_posted": 1729725521,
+    "url": "https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/7593503002",
+    "locations": [
+      "London, UK",
+      "Chicago, IL",
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Aquatic-Capital-Management",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
