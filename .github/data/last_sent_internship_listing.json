@@ -24520,5 +24520,43 @@
     "company_url": "https://simplify.jobs/c/WillowTree",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Northrop Grumman",
+    "id": "2d7df752-4663-4cab-8871-9a77c37472a3",
+    "title": "2025 Software Engineer Intern - Ocean Springs MS",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1730842326,
+    "date_posted": 1730842326,
+    "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Mississippi-Ocean-Springs/XMLNAME-2025-Software-Engineer-Intern---Ocean-Springs-MS_R10176370",
+    "locations": [
+      "Biloxi, MS"
+    ],
+    "company_url": "https://simplify.jobs/c/238c95d8-0d6e-4717-b28c-078b16d675d7",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Oshkosh",
+    "id": "bb6c62e5-b221-458d-832f-9bbf535c2aa9",
+    "title": "Autonomy Intern - Computer Vision",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1730841164,
+    "date_posted": 1730841164,
+    "url": "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Oshkosh-Wisconsin-United-States/Autonomy-Intern---Computer-Vision_R32882",
+    "locations": [
+      "Oshkosh, WI"
+    ],
+    "company_url": "https://simplify.jobs/c/Oshkosh",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
