@@ -24097,5 +24097,46 @@
     "company_url": "https://simplify.jobs/c/Skydio",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Aquatic Capital Management",
+    "id": "2e21e9cc-baa9-4b38-8ffd-75904b74f12a",
+    "title": "Software Engineer \u2013 Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1729725526,
+    "date_posted": 1729725526,
+    "url": "https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/7594277002",
+    "locations": [
+      "London, UK",
+      "Chicago, IL",
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Aquatic-Capital-Management",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Amazon",
+    "id": "228effa2-bf89-45a3-81ea-02a97a0fdfb7",
+    "title": "Co-op Software Development Engineer-2025 - US",
+    "active": true,
+    "terms": [
+      "Summer 2024",
+      "Fall 2024"
+    ],
+    "date_updated": 1730780154,
+    "date_posted": 1730780154,
+    "url": "https://amazon.jobs/en/jobs/2822132/co-op-software-development-engineer-2025-us",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "company_url": "https://simplify.jobs/c/Amazon",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
