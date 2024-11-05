@@ -24176,5 +24176,100 @@
     "date_posted": 1730783218,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Zuru",
+    "id": "e1d038bc-2b3e-439b-8b75-27a7caa3ec43",
+    "title": "Data Analyst Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1726456619,
+    "date_posted": 1726456619,
+    "url": "https://jobs.lever.co/zuru/63c10ae8-d0e2-4794-87c7-1a1e5bed741d/apply",
+    "locations": [
+      "LA"
+    ],
+    "company_url": "https://simplify.jobs/c/Zuru",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Epic Games",
+    "id": "862f45b7-d01a-443d-8e16-1e5a22e0884e",
+    "title": "Tools Programmer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1727206562,
+    "date_posted": 1727206562,
+    "url": "https://epicgames.com/careers/jobs/5302904004?gh_jid=5302904004",
+    "locations": [
+      "Montreal, QC, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Epic-Games",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Epic Games",
+    "id": "a973b823-3573-4d0d-9d8e-2aac24cfc26d",
+    "title": "Tools Programmer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1726686515,
+    "date_posted": 1726514705,
+    "url": "https://epicgames.com/careers/jobs/5297894004?gh_jid=5297894004",
+    "locations": [
+      "Montreal, QC, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Epic-Games",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Recorded Future",
+    "id": "55b1b10a-a64d-4148-8c11-35badaac7bcd",
+    "title": "Data Science Intern - Python and Pipelines",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1729725798,
+    "date_posted": 1729725798,
+    "url": "https://boards.greenhouse.io/recordedfuture/jobs/7696542002",
+    "locations": [
+      "Boston, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/Recorded-Future",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Epic Games",
+    "id": "f089ad02-fb19-4ba6-bd79-c3b66297a17b",
+    "title": "Tools Programmer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1726687593,
+    "date_posted": 1726528651,
+    "url": "https://epicgames.com/careers/jobs/5278890004?gh_jid=5278890004",
+    "locations": [
+      "Morrisville, NC"
+    ],
+    "company_url": "https://simplify.jobs/c/Epic-Games",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
