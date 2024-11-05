@@ -24309,5 +24309,24 @@
     "company_url": "https://simplify.jobs/c/Suno",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Solidigm",
+    "id": "b675f8d5-6794-4d9a-b062-88a052fe465a",
+    "title": "SSD Firmware Engineer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1728745441,
+    "date_posted": 1728745441,
+    "url": "https://jobs.smartrecruiters.com/Solidigm/744000020050935",
+    "locations": [
+      "Longmont, CO"
+    ],
+    "company_url": "https://simplify.jobs/c/Solidigm",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
