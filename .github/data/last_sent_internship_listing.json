@@ -24328,5 +24328,64 @@
     "company_url": "https://simplify.jobs/c/Solidigm",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Resmed",
+    "id": "7012c48d-bdda-47b3-910b-7628c234af92",
+    "title": "Software Engineer Intern",
+    "active": true,
+    "terms": [
+      "Spring 2024"
+    ],
+    "date_updated": 1730824221,
+    "date_posted": 1730824221,
+    "url": "https://resmed.wd3.myworkdayjobs.com/en-US/ResMed_External_Careers/job/CA-Canada-ResMed-Halifax---Remote/Software-Engineer-Intern_JR_037583",
+    "locations": [
+      "Remote in Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/f1e2116e-f25f-44f8-9667-7351ce6ceb3f",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Amazon",
+    "id": "536a759a-692b-493d-988a-ba2e26cfb95f",
+    "title": "2025 Software Development Engineer Intern - Embedded Development",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1730823909,
+    "date_posted": 1730823909,
+    "url": "https://amazon.jobs/en/jobs/2821518/2025-software-development-engineer-intern-embedded-development",
+    "locations": [
+      "London, UK",
+      "Cambridge, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Amazon",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Monad Labs",
+    "id": "87eb3b7c-97ea-46c3-912f-0555946c1483",
+    "title": "Summer 2025 Research Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1730823632,
+    "date_posted": 1730823632,
+    "url": "https://job-boards.greenhouse.io/monad/jobs/4493910005",
+    "locations": [
+      "Remote in USA",
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Monad-Labs",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
