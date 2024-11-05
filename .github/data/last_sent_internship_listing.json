@@ -24138,5 +24138,43 @@
     "company_url": "https://simplify.jobs/c/Amazon",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "date_updated": 1730783087,
+    "url": "https://www.coinbase.com/en-ca/careers/positions/6306332",
+    "company_name": "Coinbase",
+    "title": "Security Engineer Intern",
+    "locations": [
+      "New York, NY"
+    ],
+    "terms": [
+      "Summer 2025"
+    ],
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "source": "GaryZhous",
+    "id": "9c74d712-0181-425a-87a8-c713393dc816",
+    "date_posted": 1730783087,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1730783218,
+    "url": "https://careers.blizzard.com/global/en/job/BLENGLOBALR024237EXTERNALENGLOBAL/2025-US-Summer-Internship-Site-Reliability-Engineering",
+    "company_name": "Blizzard Entertainment",
+    "title": "2025 US Summer Internship - Site Reliability Engineering",
+    "locations": [
+      "Irvine, CA"
+    ],
+    "terms": [
+      "Summer 2025"
+    ],
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "source": "GaryZhous",
+    "id": "8fae4bed-d0ed-483c-ade3-87086acbfc3d",
+    "date_posted": 1730783218,
+    "company_url": "",
+    "is_visible": true
   }
 ]
