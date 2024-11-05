@@ -24425,5 +24425,100 @@
     "company_url": "https://simplify.jobs/c/Oshkosh",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Aurora Innovation",
+    "id": "92b3816c-c62b-4a5d-befe-be83555c9f46",
+    "title": "Software Engineering Intern - Autonomy Long Tail",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1730841558,
+    "date_posted": 1730841558,
+    "url": "https://aurora.tech/jobs/7692047002?gh_jid=7692047002",
+    "locations": [
+      "Mountain View, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Aurora-Innovation",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Aurora Innovation",
+    "id": "5582dcb7-7ef3-4280-a5d0-c538c5c91a14",
+    "title": "Software Engineering Intern - Behavior Data Engine",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1730841572,
+    "date_posted": 1730841572,
+    "url": "https://aurora.tech/jobs/7697018002?gh_jid=7697018002",
+    "locations": [
+      "Pittsburgh, PA"
+    ],
+    "company_url": "https://simplify.jobs/c/Aurora-Innovation",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Rockwell Automation",
+    "id": "e341d148-eca2-4743-88fe-af86722ece1c",
+    "title": "Intern \u2013 Software Engineering",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1730841404,
+    "date_posted": 1730841404,
+    "url": "https://rockwellautomation.wd1.myworkdayjobs.com/en-US/External_Rockwell_Automation/job/Milwaukee-Wisconsin-United-States/Intern--Software-Engineering_R24-5216",
+    "locations": [
+      "Milwaukee, WI"
+    ],
+    "company_url": "https://simplify.jobs/c/Rockwell-Automation",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Rockwell Automation",
+    "id": "e38b08ef-334a-4d00-a62e-d31276a8c149",
+    "title": "Internship - Software Engineering",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1730841404,
+    "date_posted": 1730841404,
+    "url": "https://rockwellautomation.wd1.myworkdayjobs.com/en-US/External_Rockwell_Automation/job/Mequon-Wisconsin-United-States/Internship--Software-Engineering_R24-5251",
+    "locations": [
+      "Mequon, WI"
+    ],
+    "company_url": "https://simplify.jobs/c/Rockwell-Automation",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "WillowTree",
+    "id": "78a735e4-e4c2-45bc-8ec0-9462ff95bb2a",
+    "title": "Data Science Intern - US - Summer 2025",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1730841398,
+    "date_posted": 1730841398,
+    "url": "https://boards.greenhouse.io/willowtree/jobs/7606228002",
+    "locations": [
+      "Charlottesville, VA"
+    ],
+    "company_url": "https://simplify.jobs/c/WillowTree",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
