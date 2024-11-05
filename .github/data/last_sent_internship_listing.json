@@ -24406,5 +24406,24 @@
     "date_posted": 1730835297,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Oshkosh",
+    "id": "7318556f-1cb1-4c45-81b6-d17bdadce45b",
+    "title": "Autonomy Intern-ML/AI",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1730841161,
+    "date_posted": 1730841161,
+    "url": "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Pittsburgh-Pennsylvania-United-States/Autonomy-Intern_R32881",
+    "locations": [
+      "Pittsburgh, PA"
+    ],
+    "company_url": "https://simplify.jobs/c/Oshkosh",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
