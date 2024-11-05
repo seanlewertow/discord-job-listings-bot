@@ -24387,5 +24387,24 @@
     "company_url": "https://simplify.jobs/c/Monad-Labs",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "date_updated": 1730835297,
+    "url": "https://jobs.ashbyhq.com/schoolhouse-world/1a5bc2f1-228f-4901-a120-2271522e11ec",
+    "company_name": "Schoolhouse.world",
+    "title": "Software Engineer Intern",
+    "locations": [
+      "Remote"
+    ],
+    "terms": [
+      "Summer 2025"
+    ],
+    "sponsorship": "Does Not Offer Sponsorship",
+    "active": true,
+    "source": "karpawich",
+    "id": "9999b504-25f2-42b9-8dcf-126f376d198b",
+    "date_posted": 1730835297,
+    "company_url": "",
+    "is_visible": true
   }
 ]
