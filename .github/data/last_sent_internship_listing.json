@@ -24002,5 +24002,100 @@
     "company_url": "https://simplify.jobs/c/Aquatic-Capital-Management",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Zoox",
+    "id": "05357c6c-05c0-4f1b-8662-54587c241317",
+    "title": "Developer Platforms Internship/Co-op",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1729105798,
+    "date_posted": 1728602365,
+    "url": "https://jobs.lever.co/zoox/3021c042-c2e9-495f-8bbe-017792e519cf/apply",
+    "locations": [
+      "San Mateo, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Zoox",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Zoox",
+    "id": "9894f80d-a8f3-4856-a60b-be3db168eae7",
+    "title": "Python Backend Engineer Internship/Co-op",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1727997410,
+    "date_posted": 1727997410,
+    "url": "https://jobs.lever.co/zoox/f2c64e56-fb45-46e9-811d-bc0d9dec9929/apply",
+    "locations": [
+      "San Mateo, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Zoox",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Epic Games",
+    "id": "159fd57c-b44f-460e-8d4f-8853db96ea7c",
+    "title": "Tools Programmer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1727219901,
+    "date_posted": 1727219901,
+    "url": "https://epicgames.com/careers/jobs/5332298004?gh_jid=5332298004",
+    "locations": [
+      "Montreal, QC, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Epic-Games",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Orderly Network",
+    "id": "baf7c694-d0c3-4ff0-b321-3221c070c5a4",
+    "title": "Blockchain Research Intern",
+    "active": true,
+    "terms": [
+      "Spring 2024"
+    ],
+    "date_updated": 1722262368,
+    "date_posted": 1719616017,
+    "url": "https://job-boards.greenhouse.io/orderlynetwork/jobs/5961939003",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/OrderlyNetwork",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Skydio",
+    "id": "304e7296-a4d5-4940-91d8-26234b8a4f31",
+    "title": "Wireless Software Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1729193034,
+    "date_posted": 1729193034,
+    "url": "https://www.skydio.com/jobs/6220790003?gh_jid=6220790003",
+    "locations": [
+      "San Mateo, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Skydio",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
