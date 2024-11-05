@@ -24290,5 +24290,24 @@
     "company_url": "https://simplify.jobs/c/Zoox",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Suno",
+    "id": "e17ea1ac-5f7e-4016-b35a-eca570e8c10f",
+    "title": "Software Engineering Internship - Summer 2025",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1726326769,
+    "date_posted": 1726326769,
+    "url": "https://jobs.ashbyhq.com/suno/6237a7a4-2b5c-4f24-8616-1e2c437d4c2e/application",
+    "locations": [
+      "Cambridge, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/Suno",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
