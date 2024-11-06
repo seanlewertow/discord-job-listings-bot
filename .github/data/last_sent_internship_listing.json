@@ -24787,5 +24787,108 @@
     "date_posted": 1730906296,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Autodesk",
+    "id": "ba62f9bc-acf5-495e-a295-839bc347543b",
+    "title": "Intern \u2013 Software Developer",
+    "active": true,
+    "terms": [
+      "Winter 2025",
+      "Spring 2025",
+      "Summer 2025"
+    ],
+    "date_updated": 1730910328,
+    "date_posted": 1730910328,
+    "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/Intern--Software-Developer_24WD82630",
+    "locations": [
+      "Toronto, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Autodesk",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Autodesk",
+    "id": "8114de12-948d-4265-bfdc-ec384cfadeca",
+    "title": "Intern \u2013 Software Developer",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1730910331,
+    "date_posted": 1730910331,
+    "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Montreal-QC-CAN/Intern--Software-Developer_24WD82817",
+    "locations": [
+      "Montreal, QC, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Autodesk",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Autodesk",
+    "id": "0eea89a2-d5ec-4d4d-83bb-d3789583a71b",
+    "title": "Intern \u2013 Software Engineer",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1730910331,
+    "date_posted": 1730910331,
+    "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/California-USA---Remote/Intern--Software-Engineer_24WD81318",
+    "locations": [
+      "Novi, MI",
+      "Remote in USA",
+      "Denver, CO",
+      "Portland, OR"
+    ],
+    "company_url": "https://simplify.jobs/c/Autodesk",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Corelogic",
+    "id": "bffaf272-5464-4ac6-9257-b692440468fc",
+    "title": "Intern \u2013 Data Engineer",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1730909949,
+    "date_posted": 1730909949,
+    "url": "https://corelogic.wd5.myworkdayjobs.com/en-US/Global/job/Dallas-TX/Intern--Data-Engineer_REQ15611",
+    "locations": [
+      "Irvine, CA",
+      "Dallas, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/84f3bc2b-33c1-4bb0-af43-21bb8d59d639",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Symbotic",
+    "id": "d11fb6ae-8431-4b44-af17-9e12bfd6b21f",
+    "title": "Intern \u2013 Bot Field Analyst",
+    "active": true,
+    "terms": [
+      "Summer 2024",
+      "Spring 2025",
+      "Fall 2025"
+    ],
+    "date_updated": 1730909813,
+    "date_posted": 1730909813,
+    "url": "https://symbotic.wd1.myworkdayjobs.com/en-US/Symbotic/job/USA-Wilmington--MA---HQ/Intern---Bot-Field-Analyst_R4186",
+    "locations": [
+      "Burlington, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/symbotic",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
