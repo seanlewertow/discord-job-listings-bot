@@ -24558,5 +24558,81 @@
     "company_url": "https://simplify.jobs/c/Oshkosh",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Trace3",
+    "id": "3a75fefc-b9d1-4a6c-80f1-0ad33c1e21cf",
+    "title": "Data & Analytics Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1730852535,
+    "date_posted": 1730852535,
+    "url": "https://boards.greenhouse.io/trace3/jobs/6375609",
+    "locations": [
+      "Irvine, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Trace3",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Klue",
+    "id": "c40b7ace-ecfc-4ff0-a170-e8730f9fe57f",
+    "title": "Data Analyst Intern",
+    "active": true,
+    "terms": [
+      "Fall 2024"
+    ],
+    "date_updated": 1730852464,
+    "date_posted": 1730852464,
+    "url": "https://jobs.ashbyhq.com/klue/31d84e33-fc4c-468b-a71f-18a84737c830/application",
+    "locations": [
+      "Vancouver, BC, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/klue",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Nike",
+    "id": "1c8ea5be-83cd-470e-9e17-b033d3229c43",
+    "title": "Nike \u2013 Inc Digital Capabilities Graduate Internship",
+    "active": true,
+    "terms": [
+      "Summer 2024"
+    ],
+    "date_updated": 1730852434,
+    "date_posted": 1730852434,
+    "url": "https://nike.wd1.myworkdayjobs.com/en-US/nke/job/Beaverton-Oregon/NIKE--Inc-Digital-Capabilities-Graduate-Internship_R-44105",
+    "locations": [
+      "Beaverton, OR"
+    ],
+    "company_url": "https://simplify.jobs/c/Nike",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Story Protocol",
+    "id": "45e36401-4fc1-4cf9-9b08-acfb4138ae42",
+    "title": "Software Engineer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1730852274,
+    "date_posted": 1730852274,
+    "url": "https://jobs.lever.co/storyprotocol/daf2a96f-4213-4507-a72d-9081733749b8/apply",
+    "locations": [
+      "San Mateo, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/378eaba2-1db4-4157-96ba-6bdd824b407d",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
