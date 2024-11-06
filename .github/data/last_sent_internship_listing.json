@@ -24890,5 +24890,24 @@
     "company_url": "https://simplify.jobs/c/symbotic",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "The Trade Desk",
+    "id": "29acd598-2318-49f4-a228-324c0f225db5",
+    "title": "Business Intelligence Intern - Summer 2025",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1730924636,
+    "date_posted": 1730924636,
+    "url": "https://boards.greenhouse.io/thetradedesk/jobs/4559578007",
+    "locations": [
+      "Irvine, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/281371f9-4ed3-4440-876f-4bbeaa0d50e0",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
