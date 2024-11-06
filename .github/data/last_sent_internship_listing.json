@@ -24730,5 +24730,24 @@
     "date_posted": 1730870320,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Northrop Grumman",
+    "id": "2e9d41d9-3913-4980-bf64-bf469e055586",
+    "title": "2025 Software Engineer Intern - Annapolis MD",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1730881453,
+    "date_posted": 1730881453,
+    "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Maryland-Annapolis-Junction/XMLNAME-2025-Software-Engineer-Intern---Annapolis-MD_R10176417",
+    "locations": [
+      "Annapolis Junction, MD"
+    ],
+    "company_url": "https://simplify.jobs/c/238c95d8-0d6e-4717-b28c-078b16d675d7",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
