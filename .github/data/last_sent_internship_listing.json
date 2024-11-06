@@ -24909,5 +24909,64 @@
     "company_url": "https://simplify.jobs/c/281371f9-4ed3-4440-876f-4bbeaa0d50e0",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "AVEVA",
+    "id": "57926598-67f2-463f-893e-43cf7f674ee9",
+    "title": "Software Developer Intern - Drexel",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1730925595,
+    "date_posted": 1730925595,
+    "url": "https://aveva.wd3.myworkdayjobs.com/en-US/AVEVA_careers/job/Philadelphia-Pennsylvania-United-States-of-America/Software-Developer-Intern--Drexel-_R009747",
+    "locations": [
+      "Philadelphia, PA"
+    ],
+    "company_url": "https://simplify.jobs/c/35520d74-bb92-49ae-bee6-eac689a592ba",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Western Digital",
+    "id": "131ec445-a74e-47ae-b27a-e2799a1334fa",
+    "title": "RAMP Co-Op Read/Write Channel Firmware Engineer - Spring-Summer",
+    "active": true,
+    "terms": [
+      "Spring 2024",
+      "Summer 2024"
+    ],
+    "date_updated": 1730925226,
+    "date_posted": 1730925226,
+    "url": "https://jobs.smartrecruiters.com/WesternDigital/744000025080549",
+    "locations": [
+      "Rochester, MN"
+    ],
+    "company_url": "https://simplify.jobs/c/Western-Digital",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "GitHub",
+    "id": "7b4bd615-5477-42ce-bf5e-5430ef4357cb",
+    "title": "Software Engineering Intern",
+    "active": true,
+    "terms": [
+      "Winter 2025",
+      "Summer 2025"
+    ],
+    "date_updated": 1730925206,
+    "date_posted": 1730925206,
+    "url": "https://githubinc.jibeapply.com/jobs/3569?lang=en-us&icims=1",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/GitHub",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
