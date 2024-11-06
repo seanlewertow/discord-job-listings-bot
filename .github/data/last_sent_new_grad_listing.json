@@ -4321,5 +4321,69 @@
     "company_url": "https://simplify.jobs/c/Parafin",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "ELEVI Associates",
+    "id": "9e8b1056-3718-4951-9d99-bf6393843788",
+    "title": "Entry Level Front End Developer",
+    "active": true,
+    "date_updated": 1730851846,
+    "date_posted": 1730851846,
+    "url": "https://job-boards.greenhouse.io/eleviassociates/jobs/6264397003",
+    "locations": [
+      "Annapolis Junction, MD"
+    ],
+    "company_url": "https://simplify.jobs/c/ELEVI-Associates",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "ICF",
+    "id": "cfa82296-4157-47e8-87d3-9fdac8c04845",
+    "title": "Associate Software Engineer \u2013 December 2024 Grad - Remote",
+    "active": true,
+    "date_updated": 1730852531,
+    "date_posted": 1730852531,
+    "url": "https://icf.wd5.myworkdayjobs.com/en-US/ICFExternal_Career_Site/job/Albany-NY/Associate-Software-Engineer_R2403756",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/750f50d0-c3f8-4334-822f-fb70fa81b529",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "date_updated": 1730856958,
+    "url": "https://job-boards.greenhouse.io/sproutsocialcollege/jobs/6169382",
+    "company_name": "Sprout Social",
+    "title": "Associate Software Engineer",
+    "locations": [
+      "Remote"
+    ],
+    "sponsorship": "Does Not Offer Sponsorship",
+    "active": true,
+    "source": "JosephTJennings",
+    "id": "534aec3f-8003-4697-9e0c-da87138eb006",
+    "date_posted": 1730856958,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1730857080,
+    "url": "https://job-boards.greenhouse.io/sproutsocialcollege/jobs/6230427",
+    "company_name": "Sprout Social",
+    "title": "Associate Data Scientist",
+    "locations": [
+      "Remote"
+    ],
+    "sponsorship": "Does Not Offer Sponsorship",
+    "active": true,
+    "source": "JosephTJennings",
+    "id": "59081840-49f5-40ae-a0a4-96a607f89f4d",
+    "date_posted": 1730857080,
+    "company_url": "",
+    "is_visible": true
   }
 ]
