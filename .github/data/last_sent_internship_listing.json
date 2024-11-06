@@ -24768,5 +24768,24 @@
     "company_url": "https://simplify.jobs/c/Disney",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "date_updated": 1730906296,
+    "url": "https://app.ripplematch.com/v2/public/job/092cf91c/details",
+    "company_name": "eBay",
+    "title": "Mobile Software Engineer Intern",
+    "locations": [
+      "Portland, OR, USA"
+    ],
+    "terms": [
+      "Summer 2025"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "source": "mtlogs",
+    "id": "abbd2f0f-95e4-4dd9-9e3a-7eaefb15ea96",
+    "date_posted": 1730906296,
+    "company_url": "",
+    "is_visible": true
   }
 ]
