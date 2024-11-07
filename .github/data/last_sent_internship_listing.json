@@ -25125,5 +25125,24 @@
     "company_url": "https://simplify.jobs/c/Five-Rings",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "date_updated": 1730956345,
+    "url": "https://careers.nintendo.com/job-openings/listing/240000009V.html",
+    "company_name": "Nintendo",
+    "title": "Intern - Software Engineer",
+    "locations": [
+      "Redmond, WA"
+    ],
+    "terms": [
+      "Summer 2025"
+    ],
+    "sponsorship": "Does Not Offer Sponsorship",
+    "active": true,
+    "source": "GaryZhous",
+    "id": "cfbed511-b3c0-44d5-bb86-ed0e9ba8ecd7",
+    "date_posted": 1730956345,
+    "company_url": "",
+    "is_visible": true
   }
 ]
