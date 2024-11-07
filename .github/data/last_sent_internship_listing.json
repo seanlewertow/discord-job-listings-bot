@@ -25407,5 +25407,65 @@
     "company_url": "https://simplify.jobs/c/Autodesk",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "date_updated": 1731001414,
+    "url": "https://app.ripplematch.com/v2/public/job/2d0802b2/details?from_page=company_branded_page",
+    "company_name": "eBay",
+    "title": "Software Engineer Intern - Mobile (Canada)",
+    "locations": [
+      "Toronto, ON, Canada"
+    ],
+    "terms": [
+      "Summer 2025"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "source": "mtlogs",
+    "id": "cceb0562-4b8d-4355-8e23-d6248610458b",
+    "date_posted": 1731001414,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1731001451,
+    "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Linthicum-MD/Federal-Systems-Engineering-Intern--2025-Summer-Internship-_R51031-1?source=APPLICANT_SOURCE-6-250",
+    "company_name": "Motorola",
+    "title": "Software Engineer Intern",
+    "locations": [
+      "Linthicum, MD",
+      "Virginia, US",
+      "Washington DC, US",
+      "Maryland, US"
+    ],
+    "terms": [
+      "Summer 2025"
+    ],
+    "sponsorship": "U.S. Citizenship is Required",
+    "active": true,
+    "source": "LuaanNguyen",
+    "id": "597eabf8-8761-4a3c-a174-9018a5d3cf32",
+    "date_posted": 1731001451,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1731001554,
+    "url": "https://app.ripplematch.com/v2/public/job/32beb203/details?from_page=company_branded_page",
+    "company_name": "eBay",
+    "title": "Software Engineer Intern - (Canada)",
+    "locations": [
+      "Toronto, ON, Canada"
+    ],
+    "terms": [
+      "Summer 2025"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "source": "mtlogs",
+    "id": "da0e6e07-58b4-4288-96c1-99a299c3c11c",
+    "date_posted": 1731001554,
+    "company_url": "",
+    "is_visible": true
   }
 ]
