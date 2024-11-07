@@ -25006,5 +25006,64 @@
     "company_url": "https://simplify.jobs/c/6a7a42d3-327f-4b48-a7a7-c68f405e3396",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Charles River Associates (CRA)",
+    "id": "a7e5e251-ac28-41f2-8f4b-3810bc846212",
+    "title": "2026 Bachelor's/Master's graduates \u2013 Data Analytics Consulting Analyst/Associate Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1730925284,
+    "date_posted": 1730925284,
+    "url": "https://boards.greenhouse.io/charlesriverassociates/jobs/6104226",
+    "locations": [
+      "Summit, NJ",
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/d4f97dc1-3bd7-4767-8ce4-7becb28a3775",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "date_updated": 1730944079,
+    "url": "https://app.ripplematch.com/v2/public/job/0787b785/details?from_page=company_branded_page",
+    "company_name": "ABB",
+    "title": "Technical Support Specialist Intern",
+    "locations": [
+      "New Berlin, WI"
+    ],
+    "terms": [
+      "Summer 2025"
+    ],
+    "sponsorship": "U.S. Citizenship is Required",
+    "active": true,
+    "source": "mtlogs",
+    "id": "04f56bf5-ab73-4439-a027-60c135da1986",
+    "date_posted": 1730944079,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1730944099,
+    "url": "https://app.ripplematch.com/v2/public/job/bedfc45d/details?from_page=company_branded_page",
+    "company_name": "ABB",
+    "title": "IT Intern - Spring & Summer 2025",
+    "locations": [
+      "Fort Smith, AR"
+    ],
+    "terms": [
+      "Summer 2025",
+      "Spring 2025"
+    ],
+    "sponsorship": "U.S. Citizenship is Required",
+    "active": true,
+    "source": "mtlogs",
+    "id": "a44e4217-e064-45d1-88da-e41725fc5b16",
+    "date_posted": 1730944099,
+    "company_url": "",
+    "is_visible": true
   }
 ]
