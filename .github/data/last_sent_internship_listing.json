@@ -25065,5 +25065,27 @@
     "date_posted": 1730944099,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Adobe",
+    "id": "a5e3a711-fcd6-47eb-80ca-c3e4fccadea7",
+    "title": "2025 Intern - Finance Data Scientist",
+    "active": true,
+    "terms": [
+      "Spring 2025",
+      "Summer 2025",
+      "Fall 2025"
+    ],
+    "date_updated": 1729107585,
+    "date_posted": 1729107585,
+    "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Francisco/XMLNAME-2025-Intern---Finance-Data-Scientist_R148742",
+    "locations": [
+      "SF",
+      "San Jose, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Adobe",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
