@@ -4481,5 +4481,21 @@
     "company_url": "https://simplify.jobs/c/Global-Relay",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Applied Materials",
+    "id": "fd136ac0-9fbf-4e3b-ba65-203141cc270b",
+    "title": "2025 University Graduate - Software Engineer - Bachelor's Degree",
+    "active": true,
+    "date_updated": 1730946207,
+    "date_posted": 1729134869,
+    "url": "https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/Software-Engineer---Bachelor-s-Degree_R2418574",
+    "locations": [
+      "Santa Clara, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Applied-Materials",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
