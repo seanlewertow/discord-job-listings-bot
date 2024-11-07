@@ -24968,5 +24968,43 @@
     "company_url": "https://simplify.jobs/c/GitHub",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Gesture",
+    "id": "953a7684-f58f-4416-b48b-0e5120e21ec0",
+    "title": "Data Science Engineering Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1730938241,
+    "date_posted": 1730938241,
+    "url": "https://gesture-us-inc.breezy.hr/p/b48d6376f1d5/apply",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/50f4de28-242d-4456-950c-e71d73d15169",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "The Federal Reserve System",
+    "id": "dba999eb-6a17-4025-ab92-a8d31f4f4455",
+    "title": "Summer 2025 Intern - Mobile Engineer - Associate",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1730938766,
+    "date_posted": 1730938766,
+    "url": "https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Dallas-TX/Summer-2025-Intern---Mobile-Engineer--Associate_R-0000026575",
+    "locations": [
+      "Dallas, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/6a7a42d3-327f-4b48-a7a7-c68f405e3396",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
