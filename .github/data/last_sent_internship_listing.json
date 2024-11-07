@@ -25312,5 +25312,100 @@
     "company_url": "https://simplify.jobs/c/DV-Trading",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Coalition",
+    "id": "1c44c866-a640-41f8-b702-9c074eedab3c",
+    "title": "Backend Engineer Internship",
+    "active": true,
+    "terms": [
+      "Summer 2024"
+    ],
+    "date_updated": 1730996112,
+    "date_posted": 1730996112,
+    "url": "https://careers.coalitioninc.com/job-posting/?gh_jid=4493652005",
+    "locations": [
+      "Remote in Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Coalition",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Coalition",
+    "id": "d459dd05-75c6-4465-b200-6b60caae21a6",
+    "title": "Backend Engineer Internship",
+    "active": true,
+    "terms": [
+      "Summer 2024"
+    ],
+    "date_updated": 1730996111,
+    "date_posted": 1730996111,
+    "url": "https://careers.coalitioninc.com/job-posting/?gh_jid=4493650005",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/Coalition",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Chainguard",
+    "id": "0fec506d-9378-4da6-985c-dea67abd1345",
+    "title": "Software Engineer Intern - Packaging",
+    "active": true,
+    "terms": [
+      "Fall 2023"
+    ],
+    "date_updated": 1730995712,
+    "date_posted": 1730995712,
+    "url": "https://job-boards.greenhouse.io/chainguard/jobs/4417184006",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/Chainguard",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Motorola",
+    "id": "fd746366-3d1d-4289-8967-044339fbcfca",
+    "title": "Software Development 2024 Co-Op",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1730996238,
+    "date_posted": 1730996238,
+    "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/ONT39/Software-Development-2024-Co-Op_R51330-1",
+    "locations": [
+      "United States"
+    ],
+    "company_url": "https://simplify.jobs/c/MotorolaSolutions",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Autodesk",
+    "id": "0532979d-9528-4a6a-ab3a-123696447cb9",
+    "title": "Intern \u2013 Data Analyst",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1730996200,
+    "date_posted": 1730996200,
+    "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/California-USA---Remote/Intern--Data-Analyst_24WD83293-1",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/Autodesk",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
