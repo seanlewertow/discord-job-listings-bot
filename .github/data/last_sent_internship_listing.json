@@ -25087,5 +25087,43 @@
     "company_url": "https://simplify.jobs/c/Adobe",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Splunk",
+    "id": "ac353472-3ffd-40b6-ad7c-16cf1e470a9b",
+    "title": "C++ Software Engineer Intern - Boulder - CO - Summer 2025",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1730952929,
+    "date_posted": 1730952929,
+    "url": "https://jobs.jobvite.com/splunk-careers/job/ow2OufwA?nl=1&nl=1&fr=false",
+    "locations": [
+      "Boulder, CO"
+    ],
+    "company_url": "https://simplify.jobs/c/Splunk",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Five Rings Capital",
+    "id": "6c6988bb-c028-49a7-9e03-888e579b3e82",
+    "title": "Summer Intern 2025 - Quantitative Trader",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1730693800,
+    "date_posted": 1730693800,
+    "url": "https://job-boards.greenhouse.io/fiveringsllc/jobs/4069542008",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Five-Rings",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
