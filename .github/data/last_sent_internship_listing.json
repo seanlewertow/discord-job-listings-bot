@@ -25247,5 +25247,70 @@
     "company_url": "https://simplify.jobs/c/DV-Trading",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Dow Jones",
+    "id": "9d402ce0-2dc8-45d8-9a55-48cd40713f4e",
+    "title": "Summer 2025 Internship \u2013 Intern - Marketing Data Science - Modeling & Forecasting",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1726861076,
+    "date_posted": 1726861076,
+    "url": "https://dowjones.wd1.myworkdayjobs.com/en-US/Dow_Jones_Career/job/NYC---1211-Ave-of-the-Americas/Summer-2025-Internship---Marketing-Data-Science--Modeling---Forecasting--Intern_Job_Req_43186",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Dow-Jones",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "AeroVironment",
+    "id": "4b1fcfaa-ad18-4af4-9798-40f6da874c9d",
+    "title": "2025 Summer Internship - Systems Engineer",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1726528663,
+    "date_posted": 1726528663,
+    "url": "https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Moorpark-CA/XMLNAME-2025-Summer-Internship---Systems-Engineer_4952",
+    "locations": [
+      "Arlington, VA",
+      "Melbourne, FL",
+      "Petaluma, CA",
+      "Lawrence, KS",
+      "Minneapolis, MN",
+      "Huntsville, AL",
+      "San Diego, CA",
+      "Moorpark, CA",
+      "Simi Valley, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/AeroVironment",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "DV Trading",
+    "id": "67f2e459-72e4-4d51-b6d8-944cfc779f9e",
+    "title": "2025 Summer Internship - Trader - DV Equities",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1730842149,
+    "date_posted": 1730842149,
+    "url": "https://boards.greenhouse.io/dvtrading/jobs/4494146005",
+    "locations": [
+      "London, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/DV-Trading",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
