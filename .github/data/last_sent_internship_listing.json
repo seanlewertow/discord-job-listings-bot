@@ -25663,5 +25663,24 @@
     "date_posted": 1731043419,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Alcon",
+    "id": "9cf8edd0-1a7b-48a0-8908-36957bd9b273",
+    "title": "Summer 2025 Intern - Fiber Engineering",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1731053555,
+    "date_posted": 1731053555,
+    "url": "https://alcon.wd5.myworkdayjobs.com/careers_alcon/job/Lake-Forest-California/Summer-2025-Intern---Fiber-Engineering_R-2024-35966",
+    "locations": [
+      "Lake Forest, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/alcon",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
