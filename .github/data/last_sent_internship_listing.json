@@ -25701,5 +25701,100 @@
     "company_url": "https://simplify.jobs/c/Rivian",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Nethermind",
+    "id": "334574ea-3a6b-439a-a955-e910557c9307",
+    "title": "Internship Program 2024",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1731082805,
+    "date_posted": 1731082805,
+    "url": "https://job-boards.eu.greenhouse.io/nethermind/jobs/4104204101",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/Nethermind",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Allegion",
+    "id": "12aab9f2-ffea-43e3-9091-543e21c606a9",
+    "title": "Digital Manufacturing Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1731082669,
+    "date_posted": 1731082669,
+    "url": "https://allegion.wd5.myworkdayjobs.com/careers/job/Indianapolis-IN---Tobey-Dr/Digital-Manufacturing-Intern_JR30948",
+    "locations": [
+      "Indianapolis, IN"
+    ],
+    "company_url": "https://simplify.jobs/c/allegion",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Rivian",
+    "id": "d8cae233-62ed-4545-aae6-ff721569e780",
+    "title": "Software Engineering Intern - Data Operations - Machine Learning",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1731082543,
+    "date_posted": 1731082543,
+    "url": "https://careers.rivian.com/jobs/20004?lang=en-us&icims=1",
+    "locations": [
+      "Palo Alto, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Rivian",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Rivian",
+    "id": "5d2eeac2-407b-489a-90b0-ded3d03a32b8",
+    "title": "Software Engineering Intern - Data Operations - Machine Learning",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1731082543,
+    "date_posted": 1731082543,
+    "url": "https://careers.rivian.com/jobs/20003?lang=en-us&icims=1",
+    "locations": [
+      "Palo Alto, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Rivian",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Rivian",
+    "id": "4f2c8f0b-290f-432b-aaa9-c0d8a97e4bd8",
+    "title": "Software Engineering Intern - Autonomous Features - Systems Engineering",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1731082548,
+    "date_posted": 1731082548,
+    "url": "https://careers.rivian.com/jobs/20001?lang=en-us&icims=1",
+    "locations": [
+      "Palo Alto, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Rivian",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
