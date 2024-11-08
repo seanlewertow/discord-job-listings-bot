@@ -25583,5 +25583,45 @@
     "company_url": "https://simplify.jobs/c/Blizzard-Entertainment",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Adobe",
+    "id": "af3df695-dd03-432c-a4ec-776d88cb533c",
+    "title": "2025 Intern - Research Scientist/Engineer",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1731039540,
+    "date_posted": 1731039540,
+    "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2025-Intern---Research-Scientist-Engineer_R150307",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Adobe",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Autodesk",
+    "id": "44634b05-5a98-445b-99dc-7b79711cae02",
+    "title": "Intern \u2013 Research Engineer - Real-Time Simulation & Artificial Intelligence",
+    "active": true,
+    "terms": [
+      "Spring 2025",
+      "Summer 2025",
+      "Fall 2025"
+    ],
+    "date_updated": 1731039479,
+    "date_posted": 1731039479,
+    "url": "https://autodesk.wd1.myworkdayjobs.com/en-US/uni/job/Florida-USA---Remote/Intern--Research-Engineer--Real-Time-Simulation---Artificial-Intelligence_24WD82931",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/9a5a4634-d168-4118-b172-0c0aae45f2ad",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
