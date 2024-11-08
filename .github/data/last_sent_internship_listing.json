@@ -25815,5 +25815,43 @@
     "company_url": "https://simplify.jobs/c/Red-Ventures",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Skydio",
+    "id": "98fda44f-b0d4-46ed-bf92-43b5ea94aa66",
+    "title": "Embedded Software Engineer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1731097387,
+    "date_posted": 1731097387,
+    "url": "https://www.skydio.com/jobs/6220441003?gh_jid=6220441003",
+    "locations": [
+      "San Mateo, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Skydio",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "SharkNinja",
+    "id": "9ee2ce99-4903-480b-9140-2e904116afab",
+    "title": "Spring 2025: Global Privacy & Governance Co-op - January through June",
+    "active": true,
+    "terms": [
+      "Spring 2025"
+    ],
+    "date_updated": 1731097162,
+    "date_posted": 1731097162,
+    "url": "https://www.sharkninja.com/careers/?gh_jid=4417471006",
+    "locations": [
+      "Needham, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/SharkNinja",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
