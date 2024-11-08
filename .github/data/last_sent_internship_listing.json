@@ -25853,5 +25853,100 @@
     "company_url": "https://simplify.jobs/c/SharkNinja",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Yahoo",
+    "id": "bab9461d-f134-4e53-a120-5b114b0f7bbe",
+    "title": "ALL Yahoo Software Engineering Internships - US - Apply Here",
+    "active": true,
+    "terms": [
+      "Summer 2024"
+    ],
+    "date_updated": 1731098296,
+    "date_posted": 1731098296,
+    "url": "https://ouryahoo.wd5.myworkdayjobs.com/en-US/careers/job/United-States-of-America---Remote/ALL-Yahoo-Software-Engineering-Internships--US----Apply-Here-_JR0025188",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/Yahoo",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Brooks Automation",
+    "id": "cecf461f-f1b7-4206-82ed-33fbaff8dc11",
+    "title": "Computer Science Intern - Summer 2025",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1731098381,
+    "date_posted": 1731098381,
+    "url": "https://brooksauto.wd1.myworkdayjobs.com/en-US/Brooks_External_Site/job/Chelmsford-MA/Computer-Science-Intern--Summer-2025-_R2297",
+    "locations": [
+      "Lowell, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/190ae898-a199-4c93-b2ce-50b07b110a17",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Recursion Pharmaceuticals",
+    "id": "762d2246-e90b-4280-8c53-5133092ffcbb",
+    "title": "Software Engineering Internship - Slc",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1731097271,
+    "date_posted": 1731097271,
+    "url": "https://job-boards.greenhouse.io/recursionpharmaceuticals/jobs/6380018",
+    "locations": [
+      "Salt Lake City, UT"
+    ],
+    "company_url": "https://simplify.jobs/c/RecursionPharma",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "HashiCorp",
+    "id": "9b8a4ec8-a228-476a-a6e9-1f25596dfafa",
+    "title": "Software Engineering Intern - Undergraduate",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1731098048,
+    "date_posted": 1731098048,
+    "url": "https://www.hashicorp.com/career/6380117?gh_jid=6380117",
+    "locations": [
+      "Austin, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/HashiCorp",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "HashiCorp",
+    "id": "bb5c9578-cfd0-4606-bc18-abc7c217961c",
+    "title": "Software Engineering Intern - Undergraduate",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1731098046,
+    "date_posted": 1731098046,
+    "url": "https://www.hashicorp.com/career/6380118?gh_jid=6380118",
+    "locations": [
+      "SF"
+    ],
+    "company_url": "https://simplify.jobs/c/HashiCorp",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
