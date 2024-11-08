@@ -25796,5 +25796,24 @@
     "company_url": "https://simplify.jobs/c/Rivian",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Red Ventures",
+    "id": "233855ba-7f7b-4e33-bb03-06c1ffbbbacb",
+    "title": "2025 Launch Program: Data Science Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1731096865,
+    "date_posted": 1731096865,
+    "url": "https://www.redventures.com/careers/positions/open?gh_jid=6356231",
+    "locations": [
+      "Charlotte, NC"
+    ],
+    "company_url": "https://simplify.jobs/c/Red-Ventures",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
