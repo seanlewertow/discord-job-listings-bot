@@ -25682,5 +25682,24 @@
     "company_url": "https://simplify.jobs/c/alcon",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Rivian",
+    "id": "6c70703f-e752-42a4-88f0-a6ea65b04cf1",
+    "title": "Software Engineering Intern - Data Applications - Machine Learning",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1731082439,
+    "date_posted": 1731082439,
+    "url": "https://careers.rivian.com/jobs/20005?lang=en-us&icims=1",
+    "locations": [
+      "Palo Alto, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Rivian",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
