@@ -25467,5 +25467,102 @@
     "date_posted": 1731001554,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Leidos",
+    "id": "fa31268f-dece-4de7-a012-09abbc185cc5",
+    "title": "Software Engineer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1731025162,
+    "date_posted": 1731025162,
+    "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Tucson-AZ/Software-Engineer-Intern_R-00147572",
+    "locations": [
+      "Tucson, AZ"
+    ],
+    "company_url": "https://simplify.jobs/c/Leidos",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Motorola",
+    "id": "96f65049-a0dc-45f4-9a4f-dbe998e26215",
+    "title": "Software Development 2024 Co-Op",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1731025092,
+    "date_posted": 1731025092,
+    "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/ONT39/Software-Development-2024-Co-Op_R51329",
+    "locations": [
+      "United States"
+    ],
+    "company_url": "https://simplify.jobs/c/MotorolaSolutions",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Nelnet",
+    "id": "0ff02514-79c7-45e0-9aaa-373c3ce5220f",
+    "title": "Intern \u2013 IT Software Engineer - Voice",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1731025072,
+    "date_posted": 1731025072,
+    "url": "https://nelnet.wd1.myworkdayjobs.com/en-US/MyNelnet/job/Lincoln-NE/Intern---IT-Software-Engineer---Voice_R20258",
+    "locations": [
+      "Madison, WI",
+      "Centennial, CO",
+      "Lincoln, NE"
+    ],
+    "company_url": "https://simplify.jobs/c/d7662126-9bc7-4ec4-b3e6-a9a3ae307c5d",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Quora",
+    "id": "6d3e693b-2541-4050-983f-b7775ce7ea0f",
+    "title": "Machine Learning Engineer Intern - Canada - Remote",
+    "active": true,
+    "terms": [
+      "Spring 2024"
+    ],
+    "date_updated": 1731025032,
+    "date_posted": 1731025032,
+    "url": "https://jobs.ashbyhq.com/quora/41c6c3f3-e891-43d5-880b-f13d977a32d0/application",
+    "locations": [
+      "Remote in Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Quora",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Bloomberg Industry Group",
+    "id": "674a89e4-6be1-4cab-8e72-b79835fe0854",
+    "title": "2025 Finance Planning & Analytics Intern",
+    "active": true,
+    "terms": [
+      "Summer 2024"
+    ],
+    "date_updated": 1731025019,
+    "date_posted": 1731025019,
+    "url": "https://bloomberg.wd1.myworkdayjobs.com/en-US/Bloombergindustrygroup_External_Career_Site/job/Arlington---1801-S-Bell-INDG/XMLNAME-2025-Finance-Planning---Analytics-Intern_131329",
+    "locations": [
+      "Arlington, VA"
+    ],
+    "company_url": "https://simplify.jobs/c/1159ff04-5c95-4f2c-aa33-185e11b5cabd",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
