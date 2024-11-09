@@ -26062,5 +26062,45 @@
     "company_url": "https://simplify.jobs/c/ServiceNow",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Spark Climate Solutions",
+    "id": "8fb86039-9bed-464e-8fab-a26323869643",
+    "title": "AI Software Engineer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1731125654,
+    "date_posted": 1731125654,
+    "url": "https://jobs.lever.co/convergentresearch/9802fb09-cd51-4984-8e61-5ecdea0b995b/apply",
+    "locations": [
+      "Belmont, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/Spark-Climate-Solutions",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Gusto",
+    "id": "a303965c-ec4c-4176-847e-cd2fd4edf9fe",
+    "title": "Software Engineering Intern - Summer 2025",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1731125771,
+    "date_posted": 1731125771,
+    "url": "https://boards.greenhouse.io/gusto/jobs/6383521",
+    "locations": [
+      "SF",
+      "NYC",
+      "Denver, CO"
+    ],
+    "company_url": "https://simplify.jobs/c/Gusto",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
