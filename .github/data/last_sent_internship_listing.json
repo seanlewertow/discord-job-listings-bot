@@ -26102,5 +26102,43 @@
     "company_url": "https://simplify.jobs/c/Gusto",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "date_updated": 1731129798,
+    "url": "https://careers.rtx.com/global/en/job/RAYTGLOBAL01736604EXTERNALENGLOBAL/Software-Engineering-Co-op-2025",
+    "company_name": "Collins Aerospace",
+    "title": "Software Engineering Co-op (2025)",
+    "locations": [
+      "Wilsonville, OR"
+    ],
+    "terms": [
+      "Summer 2025"
+    ],
+    "sponsorship": "U.S. Citizenship is Required",
+    "active": true,
+    "source": "GaryZhous",
+    "id": "bd5b6e72-9c1e-4040-bcfc-7d3b7dd9e391",
+    "date_posted": 1731129798,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1731129913,
+    "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/12831",
+    "company_name": "Nokia",
+    "title": "Software Developer Intern",
+    "locations": [
+      "Naperville, IL"
+    ],
+    "terms": [
+      "Summer 2025"
+    ],
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "source": "GaryZhous",
+    "id": "bb8f1d49-4922-42c7-b3e2-f9b1b0f4225a",
+    "date_posted": 1731129913,
+    "company_url": "",
+    "is_visible": true
   }
 ]
