@@ -25948,5 +25948,100 @@
     "company_url": "https://simplify.jobs/c/HashiCorp",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Modernizing Medicine",
+    "id": "72abf572-de56-44b3-9e1e-118b3f231cf0",
+    "title": "Ggastro \u2013 Software Engineering Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1731111564,
+    "date_posted": 1731111564,
+    "url": "https://www.modmed.com/company/careers/?gh_jid=7683317002",
+    "locations": [
+      "Boca Raton, FL"
+    ],
+    "company_url": "https://simplify.jobs/c/ModMed",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Modernizing Medicine",
+    "id": "91a6dff8-da57-4397-804a-8c0003532fb2",
+    "title": "Data Engineering Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1731111563,
+    "date_posted": 1731111563,
+    "url": "https://www.modmed.com/company/careers/?gh_jid=7668800002",
+    "locations": [
+      "Boca Raton, FL"
+    ],
+    "company_url": "https://simplify.jobs/c/ModMed",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Modernizing Medicine",
+    "id": "be137d12-c7bf-4531-aa40-a7f2e3710bd0",
+    "title": "Java/Angular Software Engineer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1731111563,
+    "date_posted": 1731111563,
+    "url": "https://www.modmed.com/company/careers/?gh_jid=7677145002",
+    "locations": [
+      "Boca Raton, FL"
+    ],
+    "company_url": "https://simplify.jobs/c/ModMed",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Modernizing Medicine",
+    "id": "ddb11dbb-6ead-4260-b727-9d813aa00dd1",
+    "title": "Data Science Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1731111562,
+    "date_posted": 1731111562,
+    "url": "https://www.modmed.com/company/careers/?gh_jid=7683329002",
+    "locations": [
+      "Boca Raton, FL"
+    ],
+    "company_url": "https://simplify.jobs/c/ModMed",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Modernizing Medicine",
+    "id": "7dbdedb6-f7c1-4585-9f71-e64463521935",
+    "title": "Klara Software Engineering Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1731111566,
+    "date_posted": 1731111566,
+    "url": "https://www.modmed.com/company/careers/?gh_jid=7687401002",
+    "locations": [
+      "Boca Raton, FL"
+    ],
+    "company_url": "https://simplify.jobs/c/ModMed",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
