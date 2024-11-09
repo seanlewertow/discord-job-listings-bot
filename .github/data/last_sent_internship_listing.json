@@ -26043,5 +26043,24 @@
     "company_url": "https://simplify.jobs/c/ModMed",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "ServiceNow",
+    "id": "101bb2e3-d524-40f5-ad71-64ca6857e0dd",
+    "title": "Associate Machine Learning Engineer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1731125489,
+    "date_posted": 1731125489,
+    "url": "https://jobs.smartrecruiters.com/ServiceNow/744000025583945",
+    "locations": [
+      "Montreal, QC, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/ServiceNow",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
