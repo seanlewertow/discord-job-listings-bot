@@ -26140,5 +26140,43 @@
     "date_posted": 1731129913,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Blockhouse",
+    "id": "f6cfa766-28bc-47ac-beb9-ba5a6ff2c810",
+    "title": "Technical PM Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1731184068,
+    "date_posted": 1731184068,
+    "url": "https://jobs.ashbyhq.com/blockhouse/9f9ab63d-d1a5-4af6-90b5-c3a0a2df0782/application",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/f3c7b41f-e7d9-4771-b0c7-f54003717b71",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Dialpad",
+    "id": "7a2b76c2-db2f-46d2-ad13-f3140fc7415b",
+    "title": "Co-op \u2013 Software Engineer - NLP",
+    "active": true,
+    "terms": [
+      "Winter 2025"
+    ],
+    "date_updated": 1731183603,
+    "date_posted": 1731183603,
+    "url": "https://job-boards.greenhouse.io/dialpad/jobs/7717942002",
+    "locations": [
+      "Vancouver, BC, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Dialpad",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
