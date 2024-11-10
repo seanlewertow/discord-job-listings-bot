@@ -26178,5 +26178,24 @@
     "company_url": "https://simplify.jobs/c/Dialpad",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Northrop Grumman",
+    "id": "2adf7569-5148-4fbe-b5ba-13708131d2b6",
+    "title": "2025 \u2013 Cyber Software Intern-San Jose CA",
+    "active": true,
+    "terms": [
+      "Summer 2024"
+    ],
+    "date_updated": 1731198143,
+    "date_posted": 1731198143,
+    "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-San-Jose/XMLNAME-2025---Cyber-Software-Intern--San-Jose-CA_R10175871",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/238c95d8-0d6e-4717-b28c-078b16d675d7",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
