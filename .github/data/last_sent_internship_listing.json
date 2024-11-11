@@ -26352,5 +26352,43 @@
     "date_posted": 1731346615,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Corelogic",
+    "id": "6ea3016f-0da8-4b1a-b6a9-2bcb129f6e2d",
+    "title": "Intern \u2013 Software Engineer - Dallas - TX",
+    "active": true,
+    "terms": [
+      "Spring 2024"
+    ],
+    "date_updated": 1731356400,
+    "date_posted": 1731356400,
+    "url": "https://corelogic.wd5.myworkdayjobs.com/en-US/Global/job/Dallas-TX/Intern--Software-Engineer--Dallas--TX-_REQ15617",
+    "locations": [
+      "Dallas, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/84f3bc2b-33c1-4bb0-af43-21bb8d59d639",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Corelogic",
+    "id": "58371f81-ab4a-4ecc-8e62-ebe6775a7e62",
+    "title": "Intern \u2013 Software Engineer - Austin - TX",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1731356398,
+    "date_posted": 1731356398,
+    "url": "https://corelogic.wd5.myworkdayjobs.com/en-US/Global/job/Austin-TX/Intern--Software-Engineer_REQ15733",
+    "locations": [
+      "Austin, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/84f3bc2b-33c1-4bb0-af43-21bb8d59d639",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
