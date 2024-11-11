@@ -26314,5 +26314,43 @@
     "company_url": "https://simplify.jobs/c/MotorolaSolutions",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "date_updated": 1731346582,
+    "url": "https://recruit.hirebridge.com/v3/careercenter/v2/details.aspx?jid=599749&cid=7844&locvalue=10261026&bid=8",
+    "company_name": "Numerator",
+    "title": "Engineering Intern",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "terms": [
+      "Summer 2025"
+    ],
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "source": "GaryZhous",
+    "id": "6e2ed43f-2d73-42e9-9239-2bf47cb3922b",
+    "date_posted": 1731346582,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1731346615,
+    "url": "https://aptiv.wd5.myworkdayjobs.com/APTIV_CAREERS/job/Troy-MI---USA/Software-Engineering-Intern_J000671929",
+    "company_name": "Aptiv",
+    "title": "Software Engineer Intern",
+    "locations": [
+      "Troy, MI"
+    ],
+    "terms": [
+      "Summer 2025"
+    ],
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "source": "LuaanNguyen",
+    "id": "26e66096-065d-472a-8901-2d5d5b9c9dde",
+    "date_posted": 1731346615,
+    "company_url": "",
+    "is_visible": true
   }
 ]
