@@ -26219,5 +26219,100 @@
     "company_url": "https://simplify.jobs/c/CVS",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Motorola",
+    "id": "f5c57622-31ff-4ea0-b1de-2fbb027e0834",
+    "title": "Software Engineering Intern - Summer 2025",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1731341853,
+    "date_posted": 1731341853,
+    "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Allen-TX-TX139/Software-Engineering-Intern---Summer-2025_R50875",
+    "locations": [
+      "Allen, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/MotorolaSolutions",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Motorola",
+    "id": "f08b0343-623f-4142-9a24-0e614785312b",
+    "title": "2025 Summer Internship - Embedded Software Engineer",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1731341850,
+    "date_posted": 1731341850,
+    "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Schaumburg-IL/XMLNAME-2025-Summer-Internship---Embedded-Software-Engineer_R51587-1",
+    "locations": [
+      "Hoffman Estates, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/MotorolaSolutions",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "GlossGenius",
+    "id": "b1bf78a4-3cac-410a-85e1-bd7ae967f976",
+    "title": "Engineering Intern - Summer 2025",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1731341680,
+    "date_posted": 1731341680,
+    "url": "https://job-boards.greenhouse.io/glossgenius/jobs/6220947003",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/GlossGenius",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "EquipmentShare",
+    "id": "9b62b13f-44a6-4bca-bd5e-53b4603767db",
+    "title": "Intern: Software Engineer",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1731341571,
+    "date_posted": 1731341571,
+    "url": "https://www.equipmentshare.com/careers/openings/?gh_jid=6388126",
+    "locations": [
+      "Columbia, MO"
+    ],
+    "company_url": "https://simplify.jobs/c/Equipment-Share",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Motorola",
+    "id": "f6f354d6-3280-4829-85f1-eb3571cdd480",
+    "title": "Product and Data Research Intern - Summer 2025",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1731341860,
+    "date_posted": 1731341860,
+    "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Allen-TX-TX139/Product-and-Data-Research-Intern---Summer-2025_R50990",
+    "locations": [
+      "Allen, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/MotorolaSolutions",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
