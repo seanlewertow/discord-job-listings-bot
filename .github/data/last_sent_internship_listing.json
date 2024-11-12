@@ -26854,5 +26854,43 @@
     "company_url": "https://simplify.jobs/c/238c95d8-0d6e-4717-b28c-078b16d675d7",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "d-Matrix",
+    "id": "7fd12644-6f02-4db6-858b-75fb59d7178d",
+    "title": "Machine Learning Software Engineering Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1731449282,
+    "date_posted": 1731449282,
+    "url": "https://jobs.ashbyhq.com/d-Matrix/4ffd4328-7fb5-4d82-8afc-d18c0b7c8cde/application",
+    "locations": [
+      "Santa Clara, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/d-Matrix",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "d-Matrix",
+    "id": "c1ab48e0-91bc-416e-9bab-57ea14b44c0d",
+    "title": "Machine Learning Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1731449270,
+    "date_posted": 1731449270,
+    "url": "https://jobs.ashbyhq.com/d-Matrix/b5646bb8-8aa0-43da-add8-8df5b6beeb04/application",
+    "locations": [
+      "Santa Clara, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/d-Matrix",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
