@@ -26565,5 +26565,24 @@
     "company_url": "https://simplify.jobs/c/Ensemble",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Astranis",
+    "id": "595610e8-cbb6-40c5-bc66-5ccff930f294",
+    "title": "Software Systems Hardware Integration Engineer Intern - Spring 2025",
+    "active": true,
+    "terms": [
+      "Spring 2025"
+    ],
+    "date_updated": 1726802131,
+    "date_posted": 1726802131,
+    "url": "https://job-boards.greenhouse.io/astranis/jobs/4393051006",
+    "locations": [
+      "SF"
+    ],
+    "company_url": "https://simplify.jobs/c/Astranis",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
