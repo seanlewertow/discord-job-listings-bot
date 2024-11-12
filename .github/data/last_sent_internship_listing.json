@@ -26932,5 +26932,43 @@
     "company_url": "https://simplify.jobs/c/Rivian",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Citigroup",
+    "id": "ed6cfc8a-2f43-48e7-bf18-f1506ab14943",
+    "title": "Technology-Software Development \u2013 Summer Analyst - Jacksonville 2025",
+    "active": true,
+    "terms": [
+      "Summer 2024"
+    ],
+    "date_updated": 1731453661,
+    "date_posted": 1731453661,
+    "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Jacksonville-Florida-United-States/Technology-Software-Development--Summer-Analyst--Jacksonville-2025_24807199",
+    "locations": [
+      "Jacksonville, FL"
+    ],
+    "company_url": "https://simplify.jobs/c/5fdb14b0-be2f-4141-8255-f61325f9e0c2",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "KION",
+    "id": "1c823fb4-dd23-4dc1-8f7f-628d22c60146",
+    "title": "DITA CCMS Associate Adminstrator Co-op",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1731082855,
+    "date_posted": 1731082855,
+    "url": "https://kiongroup.wd3.myworkdayjobs.com/en-US/KION_SCS/job/Waterloo-Canada/DITA-CCMS-Associate-Adminstrator-Co-op_JR-0069728",
+    "locations": [
+      "Kitchener, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/e7d8f975-ac2f-4a71-9604-f1ec300eb8e5",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
