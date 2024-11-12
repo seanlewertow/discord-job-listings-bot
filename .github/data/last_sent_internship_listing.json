@@ -26603,5 +26603,64 @@
     "company_url": "https://simplify.jobs/c/Cadence-Design-Systems",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Adobe",
+    "id": "19a5516f-9b37-4934-af07-ab6d535554d2",
+    "title": "2025 Intern - Enterprise Architecture Analyst",
+    "active": true,
+    "terms": [
+      "Spring 2025",
+      "Summer 2025",
+      "Fall 2025"
+    ],
+    "date_updated": 1729048470,
+    "date_posted": 1729048470,
+    "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/New-York/XMLNAME-2025-Intern---Enterprise-Architecture-Analyst_R150709",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Adobe",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Shield AI",
+    "id": "584e3ea4-e46d-4ffe-9848-4d538237802b",
+    "title": "Integration and Test Engineering Intern \u2013 2025 Summer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1729818729,
+    "date_posted": 1728070287,
+    "url": "https://jobs.lever.co/shieldai/a5b2b69e-94eb-495c-8f12-5e290d5aad5a/apply",
+    "locations": [
+      "Washington, DC"
+    ],
+    "company_url": "https://simplify.jobs/c/Shield-AI",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Sony Pictures Entertainment",
+    "id": "a90e260f-0bc7-46b9-9657-e412f3cda920",
+    "title": "Graduate Intern - Business & Data Analysis - Facility Operations - Spring 2025",
+    "active": true,
+    "terms": [
+      "Spring 2025"
+    ],
+    "date_updated": 1729900157,
+    "date_posted": 1729900157,
+    "url": "https://spe.wd1.myworkdayjobs.com/en-US/SonyPicturesEntertainment/job/Culver-City-California/Graduate-Intern--Business---Data-Analysis--Facility-Operations---Spring-2025_JR104745",
+    "locations": [
+      "Culver City, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/cba19b9c-c87b-4670-905f-598655ed2801",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
