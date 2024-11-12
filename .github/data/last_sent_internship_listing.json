@@ -26796,5 +26796,44 @@
     "company_url": "https://simplify.jobs/c/DevTechGrp",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "JM Family",
+    "id": "4cda136a-4687-4768-b39f-0ff8fbb4f8ee",
+    "title": "Intern \u2013 Software Engineering",
+    "active": true,
+    "terms": [
+      "Spring 2025",
+      "Summer 2025"
+    ],
+    "date_updated": 1731435990,
+    "date_posted": 1731435990,
+    "url": "https://jmfamily.wd1.myworkdayjobs.com/en-US/JMFamily_External/job/Florida---Deerfield-Beach/Intern--Software-Engineering_JR102957",
+    "locations": [
+      "Deerfield Beach, FL"
+    ],
+    "company_url": "https://simplify.jobs/c/21dffcc2-c17a-4628-b26d-c6e0b368edc2",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Schonfeld",
+    "id": "b5628b66-864f-4be6-a851-8074bc5d164b",
+    "title": "2025 Emerging Markets and Delta One Quantitative Research Summer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1731435573,
+    "date_posted": 1731435573,
+    "url": "https://job-boards.greenhouse.io/schonfeld/jobs/6388894",
+    "locations": [
+      "London, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Schonfeld",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
