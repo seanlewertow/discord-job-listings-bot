@@ -26489,5 +26489,43 @@
     "company_url": "https://simplify.jobs/c/Intradiem",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "date_updated": 1731388914,
+    "url": "https://careers.ice.com/jobs/9280?mode=apply",
+    "company_name": "ICE",
+    "title": "Summer Internship Program 2025 - Data Analyst, Data Science and Visualization Intern",
+    "locations": [
+      "New York, NY"
+    ],
+    "terms": [
+      "Summer 2025"
+    ],
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "source": "GaryZhous",
+    "id": "c6da4f3b-a42a-4c40-9102-830058abbdfa",
+    "date_posted": 1731388914,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1731389099,
+    "url": "https://jobs.thermofisher.com/global/en/job/R-01282270/Artificial-Intelligence-Internship?rx_ch=jobpost&rx_job=R-01282270-1",
+    "company_name": "Thermo Fisher Scientific",
+    "title": "Artificial Intelligence Internship",
+    "locations": [
+      "Pittsburgh, PA"
+    ],
+    "terms": [
+      "Summer 2025"
+    ],
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "source": "GaryZhous",
+    "id": "0d4b281d-4461-4df8-8b91-fdb56c075ba5",
+    "date_posted": 1731389099,
+    "company_url": "",
+    "is_visible": true
   }
 ]
