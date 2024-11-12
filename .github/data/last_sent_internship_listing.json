@@ -26470,5 +26470,24 @@
     "date_posted": 1731372153,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Intradiem",
+    "id": "29fbdeca-bbfb-4a2b-adb0-9944374bdc57",
+    "title": "Summer 2025 Architecture Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1731356619,
+    "date_posted": 1731356619,
+    "url": "https://job-boards.greenhouse.io/intradiem/jobs/4409590006",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/Intradiem",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
