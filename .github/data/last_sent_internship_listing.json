@@ -26739,5 +26739,24 @@
     "company_url": "https://simplify.jobs/c/6a7a42d3-327f-4b48-a7a7-c68f405e3396",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Solidigm",
+    "id": "6414eac8-573a-40fc-a87c-d2dd86a472aa",
+    "title": "Debug Tools Development Internship",
+    "active": true,
+    "terms": [
+      "Summer 2024"
+    ],
+    "date_updated": 1731431738,
+    "date_posted": 1731431738,
+    "url": "https://jobs.smartrecruiters.com/Solidigm/744000026025104",
+    "locations": [
+      "Rancho Cordova, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Solidigm",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
