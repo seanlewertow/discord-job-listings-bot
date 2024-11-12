@@ -26892,5 +26892,24 @@
     "company_url": "https://simplify.jobs/c/d-Matrix",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Leidos",
+    "id": "caca820f-60cd-4bb2-a5be-f18b6a85ea3f",
+    "title": "Computer Engineering Co-op",
+    "active": true,
+    "terms": [
+      "Winter 2025"
+    ],
+    "date_updated": 1722468282,
+    "date_posted": 1722468282,
+    "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Bethesda-MD/Computer-Engineering-Co-op_R-00140633",
+    "locations": [
+      "Bethesda, MD"
+    ],
+    "company_url": "https://simplify.jobs/c/Leidos",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
