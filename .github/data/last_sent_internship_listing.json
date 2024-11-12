@@ -26546,5 +26546,24 @@
     "company_url": "https://simplify.jobs/c/e7d8f975-ac2f-4a71-9604-f1ec300eb8e5",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Ensemble",
+    "id": "238e448b-5958-4227-a56a-a580fb2b5673",
+    "title": "IT and Operations Support Coordinator Intern",
+    "active": true,
+    "terms": [
+      "Summer 2024"
+    ],
+    "date_updated": 1730431311,
+    "date_posted": 1729523593,
+    "url": "https://job-boards.greenhouse.io/ensemble/jobs/4546015007",
+    "locations": [
+      "Toronto, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Ensemble",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
