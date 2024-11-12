@@ -26431,5 +26431,44 @@
     "company_url": "https://simplify.jobs/c/9a5a4634-d168-4118-b172-0c0aae45f2ad",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Ethic ",
+    "id": "46354946-7ee6-4f88-a031-00a7606f69a9",
+    "title": "Software Engineering Internship",
+    "active": true,
+    "terms": [
+      "Spring 2024",
+      "Summer 2024"
+    ],
+    "date_updated": 1731370818,
+    "date_posted": 1731370818,
+    "url": "https://ethic.com/roles?gh_jid=6240297003",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/d5c62d54-ba09-4cad-9400-e0d56f613bb9",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "date_updated": 1731372153,
+    "url": "https://jobs.careers.microsoft.com/global/en/job/1782349/Explore-Program-Internship-Opportunities%3A-First-Year-Students%2C-Redmond",
+    "company_name": "Microsoft",
+    "title": "Explore Program Internship Opportunities: First-Year Students",
+    "locations": [
+      "Redmond, WA"
+    ],
+    "terms": [
+      "Summer 2025"
+    ],
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "source": "waterkimchi",
+    "id": "162b3bbf-1def-4308-b452-4f9d6f5d5288",
+    "date_posted": 1731372153,
+    "company_url": "",
+    "is_visible": true
   }
 ]
