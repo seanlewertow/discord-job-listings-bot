@@ -26662,5 +26662,82 @@
     "company_url": "https://simplify.jobs/c/cba19b9c-c87b-4670-905f-598655ed2801",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Teleo",
+    "id": "7eb7a9e3-72b4-41a0-852c-5b18350d925e",
+    "title": "Software Integration Engineering Internship/Co-op - Winter/Spring 2025",
+    "active": true,
+    "terms": [
+      "Winter 2026",
+      "Spring 2026"
+    ],
+    "date_updated": 1729293235,
+    "date_posted": 1729293235,
+    "url": "https://jobs.lever.co/teleo/e90f59e3-490b-4621-852f-c15e78f7b433/apply",
+    "locations": [
+      "Palo Alto, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Teleo",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Andreessen Horowitz",
+    "id": "0d8ab62d-eb27-41cc-badd-f0e59f0d162a",
+    "title": "Summer 2025 Research Internship - Crypto",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1729627192,
+    "date_posted": 1728962186,
+    "url": "https://a16z.com/about/jobs/?gh_jid=6242445003",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/a16z",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Skydio",
+    "id": "5c547d39-cce8-4dd5-aa30-39fd5a95c8dd",
+    "title": "Systems Design Engineer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1730157002,
+    "date_posted": 1730157002,
+    "url": "https://www.skydio.com/jobs/6252790003?gh_jid=6252790003",
+    "locations": [
+      "San Mateo, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Skydio",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "The Federal Reserve System",
+    "id": "726ae683-3613-4a92-811e-4a0163d4da70",
+    "title": "Spring 2025: Digital Money and Payments R&D Intern",
+    "active": true,
+    "terms": [
+      "Spring 2025"
+    ],
+    "date_updated": 1729900204,
+    "date_posted": 1729900204,
+    "url": "https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Boston-MA/Spring-2025--Digital-Money-and-Payments-R-D-Intern_R-0000025600-2",
+    "locations": [
+      "Boston, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/6a7a42d3-327f-4b48-a7a7-c68f405e3396",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
