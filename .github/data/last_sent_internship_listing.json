@@ -26835,5 +26835,24 @@
     "company_url": "https://simplify.jobs/c/Schonfeld",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Northrop Grumman",
+    "id": "f722149a-5772-44a7-873f-abf3cd032049",
+    "title": "Intern \u2013 Software Engineer",
+    "active": true,
+    "terms": [
+      "Fall 2024"
+    ],
+    "date_updated": 1731436390,
+    "date_posted": 1731436390,
+    "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-Kingdom-Cheltenham/Intern---Software-Engineer_R10176511",
+    "locations": [
+      "Gloucester, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/238c95d8-0d6e-4717-b28c-078b16d675d7",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
