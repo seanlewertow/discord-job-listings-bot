@@ -26970,5 +26970,120 @@
     "company_url": "https://simplify.jobs/c/e7d8f975-ac2f-4a71-9604-f1ec300eb8e5",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Gridmatic",
+    "id": "14701fee-935b-408c-bc7c-ae2efe14f3b7",
+    "title": "Internship",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1731457947,
+    "date_posted": 1731457947,
+    "url": "https://jobs.lever.co/gridmatic/e9ccb91b-11c2-4ce4-aada-d85f9b22c2e4/apply",
+    "locations": [
+      "Cupertino, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Gridmatic",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Amazon",
+    "id": "31b3b46e-612c-49a9-b1e7-b6d135be74ad",
+    "title": "Software Development Engineer Internship in Test-2025 - US",
+    "active": true,
+    "terms": [
+      "Fall 2025",
+      "Winter 2026",
+      "Spring 2026",
+      "Summer 2026",
+      "Fall 2026",
+      "Winter 2027",
+      "Spring 2027",
+      "Summer 2027",
+      "Fall 2027",
+      "Winter 2028",
+      "Spring 2028",
+      "Summer 2028",
+      "Fall 2028"
+    ],
+    "date_updated": 1731459145,
+    "date_posted": 1731459145,
+    "url": "https://amazon.jobs/en/jobs/2828378/software-development-engineer-internship-in-test-2025-us",
+    "locations": [
+      "Seattle, WA",
+      "SF",
+      "Austin, TX",
+      "Irvine, CA",
+      "Redmond, WA",
+      "NYC",
+      "Minneapolis, MN",
+      "Bellevue, WA",
+      "Sunnyvale, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Amazon",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Northrop Grumman",
+    "id": "a0c24efe-206a-44c6-9125-6dd49d057246",
+    "title": "2025 Configuration & Data Management Intern - Plymouth MN",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1731460061,
+    "date_posted": 1731460061,
+    "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Minnesota-Plymouth/XMLNAME-2025-Configuration---Data-Management-Intern---Plymouth-MN_R10177145",
+    "locations": [
+      "Wayzata, MN"
+    ],
+    "company_url": "https://simplify.jobs/c/238c95d8-0d6e-4717-b28c-078b16d675d7",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Citigroup",
+    "id": "12cc3d2b-6857-42ed-b0ce-f4f0ae3b6e80",
+    "title": "Technology \u2013 Summer Analyst - Software Development - Irving 2025",
+    "active": true,
+    "terms": [
+      "Summer 2024"
+    ],
+    "date_updated": 1731460067,
+    "date_posted": 1731460067,
+    "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Irving-Texas-United-States/Technology---Software-Development--Summer-Analyst--Irving-2025_24807303",
+    "locations": [
+      "Irving, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/5fdb14b0-be2f-4141-8255-f61325f9e0c2",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Astranis",
+    "id": "0c4eb9cc-4a38-44bf-84ed-4a3a33eeac97",
+    "title": "Flight Software Intern - Summer 2025",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1731459837,
+    "date_posted": 1731459837,
+    "url": "https://job-boards.greenhouse.io/astranis/jobs/4394960006",
+    "locations": [
+      "SF"
+    ],
+    "company_url": "https://simplify.jobs/c/Astranis",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
