@@ -27262,5 +27262,62 @@
     "company_url": "https://simplify.jobs/c/Waymo",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Trimble",
+    "id": "f4464373-92ed-455e-a9e6-333093a58a55",
+    "title": "Product Engineer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1731538085,
+    "date_posted": 1731538085,
+    "url": "https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/US---OH-Dayton/Product-Engineer-Intern_R47174",
+    "locations": [
+      "Dayton, OH"
+    ],
+    "company_url": "https://simplify.jobs/c/Trimble",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Schonfeld",
+    "id": "8a89e841-6021-4ebb-824b-2ed71882ad3a",
+    "title": "2025 Data Science Summer Internship",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1731539109,
+    "date_posted": 1731539109,
+    "url": "https://job-boards.greenhouse.io/schonfeld/jobs/6322253",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Schonfeld",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Hewlett Packard (HP)",
+    "id": "eaa1d24c-92e0-4e24-ae48-dc894cfe5647",
+    "title": "Data Analyst Intern",
+    "active": true,
+    "terms": [
+      "Summer 2024"
+    ],
+    "date_updated": 1731539062,
+    "date_posted": 1731539062,
+    "url": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Boise-Idaho-United-States-of-America/Data-Analyst-Intern_UNI1574",
+    "locations": [
+      "Boise, ID"
+    ],
+    "company_url": "https://simplify.jobs/c/Hewlett-Packard",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
