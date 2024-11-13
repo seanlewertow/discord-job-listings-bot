@@ -27104,5 +27104,26 @@
     "company_url": "https://simplify.jobs/c/Zoox",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Blizzard Entertainment",
+    "id": "f135aac4-f047-4f50-bf38-aaaedd6b0d96",
+    "title": "2025 US Co-Op - Game Production",
+    "active": true,
+    "terms": [
+      "Spring 2024",
+      "Summer 2024",
+      "Winter 2025"
+    ],
+    "date_updated": 1730772543,
+    "date_posted": 1730766344,
+    "url": "https://activision.wd1.myworkdayjobs.com/Blizzard_External_Careers/job/Albany/Game-Production-Co-Op_R024242",
+    "locations": [
+      "Albany, NY"
+    ],
+    "company_url": "https://simplify.jobs/c/Blizzard-Entertainment",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
