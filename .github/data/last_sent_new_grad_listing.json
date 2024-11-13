@@ -4962,5 +4962,21 @@
     "company_url": "https://simplify.jobs/c/f6324a00-68f0-4680-892d-aa486d4c60f5",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "esri",
+    "id": "25c8d8c5-e64d-4417-964e-ca47952c726e",
+    "title": "Software Engineer I - Generative AI & Assistants",
+    "active": true,
+    "date_updated": 1731473141,
+    "date_posted": 1731473141,
+    "url": "https://www.esri.com/careers/4557494007?gh_jid=4557494007",
+    "locations": [
+      "West Redlands, Redlands, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/3bc7a09e-e5f1-45e8-b26b-1d3c77588a00",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
