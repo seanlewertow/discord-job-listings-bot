@@ -4994,5 +4994,37 @@
     "company_url": "https://simplify.jobs/c/Spotify",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Booz Allen",
+    "id": "ff684b7b-1952-45be-993e-ceb28532e082",
+    "title": "Data Scientist - Junior",
+    "active": true,
+    "date_updated": 1731521522,
+    "date_posted": 1731521522,
+    "url": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/San-Diego-CA/Data-Scientist--Junior_R0209718",
+    "locations": [
+      "San Diego, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/45cb775d-2ca3-49ea-810f-65334ec70079",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Sierra Space",
+    "id": "2ec26d7b-72af-48b0-a7ab-36446b21f88b",
+    "title": "Software Engineer I",
+    "active": true,
+    "date_updated": 1731522495,
+    "date_posted": 1731522495,
+    "url": "https://sierraspace.wd1.myworkdayjobs.com/en-US/Sierra_Space_External_Career_Site/job/Broomfield-CO/Software-Engineer-I_R24392",
+    "locations": [
+      "Broomfield, CO"
+    ],
+    "company_url": "https://simplify.jobs/c/7c59eec1-bec1-4ecd-a87c-11886be75a7a",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
