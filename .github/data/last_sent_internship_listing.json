@@ -27125,5 +27125,64 @@
     "company_url": "https://simplify.jobs/c/Blizzard-Entertainment",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Skydio",
+    "id": "37eb7207-cbe3-43fd-ac98-fd02b490b614",
+    "title": "Boston Software Engineer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1731473207,
+    "date_posted": 1731473207,
+    "url": "https://www.skydio.com/jobs/6220824003?gh_jid=6220824003",
+    "locations": [
+      "Boston, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/Skydio",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "date_updated": 1731474887,
+    "url": "https://globalus242.dayforcehcm.com/CandidatePortal/en-US/lightbox/Site/LIGHTBOXCAREERS/Posting/View/456",
+    "company_name": "LighBox",
+    "title": "Engineering - Data Platform - Software Engineer",
+    "locations": [
+      "Irvine, CA"
+    ],
+    "terms": [
+      "Summer 2025"
+    ],
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "source": "GaryZhous",
+    "id": "d8b295cf-ff32-4338-a5e1-d40a1d159831",
+    "date_posted": 1731474887,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1731475041,
+    "url": "https://careers.se.com/jobs/80573",
+    "company_name": "Schneider Electric",
+    "title": "Computer Science Intern",
+    "locations": [
+      "Nashville, TN",
+      "Columbia, SC",
+      "El Paso, TX"
+    ],
+    "terms": [
+      "Summer 2025"
+    ],
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "source": "GaryZhous",
+    "id": "6fa77f01-6abc-432f-a36f-2ee5d8efe944",
+    "date_posted": 1731475041,
+    "company_url": "",
+    "is_visible": true
   }
 ]
