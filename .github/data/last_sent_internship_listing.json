@@ -27223,5 +27223,25 @@
     "company_url": "https://simplify.jobs/c/KnowBe4",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "JM Family",
+    "id": "5cb69b6f-a8e2-462f-ab7f-d1a49f57afec",
+    "title": "Intern \u2013 Associate Development Analyst",
+    "active": true,
+    "terms": [
+      "Spring 2025",
+      "Summer 2025"
+    ],
+    "date_updated": 1729898588,
+    "date_posted": 1729898588,
+    "url": "https://jmfamily.wd1.myworkdayjobs.com/en-US/JMFamily_External/job/Florida---Jacksonville/Intern--Associate-Development-Analyst_JR103027",
+    "locations": [
+      "Jacksonville, FL"
+    ],
+    "company_url": "https://simplify.jobs/c/21dffcc2-c17a-4628-b26d-c6e0b368edc2",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
