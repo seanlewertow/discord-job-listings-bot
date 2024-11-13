@@ -27085,5 +27085,24 @@
     "company_url": "https://simplify.jobs/c/Astranis",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Zoox",
+    "id": "5729faa6-0a3f-4414-be25-bdbaf9b8f443",
+    "title": "Collision Avoidance System \u2013 Machine Learning Internship/Co-op",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1729048642,
+    "date_posted": 1729048642,
+    "url": "https://jobs.lever.co/zoox/48c78ca2-f770-4932-8cc6-3250cd931451/apply",
+    "locations": [
+      "San Mateo, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Zoox",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
