@@ -27243,5 +27243,24 @@
     "company_url": "https://simplify.jobs/c/21dffcc2-c17a-4628-b26d-c6e0b368edc2",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Waymo",
+    "id": "9ddcdc02-a8be-4caa-b4c7-c5b4c218c0f3",
+    "title": "2025 Summer Intern - BS/MS - Eval & Inference Team",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1731537255,
+    "date_posted": 1731537255,
+    "url": "https://careers.withwaymo.com/jobs?gh_jid=6391541",
+    "locations": [
+      "Mountain View, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Waymo",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
