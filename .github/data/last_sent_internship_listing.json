@@ -27203,5 +27203,25 @@
     "company_url": "https://simplify.jobs/c/de9db5fc-93ac-4e2a-873c-61d8a830873c",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "KnowBe4",
+    "id": "2bb54220-bc4e-4f8a-841f-f54495edfeaf",
+    "title": "Courseware Technologist Intern - Hybrid",
+    "active": true,
+    "terms": [
+      "Spring 2025",
+      "Summer 2025"
+    ],
+    "date_updated": 1727824222,
+    "date_posted": 1727824222,
+    "url": "https://boards.greenhouse.io/knowbe4/jobs/7282446002",
+    "locations": [
+      "Clearwater, FL"
+    ],
+    "company_url": "https://simplify.jobs/c/KnowBe4",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
