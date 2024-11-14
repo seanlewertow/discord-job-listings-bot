@@ -27393,5 +27393,24 @@
     "company_url": "https://simplify.jobs/c/Zoox",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "date_updated": 1731565473,
+    "url": "https://app.ripplematch.com/v2/public/job/ba659857/details?from_page=company_branded_page",
+    "company_name": "ULINE Inc.",
+    "title": "Software Developer Internship",
+    "locations": [
+      "Pleasant Prairie, WI, USA"
+    ],
+    "terms": [
+      "Summer 2025"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "source": "mtlogs",
+    "id": "5210ba87-a4f3-4b39-95f7-8ed51052d21d",
+    "date_posted": 1731565473,
+    "company_url": "",
+    "is_visible": true
   }
 ]
