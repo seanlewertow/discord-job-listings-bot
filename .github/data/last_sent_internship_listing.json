@@ -27319,5 +27319,24 @@
     "company_url": "https://simplify.jobs/c/Hewlett-Packard",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Tombras",
+    "id": "f5895b22-9df7-4573-9018-dabf34858711",
+    "title": "Software Engineer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1731544018,
+    "date_posted": 1731544018,
+    "url": "https://jobs.lever.co/tombras/dc89a1b9-417e-4c97-aa12-b3b3b19d2c35/apply",
+    "locations": [
+      "Knoxville, TN"
+    ],
+    "company_url": "https://simplify.jobs/c/Tombras",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
