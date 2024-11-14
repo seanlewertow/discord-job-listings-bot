@@ -27338,5 +27338,60 @@
     "company_url": "https://simplify.jobs/c/Tombras",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Rocket Lab USA",
+    "id": "ffc2c0a4-da6c-4bc2-9c2e-d5d6e209c220",
+    "title": "Web Software Intern - Summer 2025",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1731546826,
+    "date_posted": 1731546826,
+    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/6241895003",
+    "locations": [
+      "Albuquerque, NM"
+    ],
+    "company_url": "https://simplify.jobs/c/Rocket-Lab-USA",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Syska Hennessy Group",
+    "id": "7627201d-392d-4e0a-bfa0-f968efd9029c",
+    "title": "Innovations Summer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2024"
+    ],
+    "date_updated": 1731547689,
+    "date_posted": 1731547689,
+    "url": "https://syska.com/join-us/job_application/?gh_jid=6395698",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Syska-Hennessy-Group",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Zoox",
+    "id": "ddb2ff73-418e-400c-8416-76a6e71bbc95",
+    "title": "Data Publishing \u2013 And Scale Internship - Access - Deploy",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1731548518,
+    "date_posted": 1731548518,
+    "url": "https://jobs.lever.co/zoox/312b5ede-f3be-4699-94ac-dff77b42ca70/apply",
+    "locations": [],
+    "company_url": "https://simplify.jobs/c/Zoox",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
