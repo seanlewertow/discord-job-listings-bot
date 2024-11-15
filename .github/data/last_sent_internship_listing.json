@@ -27727,5 +27727,102 @@
     "company_url": "https://simplify.jobs/c/db6baf80-a321-4d20-ac07-6a38a44b5a05",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Bandwidth",
+    "id": "e195e71b-37cd-46ae-a734-1005a9c02fac",
+    "title": "Software Development Intern - Summer 2025",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1731699491,
+    "date_posted": 1731699491,
+    "url": "https://boards.greenhouse.io/bandwidth/jobs/6394965",
+    "locations": [
+      "Raleigh, NC"
+    ],
+    "company_url": "https://simplify.jobs/c/Bandwidth",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Bandwidth",
+    "id": "506aa7e1-b643-49fa-b894-3aa469c64094",
+    "title": "Software Development Intern - Summer 2025",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1731699491,
+    "date_posted": 1731699491,
+    "url": "https://boards.greenhouse.io/bandwidth/jobs/6394961",
+    "locations": [
+      "Raleigh, NC"
+    ],
+    "company_url": "https://simplify.jobs/c/Bandwidth",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Point72",
+    "id": "a3deaf04-caa6-4d1d-a60c-70228b929aa1",
+    "title": "2025 Summer Internship - Facilities and Critical Systems Engineer",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1731699490,
+    "date_posted": 1731699490,
+    "url": "https://job-boards.greenhouse.io/point72/jobs/7721098002",
+    "locations": [
+      "Stamford, CT",
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Point72",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "TP-ICAP",
+    "id": "32bd5db9-e812-4042-a77c-8cf8d1b2c0d6",
+    "title": "Liquidnet Data Analyst \u2013 Summer Internship Programme 2025 - London",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1731699110,
+    "date_posted": 1731699110,
+    "url": "https://tp.wd3.myworkdayjobs.com/en-US/TP-ICAP/job/London/Liquidnet-Data-Analyst--Summer-Internship-Programme-2025--London_R3004-1",
+    "locations": [
+      "London, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/732fd349-3ee1-4161-bc74-e2fdbd6418d7",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Life.Church",
+    "id": "c16eb333-6cf8-403b-8dba-b17365b206f4",
+    "title": "Life.Church Central Internship",
+    "active": true,
+    "terms": [
+      "Winter 2025",
+      "Spring 2025"
+    ],
+    "date_updated": 1731702128,
+    "date_posted": 1724717899,
+    "url": "https://jobs.lever.co/life/ad7fef6f-16af-4688-b97e-b5c0ff05d46e/apply",
+    "locations": [
+      "Edmond, OK"
+    ],
+    "company_url": "https://simplify.jobs/c/Life-Church",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
