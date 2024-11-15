@@ -27824,5 +27824,43 @@
     "company_url": "https://simplify.jobs/c/Life-Church",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Badger Meter",
+    "id": "d31d2cf6-ccf8-4e2c-821d-3a3f4491bea7",
+    "title": "Software Engineering Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1731701906,
+    "date_posted": 1731701906,
+    "url": "https://badgermeter.wd5.myworkdayjobs.com/US_CareerSite/job/Milwaukee-WI/Software-Engineering-Intern_3515",
+    "locations": [
+      "Milwaukee, WI"
+    ],
+    "company_url": "https://simplify.jobs/c/Badger-Meter",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Bandwidth",
+    "id": "1904408e-9a2f-4149-8d70-c0b3522545c9",
+    "title": "Data Science Intern - Summer 2025",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1731699485,
+    "date_posted": 1731699485,
+    "url": "https://boards.greenhouse.io/bandwidth/jobs/6392267",
+    "locations": [
+      "Raleigh, NC"
+    ],
+    "company_url": "https://simplify.jobs/c/Bandwidth",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
