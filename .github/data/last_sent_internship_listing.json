@@ -27550,5 +27550,100 @@
     "company_url": "https://simplify.jobs/c/281371f9-4ed3-4440-876f-4bbeaa0d50e0",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Bandwidth",
+    "id": "8f2fcec2-2f9e-446d-a085-d29d1225d614",
+    "title": "Software Development Intern - Summer 2025",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1731699489,
+    "date_posted": 1731699489,
+    "url": "https://boards.greenhouse.io/bandwidth/jobs/6397066",
+    "locations": [
+      "Raleigh, NC"
+    ],
+    "company_url": "https://simplify.jobs/c/Bandwidth",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Bandwidth",
+    "id": "3b040018-3956-4acf-acb3-55aac622b61a",
+    "title": "Front-End Software Development Intern - Summer 2025",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1731699487,
+    "date_posted": 1731699487,
+    "url": "https://boards.greenhouse.io/bandwidth/jobs/6399234",
+    "locations": [
+      "Raleigh, NC"
+    ],
+    "company_url": "https://simplify.jobs/c/Bandwidth",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Bandwidth",
+    "id": "2003a9ab-1867-45f9-9dde-0a726f9ecc7f",
+    "title": "Software Development Intern - Summer 2025",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1731699487,
+    "date_posted": 1731699487,
+    "url": "https://boards.greenhouse.io/bandwidth/jobs/6395037",
+    "locations": [
+      "Raleigh, NC"
+    ],
+    "company_url": "https://simplify.jobs/c/Bandwidth",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Tencent",
+    "id": "a735cf2d-98a6-4d8f-bd01-2ab1c1886db5",
+    "title": "Game AI Engineer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1731699352,
+    "date_posted": 1731699352,
+    "url": "https://tencent.wd1.myworkdayjobs.com/en-US/Tencent_Careers/job/UK-London/Game-AI-Engineer-Intern_R104492-1",
+    "locations": [
+      "London, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Tencent",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Vermeer",
+    "id": "cd779597-05a0-44fc-bbb7-554e8c2b3191",
+    "title": "Software Engineer Intern - Summer 2025",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1731699248,
+    "date_posted": 1731699248,
+    "url": "https://vermeer.wd5.myworkdayjobs.com/en-US/externalcareersite/job/Pella-Iowa-USA---Plant-7-Segment-Office/Software-Engineer-Intern_REQ-18649",
+    "locations": [
+      "Newton, IA"
+    ],
+    "company_url": "https://simplify.jobs/c/9ff05b27-3c7e-4c70-82e2-d3bfb40bb992",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
