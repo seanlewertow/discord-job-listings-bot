@@ -27862,5 +27862,43 @@
     "company_url": "https://simplify.jobs/c/Bandwidth",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Arevon",
+    "id": "47683ced-b197-45e4-a423-b5369fac7b3e",
+    "title": "Data Management Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1731716050,
+    "date_posted": 1731716050,
+    "url": "https://boards.greenhouse.io/arevonenergyimpltest/jobs/4579356007",
+    "locations": [
+      "Scottsdale, AZ"
+    ],
+    "company_url": "https://simplify.jobs/c/15454e2c-8d06-453c-9d8d-8739f7928399",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Rakuten International",
+    "id": "55c22ba9-25c1-4613-9743-100f7214df53",
+    "title": "Intern \u2013 Software Engineer - AI User Experience",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1731716242,
+    "date_posted": 1731716242,
+    "url": "https://rakuten.wd1.myworkdayjobs.com/en-US/RakutenAmericas/job/Seattle-Washington/Intern---Software-Engineer--AI-User-Experience_1024068",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "company_url": "https://simplify.jobs/c/8ad80518-8d5f-42bc-b3b6-56142de8fbac",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
