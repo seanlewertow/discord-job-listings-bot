@@ -27900,5 +27900,24 @@
     "company_url": "https://simplify.jobs/c/8ad80518-8d5f-42bc-b3b6-56142de8fbac",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "date_updated": 1731735322,
+    "url": "https://jnjc.taleo.net/careersection/4/jobdetail.ftl?job=2406221806W&lang=en&src=JB-10280",
+    "company_name": "Johnson & Johnson",
+    "title": "Software Engineering Intern",
+    "locations": [
+      "Santa Clara, CA"
+    ],
+    "terms": [
+      "Summer 2025"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "source": "GaryZhous",
+    "id": "bcd9c8d2-d1ea-4b80-bfb1-1b896820dcfd",
+    "date_posted": 1731735322,
+    "company_url": "",
+    "is_visible": true
   }
 ]
