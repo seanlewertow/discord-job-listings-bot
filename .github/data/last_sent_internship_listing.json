@@ -28033,5 +28033,103 @@
     "company_url": "https://simplify.jobs/c/Remitly",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Leidos",
+    "id": "6653f4e1-fbb5-4462-a7a2-e7682d3cf8fa",
+    "title": "Systems Engineer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1731962470,
+    "date_posted": 1731962470,
+    "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Camp-Springs-MD/Systems-Engineer-Intern_R-00148041",
+    "locations": [
+      "Washington, DC",
+      "Prince George's County, MD"
+    ],
+    "company_url": "https://simplify.jobs/c/Leidos",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Medline",
+    "id": "edc77a06-e40d-4215-9b53-86aa3fdd9237",
+    "title": "IT Software Development Intern - E-Commerce Back End - Summer 2025",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1731962427,
+    "date_posted": 1731962427,
+    "url": "https://medline.wd5.myworkdayjobs.com/en-US/Medline/job/Northfield-Illinois/IT-Software-Development-Intern--E-Commerce-Back-End----Summer-2025_R2408339",
+    "locations": [
+      "Northbrook, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/f22ab711-4900-472d-be8a-7263e99e49fa",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Uber",
+    "id": "a4963ef0-990b-48c9-bd37-06f23462c9f8",
+    "title": "2025 Data Science Internship - Customer Obsession - United States",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1731962257,
+    "date_posted": 1731962257,
+    "url": "https://university-uber.icims.com/jobs/137347/job",
+    "locations": [
+      "Sunnyvale, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Uber",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Uber",
+    "id": "16eb9a39-da4e-4dc9-832c-d8bfc8cb1940",
+    "title": "2025 Data Science Internship - Risk - United States",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1731962251,
+    "date_posted": 1731962251,
+    "url": "https://university-uber.icims.com/jobs/137584/job",
+    "locations": [
+      "SF",
+      "Sunnyvale, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Uber",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Crowdstrike",
+    "id": "2c4b08f3-880b-4b47-8907-9ffe5d3e6ed7",
+    "title": "Frontend Engineer Intern - Summer 2025 - Remote - US - CAN",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1731962202,
+    "date_posted": 1731962202,
+    "url": "https://crowdstrike.wd5.myworkdayjobs.com/en-us/crowdstrikecareers/job/USA---Remote/Frontend-Engineer-Intern---Summer-2025--Remote--US--CAN-_R21099",
+    "locations": [
+      "Remote in USA",
+      "Remote in Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Crowdstrike",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
