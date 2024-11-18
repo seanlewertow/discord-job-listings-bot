@@ -27995,5 +27995,43 @@
     "company_url": "https://simplify.jobs/c/Bandwidth",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "The Trade Desk",
+    "id": "5fdb727a-ebcb-462d-ad3a-e2343edb23d1",
+    "title": "2025 Summer Intern - Data Science - London",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1731961572,
+    "date_posted": 1731961572,
+    "url": "https://boards.greenhouse.io/thetradedesk/jobs/4456658007",
+    "locations": [
+      "London, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/281371f9-4ed3-4440-876f-4bbeaa0d50e0",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Remitly",
+    "id": "55e98ae8-7771-498d-80b8-430d43c32221",
+    "title": "Software Development Engineer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1731961402,
+    "date_posted": 1731961402,
+    "url": "https://remitly.wd5.myworkdayjobs.com/en-US/Remitly_Careers/job/Seattle-Washington-United-States/Software-Development-Engineer-Intern_R_102650",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "company_url": "https://simplify.jobs/c/Remitly",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
