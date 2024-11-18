@@ -28131,5 +28131,101 @@
     "company_url": "https://simplify.jobs/c/Crowdstrike",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Uber",
+    "id": "041d1a4d-3334-4fee-b7a0-2ab57c8b28de",
+    "title": "2025 Data Science Internship - Risk - United States",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1731962899,
+    "date_posted": 1731962899,
+    "url": "https://www.uber.com/global/en/careers/list/137584/",
+    "locations": [
+      "SF",
+      "Sunnyvale, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Uber",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Uber",
+    "id": "9241602f-3e3d-47fa-8679-b77816fb9900",
+    "title": "2025 Data Science Internship - Earner Actioning - United States",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1731962901,
+    "date_posted": 1731962901,
+    "url": "https://www.uber.com/global/en/careers/list/137392/",
+    "locations": [
+      "SF"
+    ],
+    "company_url": "https://simplify.jobs/c/Uber",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Uber",
+    "id": "51aebd39-e1b3-40cf-a2c2-4b7ebe5fbcb4",
+    "title": "2025 Data Science Internship - Customer Obsession - United States",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1731962878,
+    "date_posted": 1731962878,
+    "url": "https://www.uber.com/global/en/careers/list/137347/",
+    "locations": [
+      "Sunnyvale, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Uber",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Adobe",
+    "id": "5a8011a3-0387-40b0-ac07-060ad7dacd5a",
+    "title": "2025 Intern - Data Scientist",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1731962852,
+    "date_posted": 1731962852,
+    "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Seattle/XMLNAME-2025-Intern---Data-Scientist_R149386",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "company_url": "https://simplify.jobs/c/Adobe",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Uber",
+    "id": "e86d305c-196e-4f88-8c92-e39f62784dde",
+    "title": "2025 Data Science Internship - Earner Actioning - United States",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1731962245,
+    "date_posted": 1731962245,
+    "url": "https://university-uber.icims.com/jobs/137392/job",
+    "locations": [
+      "SF"
+    ],
+    "company_url": "https://simplify.jobs/c/Uber",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
