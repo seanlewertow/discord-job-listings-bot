@@ -28552,5 +28552,43 @@
     "company_url": "https://simplify.jobs/c/CACI",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Bandwidth",
+    "id": "fe0734c7-5534-44a2-9f08-cf286213dd1f",
+    "title": "Internal Tools Developer Intern - Summer 2025",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1732047846,
+    "date_posted": 1732047846,
+    "url": "https://boards.greenhouse.io/bandwidth/jobs/6408768",
+    "locations": [
+      "Raleigh, NC"
+    ],
+    "company_url": "https://simplify.jobs/c/Bandwidth",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "date_updated": 1732050729,
+    "url": "https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&partnerid=25539&siteid=5313&jobId=5033838&codes=ILNK&dclid=CPmKxLCQ6YkDFf8H7wIdLr4tug#jobDetails=5033838_5313",
+    "company_name": "General Atomics Aeronautical Systems, Inc.",
+    "title": "Software Engineer Intern",
+    "locations": [
+      "Poway, CA"
+    ],
+    "terms": [
+      "Summer 2025"
+    ],
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "source": "LuaanNguyen",
+    "id": "d3049f4b-3e57-4fba-a859-fbd90f038a05",
+    "date_posted": 1732050729,
+    "company_url": "",
+    "is_visible": true
   }
 ]
