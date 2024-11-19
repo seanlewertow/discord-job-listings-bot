@@ -28380,5 +28380,24 @@
     "company_url": "https://simplify.jobs/c/238c95d8-0d6e-4717-b28c-078b16d675d7",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "date_updated": 1731998348,
+    "url": "https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&partnerid=25539&siteid=5313&jobId=5033838#jobDetails=5033838_5313",
+    "company_name": "General Atomics",
+    "title": "Intern - Software Developer",
+    "locations": [
+      "Poway, CA"
+    ],
+    "terms": [
+      "Summer 2025"
+    ],
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "source": "GaryZhous",
+    "id": "f2e18066-5c4c-44ac-8358-67a2f2e879a5",
+    "date_posted": 1731998348,
+    "company_url": "",
+    "is_visible": true
   }
 ]
