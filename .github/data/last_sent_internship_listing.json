@@ -28457,5 +28457,100 @@
     "company_url": "https://simplify.jobs/c/BDAI-Institute",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Motorola",
+    "id": "59518262-98ed-4c36-ba76-03fdd5e842e4",
+    "title": "Data Scientist Intern - Summer 2025",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1732048189,
+    "date_posted": 1732048189,
+    "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Schaumburg-IL/Data-Scientist-Intern--Summer-2025-_R51389",
+    "locations": [
+      "Hoffman Estates, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/MotorolaSolutions",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "AEG",
+    "id": "1c8c015c-106a-4b59-8e46-872220424c38",
+    "title": "Spring Intern - Data Engineer-LA Kings",
+    "active": true,
+    "terms": [
+      "Spring 2024"
+    ],
+    "date_updated": 1732048110,
+    "date_posted": 1732048110,
+    "url": "https://www.aegworldwide.com/jobs?gh_jid=7734379002",
+    "locations": [
+      "El Segundo, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/AEG",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Amazon",
+    "id": "01635094-0eba-45a1-82aa-5d9c2171346a",
+    "title": "2025 Software Development Engineer Intern - Mobile",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1732048025,
+    "date_posted": 1732048025,
+    "url": "https://amazon.jobs/en/jobs/2835004/2025-software-development-engineer-intern-mobile",
+    "locations": [
+      "Cambridge, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Amazon",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "The Trade Desk",
+    "id": "4c401b86-4a9e-40c3-8ddc-923083cb1bd1",
+    "title": "2025 Data Warehouse Engineer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1732047710,
+    "date_posted": 1732047710,
+    "url": "https://boards.greenhouse.io/thetradedesk/jobs/4586310007",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/281371f9-4ed3-4440-876f-4bbeaa0d50e0",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "CACI",
+    "id": "df2b5513-02a5-45b6-9a4e-999ce136bbe7",
+    "title": "Software Development Intern - Summer 2025",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1732047549,
+    "date_posted": 1732047549,
+    "url": "https://caci.wd1.myworkdayjobs.com/External/job/US-VA-Ashburn/Software-Development-Intern---Summer-2025_304242-1",
+    "locations": [
+      "Ashburn, VA"
+    ],
+    "company_url": "https://simplify.jobs/c/CACI",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
