@@ -28399,5 +28399,25 @@
     "date_posted": 1731998348,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Baseten",
+    "id": "082ff4eb-ca1b-4562-9ebb-92ebf0316851",
+    "title": "Forward Deployed Engineering Intern",
+    "active": true,
+    "terms": [
+      "Winter 2025",
+      "Spring 2025"
+    ],
+    "date_updated": 1732003951,
+    "date_posted": 1732003951,
+    "url": "https://jobs.ashbyhq.com/baseten/f12d6e44-3133-4be4-834f-cf768f000bdb/application",
+    "locations": [
+      "SF"
+    ],
+    "company_url": "https://simplify.jobs/c/Baseten",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
