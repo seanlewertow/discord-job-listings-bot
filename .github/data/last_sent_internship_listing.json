@@ -28227,5 +28227,101 @@
     "company_url": "https://simplify.jobs/c/Uber",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Lucid",
+    "id": "7710b0e8-e4e4-4d78-9cf5-8959acc568d5",
+    "title": "Analytics Engineer Internship",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1731975259,
+    "date_posted": 1731975259,
+    "url": "https://job-boards.greenhouse.io/lucidsoftware/jobs/5333781004",
+    "locations": [
+      "Salt Lake City, UT"
+    ],
+    "company_url": "https://simplify.jobs/c/Lucid",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Tanium",
+    "id": "b0910d93-24f5-4dab-bf3e-e938f4551376",
+    "title": "Business Intelligence & Data Analytics Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1731975615,
+    "date_posted": 1731975615,
+    "url": "https://www.tanium.com/careers/6251461?gh_jid=6251461",
+    "locations": [
+      "Oakland, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Tanium",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Pavilion",
+    "id": "1148df0f-6d00-4fc9-9982-e6e797be80af",
+    "title": "Software Engineering Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1731975422,
+    "date_posted": 1731975422,
+    "url": "https://boards.greenhouse.io/pavilion/jobs/4498945005",
+    "locations": [
+      "SF"
+    ],
+    "company_url": "https://simplify.jobs/c/Pavilion",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Motorola",
+    "id": "0655cffb-f896-40ca-b518-2716865db45b",
+    "title": "Business Data Analyst Co-op",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1731975377,
+    "date_posted": 1731975377,
+    "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Alberta-Canada-Offsite/Business-Data-Analyst-Co-op_R51761",
+    "locations": [
+      "Remote in Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/MotorolaSolutions",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Crowdstrike",
+    "id": "557d8abf-6bc6-405b-aa72-38009cd78cef",
+    "title": "Software Engineer Intern - Summer 2025 - Remote - US - CAN",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1731975341,
+    "date_posted": 1731975341,
+    "url": "https://crowdstrike.wd5.myworkdayjobs.com/en-us/crowdstrikecareers/job/USA---Remote/Software-Engineer-Intern---Summer-2025--Remote--US--CAN-_R21100",
+    "locations": [
+      "Remote in USA",
+      "Remote in Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Crowdstrike",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
