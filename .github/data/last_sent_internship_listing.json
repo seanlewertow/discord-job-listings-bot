@@ -28342,5 +28342,43 @@
     "company_url": "https://simplify.jobs/c/84f3bc2b-33c1-4bb0-af43-21bb8d59d639",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Microsoft",
+    "id": "15e857cc-0424-4bde-b1c5-23025034d15c",
+    "title": "Technical Program Management: Internship Neurodiversity Hiring Program",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1731989821,
+    "date_posted": 1731989821,
+    "url": "https://jobs.careers.microsoft.com/us/en/job/1749518",
+    "locations": [
+      "Redmond, WA"
+    ],
+    "company_url": "https://simplify.jobs/c/Microsoft",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Northrop Grumman",
+    "id": "dc944a66-cfb1-4cdf-868a-6b0a0648b1d3",
+    "title": "2025 Systems Engineer Intern - Baltimore MD",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1731989612,
+    "date_posted": 1731989612,
+    "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Maryland-Baltimore/XMLNAME-2025-Systems-Engineer-Intern---Baltimore-MD_R10169650",
+    "locations": [
+      "Baltimore, MD"
+    ],
+    "company_url": "https://simplify.jobs/c/238c95d8-0d6e-4717-b28c-078b16d675d7",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
