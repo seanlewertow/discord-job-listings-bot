@@ -28323,5 +28323,24 @@
     "company_url": "https://simplify.jobs/c/Crowdstrike",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Corelogic",
+    "id": "1a234cca-e5b8-4c80-b956-e341ed2a94db",
+    "title": "Intern \u2013 Product Implementation Analyst",
+    "active": true,
+    "terms": [
+      "Spring 2024"
+    ],
+    "date_updated": 1731982739,
+    "date_posted": 1731356394,
+    "url": "https://corelogic.wd5.myworkdayjobs.com/en-US/Global/job/Dallas-TX/Intern--Technical-Writer_REQ15633",
+    "locations": [
+      "Dallas, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/84f3bc2b-33c1-4bb0-af43-21bb8d59d639",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
