@@ -5286,5 +5286,37 @@
     "company_url": "https://simplify.jobs/c/PVM,-Inc.",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Nike",
+    "id": "0ce13a5a-83e5-47ed-9881-0c4aac584fa5",
+    "title": "Software Engineer I",
+    "active": true,
+    "date_updated": 1732049236,
+    "date_posted": 1732049236,
+    "url": "https://nike.wd1.myworkdayjobs.com/en-US/nke/job/Beaverton-Oregon/Software-Engineer-I_R-41366",
+    "locations": [
+      "Beaverton, OR"
+    ],
+    "company_url": "https://simplify.jobs/c/Nike",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "date_updated": 1732050750,
+    "url": "https://jobs.ashbyhq.com/kikoff/ad87f613-2906-4497-886d-742d9104fc50",
+    "company_name": "Kikoff",
+    "title": "Software Engineer - Recent College Graduate",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "source": "ttonyxx",
+    "id": "bd8290d1-6563-4ba4-b80c-6c94a0e8455e",
+    "date_posted": 1732050750,
+    "company_url": "",
+    "is_visible": true
   }
 ]
