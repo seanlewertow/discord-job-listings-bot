@@ -28691,5 +28691,24 @@
     "company_url": "https://simplify.jobs/c/Adobe",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "HRL Laboratories",
+    "id": "82bc6b20-bfd1-426f-a10a-579a123aba88",
+    "title": "Compiler/Language Design Software Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1732076123,
+    "date_posted": 1732076123,
+    "url": "https://jobs.lever.co/dodmg/6a58ed5d-e0d3-4a32-be74-01151f7c482d/apply",
+    "locations": [
+      "Calabasas, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/HRL-Laboratories",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
