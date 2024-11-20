@@ -28748,5 +28748,24 @@
     "date_posted": 1732080677,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Northrop Grumman",
+    "id": "a14462f7-d7b0-47c2-a2d1-6fade9ca9e15",
+    "title": "2025 Software Engineering Intern - Warner Robins - GA",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1732119713,
+    "date_posted": 1732119713,
+    "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Georgia-Warner-Robins/XMLNAME-2025-Software-Engineering-Intern---Warner-Robins--GA-_R10178130",
+    "locations": [
+      "Warner Robins, GA"
+    ],
+    "company_url": "https://simplify.jobs/c/238c95d8-0d6e-4717-b28c-078b16d675d7",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
