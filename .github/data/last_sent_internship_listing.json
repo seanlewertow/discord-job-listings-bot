@@ -28590,5 +28590,106 @@
     "date_posted": 1732050729,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Symbotic",
+    "id": "448194f1-80a5-4eef-abe9-a6ca375c1e68",
+    "title": "Intern \u2013 Configuration",
+    "active": true,
+    "terms": [
+      "Summer 2024",
+      "Spring 2025",
+      "Fall 2025"
+    ],
+    "date_updated": 1732061397,
+    "date_posted": 1732061397,
+    "url": "https://symbotic.wd1.myworkdayjobs.com/en-US/Symbotic/job/USA-Wilmington--MA---HQ/Intern---Configuration_R4012",
+    "locations": [
+      "Burlington, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/symbotic",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Symbotic",
+    "id": "09238566-8069-43f1-8a6d-736179544b1a",
+    "title": "Intern \u2013 Software Engineer",
+    "active": true,
+    "terms": [
+      "Summer 2024",
+      "Spring 2025",
+      "Fall 2025"
+    ],
+    "date_updated": 1732061392,
+    "date_posted": 1732061392,
+    "url": "https://symbotic.wd1.myworkdayjobs.com/en-US/Symbotic/job/USA-Wilmington--MA---HQ/Intern---Software-Engineer_R3991",
+    "locations": [
+      "Burlington, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/symbotic",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "HUB",
+    "id": "74579ce7-4159-4503-b045-9ae67dbdbeae",
+    "title": "HUB International Internship Program Data Enablement Summer 2025",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1732061878,
+    "date_posted": 1732061878,
+    "url": "https://hubinternational.wd1.myworkdayjobs.com/en-US/HUBInternational/job/Chicago-IL/HUB-International-Internship-Program-Data-Enablement-Summer-2025_R0027381",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/989e38c8-1396-484f-b453-047d04ce2bd3",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Adobe",
+    "id": "bf7cee0c-8ad9-4ce5-8fe8-4ad0d83166b5",
+    "title": "2025 Intern - Data Scientist",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1732061888,
+    "date_posted": 1732061888,
+    "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Francisco/XMLNAME-2025-Intern---Data-Scientist_R149562",
+    "locations": [
+      "SF",
+      "San Jose, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Adobe",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Adobe",
+    "id": "eabf546f-596c-45eb-8034-1f0c83d3794c",
+    "title": "2025 Intern - Data Scientist",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1732061886,
+    "date_posted": 1732061886,
+    "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Francisco/XMLNAME-2025-Intern---Data-Scientist_R149561",
+    "locations": [
+      "SF",
+      "San Jose, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Adobe",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
