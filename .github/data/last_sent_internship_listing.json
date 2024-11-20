@@ -28767,5 +28767,107 @@
     "company_url": "https://simplify.jobs/c/238c95d8-0d6e-4717-b28c-078b16d675d7",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Motorola",
+    "id": "a2802bdf-9335-4a01-9df3-b53dd0a96e36",
+    "title": "Engineering Operations \u2013 Intern \u2013 2025 Internship - Solutions Deployment & Integration - Hybrid",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1732135849,
+    "date_posted": 1732135849,
+    "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/Engineering-Operations--Solutions-Deployment---Integration--Intern---2025-Internship---HYBRID_R51849-1",
+    "locations": [
+      "Chicago, IL",
+      "Hoffman Estates, IL",
+      "Brooklyn, OH",
+      "Elgin, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/MotorolaSolutions",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Wisk",
+    "id": "24141907-86a1-4766-9a7d-f7700bacfa69",
+    "title": "Software Development Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1732135681,
+    "date_posted": 1732135681,
+    "url": "https://jobs.lever.co/wisk/692c45f9-d592-4ad1-a099-5e7123f0c225/apply",
+    "locations": [
+      "Mountain View, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/wisk-aero",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Wisk",
+    "id": "7881f00b-b12f-4ce6-8407-eca12323ba8d",
+    "title": "Autonomy Simulation Software Engineering Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1732135676,
+    "date_posted": 1732135676,
+    "url": "https://jobs.lever.co/wisk/5721af22-b096-47b1-937e-e282bee714fb/apply",
+    "locations": [
+      "Mountain View, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/wisk-aero",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "CVS Pharmacy",
+    "id": "2c9b1c9e-1cba-4cf1-8880-bea34075a49f",
+    "title": "Data Engineering Undergraduate Internship - Summer 2025",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1732136272,
+    "date_posted": 1732136272,
+    "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/NY---New-York/Data-Engineering-Undergraduate-Internship---Summer-2025_R0409090",
+    "locations": [
+      "Smithfield, RI",
+      "Needham, MA",
+      "Hartford, CT",
+      "NYC",
+      "Irving, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/CVS",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Wisk",
+    "id": "1452453e-8baa-41a0-bed4-935005979db7",
+    "title": "Software Engineering Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1732135682,
+    "date_posted": 1732135682,
+    "url": "https://jobs.lever.co/wisk/55dbe938-1ca9-4f9f-afb3-a29dd65892b3/apply",
+    "locations": [
+      "Mountain View, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/wisk-aero",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
