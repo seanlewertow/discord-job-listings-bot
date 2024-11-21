@@ -29194,5 +29194,107 @@
     "company_url": "https://simplify.jobs/c/fd59cf21-122f-48d2-8ab5-400590b899b5",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "X",
+    "id": "b1bf3169-e43b-4dfc-8b38-8979380aa4ee",
+    "title": "Engineering Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1732177807,
+    "date_posted": 1732177807,
+    "url": "https://twitter.wd5.myworkdayjobs.com/en-US/X/job/Palo-Alto-CA/Engineering-Intern_R100794",
+    "locations": [
+      "Palo Alto, CA",
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/a94ca3a8-829f-489f-b5d7-ee7d05f9d83c",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "ZOLL Medical Corporation",
+    "id": "6cfeaca3-c199-4f58-bdaa-161a97115369",
+    "title": "Software Co-op",
+    "active": true,
+    "terms": [
+      "Winter 2025",
+      "Spring 2025"
+    ],
+    "date_updated": 1732177850,
+    "date_posted": 1732177850,
+    "url": "https://zoll.wd5.myworkdayjobs.com/en-US/ZOLLMedicalCorp/job/Chelmsford-MA/Software-Co-op_R13748",
+    "locations": [
+      "Lowell, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/ee618baa-00a6-40a4-a272-ee5c1f9a73dd",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "OCLC",
+    "id": "ba9e7e97-049c-4d19-ac0a-bd0f66824b23",
+    "title": "Software Engineer Intern",
+    "active": true,
+    "terms": [
+      "Spring 2025",
+      "Summer 2025",
+      "Fall 2025",
+      "Winter 2026",
+      "Spring 2026"
+    ],
+    "date_updated": 1732177707,
+    "date_posted": 1732177707,
+    "url": "https://oclc.wd1.myworkdayjobs.com/en-US/OCLC_Careers/job/Dublin-OH--Hybrid/Software-Engineer-Intern_R0003416",
+    "locations": [
+      "Dublin, OH"
+    ],
+    "company_url": "https://simplify.jobs/c/350afefb-30b2-4d69-899d-19a3d7dd96f5",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "OCLC",
+    "id": "9ab2a901-e823-4b00-93f1-e525896bea7f",
+    "title": "Software Engineer Intern",
+    "active": true,
+    "terms": [
+      "Spring 2025",
+      "Summer 2025"
+    ],
+    "date_updated": 1732177704,
+    "date_posted": 1732177704,
+    "url": "https://oclc.wd1.myworkdayjobs.com/en-US/OCLC_Careers/job/Dublin-OH--Hybrid/Software-Engineer-Intern_R0003418",
+    "locations": [
+      "Dublin, OH"
+    ],
+    "company_url": "https://simplify.jobs/c/350afefb-30b2-4d69-899d-19a3d7dd96f5",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Insulet Corporation",
+    "id": "5bcaf54d-4521-4aef-851c-4af781e0715d",
+    "title": "Co-op \u2013 Data Analytics Supplier Quality Engineering: January - June 2025 - On-site",
+    "active": true,
+    "terms": [
+      "Winter 2025"
+    ],
+    "date_updated": 1732177740,
+    "date_posted": 1732177740,
+    "url": "https://insulet.wd5.myworkdayjobs.com/en-US/insuletcareers/job/Acton-Massachusetts/Co-op--Data-Analytics-Supplier-Quality-Engineering--January---June-2025--On-site-_REQ-2024-8068",
+    "locations": [
+      "Acton, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/dc2cf0d7-af5f-4a5c-9c42-8fa0bd0ae04d",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
