@@ -29473,5 +29473,25 @@
     "company_url": "https://simplify.jobs/c/Amazon",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Ascend Analytics",
+    "id": "01995a39-5624-49bf-a7d2-38c712587133",
+    "title": "Software Engineering Intern",
+    "active": true,
+    "terms": [
+      "Spring 2025",
+      "Summer 2025"
+    ],
+    "date_updated": 1732220060,
+    "date_posted": 1732220060,
+    "url": "https://boards.greenhouse.io/ascendanalytics/jobs/4500201005",
+    "locations": [
+      "Boulder, CO"
+    ],
+    "company_url": "https://simplify.jobs/c/AscendAnalytics",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
