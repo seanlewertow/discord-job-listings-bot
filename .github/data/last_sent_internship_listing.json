@@ -29493,5 +29493,62 @@
     "company_url": "https://simplify.jobs/c/AscendAnalytics",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Parsons",
+    "id": "89658dd3-e4c6-43cc-bbf9-9af584da31eb",
+    "title": "AI/ML Engineer Internship - Summer 2025",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1732220557,
+    "date_posted": 1732220557,
+    "url": "https://parsons.wd5.myworkdayjobs.com/en-US/search/job/US---CO-Boulder/AI-ML-Engineer-Internship---Summer-2025_R161235",
+    "locations": [
+      "Boulder, CO"
+    ],
+    "company_url": "https://simplify.jobs/c/fd59cf21-122f-48d2-8ab5-400590b899b5",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Viget",
+    "id": "0c468fe9-3255-47be-89fb-1bc2829296ac",
+    "title": "Application Developer Intern - 2025",
+    "active": true,
+    "terms": [
+      "Summer 2024"
+    ],
+    "date_updated": 1732220294,
+    "date_posted": 1732220294,
+    "url": "https://jobs.lever.co/viget/7ed6e70b-c6a1-4f51-8db0-940d7b5aa291/apply",
+    "locations": [
+      "Boulder, CO"
+    ],
+    "company_url": "https://simplify.jobs/c/Viget",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Viget",
+    "id": "6f81cc15-f0ec-48cc-a60d-c5234fdf291a",
+    "title": "Javascript Developer Intern - 2025",
+    "active": true,
+    "terms": [
+      "Summer 2024"
+    ],
+    "date_updated": 1732220288,
+    "date_posted": 1732220288,
+    "url": "https://jobs.lever.co/viget/a4b008a5-eaee-40ab-9458-bff4b796b401/apply",
+    "locations": [
+      "Boulder, CO"
+    ],
+    "company_url": "https://simplify.jobs/c/Viget",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
