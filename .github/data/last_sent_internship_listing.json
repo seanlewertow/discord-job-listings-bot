@@ -29589,5 +29589,24 @@
     "company_url": "https://simplify.jobs/c/Rockwell-Automation",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "date_updated": 1732227625,
+    "url": "https://careers.stellantis.com/job/20993756/",
+    "company_name": "Stellantis Middle East & Africa",
+    "title": "Business Software Driven Experience (SWX) Intern",
+    "locations": [
+      "Remote, US"
+    ],
+    "terms": [
+      "Summer 2025"
+    ],
+    "sponsorship": "Does Not Offer Sponsorship",
+    "active": true,
+    "source": "LuaanNguyen",
+    "id": "9382d774-94cf-4794-a466-098fab905830",
+    "date_posted": 1732227625,
+    "company_url": "",
+    "is_visible": true
   }
 ]
