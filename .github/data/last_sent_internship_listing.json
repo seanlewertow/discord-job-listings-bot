@@ -29433,5 +29433,45 @@
     "company_url": "https://simplify.jobs/c/0a7203ab-f416-4aa4-ad3d-4c87c757904e",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Ivalua",
+    "id": "08e50362-b68c-43b6-a134-b67f59ca5ed6",
+    "title": "Customer Application Engineer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1732205419,
+    "date_posted": 1732205419,
+    "url": "https://boards.greenhouse.io/ivalua/jobs/6418171",
+    "locations": [
+      "Montreal, QC, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/ad048830-3daa-4873-8fb3-0dc7481a85eb",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Amazon",
+    "id": "475aa005-b3cd-46b5-acc3-3b85a72056dc",
+    "title": "2025 Software Dev Engineer Intern - UK",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1732205766,
+    "date_posted": 1732205766,
+    "url": "https://amazon.jobs/en/jobs/2772291/2025-software-dev-engineer-intern-uk",
+    "locations": [
+      "London, UK",
+      "Edinburgh, UK",
+      "Cambridge, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Amazon",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
