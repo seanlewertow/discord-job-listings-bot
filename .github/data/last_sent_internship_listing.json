@@ -29099,5 +29099,100 @@
     "company_url": "https://simplify.jobs/c/Washington-Post",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Ethereum Foundation",
+    "id": "d956211e-3e04-4d70-8b7e-e90e2ab420bd",
+    "title": "Research Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1732177538,
+    "date_posted": 1732177538,
+    "url": "https://jobs.lever.co/ethereumfoundation/bac0fd4a-a8de-45f0-9223-2df882a7022e/apply",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/0f03682e-e2e6-48aa-987d-6a896a182a70",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "American Century Investments",
+    "id": "8ba5be3b-ddec-404c-84d6-b6460c0a1232",
+    "title": "Quantitative Investment Analyst Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1732177544,
+    "date_posted": 1732177544,
+    "url": "https://americancentury.wd5.myworkdayjobs.com/en-US/AmericanCenturyInvestments/job/Kansas-City-Missouri/Quantitative-Investment-Analyst-Intern_R0004989",
+    "locations": [
+      "Kansas City, MO"
+    ],
+    "company_url": "https://simplify.jobs/c/2940e44d-daa3-4a3c-b896-ba9435ad86f7",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "American Century Investments",
+    "id": "1fe28a33-02ac-45fe-b61d-eabd09784620",
+    "title": "Software Developer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1732177533,
+    "date_posted": 1732177533,
+    "url": "https://americancentury.wd5.myworkdayjobs.com/en-US/AmericanCenturyInvestments/job/Kansas-City-Missouri/Investment-Operations-Technology-Intern_R0005007",
+    "locations": [
+      "Kansas City, MO"
+    ],
+    "company_url": "https://simplify.jobs/c/2940e44d-daa3-4a3c-b896-ba9435ad86f7",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Ethereum Foundation",
+    "id": "c322ad8a-74a2-428e-ba54-403c5ecd4c71",
+    "title": "Software Engineering Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1732177528,
+    "date_posted": 1732177528,
+    "url": "https://jobs.lever.co/ethereumfoundation/4881baf8-f006-4885-aaac-8bd5c9ca836a/apply",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/0f03682e-e2e6-48aa-987d-6a896a182a70",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Parsons",
+    "id": "0241796d-dab8-4295-8a36-d035d8bb300d",
+    "title": "Engineering Co-Op/Intern Fall 2024 - TS or higher cleared",
+    "active": true,
+    "terms": [
+      "Fall 2024"
+    ],
+    "date_updated": 1732177181,
+    "date_posted": 1732177181,
+    "url": "https://parsons.wd5.myworkdayjobs.com/en-US/search/job/US---VA-Centreville/Engineering-Co-Op-Intern-Fall-2024---TS-or-higher-cleared_R157628",
+    "locations": [
+      "Centreville, VA"
+    ],
+    "company_url": "https://simplify.jobs/c/fd59cf21-122f-48d2-8ab5-400590b899b5",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
