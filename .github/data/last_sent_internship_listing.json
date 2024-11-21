@@ -29569,5 +29569,25 @@
     "company_url": "https://simplify.jobs/c/238c95d8-0d6e-4717-b28c-078b16d675d7",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Rockwell Automation",
+    "id": "e961a7d4-60e7-4084-b281-a30530b0dbb6",
+    "title": "Intern \u2013 Software Engineering",
+    "active": true,
+    "terms": [
+      "Spring 2024",
+      "Summer 2024"
+    ],
+    "date_updated": 1732220772,
+    "date_posted": 1732220772,
+    "url": "https://rockwellautomation.wd1.myworkdayjobs.com/en-US/External_Rockwell_Automation/job/Mayfield-Heights-Ohio-United-States/Intern--Software-Engineering_R24-5966-1",
+    "locations": [
+      "Mayfield Heights, OH"
+    ],
+    "company_url": "https://simplify.jobs/c/Rockwell-Automation",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
