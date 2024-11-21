@@ -29002,5 +29002,102 @@
     "date_posted": 1732166370,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "source": "Simplify",
+    "company_name": "MKS Instruments",
+    "id": "b905a90c-a490-471e-b20f-a4997a8a91e6",
+    "title": "2025 Summer Software Engineer Undergraduate/Intern Co-op",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1732176641,
+    "date_posted": 1732176641,
+    "url": "https://mksinst.wd1.myworkdayjobs.com/en-US/MKSCareersUniversity/job/North-Logan-UT/XMLNAME-2025-Summer-Software-Engineer-Undergraduate-Intern-Co-op_R11633",
+    "locations": [
+      "Logan, UT"
+    ],
+    "company_url": "https://simplify.jobs/c/07d9f7f0-9f1a-4ecb-9346-f3ac39d905f2",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "The Washington Post",
+    "id": "9b0db90d-f63a-4b81-9866-a4b3d649e7b6",
+    "title": "Summer Intern - Subscriptions Engineer",
+    "active": true,
+    "terms": [
+      "Summer 2024"
+    ],
+    "date_updated": 1732176607,
+    "date_posted": 1732176607,
+    "url": "https://washpost.wd5.myworkdayjobs.com/washingtonpostcareers/job/DC-Washington-TWP-Headquarters/Summer-Intern--Subscriptions-Engineer_JR-90274966",
+    "locations": [
+      "Washington, DC"
+    ],
+    "company_url": "https://simplify.jobs/c/Washington-Post",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "The Washington Post",
+    "id": "b86bed81-7490-4396-b5eb-e95ddb17a0aa",
+    "title": "Summer Intern - Applied ML Scientist",
+    "active": true,
+    "terms": [
+      "Summer 2024"
+    ],
+    "date_updated": 1732176604,
+    "date_posted": 1732176604,
+    "url": "https://washpost.wd5.myworkdayjobs.com/washingtonpostcareers/job/DC-Washington-TWP-Headquarters/Summer-Intern--Applied-ML-Scientist_JR-90274962",
+    "locations": [
+      "Washington, DC"
+    ],
+    "company_url": "https://simplify.jobs/c/Washington-Post",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Vertex",
+    "id": "692be8a3-b912-4855-9ccf-dc546123271f",
+    "title": "Software Development Intern",
+    "active": true,
+    "terms": [
+      "Spring 2024",
+      "Summer 2024"
+    ],
+    "date_updated": 1732176600,
+    "date_posted": 1732176600,
+    "url": "https://vertexinc.wd1.myworkdayjobs.com/en-US/VertexInc/job/Remote-USA/Software-Development-Intern_JR101478-1",
+    "locations": [
+      "Remote in USA",
+      "Remote in Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/00f3d97e-1dbe-4838-ab8c-b851f2ed22b9",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "The Washington Post",
+    "id": "ce2e35e9-3c24-4477-afc9-9ed6f4f431f5",
+    "title": "Summer Intern - Software Engineer - Data/AI",
+    "active": true,
+    "terms": [
+      "Summer 2024"
+    ],
+    "date_updated": 1732176600,
+    "date_posted": 1732176600,
+    "url": "https://washpost.wd5.myworkdayjobs.com/washingtonpostcareers/job/DC-Washington-TWP-Headquarters/Summer-Intern--Software-Engineer--Data-AI-_JR-90274961",
+    "locations": [
+      "Washington, DC"
+    ],
+    "company_url": "https://simplify.jobs/c/Washington-Post",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
