@@ -28869,5 +28869,100 @@
     "company_url": "https://simplify.jobs/c/wisk-aero",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Heretic",
+    "id": "8207c7a9-788b-4111-87d0-d718f7626cfb",
+    "title": "Spring Semester \u2013 Applied AI/ML Engineering Intern",
+    "active": true,
+    "terms": [
+      "Spring 2024"
+    ],
+    "date_updated": 1732148052,
+    "date_posted": 1732148052,
+    "url": "https://jobs.lever.co/heretic-fund/3ed2311c-c676-4849-85e0-c159e893f75f/apply",
+    "locations": [
+      "SF"
+    ],
+    "company_url": "https://simplify.jobs/c/HereticVentures",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Visier Solutions",
+    "id": "db577e49-0a19-45ea-b71e-e3d47502ac8e",
+    "title": "Data Scientist Intern - Jan 2025 - Aug 2025",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1732148028,
+    "date_posted": 1732148028,
+    "url": "https://job-boards.greenhouse.io/visiersolutionsinc/jobs/4420147006",
+    "locations": [
+      "Vancouver, BC, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Visier",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Shamrock Trading",
+    "id": "fd78b414-c270-4f92-987d-86bd8a8572ee",
+    "title": "Data Science / Machine Learning Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1732147671,
+    "date_posted": 1732147671,
+    "url": "https://jobs.jobvite.com/shamrock/job/oznSufw2?nl=1&nl=1&fr=false",
+    "locations": [
+      "Overland Park, KS"
+    ],
+    "company_url": "https://simplify.jobs/c/Shamrock-Trading",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Leidos",
+    "id": "f7a4471e-cc6b-4940-b2cf-a1b5e338f66e",
+    "title": "Software Engineer Intern",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1732148328,
+    "date_posted": 1732148328,
+    "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Shiloh-IL/Software-Engineer-Intern_R-00148560",
+    "locations": [
+      "O'Fallon, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/Leidos",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Otis",
+    "id": "97d52aaa-22e0-4559-b047-7ae2bbe30394",
+    "title": "Software Engineering Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1732148313,
+    "date_posted": 1732148313,
+    "url": "https://otis.wd5.myworkdayjobs.com/en-US/REC_Ext_Gateway/job/OT494-5FS---Farmington-CT-5-Farm-Springs-Farmington-CT-06032-USA/Software-Engineering-Intern_20116507",
+    "locations": [
+      "Farmington, CT"
+    ],
+    "company_url": "https://simplify.jobs/c/c3c2286b-477f-4e0c-9557-45d26ee52541",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
