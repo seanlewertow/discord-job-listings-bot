@@ -29296,5 +29296,47 @@
     "company_url": "https://simplify.jobs/c/dc2cf0d7-af5f-4a5c-9c42-8fa0bd0ae04d",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Ivalua",
+    "id": "43d9465b-9c39-45f3-8606-d153eef00b7d",
+    "title": "Customer Application Engineer Intern \u2013 6 months full time internship",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1732176733,
+    "date_posted": 1732176733,
+    "url": "https://boards.greenhouse.io/ivalua/jobs/6209124",
+    "locations": [
+      "Fremont, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/ad048830-3daa-4873-8fb3-0dc7481a85eb",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Uline",
+    "id": "0f9aa952-361d-4c73-bfb1-fa2fe1f8d510",
+    "title": "Software Developer Internship - Summer 2025",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1732176680,
+    "date_posted": 1732176680,
+    "url": "https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/Software-Developer-Internship---Summer-2025_R248599",
+    "locations": [
+      "Waukegan, IL",
+      "Milwaukee, WI",
+      "Pleasant Prairie, WI",
+      "Morton Grove, IL",
+      "Kenosha, WI"
+    ],
+    "company_url": "https://simplify.jobs/c/656d9cca-8674-4b7c-ad5f-f7298d72e103",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
