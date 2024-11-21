@@ -28964,5 +28964,43 @@
     "company_url": "https://simplify.jobs/c/c3c2286b-477f-4e0c-9557-45d26ee52541",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "date_updated": 1732166312,
+    "url": "https://careers.ibm.com/job/20939608/back-end-developer-intern-2025-research-triangle-park-nc/",
+    "company_name": "IBM",
+    "title": "Back End Developer Intern: 2025",
+    "locations": [
+      "Raleigh, NC"
+    ],
+    "terms": [
+      "Summer 2025"
+    ],
+    "sponsorship": "Does Not Offer Sponsorship",
+    "active": true,
+    "source": "GaryZhous",
+    "id": "b031fc15-fd68-4039-a917-58d08a5c6e82",
+    "date_posted": 1732166312,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1732166370,
+    "url": "https://careers.rtx.com/global/en/job/RAYTGLOBAL01733095EXTERNALENGLOBAL/Software-Engineering-Intern-Summer-2025-Onsite",
+    "company_name": "Collins Aerospace",
+    "title": "Software Engineering Intern- Summer 2025 (Onsite)",
+    "locations": [
+      "Anaheim, CA"
+    ],
+    "terms": [
+      "Summer 2025"
+    ],
+    "sponsorship": "U.S. Citizenship is Required",
+    "active": true,
+    "source": "GaryZhous",
+    "id": "02f32c9b-1551-4003-9f99-c4f429e07d7e",
+    "date_posted": 1732166370,
+    "company_url": "",
+    "is_visible": true
   }
 ]
