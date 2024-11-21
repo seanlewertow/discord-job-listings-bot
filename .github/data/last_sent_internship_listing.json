@@ -29550,5 +29550,24 @@
     "company_url": "https://simplify.jobs/c/Viget",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Northrop Grumman",
+    "id": "cec236e8-1291-45c4-bdc6-780b5044ff82",
+    "title": "2025 Software Engineer Intern - Chantilly VA",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1732221765,
+    "date_posted": 1732221765,
+    "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Virginia-Chantilly/XMLNAME-2025-Software-Engineer-Intern---Chantilly-VA_R10178335",
+    "locations": [
+      "Chantilly, VA"
+    ],
+    "company_url": "https://simplify.jobs/c/238c95d8-0d6e-4717-b28c-078b16d675d7",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
