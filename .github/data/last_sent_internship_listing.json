@@ -29357,5 +29357,81 @@
     "company_url": "https://simplify.jobs/c/NVIDIA",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Parsons",
+    "id": "c066c112-3df2-4716-9609-fc74e51c68ef",
+    "title": "Space Ops Software Engineer Intern - Summer 2025",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1732176902,
+    "date_posted": 1732176902,
+    "url": "https://parsons.wd5.myworkdayjobs.com/en-US/search/job/US---CO-Colorado-Springs/Space-Ops-Software-Engineer-Intern--Summer-2025-_R160742",
+    "locations": [
+      "Colorado Springs, CO"
+    ],
+    "company_url": "https://simplify.jobs/c/fd59cf21-122f-48d2-8ab5-400590b899b5",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Parsons",
+    "id": "ba472948-2f51-4d2e-b5f7-784eae699af7",
+    "title": "Engineering Internship Summer 2025",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1732176864,
+    "date_posted": 1732176864,
+    "url": "https://parsons.wd5.myworkdayjobs.com/en-US/search/job/US---VA-Herndon/Engineering-Internship-Summer-2025_R161070",
+    "locations": [
+      "Reston, VA"
+    ],
+    "company_url": "https://simplify.jobs/c/fd59cf21-122f-48d2-8ab5-400590b899b5",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Manulife",
+    "id": "bbb21ccf-b3f6-4038-a1e6-3a27f0eb7a53",
+    "title": "John Hancock Software Engineering Summer Internship Program 2025",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1732176614,
+    "date_posted": 1732176614,
+    "url": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_AdminJobs/job/Boston-Massachusetts/John-Hancock-Software-Engineering-Summer-Internship-Program-2025_JR24081349-2",
+    "locations": [
+      "Boston, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/acb6271e-e26a-401d-befe-547f56e287b5",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Cleric",
+    "id": "e5590f9a-0c56-4a0d-b7c4-dd56d660bba7",
+    "title": "Software Engineer \u2013 Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1732176594,
+    "date_posted": 1732176594,
+    "url": "https://jobs.ashbyhq.com/Cleric/0a2240fb-18b2-4e95-bccf-c8003d06252c/application",
+    "locations": [
+      "SF"
+    ],
+    "company_url": "https://simplify.jobs/c/0a7203ab-f416-4aa4-ad3d-4c87c757904e",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
