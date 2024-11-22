@@ -29608,5 +29608,99 @@
     "date_posted": 1732227625,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Plexus",
+    "id": "8e822387-7757-4ceb-8fb5-6f8d70661703",
+    "title": "Intern \u2013 Product Engineer - Summer 2025",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1732234477,
+    "date_posted": 1732234477,
+    "url": "https://plexus.wd5.myworkdayjobs.com/en-US/Plexus_Careers/job/Neenah-WI/Intern---Product-Engineer---Summer-2025_R030786-1",
+    "locations": [],
+    "company_url": "https://simplify.jobs/c/Plexus",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Kepler Communications",
+    "id": "943d6f34-048b-4715-a088-0eddf925c53f",
+    "title": "Software Engineering Intern - January 2025 - 4-months",
+    "active": true,
+    "terms": [
+      "Winter 2025"
+    ],
+    "date_updated": 1732234255,
+    "date_posted": 1732234255,
+    "url": "https://jobs.lever.co/kepler/dfa23b22-fdb9-436c-a925-32b056506fc5/apply",
+    "locations": [
+      "Toronto, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Kepler-Communications",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Aurora Innovation",
+    "id": "5d38ad48-0264-4b90-8e1a-329871fe5a36",
+    "title": "Software Engineer Internship - Sensor Infrastructure",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1732234932,
+    "date_posted": 1732234932,
+    "url": "https://aurora.tech/jobs/7730553002?gh_jid=7730553002",
+    "locations": [
+      "Mountain View, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Aurora-Innovation",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Rockwell Automation",
+    "id": "fc905047-e64d-41d7-a9de-48f4207e22f5",
+    "title": "Intern \u2013 Embedded Software Engineering",
+    "active": true,
+    "terms": [
+      "Spring 2024",
+      "Summer 2024"
+    ],
+    "date_updated": 1732234542,
+    "date_posted": 1732234542,
+    "url": "https://rockwellautomation.wd1.myworkdayjobs.com/en-US/External_Rockwell_Automation/job/Eden-Prairie-Minnesota-United-States/Intern--Embedded-Software-Engineering_R24-6537-1",
+    "locations": [
+      "Eden Prairie, MN"
+    ],
+    "company_url": "https://simplify.jobs/c/Rockwell-Automation",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Bandwidth",
+    "id": "66a35259-95c8-4b80-928a-faed297ae319",
+    "title": "Software Development Intern - Summer 2025",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1732234552,
+    "date_posted": 1732234552,
+    "url": "https://boards.greenhouse.io/bandwidth/jobs/6408764",
+    "locations": [
+      "Raleigh, NC"
+    ],
+    "company_url": "https://simplify.jobs/c/Bandwidth",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
