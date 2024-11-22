@@ -29818,5 +29818,82 @@
     "company_url": "https://simplify.jobs/c/Skylo-Technologies",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Leidos",
+    "id": "fed17cd1-27d9-49b7-b09b-a6aaa3de225e",
+    "title": "GenAI Developer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1732308048,
+    "date_posted": 1732308048,
+    "url": "https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/GenAI-Developer-Intern_R-00148812",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/Leidos",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Leidos",
+    "id": "f7515e55-3eab-46f1-b87f-21d2a120608c",
+    "title": "Software Developer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1732308042,
+    "date_posted": 1732308042,
+    "url": "https://leidos.wd5.myworkdayjobs.com/External/job/8491-Washington-DC-Home-Office/Software-Developer-Intern_R-00148829",
+    "locations": [
+      "Washington, DC",
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/Leidos",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Harbinger Motors",
+    "id": "ae6972a0-95df-490c-ae7f-d6cadac2340a",
+    "title": "ADAS Intern - Winter 2025",
+    "active": true,
+    "terms": [
+      "Winter 2025"
+    ],
+    "date_updated": 1732308002,
+    "date_posted": 1732308002,
+    "url": "https://job-boards.greenhouse.io/harbingermotors/jobs/4589740007",
+    "locations": [
+      "Westminster, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Harbinger-Motors",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Schonfeld",
+    "id": "5b7c8aad-cd5f-4047-9829-a8c89610140b",
+    "title": "2025 Sector Data Analyst Summer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1732307660,
+    "date_posted": 1732307660,
+    "url": "https://job-boards.greenhouse.io/schonfeld/jobs/6322305",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Schonfeld",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
