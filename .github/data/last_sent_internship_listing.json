@@ -29895,5 +29895,24 @@
     "company_url": "https://simplify.jobs/c/Schonfeld",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Salesforce",
+    "id": "ed29227a-476d-4a52-9ec6-8476b8798269",
+    "title": "Summer 2025 Intern - Technical Program Management - Slack",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1732306665,
+    "date_posted": 1732306665,
+    "url": "https://salesforce.wd12.myworkdayjobs.com/en-us/External_Career_Site/job/California---San-Francisco/Summer-2025-Intern---Technical-Program-Management---Slack_JR272419-2",
+    "locations": [
+      "SF"
+    ],
+    "company_url": "https://simplify.jobs/c/Salesforce",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
