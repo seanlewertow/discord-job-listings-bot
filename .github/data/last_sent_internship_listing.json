@@ -29778,5 +29778,45 @@
     "company_url": "https://simplify.jobs/c/MotorolaSolutions",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Wikimedia Foundation",
+    "id": "70386bf7-1c15-4ae3-9d1a-4ab007ad81fe",
+    "title": "Software Engineering Internship Program - 2025",
+    "active": true,
+    "terms": [
+      "Winter 2026",
+      "Spring 2026",
+      "Summer 2026"
+    ],
+    "date_updated": 1732307356,
+    "date_posted": 1732307356,
+    "url": "https://job-boards.greenhouse.io/wikimedia/jobs/6383322",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/Wikimedia-Foundation",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Skylo Technologies",
+    "id": "405cd578-4aa6-40a5-afc3-b34347ecd728",
+    "title": "Data Analyst Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1732306782,
+    "date_posted": 1732306782,
+    "url": "https://job-boards.greenhouse.io/skylotechnologies/jobs/6271654003",
+    "locations": [
+      "Mountain View, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Skylo-Technologies",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
