@@ -29759,5 +29759,24 @@
     "company_url": "https://simplify.jobs/c/Amazon",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Motorola",
+    "id": "477d23d3-9b94-4498-a59f-5d53e49c6fda",
+    "title": "AI Powered Data & Analytics IT ADI \u2013 2025 Summer Internship",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1732292309,
+    "date_posted": 1732292309,
+    "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/AI-Powered-Data---Analytics-IT-ADI---2025-Summer-Internship_R50449",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/MotorolaSolutions",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
