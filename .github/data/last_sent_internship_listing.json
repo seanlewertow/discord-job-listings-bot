@@ -29721,5 +29721,24 @@
     "company_url": "https://simplify.jobs/c/Plexus",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Matroid",
+    "id": "077b3a67-dbfa-405d-b9b9-a76cadd48af4",
+    "title": "Software Engineer Intern - Infrastructure - Summer 2025",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1732249175,
+    "date_posted": 1732249175,
+    "url": "https://matroid.breezy.hr/p/3ccdad20c182/apply",
+    "locations": [
+      "Palo Alto, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Matroid",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
