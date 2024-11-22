@@ -29702,5 +29702,24 @@
     "company_url": "https://simplify.jobs/c/Bandwidth",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Plexus",
+    "id": "d102857a-d217-49ac-8463-594157b13764",
+    "title": "Intern \u2013 Software Engineer - Spring 2026",
+    "active": true,
+    "terms": [
+      "Spring 2026"
+    ],
+    "date_updated": 1732248790,
+    "date_posted": 1732248790,
+    "url": "https://plexus.wd5.myworkdayjobs.com/en-US/Plexus_Careers/job/Neenah-WI/Intern---Software-Engineer--Spring-2026_R030784-1",
+    "locations": [
+      "Neenah, WI"
+    ],
+    "company_url": "https://simplify.jobs/c/Plexus",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
