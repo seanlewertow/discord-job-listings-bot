@@ -29914,5 +29914,81 @@
     "company_url": "https://simplify.jobs/c/Salesforce",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "AbCellera Biologics",
+    "id": "65ab2b8a-04bd-416d-82f1-18a7a93ec7fb",
+    "title": "Data Science Intern \u2013 8-month Co-op/Internship",
+    "active": true,
+    "terms": [
+      "Spring 2025"
+    ],
+    "date_updated": 1732320826,
+    "date_posted": 1732320826,
+    "url": "https://abcellera.com/careers-openings?gh_jid=6273984003",
+    "locations": [
+      "Vancouver, BC, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/AbCellera-Biologics",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Samsung Research America",
+    "id": "533228e0-1415-47a7-9a54-c04bcfb16463",
+    "title": "2025 Summer Intern - Computational Imaging",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1732320598,
+    "date_posted": 1732320598,
+    "url": "https://job-boards.greenhouse.io/samsungresearchamericainternship/jobs/7740592002",
+    "locations": [
+      "Plano, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Samsung-Research-America",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Evolve Technology",
+    "id": "e9aec697-2521-41d8-8d5b-010cd150e46d",
+    "title": "Embedded Software Development Intern - Summer",
+    "active": true,
+    "terms": [
+      "Summer 2024"
+    ],
+    "date_updated": 1732320580,
+    "date_posted": 1732320580,
+    "url": "https://apply.workable.com/evolv-technology/j/38A4D59CC2/apply",
+    "locations": [
+      "Waltham, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/Evolve-Technology",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Moveworks",
+    "id": "ab9170a8-134c-4948-8a4a-d271f4da6b63",
+    "title": "Data Analyst Intern",
+    "active": true,
+    "terms": [
+      "Winter 2025"
+    ],
+    "date_updated": 1732321117,
+    "date_posted": 1732321117,
+    "url": "https://www.moveworks.com/us/en/company/careers/position?gh_jid=7742383002&gh_jid=7742383002",
+    "locations": [
+      "Mountain View, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Moveworks",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
