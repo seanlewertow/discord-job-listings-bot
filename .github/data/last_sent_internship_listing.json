@@ -29990,5 +29990,66 @@
     "company_url": "https://simplify.jobs/c/Moveworks",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Splunk",
+    "id": "42b8e322-84ad-44be-a3b7-cfd442b1f4fd",
+    "title": "Software Engineer Intern - Threat Research - Boulder - CO - Summer 2025",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1732335317,
+    "date_posted": 1732335317,
+    "url": "https://jobs.jobvite.com/splunk-careers/job/oLTEufww?nl=1&nl=1&fr=false",
+    "locations": [
+      "Boulder, CO"
+    ],
+    "company_url": "https://simplify.jobs/c/Splunk",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Northwestern Mutual",
+    "id": "ef3c21dd-54a5-4095-a6bf-1e378fbfa3a3",
+    "title": "Data Science Internship",
+    "active": true,
+    "terms": [
+      "Summer 2024"
+    ],
+    "date_updated": 1732334988,
+    "date_posted": 1732334988,
+    "url": "https://northwesternmutual.wd5.myworkdayjobs.com/corporate-careers/job/Milwaukee-WI-Corporate/Data-Science-Internship_JR-41611-1",
+    "locations": [
+      "Milwaukee, WI",
+      "Greendale, WI",
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Northwestern-Mutual",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Northwestern Mutual",
+    "id": "7565897b-1151-4e2e-9f14-d9ebf82e0169",
+    "title": "Data Engineering Internship",
+    "active": true,
+    "terms": [
+      "Summer 2024"
+    ],
+    "date_updated": 1732334990,
+    "date_posted": 1732334990,
+    "url": "https://northwesternmutual.wd5.myworkdayjobs.com/corporate-careers/job/Milwaukee-WI-Corporate/Data-Engineering-Internship_JR-41612-1",
+    "locations": [
+      "Milwaukee, WI",
+      "Greendale, WI",
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Northwestern-Mutual",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
