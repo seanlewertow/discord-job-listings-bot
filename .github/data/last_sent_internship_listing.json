@@ -30070,5 +30070,24 @@
     "company_url": "https://simplify.jobs/c/AppLovin",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "date_updated": 1732427240,
+    "url": "https://www.tanium.com/careers/6208649",
+    "company_name": "Tanium",
+    "title": "Software Engineering Intern",
+    "locations": [
+      "Addison, TX"
+    ],
+    "terms": [
+      "Summer 2025"
+    ],
+    "sponsorship": "Does Not Offer Sponsorship",
+    "active": true,
+    "source": "GaryZhous",
+    "id": "d23c3ef0-c17e-4ad3-8dfb-3fc1c6503d78",
+    "date_posted": 1732427240,
+    "company_url": "",
+    "is_visible": true
   }
 ]
