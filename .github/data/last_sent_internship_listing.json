@@ -30089,5 +30089,28 @@
     "date_posted": 1732427240,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "date_updated": 1732427713,
+    "url": "https://careers.netapp.com/job/research-triangle-park/intern-solutions-engineer/27600/71710320400",
+    "company_name": "NetApp",
+    "title": "Intern - Software Engineer",
+    "locations": [
+      "Research Triangle Park, NC",
+      "San Jose, CA",
+      "Boulder, CO",
+      "Cranberry Township, PA",
+      "Wichita, KS"
+    ],
+    "terms": [
+      "Summer 2025"
+    ],
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "source": "GaryZhous",
+    "id": "bd01d6d2-117e-4ae6-8292-d82ca92d730b",
+    "date_posted": 1732427713,
+    "company_url": "",
+    "is_visible": true
   }
 ]
