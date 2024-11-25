@@ -30131,5 +30131,24 @@
     "company_url": "https://simplify.jobs/c/Live-Ramp",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "MKS Instruments",
+    "id": "11183a0f-fd98-475a-952d-fefb2eb6b0c8",
+    "title": "2025 Summer IT Analytics and Dashboards Intern/co-op",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1732551127,
+    "date_posted": 1732551127,
+    "url": "https://mksinst.wd1.myworkdayjobs.com/en-US/MKSCareersUniversity/job/Andover-MA/XMLNAME-2025-Summer-IT-Analytics-and-Dashboards-Intern-co-op_R11725",
+    "locations": [
+      "Andover, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/07d9f7f0-9f1a-4ecb-9346-f3ac39d905f2",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
