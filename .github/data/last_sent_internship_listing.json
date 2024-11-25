@@ -30188,5 +30188,100 @@
     "company_url": "https://simplify.jobs/c/Leidos",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Amazon",
+    "id": "a2baf8e3-dd66-4af5-b918-b05df02264b3",
+    "title": "Neuron Compiler Software Engineer Intern - Annapurna ML",
+    "active": true,
+    "terms": [
+      "Spring 2025"
+    ],
+    "date_updated": 1732574280,
+    "date_posted": 1732574280,
+    "url": "https://amazon.jobs/en/jobs/2770360/neuron-compiler-software-engineer-intern-annapurna-ml",
+    "locations": [
+      "Toronto, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Amazon",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Truist",
+    "id": "2b4ace8a-02a6-47c6-8251-c4ad83a1a45d",
+    "title": "2025 Truist Securities \u2013 Summer Analyst Program - Public Finance S&T - Sales - Trading & Research",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1732574207,
+    "date_posted": 1732574207,
+    "url": "https://truist.wd1.myworkdayjobs.com/en-US/Careers/job/Charlotte-NC/XMLNAME-2025-Truist-Securities---Public-Finance-S-T--Sales--Trading---Research----Summer-Analyst-Program_R0096260",
+    "locations": [
+      "Charlotte, NC"
+    ],
+    "company_url": "https://simplify.jobs/c/Truist",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Truist",
+    "id": "8b538e2d-0272-4725-802c-4c971124ca64",
+    "title": "2025 Truist Securities \u2013 Summer Analyst Program - Equity S&T - Sales - Trading & Research",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1732574206,
+    "date_posted": 1732574206,
+    "url": "https://truist.wd1.myworkdayjobs.com/en-US/Careers/job/New-York-NY/XMLNAME-2025-Truist-Securities---Equity-S-T--Sales--Trading---Research----Summer-Analyst-Program_R0096262",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Truist",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Bandwidth",
+    "id": "483abaa7-1de4-4701-976f-89e941f9f997",
+    "title": "Software Development Intern - Summer 2025",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1732574098,
+    "date_posted": 1732574098,
+    "url": "https://boards.greenhouse.io/bandwidth/jobs/6418460",
+    "locations": [
+      "Raleigh, NC"
+    ],
+    "company_url": "https://simplify.jobs/c/Bandwidth",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Marvell",
+    "id": "61c27e5c-bcc3-4ed6-87b9-92e602a2aa4a",
+    "title": "Field Application Engineering Intern - Bachelor's degree",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1732574018,
+    "date_posted": 1732574018,
+    "url": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers2/job/Santa-Clara-CA/Field-Application-Engineering-Intern---Bachelor-s-degree_2401847",
+    "locations": [
+      "Santa Clara, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/80961b05-9ed3-462d-aef9-4b418c7fb796",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
