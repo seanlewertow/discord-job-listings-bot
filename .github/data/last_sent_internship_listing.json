@@ -30359,5 +30359,43 @@
     "company_url": "https://simplify.jobs/c/Coinbase",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Amp Robotics",
+    "id": "113f6093-a714-4f69-bd73-b701dfa363bf",
+    "title": "Robotics Software Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1732597452,
+    "date_posted": 1732597452,
+    "url": "https://job-boards.greenhouse.io/ampsortation/jobs/6266041003",
+    "locations": [
+      "Lafayette, CO"
+    ],
+    "company_url": "https://simplify.jobs/c/AMP-Robotics",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Ontario Teachers' Pension Plan",
+    "id": "2b56b80b-f09a-4508-a975-25655f158ebf",
+    "title": "Intern \u2013 Product Engineering - Summer 2025 - Months",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1732597304,
+    "date_posted": 1732597304,
+    "url": "https://otppb.wd3.myworkdayjobs.com/OntarioTeachers_Careers/job/Toronto-Canada/Intern---Product-Engineering--Summer-2025---16-months-_5943",
+    "locations": [
+      "Toronto, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Ontario-Teachers-Pension-Plan",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
