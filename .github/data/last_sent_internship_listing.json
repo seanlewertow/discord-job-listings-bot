@@ -30321,5 +30321,24 @@
     "company_url": "https://simplify.jobs/c/Crowdstrike",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Hypertherm Associates",
+    "id": "a7d10705-e649-42a7-8d34-5ad827b30e90",
+    "title": "Intern \u2013 Software Engineer",
+    "active": true,
+    "terms": [
+      "Summer 2024"
+    ],
+    "date_updated": 1732587695,
+    "date_posted": 1731357088,
+    "url": "https://hypertherm.wd5.myworkdayjobs.com/en-US/hypertherm-careers/job/Lebanon-NH/Intern---Manufacturing-Process-Engineer_R3226-2",
+    "locations": [
+      "Hanover, NH"
+    ],
+    "company_url": "https://simplify.jobs/c/62655121-4cb3-4dab-81d2-4abcad089fc6",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
