@@ -30283,5 +30283,43 @@
     "company_url": "https://simplify.jobs/c/80961b05-9ed3-462d-aef9-4b418c7fb796",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Adobe",
+    "id": "d242ff78-d955-4c23-a4c2-41e2332e312d",
+    "title": "2025 Intern - Data Science",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1732580411,
+    "date_posted": 1732580411,
+    "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2025-Intern---Data-Science_R149789",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Adobe",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Crowdstrike",
+    "id": "01a8541e-c755-4653-9a93-5b1ff6ce9f61",
+    "title": "Data Science Intern - Summer 2025 - Remote",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1732580285,
+    "date_posted": 1732580285,
+    "url": "https://crowdstrike.wd5.myworkdayjobs.com/en-us/crowdstrikecareers/job/United-Kingdom---Remote/Data-Science-Intern---Summer-2025--EMEA--Remote-_R21192",
+    "locations": [
+      "Remote in UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Crowdstrike",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
