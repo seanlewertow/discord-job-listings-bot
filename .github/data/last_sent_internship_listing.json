@@ -30549,5 +30549,62 @@
     "company_url": "https://simplify.jobs/c/Hugging-Face",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Visa",
+    "id": "f5361751-a0d3-423b-b0a1-07a86b9761c8",
+    "title": "Data Storage Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1732637332,
+    "date_posted": 1732637332,
+    "url": "https://jobs.smartrecruiters.com/Visa/744000028635794",
+    "locations": [
+      "Highlands Ranch, CO"
+    ],
+    "company_url": "https://simplify.jobs/c/Visa",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Visa",
+    "id": "1eaef2cc-c4f5-4cd6-a467-5377eb775d06",
+    "title": "Software Engineer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2024"
+    ],
+    "date_updated": 1732637329,
+    "date_posted": 1732637329,
+    "url": "https://jobs.smartrecruiters.com/Visa/744000028632309",
+    "locations": [
+      "Highlands Ranch, CO"
+    ],
+    "company_url": "https://simplify.jobs/c/Visa",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Visa",
+    "id": "dff633d1-8fd9-401e-870c-f008224a2d20",
+    "title": "Software Engineer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2024"
+    ],
+    "date_updated": 1732637328,
+    "date_posted": 1732637328,
+    "url": "https://jobs.smartrecruiters.com/Visa/744000028631416",
+    "locations": [
+      "Bellevue, WA"
+    ],
+    "company_url": "https://simplify.jobs/c/Visa",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
