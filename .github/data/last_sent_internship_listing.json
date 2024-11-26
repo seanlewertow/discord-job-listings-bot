@@ -30397,5 +30397,81 @@
     "company_url": "https://simplify.jobs/c/Ontario-Teachers-Pension-Plan",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Hugging Face",
+    "id": "41b8ebd4-11b9-4df0-9c6d-97dc91076e78",
+    "title": "Machine Learning Engineer Internship - AI Energy Score",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1732623389,
+    "date_posted": 1732623389,
+    "url": "https://apply.workable.com/huggingface/j/7EB88B2EB9/apply",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/Hugging-Face",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Hugging Face",
+    "id": "521e0ada-bcd3-4cab-85c0-5cf0ae0b1f1e",
+    "title": "Machine Learning Engineer Internship - Generative AI",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1732623389,
+    "date_posted": 1732623389,
+    "url": "https://apply.workable.com/huggingface/j/3CFD576859/apply",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/Hugging-Face",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Hugging Face",
+    "id": "f64738f4-0013-49e2-bc27-65b4dba66ef6",
+    "title": "Machine Learning Engineer Internship - Quantization",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1732623390,
+    "date_posted": 1732623390,
+    "url": "https://apply.workable.com/huggingface/j/0E6AD680D1/apply",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/Hugging-Face",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Hugging Face",
+    "id": "e179ecba-1e4d-4811-9ea8-c973c9cd1243",
+    "title": "Machine Learning Engineer Internship - Information Retrieval",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1732623390,
+    "date_posted": 1732623390,
+    "url": "https://apply.workable.com/huggingface/j/61FEE855FC/apply",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/Hugging-Face",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
