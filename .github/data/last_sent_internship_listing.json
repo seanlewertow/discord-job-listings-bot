@@ -30606,5 +30606,82 @@
     "company_url": "https://simplify.jobs/c/Visa",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Visa",
+    "id": "cdb89629-eaf3-41b6-9318-1ef85e497f7c",
+    "title": "Data Engineer - Summer 2025",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1732652344,
+    "date_posted": 1732652344,
+    "url": "https://jobs.smartrecruiters.com/Visa/744000028678468",
+    "locations": [
+      "Austin, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Visa",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Dialpad",
+    "id": "a41431ec-777f-49f9-970a-ba52c90b80ca",
+    "title": "Co-op Software Engineer - Analytics",
+    "active": true,
+    "terms": [
+      "Winter 2025"
+    ],
+    "date_updated": 1732652873,
+    "date_posted": 1732652873,
+    "url": "https://job-boards.greenhouse.io/dialpad/jobs/7708474002",
+    "locations": [
+      "Kitchener, ON, Canada",
+      "Vancouver, BC, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Dialpad",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Parsons",
+    "id": "7df4d08b-bb4b-4d86-99c3-cdd7a2ff9fed",
+    "title": "Missile Track Custody Software Developer - Summer 2025",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1732652721,
+    "date_posted": 1732652721,
+    "url": "https://parsons.wd5.myworkdayjobs.com/en-US/search/job/US---CO-Boulder/Space-Force-Missile-Track-Custody-Software-Developer-Intern--Summer-2025-_R161360",
+    "locations": [
+      "Boulder, CO"
+    ],
+    "company_url": "https://simplify.jobs/c/Parsons",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Leidos",
+    "id": "480b9027-ea8d-4f0f-bdab-b00fd96db1b3",
+    "title": "Software Engineer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1732652317,
+    "date_posted": 1732652317,
+    "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Omaha-NE/Software-Engineer-Intern_R-00148916",
+    "locations": [
+      "Omaha, NE"
+    ],
+    "company_url": "https://simplify.jobs/c/Leidos",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
