@@ -30340,5 +30340,24 @@
     "company_url": "https://simplify.jobs/c/62655121-4cb3-4dab-81d2-4abcad089fc6",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Coinbase",
+    "id": "dd7d8291-60b6-4b27-ae66-b144c1e42a4e",
+    "title": "People Analytics Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1732594279,
+    "date_posted": 1732594279,
+    "url": "https://boards.greenhouse.io/embed/job_app?token=6322029",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Coinbase",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
