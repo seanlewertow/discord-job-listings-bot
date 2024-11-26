@@ -30683,5 +30683,100 @@
     "company_url": "https://simplify.jobs/c/Leidos",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Hugging Face",
+    "id": "62dbd73c-2307-4fdc-9636-bf22dd2da0e9",
+    "title": "Machine Learning Engineer Internship - Information Retrieval",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1732653570,
+    "date_posted": 1732653570,
+    "url": "https://apply.workable.com/huggingface/j/298F125F22/apply",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/Hugging-Face",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Hugging Face",
+    "id": "13c9c4e0-d60a-4d33-b3e3-a9b7f89219ca",
+    "title": "Machine Learning Engineer Internship - Quantization",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1732653571,
+    "date_posted": 1732653571,
+    "url": "https://apply.workable.com/huggingface/j/CF90BFDC06/apply",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/Hugging-Face",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Hugging Face",
+    "id": "2117cdab-7bee-4e25-964f-e7914ff318b3",
+    "title": "Machine Learning Engineer Internship - AI Energy Score",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1732653571,
+    "date_posted": 1732653571,
+    "url": "https://apply.workable.com/huggingface/j/B952461BFF/apply",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/Hugging-Face",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Hugging Face",
+    "id": "1cde53ec-ba8e-4f9d-ae41-17873e7e5acf",
+    "title": "Machine Learning Engineer Internship - AI Energy Score",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1732653568,
+    "date_posted": 1732653568,
+    "url": "https://apply.workable.com/huggingface/j/CCD13F07CC/apply",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/Hugging-Face",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Hugging Face",
+    "id": "ad30c950-d9f8-48ff-9169-e49901172343",
+    "title": "Machine Learning Engineer Internship - Information Retrieval",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1732653570,
+    "date_posted": 1732653570,
+    "url": "https://apply.workable.com/huggingface/j/5691DE34F6/apply",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/Hugging-Face",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
