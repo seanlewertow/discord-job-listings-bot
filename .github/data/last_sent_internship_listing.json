@@ -31068,5 +31068,24 @@
     "company_url": "https://simplify.jobs/c/Leidos",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Astranis",
+    "id": "e58de69a-8d5d-46e4-b833-0545e896bc3f",
+    "title": "Ground Software Engineer - Summer 2025",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1732740189,
+    "date_posted": 1732740189,
+    "url": "https://job-boards.greenhouse.io/astranis/jobs/4422551006",
+    "locations": [
+      "SF"
+    ],
+    "company_url": "https://simplify.jobs/c/Astranis",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
