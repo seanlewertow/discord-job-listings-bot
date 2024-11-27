@@ -31087,5 +31087,102 @@
     "company_url": "https://simplify.jobs/c/Astranis",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Axiom Space",
+    "id": "40c0d170-806a-4b2a-9c79-22dc4836e3e1",
+    "title": "Software Application Engineering Intern - Summer 2025",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1732739728,
+    "date_posted": 1732739728,
+    "url": "https://axiomspace.wd5.myworkdayjobs.com/External_Career_Site/job/Software-Application-Engineering-Intern--Summer-2025-_JR100055-1",
+    "locations": [
+      "Houston, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/AxiomSpace",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Schonfeld",
+    "id": "2e830e01-517a-4a22-bc80-3e0a77315e35",
+    "title": "Software Engineering Summer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1732740111,
+    "date_posted": 1732740111,
+    "url": "https://job-boards.greenhouse.io/schonfeld/jobs/6437419",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Schonfeld",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Kiva",
+    "id": "c5584c53-e626-4405-abf6-0d96b2aa1cd5",
+    "title": "Product Analytics Intern",
+    "active": true,
+    "terms": [
+      "Winter 2026",
+      "Spring 2026",
+      "Summer 2026"
+    ],
+    "date_updated": 1732740165,
+    "date_posted": 1732740165,
+    "url": "https://boards.greenhouse.io/kivaorg/jobs/6360449",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/Kiva",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "AEG",
+    "id": "e48f49e0-48db-480d-8a5f-41001896f6b3",
+    "title": "Summer Intern - Data Engineer",
+    "active": true,
+    "terms": [
+      "Summer 2024"
+    ],
+    "date_updated": 1732740007,
+    "date_posted": 1732740007,
+    "url": "https://www.aegworldwide.com/jobs?gh_jid=7734441002",
+    "locations": [
+      "El Segundo, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/AEG",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Cerebras",
+    "id": "dee5ed50-f2ee-4760-9c6e-bbf4ef7d2c88",
+    "title": "AI Cloud Platform Software Engineer",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1732740379,
+    "date_posted": 1732740379,
+    "url": "https://boards.greenhouse.io/embed/job_app?token=6273271003",
+    "locations": [
+      "Toronto, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Cerebras-Systems",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
