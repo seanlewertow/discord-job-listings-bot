@@ -31010,5 +31010,24 @@
     "company_url": "https://simplify.jobs/c/ad048830-3daa-4873-8fb3-0dc7481a85eb",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Hugging Face",
+    "id": "e946c121-7fe2-42ad-94db-20e59f0befa6",
+    "title": "ML Research Engineer Internship - Multimodal",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1732724442,
+    "date_posted": 1732724442,
+    "url": "https://apply.workable.com/huggingface/j/423E512A62/apply",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/Hugging-Face",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
