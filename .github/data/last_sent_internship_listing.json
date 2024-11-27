@@ -30896,5 +30896,43 @@
     "company_url": "https://simplify.jobs/c/Neuralink",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "date_updated": 1732691311,
+    "url": "https://careers.nintendo.com/job-openings/listing/24000000BX.html",
+    "company_name": "Nintendo",
+    "title": "Intern \u2013 Wireless Software Engineer (NTD)",
+    "locations": [
+      "Redmond, WA"
+    ],
+    "terms": [
+      "Summer 2025"
+    ],
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "source": "GaryZhous",
+    "id": "cf1ef5a3-ab70-44f4-8759-5caf55685fe5",
+    "date_posted": 1732691311,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1732691335,
+    "url": "https://careers-grammatech.icims.com/jobs/1282/software-engineer-intern---summer-2025/job?mode=job&iis=Job+Posting&iisn=LinkedIn",
+    "company_name": "GrammaTech",
+    "title": "Software Engineer Intern",
+    "locations": [
+      "Remote"
+    ],
+    "terms": [
+      "Summer 2025"
+    ],
+    "sponsorship": "U.S. Citizenship is Required",
+    "active": true,
+    "source": "LuaanNguyen",
+    "id": "948efe1f-37f0-4e5d-a000-dd8e828fa14b",
+    "date_posted": 1732691335,
+    "company_url": "",
+    "is_visible": true
   }
 ]
