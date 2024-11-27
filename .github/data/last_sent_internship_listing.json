@@ -30857,5 +30857,44 @@
     "company_url": "https://simplify.jobs/c/45cb775d-2ca3-49ea-810f-65334ec70079",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Booz Allen",
+    "id": "48cc257f-199a-4ea7-ab49-0d20ccf7e4ff",
+    "title": "Systems Engineer Intern",
+    "active": true,
+    "terms": [
+      "Spring 2028",
+      "Summer 2028"
+    ],
+    "date_updated": 1732681096,
+    "date_posted": 1732681096,
+    "url": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Lexington-MA/Systems-Engineer-Intern_R0210498",
+    "locations": [
+      "Lexington, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/45cb775d-2ca3-49ea-810f-65334ec70079",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Neuralink",
+    "id": "9ca83f17-523c-4264-925c-76fa4b60eccf",
+    "title": "Embedded Software Engineer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1732680988,
+    "date_posted": 1732680988,
+    "url": "https://boards.greenhouse.io/neuralink/jobs/6283663003",
+    "locations": [
+      "Fremont, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Neuralink",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
