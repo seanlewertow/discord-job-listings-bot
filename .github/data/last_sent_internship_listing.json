@@ -30934,5 +30934,43 @@
     "date_posted": 1732691335,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Hugging Face",
+    "id": "24d1f7fe-a017-4a3e-92ef-caa58867b20b",
+    "title": "Machine Learning Engineer Internship",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1732709882,
+    "date_posted": 1732709882,
+    "url": "https://apply.workable.com/huggingface/j/E39256D0B1/apply",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/Hugging-Face",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Hugging Face",
+    "id": "021e39d2-6382-41d7-8d27-9786f0561973",
+    "title": "ML Research Engineer Internship - Post-Training",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1732709879,
+    "date_posted": 1732709879,
+    "url": "https://apply.workable.com/huggingface/j/5D57D607E2/apply",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/Hugging-Face",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
