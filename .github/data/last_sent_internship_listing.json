@@ -31029,5 +31029,44 @@
     "company_url": "https://simplify.jobs/c/Hugging-Face",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Genesys",
+    "id": "f0186d94-3cc3-44d3-aaab-61f39daee73c",
+    "title": "Software Engineer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1732739103,
+    "date_posted": 1732739103,
+    "url": "https://genesys.wd1.myworkdayjobs.com/en-US/Genesys/job/Indianapolis-IN-USA/Software-Engineer-Intern_JR105843-1",
+    "locations": [
+      "Indianapolis, IN",
+      "Indiana"
+    ],
+    "company_url": "https://simplify.jobs/c/a073f454-6408-44aa-87cc-070e67702447",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Leidos",
+    "id": "821a32d6-dae0-4da0-bcc6-d68e9c60f55e",
+    "title": "Tech Refresh/Data Analyst Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1732738636,
+    "date_posted": 1732738636,
+    "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Alexandria-VA/Tech-Refresh-Data-Analyst-Intern_R-00149040",
+    "locations": [
+      "Alexandria, VA"
+    ],
+    "company_url": "https://simplify.jobs/c/Leidos",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
