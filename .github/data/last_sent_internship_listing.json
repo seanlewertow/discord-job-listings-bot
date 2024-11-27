@@ -30972,5 +30972,43 @@
     "company_url": "https://simplify.jobs/c/Hugging-Face",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Axiom Space",
+    "id": "c21fd3fb-04e6-4382-a36d-b9645913248d",
+    "title": "EVA Software Engineering Intern - Summer 2025",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1732724247,
+    "date_posted": 1732724247,
+    "url": "https://axiomspace.wd5.myworkdayjobs.com/External_Career_Site/job/EVA-Software-Engineering-Intern--Summer-2025-_JR100060",
+    "locations": [
+      "Houston, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/AxiomSpace",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Ivalua",
+    "id": "df9196fc-dec5-4dd6-9334-a0cbcfc2e7ae",
+    "title": "Customer Application Engineer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1732723789,
+    "date_posted": 1732723789,
+    "url": "https://boards.greenhouse.io/ivalua/jobs/6345823",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/ad048830-3daa-4873-8fb3-0dc7481a85eb",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
