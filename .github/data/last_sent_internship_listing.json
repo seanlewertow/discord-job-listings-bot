@@ -31184,5 +31184,24 @@
     "company_url": "https://simplify.jobs/c/Cerebras-Systems",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Zoox",
+    "id": "8a3fd424-17c0-414b-805e-19b35c04ab88",
+    "title": "Test Bench and Data Analysis Engineer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1732752646,
+    "date_posted": 1732752646,
+    "url": "https://jobs.lever.co/zoox/4a244575-0e2e-4caa-9a1d-14e376a78986/apply",
+    "locations": [
+      "San Mateo, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Zoox",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
