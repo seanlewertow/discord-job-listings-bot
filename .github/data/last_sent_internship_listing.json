@@ -31203,5 +31203,81 @@
     "company_url": "https://simplify.jobs/c/Zoox",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "The Washington Post",
+    "id": "b5fba312-af47-4f19-81cd-e3c8d018c515",
+    "title": "Summer Intern - IOS Apps",
+    "active": true,
+    "terms": [
+      "Summer 2024"
+    ],
+    "date_updated": 1732896623,
+    "date_posted": 1732896623,
+    "url": "https://washpost.wd5.myworkdayjobs.com/washingtonpostcareers/job/DC-Washington-TWP-Headquarters/Summer-Intern--iOS-Apps_JR-90274999",
+    "locations": [
+      "Washington, DC"
+    ],
+    "company_url": "https://simplify.jobs/c/Washington-Post",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "The Washington Post",
+    "id": "386913d3-d830-4d16-914c-0628556a3e72",
+    "title": "Summer Intern - Creator Experience",
+    "active": true,
+    "terms": [
+      "Summer 2024"
+    ],
+    "date_updated": 1732896606,
+    "date_posted": 1732896606,
+    "url": "https://washpost.wd5.myworkdayjobs.com/washingtonpostcareers/job/DC-Washington-TWP-Headquarters/Summer-Intern--Creator-Experience_JR-90274998",
+    "locations": [
+      "Washington, DC"
+    ],
+    "company_url": "https://simplify.jobs/c/Washington-Post",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "The Washington Post",
+    "id": "f0092aa9-f44e-4df1-a485-cc9e8c72c474",
+    "title": "Summer Intern - Android Apps",
+    "active": true,
+    "terms": [
+      "Summer 2024"
+    ],
+    "date_updated": 1732896597,
+    "date_posted": 1732896597,
+    "url": "https://washpost.wd5.myworkdayjobs.com/washingtonpostcareers/job/DC-Washington-TWP-Headquarters/Summer-Intern--Android-Apps_JR-90275000",
+    "locations": [
+      "Washington, DC"
+    ],
+    "company_url": "https://simplify.jobs/c/Washington-Post",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "The Washington Post",
+    "id": "07f6c48a-e523-40c4-b677-160c7956a5fc",
+    "title": "Summer Intern - Site Engineering",
+    "active": true,
+    "terms": [
+      "Summer 2024"
+    ],
+    "date_updated": 1732896601,
+    "date_posted": 1732896601,
+    "url": "https://washpost.wd5.myworkdayjobs.com/washingtonpostcareers/job/DC-Washington-TWP-Headquarters/Summer-Intern--Site-Engineering_JR-90275001",
+    "locations": [
+      "Washington, DC"
+    ],
+    "company_url": "https://simplify.jobs/c/Washington-Post",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
