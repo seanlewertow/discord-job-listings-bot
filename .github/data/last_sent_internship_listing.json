@@ -31279,5 +31279,24 @@
     "company_url": "https://simplify.jobs/c/Washington-Post",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "date_updated": 1732943000,
+    "url": "https://jobs.empower.com/job/-/-/42743/72534891424",
+    "company_name": "Empower",
+    "title": "Summer 2025 Intern \u2013 Software Engineer",
+    "locations": [
+      "Hartford, CT"
+    ],
+    "terms": [
+      "Summer 2025"
+    ],
+    "sponsorship": "Does Not Offer Sponsorship",
+    "active": true,
+    "source": "GaryZhous",
+    "id": "460e2bc9-86b2-401d-9de4-a191ed845a21",
+    "date_posted": 1732943000,
+    "company_url": "",
+    "is_visible": true
   }
 ]
