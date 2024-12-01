@@ -31298,5 +31298,44 @@
     "date_posted": 1732943000,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "date_updated": 1733040754,
+    "url": "https://explore.jobs.netflix.net/careers/job/790299767067",
+    "company_name": "Netflix",
+    "title": "Data Visualization Engineer Intern",
+    "locations": [
+      "Los Angeles, CA",
+      "Los Gatos, CA"
+    ],
+    "terms": [
+      "Summer 2025"
+    ],
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "source": "GaryZhous",
+    "id": "5bd42492-aa12-4cce-83ae-3ed6793c828e",
+    "date_posted": 1733040754,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1733040832,
+    "url": "https://jobs.cisco.com/jobs/ProjectDetail/Consulting-Engineer-Intern-United-States/1426457",
+    "company_name": "Cisco",
+    "title": "Consulting Engineer (Intern) United States",
+    "locations": [
+      "Research Triangle Park, NC"
+    ],
+    "terms": [
+      "Summer 2025"
+    ],
+    "sponsorship": "Does Not Offer Sponsorship",
+    "active": true,
+    "source": "GaryZhous",
+    "id": "d360e96e-1fdb-4b5c-a6f7-f5fece4c1513",
+    "date_posted": 1733040832,
+    "company_url": "",
+    "is_visible": true
   }
 ]
