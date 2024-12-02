@@ -31337,5 +31337,24 @@
     "date_posted": 1733040832,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "source": "Simplify",
+    "company_name": "ParetoHealth",
+    "id": "74c1f97f-3608-4e73-8e33-6a5fcf2c72b0",
+    "title": "Analytics Summer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2024"
+    ],
+    "date_updated": 1733098111,
+    "date_posted": 1733098111,
+    "url": "https://job-boards.greenhouse.io/paretocaptiveservicesllc/jobs/4422853006",
+    "locations": [
+      "Philadelphia, PA"
+    ],
+    "company_url": "https://simplify.jobs/c/ParetoHealth",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
