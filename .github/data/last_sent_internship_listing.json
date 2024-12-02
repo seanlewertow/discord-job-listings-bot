@@ -31489,5 +31489,43 @@
     "company_url": "https://simplify.jobs/c/PisonTech",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Parsons",
+    "id": "83cc6a79-8fb5-472b-97c3-27697cf2acd7",
+    "title": "Intern - AI Development for Target Detection",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1733171172,
+    "date_posted": 1733171172,
+    "url": "https://parsons.wd5.myworkdayjobs.com/en-US/search/job/US---AL-Huntsville/XMLNAME-2025-Summer-Intern---AI-Development-for-Target-Detection_R161561",
+    "locations": [
+      "Huntsville, AL"
+    ],
+    "company_url": "https://simplify.jobs/c/Parsons",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Parsons",
+    "id": "d5d82221-5430-49fe-ae31-f3937e9d9a0f",
+    "title": "Software Development for Autonomous Drone Control",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1733171169,
+    "date_posted": 1733171169,
+    "url": "https://parsons.wd5.myworkdayjobs.com/en-US/search/job/US---AL-Huntsville/XMLNAME-2025-Summer-Internship---Software-Development-for-Autonomous-Drone-Control_R161562",
+    "locations": [
+      "Huntsville, AL"
+    ],
+    "company_url": "https://simplify.jobs/c/Parsons",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
