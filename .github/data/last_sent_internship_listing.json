@@ -31356,5 +31356,43 @@
     "company_url": "https://simplify.jobs/c/ParetoHealth",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Hugging Face",
+    "id": "dbe2f85d-9554-4d2c-a353-8aee457dd8ae",
+    "title": "ML Research Engineer Internship",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1733141934,
+    "date_posted": 1733141934,
+    "url": "https://apply.workable.com/huggingface/j/0ACFC9C229/apply",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/Hugging-Face",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "MKS Instruments",
+    "id": "d52a5dee-c90a-42fe-9c2c-47c0e8c4b60c",
+    "title": "Data Analysis Engineer",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1733141372,
+    "date_posted": 1733141372,
+    "url": "https://mksinst.wd1.myworkdayjobs.com/en-US/MKSCareersUniversity/job/Broomfield-CO/XMLNAME-2025-Summer-Data-Analysis-Engineer-Undergraduate-Intern-Coop_R11672",
+    "locations": [
+      "Broomfield, CO"
+    ],
+    "company_url": "https://simplify.jobs/c/07d9f7f0-9f1a-4ecb-9346-f3ac39d905f2",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
