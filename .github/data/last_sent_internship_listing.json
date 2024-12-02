@@ -31527,5 +31527,63 @@
     "company_url": "https://simplify.jobs/c/Parsons",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "AQR Capital Management",
+    "id": "8e98418c-8801-4a35-85e2-59af765f97e3",
+    "title": "Quantitative Sports Research Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1733171887,
+    "date_posted": 1733171887,
+    "url": "https://careers.aqr.com/jobs?gh_jid=6443191&gh_jid=6443191",
+    "locations": [
+      "Greenwich, CT"
+    ],
+    "company_url": "https://simplify.jobs/c/AQR-Capital-Management",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "HRL Laboratories",
+    "id": "a48b2ffa-072f-4d37-a63b-8e72a1bf7dcd",
+    "title": "Spectroscopy Data Scientist Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1733171638,
+    "date_posted": 1733171638,
+    "url": "https://jobs.lever.co/dodmg/df49112d-8bcf-4f0c-a4e0-7c6e42544201/apply",
+    "locations": [
+      "Malibu, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/HRL-Laboratories",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Scale AI",
+    "id": "e6d93ff8-e648-4827-9e89-f1df1117de63",
+    "title": "Research Intern - Post-training - Summer 2025",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1733171617,
+    "date_posted": 1733171617,
+    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4502187005",
+    "locations": [
+      "SF",
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Scale-AI",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
