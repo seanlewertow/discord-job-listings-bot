@@ -31854,5 +31854,24 @@
     "company_url": "https://simplify.jobs/c/0b082f0c-14dc-4c9d-adf9-cd4526750d29",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Sony Pictures Imageworks",
+    "id": "11ba3ab4-6332-42b4-8592-f5d985e903e9",
+    "title": "Production Services and Resources Internship",
+    "active": true,
+    "terms": [
+      "Summer 2024"
+    ],
+    "date_updated": 1733258430,
+    "date_posted": 1733258430,
+    "url": "https://job-boards.greenhouse.io/sonypicturesimageworks/jobs/6287984003",
+    "locations": [
+      "Vancouver, BC, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Sony-Pictures-Imageworks",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
