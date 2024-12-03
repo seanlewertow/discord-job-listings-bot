@@ -31625,5 +31625,62 @@
     "company_url": "https://simplify.jobs/c/Scale-AI",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Evolve Technology",
+    "id": "5c967140-451b-4ac8-b6d1-01e3a8e50740",
+    "title": "Front-End Software Engineer Intern - Summer",
+    "active": true,
+    "terms": [
+      "Summer 2024"
+    ],
+    "date_updated": 1733184812,
+    "date_posted": 1733184812,
+    "url": "https://apply.workable.com/evolv-technology/j/44D6161A0E/apply",
+    "locations": [
+      "Waltham, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/Evolve-Technology",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Brooks Automation",
+    "id": "af379a58-aa3d-49c9-b0fa-ae403e79d515",
+    "title": "Systems Engineer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1733184601,
+    "date_posted": 1733184601,
+    "url": "https://brooksauto.wd1.myworkdayjobs.com/en-US/Brooks_External_Site/job/Livermore/Systems-Engineer-Intern_R2428",
+    "locations": [
+      "Livermore, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/190ae898-a199-4c93-b2ce-50b07b110a17",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Accenture Federal Services",
+    "id": "d848bb87-57a2-4b57-bf24-1376f5a3a757",
+    "title": "Technical Development",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1733184971,
+    "date_posted": 1733184971,
+    "url": "https://boards.greenhouse.io/accenturefederalservices/jobs/4423128006",
+    "locations": [
+      "Washington, DC"
+    ],
+    "company_url": "https://simplify.jobs/c/AccentureFederalServices",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
