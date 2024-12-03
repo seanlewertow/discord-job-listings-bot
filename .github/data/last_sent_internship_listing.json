@@ -31682,5 +31682,43 @@
     "company_url": "https://simplify.jobs/c/AccentureFederalServices",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "date_updated": 1733203200,
+    "url": "https://job-boards.greenhouse.io/arcesiumllc/jobs/4530177007",
+    "company_name": "Arcesium",
+    "title": "Technology Operations Intern",
+    "locations": [
+      "New York, NY"
+    ],
+    "terms": [
+      "Summer 2025"
+    ],
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "source": "GaryZhous",
+    "id": "9bf22c2a-63dd-4fa5-a558-0163638fedad",
+    "date_posted": 1733203200,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1733203225,
+    "url": "https://www.linkedin.com/jobs/search/?alertAction=viewjobs&currentJobId=4052476004&origin=JOBS_HOME_JOB_ALERTS&savedSearchId=14438247420",
+    "company_name": "Shield AI",
+    "title": "Frontend Software Engineering Intern",
+    "locations": [
+      "Remote, US"
+    ],
+    "terms": [
+      "Summer 2025"
+    ],
+    "sponsorship": "U.S. Citizenship is Required",
+    "active": true,
+    "source": "LuaanNguyen",
+    "id": "adc30a24-ad7d-4efb-90b3-78589799c80a",
+    "date_posted": 1733203225,
+    "company_url": "",
+    "is_visible": true
   }
 ]
