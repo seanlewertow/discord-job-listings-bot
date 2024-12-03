@@ -31720,5 +31720,25 @@
     "date_posted": 1733203225,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Broadridge",
+    "id": "cb1d77c7-c81c-47f4-9688-a742729da92f",
+    "title": "Software Engineer Intern - Hybrid",
+    "active": true,
+    "terms": [
+      "Spring 2025",
+      "Summer 2025"
+    ],
+    "date_updated": 1733242862,
+    "date_posted": 1733242862,
+    "url": "https://broadridge.wd5.myworkdayjobs.com/en-US/Careers/job/Toronto-ON/Software-Engineer-Intern--Hybrid-_JR1068598",
+    "locations": [
+      "Toronto, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Broadridge",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
