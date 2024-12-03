@@ -31816,5 +31816,43 @@
     "company_url": "https://simplify.jobs/c/db6baf80-a321-4d20-ac07-6a38a44b5a05",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Amazon",
+    "id": "2f40480c-7801-44a8-b7e5-a0299690818c",
+    "title": "Business Intelligence Engineer Internship",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1733257830,
+    "date_posted": 1733257830,
+    "url": "https://amazon.jobs/en/jobs/2844748/2025-business-intelligence-engineer-internship",
+    "locations": [
+      "London, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Amazon",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Geneva Trading",
+    "id": "e7eb8bac-f687-422b-b60e-f2da25739fd0",
+    "title": "Intern \u2013 Data Engineer - Python",
+    "active": true,
+    "terms": [
+      "Summer 2024"
+    ],
+    "date_updated": 1733257096,
+    "date_posted": 1733257096,
+    "url": "https://boards.greenhouse.io/genevatrading/jobs/4511834007",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/0b082f0c-14dc-4c9d-adf9-cd4526750d29",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
