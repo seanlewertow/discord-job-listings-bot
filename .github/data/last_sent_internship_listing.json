@@ -31740,5 +31740,81 @@
     "company_url": "https://simplify.jobs/c/Broadridge",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Blue Yonder",
+    "id": "de848a13-1f74-42e1-b86f-9c4d1245880d",
+    "title": "Software Engineering",
+    "active": true,
+    "terms": [
+      "Winter 2025"
+    ],
+    "date_updated": 1733256684,
+    "date_posted": 1733256684,
+    "url": "https://jda.wd5.myworkdayjobs.com/en-US/JDA_Careers/job/Dallas/Software-Engineering---Intern_243477-1",
+    "locations": [
+      "Dallas, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/db6baf80-a321-4d20-ac07-6a38a44b5a05",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Blue Yonder",
+    "id": "e743910f-6697-4888-bfba-c4f72fd4b99d",
+    "title": "Full Stack Developer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2024"
+    ],
+    "date_updated": 1733256678,
+    "date_posted": 1733256678,
+    "url": "https://jda.wd5.myworkdayjobs.com/en-US/JDA_Careers/job/Dallas/Full-Stack-Developer-Intern_243585-1",
+    "locations": [
+      "Dallas, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/db6baf80-a321-4d20-ac07-6a38a44b5a05",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Leidos",
+    "id": "2c9bee2b-07ef-4c7a-bf0e-d470f5a54dcb",
+    "title": "LLM Research Scientist Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1733256757,
+    "date_posted": 1733256757,
+    "url": "https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/LLM-Research-Scientist-Intern_R-00148904",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/Leidos",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Blue Yonder",
+    "id": "c92388e2-df23-4aee-8f2a-f314b738f4d5",
+    "title": "Intern",
+    "active": true,
+    "terms": [
+      "Winter 2025"
+    ],
+    "date_updated": 1733256685,
+    "date_posted": 1733256685,
+    "url": "https://jda.wd5.myworkdayjobs.com/en-US/JDA_Careers/job/Dallas/Intern_243526-1",
+    "locations": [
+      "Dallas, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/db6baf80-a321-4d20-ac07-6a38a44b5a05",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
