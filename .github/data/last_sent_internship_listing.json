@@ -31873,5 +31873,100 @@
     "company_url": "https://simplify.jobs/c/Sony-Pictures-Imageworks",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Crowdstrike",
+    "id": "8540da83-e38f-4c8a-b007-e210a6664ad2",
+    "title": "Data Science Intern - Intelligence Automation",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1733271126,
+    "date_posted": 1733271126,
+    "url": "https://crowdstrike.wd5.myworkdayjobs.com/en-us/crowdstrikecareers/job/United-Kingdom---Remote/Data-Science-Intern---Intelligence-Automation--Remote-_R21234",
+    "locations": [
+      "Remote in UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Crowdstrike",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Leidos",
+    "id": "9f8759f2-e6cf-4691-9206-ff433077a7ca",
+    "title": "Software Engineering Intern",
+    "active": true,
+    "terms": [
+      "Spring 2024"
+    ],
+    "date_updated": 1733270898,
+    "date_posted": 1733270898,
+    "url": "https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Software-Engineering-Intern_R-00149169",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/Leidos",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Leidos",
+    "id": "f643f744-5ec0-4c9d-a726-aed11bd12a73",
+    "title": "Software Engineering Intern",
+    "active": true,
+    "terms": [
+      "Spring 2024"
+    ],
+    "date_updated": 1733270898,
+    "date_posted": 1733270898,
+    "url": "https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Software-Engineering-Intern_R-00149166-1",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/Leidos",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Lendbuzz",
+    "id": "940fa0a3-931d-464a-8f9e-eab0e5e75881",
+    "title": "Co-op \u2013 Frontend Engineer",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1733271656,
+    "date_posted": 1733271656,
+    "url": "https://jobs.lever.co/lendbuzz/c04f570a-16cd-45af-a001-f8e7749b63d0/apply",
+    "locations": [
+      "Boston, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/Lendbuzz",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Parsons",
+    "id": "8f9bd883-55c8-4bf4-9189-1b82735e82fe",
+    "title": "Computer Engineer/Software Engineer Internship",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1733271376,
+    "date_posted": 1733271376,
+    "url": "https://parsons.wd5.myworkdayjobs.com/en-US/search/job/US---VA-Fredericksburg/Computer-Engineer-Software-Engineer-Internship--Summer-2025-_R161603",
+    "locations": [
+      "Fredericksburg, VA"
+    ],
+    "company_url": "https://simplify.jobs/c/Parsons",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
