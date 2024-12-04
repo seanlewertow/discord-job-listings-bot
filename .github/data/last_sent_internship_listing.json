@@ -32237,5 +32237,25 @@
     "company_url": "https://simplify.jobs/c/de9db5fc-93ac-4e2a-873c-61d8a830873c",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Applied Materials",
+    "id": "539e8e94-b71d-46ad-88fe-9179b6246e26",
+    "title": "Technical Documentation Intern - Summer 2025 - Undergrad",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1733344786,
+    "date_posted": 1733344786,
+    "url": "https://amat.wd1.myworkdayjobs.com/en-US/External/job/Home--MobileBay-AreaCA-002/Technical-Documentation-Intern---Summer-2025--Undergrad-_R2420030",
+    "locations": [
+      "California",
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/Applied-Materials",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
