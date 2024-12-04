@@ -31968,5 +31968,43 @@
     "company_url": "https://simplify.jobs/c/Parsons",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Arsiem Corporation",
+    "id": "5115b46a-4f9a-4341-ad41-cfbef9b8f611",
+    "title": "Passive Geolocation Specialist",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1733285523,
+    "date_posted": 1733285523,
+    "url": "https://jobs.lever.co/arsiem/8344ad4c-95f4-4790-a14b-49f2b484a74c/apply",
+    "locations": [
+      "Augusta, GA"
+    ],
+    "company_url": "https://simplify.jobs/c/Arsiem-Corporation",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Arsiem Corporation",
+    "id": "c98fc891-ef5a-41c8-977b-031c10916862",
+    "title": "Active Geolocation Specialist \u2013 Apprentice Operator - Active - AO-a",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1733285514,
+    "date_posted": 1733285514,
+    "url": "https://jobs.lever.co/arsiem/229f28a8-6763-45b5-bebc-24c9b30b3b87/apply",
+    "locations": [
+      "Augusta, GA"
+    ],
+    "company_url": "https://simplify.jobs/c/Arsiem-Corporation",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
