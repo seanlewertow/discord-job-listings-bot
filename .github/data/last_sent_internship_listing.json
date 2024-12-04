@@ -32044,5 +32044,45 @@
     "date_posted": 1733290565,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "source": "Simplify",
+    "company_name": "MKS Instruments",
+    "id": "4105afdf-2511-4cd8-828b-0d035bf3c45b",
+    "title": "Undergraduate Intern/Co-op - IT BI/Data Analyst",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1733328568,
+    "date_posted": 1733328568,
+    "url": "https://mksinst.wd1.myworkdayjobs.com/en-US/MKSCareersUniversity/job/Andover-MA/XMLNAME-2025-Summer-Undergraduate-Intern-Co-op---IT-BI-Data-Analyst_R11629",
+    "locations": [
+      "Andover, MA",
+      "Austin, TX",
+      "Irvine, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/07d9f7f0-9f1a-4ecb-9346-f3ac39d905f2",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Pison",
+    "id": "8a468d67-45e1-412d-b4b8-6e3dd8f98314",
+    "title": "Data Collections Intern",
+    "active": true,
+    "terms": [
+      "Spring 2025"
+    ],
+    "date_updated": 1733329184,
+    "date_posted": 1733329184,
+    "url": "https://jobs.lever.co/pison/40837088-aaab-4a3a-bc1c-07beeb3ed5c8/apply",
+    "locations": [
+      "Boston, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/PisonTech",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
