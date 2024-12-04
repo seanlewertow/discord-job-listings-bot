@@ -32084,5 +32084,101 @@
     "company_url": "https://simplify.jobs/c/PisonTech",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "MKS Instruments",
+    "id": "69818e53-18ed-47ce-8575-6dfa6f3be1bf",
+    "title": "Software Engineering Co-op",
+    "active": true,
+    "terms": [
+      "Summer 2025",
+      "Fall 2025"
+    ],
+    "date_updated": 1733343267,
+    "date_posted": 1733343267,
+    "url": "https://mksinst.wd1.myworkdayjobs.com/en-US/MKSCareersUniversity/job/Rochester-NY/XMLNAME-2025-Summer-Fall-Software-Engineering-Co-op_R11352",
+    "locations": [
+      "Rochester, NY"
+    ],
+    "company_url": "https://simplify.jobs/c/07d9f7f0-9f1a-4ecb-9346-f3ac39d905f2",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "FastSpring",
+    "id": "ac97eae5-8a7f-4f34-8930-c49d6fa72d94",
+    "title": "Sales Operations Data Analytics Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1733343641,
+    "date_posted": 1733343641,
+    "url": "https://job-boards.greenhouse.io/fastspring/jobs/5392210004",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/FastSpring",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Alcon",
+    "id": "a1de91dd-24b2-4860-a006-173c0fb9458b",
+    "title": "R&D Surgical Software Engineering Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1733344113,
+    "date_posted": 1733344113,
+    "url": "https://alcon.wd5.myworkdayjobs.com/careers_alcon/job/Lake-Forest-California/Summer-2025---R-D-Surgical-Software-Engineering-Intern_R-2024-36618",
+    "locations": [
+      "Lake Forest, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/alcon",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Zscaler",
+    "id": "2a78c7c1-093c-4cf1-950d-410919018676",
+    "title": "Artificial Intelligence/Machine Learning/Data Science Engineering Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1733343832,
+    "date_posted": 1733343832,
+    "url": "https://boards.greenhouse.io/zscaler/jobs/4595426007",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Zscaler",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Blue Yonder",
+    "id": "1b6c4ad6-f2dc-4440-aab0-f043c043a241",
+    "title": "Software Engineering Intern",
+    "active": true,
+    "terms": [
+      "Winter 2025"
+    ],
+    "date_updated": 1733343173,
+    "date_posted": 1733343173,
+    "url": "https://jda.wd5.myworkdayjobs.com/en-US/JDA_Careers/job/Dallas/Software-Engineering-Intern_243645-1",
+    "locations": [
+      "Dallas, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/db6baf80-a321-4d20-ac07-6a38a44b5a05",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
