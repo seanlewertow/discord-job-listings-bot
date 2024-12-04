@@ -32006,5 +32006,43 @@
     "company_url": "https://simplify.jobs/c/Arsiem-Corporation",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "date_updated": 1733290282,
+    "url": "https://sabre.wd1.myworkdayjobs.com/SabreJobs/job/Dallas-Fort-Worth-Metroplex/Software-Engineer---2025-Summer-Intern_JR105409",
+    "company_name": "Sabre Corporation",
+    "title": "Software Engineer - 2025 Summer Intern",
+    "locations": [
+      "Southlake, TX"
+    ],
+    "terms": [
+      "Summer 2025"
+    ],
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "source": "GaryZhous",
+    "id": "bb3833e0-d074-48c6-a4da-5b2f496a53ef",
+    "date_posted": 1733290282,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1733290565,
+    "url": "https://careers.t-mobile.com/summer-2025-software-engineer-digital-orders-platform-team-intern/job/CA9418652D48C968DF7078BCF5C799BC",
+    "company_name": "T-Mobile",
+    "title": "Summer 2025 Software Engineer - Digital Orders Platform Team Intern",
+    "locations": [
+      "Atlanta, GA"
+    ],
+    "terms": [
+      "Summer 2025"
+    ],
+    "sponsorship": "Does Not Offer Sponsorship",
+    "active": true,
+    "source": "GaryZhous",
+    "id": "f97ffc91-9cf3-4ff6-a954-de9bf3231852",
+    "date_posted": 1733290565,
+    "company_url": "",
+    "is_visible": true
   }
 ]
