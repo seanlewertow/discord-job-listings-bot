@@ -32180,5 +32180,62 @@
     "company_url": "https://simplify.jobs/c/db6baf80-a321-4d20-ac07-6a38a44b5a05",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Zscaler",
+    "id": "b988ee4e-0f98-4bc8-9f62-9c9b6c90706e",
+    "title": "Software Engineering Intern - Back End",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1733343879,
+    "date_posted": 1733343879,
+    "url": "https://boards.greenhouse.io/zscaler/jobs/4595421007",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Zscaler",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Zscaler",
+    "id": "b3eba32d-375c-4da6-944b-e972ebbea793",
+    "title": "Software Engineering Intern - Front End",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1733343879,
+    "date_posted": 1733343879,
+    "url": "https://boards.greenhouse.io/zscaler/jobs/4595408007",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Zscaler",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "HCSC",
+    "id": "021f097b-247b-4202-8e7c-b5bd55169e0c",
+    "title": "University Relations",
+    "active": true,
+    "terms": [
+      "Summer 2024"
+    ],
+    "date_updated": 1733344684,
+    "date_posted": 1733344684,
+    "url": "https://hcsc.wd1.myworkdayjobs.com/en-US/HCSC_External/job/IL---Chicago/University-Relations---Reporting-Analyst-Intern_R0042348",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/de9db5fc-93ac-4e2a-873c-61d8a830873c",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
