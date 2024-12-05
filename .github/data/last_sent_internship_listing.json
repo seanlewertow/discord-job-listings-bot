@@ -32568,5 +32568,24 @@
     "company_url": "https://simplify.jobs/c/2e32cd23-87b9-4a8f-9544-8fd5f15736cc",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Jabil",
+    "id": "432ed871-28b0-4997-a0a0-2a3e779c41d6",
+    "title": "Data Scientist Intern",
+    "active": true,
+    "terms": [
+      "Winter 2025"
+    ],
+    "date_updated": 1733415628,
+    "date_posted": 1733415628,
+    "url": "https://jabil.wd5.myworkdayjobs.com/en-US/Jabil_Careers/job/Remote---USA/Data-Scientist-Intern_J2403658",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/051f591a-22c2-4254-aec5-c3ee7c82b288",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
