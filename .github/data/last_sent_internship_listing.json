@@ -32431,5 +32431,25 @@
     "company_url": "https://simplify.jobs/c/Solidigm",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Harris Computer",
+    "id": "5141674f-22b4-41c6-8f62-9accbb869e0e",
+    "title": "Implementation Analyst Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1732176637,
+    "date_posted": 1732176637,
+    "url": "https://harriscomputer.wd3.myworkdayjobs.com/en-US/1/job/Office---Atlanta/Implementation-Analyst-Intern_R0027575",
+    "locations": [
+      "South Carolina",
+      "Atlanta, GA"
+    ],
+    "company_url": "https://simplify.jobs/c/372c6250-89ed-4b8e-9000-a81fc94184d8",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
