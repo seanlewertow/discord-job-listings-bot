@@ -5816,5 +5816,37 @@
     "company_url": "https://simplify.jobs/c/Nuro",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Affirm",
+    "id": "3e620445-1750-43c1-8588-4db5db0e4089",
+    "title": "Software Engineer I - Contact Experience - Fullstack",
+    "active": true,
+    "date_updated": 1733362856,
+    "date_posted": 1733362856,
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/6284221003",
+    "locations": [
+      "Remote in Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Affirm",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Aurora Innovation",
+    "id": "943ee19c-350f-40aa-8fb1-d912bcd45324",
+    "title": "Software Engineer I - Aurora Services Engineering",
+    "active": true,
+    "date_updated": 1733364931,
+    "date_posted": 1733364931,
+    "url": "https://aurora.tech/jobs/7756048002?gh_jid=7756048002",
+    "locations": [
+      "Pittsburgh, PA"
+    ],
+    "company_url": "https://simplify.jobs/c/Aurora-Innovation",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
