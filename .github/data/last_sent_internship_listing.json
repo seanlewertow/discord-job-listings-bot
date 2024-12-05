@@ -32470,5 +32470,103 @@
     "company_url": "https://simplify.jobs/c/Nuro",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Parsons",
+    "id": "93f938e3-fb74-42cf-a787-b9c52691b7d8",
+    "title": "Data Science Internship - Summer 2025",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1733415242,
+    "date_posted": 1733415242,
+    "url": "https://parsons.wd5.myworkdayjobs.com/en-US/search/job/US---AL-Huntsville/Data-Science-Internship--Summer-2025-_R161610",
+    "locations": [
+      "Huntsville, AL"
+    ],
+    "company_url": "https://simplify.jobs/c/Parsons",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "National Information Solutions Cooperative (NISC)",
+    "id": "5ce2c581-fdee-4524-9b62-aaa970fcd56a",
+    "title": "Intern \u2013 Software Development - IOS",
+    "active": true,
+    "terms": [
+      "Spring 2025",
+      "Summer 2025"
+    ],
+    "date_updated": 1733415081,
+    "date_posted": 1733415081,
+    "url": "https://boards.greenhouse.io/testnisc/jobs/6451288",
+    "locations": [
+      "Lake St Louis, MO"
+    ],
+    "company_url": "https://simplify.jobs/c/National-Information-Solutions-Cooperative-(NISC)",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "National Information Solutions Cooperative (NISC)",
+    "id": "03f9b996-db71-4c48-8c6a-175e04768c6b",
+    "title": "Intern \u2013 Software Development - IOS",
+    "active": true,
+    "terms": [
+      "Spring 2025",
+      "Summer 2025"
+    ],
+    "date_updated": 1733415079,
+    "date_posted": 1733415079,
+    "url": "https://boards.greenhouse.io/testnisc/jobs/6451291",
+    "locations": [
+      "Lake St Louis, MO"
+    ],
+    "company_url": "https://simplify.jobs/c/National-Information-Solutions-Cooperative-(NISC)",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Formlabs",
+    "id": "ac1e07ce-071e-46e9-8e88-4d49217ac4d5",
+    "title": "Desktop Software Intern",
+    "active": true,
+    "terms": [
+      "Winter 2026",
+      "Spring 2026"
+    ],
+    "date_updated": 1733414938,
+    "date_posted": 1733414938,
+    "url": "https://careers.formlabs.com/job/6451400/apply/?gh_jid=6451400",
+    "locations": [
+      "Cambridge, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/Formlabs",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Sanofi",
+    "id": "1ef133bb-a4c1-4eb3-b78f-425905e8667a",
+    "title": "Co-op - Process and CMC Data Science-Vaccines",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1733415416,
+    "date_posted": 1733415416,
+    "url": "https://sanofi.wd3.myworkdayjobs.com/en-US/SanofiCareers/job/Waltham-MA/Fall-2025-Co-op---Process-and-CMC-Data-Science--Vaccines_R2763679",
+    "locations": [
+      "Waltham, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/2e32cd23-87b9-4a8f-9544-8fd5f15736cc",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
