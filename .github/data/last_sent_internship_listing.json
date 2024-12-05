@@ -32277,5 +32277,100 @@
     "company_url": "https://simplify.jobs/c/Gilead-Sciences",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Evolve Technology",
+    "id": "ef9c5f88-fff8-47d3-9ab0-1a0200280e2b",
+    "title": "System Engineering Intern - Summer",
+    "active": true,
+    "terms": [
+      "Summer 2024"
+    ],
+    "date_updated": 1733364999,
+    "date_posted": 1733364999,
+    "url": "https://apply.workable.com/evolv-technology/j/538F985557/apply",
+    "locations": [
+      "Waltham, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/Evolve-Technology",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Truist",
+    "id": "338448e8-b246-49a7-a900-e2de6b1ec32a",
+    "title": "Analyst - Credit S&T - Sales - Trading & Research",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1733364693,
+    "date_posted": 1733364693,
+    "url": "https://truist.wd1.myworkdayjobs.com/en-US/Careers/job/New-York-NY/XMLNAME-2025-Truist-Securities---Credit-S-T--Sales--Trading---Research----Summer-Analyst-Program_R0096493",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Truist",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Cloudflare",
+    "id": "ae11ebc3-4e38-4393-8e2c-d098ff8cba0b",
+    "title": "Data Analyst Intern - Support Operations",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1733364161,
+    "date_posted": 1733364161,
+    "url": "https://boards.greenhouse.io/cloudflare/jobs/6395971",
+    "locations": [
+      "Austin, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Cloudflare",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Hugging Face",
+    "id": "0c30c243-cd2f-4abb-a728-deb7c296cb06",
+    "title": "Machine Learning Engineer Internship - Trl",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1733365728,
+    "date_posted": 1733365728,
+    "url": "https://apply.workable.com/huggingface/j/6D7E307582/apply",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/Hugging-Face",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Remitly",
+    "id": "0b2e3f3c-3f9f-471b-a1b5-f53a5dcf52b8",
+    "title": "Summer Internship",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1733365600,
+    "date_posted": 1733365600,
+    "url": "https://remitly.wd5.myworkdayjobs.com/en-US/Remitly_Careers/job/Summer-Internship-2025_R_103161",
+    "locations": [
+      "United States"
+    ],
+    "company_url": "https://simplify.jobs/c/Remitly",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
