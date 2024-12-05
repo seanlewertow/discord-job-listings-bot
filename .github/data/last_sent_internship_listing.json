@@ -32451,5 +32451,24 @@
     "company_url": "https://simplify.jobs/c/372c6250-89ed-4b8e-9000-a81fc94184d8",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Nuro",
+    "id": "b365ac1b-4a9d-47fc-b881-2c5a9e58e2ac",
+    "title": "Software Engineer - AI Platform",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1733373292,
+    "date_posted": 1733373292,
+    "url": "https://nuro.ai/careersitem?gh_jid=6450002",
+    "locations": [
+      "Mountain View, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Nuro",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
