@@ -32883,5 +32883,25 @@
     "company_url": "https://simplify.jobs/c/Hugging-Face",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Motorola",
+    "id": "b2feaa5a-6c08-4bb1-a688-9abb51d1073d",
+    "title": "Machine Learning Engineer",
+    "active": true,
+    "terms": [
+      "Spring 2025"
+    ],
+    "date_updated": 1733517030,
+    "date_posted": 1733517030,
+    "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Somerville-MA/Machine-Learning-Engineer---2025-Spring-Co-Op_R50717",
+    "locations": [
+      "Cambridge, MA",
+      "Massachusetts"
+    ],
+    "company_url": "https://simplify.jobs/c/MotorolaSolutions",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
