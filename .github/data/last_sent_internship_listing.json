@@ -32805,5 +32805,83 @@
     "company_url": "https://simplify.jobs/c/d1ef45b2-fd52-4e9d-9d7d-dc3d5386744f",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Symbotic",
+    "id": "734ae8b4-07ae-433c-9d3c-12839beeafff",
+    "title": "Software Engineer - Data Services",
+    "active": true,
+    "terms": [
+      "Summer 2024",
+      "Spring 2025",
+      "Fall 2025"
+    ],
+    "date_updated": 1733501581,
+    "date_posted": 1733501581,
+    "url": "https://symbotic.wd1.myworkdayjobs.com/en-US/Symbotic/job/USA-Wilmington--MA---HQ/Intern---Software-Engineer--Data-Services_R4006-1",
+    "locations": [
+      "Burlington, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/symbotic",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Sylvera",
+    "id": "34fe151a-531a-45ed-8421-44a472dc19c8",
+    "title": "Graduate Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1733501420,
+    "date_posted": 1733501420,
+    "url": "https://jobs.lever.co/sylvera/cf9b9463-8914-4688-9957-abd635401cf2/apply",
+    "locations": [
+      "London, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sylvera",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Hugging Face",
+    "id": "bd96b575-55ba-4b14-a3e3-4de5c922fc0a",
+    "title": "Machine Learning Engineer Internship - Hardware Optimization",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1733501966,
+    "date_posted": 1733501966,
+    "url": "https://apply.workable.com/huggingface/j/30EDE6502E/apply",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/Hugging-Face",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Hugging Face",
+    "id": "cad0e333-31aa-4585-8d1f-ae5716fb1855",
+    "title": "Machine Learning Engineer Internship - Hardware Optimization",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1733501964,
+    "date_posted": 1733501964,
+    "url": "https://apply.workable.com/huggingface/j/17D6FD9C7D/apply",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/Hugging-Face",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
