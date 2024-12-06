@@ -32763,5 +32763,47 @@
     "company_url": "https://simplify.jobs/c/allenai",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Nethermind",
+    "id": "e1d60fc6-0eec-4ed8-b6eb-78867ff6e1dd",
+    "title": "Agentic Internship Program",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1733487101,
+    "date_posted": 1733487101,
+    "url": "https://job-boards.eu.greenhouse.io/nethermind/jobs/4490627101",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/Nethermind",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "State Street",
+    "id": "a14c251d-86af-4cd7-ae43-d93e304071f3",
+    "title": "Investment Quantitative Research Internship",
+    "active": true,
+    "terms": [
+      "Summer 2025",
+      "Fall 2025",
+      "Winter 2026",
+      "Spring 2026",
+      "Summer 2026"
+    ],
+    "date_updated": 1733487458,
+    "date_posted": 1733487458,
+    "url": "https://statestreet.wd1.myworkdayjobs.com/en-US/Global/job/London-England/Investment-Quantitative-Research-Internship--13-months----London_R-763581-1",
+    "locations": [
+      "London, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/d1ef45b2-fd52-4e9d-9d7d-dc3d5386744f",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
