@@ -32644,5 +32644,83 @@
     "company_url": "https://simplify.jobs/c/Hugging-Face",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Evolve Technology",
+    "id": "621043a7-1173-4038-9106-cc584655a875",
+    "title": "Web App Development Intern - Summer",
+    "active": true,
+    "terms": [
+      "Summer 2024"
+    ],
+    "date_updated": 1733444100,
+    "date_posted": 1733444100,
+    "url": "https://apply.workable.com/evolv-technology/j/650E46B7F5/apply",
+    "locations": [
+      "Waltham, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/Evolve-Technology",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Parsons",
+    "id": "fda0543c-9c5c-41a6-9205-83b5999f8df5",
+    "title": "Space Systems Engineer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1733444016,
+    "date_posted": 1733444016,
+    "url": "https://parsons.wd5.myworkdayjobs.com/en-US/search/job/US---CO-Colorado-Springs/Space-Systems-Engineer-Intern-Summer-2025_R160860",
+    "locations": [
+      "Colorado Springs, CO"
+    ],
+    "company_url": "https://simplify.jobs/c/Parsons",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "National Information Solutions Cooperative (NISC)",
+    "id": "d2867cd1-0562-4de1-ad8f-d11338cea499",
+    "title": "Intern \u2013 Software Development",
+    "active": true,
+    "terms": [
+      "Spring 2025",
+      "Summer 2025"
+    ],
+    "date_updated": 1733443911,
+    "date_posted": 1733443911,
+    "url": "https://boards.greenhouse.io/testnisc/jobs/6452898",
+    "locations": [
+      "Lake St Louis, MO"
+    ],
+    "company_url": "https://simplify.jobs/c/National-Information-Solutions-Cooperative-(NISC)",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "National Information Solutions Cooperative (NISC)",
+    "id": "cfba6fd6-58a2-460d-8dff-6e365a66713b",
+    "title": "Intern \u2013 Software Development",
+    "active": true,
+    "terms": [
+      "Spring 2025",
+      "Summer 2025"
+    ],
+    "date_updated": 1733443909,
+    "date_posted": 1733443909,
+    "url": "https://boards.greenhouse.io/testnisc/jobs/6452893",
+    "locations": [
+      "Lake St Louis, MO"
+    ],
+    "company_url": "https://simplify.jobs/c/National-Information-Solutions-Cooperative-(NISC)",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
