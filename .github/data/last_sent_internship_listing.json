@@ -32960,5 +32960,24 @@
     "company_url": "https://simplify.jobs/c/Zipline",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "date_updated": 1733549313,
+    "url": "https://careers.ibm.com/job/20978143/software-developer-intern-2025-san-jose-ca/",
+    "company_name": "IBM",
+    "title": "Software Developer Intern: 2025",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "terms": [
+      "Summer 2025"
+    ],
+    "sponsorship": "Does Not Offer Sponsorship",
+    "active": true,
+    "source": "GaryZhous",
+    "id": "928c97fa-39ba-427b-ba98-0fb7b6b0baae",
+    "date_posted": 1733549313,
+    "company_url": "",
+    "is_visible": true
   }
 ]
