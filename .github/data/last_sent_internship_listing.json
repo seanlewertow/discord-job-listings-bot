@@ -32979,5 +32979,24 @@
     "date_posted": 1733549313,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "date_updated": 1733549777,
+    "url": "https://careers.withwaymo.com/jobs/2025-summer-intern-ms-ml-runtime-optimization-mountain-view-california-united-states",
+    "company_name": "Waymo",
+    "title": "2025 Summer Intern, MS, ML Runtime Optimization",
+    "locations": [
+      "Mountain View, CA"
+    ],
+    "terms": [
+      "Summer 2025"
+    ],
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "source": "GaryZhous",
+    "id": "aa675146-762d-48b8-9d3f-2c9ca2c9ea28",
+    "date_posted": 1733549777,
+    "company_url": "",
+    "is_visible": true
   }
 ]
