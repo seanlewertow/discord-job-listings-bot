@@ -32903,5 +32903,24 @@
     "company_url": "https://simplify.jobs/c/MotorolaSolutions",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Democratic National Committee",
+    "id": "8b8b844c-5a78-4e42-8c66-7d993275e5fa",
+    "title": "DNC Technology Internship",
+    "active": true,
+    "terms": [
+      "Spring 2025"
+    ],
+    "date_updated": 1733530607,
+    "date_posted": 1733530607,
+    "url": "https://jobs.lever.co/dnc/a9496118-64e4-4c72-9829-e7b0f1ef5bdf/apply",
+    "locations": [
+      "Washington, DC"
+    ],
+    "company_url": "https://simplify.jobs/c/DNC",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
