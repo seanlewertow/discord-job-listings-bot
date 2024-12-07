@@ -32922,5 +32922,43 @@
     "company_url": "https://simplify.jobs/c/DNC",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Zipline",
+    "id": "a797fb78-9194-4e7a-be52-1d6df1d2ca98",
+    "title": "Spatial Planning Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1733544697,
+    "date_posted": 1733544697,
+    "url": "https://www.flyzipline.com/careers/open-roles?gh_jid=6284593003",
+    "locations": [
+      "San Bruno, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Zipline",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Zipline",
+    "id": "7c0109f7-db24-4468-9870-70bf7d8225af",
+    "title": "Software Engineering Intern - Enterprise Systems - Summer 2025",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1733544694,
+    "date_posted": 1733544694,
+    "url": "https://www.flyzipline.com/careers/open-roles?gh_jid=6284597003",
+    "locations": [
+      "San Bruno, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Zipline",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
