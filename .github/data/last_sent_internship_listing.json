@@ -32998,5 +32998,24 @@
     "date_posted": 1733549777,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Zipline",
+    "id": "3ce3f284-59d6-4a83-a9d6-f37d60794b57",
+    "title": "Data Analytics Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1733544688,
+    "date_posted": 1733544688,
+    "url": "https://www.flyzipline.com/careers/open-roles?gh_jid=6284596003",
+    "locations": [
+      "San Bruno, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Zipline",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
