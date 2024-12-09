@@ -33017,5 +33017,43 @@
     "company_url": "https://simplify.jobs/c/Zipline",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "date_updated": 1733720813,
+    "url": "https://careers.garmin.com/careers-home/jobs/14486",
+    "company_name": "Garmin",
+    "title": "Software Engineering Intern",
+    "locations": [
+      "Yarmouth, ME"
+    ],
+    "terms": [
+      "Summer 2025"
+    ],
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "source": "GaryZhous",
+    "id": "6d74e2e8-f803-4cbf-9788-3edd5787061d",
+    "date_posted": 1733720813,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1733720900,
+    "url": "https://jobs.cisco.com/jobs/ProjectDetail/Full-Stack-Intern-Meraki-Summer-2025-FY25/1431578",
+    "company_name": "Cisco",
+    "title": "Full Stack Intern Meraki Summer 2025 FY25",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "terms": [
+      "Summer 2025"
+    ],
+    "sponsorship": "Does Not Offer Sponsorship",
+    "active": true,
+    "source": "GaryZhous",
+    "id": "11c267cc-e68c-47d5-b6aa-c1430dd98091",
+    "date_posted": 1733720900,
+    "company_url": "",
+    "is_visible": true
   }
 ]
