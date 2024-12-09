@@ -33055,5 +33055,62 @@
     "date_posted": 1733720900,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "source": "Simplify",
+    "company_name": "MFS",
+    "id": "08f18038-138f-424d-b5a6-78c8b089f9a9",
+    "title": "Quant Research Associate Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1733775405,
+    "date_posted": 1733775405,
+    "url": "https://mfs.wd1.myworkdayjobs.com/en-US/MFS-Careers/job/Boston/Quant-Research-Associate-Intern_MFS-230821",
+    "locations": [
+      "Boston, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/5276a21f-bbf3-42c6-b809-d1b328b36b6e",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Aurora Innovation",
+    "id": "6f4c598b-c892-4eb8-b331-424add8dda29",
+    "title": "Software Engineering Intern - Quality Tooling",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1733775545,
+    "date_posted": 1733775545,
+    "url": "https://aurora.tech/jobs/7677633002?gh_jid=7677633002",
+    "locations": [
+      "Mountain View, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Aurora-Innovation",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Sanofi",
+    "id": "a259ea1e-eda2-45da-8a72-9001755e6afd",
+    "title": "Intern Process and CMC Data Science-Vaccines",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1733776013,
+    "date_posted": 1733776013,
+    "url": "https://sanofi.wd3.myworkdayjobs.com/en-US/SanofiCareers/job/Waltham-MA/Summer-2025-Intern--Process-and-CMC-Data-Science--Vaccines-_R2763921",
+    "locations": [
+      "Waltham, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/2e32cd23-87b9-4a8f-9544-8fd5f15736cc",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
