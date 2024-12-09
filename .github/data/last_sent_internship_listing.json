@@ -33112,5 +33112,24 @@
     "company_url": "https://simplify.jobs/c/2e32cd23-87b9-4a8f-9544-8fd5f15736cc",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Brooks Automation",
+    "id": "2084b728-7fae-426a-9575-cb4b2a0227a4",
+    "title": "Software Engineering Intern",
+    "active": true,
+    "terms": [
+      "Summer 2024"
+    ],
+    "date_updated": 1733776799,
+    "date_posted": 1733776799,
+    "url": "https://brooksauto.wd1.myworkdayjobs.com/en-US/Brooks_External_Site/job/Chelmsford-MA/Software-Engineering-Intern_R2501",
+    "locations": [
+      "Lowell, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/190ae898-a199-4c93-b2ce-50b07b110a17",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
