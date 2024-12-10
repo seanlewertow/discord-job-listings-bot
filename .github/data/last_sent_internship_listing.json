@@ -33246,5 +33246,43 @@
     "company_url": "https://simplify.jobs/c/Waymo",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "date_updated": 1733807018,
+    "url": "https://careers.staples.com/en/job/-/-/44412/73989731696",
+    "company_name": "Staples",
+    "title": "Software Engineer Intern, Java Backend",
+    "locations": [
+      "Framingham, MA"
+    ],
+    "terms": [
+      "Summer 2025"
+    ],
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "source": "GaryZhous",
+    "id": "341aa311-f59f-4dce-9627-ee74767c86bc",
+    "date_posted": 1733807018,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1733807159,
+    "url": "https://www.amazon.jobs/en/jobs/2848598/solutions-architect-intern",
+    "company_name": "Amazon",
+    "title": "Solutions Architect Intern",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "terms": [
+      "Summer 2025"
+    ],
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "source": "GaryZhous",
+    "id": "f0b4e42f-1577-4333-9a1e-582dea00a31d",
+    "date_posted": 1733807159,
+    "company_url": "",
+    "is_visible": true
   }
 ]
