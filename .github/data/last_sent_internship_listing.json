@@ -33227,5 +33227,24 @@
     "company_url": "https://simplify.jobs/c/MotorolaSolutions",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Waymo",
+    "id": "1ecfb3b4-f4dc-45b6-911d-a6dee478e26e",
+    "title": "Summer Intern - MS - Fine-Tuning for Foundation Models",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1733368998,
+    "date_posted": 1730852026,
+    "url": "https://careers.withwaymo.com/jobs?gh_jid=6372757",
+    "locations": [
+      "Mountain View, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Waymo",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
