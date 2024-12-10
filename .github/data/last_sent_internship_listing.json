@@ -33131,5 +33131,101 @@
     "company_url": "https://simplify.jobs/c/190ae898-a199-4c93-b2ce-50b07b110a17",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Chatham Financial",
+    "id": "58164775-c4e9-409b-8332-e6c465a5e3d1",
+    "title": "Business Quantitative Analyst Internship",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1733790276,
+    "date_posted": 1733790276,
+    "url": "https://boards.greenhouse.io/chathamfinancial/jobs/6458559",
+    "locations": [
+      "Centennial, CO"
+    ],
+    "company_url": "https://simplify.jobs/c/73e27fa4-30a7-4b07-b2e9-002fbcef664b",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Nelnet",
+    "id": "fdb35003-694c-4f30-b941-7a0066a7b003",
+    "title": "Data Analyst I",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1733790359,
+    "date_posted": 1733790359,
+    "url": "https://nelnet.wd1.myworkdayjobs.com/en-US/MyNelnet/job/Lincoln-NE/Data-Analyst-I---Intern_R20368",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/d7662126-9bc7-4ec4-b3e6-a9a3ae307c5d",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Fidelity Investments",
+    "id": "1e4502ef-7001-48c6-840c-a772877d4d62",
+    "title": "Advanced Strategies & Research Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1733789822,
+    "date_posted": 1733789822,
+    "url": "https://wd1.myworkdaysite.com/recruiting/fmr/FidelityCareers/job/Boston-MA/Advanced-Strategies---Research-Intern_2104043",
+    "locations": [
+      "Boston, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/Fidelity",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Fifth Third Bank",
+    "id": "9342f95a-5d4b-4f03-912c-602dfa619a5a",
+    "title": "2025 Capital Markets Fixed Income \u2013 Currencies and Commodities Sales & Trading internship",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1733789757,
+    "date_posted": 1733789757,
+    "url": "https://fifththird.wd5.myworkdayjobs.com/en-US/53careers/job/Cincinnati-OH/XMLNAME-2025-Capital-Markets-Fixed-Income--Currencies-and-Commodities-Sales---Trading-internship---Cincinnati_R50052",
+    "locations": [
+      "Cincinnati, OH"
+    ],
+    "company_url": "https://simplify.jobs/c/e4b17ec5-deb6-4138-b816-ca9aa34f1a86",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Motorola",
+    "id": "f26fa82b-8bb7-47e3-ab0b-6e0f7bde07d3",
+    "title": "Software Engineer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1733790769,
+    "date_posted": 1733790769,
+    "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/Software-Engineer-Intern---Summer-2025_R52003",
+    "locations": [
+      "Chicago, IL",
+      "Hoffman Estates, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/MotorolaSolutions",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
