@@ -33284,5 +33284,24 @@
     "date_posted": 1733807159,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Fifth Third Bank",
+    "id": "03e8f4d3-1b0b-4cc9-b9ec-8b01d65fecbd",
+    "title": "Data Science & Data Engineering Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1733862604,
+    "date_posted": 1733862604,
+    "url": "https://fifththird.wd5.myworkdayjobs.com/en-US/53careers/job/Cincinnati-OH/Data-Science---Data-Engineering-Intern_R52700",
+    "locations": [
+      "Cincinnati, OH"
+    ],
+    "company_url": "https://simplify.jobs/c/e4b17ec5-deb6-4138-b816-ca9aa34f1a86",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
