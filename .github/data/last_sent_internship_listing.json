@@ -33589,5 +33589,43 @@
     "company_url": "https://simplify.jobs/c/Apple",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Formlabs",
+    "id": "22bb3ede-f122-4a92-a7a2-95aaa4a5ca29",
+    "title": "Desktop Software Intern - Summer 2025",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1733947997,
+    "date_posted": 1733947997,
+    "url": "https://careers.formlabs.com/job/6250770/apply/?gh_jid=6250770",
+    "locations": [
+      "Cambridge, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/Formlabs",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Formlabs",
+    "id": "223bd487-b6ab-457d-b88d-320fee997f11",
+    "title": "Embedded Software Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1733948001,
+    "date_posted": 1733948001,
+    "url": "https://careers.formlabs.com/job/6250792/apply/?gh_jid=6250792",
+    "locations": [
+      "Cambridge, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/Formlabs",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
