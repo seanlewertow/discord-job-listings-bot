@@ -33437,5 +33437,100 @@
     "company_url": "https://simplify.jobs/c/RecursionPharma",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Apple",
+    "id": "25675ec7-a373-406b-95e1-85380d11b66b",
+    "title": "Internship - Machine Learning - Photos",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1733888301,
+    "date_posted": 1733888301,
+    "url": "https://jobs.apple.com/en-us/details/200578408",
+    "locations": [
+      "Cambridge, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Apple",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Apple",
+    "id": "1088eda1-ee13-4c66-99df-c7cf0b6fcfa2",
+    "title": "Internship - Framebuffer Driver Engineer",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1733888275,
+    "date_posted": 1733888275,
+    "url": "https://jobs.apple.com/en-us/details/200574843",
+    "locations": [
+      "London, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Apple",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Apple",
+    "id": "9a80da45-bd04-4924-b6a0-700753d5591a",
+    "title": "Internship - Swift Compiler and Runtime Engineer",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1733888269,
+    "date_posted": 1733888269,
+    "url": "https://jobs.apple.com/en-us/details/200579813",
+    "locations": [
+      "London, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Apple",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Apple",
+    "id": "9da04d18-6d3c-4684-9fa8-95239b546d0a",
+    "title": "Internship - ML Research Engineer",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1733888264,
+    "date_posted": 1733888264,
+    "url": "https://jobs.apple.com/en-us/details/200579035",
+    "locations": [
+      "Cambridge, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Apple",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Apple",
+    "id": "6916c950-5736-4526-bf1e-51694e387a7f",
+    "title": "Internship - Siri & Information Intelligence",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1733888247,
+    "date_posted": 1733888247,
+    "url": "https://jobs.apple.com/en-us/details/200578695",
+    "locations": [
+      "Cambridge, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Apple",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
