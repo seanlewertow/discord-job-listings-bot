@@ -33551,5 +33551,43 @@
     "company_url": "https://simplify.jobs/c/Samsung-Research-America",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Apple",
+    "id": "929ccaef-2104-41ef-9a38-f050fdcbd52c",
+    "title": "Wallet and Apple Pay - IOS Engineer",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1733888569,
+    "date_posted": 1733888569,
+    "url": "https://jobs.apple.com/en-us/details/200580016",
+    "locations": [
+      "London, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Apple",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Apple",
+    "id": "a3466aa6-147c-42e4-bcaa-6270724051ff",
+    "title": "Internship - ML Pro Apps",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1733888325,
+    "date_posted": 1733888325,
+    "url": "https://jobs.apple.com/en-us/details/200573554",
+    "locations": [
+      "London, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Apple",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
