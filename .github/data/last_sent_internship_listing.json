@@ -33627,5 +33627,102 @@
     "company_url": "https://simplify.jobs/c/Formlabs",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Parsons",
+    "id": "a4c1e24b-31e6-4c17-b8bb-bf93e959142b",
+    "title": "Engineering Internship",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1733949079,
+    "date_posted": 1733949079,
+    "url": "https://parsons.wd5.myworkdayjobs.com/en-US/search/job/US---VA-Herndon/Engineering-Internship-Summer-2025_R158791",
+    "locations": [
+      "Reston, VA"
+    ],
+    "company_url": "https://simplify.jobs/c/Parsons",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Parsons",
+    "id": "65ad0d2b-5232-45d2-a237-361e91e083ff",
+    "title": "Software Engineering Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1733949082,
+    "date_posted": 1733949082,
+    "url": "https://parsons.wd5.myworkdayjobs.com/en-US/search/job/US---Remote-Any-Location/Software-Engineering-Intern-Summer-2025_R161754",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/Parsons",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Intel",
+    "id": "35a60f8b-f38b-4358-a15e-a17fdc29851c",
+    "title": "Undergraduate Intern Software Engineer",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1733948949,
+    "date_posted": 1733948949,
+    "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-California-Santa-Clara/Undergraduate-Intern-Software-Engineer_JR0268959",
+    "locations": [
+      "Santa Clara, CA",
+      "Folsom, CA",
+      "Phoenix, AZ"
+    ],
+    "company_url": "https://simplify.jobs/c/Intel",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Cadence Design Systems",
+    "id": "325b2cdf-00bd-4aa2-8c40-f35c24d41772",
+    "title": "Software Intern",
+    "active": true,
+    "terms": [
+      "Summer 2024"
+    ],
+    "date_updated": 1733948925,
+    "date_posted": 1733948925,
+    "url": "https://cadence.wd1.myworkdayjobs.com/en-US/External_Careers/job/SAN-JOSE/Software-Intern_R48438",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Cadence-Design-Systems",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Leidos",
+    "id": "573e5a05-15cb-4cb3-af60-b18aaadbb947",
+    "title": "Data Scientist Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1733948714,
+    "date_posted": 1733948714,
+    "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Arlington-VA/Data-Scientist-Intern_R-00149639",
+    "locations": [
+      "Arlington, VA"
+    ],
+    "company_url": "https://simplify.jobs/c/Leidos",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
