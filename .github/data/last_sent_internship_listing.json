@@ -33342,5 +33342,100 @@
     "company_url": "https://simplify.jobs/c/Salesforce",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "UiPath",
+    "id": "d22a563b-9e9e-434c-82d4-38a9edf09864",
+    "title": "Software Engineering Intern",
+    "active": true,
+    "terms": [
+      "Summer 2024"
+    ],
+    "date_updated": 1733876636,
+    "date_posted": 1733876636,
+    "url": "https://careers.uipath.com/jobs/11731?lang=en-us&icims=1",
+    "locations": [
+      "Bellevue, WA"
+    ],
+    "company_url": "https://simplify.jobs/c/UiPath",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Motorola",
+    "id": "fe37a45f-9e28-41e0-919e-6f4013bceadd",
+    "title": "Data Scientist Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1733876623,
+    "date_posted": 1733876623,
+    "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Schaumburg-IL/Data-Scientist-Intern--Summer-2025-_R51392",
+    "locations": [
+      "Hoffman Estates, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/MotorolaSolutions",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Motorola",
+    "id": "824fd1ed-2162-47d4-ab09-a6bae5958933",
+    "title": "Data Scientist Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1733876619,
+    "date_posted": 1733876619,
+    "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Schaumburg-IL/Data-Scientist-Intern--Summer-2025-_R51391",
+    "locations": [
+      "Hoffman Estates, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/MotorolaSolutions",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "GitHub",
+    "id": "15a0604a-2ea3-4473-9935-bd6e39fd369c",
+    "title": "Software Engineer",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1733876350,
+    "date_posted": 1733876350,
+    "url": "https://githubinc.jibeapply.com/jobs/3849?lang=en-us&icims=1",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/GitHub",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Recursion Pharmaceuticals",
+    "id": "6d7b1da3-a566-49a6-9d4f-1009fd737d59",
+    "title": "Data Science Internship",
+    "active": true,
+    "terms": [
+      "Summer 2024"
+    ],
+    "date_updated": 1733876347,
+    "date_posted": 1733876347,
+    "url": "https://job-boards.greenhouse.io/recursionpharmaceuticals/jobs/6463295",
+    "locations": [
+      "Salt Lake City, UT"
+    ],
+    "company_url": "https://simplify.jobs/c/RecursionPharma",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
