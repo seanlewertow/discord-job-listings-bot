@@ -33532,5 +33532,24 @@
     "company_url": "https://simplify.jobs/c/Apple",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Samsung Research America",
+    "id": "e409843e-1eaa-46e4-a5c0-669bdbc6a50e",
+    "title": "Summer Intern - Tech Incubation",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1733890545,
+    "date_posted": 1733890545,
+    "url": "https://job-boards.greenhouse.io/samsungresearchamericainternship/jobs/7761601002",
+    "locations": [
+      "Mountain View, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Samsung-Research-America",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
