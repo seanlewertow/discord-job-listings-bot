@@ -33781,5 +33781,45 @@
     "company_url": "https://simplify.jobs/c/Xylem",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Motorola",
+    "id": "8732e301-c8fe-4539-abb3-41e8451bf986",
+    "title": "Model Developer Co-Op",
+    "active": true,
+    "terms": [
+      "Spring 2025"
+    ],
+    "date_updated": 1733977245,
+    "date_posted": 1733977245,
+    "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/California-Southern-US-Offsite/Model-Developer-Co-Op---Spring-2025_R52243",
+    "locations": [
+      "California"
+    ],
+    "company_url": "https://simplify.jobs/c/MotorolaSolutions",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Western Digital",
+    "id": "9645f162-3b9f-4a84-83e6-7829414d6e4b",
+    "title": "Software Engineering Co-op - June-December 2025",
+    "active": true,
+    "terms": [
+      "Summer 2025",
+      "Fall 2025",
+      "Winter 2026"
+    ],
+    "date_updated": 1733977126,
+    "date_posted": 1733977126,
+    "url": "https://jobs.smartrecruiters.com/WesternDigital/744000031407755",
+    "locations": [
+      "Rochester, MN"
+    ],
+    "company_url": "https://simplify.jobs/c/Western-Digital",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
