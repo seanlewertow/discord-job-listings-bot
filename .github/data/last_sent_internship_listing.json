@@ -34016,5 +34016,24 @@
     "company_url": "https://simplify.jobs/c/Amazon",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Brooks Automation",
+    "id": "9b291d00-2bdb-4037-8493-fbd6e584f247",
+    "title": "Software/Computer Vision Intern",
+    "active": true,
+    "terms": [
+      "Summer 2024"
+    ],
+    "date_updated": 1734042848,
+    "date_posted": 1734042848,
+    "url": "https://brooksauto.wd1.myworkdayjobs.com/en-US/Brooks_External_Site/job/US---Fremont-CA/Software-Computer-Vision-Intern_R2529",
+    "locations": [
+      "Fremont, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/190ae898-a199-4c93-b2ce-50b07b110a17",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
