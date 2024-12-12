@@ -33955,5 +33955,66 @@
     "company_url": "https://simplify.jobs/c/Crowdstrike",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Evolve Technology",
+    "id": "3a2e1a91-204f-4217-af43-286df1474759",
+    "title": "Research Scientist Intern - Summer",
+    "active": true,
+    "terms": [
+      "Summer 2024"
+    ],
+    "date_updated": 1732320588,
+    "date_posted": 1732320588,
+    "url": "https://apply.workable.com/evolv-technology/j/7F5B17587A/apply",
+    "locations": [
+      "Waltham, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/Evolve-Technology",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Gilead Sciences",
+    "id": "8b7ed92a-ed3e-4324-a943-8e3f85ea7adb",
+    "title": "Intern \u2013 IT - Employee Experience",
+    "active": true,
+    "terms": [
+      "Spring 2024",
+      "Summer 2024"
+    ],
+    "date_updated": 1725485465,
+    "date_posted": 1725485465,
+    "url": "https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---California---Foster-City/Intern---IT--Employee-Experience_R0042295",
+    "locations": [
+      "San Mateo, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Gilead-Sciences",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Amazon",
+    "id": "1b0b542d-bfb5-4ec5-90dd-8452433ccb63",
+    "title": "SDE Intern - Summer",
+    "active": true,
+    "terms": [
+      "Summer 2024"
+    ],
+    "date_updated": 1734042617,
+    "date_posted": 1734042617,
+    "url": "https://amazon.jobs/en/jobs/2852336/sde-intern-summer",
+    "locations": [
+      "Palo Alto, CA",
+      "Seattle, WA",
+      "Redmond, WA",
+      "Bellevue, WA"
+    ],
+    "company_url": "https://simplify.jobs/c/Amazon",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
