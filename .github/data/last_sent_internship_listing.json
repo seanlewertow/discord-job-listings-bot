@@ -33859,5 +33859,43 @@
     "company_url": "https://simplify.jobs/c/Visa",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Zoox",
+    "id": "92f8e74d-8f48-4746-9fcd-0be01285ebb5",
+    "title": "Systems Safety Engineer \u2013 Operational Tools Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1734020193,
+    "date_posted": 1734020193,
+    "url": "https://jobs.lever.co/zoox/dd279476-9516-465f-a83a-d9ca0542a17b/apply",
+    "locations": [
+      "San Mateo, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Zoox",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Fifth Third Bank",
+    "id": "66c95ff4-e5e4-49f9-8c86-5924bc76da13",
+    "title": "Enterprise Data Office College Co-op - Summer 2025",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1734019840,
+    "date_posted": 1734019840,
+    "url": "https://fifththird.wd5.myworkdayjobs.com/en-US/53careers/job/Cincinnati-OH/Enterprise-Data-Office-College-Co-op---Summer-2025---Cincinnati_R52350",
+    "locations": [
+      "Cincinnati, OH"
+    ],
+    "company_url": "https://simplify.jobs/c/e4b17ec5-deb6-4138-b816-ca9aa34f1a86",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
