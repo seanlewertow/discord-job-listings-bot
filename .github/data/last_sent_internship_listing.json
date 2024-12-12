@@ -33821,5 +33821,24 @@
     "company_url": "https://simplify.jobs/c/Western-Digital",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "date_updated": 1733980378,
+    "url": "https://careers.docusign.com/jobs/25870",
+    "company_name": "Docusign",
+    "title": "Back Platform Software Engineer Intern",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "terms": [
+      "Summer 2025"
+    ],
+    "sponsorship": "Does Not Offer Sponsorship",
+    "active": true,
+    "source": "GaryZhous",
+    "id": "161557c2-baeb-42f2-a6a1-33d9d5528ad9",
+    "date_posted": 1733980378,
+    "company_url": "",
+    "is_visible": true
   }
 ]
