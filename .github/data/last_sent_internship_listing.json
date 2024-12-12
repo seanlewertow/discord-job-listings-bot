@@ -33762,5 +33762,24 @@
     "company_url": "https://simplify.jobs/c/Signifyd",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Xylem",
+    "id": "8dfcee5b-c4da-4ecb-9061-327e71328137",
+    "title": "Software Engineering Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1733976568,
+    "date_posted": 1733976568,
+    "url": "https://xylem.wd5.myworkdayjobs.com/en-US/xylem-careers/job/Boise---Emerald-Street/Software-Engineering-Intern_R39346",
+    "locations": [
+      "Boise, ID"
+    ],
+    "company_url": "https://simplify.jobs/c/Xylem",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
