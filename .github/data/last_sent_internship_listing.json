@@ -33840,5 +33840,24 @@
     "date_posted": 1733980378,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Visa",
+    "id": "06352922-77dc-4b4f-8ae6-d56a3ab8a0f2",
+    "title": "Summer Intern - Software Engineering and Testing",
+    "active": true,
+    "terms": [
+      "Summer 2024"
+    ],
+    "date_updated": 1734005248,
+    "date_posted": 1734005248,
+    "url": "https://jobs.smartrecruiters.com/Visa/744000031496075",
+    "locations": [
+      "Reading, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Visa",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
