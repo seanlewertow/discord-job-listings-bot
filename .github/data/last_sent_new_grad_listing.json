@@ -6090,5 +6090,37 @@
     "company_url": "https://simplify.jobs/c/Ethena",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Medtronic",
+    "id": "32575ea6-17ad-440c-905f-8f54fdb21883",
+    "title": "Software Engineer I",
+    "active": true,
+    "date_updated": 1734039036,
+    "date_posted": 1733847885,
+    "url": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Minneapolis-Minnesota-United-States-of-America/Software-Engineer-I_R13089-1",
+    "locations": [
+      "Minneapolis, MN"
+    ],
+    "company_url": "https://simplify.jobs/c/9b240811-be36-4b51-8f40-6973a27e1f62",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "esri",
+    "id": "e39d70fb-63a6-4417-bfc1-0ffd9d8a0fd3",
+    "title": "Software Development Engineer I",
+    "active": true,
+    "date_updated": 1734039803,
+    "date_posted": 1733501694,
+    "url": "https://www.esri.com/careers/4598042007?gh_jid=4598042007",
+    "locations": [
+      "Vienna, VA"
+    ],
+    "company_url": "https://simplify.jobs/c/3bc7a09e-e5f1-45e8-b26b-1d3c77588a00",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
