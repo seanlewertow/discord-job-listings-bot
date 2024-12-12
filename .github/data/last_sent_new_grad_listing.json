@@ -6042,5 +6042,37 @@
     "company_url": "https://simplify.jobs/c/Apple",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Wyetech",
+    "id": "f5241cea-0fc8-479a-b94e-b9b2515f6c27",
+    "title": "Cloud Software Engineer 1",
+    "active": true,
+    "date_updated": 1734036978,
+    "date_posted": 1733444014,
+    "url": "https://jobs.lever.co/wyetechllc/7c89133b-b6c8-48be-92e8-15e01cccdd9c/apply",
+    "locations": [
+      "Laurel, MD"
+    ],
+    "company_url": "https://simplify.jobs/c/Wyetech-LLC",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "esri",
+    "id": "65528c19-d32e-41a1-a096-33eef2aa5939",
+    "title": "Software Development Engineer I",
+    "active": true,
+    "date_updated": 1734037277,
+    "date_posted": 1733501693,
+    "url": "https://www.esri.com/careers/4598044007?gh_jid=4598044007",
+    "locations": [
+      "St. Louis, MO"
+    ],
+    "company_url": "https://simplify.jobs/c/3bc7a09e-e5f1-45e8-b26b-1d3c77588a00",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
