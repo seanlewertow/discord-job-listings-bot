@@ -34035,5 +34035,100 @@
     "company_url": "https://simplify.jobs/c/190ae898-a199-4c93-b2ce-50b07b110a17",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Glassdoor",
+    "id": "afc108ff-7081-45ab-9b13-e5c7d2c3ea50",
+    "title": "Mobile SDET Engineer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1734044195,
+    "date_posted": 1734044195,
+    "url": "https://job-boards.greenhouse.io/glassdoor/jobs/7757180002",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/Glassdoor",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Glassdoor",
+    "id": "f7b33aef-79fa-4657-b842-9f24e0318ffa",
+    "title": "Front-end Software Engineer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1734044178,
+    "date_posted": 1734044178,
+    "url": "https://job-boards.greenhouse.io/glassdoor/jobs/7761878002",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/Glassdoor",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Glassdoor",
+    "id": "663ca8dc-ae9d-4f66-a4d8-dc3a7c4e10e3",
+    "title": "Android Software Engineer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1734044174,
+    "date_posted": 1734044174,
+    "url": "https://job-boards.greenhouse.io/glassdoor/jobs/7756913002",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/Glassdoor",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Glassdoor",
+    "id": "f2048002-9aae-4dcd-bb50-d4a6fa3e9c23",
+    "title": "Android Software Engineer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1734044172,
+    "date_posted": 1734044172,
+    "url": "https://job-boards.greenhouse.io/glassdoor/jobs/7756911002",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/Glassdoor",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Glassdoor",
+    "id": "14a9b913-4429-4465-8395-93e522b7416b",
+    "title": "Android Software Engineer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1734044172,
+    "date_posted": 1734044172,
+    "url": "https://job-boards.greenhouse.io/glassdoor/jobs/7756910002",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/Glassdoor",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
