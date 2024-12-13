@@ -34206,5 +34206,24 @@
     "company_url": "https://simplify.jobs/c/Glassdoor",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Together AI",
+    "id": "9e764926-8191-46bc-a13a-38cb31471983",
+    "title": "Research Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1734063511,
+    "date_posted": 1734063511,
+    "url": "https://job-boards.greenhouse.io/togetherai/jobs/4523387007",
+    "locations": [
+      "SF"
+    ],
+    "company_url": "https://simplify.jobs/c/bf2643ff-6513-4a6b-af72-7aed901a8828",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
