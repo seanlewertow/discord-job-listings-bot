@@ -34130,5 +34130,81 @@
     "company_url": "https://simplify.jobs/c/Glassdoor",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Glassdoor",
+    "id": "5b6e316c-9322-4a08-9105-f2f04a657a96",
+    "title": "Front-end Software Engineer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1734044180,
+    "date_posted": 1734044180,
+    "url": "https://job-boards.greenhouse.io/glassdoor/jobs/7761876002",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/Glassdoor",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Glassdoor",
+    "id": "86a97b63-43fb-4bcd-8eb0-d669f74dfee9",
+    "title": "Front-end Software Engineer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1734044179,
+    "date_posted": 1734044179,
+    "url": "https://job-boards.greenhouse.io/glassdoor/jobs/7761875002",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/Glassdoor",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Glassdoor",
+    "id": "1691d1d0-5fc5-46f0-8c68-191aa5a2f776",
+    "title": "Front-end Software Engineer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1734044178,
+    "date_posted": 1734044178,
+    "url": "https://job-boards.greenhouse.io/glassdoor/jobs/7761877002",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/Glassdoor",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Glassdoor",
+    "id": "57d284eb-3f73-4999-a336-957d58d4c91f",
+    "title": "Android Software Engineer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1734044172,
+    "date_posted": 1734044172,
+    "url": "https://job-boards.greenhouse.io/glassdoor/jobs/7756914002",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/Glassdoor",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
