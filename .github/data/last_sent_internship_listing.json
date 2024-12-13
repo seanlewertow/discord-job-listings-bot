@@ -34225,5 +34225,43 @@
     "company_url": "https://simplify.jobs/c/bf2643ff-6513-4a6b-af72-7aed901a8828",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Leidos",
+    "id": "86ff7b31-8c79-466b-a530-c1312f76bbe7",
+    "title": "Data Analytics Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1734122156,
+    "date_posted": 1734122156,
+    "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Data-Analytics-Intern_R-00149914",
+    "locations": [
+      "Huntsville, AL"
+    ],
+    "company_url": "https://simplify.jobs/c/Leidos",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Vermeer",
+    "id": "1a03bdfa-ec82-47fe-93d1-69ec5f98e5b8",
+    "title": "Embedded Software Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1734122215,
+    "date_posted": 1733847258,
+    "url": "https://vermeer.wd5.myworkdayjobs.com/en-US/externalcareersite/job/Pella-Iowa-USA---Plant-3-Segment-Office/Electrical-Engineer-Intern_REQ-18637",
+    "locations": [
+      "Newton, IA"
+    ],
+    "company_url": "https://simplify.jobs/c/9ff05b27-3c7e-4c70-82e2-d3bfb40bb992",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
