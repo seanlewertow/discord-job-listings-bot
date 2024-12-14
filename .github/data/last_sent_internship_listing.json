@@ -34263,5 +34263,87 @@
     "company_url": "https://simplify.jobs/c/9ff05b27-3c7e-4c70-82e2-d3bfb40bb992",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "ServiceNow",
+    "id": "4d006c79-0c1a-4e73-98a9-641c012ebba1",
+    "title": "Associate Machine Learning Devops Engineer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1734135513,
+    "date_posted": 1734135513,
+    "url": "https://jobs.smartrecruiters.com/ServiceNow/744000031815335",
+    "locations": [
+      "Santa Clara, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/ServiceNow",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Adobe",
+    "id": "8cb795a0-0d02-45fe-b8c6-e5de9a33b426",
+    "title": "2025 Intern - Data Scientist",
+    "active": true,
+    "terms": [
+      "Spring 2024",
+      "Summer 2024",
+      "Fall 2024"
+    ],
+    "date_updated": 1734135168,
+    "date_posted": 1734135168,
+    "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Lehi/XMLNAME-2025-Intern---Data-Scientist_R149573",
+    "locations": [
+      "San Jose, CA",
+      "Lehi, UT"
+    ],
+    "company_url": "https://simplify.jobs/c/Adobe",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Marvell",
+    "id": "51d65042-c3fc-4463-99f3-5aed9652ab09",
+    "title": "Application Engineering Intern - Masters",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1734135578,
+    "date_posted": 1734135578,
+    "url": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers2/job/Santa-Clara-CA/Application-Engineering-Intern---Masters_2401787",
+    "locations": [
+      "Santa Clara, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/80961b05-9ed3-462d-aef9-4b418c7fb796",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Activision-Blizzard",
+    "id": "ee03b3a0-caf2-422b-a939-4b99c633e7ad",
+    "title": "Summer Internship - Computer Graphics",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1734135606,
+    "date_posted": 1730765485,
+    "url": "https://activision.wd1.myworkdayjobs.com/External/job/Playa-Vista/XMLNAME-2025-US-Summer-Internship---Computer-Graphics_R023719",
+    "locations": [
+      "Irvine, CA",
+      "Carlsbad, CA",
+      "Culver City, CA",
+      "Portland, ME"
+    ],
+    "company_url": "https://simplify.jobs/c/Activision-Blizzard",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
