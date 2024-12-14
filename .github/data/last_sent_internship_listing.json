@@ -34345,5 +34345,24 @@
     "company_url": "https://simplify.jobs/c/Activision-Blizzard",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Motorola",
+    "id": "3b0a63b6-9116-4871-8c48-9f18fe211758",
+    "title": "Data Scientist",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1734137710,
+    "date_posted": 1734137710,
+    "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Illinois-US-Offsite/Data-Scientist--2025-Summer-Internship-_R52269",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/MotorolaSolutions",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
