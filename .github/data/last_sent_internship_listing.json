@@ -34364,5 +34364,43 @@
     "company_url": "https://simplify.jobs/c/MotorolaSolutions",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "date_updated": 1734249507,
+    "url": "https://careers.staples.com/en/job/-/-/44412/74491770848",
+    "company_name": "Staples",
+    "title": "Software Engineering Intern (Quill - Hybrid)",
+    "locations": [
+      "Lincolnshire, IL"
+    ],
+    "terms": [
+      "Summer 2025"
+    ],
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "source": "GaryZhous",
+    "id": "71272053-873e-4eb2-bbef-462c73bba110",
+    "date_posted": 1734249507,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1734249808,
+    "url": "https://jobs.lever.co/zoox/3021c042-c2e9-495f-8bbe-017792e519cf",
+    "company_name": "Zoox",
+    "title": "Developer Platforms Intern",
+    "locations": [
+      "Foster City, CA"
+    ],
+    "terms": [
+      "Summer 2025"
+    ],
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "source": "GaryZhous",
+    "id": "9ce74aba-222c-4754-af5b-613ef6c43ef2",
+    "date_posted": 1734249808,
+    "company_url": "",
+    "is_visible": true
   }
 ]
