@@ -34623,5 +34623,43 @@
     "company_url": "https://simplify.jobs/c/4ca4818a-874d-412e-96a4-173c9d20cd45",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Harris Computer",
+    "id": "f7d92bec-bb0d-4396-92f8-bda45fd5748b",
+    "title": "Co-op Software Developer",
+    "active": true,
+    "terms": [
+      "Winter 2025"
+    ],
+    "date_updated": 1734380421,
+    "date_posted": 1734380421,
+    "url": "https://harriscomputer.wd3.myworkdayjobs.com/en-US/1/job/Burnaby-British-Columbia/Co-op-Software-Developer_R0027887-6",
+    "locations": [
+      "Burnaby, BC, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/372c6250-89ed-4b8e-9000-a81fc94184d8",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Harris Computer",
+    "id": "e082e479-e7e9-48cb-96e3-b3941a0ec9a5",
+    "title": "Intern Software Developer",
+    "active": true,
+    "terms": [
+      "Winter 2025"
+    ],
+    "date_updated": 1734380411,
+    "date_posted": 1734380411,
+    "url": "https://harriscomputer.wd3.myworkdayjobs.com/en-US/1/job/Burnaby-British-Columbia/Intern-Software-Developer_R0027886",
+    "locations": [
+      "Burnaby, BC, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/372c6250-89ed-4b8e-9000-a81fc94184d8",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
