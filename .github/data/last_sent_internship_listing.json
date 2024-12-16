@@ -34758,5 +34758,84 @@
     "company_url": "https://simplify.jobs/c/Xometry",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Manulife Financial",
+    "id": "0efb4016-1f21-4808-9e2a-2fae5d5a1ee5",
+    "title": "Financial Investment Analyst Co-op/Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1734382302,
+    "date_posted": 1734382302,
+    "url": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Toronto-Ontario/Financial-Investment-Analyst-Co-op-Intern---Summer-2025_JR24120658",
+    "locations": [
+      "Toronto, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/19e27e44-04ae-4e11-b224-1ae809765346",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Motorola",
+    "id": "15d32fd4-69d8-409f-8ee6-504b099d3099",
+    "title": "Software Engineer \u2013 Co-Op",
+    "active": true,
+    "terms": [
+      "Winter 2025"
+    ],
+    "date_updated": 1734382274,
+    "date_posted": 1734382274,
+    "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Fresno-CA-CA180/Software-Engineer--Co-Op_R52352",
+    "locations": [
+      "Fresno, CA",
+      "Fort Collins, CO"
+    ],
+    "company_url": "https://simplify.jobs/c/MotorolaSolutions",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Xometry",
+    "id": "0595b12f-103d-4b33-9bbb-7310e20900ae",
+    "title": "Machine Learning Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1734381356,
+    "date_posted": 1734381356,
+    "url": "https://job-boards.greenhouse.io/xometry/jobs/4605626007",
+    "locations": [
+      "Lexington, KY",
+      "North Bethesda, MD"
+    ],
+    "company_url": "https://simplify.jobs/c/Xometry",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Xometry",
+    "id": "65dfc340-3016-4a84-87ed-a059c70069a3",
+    "title": "Machine Learning Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1734381355,
+    "date_posted": 1734381355,
+    "url": "https://job-boards.greenhouse.io/xometry/jobs/4605623007",
+    "locations": [
+      "Lexington, KY",
+      "North Bethesda, MD"
+    ],
+    "company_url": "https://simplify.jobs/c/Xometry",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
