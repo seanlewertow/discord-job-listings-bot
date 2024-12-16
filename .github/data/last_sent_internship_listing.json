@@ -34504,5 +34504,43 @@
     "company_url": "https://simplify.jobs/c/Meta",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "date_updated": 1734325494,
+    "url": "https://job-boards.greenhouse.io/astranis/jobs/4408495006",
+    "company_name": "Astranis Space Technologies",
+    "title": "DevOps Engineer (Flight Software) - Intern",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "terms": [
+      "Summer 2025"
+    ],
+    "sponsorship": "U.S. Citizenship is Required",
+    "active": true,
+    "source": "GaryZhous",
+    "id": "ec915cfb-3c12-4561-bdab-1a1e4047af27",
+    "date_posted": 1734325494,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1734325738,
+    "url": "https://careers.abb/global/en/job/ABB1GLOBAL94084529EXTERNALENGLOBAL/Data-Science-Intern-Summer-2025",
+    "company_name": "ABB",
+    "title": "Data Science Intern- Summer 2025",
+    "locations": [
+      "Cary, NC"
+    ],
+    "terms": [
+      "Summer 2025"
+    ],
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "source": "GaryZhous",
+    "id": "729abd4f-03c9-4f04-bd5c-92ee7bd9b0ed",
+    "date_posted": 1734325738,
+    "company_url": "",
+    "is_visible": true
   }
 ]
