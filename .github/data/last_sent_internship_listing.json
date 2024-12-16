@@ -34402,5 +34402,24 @@
     "date_posted": 1734249808,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Integrity",
+    "id": "b9e013d6-49bb-49b2-b95b-cab681e72296",
+    "title": "Research Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1732177798,
+    "date_posted": 1732177798,
+    "url": "https://integritymarketing.wd1.myworkdayjobs.com/en-US/Integrity/job/Minneapolis-MN/Research-Intern_JR2106",
+    "locations": [
+      "Minneapolis, MN"
+    ],
+    "company_url": "https://simplify.jobs/c/cc2aa6fd-89ed-45ce-a866-4f4e3b9c6965",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
