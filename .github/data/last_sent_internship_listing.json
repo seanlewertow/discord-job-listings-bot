@@ -34484,5 +34484,25 @@
     "company_url": "https://simplify.jobs/c/Meta",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Meta",
+    "id": "9e2b27d6-0436-4648-bde6-c6241479a127",
+    "title": "Business Engineer \u2013 Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1734319794,
+    "date_posted": 1733818126,
+    "url": "https://www.metacareers.com/jobs/552758037120890",
+    "locations": [
+      "Menlo Park, CA",
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Meta",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
