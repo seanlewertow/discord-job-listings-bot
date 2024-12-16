@@ -34542,5 +34542,48 @@
     "date_posted": 1734325738,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Meta",
+    "id": "e14b1102-641d-427a-aae1-59fa47c17ede",
+    "title": "Production Engineer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1733818104,
+    "date_posted": 1733818104,
+    "url": "https://www.metacareers.com/jobs/517615061251568",
+    "locations": [
+      "London, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Meta",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Meta",
+    "id": "fe672d95-8e2a-4afe-b24c-ef87359921b2",
+    "title": "Production Engineer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1734361486,
+    "date_posted": 1733818076,
+    "url": "https://www.metacareers.com/jobs/1137009907357230",
+    "locations": [
+      "Seattle, WA",
+      "Burlingame, CA",
+      "Fremont, CA",
+      "Menlo Park, CA",
+      "NYC",
+      "Bellevue, WA"
+    ],
+    "company_url": "https://simplify.jobs/c/Meta",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
