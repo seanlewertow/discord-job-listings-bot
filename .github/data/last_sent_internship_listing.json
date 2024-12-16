@@ -34585,5 +34585,43 @@
     "company_url": "https://simplify.jobs/c/Meta",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Assurant",
+    "id": "3c294293-f93a-4858-835e-e9e6d57acfb0",
+    "title": "AI/Data Science Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1734365641,
+    "date_posted": 1734365641,
+    "url": "https://assurant.wd1.myworkdayjobs.com/en-US/Assurant_Careers/job/United-States-Virtual/AI-Data-Science-Intern_R-106789",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/4ca4818a-874d-412e-96a4-173c9d20cd45",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Assurant",
+    "id": "b8049de1-7b2f-42a3-a699-86c117f7c417",
+    "title": "Business Integration Data Analytics Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1734365633,
+    "date_posted": 1734365633,
+    "url": "https://assurant.wd1.myworkdayjobs.com/en-US/Assurant_Careers/job/United-States-Virtual/Business-Integration-Data-Analytics-Intern_R-106809-1",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/4ca4818a-874d-412e-96a4-173c9d20cd45",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
