@@ -34661,5 +34661,102 @@
     "company_url": "https://simplify.jobs/c/372c6250-89ed-4b8e-9000-a81fc94184d8",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Aurora Innovation",
+    "id": "c4da1150-1a07-4d02-b001-f3c34c787da0",
+    "title": "Software Engineering Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1734381753,
+    "date_posted": 1734381753,
+    "url": "https://aurora.tech/jobs/7677635002?gh_jid=7677635002",
+    "locations": [
+      "Pittsburgh, PA"
+    ],
+    "company_url": "https://simplify.jobs/c/Aurora-Innovation",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Xometry",
+    "id": "4bd17257-2d73-4b4f-bf56-94d3145aa834",
+    "title": "Software Engineer \u2013 Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1734381375,
+    "date_posted": 1734381375,
+    "url": "https://job-boards.greenhouse.io/xometry/jobs/4605589007",
+    "locations": [
+      "Lexington, KY",
+      "North Bethesda, MD"
+    ],
+    "company_url": "https://simplify.jobs/c/Xometry",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Xometry",
+    "id": "79248506-3984-477a-b584-cda3657cfbaa",
+    "title": "Software Engineer \u2013 Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1734381374,
+    "date_posted": 1734381374,
+    "url": "https://job-boards.greenhouse.io/xometry/jobs/4605574007",
+    "locations": [
+      "North Bethesda, MD"
+    ],
+    "company_url": "https://simplify.jobs/c/Xometry",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Xometry",
+    "id": "5464a59f-4bac-4f2e-93f5-a614234ce3cd",
+    "title": "Data Science Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1734381351,
+    "date_posted": 1734381351,
+    "url": "https://job-boards.greenhouse.io/xometry/jobs/4605600007",
+    "locations": [
+      "North Bethesda, MD"
+    ],
+    "company_url": "https://simplify.jobs/c/Xometry",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Xometry",
+    "id": "5912adde-877e-457f-b291-151a4e828fb7",
+    "title": "Data Science Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1734381350,
+    "date_posted": 1734381350,
+    "url": "https://job-boards.greenhouse.io/xometry/jobs/4605614007",
+    "locations": [
+      "Lexington, KY",
+      "North Bethesda, MD"
+    ],
+    "company_url": "https://simplify.jobs/c/Xometry",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
