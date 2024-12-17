@@ -34971,5 +34971,24 @@
     "company_url": "https://simplify.jobs/c/07d9f7f0-9f1a-4ecb-9346-f3ac39d905f2",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Amazon",
+    "id": "43f6ac0c-5e4f-47a1-bf6c-1905c62476db",
+    "title": "System Development Engineer Intern",
+    "active": true,
+    "terms": [
+      "Spring 2024"
+    ],
+    "date_updated": 1734452320,
+    "date_posted": 1734452320,
+    "url": "https://amazon.jobs/en/jobs/2855226/2025-system-development-engineer-intern-6-months",
+    "locations": [
+      "Swansea, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Amazon",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
