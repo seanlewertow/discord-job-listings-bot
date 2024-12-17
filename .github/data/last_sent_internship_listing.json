@@ -35047,5 +35047,100 @@
     "company_url": "https://simplify.jobs/c/Hewlett-Packard",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Parsons",
+    "id": "d9a27643-7443-48d1-83f4-a3e64d374a10",
+    "title": "Software Engineer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1734467776,
+    "date_posted": 1734467776,
+    "url": "https://parsons.wd5.myworkdayjobs.com/en-US/search/job/US---CO-Colorado-Springs/Software-Engineer-Intern--Summer-2025-_R162094",
+    "locations": [
+      "Colorado Springs, CO"
+    ],
+    "company_url": "https://simplify.jobs/c/Parsons",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Parsons",
+    "id": "51cf3c6d-636c-47fe-83d5-7c65aa57e579",
+    "title": "Exploitation \u2013 And Analysis Engineer Summer 2025 Intern - Test",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1734467775,
+    "date_posted": 1734467775,
+    "url": "https://parsons.wd5.myworkdayjobs.com/en-US/search/job/US---AL-Huntsville/Exploitation--Test--and-Analysis-Engineering-Summer-2025-Intern_R162072",
+    "locations": [
+      "Huntsville, AL"
+    ],
+    "company_url": "https://simplify.jobs/c/Parsons",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Lendbuzz",
+    "id": "c8fdadd2-2211-4f3c-bbb8-b19b08531e0b",
+    "title": "Co-op \u2013 Machine Learning Engineer",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1734467763,
+    "date_posted": 1734467763,
+    "url": "https://jobs.lever.co/lendbuzz/f752ee03-92d1-4e03-a1e6-573d21136381/apply",
+    "locations": [
+      "Boston, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/Lendbuzz",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Parsons",
+    "id": "1d00afaf-6272-4b3c-9ee7-bada2addd9af",
+    "title": "Full Stack Software Developer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1734467770,
+    "date_posted": 1734467770,
+    "url": "https://parsons.wd5.myworkdayjobs.com/en-US/search/job/US---MD-Annapolis-Junction/Full-Stack-Software-Developer-Intern--Summer-2025-_R158349",
+    "locations": [
+      "Annapolis Junction, MD"
+    ],
+    "company_url": "https://simplify.jobs/c/Parsons",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Gelber Group",
+    "id": "8a8fb30c-a3e0-4095-80ea-6dbfda3fd5c9",
+    "title": "Algorithmic Trading Internship",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1734467613,
+    "date_posted": 1734467613,
+    "url": "https://job-boards.greenhouse.io/gelbergroup/jobs/4427083006",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/GelberGroup",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
