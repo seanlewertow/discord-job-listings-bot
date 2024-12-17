@@ -34951,5 +34951,25 @@
     "company_url": "https://simplify.jobs/c/4b2e56dd-7341-4054-bc71-20c6f9f2736b",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "MKS Instruments",
+    "id": "1d8be943-3ee1-44b0-b9ce-271b76a2e271",
+    "title": "Software Engineering Co-op",
+    "active": true,
+    "terms": [
+      "Summer 2025",
+      "Fall 2025"
+    ],
+    "date_updated": 1734451734,
+    "date_posted": 1734451734,
+    "url": "https://mksinst.wd1.myworkdayjobs.com/en-US/MKSCareersUniversity/job/Rochester-NY/XMLNAME-2025-Summer-and-Fall-Software-Engineering-Co-op_R11663",
+    "locations": [
+      "Rochester, NY"
+    ],
+    "company_url": "https://simplify.jobs/c/07d9f7f0-9f1a-4ecb-9346-f3ac39d905f2",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
