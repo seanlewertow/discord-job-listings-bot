@@ -34990,5 +34990,62 @@
     "company_url": "https://simplify.jobs/c/Amazon",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Zscaler",
+    "id": "09356842-0022-4b77-8ffc-1a77ff76710c",
+    "title": "Training Content and Lab Developer Intern - Zscaler Academy",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1734467107,
+    "date_posted": 1734467107,
+    "url": "https://boards.greenhouse.io/zscaler/jobs/4606674007",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Zscaler",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Bank of Montreal",
+    "id": "ba62c666-382d-4aa4-805e-8c1b0eb923cb",
+    "title": "Capital Markets Full Stack Engineer Summer 2025 Internship",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1734466952,
+    "date_posted": 1734466952,
+    "url": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Capital-Markets-Full-Stack-Engineer-Summer-2025-Internship_R240031819",
+    "locations": [
+      "Toronto, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/BMO",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Hewlett Packard (HP)",
+    "id": "a636dfba-f6f4-4199-996b-e687efd2715c",
+    "title": "Associate Software Developer - Anyware Endpoints",
+    "active": true,
+    "terms": [
+      "Winter 2025"
+    ],
+    "date_updated": 1734466838,
+    "date_posted": 1734466838,
+    "url": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Vancouver-British-Columbia-Canada/Associate-Software-Developer---Anyware-Endpoints--Co-op-position-_3142733-1",
+    "locations": [
+      "Vancouver, BC, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Hewlett-Packard",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
