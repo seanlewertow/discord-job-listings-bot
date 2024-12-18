@@ -35185,5 +35185,51 @@
     "company_url": "https://simplify.jobs/c/656d9cca-8674-4b7c-ad5f-f7298d72e103",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "date_updated": 1734539373,
+    "url": "https://www.nexje.com/frontend-development-intern--nexje-career",
+    "company_name": "Nexje",
+    "title": "Frontend Development Intern",
+    "locations": [
+      "Hybrid",
+      "Ann Arbor, MI"
+    ],
+    "terms": [
+      "Summer 2025",
+      "Fall 2025",
+      "Winter 2025",
+      "Spring 2025"
+    ],
+    "sponsorship": "Does Not Offer Sponsorship",
+    "active": true,
+    "source": "yonnsoo",
+    "id": "962b8574-000e-4b5b-a94c-2c18bbde39cf",
+    "date_posted": 1734539373,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1734539402,
+    "url": "https://Blockchain Development Intern",
+    "company_name": "Nexje",
+    "title": "Blockchain Development Intern",
+    "locations": [
+      "Hybrid",
+      "Ann Arbor, MI"
+    ],
+    "terms": [
+      "Summer 2025",
+      "Fall 2025",
+      "Winter 2025",
+      "Spring 2025"
+    ],
+    "sponsorship": "Does Not Offer Sponsorship",
+    "active": true,
+    "source": "yonnsoo",
+    "id": "d17a27e0-fc39-4253-891d-d4272d755181",
+    "date_posted": 1734539402,
+    "company_url": "",
+    "is_visible": true
   }
 ]
