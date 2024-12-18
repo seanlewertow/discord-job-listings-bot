@@ -35142,5 +35142,25 @@
     "company_url": "https://simplify.jobs/c/GelberGroup",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "date_updated": 1734500980,
+    "url": "https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/details/Software-Solutions-Architect--Engineer--Intern----Summer-2025-Internship_R49692",
+    "company_name": "Motorola Solutions",
+    "title": "Software Solutions Architect (Engineer) Intern",
+    "locations": [
+      "California Southern",
+      "California Northern"
+    ],
+    "terms": [
+      "Summer 2025"
+    ],
+    "sponsorship": "Does Not Offer Sponsorship",
+    "active": true,
+    "source": "GaryZhous",
+    "id": "7b984d7a-9915-4a41-ac5a-23af35dd3464",
+    "date_posted": 1734500980,
+    "company_url": "",
+    "is_visible": true
   }
 ]
