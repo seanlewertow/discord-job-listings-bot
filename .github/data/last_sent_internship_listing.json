@@ -35269,5 +35269,26 @@
     "date_posted": 1734584620,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Adobe",
+    "id": "a536c12a-f68b-43c0-beaa-de9fb803fbaa",
+    "title": "2025 Intern - Software Development Engineer",
+    "active": true,
+    "terms": [
+      "Spring 2024",
+      "Summer 2024",
+      "Fall 2024"
+    ],
+    "date_updated": 1734639481,
+    "date_posted": 1734639481,
+    "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2025-Intern---Software-Development-Engineer_R149344",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Adobe",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
