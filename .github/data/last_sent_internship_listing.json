@@ -35425,5 +35425,81 @@
     "company_url": "https://simplify.jobs/c/Leidos",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Motorola",
+    "id": "256d9326-5e0f-42b6-a3a9-37f8046fa4e1",
+    "title": "Software Engineering Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1734641570,
+    "date_posted": 1734641570,
+    "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/West-Valley-City-UT/Software-Engineering-Intern---2025--Summer-Internship_R51673",
+    "locations": [
+      "West Valley City, UT"
+    ],
+    "company_url": "https://simplify.jobs/c/MotorolaSolutions",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Motorola",
+    "id": "1f0d99f8-e025-4288-b7c4-91fe3bcaa28b",
+    "title": "Android Platform Software Engineering Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1734641553,
+    "date_posted": 1734641553,
+    "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Schaumburg-IL/Android-Platform-Software-Engineering-Intern---Summer-2025_R52194-1",
+    "locations": [
+      "Hoffman Estates, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/MotorolaSolutions",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Anon",
+    "id": "ae1eb9e8-32aa-471f-8798-6270168d1f4e",
+    "title": "Software Engineering Intern",
+    "active": true,
+    "terms": [
+      "Summer 2024"
+    ],
+    "date_updated": 1734641247,
+    "date_posted": 1734641247,
+    "url": "https://jobs.ashbyhq.com/Anon/8f4bded0-4f7a-4e5f-9236-72cf64d88050/application",
+    "locations": [
+      "SF"
+    ],
+    "company_url": "https://simplify.jobs/c/Anon",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Semtech",
+    "id": "970380a0-e4ae-4899-92d6-9501c5c23b36",
+    "title": "Product Engineering Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1734641210,
+    "date_posted": 1734641210,
+    "url": "https://semtech.wd1.myworkdayjobs.com/SemtechCareers/job/CAN---Burlington-Canada/Product-Engineering-Intern_REQ2542",
+    "locations": [
+      "Burlington, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Semtech",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
