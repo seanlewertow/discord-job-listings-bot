@@ -35231,5 +35231,43 @@
     "date_posted": 1734539402,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "date_updated": 1734584547,
+    "url": "https://ouryahoo.wd5.myworkdayjobs.com/en-US/careers/job/United-States-of-America/ALL-Yahoo-Software-Engineering-Internships--US----Apply-Here-_JR0025188",
+    "company_name": "Yahoo",
+    "title": "ALL Yahoo Software Engineering Internships (US) - Apply Here!",
+    "locations": [
+      "United States of America"
+    ],
+    "terms": [
+      "Summer 2025"
+    ],
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "source": "GaryZhous",
+    "id": "0b43f1a7-e1a7-4161-a100-2f19e395e7b6",
+    "date_posted": 1734584547,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1734584620,
+    "url": "https://careers.roche.com/global/en/job/ROCHGLOBAL202412131662EXTERNALENGLOBAL/2025-Summer-Intern-Computational-Science-Informatics",
+    "company_name": "Roche",
+    "title": "2025 Summer Intern - Computational Science & Informatics",
+    "locations": [
+      "Santa Clara, CA"
+    ],
+    "terms": [
+      "Summer 2025"
+    ],
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "source": "GaryZhous",
+    "id": "2bd7c349-2c48-4f08-b8c8-c8f0f885ddae",
+    "date_posted": 1734584620,
+    "company_url": "",
+    "is_visible": true
   }
 ]
