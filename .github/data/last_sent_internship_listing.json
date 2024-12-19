@@ -35290,5 +35290,63 @@
     "company_url": "https://simplify.jobs/c/Adobe",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Salesforce",
+    "id": "396dacf2-6dea-4539-893f-262104ea9ac6",
+    "title": "Intern - Data Analyst",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1734639996,
+    "date_posted": 1734639996,
+    "url": "https://salesforce.wd12.myworkdayjobs.com/en-us/External_Career_Site/job/Texas---Dallas/Summer-2025-Intern---Data-Analyst_JR276291-2",
+    "locations": [
+      "Dallas, TX",
+      "Atlanta, GA"
+    ],
+    "company_url": "https://simplify.jobs/c/Salesforce",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "RapidSOS",
+    "id": "269d95bb-d368-43ab-9ffd-7b58c6c6921e",
+    "title": "Implementation Engineering Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1734639779,
+    "date_posted": 1734639779,
+    "url": "https://job-boards.greenhouse.io/rapidsos/jobs/4607074007",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/RapidSOS",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "ServiceNow",
+    "id": "d2d2dcf4-58d3-4af1-8838-6081065b505d",
+    "title": "Backend Software Engineer Intern Co-op",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1734639518,
+    "date_posted": 1734639518,
+    "url": "https://jobs.smartrecruiters.com/ServiceNow/744000032763330",
+    "locations": [
+      "Montreal, QC, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/ServiceNow",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
