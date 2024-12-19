@@ -35348,5 +35348,82 @@
     "company_url": "https://simplify.jobs/c/ServiceNow",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Crowdstrike",
+    "id": "df3bdf23-e286-45fb-b09e-aca8e1dd5180",
+    "title": "Software Engineering Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1734641033,
+    "date_posted": 1734641033,
+    "url": "https://crowdstrike.wd5.myworkdayjobs.com/en-us/crowdstrikecareers/job/USA---Remote-VA/Software-Engineering-Intern---Summer-2025--Remote-_R21409",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/Crowdstrike",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "WillowTree",
+    "id": "fe9fc9ae-5239-4bae-b52b-72d05f800450",
+    "title": "Analytics Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1734641021,
+    "date_posted": 1734641021,
+    "url": "https://job-boards.greenhouse.io/willowtree/jobs/7603013002",
+    "locations": [
+      "Charlottesville, VA"
+    ],
+    "company_url": "https://simplify.jobs/c/WillowTree",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Amazon",
+    "id": "f67193e6-17a5-4abf-b11f-f1fc6cd037fd",
+    "title": "SDEI Intern - Dynamodb",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1734640633,
+    "date_posted": 1734640633,
+    "url": "https://amazon.jobs/en/jobs/2857092/sdei-intern-2025-dynamodb",
+    "locations": [
+      "Seattle, WA",
+      "Bellevue, WA"
+    ],
+    "company_url": "https://simplify.jobs/c/Amazon",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Leidos",
+    "id": "c9f4e871-0356-4848-93f3-3d784995d0e7",
+    "title": "Data Analytics Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1734640564,
+    "date_posted": 1734640564,
+    "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Data-Analytics-Intern_R-00149724",
+    "locations": [
+      "Huntsville, AL"
+    ],
+    "company_url": "https://simplify.jobs/c/Leidos",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
