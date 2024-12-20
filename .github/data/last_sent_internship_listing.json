@@ -36118,5 +36118,107 @@
     "company_url": "https://simplify.jobs/c/0757d825-ab0c-4b0d-9b06-d1770bee41ce",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "CACI",
+    "id": "525764cd-a610-4270-b20a-cb99a61a54bc",
+    "title": "Systems/Software Engineering Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1734711458,
+    "date_posted": 1734711458,
+    "url": "https://caci.wd1.myworkdayjobs.com/External/job/Remote-Any-State/Systems-Software-Engineering-Intern---Summer-2025_305459-1",
+    "locations": [
+      "Remote in USA",
+      "Stafford, VA"
+    ],
+    "company_url": "https://simplify.jobs/c/CACI",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Airbnb",
+    "id": "306b4342-8752-481d-a860-4925f7333e07",
+    "title": "Software Engineering Intern",
+    "active": true,
+    "terms": [
+      "Winter 2025",
+      "Spring 2025",
+      "Summer 2025",
+      "Fall 2025",
+      "Winter 2026"
+    ],
+    "date_updated": 1734711229,
+    "date_posted": 1734711229,
+    "url": "https://careers.airbnb.com/positions/6492414?gh_jid=6492414",
+    "locations": [
+      "United States"
+    ],
+    "company_url": "https://simplify.jobs/c/Airbnb",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Mark43",
+    "id": "c9c0e9c7-7349-4abb-8a26-ff53c8701a88",
+    "title": "Engineering Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1734711201,
+    "date_posted": 1734711201,
+    "url": "https://mark43.com/list-job/6463374?gh_jid=6463374",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/Mark43",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "S&P Global ",
+    "id": "d8daa1c7-14f7-4b38-be98-0867ef15a8bd",
+    "title": "Machine Learning Engineer",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1734711026,
+    "date_posted": 1734711026,
+    "url": "https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Careers/job/Cambridge-MA/Machine-Learning-Engineer---Summer-Intern-2025_307256-1",
+    "locations": [
+      "Cambridge, MA",
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/c7dad035-0ece-4bb3-a529-57e45f2c155c",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Illumio",
+    "id": "4fd1da7c-1a6c-4620-9e1a-570ab8f141e1",
+    "title": "Application Developer Intern",
+    "active": true,
+    "terms": [
+      "Spring 2025",
+      "Summer 2025"
+    ],
+    "date_updated": 1734710952,
+    "date_posted": 1734710952,
+    "url": "https://www.illumio.com/company/job-listing?gh_jid=7781602002",
+    "locations": [
+      "Sunnyvale, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Illumio",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
