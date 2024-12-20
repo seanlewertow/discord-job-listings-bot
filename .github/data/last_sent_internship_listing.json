@@ -36341,5 +36341,44 @@
     "company_url": "https://simplify.jobs/c/Intel",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "S&P Global ",
+    "id": "d8984a7c-1a35-43eb-a004-d69c02cdbec2",
+    "title": "Energy Software Research & Development Upstream Intern - Early Careers",
+    "active": true,
+    "terms": [
+      "Spring 2024",
+      "Summer 2024"
+    ],
+    "date_updated": 1734726209,
+    "date_posted": 1734726209,
+    "url": "https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Careers/job/CA---CALGARY-112-4TH-AVENUE-SW/Energy-Software-Research---Development-Upstream-Intern--Early-Careers-_307552-1",
+    "locations": [
+      "Calgary, AB, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/c7dad035-0ece-4bb3-a529-57e45f2c155c",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Element Biosciences",
+    "id": "1fdc5971-8b90-41a0-a247-2e27d0df6c1f",
+    "title": "Software Development Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1734727798,
+    "date_posted": 1734727798,
+    "url": "https://job-boards.greenhouse.io/elementbiosciences/jobs/5396838004",
+    "locations": [
+      "San Diego, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/ElementBiosciences",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
