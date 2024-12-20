@@ -35672,5 +35672,64 @@
     "company_url": "https://simplify.jobs/c/c7dad035-0ece-4bb3-a529-57e45f2c155c",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Apple",
+    "id": "9fc9f5d3-5b5b-4269-8d00-33361d6d9a44",
+    "title": "Internship - CI Technologies",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1734668493,
+    "date_posted": 1734668493,
+    "url": "https://jobs.apple.com/en-us/details/200583788",
+    "locations": [
+      "London, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Apple",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Motorola",
+    "id": "8452e56e-3c46-4c65-8b55-859d6be4426c",
+    "title": "Software Engineer - Video Analytics",
+    "active": true,
+    "terms": [
+      "Spring 2025"
+    ],
+    "date_updated": 1734668486,
+    "date_posted": 1734668486,
+    "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Somerville-MA/Software-Engineer--Video-Analytics---Spring-2025-Co-Op_R50208",
+    "locations": [
+      "Cambridge, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/MotorolaSolutions",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Rivian",
+    "id": "e857172f-2cc8-44ca-af2e-1aa9a51321e9",
+    "title": "Intern - Embedded Systems Software Engineer",
+    "active": true,
+    "terms": [
+      "Fall 2024",
+      "Spring 2025",
+      "Summer 2025"
+    ],
+    "date_updated": 1734668345,
+    "date_posted": 1734668345,
+    "url": "https://careers.rivian.com/jobs/20930?lang=en-us&icims=1",
+    "locations": [
+      "Urbana, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/Rivian",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
