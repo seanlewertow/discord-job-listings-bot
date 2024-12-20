@@ -35731,5 +35731,43 @@
     "company_url": "https://simplify.jobs/c/Rivian",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "date_updated": 1734671039,
+    "url": "https://careers.intuitive.com/en/jobs/744000032911913/JOB10214/software-engineering-intern/",
+    "company_name": "Intuitive",
+    "title": "Software Engineering Intern",
+    "locations": [
+      "Sunnyvale, CA"
+    ],
+    "terms": [
+      "Summer 2025"
+    ],
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "source": "GaryZhous",
+    "id": "d7003138-09c7-467f-9dca-23bec698d797",
+    "date_posted": 1734671039,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1734671101,
+    "url": "https://www.shopify.com/ca/careers/engineering-and-data-internships-summer-2025_8f38c8b3-606d-47bc-ac83-e6ce1767c8bd",
+    "company_name": "Shopify",
+    "title": "Engineering and Data Internships, Summer 2025",
+    "locations": [
+      "Remote - Americas"
+    ],
+    "terms": [
+      "Summer 2025"
+    ],
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "source": "GaryZhous",
+    "id": "a6ea6d8c-76b5-4506-8d48-0454386956e0",
+    "date_posted": 1734671101,
+    "company_url": "",
+    "is_visible": true
   }
 ]
