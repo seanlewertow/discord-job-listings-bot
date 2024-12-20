@@ -36060,5 +36060,63 @@
     "company_url": "https://simplify.jobs/c/Insitro",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Mark43",
+    "id": "45ac5019-26eb-46a3-876a-7807050b40d1",
+    "title": "Data Engineer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1734697641,
+    "date_posted": 1734697641,
+    "url": "https://mark43.com/list-job/6473794?gh_jid=6473794",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/Mark43",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Applied Materials",
+    "id": "87a0e404-5b90-449a-8b79-eaa6fa6811f0",
+    "title": "2025 Summer AI ML Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1734697232,
+    "date_posted": 1734697232,
+    "url": "https://amat.wd1.myworkdayjobs.com/en-US/External/job/GloucesterMA/XMLNAME-2025-Summer-AI-ML-Intern----Gloucester--MA-_R2420484",
+    "locations": [
+      "Essex County, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/Applied-Materials",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "PricewaterhouseCoopers",
+    "id": "644660ff-56bf-49a7-8319-2088f4f402c6",
+    "title": "Financial Crimes Unit Data & Analytics Tech Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1734668543,
+    "date_posted": 1734668543,
+    "url": "https://pwc.wd3.myworkdayjobs.com/en-US/US_Entry_Level_Careers/job/IL-Rosemont/Financial-Crimes-Unit-Data---Analytics-Tech-Intern---Summer-2025_590904WD",
+    "locations": [
+      "Norridge, IL",
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/0757d825-ab0c-4b0d-9b06-d1770bee41ce",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
