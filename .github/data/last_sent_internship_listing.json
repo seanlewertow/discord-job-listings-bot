@@ -35577,5 +35577,100 @@
     "company_url": "https://simplify.jobs/c/CACI",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "AVEVA",
+    "id": "42e8c3ba-6945-40e7-82fb-90213b86c342",
+    "title": "Software Developer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1734668319,
+    "date_posted": 1734668319,
+    "url": "https://aveva.wd3.myworkdayjobs.com/en-US/AVEVA_careers/job/Cambridge-United-Kingdom/Software-Developer-Intern---UK_R008630",
+    "locations": [
+      "Cambridge, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/35520d74-bb92-49ae-bee6-eac689a592ba",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Skydio",
+    "id": "8cb4e5ff-4d38-47a1-8377-bec886058322",
+    "title": "Middleware Software Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1734668285,
+    "date_posted": 1734668285,
+    "url": "https://www.skydio.com/jobs/6220445003?gh_jid=6220445003",
+    "locations": [
+      "San Mateo, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Skydio",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Cerebras",
+    "id": "b1465c2f-f160-4ad5-b568-ceec835d49f3",
+    "title": "Distributed Software Engineer \u2013 Internship",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1734667845,
+    "date_posted": 1734667845,
+    "url": "https://boards.greenhouse.io/embed/job_app?token=6273273003",
+    "locations": [
+      "Toronto, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Cerebras-Systems",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "S&P Global ",
+    "id": "a1ab3783-0646-4877-a92d-7b55f60c2304",
+    "title": "Technical Architect \u2013 Data Engineering Intern - Early Careers",
+    "active": true,
+    "terms": [
+      "Summer 2024"
+    ],
+    "date_updated": 1734667856,
+    "date_posted": 1734667856,
+    "url": "https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Careers/job/US---NJ---PRINCETON-ONE-INDEPENDENCE-WAY/Technical-Architect---Data-Engineering-Intern--Early-Careers-_307559-1",
+    "locations": [
+      "Princeton, NJ"
+    ],
+    "company_url": "https://simplify.jobs/c/c7dad035-0ece-4bb3-a529-57e45f2c155c",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "S&P Global ",
+    "id": "2fbd558f-213f-436c-a926-ec966743073f",
+    "title": "Data Science & Modeling Intern - Early Careers",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1734667853,
+    "date_posted": 1734667853,
+    "url": "https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Careers/job/Virtual-TX/Data-Science---Modeling-Intern--Early-Careers-_310575-1",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/c7dad035-0ece-4bb3-a529-57e45f2c155c",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
