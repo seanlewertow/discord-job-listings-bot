@@ -35769,5 +35769,102 @@
     "date_posted": 1734671101,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "source": "Simplify",
+    "company_name": "TP-ICAP",
+    "id": "66371972-a747-465f-b4b2-f25de1be0ca4",
+    "title": "Client Data Analyst \u2013 Week Summer Internship",
+    "active": true,
+    "terms": [
+      "Summer 2024"
+    ],
+    "date_updated": 1734682505,
+    "date_posted": 1734682505,
+    "url": "https://tp.wd3.myworkdayjobs.com/en-US/TP-ICAP/job/Belfast/Client-Data-Analyst---12-Week-Summer-Internship_R3113",
+    "locations": [
+      "Belfast, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/732fd349-3ee1-4161-bc74-e2fdbd6418d7",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Auctane",
+    "id": "6b5ec18b-5b6e-4f1b-ae35-058497458c46",
+    "title": "Marketing Intern - Data Analytics",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1734682398,
+    "date_posted": 1734682398,
+    "url": "https://job-boards.greenhouse.io/auctane/jobs/6301367003",
+    "locations": [
+      "Austin, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Auctane",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Salesforce",
+    "id": "f2aa6056-93b1-4190-b257-251ddbcb6b69",
+    "title": "Intern - AI Scientist",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1734682387,
+    "date_posted": 1734682387,
+    "url": "https://salesforce.wd12.myworkdayjobs.com/en-us/External_Career_Site/job/Massachusetts---Cambridge/Summer-2025-Intern---AI-Scientist_JR276113-1",
+    "locations": [
+      "Cambridge, MA",
+      "SF"
+    ],
+    "company_url": "https://simplify.jobs/c/Salesforce",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Voya Financial",
+    "id": "6075b618-1114-44b2-9e80-3f6ac3480a35",
+    "title": "Business Intelligence & Expense Analytics Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1734682345,
+    "date_posted": 1734682345,
+    "url": "https://godirect.wd5.myworkdayjobs.com/voya_jobs/job/Hartford-CT/Business-Intelligence---Expense-Analytics-Intern_JR0030225-1",
+    "locations": [
+      "Hartford, CT"
+    ],
+    "company_url": "https://simplify.jobs/c/VoyaFinancial",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Meta",
+    "id": "8dd16992-3a0a-4578-985a-55920fa14976",
+    "title": "Linguist Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1734682107,
+    "date_posted": 1734682107,
+    "url": "https://www.metacareers.com/jobs/850644300357490",
+    "locations": [
+      "Burlingame, CA",
+      "Redmond, WA"
+    ],
+    "company_url": "https://simplify.jobs/c/Meta",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
