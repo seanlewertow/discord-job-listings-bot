@@ -35965,5 +35965,100 @@
     "company_url": "https://simplify.jobs/c/35520d74-bb92-49ae-bee6-eac689a592ba",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Xylem",
+    "id": "e2bfc084-b30f-4a87-bd11-ce57529ae292",
+    "title": "Software Engineering Intern",
+    "active": true,
+    "terms": [
+      "Summer 2024"
+    ],
+    "date_updated": 1734697658,
+    "date_posted": 1734697658,
+    "url": "https://xylem.wd5.myworkdayjobs.com/en-US/xylem-careers/job/Morrisville-North-Carolina-Office/Software-Engineering-Intern_R39459",
+    "locations": [
+      "Morrisville, NC"
+    ],
+    "company_url": "https://simplify.jobs/c/Xylem",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Intrinsic",
+    "id": "eaecd010-fcc1-436a-b546-3014a7d48761",
+    "title": "Intern-Robotics Software Engineer",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1734697654,
+    "date_posted": 1734697654,
+    "url": "https://boards.greenhouse.io/intrinsicrobotics/jobs/5404298004",
+    "locations": [
+      "Mountain View, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/IntrinsicAI",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Dropbox",
+    "id": "ea0b7bb2-539c-4f81-99e3-291528b0c693",
+    "title": "Software Engineer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1734697582,
+    "date_posted": 1734697582,
+    "url": "https://boards.greenhouse.io/embed/job_app?token=6479042",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/Dropbox",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Calico Labs",
+    "id": "608f7d01-cc30-4881-bb58-1421deba5327",
+    "title": "Intern \u2013 Data Engineering - EDA / ML Infrastructure - BS/MS",
+    "active": true,
+    "terms": [
+      "Summer 2024"
+    ],
+    "date_updated": 1734697464,
+    "date_posted": 1734697464,
+    "url": "https://www.calicolabs.com/careers/?gh_jid=7769579002",
+    "locations": [
+      "San Bruno, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/CalicoLabs",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Insitro",
+    "id": "88506e6f-0cf2-429e-b82f-afc8ec238a1e",
+    "title": "Data Science & Machine Learning Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1734697461,
+    "date_posted": 1734697461,
+    "url": "https://job-boards.greenhouse.io/insitro/jobs/4426675006",
+    "locations": [
+      "San Bruno, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Insitro",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
