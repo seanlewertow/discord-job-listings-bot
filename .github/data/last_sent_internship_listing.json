@@ -36240,5 +36240,106 @@
     "company_url": "https://simplify.jobs/c/c7dad035-0ece-4bb3-a529-57e45f2c155c",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Crowdstrike",
+    "id": "f89d355f-ca97-4a40-afa4-915f0a4ea8c2",
+    "title": "Software Engineer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1734727086,
+    "date_posted": 1734727086,
+    "url": "https://crowdstrike.wd5.myworkdayjobs.com/en-us/crowdstrikecareers/job/USA---Remote/Software-Engineer-Intern---Summer-2025--Remote-_R21447",
+    "locations": [
+      "Remote in USA",
+      "Remote in Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Crowdstrike",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Neurocrine Biosciences",
+    "id": "bb7964fd-1ef5-40dd-89b6-2409390a4941",
+    "title": "Analytics Engineer \u2013 Clinical Solutions Intern",
+    "active": true,
+    "terms": [
+      "Summer 2024"
+    ],
+    "date_updated": 1734727154,
+    "date_posted": 1734727154,
+    "url": "https://neurocrine.wd5.myworkdayjobs.com/en-US/Neurocrinecareers/job/US-CA-San-Diego/Analytics-Engineer--Clinical-Solutions-Intern_R5227",
+    "locations": [
+      "San Diego, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/6ef56e25-5356-4555-a2d2-8fa175ed8054",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Ontra",
+    "id": "58bba6a5-4893-42a6-8948-543f95379757",
+    "title": "Software Engineering Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1734727061,
+    "date_posted": 1734727061,
+    "url": "https://ontra.ai/jobs/?gh_jid=7762043002",
+    "locations": [
+      "SF",
+      "Santa Barbara, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Ontra",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Ontra",
+    "id": "5999c0c9-c1a9-4dd8-bbfd-24ecf2a459d5",
+    "title": "Machine Learning Engineering Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1734727066,
+    "date_posted": 1734727066,
+    "url": "https://ontra.ai/jobs/?gh_jid=7762065002",
+    "locations": [
+      "SF",
+      "NYC",
+      "Santa Barbara, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Ontra",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Intel",
+    "id": "08370bb5-9939-4afe-bf1e-b1572d2057f2",
+    "title": "Intern \u2013 Software Engineer",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1734726968,
+    "date_posted": 1734726968,
+    "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-California-Santa-Clara/Intern----Software-Engineer_JR0269802",
+    "locations": [
+      "Santa Clara, CA",
+      "Folsom, CA",
+      "Phoenix, AZ"
+    ],
+    "company_url": "https://simplify.jobs/c/Intel",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
