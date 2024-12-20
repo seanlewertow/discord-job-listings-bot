@@ -35501,5 +35501,81 @@
     "company_url": "https://simplify.jobs/c/Semtech",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Otis",
+    "id": "2f628100-2f8b-48de-b968-ee660460f750",
+    "title": "Software Engineer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1734653468,
+    "date_posted": 1734653468,
+    "url": "https://otis.wd5.myworkdayjobs.com/en-US/REC_Ext_Gateway/job/OT494-5FS---Farmington-CT-5-Farm-Springs-Farmington-CT-06032-USA/Software-Engineer-Intern_20116506",
+    "locations": [
+      "Farmington, CT"
+    ],
+    "company_url": "https://simplify.jobs/c/c3c2286b-477f-4e0c-9557-45d26ee52541",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Manulife Financial",
+    "id": "25baeda6-4eba-4e36-a2f9-70a3a52ab64c",
+    "title": "Technology Co-op/Intern Program",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1734654245,
+    "date_posted": 1734654245,
+    "url": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Waterloo-Ontario/Technology-Co-op-Intern-Program---Summer-2025_JR24101703",
+    "locations": [
+      "Kitchener, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/19e27e44-04ae-4e11-b224-1ae809765346",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Apple",
+    "id": "f59e438e-da60-4b17-b582-15ea371fd1ce",
+    "title": "Accessibility Engineer Internship - Apple IS&T",
+    "active": true,
+    "terms": [
+      "Winter 2025"
+    ],
+    "date_updated": 1734654171,
+    "date_posted": 1734654171,
+    "url": "https://jobs.apple.com/en-us/details/200577987",
+    "locations": [
+      "London, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Apple",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "CACI",
+    "id": "9b0eb908-c247-4da9-bac7-b790908926c8",
+    "title": "Software Development Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1734653864,
+    "date_posted": 1734653864,
+    "url": "https://caci.wd1.myworkdayjobs.com/External/job/US-VA-Sterling/Software-Development-Intern---Summer-2025_305614-1",
+    "locations": [
+      "Dulles, VA"
+    ],
+    "company_url": "https://simplify.jobs/c/CACI",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
