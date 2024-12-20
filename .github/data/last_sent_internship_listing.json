@@ -35866,5 +35866,104 @@
     "company_url": "https://simplify.jobs/c/Meta",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Manulife Financial",
+    "id": "06d36a93-adeb-458b-8b38-b86500c52fd1",
+    "title": "Advanced Analytics Intern/Co-op",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1734683046,
+    "date_posted": 1734683046,
+    "url": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Toronto-Ontario/Advanced-Analytics-Intern-Co-op---Summer-2025_JR24121000",
+    "locations": [
+      "Toronto, ON, Canada",
+      "Kitchener, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/19e27e44-04ae-4e11-b224-1ae809765346",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Manulife Financial",
+    "id": "a0d2dfac-a5cf-49b5-9795-d3985b373e87",
+    "title": "Data Analyst Intern/Co-op",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1734683043,
+    "date_posted": 1734683043,
+    "url": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Montreal-Quebec/Data-Analyst-Intern-Co-op---Summer-2025_JR24121037",
+    "locations": [
+      "Montreal, QC, Canada",
+      "Toronto, ON, Canada",
+      "Kitchener, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/19e27e44-04ae-4e11-b224-1ae809765346",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Manulife Financial",
+    "id": "8628744c-52f6-4572-88ab-9733430c3417",
+    "title": "Data Specialist Intern/Co-op",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1734683044,
+    "date_posted": 1734683044,
+    "url": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Toronto-Ontario/Data-Specialist-Intern-Co-op---Summer-2025_JR24120997",
+    "locations": [
+      "Toronto, ON, Canada",
+      "Kitchener, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/19e27e44-04ae-4e11-b224-1ae809765346",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Manulife Financial",
+    "id": "22be677c-77cc-4ca5-b2b6-b64f655965dc",
+    "title": "Technology Co-op/Intern Program",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1734683012,
+    "date_posted": 1734683012,
+    "url": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Toronto-Ontario/Technology-Co-op-Intern-Program---Summer-2025_JR24101697",
+    "locations": [
+      "Toronto, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/19e27e44-04ae-4e11-b224-1ae809765346",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "AVEVA",
+    "id": "d8afec35-556e-4022-beaa-8bde140f8be8",
+    "title": "Software Developer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1734682813,
+    "date_posted": 1734682813,
+    "url": "https://aveva.wd3.myworkdayjobs.com/en-US/AVEVA_careers/job/DerryLondonDerry-United-Kingdom/Software-Developer-Intern_R008564-1",
+    "locations": [
+      "Londonderry, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/35520d74-bb92-49ae-bee6-eac689a592ba",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
