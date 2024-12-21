@@ -36418,5 +36418,24 @@
     "company_url": "https://simplify.jobs/c/bfdacd80-1593-4655-8b3a-da62394b5fff",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "date_updated": 1734758056,
+    "url": "https://careers.airbnb.com/positions/6492414/",
+    "company_name": "Airbnb",
+    "title": "Software Engineering Intern",
+    "locations": [
+      "Remote in USA"
+    ],
+    "terms": [
+      "Summer 2025"
+    ],
+    "sponsorship": "Does Not Offer Sponsorship",
+    "active": true,
+    "source": "GaryZhous",
+    "id": "acae9d0f-6523-4137-9391-9af6e65e55aa",
+    "date_posted": 1734758056,
+    "company_url": "",
+    "is_visible": true
   }
 ]
