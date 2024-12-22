@@ -36437,5 +36437,25 @@
     "date_posted": 1734758056,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "date_updated": 1734843976,
+    "url": "https://careers.amd.com/careers-home/jobs/57015",
+    "company_name": "AMD",
+    "title": "Data Analyst Intern/Co-Op",
+    "locations": [
+      "Austin, TX"
+    ],
+    "terms": [
+      "Summer 2025",
+      "Fall 2025"
+    ],
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "source": "GaryZhous",
+    "id": "8e53ca89-e0ed-4373-a4b0-3a7f40aeea06",
+    "date_posted": 1734843976,
+    "company_url": "",
+    "is_visible": true
   }
 ]
