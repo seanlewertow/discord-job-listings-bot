@@ -36590,5 +36590,24 @@
     "company_url": "https://simplify.jobs/c/175953b9-17d1-4a2f-b0af-b77706477183",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Trimble",
+    "id": "195d2669-da65-4dc1-af27-871b7f660845",
+    "title": "Software Engineering Intern",
+    "active": true,
+    "terms": [
+      "Spring 2025"
+    ],
+    "date_updated": 1734970873,
+    "date_posted": 1734970873,
+    "url": "https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/Canada---Richmond-Hill-Ontario-Applanix/Software-Engineering-Intern--16-Months-_R47605",
+    "locations": [
+      "Vaughan, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Trimble",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
