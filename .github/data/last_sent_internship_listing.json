@@ -36764,5 +36764,25 @@
     "company_url": "https://simplify.jobs/c/The-Scion-Group",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Simons Foundation",
+    "id": "7c068051-4f0d-4f59-8490-4ffc6b25d02c",
+    "title": "High-Performance Computing Intern",
+    "active": true,
+    "terms": [
+      "Spring 2025",
+      "Summer 2025"
+    ],
+    "date_updated": 1734987072,
+    "date_posted": 1734987072,
+    "url": "https://simonsfoundation.wd1.myworkdayjobs.com/en-US/simonsfoundationcareers/job/162-Fifth-Avenue-New-York-NY/High-Performance-Computing-Intern_R0001751-1",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/645bbffd-6910-4c90-b4d5-ec941d975b60",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
