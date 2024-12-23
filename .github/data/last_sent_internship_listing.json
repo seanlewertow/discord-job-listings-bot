@@ -36457,5 +36457,43 @@
     "date_posted": 1734843976,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "date_updated": 1734930360,
+    "url": "https://jobs.merck.com/us/en/job/MERCUSR324158ENUS/2025-University-Recruiting-Software-Engineering-Intern",
+    "company_name": "Merck",
+    "title": "2025 University Recruiting - Software Engineering Intern",
+    "locations": [
+      "Rahway, NJ"
+    ],
+    "terms": [
+      "Summer 2025"
+    ],
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "source": "GaryZhous",
+    "id": "e77b81a5-7019-4d6d-abde-6899d702616c",
+    "date_posted": 1734930360,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1734930411,
+    "url": "https://jobs.merck.com/us/en/job/MERCUSR323866ENUS/2025-University-Recruiting-Data-Science-Intern",
+    "company_name": "Merck",
+    "title": "2025 University Recruiting - Data Science Intern",
+    "locations": [
+      "Rahway, NJ"
+    ],
+    "terms": [
+      "Summer 2025"
+    ],
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "source": "GaryZhous",
+    "id": "80a872c1-56bb-47cc-93f5-4dddb9c89fb3",
+    "date_posted": 1734930411,
+    "company_url": "",
+    "is_visible": true
   }
 ]
