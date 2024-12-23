@@ -36609,5 +36609,102 @@
     "company_url": "https://simplify.jobs/c/Trimble",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "AVEVA",
+    "id": "4280d229-639b-48f7-ae57-ca217c53b468",
+    "title": "Cloud Data & Analytics Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1734985771,
+    "date_posted": 1734985771,
+    "url": "https://aveva.wd3.myworkdayjobs.com/en-US/AVEVA_careers/job/Houston-Texas-United-States-of-America/Cloud-Data---Analytics-Intern_R009944",
+    "locations": [
+      "Houston, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/35520d74-bb92-49ae-bee6-eac689a592ba",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Dropbox",
+    "id": "60d14fa0-bc10-4fab-913d-2b8a66fe9446",
+    "title": "Support Engineering Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1734985619,
+    "date_posted": 1734985619,
+    "url": "https://boards.greenhouse.io/embed/job_app?token=6466846",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/Dropbox",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Dropbox",
+    "id": "3db0d99e-ab78-4cf3-af40-46b428a7cbf5",
+    "title": "Support Engineering Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1734985618,
+    "date_posted": 1734985618,
+    "url": "https://boards.greenhouse.io/embed/job_app?token=6466850",
+    "locations": [
+      "Remote in Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Dropbox",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Simons Foundation",
+    "id": "e3348271-b9f3-4f74-bd99-fcd17604c2a6",
+    "title": "Scientific Visual Exploration Software Intern",
+    "active": true,
+    "terms": [
+      "Spring 2025",
+      "Summer 2025"
+    ],
+    "date_updated": 1734985034,
+    "date_posted": 1734985034,
+    "url": "https://simonsfoundation.wd1.myworkdayjobs.com/en-US/simonsfoundationcareers/job/162-Fifth-Avenue-New-York-NY/Scientific-Visual-Exploration-Software-Intern_R0001752-1",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/645bbffd-6910-4c90-b4d5-ec941d975b60",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Simons Foundation",
+    "id": "7268cb19-6b4c-4fe0-89be-7db68e632fff",
+    "title": "Database and Web Interface Intern",
+    "active": true,
+    "terms": [
+      "Spring 2025",
+      "Summer 2025"
+    ],
+    "date_updated": 1734985034,
+    "date_posted": 1734985034,
+    "url": "https://simonsfoundation.wd1.myworkdayjobs.com/en-US/simonsfoundationcareers/job/162-Fifth-Avenue-New-York-NY/Database-and-Web-Interface-Intern--for-High-Performance-Computing-and-Machine-Learning-Benchmarks-_R0001749-1",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/645bbffd-6910-4c90-b4d5-ec941d975b60",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
