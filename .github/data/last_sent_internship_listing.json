@@ -36706,5 +36706,63 @@
     "company_url": "https://simplify.jobs/c/645bbffd-6910-4c90-b4d5-ec941d975b60",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "MetaLab",
+    "id": "99f9e06c-9128-43f1-9134-c0f671435301",
+    "title": "Engineering Intern",
+    "active": true,
+    "terms": [
+      "Spring 2025"
+    ],
+    "date_updated": 1734986368,
+    "date_posted": 1734986368,
+    "url": "https://boards.greenhouse.io/metalab/jobs/6338986",
+    "locations": [
+      "Victoria, BC, Canada",
+      "Vancouver, BC, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/MetaLab",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "The Scion Group",
+    "id": "a032d33c-b74f-4ff0-8585-897472860806",
+    "title": "Revenue Analytics Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1734985929,
+    "date_posted": 1734985929,
+    "url": "https://boards.greenhouse.io/thesciongroupllc/jobs/7724608002",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/The-Scion-Group",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "The Scion Group",
+    "id": "f20f1ba9-a418-418f-96e7-a01cd37e2add",
+    "title": "Web Development Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1734985933,
+    "date_posted": 1734985933,
+    "url": "https://boards.greenhouse.io/thesciongroupllc/jobs/7724617002",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/The-Scion-Group",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
