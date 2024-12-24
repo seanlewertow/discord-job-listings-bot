@@ -36879,5 +36879,43 @@
     "company_url": "https://simplify.jobs/c/c7dad035-0ece-4bb3-a529-57e45f2c155c",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Capella Space",
+    "id": "b4fedd06-0ba4-4d52-9708-a8743e1dfb56",
+    "title": "Ground Station Software Intern",
+    "active": true,
+    "terms": [
+      "Summer 2024"
+    ],
+    "date_updated": 1735071698,
+    "date_posted": 1735071698,
+    "url": "https://www.capellaspace.com/company/apply?gh_jid=5405328004",
+    "locations": [
+      "SF"
+    ],
+    "company_url": "https://simplify.jobs/c/Capella-Space",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Capella Space",
+    "id": "5abc9f57-4adc-4205-99b1-2425c46654c2",
+    "title": "Flight Software Intern",
+    "active": true,
+    "terms": [
+      "Summer 2024"
+    ],
+    "date_updated": 1735071686,
+    "date_posted": 1735071686,
+    "url": "https://www.capellaspace.com/company/apply?gh_jid=5406608004",
+    "locations": [
+      "Lafayette, CO"
+    ],
+    "company_url": "https://simplify.jobs/c/Capella-Space",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
