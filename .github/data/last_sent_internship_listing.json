@@ -36784,5 +36784,24 @@
     "company_url": "https://simplify.jobs/c/645bbffd-6910-4c90-b4d5-ec941d975b60",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Samsung Research America",
+    "id": "e982e3fe-5486-4965-897e-5f7e30d0b345",
+    "title": "2025 Summer Intern - Open Innovation - Partnerships",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1734999235,
+    "date_posted": 1734999235,
+    "url": "https://job-boards.greenhouse.io/samsungresearchamericainternship/jobs/7787470002",
+    "locations": [
+      "Mountain View, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Samsung-Research-America",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
