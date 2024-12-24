@@ -36822,5 +36822,62 @@
     "date_posted": 1735016760,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Manulife Financial",
+    "id": "47012ac4-601f-4604-a78f-891faf1a203a",
+    "title": "Investment Analyst Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1735056901,
+    "date_posted": 1735056901,
+    "url": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Boston-Massachusetts/Investment-Analyst-Intern---Summer-2025_JR24121390",
+    "locations": [
+      "Boston, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/19e27e44-04ae-4e11-b224-1ae809765346",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Leidos",
+    "id": "4bddec9a-e9ec-4818-9a94-c9474f68310e",
+    "title": "Software Systems Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1735056886,
+    "date_posted": 1735056886,
+    "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Reston-VA/Software-Systems-Intern_R-00150259",
+    "locations": [
+      "Reston, VA"
+    ],
+    "company_url": "https://simplify.jobs/c/Leidos",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "S&P Global ",
+    "id": "cf6aa361-2dd9-4b94-9f69-cbae436a7351",
+    "title": "Summer Intern - Data Analysis",
+    "active": true,
+    "terms": [
+      "Summer 2024"
+    ],
+    "date_updated": 1735056623,
+    "date_posted": 1735056623,
+    "url": "https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Careers/job/UK---LONDON-25-ROPEMAKER-STREET-35-HRS/Summer-Intern---Data-Analysis_310508-1",
+    "locations": [
+      "London, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/c7dad035-0ece-4bb3-a529-57e45f2c155c",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
