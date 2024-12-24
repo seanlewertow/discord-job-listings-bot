@@ -36803,5 +36803,24 @@
     "company_url": "https://simplify.jobs/c/Samsung-Research-America",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "date_updated": 1735016760,
+    "url": "https://www.tesla.com/careers/search/job/233712",
+    "company_name": "Tesla",
+    "title": "Internship, Reinforcement Learning Engineer, Tesla Bot",
+    "locations": [
+      "Palo Alto, CA"
+    ],
+    "terms": [
+      "Summer 2025"
+    ],
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "source": "GaryZhous",
+    "id": "6da64f5b-971b-4f82-a817-61db2d9ec94d",
+    "date_posted": 1735016760,
+    "company_url": "",
+    "is_visible": true
   }
 ]
