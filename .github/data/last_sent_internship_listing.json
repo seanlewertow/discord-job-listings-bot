@@ -36955,5 +36955,24 @@
     "company_url": "https://simplify.jobs/c/Crowdstrike",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "date_updated": 1735276606,
+    "url": "https://careers.hmhco.com/job/Portland-Intern-Software-Engineer-OR-97086/1245649800",
+    "company_name": "HMH",
+    "title": "Intern - Software Engineer",
+    "locations": [
+      "Portland, OR"
+    ],
+    "terms": [
+      "Summer 2025"
+    ],
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "source": "GaryZhous",
+    "id": "f3d8ed37-53d4-47b4-8586-f8a42d47ffcd",
+    "date_posted": 1735276606,
+    "company_url": "",
+    "is_visible": true
   }
 ]
