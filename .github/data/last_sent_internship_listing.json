@@ -36993,5 +36993,24 @@
     "company_url": "https://simplify.jobs/c/Telesat",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Parsons",
+    "id": "d726ce04-aa05-4e19-80f8-23b4d1574e6c",
+    "title": "Software Engineering Intern Summer 2025",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1735331198,
+    "date_posted": 1735331198,
+    "url": "https://parsons.wd5.myworkdayjobs.com/en-US/search/job/US---VA-Herndon/Software-Engineering-Intern-Summer-2025_R159341-1",
+    "locations": [
+      "Reston, VA"
+    ],
+    "company_url": "https://simplify.jobs/c/Parsons",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
