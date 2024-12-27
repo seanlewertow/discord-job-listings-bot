@@ -36974,5 +36974,24 @@
     "date_posted": 1735276606,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Telesat",
+    "id": "9ea28fbc-4502-4966-9419-2aceb2f8e2c5",
+    "title": "Software Developer \u2013 Co-op",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1735316539,
+    "date_posted": 1735316539,
+    "url": "https://jobs.lever.co/telesat/13b71943-8dfe-427d-af0d-69e1e3a31964/apply",
+    "locations": [
+      "Ottawa, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Telesat",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
