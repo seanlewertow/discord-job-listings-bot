@@ -37034,5 +37034,25 @@
     "company_url": "https://simplify.jobs/c/Amazon",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Amazon",
+    "id": "22da3c4c-9886-4eb4-8afd-518aa1ed41ab",
+    "title": "Software Development Engineer Intern 2025 - Specialized - Summer 2025",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1735359308,
+    "date_posted": 1735359308,
+    "url": "https://amazon.jobs/en/jobs/2863586/software-development-engineer-intern-2025-specialized-summer-2025-can",
+    "locations": [
+      "Toronto, ON, Canada",
+      "Vancouver, BC, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Amazon",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
