@@ -37012,5 +37012,27 @@
     "company_url": "https://simplify.jobs/c/Parsons",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Amazon",
+    "id": "4e9a776b-d275-49ae-8cc9-153d9b1beb75",
+    "title": "Software Development Engineer Intern \u2013 Specialized Co-Op",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1735344987,
+    "date_posted": 1735344987,
+    "url": "https://amazon.jobs/en/jobs/2863580/software-development-engineer-intern-specialized-co-op-summer-2025-us",
+    "locations": [
+      "Seattle, WA",
+      "NYC",
+      "Bellevue, WA",
+      "Sunnyvale, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Amazon",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
