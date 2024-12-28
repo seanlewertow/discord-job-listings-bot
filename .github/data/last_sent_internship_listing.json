@@ -37054,5 +37054,43 @@
     "company_url": "https://simplify.jobs/c/Amazon",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "date_updated": 1735362105,
+    "url": "https://jobs.lever.co/zoox/788507e0-0b87-4e44-bf01-84d3f9dd471c",
+    "company_name": "Zoox",
+    "title": "Test Infrastructure Intern",
+    "locations": [
+      "San Carlos, CA"
+    ],
+    "terms": [
+      "Summer 2025"
+    ],
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "source": "GaryZhous",
+    "id": "09f1eea1-5d72-4c54-bd32-6afeb892a76f",
+    "date_posted": 1735362105,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1735362247,
+    "url": "https://www.amazon.jobs/en/jobs/2829077/software-development-engineer-intern-student-veteran-opportunity",
+    "company_name": "Amazon",
+    "title": "Software Development Engineer Intern, Student Veteran Opportunity",
+    "locations": [
+      "New York, United States"
+    ],
+    "terms": [
+      "Summer 2025"
+    ],
+    "sponsorship": "U.S. Citizenship is Required",
+    "active": true,
+    "source": "GaryZhous",
+    "id": "b21fc3cf-9d69-4668-8ef0-374d687e7c1d",
+    "date_posted": 1735362247,
+    "company_url": "",
+    "is_visible": true
   }
 ]
