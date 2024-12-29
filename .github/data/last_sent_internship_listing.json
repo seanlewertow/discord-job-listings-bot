@@ -37092,5 +37092,43 @@
     "date_posted": 1735362247,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "date_updated": 1735450186,
+    "url": "https://lifeattiktok.com/search/7419380668767799590",
+    "company_name": "TikTok",
+    "title": "Software Engineer Intern (CIS Privacy and Security) - 2025 Summer (BS/MS)",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "terms": [
+      "Summer 2025"
+    ],
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "source": "GaryZhous",
+    "id": "d9df69a7-5813-4c0d-a35b-edeebb9c92f2",
+    "date_posted": 1735450186,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1735450264,
+    "url": "https://jobs.thermofisher.com/global/en/job/R-01282270/Artificial-Intelligence-Internship",
+    "company_name": "Thermo Fisher Scientific",
+    "title": "Artificial Intelligence Internship",
+    "locations": [
+      "Pittsburgh, PA"
+    ],
+    "terms": [
+      "Summer 2025"
+    ],
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "source": "GaryZhous",
+    "id": "2d0d8131-fe07-4a0b-913f-f0fe7cc961f5",
+    "date_posted": 1735450264,
+    "company_url": "",
+    "is_visible": true
   }
 ]
