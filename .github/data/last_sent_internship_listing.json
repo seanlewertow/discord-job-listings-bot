@@ -37168,5 +37168,24 @@
     "company_url": "https://simplify.jobs/c/Unity",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "AQR Capital Management",
+    "id": "025d8e16-014e-4177-8c86-2ab532a2eedc",
+    "title": "2025 Software Engineering Summer Analyst - Cloud Services",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1735575490,
+    "date_posted": 1735575490,
+    "url": "https://careers.aqr.com/jobs?gh_jid=6499777&gh_jid=6499777",
+    "locations": [
+      "Greenwich, CT"
+    ],
+    "company_url": "https://simplify.jobs/c/AQR-Capital-Management",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
