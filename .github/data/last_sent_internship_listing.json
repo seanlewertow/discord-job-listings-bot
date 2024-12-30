@@ -37149,5 +37149,24 @@
     "date_posted": 1735535208,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Unity",
+    "id": "50bbcc29-c816-413d-bfc1-706ebf970c4d",
+    "title": "Software Engineering Intern - Engine Support",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1735561202,
+    "date_posted": 1735561202,
+    "url": "https://boards.greenhouse.io/embed/job_app?token=6341510",
+    "locations": [
+      "Brighton, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Unity",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
