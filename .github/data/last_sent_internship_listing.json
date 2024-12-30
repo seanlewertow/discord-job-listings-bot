@@ -37187,5 +37187,24 @@
     "company_url": "https://simplify.jobs/c/AQR-Capital-Management",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Tempus",
+    "id": "e1095541-937d-4a09-8ee2-6720198c18af",
+    "title": "Software Engineering \u2013 Summer Analyst - Security",
+    "active": true,
+    "terms": [
+      "Summer 2024"
+    ],
+    "date_updated": 1735590612,
+    "date_posted": 1735590612,
+    "url": "https://boards.greenhouse.io/embed/job_app?token=7787180002",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/Tempus",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
