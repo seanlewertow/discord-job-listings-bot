@@ -37130,5 +37130,24 @@
     "date_posted": 1735450264,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "date_updated": 1735535208,
+    "url": "https://job-boards.greenhouse.io/mitsubishimotorsna/jobs/4465968008",
+    "company_name": "Mitsubishi Motors",
+    "title": "IT Internship",
+    "locations": [
+      "Franklin, TN"
+    ],
+    "terms": [
+      "Summer 2025"
+    ],
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "source": "GaryZhous",
+    "id": "c9e3b9e8-142d-4228-b6af-302dffd6abfe",
+    "date_posted": 1735535208,
+    "company_url": "",
+    "is_visible": true
   }
 ]
