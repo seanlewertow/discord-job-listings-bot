@@ -37225,5 +37225,62 @@
     "company_url": "https://simplify.jobs/c/Samsung",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Blockhouse",
+    "id": "0243e02f-bd66-4c1d-8844-eafb3890ea56",
+    "title": "Quant Research Internship - Feature Analysis",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1735618139,
+    "date_posted": 1735618139,
+    "url": "https://jobs.ashbyhq.com/blockhouse/91f3b0c4-c9c5-42ed-b962-206ce57ee6ea/application",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/f3c7b41f-e7d9-4771-b0c7-f54003717b71",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Blockhouse",
+    "id": "0d7209c8-ae01-4f54-975a-7ef369f749b1",
+    "title": "Quantitative Backtesting Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1735618146,
+    "date_posted": 1735618146,
+    "url": "https://jobs.ashbyhq.com/blockhouse/729c2c01-a4d4-4ad1-82f0-427945695bfb/application",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/f3c7b41f-e7d9-4771-b0c7-f54003717b71",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Blockhouse",
+    "id": "6a35a070-8912-4132-a250-912ba5fdf0f4",
+    "title": "Quant Strat Dev Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1735618143,
+    "date_posted": 1735618143,
+    "url": "https://jobs.ashbyhq.com/blockhouse/856a3feb-59bb-485b-b993-1cb6c118a4fd/application",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/f3c7b41f-e7d9-4771-b0c7-f54003717b71",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
