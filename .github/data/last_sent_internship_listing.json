@@ -37206,5 +37206,24 @@
     "company_url": "https://simplify.jobs/c/Tempus",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Samsung",
+    "id": "4f7c686f-881c-4bbc-a626-8c1745fe4984",
+    "title": "Intern \u2013 Data Engineer",
+    "active": true,
+    "terms": [
+      "Summer 2024"
+    ],
+    "date_updated": 1735604016,
+    "date_posted": 1735604016,
+    "url": "https://job-boards.greenhouse.io/samsungsemiconductor/jobs/6309715003",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Samsung",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
