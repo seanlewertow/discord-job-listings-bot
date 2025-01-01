@@ -37282,5 +37282,100 @@
     "company_url": "https://simplify.jobs/c/f3c7b41f-e7d9-4771-b0c7-f54003717b71",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Samsung",
+    "id": "a74bc831-4144-4a1d-abd2-d482e5b105a2",
+    "title": "Intern \u2013 High Capacity SSD Software Ecosystem",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1735690428,
+    "date_posted": 1735690428,
+    "url": "https://job-boards.greenhouse.io/samsungsemiconductor/jobs/6309707003",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Samsung",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Samsung",
+    "id": "3f9a8917-203c-46af-8ed5-1ffac458789a",
+    "title": "Intern \u2013 Memory Software Ecosystem",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1735690423,
+    "date_posted": 1735690423,
+    "url": "https://job-boards.greenhouse.io/samsungsemiconductor/jobs/6309703003",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Samsung",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Salesforce",
+    "id": "fd1545ed-2edb-4432-9548-fe0a467335c5",
+    "title": "Summer 2025 Intern - Software Engineering - BT",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1735690248,
+    "date_posted": 1735690248,
+    "url": "https://salesforce.wd12.myworkdayjobs.com/en-us/External_Career_Site/job/Texas---Dallas/Summer-2025-Intern---Software-Engineering--BT_JR277601-1",
+    "locations": [
+      "Dallas, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Salesforce",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "NT Concepts",
+    "id": "4acdafc8-8b15-4280-bd1b-d8276e2f6a9f",
+    "title": "Software Development Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1735690124,
+    "date_posted": 1735690124,
+    "url": "https://job-boards.greenhouse.io/ntconcepts/jobs/5407557004",
+    "locations": [
+      "Vienna, VA"
+    ],
+    "company_url": "https://simplify.jobs/c/NTConcepts",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Illumio",
+    "id": "56d2c5a3-fc61-41e6-9eaa-eb05cfe675fd",
+    "title": "Engineering Intern - Core PCE Platform",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1735690146,
+    "date_posted": 1735690146,
+    "url": "https://www.illumio.com/company/job-listing?gh_jid=7782437002",
+    "locations": [
+      "Sunnyvale, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Illumio",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
