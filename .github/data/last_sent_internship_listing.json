@@ -37494,5 +37494,24 @@
     "company_url": "https://simplify.jobs/c/0985b121-88fd-4402-aea9-c0c55bfbbc99",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Bank of Montreal",
+    "id": "e745c7df-30a3-4487-b6de-50a81b50a8b7",
+    "title": "Data Science \u2013 Intern \u2013 Co-op/Internship",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1735747955,
+    "date_posted": 1735747955,
+    "url": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Data-Science--Intern--Summer-2025--Co-op-Internship----4-Months_R240031212-1",
+    "locations": [
+      "Toronto, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/BMO",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
