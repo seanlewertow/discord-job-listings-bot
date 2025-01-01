@@ -37377,5 +37377,103 @@
     "company_url": "https://simplify.jobs/c/Illumio",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Lumentum",
+    "id": "f619a9fe-1ae6-47df-b196-7a69eded2aa2",
+    "title": "Metrology System Coop",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1735719445,
+    "date_posted": 1735719445,
+    "url": "https://lumentum.wd5.myworkdayjobs.com/en-US/LITE/job/Canada---Ottawa-Bill-Leathem/Metrology-System-Coop_20241306",
+    "locations": [
+      "Ottawa, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/0985b121-88fd-4402-aea9-c0c55bfbbc99",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Lumentum",
+    "id": "15efa927-bb88-4d57-beee-fa17b019edd7",
+    "title": "3D Camera Software Developer Co-op/Intern",
+    "active": true,
+    "terms": [
+      "Spring 2025"
+    ],
+    "date_updated": 1735719441,
+    "date_posted": 1735719441,
+    "url": "https://lumentum.wd5.myworkdayjobs.com/en-US/LITE/job/Canada---Ottawa-Bill-Leathem/XMLNAME-3D-Camera-Software-Developer-Co-op-Intern_20241276",
+    "locations": [
+      "Ottawa, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/0985b121-88fd-4402-aea9-c0c55bfbbc99",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Lumentum",
+    "id": "cffb95e7-4fed-4fe7-9cbc-0887828b246f",
+    "title": "Software Automation Engineer Co-op/Intern",
+    "active": true,
+    "terms": [
+      "Spring 2025",
+      "Summer 2025",
+      "Fall 2025",
+      "Winter 2026"
+    ],
+    "date_updated": 1735719437,
+    "date_posted": 1735719437,
+    "url": "https://lumentum.wd5.myworkdayjobs.com/en-US/LITE/job/Canada---Ottawa-Bill-Leathem/Software-Automation-Engineer-Co-op-Intern_20241264",
+    "locations": [
+      "Ottawa, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/0985b121-88fd-4402-aea9-c0c55bfbbc99",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Lumentum",
+    "id": "c70f6829-3f62-49b1-996b-246b70a18822",
+    "title": "Embedded Software Engineer \u2013 Co-op Student",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1735719436,
+    "date_posted": 1735719436,
+    "url": "https://lumentum.wd5.myworkdayjobs.com/en-US/LITE/job/Canada---Ottawa-Bill-Leathem/Embedded-Software-Engineer--Co-op-Student-_20241358",
+    "locations": [
+      "Ottawa, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/0985b121-88fd-4402-aea9-c0c55bfbbc99",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Lumentum",
+    "id": "f5d525be-ffed-4aae-a1a3-2578d733d5ea",
+    "title": "Embedded Software Engineer \u2013 Co-op Student",
+    "active": true,
+    "terms": [
+      "Spring 2025"
+    ],
+    "date_updated": 1735719434,
+    "date_posted": 1735719434,
+    "url": "https://lumentum.wd5.myworkdayjobs.com/en-US/LITE/job/Canada---Ottawa-Bill-Leathem/Embedded-Software-Engineer--Co-op-Student-_20241263",
+    "locations": [
+      "Ottawa, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/0985b121-88fd-4402-aea9-c0c55bfbbc99",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
