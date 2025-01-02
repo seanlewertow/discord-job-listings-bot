@@ -37551,5 +37551,62 @@
     "date_posted": 1735794250,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Ekimetrics",
+    "id": "ed509e09-332a-4d97-b94e-825cde39a547",
+    "title": "2025 Summer internship - Data Engineering and Developer Consultant",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1735834465,
+    "date_posted": 1735834465,
+    "url": "https://jobs.lever.co/ekimetrics/7672375c-e4ac-4bf2-b55b-6d302710c125/apply",
+    "locations": [
+      "London, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Ekimetrics",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Ekimetrics",
+    "id": "3a17f50f-fdb0-4e77-aa31-43342e6070ac",
+    "title": "2025 Summer internship - Data Science & Marketing Analytics Consultant",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1735834460,
+    "date_posted": 1735834460,
+    "url": "https://jobs.lever.co/ekimetrics/482852d6-6db5-4456-af9b-39c7cde6dc48/apply",
+    "locations": [
+      "London, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Ekimetrics",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Twilio",
+    "id": "649ee8ea-b14d-49fb-90a6-71639ef4787b",
+    "title": "Twilio Software Engineer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1735834820,
+    "date_posted": 1735834820,
+    "url": "https://job-boards.greenhouse.io/twilio/jobs/6330373",
+    "locations": [
+      "Remote in Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Twilio",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
