@@ -37646,5 +37646,24 @@
     "company_url": "https://simplify.jobs/c/Centerfield",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Point72",
+    "id": "3ec1575a-6ac6-4eeb-a149-3d4061cc3f15",
+    "title": "Point72 Academy Investment Analyst Summer Internship Program",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1735850503,
+    "date_posted": 1735850503,
+    "url": "https://job-boards.greenhouse.io/point72/jobs/7781489002",
+    "locations": [
+      "United States"
+    ],
+    "company_url": "https://simplify.jobs/c/Point72",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
