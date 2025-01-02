@@ -37665,5 +37665,24 @@
     "company_url": "https://simplify.jobs/c/Point72",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Lucid",
+    "id": "d4660d33-6652-48a7-b770-161c4ea7c352",
+    "title": "Data Analyst Internship Summer 2025",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1735851014,
+    "date_posted": 1735851014,
+    "url": "https://job-boards.greenhouse.io/lucidsoftware/jobs/5309163004",
+    "locations": [
+      "Raleigh, NC"
+    ],
+    "company_url": "https://simplify.jobs/c/Lucid",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
