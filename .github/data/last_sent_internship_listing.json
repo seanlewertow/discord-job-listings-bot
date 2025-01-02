@@ -37608,5 +37608,43 @@
     "company_url": "https://simplify.jobs/c/Twilio",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "HUB",
+    "id": "675cf9ea-cfcb-400c-bc03-aa3d2b57ba18",
+    "title": "Servicenow Junior Analyst \u2013 Co-Op Student",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1735849681,
+    "date_posted": 1735849681,
+    "url": "https://hubinternational.wd1.myworkdayjobs.com/en-US/HUBInternational/job/Burnaby-BC/ServiceNow-Junior-Analyst--Co-Op-Student_R0027951",
+    "locations": [
+      "Burnaby, BC, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/989e38c8-1396-484f-b453-047d04ce2bd3",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Centerfield",
+    "id": "53fd96a7-0a5f-4831-b739-24b76cc2b671",
+    "title": "Software Engineer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1735849376,
+    "date_posted": 1735849376,
+    "url": "https://jobs.lever.co/centerfield/bed26b9e-48e7-476e-a6a2-0f1e0a91053c/apply",
+    "locations": [
+      "LA"
+    ],
+    "company_url": "https://simplify.jobs/c/Centerfield",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
