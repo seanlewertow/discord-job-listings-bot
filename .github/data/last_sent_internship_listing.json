@@ -37513,5 +37513,43 @@
     "company_url": "https://simplify.jobs/c/BMO",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "date_updated": 1735794157,
+    "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Texas---Dallas/Summer-2025-Intern---Software-Engineering--BT_JR277601-1",
+    "company_name": "Salesforce",
+    "title": "Summer 2025 Intern - Software Engineering, BT",
+    "locations": [
+      "Dallas, TX"
+    ],
+    "terms": [
+      "Summer 2025"
+    ],
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "source": "GaryZhous",
+    "id": "00fbee0d-3d53-4fcb-9e32-47b4e4d02a46",
+    "date_posted": 1735794157,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1735794250,
+    "url": "https://jnjc.taleo.net/careersection/4/jobdetail.ftl?job=2406209985W",
+    "company_name": "Johnson & Johnson",
+    "title": "2025 MAKE Summer Software Engineering Intern",
+    "locations": [
+      "Jacksonville, FL"
+    ],
+    "terms": [
+      "Summer 2025"
+    ],
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "source": "GaryZhous",
+    "id": "f70c2bf7-21ac-407c-aa13-6b3a3473b31a",
+    "date_posted": 1735794250,
+    "company_url": "",
+    "is_visible": true
   }
 ]
