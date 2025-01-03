@@ -37761,5 +37761,23 @@
     "company_url": "https://simplify.jobs/c/Guidewire",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Nutanix",
+    "id": "9aaf5660-7938-4069-bd82-178f875bf180",
+    "title": "Software Engineering Intern",
+    "active": true,
+    "terms": [
+      "Spring 2025",
+      "Summer 2025"
+    ],
+    "date_updated": 1735878040,
+    "date_posted": 1735878040,
+    "url": "https://jobs.jobvite.com/nutanix/job/o9qkufw7?nl=1&nl=1&fr=false",
+    "locations": [],
+    "company_url": "https://simplify.jobs/c/Nutanix",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
