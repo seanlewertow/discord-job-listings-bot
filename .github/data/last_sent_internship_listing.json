@@ -37817,5 +37817,71 @@
     "date_posted": 1735884233,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Digital.ai",
+    "id": "4bc39d04-0140-4007-8a8e-08a9de539229",
+    "title": "Software Engineer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1735936286,
+    "date_posted": 1735936286,
+    "url": "https://digital.ai/current-job-openings?gh_jid=6304866003",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/DigitalAI",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Virtu Financial",
+    "id": "2549b1bd-b316-415a-a876-c656838b961f",
+    "title": "Internship - Quantitative Trading",
+    "active": true,
+    "terms": [
+      "Winter 2025",
+      "Spring 2025",
+      "Summer 2025",
+      "Fall 2025",
+      "Winter 2026",
+      "Spring 2026",
+      "Summer 2026"
+    ],
+    "date_updated": 1735936150,
+    "date_posted": 1735936150,
+    "url": "https://job-boards.greenhouse.io/virtu/jobs/7424419002",
+    "locations": [
+      "Austin, TX",
+      "Chicago, IL",
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Virtu-Financial",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Finra",
+    "id": "511ab090-42a5-46bb-90e7-e72c6c89bb3e",
+    "title": "2025 Summer Intern - Data Analytics/Data Science",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1735935402,
+    "date_posted": 1735935402,
+    "url": "https://finra.wd1.myworkdayjobs.com/FINRA/job/Rockville-MD-Job-Posting/XMLNAME-2025-Summer-Intern---Data-Analytics-Data-Science_R-008777",
+    "locations": [
+      "North Bethesda, MD",
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Finra",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
