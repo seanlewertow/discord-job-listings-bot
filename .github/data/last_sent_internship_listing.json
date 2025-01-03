@@ -37779,5 +37779,43 @@
     "company_url": "https://simplify.jobs/c/Nutanix",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "date_updated": 1735884149,
+    "url": "https://jobs.commscope.com/job/Lowell-Software-Engineering-Intern-Mass/1242104200/",
+    "company_name": "CommScope",
+    "title": "Software Engineering Intern",
+    "locations": [
+      "Lowell, MA"
+    ],
+    "terms": [
+      "Summer 2025"
+    ],
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "source": "GaryZhous",
+    "id": "b3845737-62cd-46c2-a061-1aeb4ec1c720",
+    "date_posted": 1735884149,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1735884233,
+    "url": "https://www.tesla.com/careers/search/job/233959",
+    "company_name": "Tesla",
+    "title": "Internship, Software QA Engineer, Vehicle Software",
+    "locations": [
+      "Palo Alto, CA"
+    ],
+    "terms": [
+      "Summer 2025"
+    ],
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "source": "GaryZhous",
+    "id": "767fba8d-63cd-4d96-bb90-52bf9628b4a3",
+    "date_posted": 1735884233,
+    "company_url": "",
+    "is_visible": true
   }
 ]
