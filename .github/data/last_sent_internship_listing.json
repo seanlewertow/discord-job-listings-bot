@@ -37742,5 +37742,24 @@
     "company_url": "https://simplify.jobs/c/Tarsus-Rx",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Guidewire",
+    "id": "fe30f90d-e44e-47c0-8572-5f423c69434e",
+    "title": "Software Engineer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1735877593,
+    "date_posted": 1735877593,
+    "url": "https://wd5.myworkdaysite.com/en-US/recruiting/guidewire/external/job/United-States---Birmingham-AL/Software-Engineer-Intern_JR_12447",
+    "locations": [
+      "Birmingham, AL"
+    ],
+    "company_url": "https://simplify.jobs/c/Guidewire",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
