@@ -37978,5 +37978,43 @@
     "company_url": "https://simplify.jobs/c/Vestmark",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "date_updated": 1735967164,
+    "url": "https://www.tesla.com/careers/search/job/233958",
+    "company_name": "Tesla",
+    "title": "Internship, Fullstack Engineer, Build Infrastructure",
+    "locations": [
+      "Palo Alto, CA"
+    ],
+    "terms": [
+      "Summer 2025"
+    ],
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "source": "GaryZhous",
+    "id": "33b5e345-2d4c-4519-8908-e9766a541791",
+    "date_posted": 1735967164,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1735967241,
+    "url": "https://www.tesla.com/careers/search/job/232982",
+    "company_name": "Tesla",
+    "title": "Internship, Fullstack C++ Engineer, Vehicle User Interface",
+    "locations": [
+      "Palo Alto, CA"
+    ],
+    "terms": [
+      "Summer 2025"
+    ],
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "source": "GaryZhous",
+    "id": "9fea6970-225e-4f16-8ffc-00bfc383bd2b",
+    "date_posted": 1735967241,
+    "company_url": "",
+    "is_visible": true
   }
 ]
