@@ -37883,5 +37883,100 @@
     "company_url": "https://simplify.jobs/c/Finra",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Force Factor",
+    "id": "b11bcbc6-d85e-4ff3-92fb-4fc530a50e07",
+    "title": "AI Fall Co-Op",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1735949721,
+    "date_posted": 1735949721,
+    "url": "https://forcefactor.com/pages/job-openings?gh_jid=5409815004",
+    "locations": [
+      "Boston, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/Force-Factor",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Marvell",
+    "id": "1a07af8b-eb3c-4448-8dce-f232475bf558",
+    "title": "Sales Analytics Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1735949855,
+    "date_posted": 1735949855,
+    "url": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers2/job/Santa-Clara-CA/Sales-Analytics-Intern---Bachelor-s-degree_2402622",
+    "locations": [
+      "Santa Clara, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/80961b05-9ed3-462d-aef9-4b418c7fb796",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Auctane",
+    "id": "99ac0846-3f91-4246-ba3d-0130781443ff",
+    "title": "Software Engineering Intern - Fullstack",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1735949486,
+    "date_posted": 1735949486,
+    "url": "https://job-boards.greenhouse.io/auctane/jobs/6305040003",
+    "locations": [
+      "Austin, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Auctane",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Rockwell Automation",
+    "id": "3010fd0e-8ffe-4160-a6fb-6f179a0e498a",
+    "title": "Co-op \u2013 Embedded Software Engineer",
+    "active": true,
+    "terms": [
+      "Spring 2025"
+    ],
+    "date_updated": 1735950080,
+    "date_posted": 1735950080,
+    "url": "https://rockwellautomation.wd1.myworkdayjobs.com/en-US/External_Rockwell_Automation/job/Mayfield-Heights-Ohio-United-States/Co-op--Embedded-Software-Engineer--May-2025---Dec-2025-_R24-6940-1",
+    "locations": [
+      "Mayfield Heights, OH"
+    ],
+    "company_url": "https://simplify.jobs/c/Rockwell-Automation",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Vestmark",
+    "id": "ab0d59b8-9712-4163-86ac-9cf4f6519771",
+    "title": "Summer Co-op Software Engineer",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1735949837,
+    "date_posted": 1735949837,
+    "url": "https://boards.greenhouse.io/vestmark/jobs/6346116",
+    "locations": [
+      "Wakefield, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/Vestmark",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
