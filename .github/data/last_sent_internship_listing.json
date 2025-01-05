@@ -38016,5 +38016,24 @@
     "date_posted": 1735967241,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "date_updated": 1736054065,
+    "url": "https://www.metacareers.com/jobs/1295891368273600",
+    "company_name": "Meta",
+    "title": "Embedded Software Engineering Intern",
+    "locations": [
+      "Pittsburgh, PA"
+    ],
+    "terms": [
+      "Summer 2025"
+    ],
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "source": "GaryZhous",
+    "id": "ff48c414-7bcd-4c73-ab17-69af6d913a36",
+    "date_posted": 1736054065,
+    "company_url": "",
+    "is_visible": true
   }
 ]
