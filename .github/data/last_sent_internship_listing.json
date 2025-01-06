@@ -38334,5 +38334,82 @@
     "company_url": "https://simplify.jobs/c/Guidewire",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Visa",
+    "id": "23e83990-c09e-4972-b95e-f5d4da20f9b7",
+    "title": "Software Engineer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1736195089,
+    "date_posted": 1736195089,
+    "url": "https://jobs.smartrecruiters.com/Visa/744000035007625",
+    "locations": [
+      "Austin, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Visa",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Yodlee",
+    "id": "c6dd60f2-5298-4ef3-8fdc-94a4eb2f026b",
+    "title": "AI Implementations Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1736195038,
+    "date_posted": 1736195038,
+    "url": "https://jobs.jobvite.com/yodlee/job/oQDMufwt?nl=1&nl=1&fr=false",
+    "locations": [
+      "Raleigh, NC",
+      "Berwyn, PA"
+    ],
+    "company_url": "https://simplify.jobs/c/Yodlee",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Yodlee",
+    "id": "d921b9c2-9765-4261-97f0-495399edea7b",
+    "title": "Software Engineering Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1736195028,
+    "date_posted": 1736195028,
+    "url": "https://jobs.jobvite.com/yodlee/job/ooGWufwe?nl=1&nl=1&fr=false",
+    "locations": [
+      "Boston, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/Yodlee",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Yodlee",
+    "id": "e870080f-4439-4c89-9edb-1ea0732eef61",
+    "title": "Software Engineering Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1736195030,
+    "date_posted": 1736195030,
+    "url": "https://jobs.jobvite.com/yodlee/job/oIDMufwl?nl=1&nl=1&fr=false",
+    "locations": [
+      "Berwyn, PA"
+    ],
+    "company_url": "https://simplify.jobs/c/Yodlee",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
