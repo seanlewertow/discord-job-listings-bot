@@ -38130,5 +38130,24 @@
     "company_url": "https://simplify.jobs/c/BMO",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Ontario Teachers' Pension Plan",
+    "id": "4276ce55-56bc-404c-8ab2-2c5dae664fd7",
+    "title": "Intern \u2013 Programmer Analyst - Enterprise Architecture & Emerging Technologies",
+    "active": true,
+    "terms": [
+      "Spring 2025"
+    ],
+    "date_updated": 1736151756,
+    "date_posted": 1736151756,
+    "url": "https://otppb.wd3.myworkdayjobs.com/OntarioTeachers_Careers/job/Toronto-Canada/Intern----Programmer-Analyst--Enterprise-Architecture---Emerging-Technologies--May-2025---16-months-_6210",
+    "locations": [
+      "Toronto, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Ontario-Teachers-Pension-Plan",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
