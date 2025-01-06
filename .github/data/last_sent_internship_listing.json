@@ -38411,5 +38411,83 @@
     "company_url": "https://simplify.jobs/c/Yodlee",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Fastly",
+    "id": "02dda90c-5ab9-41af-a9b4-fc051a9a22f5",
+    "title": "Software Engineer \u2013 Summer Undergraduate Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1736196368,
+    "date_posted": 1736196368,
+    "url": "https://www.fastly.com/about/jobs/apply/?gh_jid=6510795",
+    "locations": [
+      "SF"
+    ],
+    "company_url": "https://simplify.jobs/c/Fastly",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Capital One",
+    "id": "83f5b68f-0a31-4845-8bef-4dcf093c75d9",
+    "title": "Backend Software Engineer \u2013 Intern",
+    "active": true,
+    "terms": [
+      "Spring 2025",
+      "Summer 2025"
+    ],
+    "date_updated": 1736195929,
+    "date_posted": 1736195929,
+    "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Backend-Software-Engineer--Intern--Spring-Summer-2025-_R205252",
+    "locations": [
+      "Toronto, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Capital-One",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Capital One",
+    "id": "2c51460a-4fc6-4df0-bc56-b63a754cdb3b",
+    "title": "Full Stack Software Engineer \u2013 Intern",
+    "active": true,
+    "terms": [
+      "Spring 2025",
+      "Summer 2025"
+    ],
+    "date_updated": 1736195931,
+    "date_posted": 1736195931,
+    "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Full-Stack-Software-Engineer--Intern--Spring-Summer-2025-_R205251",
+    "locations": [
+      "Toronto, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Capital-One",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Tempus",
+    "id": "ba27d431-99b5-4c21-bf96-e0ab98b8cf4f",
+    "title": "Software Engineering Summer Analyst - Testing Pipeline",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1736195641,
+    "date_posted": 1736195641,
+    "url": "https://boards.greenhouse.io/embed/job_app?token=7787184002",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/Tempus",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
