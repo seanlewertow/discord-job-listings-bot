@@ -38149,5 +38149,93 @@
     "company_url": "https://simplify.jobs/c/Ontario-Teachers-Pension-Plan",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Groq",
+    "id": "c1f409d7-f3d8-4000-bc5a-e2712f4ef7f6",
+    "title": "Compound AI Engineering Intern",
+    "active": true,
+    "terms": [
+      "Spring 2025",
+      "Summer 2025",
+      "Fall 2025"
+    ],
+    "date_updated": 1736166025,
+    "date_posted": 1736166025,
+    "url": "https://groq.com/careers?gh_jid=6297966003",
+    "locations": [
+      "Palo Alto, CA",
+      "Toronto, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Groq",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Groq",
+    "id": "1210dc45-a84e-4f41-8e28-914ffee37dae",
+    "title": "Software Engineering Intern \u2013 Distributed Systems Intern",
+    "active": true,
+    "terms": [
+      "Spring 2025",
+      "Summer 2025",
+      "Fall 2025"
+    ],
+    "date_updated": 1736166011,
+    "date_posted": 1736166011,
+    "url": "https://groq.com/careers?gh_jid=6315937003",
+    "locations": [
+      "Palo Alto, CA",
+      "Toronto, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Groq",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Groq",
+    "id": "51ec1a98-e7e8-408c-a280-36232fd0ad1f",
+    "title": "Compiler Engineer Intern",
+    "active": true,
+    "terms": [
+      "Spring 2025",
+      "Summer 2025",
+      "Fall 2025"
+    ],
+    "date_updated": 1736166009,
+    "date_posted": 1736166009,
+    "url": "https://groq.com/careers?gh_jid=6235617003",
+    "locations": [
+      "Palo Alto, CA",
+      "Toronto, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Groq",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Groq",
+    "id": "8cfb6fe6-61af-40c6-8162-4f76a0e406cd",
+    "title": "Cloud Backend Engineering Intern",
+    "active": true,
+    "terms": [
+      "Spring 2025",
+      "Summer 2025",
+      "Fall 2025"
+    ],
+    "date_updated": 1736166004,
+    "date_posted": 1736166004,
+    "url": "https://groq.com/careers?gh_jid=6235618003",
+    "locations": [
+      "Palo Alto, CA",
+      "Toronto, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Groq",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
