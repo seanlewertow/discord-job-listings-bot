@@ -38833,5 +38833,24 @@
     "company_url": "https://simplify.jobs/c/Boeing",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Waymo",
+    "id": "3c9d4ef3-a2ee-4ee9-87db-224d7f8f3ec6",
+    "title": "2025 Summer Intern - MS/ PhD - Perception",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1736281646,
+    "date_posted": 1736281646,
+    "url": "https://careers.withwaymo.com/jobs?gh_jid=6511799",
+    "locations": [
+      "Mountain View, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Waymo",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
