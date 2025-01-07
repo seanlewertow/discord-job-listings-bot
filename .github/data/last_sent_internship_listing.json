@@ -38699,5 +38699,43 @@
     "company_url": "https://simplify.jobs/c/Cadence-Design-Systems",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "date_updated": 1736226063,
+    "url": "https://www.tesla.com/careers/search/job/233929",
+    "company_name": "Tesla",
+    "title": "Internship, Software Compiler Engineer, AI Inference",
+    "locations": [
+      "Palo Alto, CA"
+    ],
+    "terms": [
+      "Summer 2025"
+    ],
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "source": "GaryZhous",
+    "id": "21946ebe-e127-4b93-aa63-0bdd4c53d68f",
+    "date_posted": 1736226063,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1736226125,
+    "url": "https://www.tesla.com/careers/search/job/233926",
+    "company_name": "Tesla",
+    "title": "Internship, AI Engineer, Export & Inference",
+    "locations": [
+      "Palo Alto, CA"
+    ],
+    "terms": [
+      "Summer 2025"
+    ],
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "source": "GaryZhous",
+    "id": "7698f28f-353a-4908-8c0f-fce1dfcf1b52",
+    "date_posted": 1736226125,
+    "company_url": "",
+    "is_visible": true
   }
 ]
