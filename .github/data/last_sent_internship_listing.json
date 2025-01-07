@@ -38852,5 +38852,62 @@
     "company_url": "https://simplify.jobs/c/Waymo",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "CACI",
+    "id": "4e8f3496-6475-4307-988c-93071ce9e558",
+    "title": "Software Engineering Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1736282562,
+    "date_posted": 1736282562,
+    "url": "https://caci.wd1.myworkdayjobs.com/External/job/US-CA-Santa-Clara/Software-Engineering-Intern---Summer-2025_306099-1",
+    "locations": [
+      "Santa Clara, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/CACI",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "DRW",
+    "id": "31bcffc6-3fdb-4776-9439-d09cb756d435",
+    "title": "AI/ML Research Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1736282320,
+    "date_posted": 1736282320,
+    "url": "https://boards.greenhouse.io/drweng/jobs/6467171",
+    "locations": [
+      "Montreal, QC, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/DRW",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Cloudflare",
+    "id": "32a00a47-9d8b-40c4-8869-521a2ca03b91",
+    "title": "Software Engineer Intern - Business Intelligence",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1736282111,
+    "date_posted": 1736282111,
+    "url": "https://boards.greenhouse.io/cloudflare/jobs/6514980",
+    "locations": [
+      "United States"
+    ],
+    "company_url": "https://simplify.jobs/c/Cloudflare",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
