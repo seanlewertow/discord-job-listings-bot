@@ -38928,5 +38928,26 @@
     "company_url": "https://simplify.jobs/c/Minitab",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "date_updated": 1736284306,
+    "url": "https://jobs.ashbyhq.com/casca/56552e0a-8758-40ec-86cc-d68149642736",
+    "company_name": "Casca (YC S23)",
+    "title": "Full-Stack Engineering Intern",
+    "locations": [
+      "San Francisco",
+      "Remote"
+    ],
+    "terms": [
+      "Summer 2025",
+      "Spring 2025"
+    ],
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "source": "RaghavR24",
+    "id": "f5be804a-4761-4ba2-a4c0-35b7962a8537",
+    "date_posted": 1736284306,
+    "company_url": "",
+    "is_visible": true
   }
 ]
