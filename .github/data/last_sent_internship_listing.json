@@ -38680,5 +38680,24 @@
     "company_url": "https://simplify.jobs/c/WhatNot",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Cadence Design Systems",
+    "id": "f5571d03-c876-48e3-a12a-5e8a896401e1",
+    "title": "Software Intern - Data/AI Platform",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1736196223,
+    "date_posted": 1736196223,
+    "url": "https://cadence.wd1.myworkdayjobs.com/en-US/External_Careers/job/SAN-JOSE/Software-Intern--Data-AI-Platform_R48496",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Cadence-Design-Systems",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
