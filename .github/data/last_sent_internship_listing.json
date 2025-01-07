@@ -38584,5 +38584,101 @@
     "company_url": "https://simplify.jobs/c/NVIDIA",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Western Digital",
+    "id": "9a7c2381-8710-46d0-868e-6f2ece6b9a94",
+    "title": "Software Engineering - Embedded",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1736208628,
+    "date_posted": 1736208628,
+    "url": "https://jobs.smartrecruiters.com/WesternDigital/744000035043729",
+    "locations": [
+      "Rochester, MN"
+    ],
+    "company_url": "https://simplify.jobs/c/Western-Digital",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Visa",
+    "id": "013c960b-e2b7-49d0-b72a-c6fa83f1819d",
+    "title": "Software Engineer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1736208567,
+    "date_posted": 1736208567,
+    "url": "https://jobs.smartrecruiters.com/Visa/744000035045621",
+    "locations": [
+      "Atlanta, GA"
+    ],
+    "company_url": "https://simplify.jobs/c/Visa",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Live Ramp",
+    "id": "d821b698-2578-48dd-9bac-f59ea14445e7",
+    "title": "Data Science Co-Op",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1736209032,
+    "date_posted": 1736209032,
+    "url": "https://liveramp.wd5.myworkdayjobs.com/en-US/LiveRampCareers/job/San-Francisco/Data-Science-Co-Op_JR011408",
+    "locations": [
+      "SF"
+    ],
+    "company_url": "https://simplify.jobs/c/Live-Ramp",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Bank of Montreal",
+    "id": "3c61745f-275a-46b7-aa1e-60ef9c599ce1",
+    "title": "Junior Software Developer \u2013 Internship",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1736209009,
+    "date_posted": 1736209009,
+    "url": "https://bmo.wd3.myworkdayjobs.com/External/job/New-York-NY-USA/Junior-Software-Developer--Summer-2025--Internship----10-weeks_R250000233-2",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/BMO",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "WhatNot",
+    "id": "5780dbba-6ff2-40eb-93f3-a48e065d8348",
+    "title": "Summer 2025 Data Science Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1736208964,
+    "date_posted": 1736208964,
+    "url": "https://job-boards.greenhouse.io/whatnot/jobs/5405107004",
+    "locations": [
+      "Remote in USA",
+      "Remote in Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/WhatNot",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
