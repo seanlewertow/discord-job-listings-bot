@@ -38737,5 +38737,24 @@
     "date_posted": 1736226125,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Applied Materials",
+    "id": "956f59e3-7eae-4f61-b2a7-c8dae368310b",
+    "title": "2025 Summer Software Engineer Intern - Bachelors",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1736237600,
+    "date_posted": 1736237600,
+    "url": "https://amat.wd1.myworkdayjobs.com/en-US/External/job/GloucesterMA/XMLNAME-2025-Summer-Software-Engineer-Intern--Bachelors--Gloucester--MA_R2420349",
+    "locations": [
+      "Essex County, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/Applied-Materials",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
