@@ -38756,5 +38756,82 @@
     "company_url": "https://simplify.jobs/c/Applied-Materials",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Trellix",
+    "id": "ba54f4e8-b47c-4ca6-9d50-48a37f763593",
+    "title": "Undergraduate Intern - Software Engineering",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1736266570,
+    "date_posted": 1736266570,
+    "url": "https://trellix.wd1.myworkdayjobs.com/en-US/EnterpriseCareers/job/England-Aylesbury/Undergraduate-Intern--12-Months----Software-Engineering_JR0035012",
+    "locations": [
+      "Aylesbury, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/31a20e45-1f09-426e-86f5-5a28acb6e5a4",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Illumio",
+    "id": "214bbb36-15b0-461e-9b52-92744b5d1cbf",
+    "title": "Engineering Intern - Core PPM Platform",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1736266265,
+    "date_posted": 1736266265,
+    "url": "https://www.illumio.com/company/job-listing?gh_jid=7782594002",
+    "locations": [
+      "Sunnyvale, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Illumio",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Capital One",
+    "id": "cc37497c-eef6-4416-9ea2-a6f42fbf2989",
+    "title": "Fullstack Software Engineer Intern",
+    "active": true,
+    "terms": [
+      "Spring 2025",
+      "Summer 2025"
+    ],
+    "date_updated": 1736266942,
+    "date_posted": 1736266942,
+    "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Fullstack-Software-Engineer-Intern--Spring-Summer-2025-_R205256",
+    "locations": [
+      "Toronto, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Capital-One",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "The Boeing Company",
+    "id": "e1491fe6-bc21-4d04-8e35-aaa443e8aa1c",
+    "title": "Software Development Intern",
+    "active": true,
+    "terms": [
+      "Spring 2025"
+    ],
+    "date_updated": 1736266881,
+    "date_posted": 1736266881,
+    "url": "https://boeing.wd1.myworkdayjobs.com/external_careers/job/CAN---Richmond-Canada/Software-Development-Intern_00000441611-1",
+    "locations": [
+      "Richmond, BC, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Boeing",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
