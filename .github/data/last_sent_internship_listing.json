@@ -38909,5 +38909,24 @@
     "company_url": "https://simplify.jobs/c/Cloudflare",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Minitab",
+    "id": "a117a497-5804-4042-8533-32f0258e120b",
+    "title": "Information Development Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1736280586,
+    "date_posted": 1736280586,
+    "url": "https://job-boards.greenhouse.io/minitab/jobs/6317795003",
+    "locations": [
+      "State College, PA"
+    ],
+    "company_url": "https://simplify.jobs/c/Minitab",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
