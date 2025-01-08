@@ -39131,5 +39131,43 @@
     "company_url": "https://simplify.jobs/c/PotentialMotors",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "MRI Software",
+    "id": "4d15a8cb-aa9f-4321-81b6-a2f60bf8d18c",
+    "title": "Spring Intern - Accounting Data Management",
+    "active": true,
+    "terms": [
+      "Spring 2025"
+    ],
+    "date_updated": 1736368108,
+    "date_posted": 1736368108,
+    "url": "https://mrisoftware.wd501.myworkdayjobs.com/External_CareerSite/job/US-Remote/Spring-Intern---Accounting-Data-Management_R-104438",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/MRI-Software",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "S&P Global ",
+    "id": "c27d90e2-79bf-4f84-b051-bcaf0f4155e9",
+    "title": "Data Analysis Product Management Intern - Early Careers",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1736367718,
+    "date_posted": 1736367718,
+    "url": "https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Careers/job/Michigan-US/Data-Analysis-Product-Management-Intern--Early-Careers-_310570-1",
+    "locations": [
+      "Southfield, MI"
+    ],
+    "company_url": "https://simplify.jobs/c/c7dad035-0ece-4bb3-a529-57e45f2c155c",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
