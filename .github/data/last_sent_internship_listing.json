@@ -38949,5 +38949,108 @@
     "date_posted": 1736284306,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Capital One",
+    "id": "330002ab-26d2-4d44-a2d9-9cddd6b9b01c",
+    "title": "Data Analytics Engineering Intern",
+    "active": true,
+    "terms": [
+      "Spring 2025",
+      "Summer 2025"
+    ],
+    "date_updated": 1736296173,
+    "date_posted": 1736296173,
+    "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Data-Analytics-Engineering-Intern--Spring-Summer-2025-_R205265",
+    "locations": [
+      "Toronto, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Capital-One",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Capital One",
+    "id": "20efb746-339e-49aa-b11b-53dfd725d12d",
+    "title": "Data Scientist \u2013 Intern",
+    "active": true,
+    "terms": [
+      "Spring 2025",
+      "Summer 2025"
+    ],
+    "date_updated": 1736296175,
+    "date_posted": 1736296175,
+    "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Data-Scientist--Intern--Spring-Summer-2025-_R205268",
+    "locations": [
+      "Toronto, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Capital-One",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Samsara",
+    "id": "1187cabd-e54a-4a2e-9824-9acc17369572",
+    "title": "Co-op Operations Data Analyst",
+    "active": true,
+    "terms": [
+      "Spring 2025",
+      "Summer 2025",
+      "Fall 2025",
+      "Winter 2026"
+    ],
+    "date_updated": 1736296037,
+    "date_posted": 1736296037,
+    "url": "https://www.samsara.com/company/careers/roles/6440097?gh_jid=6440097",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/Samsara",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Samsara",
+    "id": "a16227ec-fc7e-4d45-9341-6e1127d8f607",
+    "title": "Co-op Operations Data Analyst",
+    "active": true,
+    "terms": [
+      "Spring 2025",
+      "Summer 2025",
+      "Fall 2025",
+      "Winter 2026"
+    ],
+    "date_updated": 1736296035,
+    "date_posted": 1736296035,
+    "url": "https://www.samsara.com/company/careers/roles/6512594?gh_jid=6512594",
+    "locations": [
+      "Remote in Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Samsara",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Lumentum",
+    "id": "2ac15ee1-3548-40a4-9094-eb912e926bdd",
+    "title": "Optical Algorithms and Analytics Engineering Co-op/Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1736295586,
+    "date_posted": 1736295586,
+    "url": "https://lumentum.wd5.myworkdayjobs.com/en-US/LITE/job/Canada---Ottawa-Bill-Leathem/Optical-Algorithms-and-Analytics-Engineering-Co-op-Intern_20241638",
+    "locations": [
+      "Ottawa, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/0985b121-88fd-4402-aea9-c0c55bfbbc99",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
