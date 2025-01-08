@@ -39169,5 +39169,64 @@
     "company_url": "https://simplify.jobs/c/c7dad035-0ece-4bb3-a529-57e45f2c155c",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Found Energy",
+    "id": "4886739b-cd99-4bb9-980d-b35d57ed65f4",
+    "title": "Data Engineer Spring Co-op Summer/Fall",
+    "active": true,
+    "terms": [
+      "Spring 2025",
+      "Summer 2025",
+      "Fall 2025"
+    ],
+    "date_updated": 1736368769,
+    "date_posted": 1736368769,
+    "url": "https://job-boards.greenhouse.io/foundenergy/jobs/4432215006",
+    "locations": [
+      "Boston, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/Found-Energy",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Bank of Montreal",
+    "id": "bb3c7281-2ac9-4121-94a9-5bd439df103a",
+    "title": "Junior Engineer \u2013 Co-op/Internship - Electronic Trading Infrastructure",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1736368522,
+    "date_posted": 1736368522,
+    "url": "https://bmo.wd3.myworkdayjobs.com/External/job/REMOTETELETRAVAIL-ON-CAN/Junior-Engineer--Electronic-Trading-Infrastructure--Summer-2025--Co-op-Internship----4-months_R250000446-1",
+    "locations": [
+      "Remote in Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/BMO",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Samsung",
+    "id": "5efeaf70-f9e1-4a82-8cee-bebf36a1fc47",
+    "title": "Intern \u2013 Gen AI Engineer",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1736368280,
+    "date_posted": 1736368280,
+    "url": "https://job-boards.greenhouse.io/samsungsemiconductor/jobs/6313867003",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Samsung",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
