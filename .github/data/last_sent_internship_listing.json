@@ -39228,5 +39228,24 @@
     "company_url": "https://simplify.jobs/c/Samsung",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "The Walt Disney Company",
+    "id": "17104ee8-08b0-498c-b150-28fe06c5b58b",
+    "title": "Hulu Analytics Experimentation Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1736369432,
+    "date_posted": 1736369432,
+    "url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Santa-Monica-CA-USA/Hulu-Analytics-Experimentation-Intern--Summer-2025_10108693",
+    "locations": [
+      "Santa Monica, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Disney",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
