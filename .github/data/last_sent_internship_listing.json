@@ -39498,5 +39498,60 @@
     "company_url": "https://simplify.jobs/c/MotorolaSolutions",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "CLEAR",
+    "id": "ec368c7d-4821-4e38-9fb1-6c20ed4bf4f7",
+    "title": "Software Engineering Intern - Backend",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1736453778,
+    "date_posted": 1736453778,
+    "url": "https://boards.greenhouse.io/clear/jobs/6516361",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/CLEAR",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Visa",
+    "id": "4edfcacf-f0f5-44e8-b781-92cbae253c8e",
+    "title": "Software Engineer",
+    "active": true,
+    "terms": [],
+    "date_updated": 1736453719,
+    "date_posted": 1736453719,
+    "url": "https://jobs.smartrecruiters.com/Visa/744000035653843",
+    "locations": [
+      "Belfast, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Visa",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Bandwidth",
+    "id": "96c56d9f-65f2-42dc-920b-08f022a1037a",
+    "title": "Software Development Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1736439334,
+    "date_posted": 1736439334,
+    "url": "https://boards.greenhouse.io/bandwidth/jobs/6510467",
+    "locations": [
+      "Raleigh, NC"
+    ],
+    "company_url": "https://simplify.jobs/c/Bandwidth",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
