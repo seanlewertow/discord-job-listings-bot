@@ -39553,5 +39553,104 @@
     "company_url": "https://simplify.jobs/c/Bandwidth",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Lumentum",
+    "id": "dd04ce6b-b6e7-4399-8d8a-21d75c4f0a67",
+    "title": "Supply Chain Data Management Analyst Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1736454290,
+    "date_posted": 1736454290,
+    "url": "https://lumentum.wd5.myworkdayjobs.com/en-US/LITE/job/USA---CA---San-Jose-Ridder/Supply-Chain-Data-Management-Analyst-Intern_20241625",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/0985b121-88fd-4402-aea9-c0c55bfbbc99",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Cloudflare",
+    "id": "606c68ca-d8e8-4ee9-8f86-7169c4597a7f",
+    "title": "Data Scientist Intern - Business Intelligence",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1736454111,
+    "date_posted": 1736454111,
+    "url": "https://boards.greenhouse.io/cloudflare/jobs/6524567",
+    "locations": [
+      "United States"
+    ],
+    "company_url": "https://simplify.jobs/c/Cloudflare",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Samsung",
+    "id": "e7163f42-cb6b-46b2-94f5-a1b949677bab",
+    "title": "Intern \u2013 Visualization Engineer",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1736454098,
+    "date_posted": 1736454098,
+    "url": "https://job-boards.greenhouse.io/samsungsemiconductor/jobs/6320154003",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Samsung",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Autodesk",
+    "id": "4cd63924-7857-4adf-a0b1-e7eceff62ca6",
+    "title": "Intern \u2013 Machine Learning Engineer",
+    "active": true,
+    "terms": [
+      "Spring 2025",
+      "Summer 2025",
+      "Fall 2025"
+    ],
+    "date_updated": 1736454006,
+    "date_posted": 1736454006,
+    "url": "https://autodesk.wd1.myworkdayjobs.com/en-US/uni/job/San-Francisco-CA-USA/Intern--Machine-Learning-Engineer_24WD81495-2",
+    "locations": [
+      "SF"
+    ],
+    "company_url": "https://simplify.jobs/c/9a5a4634-d168-4118-b172-0c0aae45f2ad",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Autodesk",
+    "id": "8a015eac-afe1-422c-9d25-d9f9cf60a24b",
+    "title": "Intern \u2013 Full Stack Software Engineer",
+    "active": true,
+    "terms": [
+      "Spring 2025",
+      "Summer 2025",
+      "Fall 2025"
+    ],
+    "date_updated": 1736454006,
+    "date_posted": 1736454006,
+    "url": "https://autodesk.wd1.myworkdayjobs.com/en-US/uni/job/San-Francisco-CA-USA/Intern--Full-Stack-Software-Engineer_24WD81531",
+    "locations": [
+      "SF"
+    ],
+    "company_url": "https://simplify.jobs/c/9a5a4634-d168-4118-b172-0c0aae45f2ad",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
