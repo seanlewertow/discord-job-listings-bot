@@ -39247,5 +39247,100 @@
     "company_url": "https://simplify.jobs/c/Disney",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Discover",
+    "id": "1087720b-b14b-46db-a1c5-db1212ca1549",
+    "title": "2025 Business Technology Internship Program",
+    "active": true,
+    "terms": [
+      "Spring 2025"
+    ],
+    "date_updated": 1736381337,
+    "date_posted": 1736381337,
+    "url": "https://discover.wd5.myworkdayjobs.com/Discover/job/Houston-TX/XMLNAME-2025-Business-Technology-Internship-Program---Houston_R43582",
+    "locations": [
+      "Houston, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Discover",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Zipline",
+    "id": "d6764962-4b27-4d84-adad-39addb62361e",
+    "title": "Droid Autonomy Intern - Motion Planning",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1736381981,
+    "date_posted": 1736381981,
+    "url": "https://www.flyzipline.com/careers/open-roles?gh_jid=6284594003",
+    "locations": [
+      "San Bruno, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Zipline",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Booz Allen",
+    "id": "16a32772-9e7b-4153-be34-af0c4b8193e2",
+    "title": "Cybersecurity Data Analyst Intern",
+    "active": true,
+    "terms": [
+      "Spring 2026"
+    ],
+    "date_updated": 1736381864,
+    "date_posted": 1736381864,
+    "url": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Beavercreek-OH/Cybersecurity-Data-Analyst-Intern_R0212275",
+    "locations": [
+      "Beavercreek, OH"
+    ],
+    "company_url": "https://simplify.jobs/c/45cb775d-2ca3-49ea-810f-65334ec70079",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "ServiceNow",
+    "id": "f5d84aba-8aa4-4951-8c15-083f711b5122",
+    "title": "Technical Accelerator Consultant \u2013 Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1736381801,
+    "date_posted": 1736381801,
+    "url": "https://jobs.smartrecruiters.com/ServiceNow/744000035473754",
+    "locations": [
+      "Orlando, FL"
+    ],
+    "company_url": "https://simplify.jobs/c/ServiceNow",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "A Thinking Ape",
+    "id": "2e11bb71-30ca-48f7-aaeb-ee18065c4daa",
+    "title": "Software Engineer Co-op",
+    "active": true,
+    "terms": [
+      "Spring 2025"
+    ],
+    "date_updated": 1736382173,
+    "date_posted": 1736282644,
+    "url": "https://job-boards.greenhouse.io/athinkingape/jobs/6516998",
+    "locations": [
+      "Remote in Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/A-Thinking-Ape",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
