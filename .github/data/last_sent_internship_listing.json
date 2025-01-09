@@ -39380,5 +39380,28 @@
     "date_posted": 1736399835,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "source": "Simplify",
+    "company_name": "STR",
+    "id": "aae2762a-44d1-48ab-8823-14999e30c86e",
+    "title": "Undergraduate Summer Internship",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1736410075,
+    "date_posted": 1736410075,
+    "url": "https://job-boards.greenhouse.io/systemstechnologyresearch/jobs/4399842006",
+    "locations": [
+      "Dayton, OH",
+      "Arlington, VA",
+      "Melbourne, FL",
+      "Carlsbad, CA",
+      "Burlington, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/STR",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
