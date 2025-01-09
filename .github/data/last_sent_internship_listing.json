@@ -39361,5 +39361,24 @@
     "company_url": "https://simplify.jobs/c/b5727a15-6e9d-4d6c-9941-869756efc588",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "date_updated": 1736399835,
+    "url": "https://jobs.lenovo.com/en_US/careers/JobDetail?jobId=63353",
+    "company_name": "Lenovo",
+    "title": "Data Science Intern - Summer 2025",
+    "locations": [
+      "Morrisville, NC"
+    ],
+    "terms": [
+      "Summer 2025"
+    ],
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "source": "GaryZhous",
+    "id": "7b902e4f-ea44-4ce5-be1c-b95e85c52c76",
+    "date_posted": 1736399835,
+    "company_url": "",
+    "is_visible": true
   }
 ]
