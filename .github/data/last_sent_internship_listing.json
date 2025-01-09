@@ -39403,5 +39403,100 @@
     "company_url": "https://simplify.jobs/c/STR",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "ZoomInfo",
+    "id": "601cd464-c9e7-4d8e-8a9c-0ebfa22690e9",
+    "title": "Software Engineer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1736439043,
+    "date_posted": 1736439043,
+    "url": "https://www.zoominfo.com/about/careers?gh_jid=7803252002",
+    "locations": [
+      "Waltham, MA",
+      "Bethesda, MD"
+    ],
+    "company_url": "https://simplify.jobs/c/ZoomInfo",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Illumio",
+    "id": "3e0bd7f9-83bb-47e9-9970-beec6d352f1f",
+    "title": "Core \u2013 Intern - Unified Platform",
+    "active": true,
+    "terms": [
+      "Spring 2025",
+      "Summer 2025"
+    ],
+    "date_updated": 1736438970,
+    "date_posted": 1736438970,
+    "url": "https://www.illumio.com/company/job-listing?gh_jid=7798653002",
+    "locations": [
+      "Sunnyvale, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Illumio",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "ServiceNow",
+    "id": "61d618df-5f67-474a-8760-f488ddfd50b0",
+    "title": "Technical Accelerator Consultant \u2013 Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1736438705,
+    "date_posted": 1736438705,
+    "url": "https://jobs.smartrecruiters.com/ServiceNow/744000035625815",
+    "locations": [
+      "Orlando, FL"
+    ],
+    "company_url": "https://simplify.jobs/c/ServiceNow",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Motorola",
+    "id": "2014e6ea-ab30-463d-8102-24713d4a805f",
+    "title": "Software Engineer",
+    "active": true,
+    "terms": [
+      "Spring 2025"
+    ],
+    "date_updated": 1736439746,
+    "date_posted": 1736439746,
+    "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Illinois-Remote-Work/Software-Engineer---Spring-2025-Co-Op_R52267",
+    "locations": [
+      "Hoffman Estates, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/MotorolaSolutions",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Motorola",
+    "id": "54dcf790-5787-4373-aa3d-d866a6722aca",
+    "title": "Software Engineer - Video Analytics",
+    "active": true,
+    "terms": [
+      "Spring 2025"
+    ],
+    "date_updated": 1736439741,
+    "date_posted": 1736439741,
+    "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Somerville-MA/Software-Engineer--Video-Analytics---Spring-2025-Co-Op_R50207",
+    "locations": [],
+    "company_url": "https://simplify.jobs/c/MotorolaSolutions",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
