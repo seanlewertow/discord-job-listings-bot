@@ -39938,5 +39938,81 @@
     "company_url": "https://simplify.jobs/c/Wealthsimple",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Cadence Design Systems",
+    "id": "ae66e8e5-b0db-48da-abcf-ac261f6145db",
+    "title": "Software Engineer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1736540911,
+    "date_posted": 1736540911,
+    "url": "https://cadence.wd1.myworkdayjobs.com/en-US/External_Careers/job/SAN-JOSE/Software-Engineer-Intern_R48702-1",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Cadence-Design-Systems",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "StepStone Group",
+    "id": "8758cb84-3e53-40e0-873d-d4e2f6211d46",
+    "title": "Data Science Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1736540720,
+    "date_posted": 1736540720,
+    "url": "https://boards.greenhouse.io/embed/job_app?token=6530606",
+    "locations": [
+      "Orlando, FL"
+    ],
+    "company_url": "https://simplify.jobs/c/StepStoneGroup",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Affirm",
+    "id": "c311b9ac-d492-47ed-969c-b385ec48dbaa",
+    "title": "Software Engineering Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1736540551,
+    "date_posted": 1736540551,
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/6228633003",
+    "locations": [
+      "SF"
+    ],
+    "company_url": "https://simplify.jobs/c/Affirm",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Nuro",
+    "id": "01c0587d-77c1-4ded-b1a0-c5fd17713149",
+    "title": "Systems Engineering Intern - Validation",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1736540521,
+    "date_posted": 1736540521,
+    "url": "https://nuro.ai/careersitem?gh_jid=6523346",
+    "locations": [
+      "Mountain View, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Nuro",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
