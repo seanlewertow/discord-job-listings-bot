@@ -40014,5 +40014,83 @@
     "company_url": "https://simplify.jobs/c/Nuro",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "The Walt Disney Company",
+    "id": "025f9651-9c83-4954-a6a7-33532fdbf312",
+    "title": "Disney Entertainment and ESPN Technology Software Engineering Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1736541585,
+    "date_posted": 1736541585,
+    "url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Morrisville-NC-USA/Disney-Entertainment-and-ESPN-Technology-Software-Engineering-Intern--Morrisville--NC-Summer-2025_10110388-1",
+    "locations": [
+      "Morrisville, NC"
+    ],
+    "company_url": "https://simplify.jobs/c/Disney",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Elevance Health",
+    "id": "82294140-71a6-461e-a774-bbe2131f979e",
+    "title": "Data Science Internship",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1736541216,
+    "date_posted": 1736541216,
+    "url": "https://elevancehealth.wd1.myworkdayjobs.com/en-US/ANT/job/IL-CHICAGO-233-S-WACKER-DR-STE-3700/Data-Science-Internship---Summer-2025_JR133463",
+    "locations": [
+      "Chicago, IL",
+      "Walnut Creek, CA",
+      "Norfolk, VA"
+    ],
+    "company_url": "https://simplify.jobs/c/Elevance-Health",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Eulerity",
+    "id": "91469ca1-37a4-4ba2-af64-cfe2631fc1f9",
+    "title": "Web Developer Intern",
+    "active": true,
+    "terms": [
+      "Spring 2025"
+    ],
+    "date_updated": 1736541152,
+    "date_posted": 1736541152,
+    "url": "https://job-boards.greenhouse.io/eulerity/jobs/4433437006",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Eulerity",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Tempus",
+    "id": "296a0ddd-e385-4a17-93a5-42a9d4775483",
+    "title": "Software Engineering Summer Analyst/Associate",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1736541156,
+    "date_posted": 1736541156,
+    "url": "https://boards.greenhouse.io/embed/job_app?token=7787178002",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/Tempus",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
