@@ -39804,5 +39804,43 @@
     "company_url": "https://simplify.jobs/c/051f591a-22c2-4254-aec5-c3ee7c82b288",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "date_updated": 1736486664,
+    "url": "https://paypal.eightfold.ai/careers?Codes=W-LINKEDIN&domain=paypal.com&query=R0121794&sort_by=relevance",
+    "company_name": "PayPal",
+    "title": "Full Stack Software Engineer Intern",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "terms": [
+      "Summer 2025"
+    ],
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "source": "GaryZhous",
+    "id": "739556e7-246d-4a49-bf9a-c249df9b4c8e",
+    "date_posted": 1736486664,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1736487086,
+    "url": "https://www.amazon.jobs/en/jobs/2857092/sdei-intern-2025-dynamodb",
+    "company_name": "Amazon",
+    "title": "SDEI Intern, 2025 - DynamoDB",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "terms": [
+      "Summer 2025"
+    ],
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "source": "GaryZhous",
+    "id": "7c64e6c3-863c-48b7-9999-7f9304a0df83",
+    "date_posted": 1736487086,
+    "company_url": "",
+    "is_visible": true
   }
 ]
