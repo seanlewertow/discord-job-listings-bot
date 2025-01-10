@@ -39842,5 +39842,62 @@
     "date_posted": 1736487086,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "source": "Simplify",
+    "company_name": "CACI",
+    "id": "9e6d3fd8-71b9-489f-8bf5-97672f13205c",
+    "title": "Software Engineering Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1736525833,
+    "date_posted": 1736525833,
+    "url": "https://caci.wd1.myworkdayjobs.com/External/job/US-IL-Lisle/Software-Engineering-Intern---Summer-2025_306066-1",
+    "locations": [
+      "Downers Grove, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/CACI",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Jabil",
+    "id": "c4cdd8c5-fe31-457e-9b4d-8fdd6211f6b0",
+    "title": "Data Science Intern - AI/ML",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1736525771,
+    "date_posted": 1736525771,
+    "url": "https://jabil.wd5.myworkdayjobs.com/en-US/Jabil_Careers/job/St-PetersburgTampa-FL/Data-Science-Intern---AI-ML_J2405704",
+    "locations": [
+      "St. Petersburg, FL"
+    ],
+    "company_url": "https://simplify.jobs/c/051f591a-22c2-4254-aec5-c3ee7c82b288",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Ekimetrics",
+    "id": "75ddc98c-53d6-463a-a527-297f4c72e2dc",
+    "title": "2025 Summer internship - Data Analyst & Marketing consultant",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1736525724,
+    "date_posted": 1736525724,
+    "url": "https://jobs.lever.co/ekimetrics/4db62e3e-cefb-458e-9c4a-7cfd0bc19593/apply",
+    "locations": [
+      "London, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Ekimetrics",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
