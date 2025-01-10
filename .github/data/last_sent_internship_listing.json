@@ -39899,5 +39899,44 @@
     "company_url": "https://simplify.jobs/c/Ekimetrics",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "date_updated": 1736526443,
+    "url": "https://openinfer.io/jobs/24-12-inference-performance-optimization-internship/",
+    "company_name": "OpenInfer Inc.",
+    "title": "Inference Performance Optimization Engineer",
+    "locations": [
+      "San Mateo, California"
+    ],
+    "terms": [
+      "Summer 2025",
+      "Spring 2025"
+    ],
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "source": "zachOpenInfer",
+    "id": "eea09e34-0179-44f0-b63b-2bab0b667435",
+    "date_posted": 1736526443,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Wealthsimple",
+    "id": "f62b866e-bd08-4cfe-a4c6-140689c69624",
+    "title": "Intern \u2013 Data Science",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1736526185,
+    "date_posted": 1736526185,
+    "url": "https://jobs.lever.co/wealthsimple/7feb253c-ca15-40d9-b6cd-fc430138e240/apply",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/Wealthsimple",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
