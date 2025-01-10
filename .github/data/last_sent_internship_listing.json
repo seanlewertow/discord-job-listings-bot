@@ -39709,5 +39709,100 @@
     "company_url": "https://simplify.jobs/c/Trimble",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "McKesson",
+    "id": "ecd5512a-6420-4e60-bf1c-f4204a96c471",
+    "title": "Software Engineering Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1736467626,
+    "date_posted": 1736467626,
+    "url": "https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/USA-TX-Irving/Software-Engineering-Intern---Summer-2025_JR0122964-1",
+    "locations": [
+      "Irving, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/McKesson",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Motorola",
+    "id": "bc5464cb-51cc-4185-a367-6fcc8438bc4d",
+    "title": "Software Engineer",
+    "active": true,
+    "terms": [
+      "Spring 2025"
+    ],
+    "date_updated": 1736468549,
+    "date_posted": 1736468549,
+    "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Champaign-IL-IL169/Software-Engineer---Spring-2025-Co-op--Research-Park-_R52612",
+    "locations": [
+      "Urbana, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/MotorolaSolutions",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Northrop Grumman",
+    "id": "d5b4ddf6-dd94-464b-9a54-314eedc81031",
+    "title": "2025 Cyber Software Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1736468450,
+    "date_posted": 1736468450,
+    "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Colorado-Colorado-Springs/XMLNAME-2025-Cyber-Software-Intern-Colorado-Springs-CO_R10182145",
+    "locations": [
+      "Colorado Springs, CO"
+    ],
+    "company_url": "https://simplify.jobs/c/238c95d8-0d6e-4717-b28c-078b16d675d7",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Applied Materials",
+    "id": "258077b1-f55b-4b3e-b0d3-8866d335d768",
+    "title": "2025 Summer Computer Science Engineering Intern - Bachelor's",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1736468356,
+    "date_posted": 1736468356,
+    "url": "https://amat.wd1.myworkdayjobs.com/en-US/External/job/GloucesterMA/XMLNAME-2025-Summer-Computer-Science-Engineering-Intern--Bachelor-s----Gloucester--MA_R2510257",
+    "locations": [
+      "Essex County, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/Applied-Materials",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Jabil",
+    "id": "8cf9650a-f276-477d-988f-7af1eba94f72",
+    "title": "Data Science Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1736468286,
+    "date_posted": 1736468286,
+    "url": "https://jabil.wd5.myworkdayjobs.com/en-US/Jabil_Careers/job/Remote---USA/Data-Science-Intern-for-Computer-Vision-AI_J2405696",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/051f591a-22c2-4254-aec5-c3ee7c82b288",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
