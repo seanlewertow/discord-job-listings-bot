@@ -40092,5 +40092,106 @@
     "company_url": "https://simplify.jobs/c/Tempus",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Comcast",
+    "id": "4ad52cf0-e800-4e60-900f-3349f3ccfd69",
+    "title": "Comcast Information Systems Analyst Co-op",
+    "active": true,
+    "terms": [
+      "Spring 2025",
+      "Summer 2025",
+      "Fall 2025"
+    ],
+    "date_updated": 1736554999,
+    "date_posted": 1736554999,
+    "url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1701-John-F-Kennedy-Blvd/Comcast-Information-Systems-Analyst-Co-op_R397376",
+    "locations": [
+      "Philadelphia, PA"
+    ],
+    "company_url": "https://simplify.jobs/c/Comcast",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Comcast",
+    "id": "e48c3abb-f427-4cf5-aab3-b169ad2fcf6d",
+    "title": "Comcast Software Engineer Co-op",
+    "active": true,
+    "terms": [
+      "Spring 2025",
+      "Summer 2025",
+      "Fall 2025"
+    ],
+    "date_updated": 1736554997,
+    "date_posted": 1736554997,
+    "url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/NJ---Mount-Laurel-1800-Bishops-Gate/Comcast-Software-Engineer-Co-op_R397701",
+    "locations": [
+      "Mt Laurel Township, NJ"
+    ],
+    "company_url": "https://simplify.jobs/c/Comcast",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Comcast",
+    "id": "caf2b8e0-c59f-462a-8002-5c35b3bed47c",
+    "title": "Comcast Data Products & Governance Co-op",
+    "active": true,
+    "terms": [
+      "Spring 2025",
+      "Summer 2025",
+      "Fall 2025"
+    ],
+    "date_updated": 1736554988,
+    "date_posted": 1736554988,
+    "url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1701-John-F-Kennedy-Blvd/Comcast-Data-Products---Governance-Co-op_R397406",
+    "locations": [
+      "Philadelphia, PA"
+    ],
+    "company_url": "https://simplify.jobs/c/Comcast",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Marathon Petroleum",
+    "id": "c9c34dc3-4096-413f-a020-606741a2d5a1",
+    "title": "Intern/Co-op RAD-IT",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1736554853,
+    "date_posted": 1736554853,
+    "url": "https://mpc.wd1.myworkdayjobs.com/en-US/MPCCareers/job/Catlettsburg-Kentucky/Intern-Co-op-RAD-IT--Summer-2025-_00014816",
+    "locations": [
+      "Ashland, KY"
+    ],
+    "company_url": "https://simplify.jobs/c/Marathon-Petroleum",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Verizon Communications",
+    "id": "448fab3f-97db-458d-aefd-7e1faadaaf70",
+    "title": "Break Through Tech Sprinternship",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1736554677,
+    "date_posted": 1736554677,
+    "url": "https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Basking-Ridge-New-Jersey/Break-Through-Tech-Sprinternship--For-Break-Through-Tech-Program-Members-_R-1058104",
+    "locations": [
+      "Berkeley Heights, NJ"
+    ],
+    "company_url": "https://simplify.jobs/c/Verizon-Communications",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
