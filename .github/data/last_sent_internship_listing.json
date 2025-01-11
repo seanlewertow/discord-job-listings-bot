@@ -40193,5 +40193,26 @@
     "company_url": "https://simplify.jobs/c/Verizon-Communications",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Comcast",
+    "id": "706a4d44-b17a-462f-8938-87d58e480983",
+    "title": "Comcast Data Engineer Co-op",
+    "active": true,
+    "terms": [
+      "Spring 2025",
+      "Summer 2025",
+      "Fall 2025"
+    ],
+    "date_updated": 1736555010,
+    "date_posted": 1736555010,
+    "url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1800-Arch-St/Comcast-Data-Engineer-Co-op_R398010",
+    "locations": [
+      "Philadelphia, PA"
+    ],
+    "company_url": "https://simplify.jobs/c/Comcast",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
