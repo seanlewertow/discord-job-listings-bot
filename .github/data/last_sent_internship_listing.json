@@ -40254,5 +40254,43 @@
     "company_url": "https://simplify.jobs/c/Cadence-Design-Systems",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "date_updated": 1736658523,
+    "url": "https://careers.synopsys.com/job/-/-/44408/75804262800",
+    "company_name": "Synopsys",
+    "title": "Software Engineering Intern",
+    "locations": [
+      "Austin, TX"
+    ],
+    "terms": [
+      "Summer 2025"
+    ],
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "source": "GaryZhous",
+    "id": "6f13a5d8-1e58-4075-a6bc-e0c857ae1408",
+    "date_posted": 1736658523,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1736658606,
+    "url": "https://proofpoint.wd5.myworkdayjobs.com/ProofpointCareers/job/Boulder-CO/Software-Engineering-Intern_R11690",
+    "company_name": "Proofpoint",
+    "title": "Software Engineering Intern",
+    "locations": [
+      "Boulder, CO"
+    ],
+    "terms": [
+      "Summer 2025"
+    ],
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "source": "GaryZhous",
+    "id": "7bd89862-f341-4aec-81b8-c7dc688f13b9",
+    "date_posted": 1736658606,
+    "company_url": "",
+    "is_visible": true
   }
 ]
