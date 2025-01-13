@@ -40450,5 +40450,101 @@
     "company_url": "https://simplify.jobs/c/Bandwidth",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "AssetMark",
+    "id": "9f2eab8a-8311-4cb4-9695-8bb2314987c4",
+    "title": "Client Reporting Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1736801683,
+    "date_posted": 1736801683,
+    "url": "https://assetmark.wd5.myworkdayjobs.com/en-US/AssetMark_Careers/job/Atlanta-GA/Client-Reporting-Intern_Req-002905",
+    "locations": [
+      "Atlanta, GA"
+    ],
+    "company_url": "https://simplify.jobs/c/ec74b780-e6b1-4ed3-b5fc-119cb7606da8",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Genuine Parts Company",
+    "id": "8a15d556-97ad-4bda-ba09-2ebc5cbf261c",
+    "title": "Customer Software Development Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1736802589,
+    "date_posted": 1736802589,
+    "url": "https://genpt.wd1.myworkdayjobs.com/Careers/job/Birmingham-AL-USA/Customer-Software-Development-Intern_R24_0000032852",
+    "locations": [
+      "Birmingham, AL"
+    ],
+    "company_url": "https://simplify.jobs/c/Genuine-Parts-Company",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Jones Lang LaSalle (JLL)",
+    "id": "fd7bfa34-4bbc-4360-8123-c31898dc89a0",
+    "title": "Data Center Internship",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1736802581,
+    "date_posted": 1736802581,
+    "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/New-York-NY/Data-Center-Summer-2025-Internship_REQ404016",
+    "locations": [
+      "Tarrytown, NY"
+    ],
+    "company_url": "https://simplify.jobs/c/Jones-Lang-LaSalle",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Genuine Parts Company",
+    "id": "8150aa4c-774d-42cd-acf5-f63834832003",
+    "title": "Product Engineering & Quality Intern",
+    "active": true,
+    "terms": [
+      "Spring 2025",
+      "Summer 2025"
+    ],
+    "date_updated": 1736802418,
+    "date_posted": 1736802418,
+    "url": "https://genpt.wd1.myworkdayjobs.com/Careers/job/Atlanta-GA-USA/Product-Engineering-Intern_R24_0000036888-1",
+    "locations": [
+      "Atlanta, GA"
+    ],
+    "company_url": "https://simplify.jobs/c/Genuine-Parts-Company",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Verizon Communications",
+    "id": "29ba9f93-fd2f-471a-8ea0-252dfe1a0af2",
+    "title": "BEYA STEM Conference Full Stack Software Development Summer 2025 Internship",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1736802108,
+    "date_posted": 1736802108,
+    "url": "https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Ashburn-Virginia/BEYA-STEM-Conference-Full-Stack-Software-Development-Summer-2025-Internship_R-1062231",
+    "locations": [
+      "Ashburn, VA"
+    ],
+    "company_url": "https://simplify.jobs/c/Verizon-Communications",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
