@@ -40725,5 +40725,100 @@
     "company_url": "https://simplify.jobs/c/350afefb-30b2-4d69-899d-19a3d7dd96f5",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Glassdoor",
+    "id": "8c378817-a58e-4564-a00b-a77c6a383982",
+    "title": "Platform Software Engineer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1736801981,
+    "date_posted": 1736801981,
+    "url": "https://job-boards.greenhouse.io/glassdoor/jobs/7779803002",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/Glassdoor",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "AEG",
+    "id": "240e31cd-c288-4813-a8c1-f71dbbab757a",
+    "title": "Spring Intern - Application Development - Global Technology",
+    "active": true,
+    "terms": [
+      "Spring 2025"
+    ],
+    "date_updated": 1736800467,
+    "date_posted": 1736800467,
+    "url": "https://www.aegworldwide.com/jobs?gh_jid=7777435002",
+    "locations": [
+      "LA"
+    ],
+    "company_url": "https://simplify.jobs/c/AEG",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Verizon Communications",
+    "id": "438bb52a-68c8-4875-ad55-e6b8d49d4e57",
+    "title": "Full Stack Software Development Internship",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1736802109,
+    "date_posted": 1736802109,
+    "url": "https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Ashburn-Virginia/Full-Stack-Software-Development-Summer-2025-Internship_R-1062227",
+    "locations": [
+      "Ashburn, VA"
+    ],
+    "company_url": "https://simplify.jobs/c/Verizon-Communications",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Genuine Parts Company",
+    "id": "431114d2-a05d-433f-a791-2ba50cddec4f",
+    "title": "Technology Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1736802520,
+    "date_posted": 1736802520,
+    "url": "https://genpt.wd1.myworkdayjobs.com/Careers/job/Atlanta-GA-USA/Technology-Intern---Digital-Analytics--Summer-2025_R24_0000037384",
+    "locations": [
+      "Atlanta, GA"
+    ],
+    "company_url": "https://simplify.jobs/c/Genuine-Parts-Company",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Genuine Parts Company",
+    "id": "716bab48-1e27-44fb-84bf-dc6b17bb4668",
+    "title": "Technology Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1736802528,
+    "date_posted": 1736802528,
+    "url": "https://genpt.wd1.myworkdayjobs.com/Careers/job/Atlanta-GA-USA/Technology-Intern---Digital-Operations--Summer-2025_R24_0000037325-1",
+    "locations": [
+      "Atlanta, GA"
+    ],
+    "company_url": "https://simplify.jobs/c/Genuine-Parts-Company",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
