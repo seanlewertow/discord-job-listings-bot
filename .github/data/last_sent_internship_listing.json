@@ -40373,5 +40373,44 @@
     "company_url": "https://simplify.jobs/c/Nominal",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Roku",
+    "id": "09a4438a-b2da-4ed8-a8f6-f9b7f22abfcb",
+    "title": "Software Engineer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1736770348,
+    "date_posted": 1736770348,
+    "url": "https://www.weareroku.com/jobs/6528517?gh_jid=6528517",
+    "locations": [
+      "Manchester, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Roku",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Roku",
+    "id": "6fefab6d-f66e-4401-b0ce-653036001e4d",
+    "title": "Software Engineer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1736770346,
+    "date_posted": 1736770346,
+    "url": "https://www.weareroku.com/jobs/6526746?gh_jid=6526746",
+    "locations": [
+      "Cambridge, UK",
+      "Manchester, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Roku",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
