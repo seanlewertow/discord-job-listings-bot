@@ -40641,5 +40641,89 @@
     "company_url": "https://simplify.jobs/c/Atomic-VC",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Warner Bros.",
+    "id": "0f68d720-cc65-439f-9ada-d48e8c96c4e9",
+    "title": "Software Developer Coop",
+    "active": true,
+    "terms": [
+      "Spring 2025",
+      "Summer 2025",
+      "Fall 2025",
+      "Winter 2026",
+      "Spring 2026"
+    ],
+    "date_updated": 1736800327,
+    "date_posted": 1736800327,
+    "url": "https://warnerbros.wd5.myworkdayjobs.com/global/job/Kanata-307-Legget-Dr/Software-Developer-Coop_R000085057",
+    "locations": [
+      "Kanata, Ottawa, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Warner-Bros",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Glassdoor",
+    "id": "948a8204-f034-4cea-9d64-22bf1342769d",
+    "title": "Front-end Software Engineer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1736801975,
+    "date_posted": 1736801975,
+    "url": "https://job-boards.greenhouse.io/glassdoor/jobs/7808600002",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/Glassdoor",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "BJ's Wholesale Club",
+    "id": "ed7c51da-953a-449c-8e63-dbd34565dbc7",
+    "title": "Pricing Analytics Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1736800785,
+    "date_posted": 1736800785,
+    "url": "https://bjswholesaleclub.wd1.myworkdayjobs.com/BJsCareers/job/BJs-Club-Support-Center-Marlborough-MA-5997/Pricing-Analytics-Intern_R182270",
+    "locations": [
+      "Marlborough, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/BJs",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "OCLC",
+    "id": "2b9952ac-2895-4398-b8f8-1a0ffb4884d1",
+    "title": "Software Engineer Intern",
+    "active": true,
+    "terms": [
+      "Spring 2025",
+      "Summer 2025",
+      "Fall 2025",
+      "Winter 2026",
+      "Spring 2026"
+    ],
+    "date_updated": 1736800747,
+    "date_posted": 1736800747,
+    "url": "https://oclc.wd1.myworkdayjobs.com/en-US/OCLC_Careers/job/Dublin-OH--Hybrid/Software-Engineer-Intern_R0003466",
+    "locations": [
+      "Dublin, OH"
+    ],
+    "company_url": "https://simplify.jobs/c/350afefb-30b2-4d69-899d-19a3d7dd96f5",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
