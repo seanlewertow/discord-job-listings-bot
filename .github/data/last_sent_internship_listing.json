@@ -40546,5 +40546,100 @@
     "company_url": "https://simplify.jobs/c/Verizon-Communications",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Verizon Communications",
+    "id": "2264f48d-6cb6-4089-b9bc-a3b836fa89e3",
+    "title": "AI/ML Engineering Internship",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1736802107,
+    "date_posted": 1736802107,
+    "url": "https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Irving-Texas/AI-ML-Engineering-Summer-2025-Internship_R-1062202",
+    "locations": [
+      "Irving, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Verizon-Communications",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Gen",
+    "id": "68823ff0-e267-41d2-ab0f-3f62294c1bfb",
+    "title": "Software Engineering Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1736800850,
+    "date_posted": 1736800850,
+    "url": "https://gen.wd1.myworkdayjobs.com/careers/job/USA---Arizona-Tempe/Software-Engineering-Intern_53911-1",
+    "locations": [
+      "Tempe, AZ"
+    ],
+    "company_url": "https://simplify.jobs/c/Gen",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "BJ's Wholesale Club",
+    "id": "51e7e5e5-8908-4332-b7d5-f3715309033b",
+    "title": "Merchant Analytics Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1736800872,
+    "date_posted": 1736800872,
+    "url": "https://bjswholesaleclub.wd1.myworkdayjobs.com/BJsCareers/job/BJs-Club-Support-Center-Marlborough-MA-5997/Merchant-Analytics-Intern_R182274",
+    "locations": [
+      "Marlborough, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/BJs",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Avnet",
+    "id": "8d96be25-dbf0-4edc-9347-9326b5071c08",
+    "title": "Undergraduate Data Analytics Intern",
+    "active": true,
+    "terms": [
+      "Spring 2025"
+    ],
+    "date_updated": 1736800452,
+    "date_posted": 1736800452,
+    "url": "https://wd1.myworkdaysite.com/recruiting/avnet/External/job/Phoenix-Arizona-United-States-Of-America/Undergraduate-Data-Analytics-Intern_JR-017534",
+    "locations": [
+      "Phoenix, AZ"
+    ],
+    "company_url": "https://simplify.jobs/c/Avnet",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Atomic",
+    "id": "9744d23b-5563-4c12-8ff0-7e0e5d67ed88",
+    "title": "Open Source Developer Tools \u2013 Research Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1736801013,
+    "date_posted": 1736801013,
+    "url": "https://jobs.lever.co/atomic/fab9d405-a455-4de5-bb83-1482ef3f4221/apply",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/Atomic-VC",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
