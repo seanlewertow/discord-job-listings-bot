@@ -41432,5 +41432,44 @@
     "company_url": "https://simplify.jobs/c/Verizon-Communications",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Webster Bank",
+    "id": "1edd8c54-f56e-4a56-bc1a-7399a45026e0",
+    "title": "Summer Intern - Data Engineering",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1736888113,
+    "date_posted": 1736888113,
+    "url": "https://websteronline.wd12.myworkdayjobs.com/WebsterExternalCareerSite/job/CT-Stamford-HQ/Summer-Intern---Data-Engineering_R25_0000000012",
+    "locations": [
+      "Stamford, CT"
+    ],
+    "company_url": "https://simplify.jobs/c/Webster-Bank",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Motorola",
+    "id": "262a27c5-cf3f-484c-a5f7-eb346a723dae",
+    "title": "Global Services Business Intelligence & Analytics Internship",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1736888995,
+    "date_posted": 1736888995,
+    "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/Global-Services-Business-Intelligence---Analytics-Internship--Summer-2025-_R52962",
+    "locations": [
+      "Chicago, IL",
+      "Hoffman Estates, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/MotorolaSolutions",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
