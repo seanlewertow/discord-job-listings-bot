@@ -41471,5 +41471,44 @@
     "company_url": "https://simplify.jobs/c/MotorolaSolutions",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Artisan Partners",
+    "id": "6e7e95dd-0a59-41ef-8ba3-3832a61a6534",
+    "title": "Trading Summer Intern - Undergraduate",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1736887160,
+    "date_posted": 1736887160,
+    "url": "https://www.artisanpartners.com/careers/career-opportunities.html?gh_jid=6539181",
+    "locations": [
+      "Boston, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/Artisan-Partners",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Verizon Communications",
+    "id": "6fffa6b3-6056-4001-9bb5-105704ade0a4",
+    "title": "Full Stack Software Development Internship",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1736888898,
+    "date_posted": 1736888898,
+    "url": "https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Richardson-Texas/The-University-of-Texas-at-Dallas-Full-Stack-Software-Development-Summer-2025-Internship_R-1062334",
+    "locations": [
+      "Irving, TX",
+      "Richardson, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Verizon-Communications",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
