@@ -41202,5 +41202,24 @@
     "company_url": "https://simplify.jobs/c/Truist",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Intrinsic",
+    "id": "e7ee3296-4e7a-4137-b22a-37aa8537cd6b",
+    "title": "Intern in Software Engineering /AI for Pose Estimation Evaluation",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1736856800,
+    "date_posted": 1736856800,
+    "url": "https://boards.greenhouse.io/intrinsicrobotics/jobs/5415831004",
+    "locations": [
+      "Mountain View, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/IntrinsicAI",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
