@@ -41164,5 +41164,43 @@
     "company_url": "https://simplify.jobs/c/IntrinsicAI",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Truist",
+    "id": "318a1a2a-110b-4c10-88ae-b5bc940d060b",
+    "title": "Summer Analyst Program - Sales - Trading & Research - Equity Research",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1736856990,
+    "date_posted": 1736856990,
+    "url": "https://truist.wd1.myworkdayjobs.com/en-US/Careers/job/Atlanta-GA/XMLNAME-2026-Truist-Securities---Sales--Trading---Research--Equity-Research----Summer-Analyst-Program--Internship----Atlanta_R0097881",
+    "locations": [
+      "Atlanta, GA"
+    ],
+    "company_url": "https://simplify.jobs/c/Truist",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Truist",
+    "id": "ca95224a-64b4-4dc7-a3cb-f982dffe1796",
+    "title": "Summer Analyst Program - Internship - Sales - Trading & Research - Equity Research",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1736856990,
+    "date_posted": 1736856990,
+    "url": "https://truist.wd1.myworkdayjobs.com/en-US/Careers/job/New-York-NY/XMLNAME-2026-Truist-Securities---Sales--Trading---Research--Equity-Research----Summer-Analyst-Program--Internship----New-York_R0097880",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Truist",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
