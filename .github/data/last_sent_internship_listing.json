@@ -41107,5 +41107,62 @@
     "date_posted": 1736831127,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Intrinsic",
+    "id": "4bc1569b-c645-4fe5-b337-894d9c8c91be",
+    "title": "Intern in Software Engineering /AI for Pose Estimation Evaluation",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1736856795,
+    "date_posted": 1736856795,
+    "url": "https://boards.greenhouse.io/intrinsicrobotics/jobs/5415897004",
+    "locations": [
+      "Mountain View, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/IntrinsicAI",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Truist",
+    "id": "283a22e8-39ec-46b1-a7e4-b892cbd038eb",
+    "title": "Summer Analyst Program \u2013 Internship - Sales - Trading & Research - Equity Sales & Trading",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1736856989,
+    "date_posted": 1736856989,
+    "url": "https://truist.wd1.myworkdayjobs.com/en-US/Careers/job/New-York-NY/XMLNAME-2026-Truist-Securities---Sales--Trading---Research--Equity-Sales---Trading----Summer-Analyst-Program--Internship-_R0097877",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Truist",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Intrinsic",
+    "id": "04243d64-766a-432a-a003-9c1fea310669",
+    "title": "Software Engineering for Multi-View Pose Estimation",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1736856800,
+    "date_posted": 1736856800,
+    "url": "https://boards.greenhouse.io/intrinsicrobotics/jobs/5415859004",
+    "locations": [
+      "Mountain View, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/IntrinsicAI",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
