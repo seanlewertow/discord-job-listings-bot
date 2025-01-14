@@ -41010,5 +41010,64 @@
     "company_url": "https://simplify.jobs/c/Echostar",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "BorgWarner",
+    "id": "e6d473f1-c362-4e15-afe0-c940dc536c55",
+    "title": "Data Science Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1736828330,
+    "date_posted": 1736828330,
+    "url": "https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Auburn-Hills---Michigan---USA/Data-Science-Intern_R2024-4853",
+    "locations": [
+      "Auburn Hills, MI"
+    ],
+    "company_url": "https://simplify.jobs/c/BorgWarner",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "PulteGroup",
+    "id": "bf75463e-71e1-4cdd-a494-1d6f313bd1a8",
+    "title": "IT Software Developer Intern - Internal Applications",
+    "active": true,
+    "terms": [
+      "Fall 2024",
+      "Winter 2025",
+      "Spring 2025"
+    ],
+    "date_updated": 1736827997,
+    "date_posted": 1736827997,
+    "url": "https://pultegroup.wd1.myworkdayjobs.com/PGI/job/Atlanta-GA/IT-Intern---Atlanta--Ga_JR6641",
+    "locations": [
+      "Atlanta, GA"
+    ],
+    "company_url": "https://simplify.jobs/c/PulteGroup",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "BorgWarner",
+    "id": "5f838cea-c450-4c55-beac-c8b2a25c7d08",
+    "title": "Web Application Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1736828342,
+    "date_posted": 1736828342,
+    "url": "https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Auburn-Hills---Michigan---USA/Web-Application-Intern_R2024-4642-1",
+    "locations": [
+      "Auburn Hills, MI"
+    ],
+    "company_url": "https://simplify.jobs/c/BorgWarner",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
