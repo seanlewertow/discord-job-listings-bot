@@ -41069,5 +41069,43 @@
     "company_url": "https://simplify.jobs/c/BorgWarner",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "date_updated": 1736831076,
+    "url": "https://www.amazon.jobs/en/jobs/2787427/software-development-engineer-intern-2025-ai-ml",
+    "company_name": "Amazon",
+    "title": "Software Development Engineer Intern 2025, AI/ML",
+    "locations": [
+      "Austin, TX"
+    ],
+    "terms": [
+      "Summer 2025"
+    ],
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "source": "GaryZhous",
+    "id": "37f63e93-135a-41fd-9a29-53c38644a29d",
+    "date_posted": 1736831076,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1736831127,
+    "url": "https://paypal.eightfold.ai/careers?Codes=W-LINKEDIN&domain=paypal.com&query=R0121795&sort_by=relevance",
+    "company_name": "PayPal",
+    "title": "Ruby on Rails Software Engineering Intern",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "terms": [
+      "Summer 2025"
+    ],
+    "sponsorship": "Does Not Offer Sponsorship",
+    "active": true,
+    "source": "GaryZhous",
+    "id": "87e5f98a-62c3-48d2-91cb-9e4c0e653270",
+    "date_posted": 1736831127,
+    "company_url": "",
+    "is_visible": true
   }
 ]
