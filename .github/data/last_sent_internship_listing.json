@@ -42043,5 +42043,43 @@
     "company_url": "https://simplify.jobs/c/Centene",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Qualtrics",
+    "id": "acff0750-1ea0-46f6-941e-692d3d8f6eb4",
+    "title": "Machine Learning Engineer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1736975186,
+    "date_posted": 1736975186,
+    "url": "https://www.qualtrics.com/careers/us/en/job/6540123?gh_jid=6540123",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "company_url": "https://simplify.jobs/c/Qualtrics",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Breeze Airways",
+    "id": "b1fbceb5-ca5f-4269-8963-71d381bc9368",
+    "title": "Ancillary Revenue & Guest Analytics Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1736973078,
+    "date_posted": 1736973078,
+    "url": "https://job-boards.greenhouse.io/breezeairways/jobs/6327786003",
+    "locations": [
+      "Cottonwood Heights, UT"
+    ],
+    "company_url": "https://simplify.jobs/c/Breeze-Airways",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
