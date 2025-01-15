@@ -41624,5 +41624,43 @@
     "company_url": "https://simplify.jobs/c/Lumafield",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Arsiem Corporation",
+    "id": "4cb29d32-d1fa-4864-9a0e-9e973c35b351",
+    "title": "Software/AI Developer \u2013 Internship",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1736914307,
+    "date_posted": 1736914307,
+    "url": "https://jobs.lever.co/arsiem/385fb9dd-ece3-46e5-84b2-53d51b8adf91/apply",
+    "locations": [
+      "Baltimore, MD"
+    ],
+    "company_url": "https://simplify.jobs/c/Arsiem-Corporation",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Arsiem Corporation",
+    "id": "4e94e320-b119-4e51-a6d7-07f3a575c313",
+    "title": "Computer Science Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1736914303,
+    "date_posted": 1736914303,
+    "url": "https://jobs.lever.co/arsiem/527641ac-a93f-4898-9879-5556ac28f56d/apply",
+    "locations": [
+      "Baltimore, MD"
+    ],
+    "company_url": "https://simplify.jobs/c/Arsiem-Corporation",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
