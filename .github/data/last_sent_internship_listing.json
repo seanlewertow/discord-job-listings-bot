@@ -42005,5 +42005,24 @@
     "company_url": "https://simplify.jobs/c/t-rowe-price",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Leidos",
+    "id": "216ea760-25e2-4d38-88c4-1c63b9a146f3",
+    "title": "Network Engineer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1736974147,
+    "date_posted": 1736974147,
+    "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Network-Engineer-Intern_R-00150192",
+    "locations": [
+      "Huntsville, AL"
+    ],
+    "company_url": "https://simplify.jobs/c/Leidos",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
