@@ -41529,5 +41529,100 @@
     "company_url": "https://simplify.jobs/c/Verizon-Communications",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "S&P Global ",
+    "id": "9a895dd3-a3ac-435f-9395-9867985209c1",
+    "title": "Ratings \u2013 Software Engineer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1736900533,
+    "date_posted": 1736900533,
+    "url": "https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Careers/job/Toronto-CAN/Ratings---Software-Engineer-Intern_311432-1",
+    "locations": [
+      "Toronto, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/c7dad035-0ece-4bb3-a529-57e45f2c155c",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "S&P Global ",
+    "id": "82c377a8-572c-4226-8d91-264fe12b94c1",
+    "title": "Data Science Intern-NLP - LLM and GenAI",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1736900535,
+    "date_posted": 1736900535,
+    "url": "https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Careers/job/Toronto-CAN/Data-Science-Intern--NLP--LLM-and-GenAI_311433-1",
+    "locations": [
+      "Toronto, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/c7dad035-0ece-4bb3-a529-57e45f2c155c",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Demandbase",
+    "id": "468deeea-dfcf-4647-b2f6-6cf40341646a",
+    "title": "Software Engineer Co-op - Data Platform",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1736900320,
+    "date_posted": 1736900320,
+    "url": "https://job-boards.greenhouse.io/demandbase/jobs/6539958",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/Demand-Base",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Lumafield",
+    "id": "4d6afde9-16a3-49b9-83a8-a0eb2dce099d",
+    "title": "Engineering Intern - Backend Software",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1736900238,
+    "date_posted": 1736900238,
+    "url": "https://jobs.lever.co/lumafield/d90ab415-672f-4f6a-96c9-d4baeb60587a/apply",
+    "locations": [
+      "SF"
+    ],
+    "company_url": "https://simplify.jobs/c/Lumafield",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Lumafield",
+    "id": "131838dc-6bb3-4f05-9c86-0d2ac5e37bae",
+    "title": "Engineering Intern - Frontend Software",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1736900240,
+    "date_posted": 1736900240,
+    "url": "https://jobs.lever.co/lumafield/fadb37ed-3450-43ff-ba2b-b9c44e208b63/apply",
+    "locations": [
+      "SF"
+    ],
+    "company_url": "https://simplify.jobs/c/Lumafield",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
