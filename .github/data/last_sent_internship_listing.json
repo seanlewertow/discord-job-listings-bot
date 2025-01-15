@@ -41662,5 +41662,43 @@
     "company_url": "https://simplify.jobs/c/Arsiem-Corporation",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "date_updated": 1736918728,
+    "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Boston/Algorithm-Engineer-Intern_R243657",
+    "company_name": "Analog Devices",
+    "title": "Algorithm Engineer Intern",
+    "locations": [
+      "Boston, MA"
+    ],
+    "terms": [
+      "Summer 2025"
+    ],
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "source": "GaryZhous",
+    "id": "39c85408-29c4-46d6-8506-36f58c2a3508",
+    "date_posted": 1736918728,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1736918898,
+    "url": "https://ffive.wd5.myworkdayjobs.com/f5jobs/job/Seattle/Software-Engineer-Intern_RP1032466",
+    "company_name": "F5",
+    "title": "Software Engineer Intern",
+    "locations": [
+      "Greater Seattle Area"
+    ],
+    "terms": [
+      "Summer 2025"
+    ],
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "source": "GaryZhous",
+    "id": "90e95dfd-55e1-4065-a324-0a09b9f35829",
+    "date_posted": 1736918898,
+    "company_url": "",
+    "is_visible": true
   }
 ]
