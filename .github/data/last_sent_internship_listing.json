@@ -41700,5 +41700,100 @@
     "date_posted": 1736918898,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "source": "Simplify",
+    "company_name": "American Financial Group",
+    "id": "02377cab-cad8-4fba-851a-2b3777676321",
+    "title": "Data Science Intern - IT Services",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1736928839,
+    "date_posted": 1736928839,
+    "url": "https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Data-Science-Intern---IT-Services_R6801",
+    "locations": [
+      "Cincinnati, OH"
+    ],
+    "company_url": "https://simplify.jobs/c/American-Financial-Group",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Las Vegas Sands Corp",
+    "id": "f6b6552d-447d-45df-aa90-666c187b8408",
+    "title": "Intern \u2013 Sds",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1736928826,
+    "date_posted": 1736928826,
+    "url": "https://sands.wd1.myworkdayjobs.com/sands_careers/job/Las-Vegas/Intern---SDS_R24_0530",
+    "locations": [
+      "Las Vegas, NV"
+    ],
+    "company_url": "https://simplify.jobs/c/Las-Vegas-Sands-Corp",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "American Financial Group",
+    "id": "79c4bd95-864d-4479-bcb0-23f7bdc61647",
+    "title": "Extreme Programming Intern - IT Services",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1736928826,
+    "date_posted": 1736928826,
+    "url": "https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Extreme-Programming-Intern---IT-Services_R6778",
+    "locations": [
+      "Cincinnati, OH"
+    ],
+    "company_url": "https://simplify.jobs/c/American-Financial-Group",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "American Financial Group",
+    "id": "a0981ac1-274d-4d39-b08d-cdcfb3d79598",
+    "title": "Extreme Programming Intern - IT Services",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1736928820,
+    "date_posted": 1736928820,
+    "url": "https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Extreme-Programming-Intern---IT-Services_R6953",
+    "locations": [
+      "Cincinnati, OH"
+    ],
+    "company_url": "https://simplify.jobs/c/American-Financial-Group",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Prologis",
+    "id": "62320af9-9773-4cd5-a59d-7a69f6c8ca47",
+    "title": "Intern \u2013 Investment Analyst Program - Iap",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1736928815,
+    "date_posted": 1736928815,
+    "url": "https://prologis.wd5.myworkdayjobs.com/Prologis_External_Careers/job/San-Francisco-California/Intern--Investment-Analyst-Program--IAP-_R5451-1",
+    "locations": [
+      "SF"
+    ],
+    "company_url": "https://simplify.jobs/c/Prologis",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
