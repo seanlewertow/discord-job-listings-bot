@@ -42467,5 +42467,108 @@
     "company_url": "https://simplify.jobs/c/Chewy",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Intuitive Surgical",
+    "id": "ca80a8b5-2108-4d7f-a994-fb84b57e6c18",
+    "title": "AI/ML Data Scientist Intern",
+    "active": true,
+    "terms": [
+      "Spring 2025",
+      "Summer 2025"
+    ],
+    "date_updated": 1737000576,
+    "date_posted": 1737000576,
+    "url": "https://jobs.smartrecruiters.com/Intuitive/744000035042082",
+    "locations": [
+      "Sunnyvale, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Intuitive-Surgical",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Intuitive Surgical",
+    "id": "5d7d8bce-60fc-4610-8538-23667ea6408a",
+    "title": "Data Engineer Intern",
+    "active": true,
+    "terms": [
+      "Spring 2027",
+      "Summer 2027",
+      "Fall 2027"
+    ],
+    "date_updated": 1737000661,
+    "date_posted": 1737000661,
+    "url": "https://jobs.smartrecruiters.com/Intuitive/744000034572283",
+    "locations": [
+      "Sunnyvale, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Intuitive-Surgical",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Intuitive Surgical",
+    "id": "3216c288-731c-4d20-9488-3fb4cdcfae3a",
+    "title": "Advanced Imaging Intern",
+    "active": true,
+    "terms": [
+      "Spring 2027",
+      "Summer 2027",
+      "Fall 2027"
+    ],
+    "date_updated": 1737000660,
+    "date_posted": 1737000660,
+    "url": "https://jobs.smartrecruiters.com/Intuitive/744000034572645",
+    "locations": [
+      "Sunnyvale, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Intuitive-Surgical",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Intuitive Surgical",
+    "id": "aa27a095-a8d5-4ae1-8739-87242deb171a",
+    "title": "Software Engineering Intern",
+    "active": true,
+    "terms": [
+      "Spring 2027",
+      "Summer 2027",
+      "Fall 2027"
+    ],
+    "date_updated": 1737000658,
+    "date_posted": 1737000658,
+    "url": "https://jobs.smartrecruiters.com/Intuitive/744000034569013",
+    "locations": [
+      "Sunnyvale, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Intuitive-Surgical",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Intuitive Surgical",
+    "id": "f41d1813-d5cc-4915-906e-c1c7ba25aea1",
+    "title": "Software Engineering Intern",
+    "active": true,
+    "terms": [
+      "Spring 2025",
+      "Summer 2025"
+    ],
+    "date_updated": 1737000795,
+    "date_posted": 1737000795,
+    "url": "https://jobs.smartrecruiters.com/Intuitive/744000032911913",
+    "locations": [
+      "Sunnyvale, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Intuitive-Surgical",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
