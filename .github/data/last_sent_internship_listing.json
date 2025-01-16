@@ -42801,5 +42801,24 @@
     "company_url": "https://simplify.jobs/c/Farallon",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "OneMain Financial",
+    "id": "846dcd29-9d28-4eb8-9652-2320afdcccaf",
+    "title": "Technology Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1737060933,
+    "date_posted": 1737060933,
+    "url": "https://myhrhome.wd1.myworkdayjobs.com/en-US/OneMainCareers/job/IN-Remote-Location/Technology-Intern_R2501-44596",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/b4966f20-7ca2-4e09-9e76-ea8708e860ec",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
