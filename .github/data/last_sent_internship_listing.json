@@ -42820,5 +42820,24 @@
     "company_url": "https://simplify.jobs/c/b4966f20-7ca2-4e09-9e76-ea8708e860ec",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "S&P Global ",
+    "id": "5c2c1ce2-ac03-437d-87b9-806d890b13e7",
+    "title": "Software Engineer Intern - Early Careers",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1737060862,
+    "date_posted": 1737060862,
+    "url": "https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Careers/job/US---NJ---PRINCETON-ONE-INDEPENDENCE-WAY/Software-Engineer-Intern--Early-Careers-_307561-1",
+    "locations": [
+      "Princeton, NJ"
+    ],
+    "company_url": "https://simplify.jobs/c/SP-Global",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
