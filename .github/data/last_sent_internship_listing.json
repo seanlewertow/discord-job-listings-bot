@@ -42178,5 +42178,89 @@
     "company_url": "https://simplify.jobs/c/Uber",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Chewy",
+    "id": "ac0cdc14-ca5b-413f-854d-49a9dddc0eb2",
+    "title": "Software Engineer I Co-op",
+    "active": true,
+    "terms": [
+      "Summer 2025",
+      "Fall 2025",
+      "Winter 2026"
+    ],
+    "date_updated": 1737002129,
+    "date_posted": 1737002129,
+    "url": "https://boards.greenhouse.io/embed/job_app?token=6500289",
+    "locations": [
+      "Minneapolis, MN"
+    ],
+    "company_url": "https://simplify.jobs/c/Chewy",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Chewy",
+    "id": "177210e1-804a-47bd-ad41-65b4018c2c42",
+    "title": "Software Engineer I Co-op",
+    "active": true,
+    "terms": [
+      "Summer 2025",
+      "Fall 2025",
+      "Winter 2026"
+    ],
+    "date_updated": 1737002129,
+    "date_posted": 1737002129,
+    "url": "https://boards.greenhouse.io/embed/job_app?token=6498856",
+    "locations": [
+      "Bellevue, WA"
+    ],
+    "company_url": "https://simplify.jobs/c/Chewy",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Chewy",
+    "id": "14ef1d8c-90b0-4820-9596-62b4b2951f9b",
+    "title": "Data Engineer I Co-op",
+    "active": true,
+    "terms": [
+      "Summer 2025",
+      "Fall 2025",
+      "Winter 2026"
+    ],
+    "date_updated": 1737002113,
+    "date_posted": 1737002113,
+    "url": "https://boards.greenhouse.io/embed/job_app?token=6498854",
+    "locations": [
+      "Bellevue, WA"
+    ],
+    "company_url": "https://simplify.jobs/c/Chewy",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Chewy",
+    "id": "549b4b73-b52f-4256-b317-05f3cbb53655",
+    "title": "BI Engineer I Co-op",
+    "active": true,
+    "terms": [
+      "Summer 2025",
+      "Fall 2025",
+      "Winter 2026"
+    ],
+    "date_updated": 1737002079,
+    "date_posted": 1737002079,
+    "url": "https://boards.greenhouse.io/embed/job_app?token=6498790",
+    "locations": [
+      "Boston, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/Chewy",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
