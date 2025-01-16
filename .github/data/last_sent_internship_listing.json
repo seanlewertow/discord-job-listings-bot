@@ -42407,5 +42407,65 @@
     "company_url": "https://simplify.jobs/c/Zoox",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Zoox",
+    "id": "6dc6c35f-3ef9-4ef5-aa19-a27b330caaaa",
+    "title": "Software Development in Test Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1737002379,
+    "date_posted": 1737002379,
+    "url": "https://jobs.lever.co/zoox/b6dd6644-926a-4326-abe4-f48d95dc1c8d/apply",
+    "locations": [
+      "San Mateo, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Zoox",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Intuitive Surgical",
+    "id": "84b8e217-bcb1-42bf-882e-db557f86a860",
+    "title": "NPI Software Intern",
+    "active": true,
+    "terms": [
+      "Spring 2025",
+      "Summer 2025"
+    ],
+    "date_updated": 1737000521,
+    "date_posted": 1737000521,
+    "url": "https://jobs.smartrecruiters.com/Intuitive/744000035270580",
+    "locations": [
+      "Sunnyvale, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Intuitive-Surgical",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Chewy",
+    "id": "44ff3efa-c2e9-4c79-8f90-293a4512be17",
+    "title": "Robotics Software Engineer I Co-op",
+    "active": true,
+    "terms": [
+      "Summer 2025",
+      "Fall 2025",
+      "Winter 2026"
+    ],
+    "date_updated": 1737002126,
+    "date_posted": 1737002126,
+    "url": "https://boards.greenhouse.io/embed/job_app?token=6498789",
+    "locations": [
+      "Boston, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/Chewy",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
