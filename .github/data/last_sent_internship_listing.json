@@ -42262,5 +42262,110 @@
     "company_url": "https://simplify.jobs/c/Chewy",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Intuitive Surgical",
+    "id": "7b298307-26cc-4619-9d2a-1704a1ddc271",
+    "title": "Software Engineer Intern",
+    "active": true,
+    "terms": [
+      "Spring 2027",
+      "Summer 2027",
+      "Fall 2027"
+    ],
+    "date_updated": 1737000656,
+    "date_posted": 1737000656,
+    "url": "https://jobs.smartrecruiters.com/Intuitive/744000034570660",
+    "locations": [
+      "Sunnyvale, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Intuitive-Surgical",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Intuitive Surgical",
+    "id": "4545ffc2-169d-4154-8d7d-ecf8eae91c3f",
+    "title": "Software Engineering Intern",
+    "active": true,
+    "terms": [
+      "Spring 2025",
+      "Summer 2025"
+    ],
+    "date_updated": 1737000384,
+    "date_posted": 1737000384,
+    "url": "https://jobs.smartrecruiters.com/Intuitive/744000035909396",
+    "locations": [
+      "Sunnyvale, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Intuitive-Surgical",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Intuitive Surgical",
+    "id": "e2b0f15c-51bc-4750-9372-cb5f6db0c57d",
+    "title": "SDET Intern",
+    "active": true,
+    "terms": [
+      "Spring 2027",
+      "Summer 2027",
+      "Fall 2027"
+    ],
+    "date_updated": 1737000649,
+    "date_posted": 1737000649,
+    "url": "https://jobs.smartrecruiters.com/Intuitive/744000034572477",
+    "locations": [
+      "Sunnyvale, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Intuitive-Surgical",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Intuitive Surgical",
+    "id": "e2c60239-5de5-40ef-ae21-d9f7ac2c10a2",
+    "title": "Manufacturing Software Engineering Intern",
+    "active": true,
+    "terms": [
+      "Spring 2025",
+      "Summer 2025"
+    ],
+    "date_updated": 1737000860,
+    "date_posted": 1737000860,
+    "url": "https://jobs.smartrecruiters.com/Intuitive/744000032290435",
+    "locations": [
+      "Sunnyvale, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Intuitive-Surgical",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Chewy",
+    "id": "b36b412c-472f-46e3-a1d3-60ffee8b0e4d",
+    "title": "Software Engineer I Co-op",
+    "active": true,
+    "terms": [
+      "Summer 2025",
+      "Fall 2025",
+      "Winter 2026"
+    ],
+    "date_updated": 1737002129,
+    "date_posted": 1737002129,
+    "url": "https://boards.greenhouse.io/embed/job_app?token=6500291",
+    "locations": [
+      "Boston, MA",
+      "Minneapolis, MN",
+      "Bellevue, WA"
+    ],
+    "company_url": "https://simplify.jobs/c/Chewy",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
