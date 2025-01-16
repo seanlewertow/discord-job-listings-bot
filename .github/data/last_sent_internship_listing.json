@@ -42705,5 +42705,25 @@
     "company_url": "https://simplify.jobs/c/CACI",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Datadog",
+    "id": "da98a0ec-9783-454b-bb27-20ff0cd94459",
+    "title": "Software Engineer \u2013 Intern - SRE",
+    "active": true,
+    "terms": [
+      "Spring 2025",
+      "Summer 2025"
+    ],
+    "date_updated": 1737044394,
+    "date_posted": 1737044394,
+    "url": "https://careers.datadoghq.com/detail/6514971/?gh_jid=6514971",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Datadog",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
