@@ -42570,5 +42570,82 @@
     "company_url": "https://simplify.jobs/c/Intuitive-Surgical",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Intuitive Surgical",
+    "id": "61b3c2ab-eef6-4ae4-ab07-efa68d0d2029",
+    "title": "Product Security Software Engineer Intern",
+    "active": true,
+    "terms": [
+      "Spring 2025",
+      "Summer 2025"
+    ],
+    "date_updated": 1737000367,
+    "date_posted": 1737000367,
+    "url": "https://jobs.smartrecruiters.com/Intuitive/744000035926865",
+    "locations": [
+      "Sunnyvale, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Intuitive-Surgical",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Zoox",
+    "id": "6af4b944-dc83-450b-b2a6-64528f9c64b3",
+    "title": "Firmware Engineering Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1737002357,
+    "date_posted": 1737002357,
+    "url": "https://jobs.lever.co/zoox/5ea94375-fb5a-4136-9856-dba3c7fb4537/apply",
+    "locations": [
+      "San Mateo, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Zoox",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Zoox",
+    "id": "ee06803d-1ae3-4426-b0c4-2cab5a96dc4d",
+    "title": "Autonomy System Test Engineering Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1737002368,
+    "date_posted": 1737002368,
+    "url": "https://jobs.lever.co/zoox/fe2337ea-184c-459b-9761-a507606ec58a/apply",
+    "locations": [
+      "San Mateo, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Zoox",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Zoox",
+    "id": "bc1612ad-b478-4d79-95aa-d252cd809d23",
+    "title": "System Behavior Analysis Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1737002394,
+    "date_posted": 1737002394,
+    "url": "https://jobs.lever.co/zoox/f79bb13d-65e3-477d-9ed7-fd5c89d89d13/apply",
+    "locations": [
+      "San Mateo, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Zoox",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
