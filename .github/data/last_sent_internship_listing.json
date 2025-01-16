@@ -42100,5 +42100,83 @@
     "company_url": "https://simplify.jobs/c/5fdb14b0-be2f-4141-8255-f61325f9e0c2",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Uber",
+    "id": "94be1664-83b0-4df3-8525-415449fe444a",
+    "title": "2025 Software Engineer Internship",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1736986369,
+    "date_posted": 1736986369,
+    "url": "https://www.uber.com/global/en/careers/list/139212/",
+    "locations": [
+      "Seattle, WA",
+      "SF",
+      "Sunnyvale, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Uber",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Western Digital",
+    "id": "0ea7b2cf-575c-4e96-a484-4cb1a3c249a2",
+    "title": "Servo Firmware Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1736986229,
+    "date_posted": 1736986229,
+    "url": "https://jobs.smartrecruiters.com/WesternDigital/744000036838845",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Western-Digital",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Western Digital",
+    "id": "977e51b1-2ffd-4243-9630-3430401d4244",
+    "title": "Software Engineering - Embedded",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1736986225,
+    "date_posted": 1736986225,
+    "url": "https://jobs.smartrecruiters.com/WesternDigital/744000036836025",
+    "locations": [
+      "Rochester, MN"
+    ],
+    "company_url": "https://simplify.jobs/c/Western-Digital",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Uber",
+    "id": "2e604131-3c46-41b5-bb9b-28a5e2870492",
+    "title": "2025 Software Engineer Internship",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1736986213,
+    "date_posted": 1736986213,
+    "url": "https://university-uber.icims.com/jobs/139212/job",
+    "locations": [
+      "SF"
+    ],
+    "company_url": "https://simplify.jobs/c/Uber",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
