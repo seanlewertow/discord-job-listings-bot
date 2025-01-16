@@ -42839,5 +42839,62 @@
     "company_url": "https://simplify.jobs/c/SP-Global",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Woven",
+    "id": "ed4a2be6-386c-443f-9b0b-22fc19376bee",
+    "title": "Software Engineering Intern - Visualization",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1737059780,
+    "date_posted": 1737059780,
+    "url": "https://jobs.lever.co/woven-by-toyota/8ff3f98d-3612-4957-83bf-ab6639afb99e/apply",
+    "locations": [
+      "Ann Arbor, MI"
+    ],
+    "company_url": "https://simplify.jobs/c/Woven-Planet",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Squarespace",
+    "id": "99f3dab3-f535-4b35-816d-c749caaca163",
+    "title": "Software Engineer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1737059832,
+    "date_posted": 1737059832,
+    "url": "http://www.squarespace.com/about/careers?gh_jid=6526521",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Squarespace",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Woven",
+    "id": "0c8d9917-f245-418e-a0f5-d906d3e4564c",
+    "title": "Software Engineering Intern - Arene Advanced Development",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1737059773,
+    "date_posted": 1737059773,
+    "url": "https://jobs.lever.co/woven-by-toyota/1d7600cc-a1ac-456d-978c-693ce3436196/apply",
+    "locations": [
+      "Sunnyvale, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Woven-Planet",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
