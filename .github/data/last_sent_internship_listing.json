@@ -42666,5 +42666,25 @@
     "company_url": "https://simplify.jobs/c/Applied-Materials",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "NVIDIA",
+    "id": "ca9e5b37-29c8-4243-bd13-d624a5ab5708",
+    "title": "Compute Performance Developer Technology Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1737030294,
+    "date_posted": 1737030294,
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/Switzerland-Zurich/Compute-Performance-Developer-Technology-Intern_JR1994291",
+    "locations": [
+      "Bristol, UK",
+      "Cambridge, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/NVIDIA",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
