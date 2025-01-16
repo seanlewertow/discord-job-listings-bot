@@ -42744,5 +42744,62 @@
     "company_url": "https://simplify.jobs/c/Woven-Planet",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "ibotta",
+    "id": "fea78cdc-b130-44ae-a086-fe65cc9d23b4",
+    "title": "Data Engineering Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1737062466,
+    "date_posted": 1737062466,
+    "url": "https://ibotta.wd1.myworkdayjobs.com/en-US/Ibotta/job/Denver-CO/Data-Engineering-Intern_R-101792",
+    "locations": [
+      "Denver, CO"
+    ],
+    "company_url": "https://simplify.jobs/c/ibotta",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Woven",
+    "id": "e1d98cc5-b9aa-4b96-a962-9aa86bc7bb91",
+    "title": "Software Engineering Intern - Machine Learning Platform",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1737059773,
+    "date_posted": 1737059773,
+    "url": "https://jobs.lever.co/woven-by-toyota/bcedc99e-d71f-45bd-ac96-ef2ccdc6c030/apply",
+    "locations": [
+      "Palo Alto, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Woven-Planet",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Farallon Capital Management",
+    "id": "20c04532-ec9c-49c1-ba5f-f81ba469f238",
+    "title": "Intern \u2013 Operations",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1737059317,
+    "date_posted": 1737059317,
+    "url": "https://job-boards.greenhouse.io/faralloncapitalmanagementllc/jobs/6312418003",
+    "locations": [
+      "SF"
+    ],
+    "company_url": "https://simplify.jobs/c/Farallon",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
