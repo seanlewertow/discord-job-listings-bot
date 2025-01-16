@@ -42367,5 +42367,45 @@
     "company_url": "https://simplify.jobs/c/Chewy",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Intuitive Surgical",
+    "id": "fbd45a0d-4650-43fd-a7b6-a7ada711b528",
+    "title": "Business Intelligence Data Analyst Intern",
+    "active": true,
+    "terms": [
+      "Spring 2025",
+      "Summer 2025"
+    ],
+    "date_updated": 1737000970,
+    "date_posted": 1737000970,
+    "url": "https://jobs.smartrecruiters.com/Intuitive/744000030453995",
+    "locations": [
+      "Remote in USA",
+      "Sunnyvale, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Intuitive-Surgical",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Zoox",
+    "id": "c4902fe3-61c2-4a8d-b55d-4e02f92890bd",
+    "title": "Triage and Audit Research Analyst Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1737002407,
+    "date_posted": 1737002407,
+    "url": "https://jobs.lever.co/zoox/a35d802a-b0d2-4c69-9c56-0b4bc91e6b7c/apply",
+    "locations": [
+      "San Mateo, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Zoox",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
