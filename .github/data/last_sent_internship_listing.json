@@ -43012,5 +43012,62 @@
     "company_url": "https://simplify.jobs/c/NoahMedical",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Zoox",
+    "id": "dfaa3b77-a921-464d-a9a4-4456da59466a",
+    "title": "Systems Integration Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1737087331,
+    "date_posted": 1737087331,
+    "url": "https://jobs.lever.co/zoox/5b0078a2-071b-48b4-a0c5-ec0cf9334aad/apply",
+    "locations": [
+      "San Mateo, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Zoox",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Zoox",
+    "id": "362c2a4c-1ee1-4448-b285-2d7d3f9130b0",
+    "title": "Software Development in Test Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1737087306,
+    "date_posted": 1737087306,
+    "url": "https://jobs.lever.co/zoox/db9b3101-5ce8-4d8c-8c1c-bbe2ca422c76/apply",
+    "locations": [
+      "San Mateo, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Zoox",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Snowflake",
+    "id": "68514f17-9ecb-4ee1-bcbc-3ff17568817c",
+    "title": "Product Marketing Intern - Artificial Intelligence - AI",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1737086878,
+    "date_posted": 1737086878,
+    "url": "https://jobs.ashbyhq.com/snowflake/b1f4fd6d-5c37-4f2b-af52-f478f52335e4/application",
+    "locations": [
+      "San Mateo, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Snowflake",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
