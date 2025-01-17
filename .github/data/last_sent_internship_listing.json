@@ -43069,5 +43069,24 @@
     "company_url": "https://simplify.jobs/c/Snowflake",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Autodesk",
+    "id": "dbca3b3a-a9d7-40d1-9d27-64f6cb6ea59a",
+    "title": "Intern \u2013 Software Developer",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1737087616,
+    "date_posted": 1737087616,
+    "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Montreal-QC-CAN/Intern--Software-Developer--Summer-2025-_25WD84819",
+    "locations": [
+      "Montreal, QC, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Autodesk",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
