@@ -43164,5 +43164,24 @@
     "company_url": "https://simplify.jobs/c/Xylem",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Snowflake",
+    "id": "313b1384-f2da-4e0d-99fa-92b54ecb1ede",
+    "title": "Academic Program Growth & Analytics Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1737145738,
+    "date_posted": 1737145738,
+    "url": "https://jobs.ashbyhq.com/snowflake/9bf484d4-6b66-4f95-87f5-bfd11a0f6e69/application",
+    "locations": [
+      "San Mateo, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Snowflake",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
