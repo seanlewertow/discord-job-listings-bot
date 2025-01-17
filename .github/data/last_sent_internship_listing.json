@@ -43223,5 +43223,45 @@
     "company_url": "https://simplify.jobs/c/Findhelp,-A-Public-Benefit-Corporation",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Intel",
+    "id": "5f7f4fa3-21a1-4601-90d7-49261e153291",
+    "title": "Machine Learning Software Engineering Undergraduate Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1737147175,
+    "date_posted": 1737147175,
+    "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-California-Santa-Clara/Machine-Learning-Software-Engineering-Undergraduate-Intern_JR0270621",
+    "locations": [
+      "Santa Clara, CA",
+      "Hillsboro, OR",
+      "Folsom, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Intel",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Medline",
+    "id": "b2267cfa-2a39-4952-9256-cfb76497eb64",
+    "title": "IT Software Development Intern - Data Science",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1737147261,
+    "date_posted": 1737147261,
+    "url": "https://medline.wd5.myworkdayjobs.com/en-US/Medline/job/Northbrook-Illinois/IT-Software-Development-Intern--Data-Science----Summer-2025_R2500987",
+    "locations": [
+      "Northbrook, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/f22ab711-4900-472d-be8a-7263e99e49fa",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
