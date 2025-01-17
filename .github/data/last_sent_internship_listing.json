@@ -42896,5 +42896,102 @@
     "company_url": "https://simplify.jobs/c/Woven-Planet",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Merck",
+    "id": "6c0a8c03-badb-4e63-be9a-0332507b53d5",
+    "title": "Technologue num\u00e9rique - Digital Technologist",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1737076353,
+    "date_posted": 1737076353,
+    "url": "https://msd.wd5.myworkdayjobs.com/en-US/SearchJobs/job/CAN---Quebec---Kirkland-16750-Transcanada/Stage-d-t--Technologue-numrique---Summer-Internship--Digital-Technologist_R327371-1",
+    "locations": [
+      "Pointe-Claire, QC, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Merck",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Motorola",
+    "id": "b2757f5b-f4d5-4d73-8297-c26546e6480b",
+    "title": "Java Developer",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1737076344,
+    "date_posted": 1737076344,
+    "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/West-Valley-City-UT/Java-Developer---Summer-2025-Internship_R52901-1",
+    "locations": [
+      "West Valley City, UT"
+    ],
+    "company_url": "https://simplify.jobs/c/MotorolaSolutions",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Caterpillar Inc.",
+    "id": "67911557-18e8-46af-802a-ab91e0bb90f6",
+    "title": "Corporate Intern - Digital and Analytics",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1737076171,
+    "date_posted": 1737076171,
+    "url": "https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Chicago-Illinois/XMLNAME-2025-Summer-Corporate-Intern---Digital-and-Analytics_R0000286417",
+    "locations": [
+      "Peoria, IL",
+      "Chicago, IL",
+      "Irving, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Caterpillar-Inc",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Glassdoor",
+    "id": "6bef3a98-d78a-48a5-8752-c8fe733c5850",
+    "title": "Android Mobile Software Engineer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1736310021,
+    "date_posted": 1736310021,
+    "url": "https://job-boards.greenhouse.io/glassdoor/jobs/7802196002",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/Glassdoor",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Glassdoor",
+    "id": "8ef7d4e3-50a9-46ff-b30e-5aa648911ad3",
+    "title": "Android Mobile Software Engineer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1736310021,
+    "date_posted": 1736310021,
+    "url": "https://job-boards.greenhouse.io/glassdoor/jobs/7802195002",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/Glassdoor",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
