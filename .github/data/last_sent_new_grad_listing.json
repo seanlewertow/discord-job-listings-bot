@@ -6928,5 +6928,21 @@
     "company_url": "https://simplify.jobs/c/GitHub",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Wiley Edge",
+    "id": "53e80ef6-908a-47c3-8b2a-7c0ea280fdf7",
+    "title": "D\u00e9veloppeur g\u00e9nie logiciel / Junior Software Developer",
+    "active": true,
+    "date_updated": 1737074156,
+    "date_posted": 1737074156,
+    "url": "https://job-boards.greenhouse.io/wileyedgerecruitingportal/jobs/4374391006",
+    "locations": [
+      "Montreal, QC, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/WileyEdge",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
