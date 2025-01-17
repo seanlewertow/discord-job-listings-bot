@@ -42993,5 +42993,24 @@
     "company_url": "https://simplify.jobs/c/Glassdoor",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Noah Medical",
+    "id": "8ac6ee5a-185d-4567-8c10-dd030e15a452",
+    "title": "Image Guidance Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1736195430,
+    "date_posted": 1736195430,
+    "url": "https://boards.greenhouse.io/noahmedical/jobs/4413344008",
+    "locations": [
+      "San Carlos, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/NoahMedical",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
