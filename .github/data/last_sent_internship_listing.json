@@ -43107,5 +43107,24 @@
     "company_url": "https://simplify.jobs/c/MotorolaSolutions",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Maven Securities",
+    "id": "f7b16dff-1646-4869-b3f1-a41c021ae7f0",
+    "title": "Trader Summer Internship",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1737116409,
+    "date_posted": 1737116409,
+    "url": "https://boards.greenhouse.io/mavensecuritiesholdingltd/jobs/6492551",
+    "locations": [
+      "London, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Maven-Securities",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
