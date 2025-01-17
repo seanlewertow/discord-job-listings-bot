@@ -43263,5 +43263,83 @@
     "company_url": "https://simplify.jobs/c/f22ab711-4900-472d-be8a-7263e99e49fa",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Columbia Sportswear Company",
+    "id": "6fc119b5-3f8b-422d-8656-0acba9ad16b7",
+    "title": "Software Integration Engineer Intern",
+    "active": true,
+    "terms": [
+      "Spring 2025",
+      "Summer 2025"
+    ],
+    "date_updated": 1737146835,
+    "date_posted": 1737146835,
+    "url": "https://columbiasportswearcompany.wd5.myworkdayjobs.com/en-US/CSC_Careers/job/Salem-Oregon-United-States-of-America/Software-Integration-Engineer-Intern_R-018161-2",
+    "locations": [
+      "Salem, OR"
+    ],
+    "company_url": "https://simplify.jobs/c/Columbia-Sportswear-Company",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Columbia Sportswear Company",
+    "id": "10b70fff-853c-4e58-8a0d-ec8370a3db50",
+    "title": "Analytics Engineer Intern",
+    "active": true,
+    "terms": [
+      "Spring 2025",
+      "Summer 2025"
+    ],
+    "date_updated": 1737146829,
+    "date_posted": 1737146829,
+    "url": "https://columbiasportswearcompany.wd5.myworkdayjobs.com/en-US/CSC_Careers/job/Portland-Oregon-United-States-of-America/Analytics-Engineer-Intern_R-018074-2",
+    "locations": [
+      "Portland, OR"
+    ],
+    "company_url": "https://simplify.jobs/c/Columbia-Sportswear-Company",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Cadence Design Systems",
+    "id": "92f81d03-735f-499f-8207-4a34a8b57eef",
+    "title": "Software Engineer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1737146580,
+    "date_posted": 1737146580,
+    "url": "https://cadence.wd1.myworkdayjobs.com/en-US/External_Careers/job/LONDON-01/Software-Engineer-Intern_R48773",
+    "locations": [
+      "London, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Cadence-Design-Systems",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Samsung",
+    "id": "06b64aa2-797d-40cd-947e-2f31a32367c6",
+    "title": "Intern \u2013 Machine Learning Research Scientist",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1737147143,
+    "date_posted": 1737147143,
+    "url": "https://job-boards.greenhouse.io/samsungsemiconductor/jobs/6330312003",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Samsung",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
