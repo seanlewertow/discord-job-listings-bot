@@ -43126,5 +43126,43 @@
     "company_url": "https://simplify.jobs/c/Maven-Securities",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Motorola",
+    "id": "71b845da-4942-4fbc-ae0f-801c6f46f003",
+    "title": "Software Engineering Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1737131168,
+    "date_posted": 1737131168,
+    "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Plantation-FL/Software-Engineering-Intern---Summer-2025_R53186",
+    "locations": [
+      "Plantation, FL"
+    ],
+    "company_url": "https://simplify.jobs/c/MotorolaSolutions",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Xylem",
+    "id": "00b9c514-73c8-4b1c-bf2f-9263d4bbd507",
+    "title": "Data Analytics Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1737130530,
+    "date_posted": 1737130530,
+    "url": "https://xylem.wd5.myworkdayjobs.com/en-US/xylem-careers/job/Irvine-California/Data-Analytics-Intern_R39652",
+    "locations": [
+      "Irvine, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Xylem",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
