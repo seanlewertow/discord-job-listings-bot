@@ -43183,5 +43183,45 @@
     "company_url": "https://simplify.jobs/c/Snowflake",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "F5",
+    "id": "33f735c0-ca74-45c6-b7f6-91fa151a072c",
+    "title": "Software Engineer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1737145438,
+    "date_posted": 1737145438,
+    "url": "https://ffive.wd5.myworkdayjobs.com/en-US/f5jobs/job/Seattle/Software-Engineer-Intern_RP1032497",
+    "locations": [
+      "Seattle, WA",
+      "San Jose, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/f5",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Findhelp, A Public Benefit Corporation",
+    "id": "624f447a-cf60-4dfc-a6d4-235d2b0ef817",
+    "title": "Software Engineer Summer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1737145071,
+    "date_posted": 1737145071,
+    "url": "https://jobs.lever.co/findhelp/c6ec52b7-3299-4424-82bc-d66613b35968/apply",
+    "locations": [
+      "Madison, WI",
+      "Austin, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Findhelp,-A-Public-Benefit-Corporation",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
