@@ -43457,5 +43457,24 @@
     "company_url": "https://simplify.jobs/c/fdd2447d-868e-41f4-af98-61f39ee35a33",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Mujin",
+    "id": "db8c11ae-edd2-4a17-952f-4d309ae62079",
+    "title": "Mujin \u2013 Internships",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1737167728,
+    "date_posted": 1737073664,
+    "url": "https://jobs.lever.co/mujininc/cced65be-e0b1-4e3e-a4d0-95e637621af4/apply",
+    "locations": [
+      "Suwanee, GA"
+    ],
+    "company_url": "https://simplify.jobs/c/Mujin",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
