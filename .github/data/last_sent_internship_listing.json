@@ -43476,5 +43476,43 @@
     "company_url": "https://simplify.jobs/c/Mujin",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "date_updated": 1737178445,
+    "url": "https://jobs.sap.com/job/Palo-Alto-SAP-iXp-Intern-Software-Developer-CA-94304/1161778401",
+    "company_name": "SAP",
+    "title": "SAP iXp Intern - Software Developer",
+    "locations": [
+      "Palo Alto, CA"
+    ],
+    "terms": [
+      "Summer 2025"
+    ],
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "source": "GaryZhous",
+    "id": "c5eaa214-b4b3-4baa-9687-1fc5db10fbaa",
+    "date_posted": 1737178445,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1737178542,
+    "url": "https://fa-epcb-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/3078",
+    "company_name": "Verint",
+    "title": "Intern, Software Engineer",
+    "locations": [
+      "Remote in USA"
+    ],
+    "terms": [
+      "Summer 2025"
+    ],
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "source": "GaryZhous",
+    "id": "0d0fc10f-bb06-4de7-80ed-3df8f1ff98a5",
+    "date_posted": 1737178542,
+    "company_url": "",
+    "is_visible": true
   }
 ]
