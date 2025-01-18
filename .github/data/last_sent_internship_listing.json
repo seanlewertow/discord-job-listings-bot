@@ -43438,5 +43438,24 @@
     "company_url": "https://simplify.jobs/c/Columbia-Sportswear-Company",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Keyfactor",
+    "id": "786e71ed-4e46-4088-8a91-bb4a5ff78604",
+    "title": "Software Engineer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1737146683,
+    "date_posted": 1737146683,
+    "url": "https://boards.greenhouse.io/keyfactorinc/jobs/5422616004",
+    "locations": [
+      "Cleveland, OH"
+    ],
+    "company_url": "https://simplify.jobs/c/fdd2447d-868e-41f4-af98-61f39ee35a33",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
