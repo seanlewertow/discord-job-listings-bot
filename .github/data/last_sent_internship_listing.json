@@ -43341,5 +43341,102 @@
     "company_url": "https://simplify.jobs/c/Samsung",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Kalderos",
+    "id": "21db45b1-5eb2-4cda-a45c-d6bdb971baf6",
+    "title": "Software Engineering Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1737159858,
+    "date_posted": 1737159858,
+    "url": "https://www.kalderos.com/company/job-board/?gh_jid=6331591003",
+    "locations": [
+      "Boston, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/Kalderos",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Columbia Sportswear Company",
+    "id": "8aac7d23-80c3-4e90-b20b-80b20a20b14e",
+    "title": "Software Engineer Intern",
+    "active": true,
+    "terms": [
+      "Spring 2025",
+      "Summer 2025"
+    ],
+    "date_updated": 1737159672,
+    "date_posted": 1737159672,
+    "url": "https://columbiasportswearcompany.wd5.myworkdayjobs.com/en-US/CSC_Careers/job/Portland-Oregon-United-States-of-America/Software-Engineer-Intern_R-018157",
+    "locations": [
+      "Portland, OR"
+    ],
+    "company_url": "https://simplify.jobs/c/Columbia-Sportswear-Company",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Kalderos",
+    "id": "b4c70937-8e73-4421-b1dd-ecfe1328f3e7",
+    "title": "Data Engineering Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1737159860,
+    "date_posted": 1737159860,
+    "url": "https://www.kalderos.com/company/job-board/?gh_jid=6331572003",
+    "locations": [
+      "Boston, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/Kalderos",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Kalderos",
+    "id": "508cfd43-c8b0-41be-8d73-bb0ac551122e",
+    "title": "Data Science & Analytics Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1737159861,
+    "date_posted": 1737159861,
+    "url": "https://www.kalderos.com/company/job-board/?gh_jid=6331603003",
+    "locations": [
+      "Boston, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/Kalderos",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Columbia Sportswear Company",
+    "id": "03fca9c3-93ff-4839-b73c-1b1df55f993d",
+    "title": "Software Engineer Intern - Platform Engineering",
+    "active": true,
+    "terms": [
+      "Spring 2025",
+      "Summer 2025"
+    ],
+    "date_updated": 1737159680,
+    "date_posted": 1737159680,
+    "url": "https://columbiasportswearcompany.wd5.myworkdayjobs.com/en-US/CSC_Careers/job/Portland-Oregon-United-States-of-America/Software-Engineer-Intern---Platform-Engineering_R-018084-2",
+    "locations": [
+      "Portland, OR"
+    ],
+    "company_url": "https://simplify.jobs/c/Columbia-Sportswear-Company",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
