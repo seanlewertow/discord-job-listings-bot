@@ -43533,5 +43533,25 @@
     "company_url": "https://simplify.jobs/c/MotorolaSolutions",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "USAA",
+    "id": "ec9eea75-1a1c-4af8-a32e-70768355fc9c",
+    "title": "Data and Analytics Intern",
+    "active": true,
+    "terms": [
+      "Spring 2025",
+      "Summer 2025"
+    ],
+    "date_updated": 1737361690,
+    "date_posted": 1737361690,
+    "url": "https://usaa.wd1.myworkdayjobs.com/en-US/USAAJOBSWD/job/San-Antonio-Home-Office-I/Data-and-Analytics-Intern_R0106479",
+    "locations": [
+      "San Antonio, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/664e9aa2-3c0e-4e96-9048-739e08b37a63",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
