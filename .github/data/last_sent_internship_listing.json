@@ -43860,5 +43860,62 @@
     "company_url": "https://simplify.jobs/c/Santander",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Chime",
+    "id": "04e68237-00bf-4f45-a904-68e115d7ed41",
+    "title": "Software Engineer Intern - Community",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1737492817,
+    "date_posted": 1737492817,
+    "url": "https://boards.greenhouse.io/chime/jobs/7744622002",
+    "locations": [
+      "SF"
+    ],
+    "company_url": "https://simplify.jobs/c/Chime",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Chime",
+    "id": "7d45b7a4-b577-4dc9-85ed-c90ecef12bad",
+    "title": "Software Engineer Intern - Autobots",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1737492810,
+    "date_posted": 1737492810,
+    "url": "https://boards.greenhouse.io/chime/jobs/7744620002",
+    "locations": [
+      "SF"
+    ],
+    "company_url": "https://simplify.jobs/c/Chime",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Chime",
+    "id": "60396cb2-0cea-4abe-9086-5de18b50a984",
+    "title": "Software Engineer Intern - Manage Money",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1737492809,
+    "date_posted": 1737492809,
+    "url": "https://boards.greenhouse.io/chime/jobs/7744614002",
+    "locations": [
+      "SF"
+    ],
+    "company_url": "https://simplify.jobs/c/Chime",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
