@@ -43668,5 +43668,43 @@
     "company_url": "https://simplify.jobs/c/United-Parcel-Service",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "iCapital Network",
+    "id": "c0e4bd5e-ee85-4019-b860-8aa1a3351c55",
+    "title": "Data Engineering Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1737477431,
+    "date_posted": 1737477431,
+    "url": "https://job-boards.greenhouse.io/icapitalnetwork/jobs/7753028002",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/iCapital-Network",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Otis",
+    "id": "fa177bd9-0ce7-4210-a734-c5ba95423068",
+    "title": "Software Engineering Co-Op",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1737477154,
+    "date_posted": 1737477154,
+    "url": "https://otis.wd5.myworkdayjobs.com/en-US/REC_Ext_Gateway/job/OT494-5FS---Farmington-CT-5-Farm-Springs-Farmington-CT-06032-USA/Software-Engineering-Co-Op_20121708",
+    "locations": [
+      "Farmington, CT"
+    ],
+    "company_url": "https://simplify.jobs/c/Otis",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
