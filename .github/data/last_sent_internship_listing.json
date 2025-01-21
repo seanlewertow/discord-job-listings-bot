@@ -43592,5 +43592,81 @@
     "company_url": "https://simplify.jobs/c/051f591a-22c2-4254-aec5-c3ee7c82b288",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Genworth Financial",
+    "id": "00a7ef37-d602-4c8e-b191-6d952892eece",
+    "title": "Risk Modeling Intern",
+    "active": true,
+    "terms": [
+      "Spring 2025"
+    ],
+    "date_updated": 1737476890,
+    "date_posted": 1737476890,
+    "url": "https://gnw.wd1.myworkdayjobs.com/GNW/job/Raleigh-North-Carolina/Risk-Modeling-Intern_REQ-240352-1",
+    "locations": [
+      "Raleigh, NC"
+    ],
+    "company_url": "https://simplify.jobs/c/Genworth-Financial",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Genworth Financial",
+    "id": "3cc574cb-bc4b-433d-a64a-724516f7ca0d",
+    "title": "Enterprise Data Management Office Intern",
+    "active": true,
+    "terms": [
+      "Spring 2025"
+    ],
+    "date_updated": 1737476870,
+    "date_posted": 1737476870,
+    "url": "https://gnw.wd1.myworkdayjobs.com/GNW/job/Raleigh-North-Carolina/Enterprise-Data-Management-Office-Intern_REQ-250014-1",
+    "locations": [
+      "Raleigh, NC"
+    ],
+    "company_url": "https://simplify.jobs/c/Genworth-Financial",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Genworth Financial",
+    "id": "28b0fce2-f234-4c0b-bf10-e966c2c66c08",
+    "title": "Data Analyst Intern",
+    "active": true,
+    "terms": [
+      "Spring 2025"
+    ],
+    "date_updated": 1737476871,
+    "date_posted": 1737476871,
+    "url": "https://gnw.wd1.myworkdayjobs.com/GNW/job/Raleigh-North-Carolina/Data-Analyst-Intern_REQ-250017-1",
+    "locations": [
+      "Raleigh, NC"
+    ],
+    "company_url": "https://simplify.jobs/c/Genworth-Financial",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "United Parcel Service (UPS)",
+    "id": "93ca3655-2b1a-4d8c-b247-5cd5557543ec",
+    "title": "UPS Technology Co-Op",
+    "active": true,
+    "terms": [
+      "Winter 2025"
+    ],
+    "date_updated": 1737476847,
+    "date_posted": 1737476847,
+    "url": "https://hcmportal.wd5.myworkdayjobs.com/en-US/Search/job/US---IS-MARYLAND-MDROA/UPS-Technology-Co-Op_R24045908",
+    "locations": [
+      "Towson, MD"
+    ],
+    "company_url": "https://simplify.jobs/c/United-Parcel-Service",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
