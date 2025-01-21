@@ -43783,5 +43783,44 @@
     "company_url": "https://simplify.jobs/c/Northwestern-Mutual",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Trimble",
+    "id": "2e58336a-4197-4f57-b37a-4271ca856c18",
+    "title": "Software Engineer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1737493997,
+    "date_posted": 1737493997,
+    "url": "https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/Canada---Kamloops-BC/Software-Engineer-Intern_R46860",
+    "locations": [
+      "Kamloops, BC, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Trimble",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Open Farm Pet",
+    "id": "9f879ffa-f07a-459a-815b-61a8d642fdd7",
+    "title": "Customer Experience \u2013 Systems and Analytics Intern",
+    "active": true,
+    "terms": [
+      "Spring 2025",
+      "Summer 2025"
+    ],
+    "date_updated": 1737493316,
+    "date_posted": 1737493316,
+    "url": "https://jobs.lever.co/OpenFarmInc/3ee9cb5b-bf05-4e36-a31e-3eeb8a77be52/apply",
+    "locations": [
+      "Toronto, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/OpenFarmPet",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
