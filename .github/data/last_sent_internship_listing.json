@@ -43822,5 +43822,24 @@
     "company_url": "https://simplify.jobs/c/OpenFarmPet",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "nVent",
+    "id": "ffb941c4-1071-447b-bd87-46b33eda7820",
+    "title": "Software Engineering Co-op",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1737492121,
+    "date_posted": 1737492121,
+    "url": "https://nvent.wd5.myworkdayjobs.com/en-US/nVent/job/Solon-OH-US/Software-Engineering-Co-op--January---August-2025_R15493",
+    "locations": [
+      "Solon, OH"
+    ],
+    "company_url": "https://simplify.jobs/c/bfdacd80-1593-4655-8b3a-da62394b5fff",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
