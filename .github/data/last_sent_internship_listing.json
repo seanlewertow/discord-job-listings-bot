@@ -43917,5 +43917,24 @@
     "company_url": "https://simplify.jobs/c/Chime",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Chime",
+    "id": "985ee64f-8b23-466f-b4a6-ef71cb227a19",
+    "title": "Software Engineer Intern - Spend & Credit Progress - Summer 2025",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1737492824,
+    "date_posted": 1737492824,
+    "url": "https://boards.greenhouse.io/chime/jobs/7744612002",
+    "locations": [
+      "SF"
+    ],
+    "company_url": "https://simplify.jobs/c/Chime",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
