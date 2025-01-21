@@ -43725,5 +43725,43 @@
     "company_url": "https://simplify.jobs/c/ad82fc6f-2c63-4173-8dcd-2209d5a97368",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Uber",
+    "id": "7a928bb7-5ded-4f33-a77f-b73640939ef6",
+    "title": "Software Engineering Internship - Computing Talent Initiative - Cti",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1737490713,
+    "date_posted": 1737490713,
+    "url": "https://university-uber.icims.com/jobs/139088/job",
+    "locations": [
+      "SF"
+    ],
+    "company_url": "https://simplify.jobs/c/Uber",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "MKS Instruments",
+    "id": "2b9f96b8-efd6-4f4a-b39e-6cd8b68d69e4",
+    "title": "Software Engineer Intern \u2013 Undergraduate intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1737490566,
+    "date_posted": 1737490566,
+    "url": "https://mksinst.wd1.myworkdayjobs.com/en-US/MKSCareersUniversity/job/UK-Crewe/Software-Engineer-Intern--undergraduate-intern-_R11693",
+    "locations": [
+      "Northwich, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/07d9f7f0-9f1a-4ecb-9346-f3ac39d905f2",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
