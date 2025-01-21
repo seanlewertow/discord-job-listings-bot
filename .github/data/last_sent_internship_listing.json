@@ -43706,5 +43706,24 @@
     "company_url": "https://simplify.jobs/c/Otis",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Cyberark",
+    "id": "de45e30b-d04c-48e4-8280-867438c7d45f",
+    "title": "Software Engineer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1737490491,
+    "date_posted": 1737490491,
+    "url": "https://jobs.smartrecruiters.com/Cyberark1/744000037895565",
+    "locations": [
+      "Palo Alto, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/ad82fc6f-2c63-4173-8dcd-2209d5a97368",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
