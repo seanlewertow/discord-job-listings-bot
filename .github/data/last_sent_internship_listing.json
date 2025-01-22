@@ -44110,5 +44110,63 @@
     "company_url": "https://simplify.jobs/c/FlagshipPioneering",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "State Street",
+    "id": "55a1c6a5-80f9-4b5e-81b4-42d16d829ce8",
+    "title": "Summer Internship - Alpha Data Services - Techops Analyst",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1737563346,
+    "date_posted": 1737563346,
+    "url": "https://statestreet.wd1.myworkdayjobs.com/en-US/Global/job/Boston-Massachusetts/Summer-Internship---Alpha-Data-Services---TechOPS-Analyst_R-766566",
+    "locations": [
+      "Boston, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/d1ef45b2-fd52-4e9d-9d7d-dc3d5386744f",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Jones Lang LaSalle (JLL)",
+    "id": "2517862e-e0d1-4410-bd62-51321e41f825",
+    "title": "Data Engineering Summer 2025 Internship",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1737563337,
+    "date_posted": 1737563337,
+    "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Chicago-IL/Data-Engineering-Summer-2025-Internship---Westmont--IL_REQ406386-1",
+    "locations": [
+      "Chicago, IL",
+      "Downers Grove, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/Jones-Lang-LaSalle",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Parsons",
+    "id": "abce32a3-b4c2-409a-b2b8-597fb6cfc7ae",
+    "title": "Software Engineer Intern Summer 2025",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1737563109,
+    "date_posted": 1737563109,
+    "url": "https://parsons.wd5.myworkdayjobs.com/en-US/search/job/US---NJ-Tinton-Falls/Software-Engineer-Intern-Summer-2025_R163036",
+    "locations": [
+      "Shrewsbury, NJ"
+    ],
+    "company_url": "https://simplify.jobs/c/Parsons",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
