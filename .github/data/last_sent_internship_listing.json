@@ -44263,5 +44263,64 @@
     "company_url": "https://simplify.jobs/c/Rivian",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Caterpillar Inc.",
+    "id": "4a3250ec-66de-479d-919b-8a37a5065236",
+    "title": "Software Designer Intern / Stagiaire en conception de logiciels",
+    "active": true,
+    "terms": [
+      "Spring 2025",
+      "Summer 2025"
+    ],
+    "date_updated": 1737579015,
+    "date_posted": 1737579015,
+    "url": "https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Laval-Quebec/Software-Designer-Intern---Stagiaire-en-conception-de-logiciels_R0000289052",
+    "locations": [
+      "Laval, QC, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Caterpillar-Inc",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Typeface",
+    "id": "8eb9086f-ad10-4377-be69-c9d7ede97b4c",
+    "title": "Intern-Software Engineer",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1737578858,
+    "date_posted": 1737578858,
+    "url": "https://boards.greenhouse.io/typeface/jobs/4630685007",
+    "locations": [
+      "Palo Alto, CA",
+      "Seattle, WA"
+    ],
+    "company_url": "https://simplify.jobs/c/314293b0-25e4-4483-8bae-bf63c8ea23ec",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Spotify",
+    "id": "0b17e6f3-cbd5-4d22-b0dc-0a32f741a1eb",
+    "title": "2025 Summer Internship - Product & Technology",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1737579297,
+    "date_posted": 1737579297,
+    "url": "https://jobs.lever.co/spotify/13601176-f41a-4782-9935-70e9b1d36bd7/apply",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Spotify",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
