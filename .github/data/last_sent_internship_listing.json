@@ -44168,5 +44168,24 @@
     "company_url": "https://simplify.jobs/c/Parsons",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Jones Lang LaSalle (JLL)",
+    "id": "ffaafaff-2378-40d6-87fb-fe0dfdd0b26b",
+    "title": "Capital Markets Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1737583327,
+    "date_posted": 1737583327,
+    "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Edmonton-AB/Capital-Markets-Intern_REQ406886",
+    "locations": [
+      "Edmonton, AB, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Jones-Lang-LaSalle",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
