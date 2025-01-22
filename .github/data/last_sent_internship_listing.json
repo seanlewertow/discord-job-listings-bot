@@ -44322,5 +44322,24 @@
     "company_url": "https://simplify.jobs/c/Spotify",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Spotify",
+    "id": "7727ff61-3138-448e-997c-50dc89a8c7c8",
+    "title": "2025 Summer Internship - Product & Technology",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1737579280,
+    "date_posted": 1737579280,
+    "url": "https://jobs.lever.co/spotify/143369e1-2516-4d66-a1f4-14625d042c14/apply",
+    "locations": [
+      "London, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Spotify",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
