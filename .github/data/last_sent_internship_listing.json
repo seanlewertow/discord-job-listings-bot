@@ -44051,5 +44051,26 @@
     "company_url": "https://simplify.jobs/c/SoFi",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Gemini",
+    "id": "653e2966-4ec7-41d8-8f27-c472027b4c6c",
+    "title": "Software Engineering Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1737519588,
+    "date_posted": 1737519588,
+    "url": "https://boards.greenhouse.io/embed/job_app?for=gemini&token=6551575&gh_jid=6551575",
+    "locations": [
+      "Seattle, WA",
+      "Remote in USA",
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Gemini",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
