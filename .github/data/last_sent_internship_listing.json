@@ -44187,5 +44187,81 @@
     "company_url": "https://simplify.jobs/c/Jones-Lang-LaSalle",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Autodesk",
+    "id": "5755b59d-20c9-4a7f-a11c-a518f12e0653",
+    "title": "Intern \u2013 Software Engineer - Javascript",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1737578203,
+    "date_posted": 1737578203,
+    "url": "https://autodesk.wd1.myworkdayjobs.com/en-US/uni/job/Sheffield-GBP/Intern--Software-Engineer--Javascript----12-months_25WD85138-1",
+    "locations": [
+      "Sheffield, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/9a5a4634-d168-4118-b172-0c0aae45f2ad",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Autodesk",
+    "id": "dd47e16c-56f5-447c-95d9-e2184ba7f381",
+    "title": "Intern \u2013 Software Engineer - C++/.Net",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1737578200,
+    "date_posted": 1737578200,
+    "url": "https://autodesk.wd1.myworkdayjobs.com/en-US/uni/job/Sheffield-GBP/Intern--Software-Engineer--C---NET----12-months_25WD85139",
+    "locations": [
+      "Sheffield, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/9a5a4634-d168-4118-b172-0c0aae45f2ad",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "J.B. Hunt Transport Services",
+    "id": "ce6d8cd2-a968-4d6b-8fd8-a945bc5d946b",
+    "title": "Engineering & Technology Intern: Application Development",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1737577719,
+    "date_posted": 1737577719,
+    "url": "https://jbhunt.wd5.myworkdayjobs.com/Careers/job/Lowell-AR---JB-Hunt-Corporate-B--C/Engineering---Technology-Intern--Application-Development-Summer-2025_00560796",
+    "locations": [
+      "Rogers, AR"
+    ],
+    "company_url": "https://simplify.jobs/c/JB-Hunt-Transport-Services",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Rivian",
+    "id": "38c2d4b9-87a0-41e6-8804-555653f31c7b",
+    "title": "Software Engineering Intern - Cybersecurity",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1737578853,
+    "date_posted": 1737578853,
+    "url": "https://careers.rivian.com/jobs/20842?lang=en-us&icims=1",
+    "locations": [
+      "Palo Alto, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Rivian",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
