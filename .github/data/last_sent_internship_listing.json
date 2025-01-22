@@ -43936,5 +43936,100 @@
     "company_url": "https://simplify.jobs/c/Chime",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Databricks",
+    "id": "2829bab0-5c01-453f-9a0f-cb42f578da2a",
+    "title": "IT Software Engineering Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1737505535,
+    "date_posted": 1737505535,
+    "url": "https://boards.greenhouse.io/embed/job_app?token=7785430002",
+    "locations": [
+      "Mountain View, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Databricks",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "GOBankingRates",
+    "id": "5b9967f0-9a16-47f9-85cb-be64dbb66fdf",
+    "title": "People Analytics Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1737505256,
+    "date_posted": 1737505256,
+    "url": "https://www.gobankingrates.com/careers-job-opening/?gh_jid=4519320005",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/8855cc48-d789-4640-94fc-02e12bf158ac",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Woven",
+    "id": "b8b95bd5-7381-4f88-a716-fd33253220c4",
+    "title": "Software Engineering Intern - Network Performance Measurement - Validation Platform",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1737505018,
+    "date_posted": 1737505018,
+    "url": "https://jobs.lever.co/woven-by-toyota/c7fdc596-322e-4968-9392-18af65b82996/apply",
+    "locations": [
+      "Ann Arbor, MI"
+    ],
+    "company_url": "https://simplify.jobs/c/Woven-Planet",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Woven",
+    "id": "1dcdecca-c4cc-4b76-8036-e96ca0a8b644",
+    "title": "Software Engineering Intern - Quality Assurance - Validation Platform",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1737505032,
+    "date_posted": 1737505032,
+    "url": "https://jobs.lever.co/woven-by-toyota/0ada1f7b-0dee-4468-a517-228165f45130/apply",
+    "locations": [
+      "Ann Arbor, MI"
+    ],
+    "company_url": "https://simplify.jobs/c/Woven-Planet",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "The Allen Institute for AI",
+    "id": "fc2b5ce3-12af-4f4f-8ffc-4ce683ee6fae",
+    "title": "Artificial Intelligence Internship - Skylight Team",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1737504985,
+    "date_posted": 1737504985,
+    "url": "https://job-boards.greenhouse.io/thealleninstitute/jobs/6557152",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "company_url": "https://simplify.jobs/c/allenai",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
