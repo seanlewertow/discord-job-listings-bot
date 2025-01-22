@@ -44031,5 +44031,25 @@
     "company_url": "https://simplify.jobs/c/allenai",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "SoFi",
+    "id": "2c5f6072-b81b-4a25-abc7-fdb3fe078861",
+    "title": "Intern \u2013 Software Engineer",
+    "active": true,
+    "terms": [
+      "Summer 2025",
+      "Fall 2025"
+    ],
+    "date_updated": 1737519265,
+    "date_posted": 1737519265,
+    "url": "https://www.sofi.com/careers/sofi-university/6328551003?gh_jid=6328551003",
+    "locations": [
+      "SF"
+    ],
+    "company_url": "https://simplify.jobs/c/SoFi",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
