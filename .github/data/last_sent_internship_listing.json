@@ -44091,5 +44091,24 @@
     "company_url": "https://simplify.jobs/c/Mastercard",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Flagship Pioneering",
+    "id": "4e8e3d9a-7c04-4486-a660-db593599d600",
+    "title": "Computational Biology and Machine Learning Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1737562491,
+    "date_posted": 1737562491,
+    "url": "https://boards.greenhouse.io/flagshippioneeringinc/jobs/7817937002",
+    "locations": [
+      "Cambridge, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/FlagshipPioneering",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
