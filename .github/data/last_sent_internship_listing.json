@@ -44836,5 +44836,81 @@
     "company_url": "https://simplify.jobs/c/Verizon-Communications",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Verizon Communications",
+    "id": "c9b34685-62c9-4e5c-9c67-ee285e192537",
+    "title": "Thrive Apprentice - Software Engineering - Software Developer",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1737665280,
+    "date_posted": 1737665280,
+    "url": "https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Irving-Texas/Thrive-Apprentice---Software-Engineering---Software-Developer_R-1062809",
+    "locations": [
+      "Irving, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Verizon-Communications",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Verizon Communications",
+    "id": "326ce580-db2e-4208-9c91-1992728194de",
+    "title": "Thrive Apprentice - Software Engineering - Software Developer",
+    "active": true,
+    "terms": [
+      "Spring 2025"
+    ],
+    "date_updated": 1737665278,
+    "date_posted": 1737665278,
+    "url": "https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Irving-Texas/Thrive-Apprentice---Software-Engineering---Software-Developer_R-1062813",
+    "locations": [
+      "Irving, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Verizon-Communications",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Motorola",
+    "id": "6ee5a525-3983-4758-8373-73a6fbefd6be",
+    "title": "Software Developer \u2013 Co-Op",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1737665489,
+    "date_posted": 1737665489,
+    "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Vancouver-Canada/Software-Developer--Co-Op_R53333",
+    "locations": [
+      "Vancouver, BC, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/MotorolaSolutions",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Verizon Communications",
+    "id": "11990484-c88b-45db-a43c-11cf8bf8daea",
+    "title": "Thrive Apprentice - Software Engineering - Software Developer",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1737665278,
+    "date_posted": 1737665278,
+    "url": "https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Irving-Texas/Thrive-Apprentice---Software-Engineering---Software-Developer_R-1062804",
+    "locations": [
+      "Irving, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Verizon-Communications",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
