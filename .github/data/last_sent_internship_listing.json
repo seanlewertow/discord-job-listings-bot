@@ -44607,5 +44607,43 @@
     "company_url": "https://simplify.jobs/c/Fresenius",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Verizon Communications",
+    "id": "3f0d24be-5315-44af-a88f-c2eebe33b482",
+    "title": "Thrive Apprentice - Data Analytics - Data Engineering",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1737649592,
+    "date_posted": 1737649592,
+    "url": "https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Temple-Terrace-Florida/Thrive-Apprentice---Data-Analytics---Data-Engineering_R-1062847",
+    "locations": [
+      "E Fowler Ave, Tampa, FL"
+    ],
+    "company_url": "https://simplify.jobs/c/Verizon-Communications",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Verizon Communications",
+    "id": "51f34c5e-35b1-427d-8838-07ff90ee8391",
+    "title": "Thrive Apprentice - Data Analytics - Data Engineering",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1737649593,
+    "date_posted": 1737649593,
+    "url": "https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Ashburn-Virginia/Thrive-Apprentice---Data-Analytics---Data-Engineering_R-1062851",
+    "locations": [
+      "Ashburn, VA"
+    ],
+    "company_url": "https://simplify.jobs/c/Verizon-Communications",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
