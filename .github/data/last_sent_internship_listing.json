@@ -44931,5 +44931,43 @@
     "company_url": "https://simplify.jobs/c/Verizon-Communications",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Leidos",
+    "id": "eb8d3e6c-3293-4e57-bf66-1e9cb4171cb2",
+    "title": "Database Management Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1737664918,
+    "date_posted": 1737664918,
+    "url": "https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Database-Management-Intern_R-00151940",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/Leidos",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Fifth Third Bank",
+    "id": "80be3493-016f-4df9-87f8-0dca846ee01a",
+    "title": "Enterprise Data Office College Co-op",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1737665044,
+    "date_posted": 1737665044,
+    "url": "https://fifththird.wd5.myworkdayjobs.com/en-US/53careers/job/Cincinnati-OH/Enterprise-Data-Office-College-Co-op---Fall-2025---Cincinnati_R55947",
+    "locations": [
+      "Cincinnati, OH"
+    ],
+    "company_url": "https://simplify.jobs/c/Fifth-Third-Bank",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
