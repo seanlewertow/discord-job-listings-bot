@@ -44500,5 +44500,24 @@
     "date_posted": 1737611060,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Analog Devices",
+    "id": "cc88bb9b-ef67-4b7d-8847-4e1bf52d122c",
+    "title": "Product Engineer Intern",
+    "active": true,
+    "terms": [
+      "Spring 2025"
+    ],
+    "date_updated": 1737620255,
+    "date_posted": 1737620255,
+    "url": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/Product-Engineer-Intern_R250277",
+    "locations": [
+      "Burlington, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/Analog-Devices",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
