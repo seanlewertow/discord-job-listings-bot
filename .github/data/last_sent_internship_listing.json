@@ -44436,5 +44436,31 @@
     "company_url": "https://simplify.jobs/c/dc2cf0d7-af5f-4a5c-9c42-8fa0bd0ae04d",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Amazon",
+    "id": "689c7e4e-5638-47b7-8ae6-1d44340da837",
+    "title": "Software Development Engineer Intern - Computer Science",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1737605927,
+    "date_posted": 1737605927,
+    "url": "https://amazon.jobs/en/jobs/2880032/software-development-engineer-intern-computer-science",
+    "locations": [
+      "Palo Alto, CA",
+      "Boston, MA",
+      "Seattle, WA",
+      "Austin, TX",
+      "Redmond, WA",
+      "NYC",
+      "Denver, CO",
+      "Atlanta, GA"
+    ],
+    "company_url": "https://simplify.jobs/c/Amazon",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
