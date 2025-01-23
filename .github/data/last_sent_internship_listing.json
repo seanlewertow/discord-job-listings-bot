@@ -44519,5 +44519,93 @@
     "company_url": "https://simplify.jobs/c/Analog-Devices",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Medtronic",
+    "id": "950c1680-2ae5-47ce-bcff-95c0f0fa1086",
+    "title": "Software Engineering Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1737649783,
+    "date_posted": 1737649783,
+    "url": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Minneapolis-Minnesota-United-States-of-America/Software-Engineering-Intern---Summer-2025-THIS-POST-IS-INTENDED-FOR-HIRED-CANDIDATES_R19201-1",
+    "locations": [
+      "Northridge, LA",
+      "Blaine, MN",
+      "Brooklyn Park, MN",
+      "Lafayette, CO",
+      "Minneapolis, MN",
+      "Jacksonville, FL",
+      "Boulder, CO"
+    ],
+    "company_url": "https://simplify.jobs/c/Medtronic",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Verizon Communications",
+    "id": "af4bc33b-c95c-41b8-9c09-a969244999ef",
+    "title": "Thrive Apprentice - Data Analytics - Data Scientist",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1737649599,
+    "date_posted": 1737649599,
+    "url": "https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Basking-Ridge-New-Jersey/Thrive-Apprentice---Data-Analytics---Data-Scientist_R-1062843",
+    "locations": [
+      "Boston, MA",
+      "Lone Tree, CO",
+      "E Fowler Ave, Tampa, FL",
+      "Berkeley Heights, NJ",
+      "Ashburn, VA",
+      "Alpharetta, GA",
+      "Irving, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Verizon-Communications",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "S&P Global ",
+    "id": "65213bfa-1051-48de-91a7-d5d296015fe6",
+    "title": "Software Engineer Intern - Analytical Engineering - Early Careers",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1737649295,
+    "date_posted": 1737649295,
+    "url": "https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Careers/job/New-York-NY/Software-Engineer-Intern---Analytical-Engineering--Early-Careers-_311744-1",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/SP-Global",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Fresenius Medical Care",
+    "id": "1825d3ce-8f72-4063-b734-d9636f43d800",
+    "title": "R&D Student Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1737649142,
+    "date_posted": 1737649142,
+    "url": "https://freseniusmedicalcare.wd3.myworkdayjobs.com/fme/job/Lawrence-MA-USA/R-D-Student-Intern_R0190051",
+    "locations": [
+      "Andover, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/Fresenius",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
