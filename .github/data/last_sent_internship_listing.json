@@ -44341,5 +44341,100 @@
     "company_url": "https://simplify.jobs/c/Spotify",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Parsons",
+    "id": "61a31054-37fe-4566-b711-38c1a7a9d061",
+    "title": "Software & Systems Engineer",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1737592088,
+    "date_posted": 1737592088,
+    "url": "https://parsons.wd5.myworkdayjobs.com/en-US/search/job/US---VA-Centreville/Software---Systems-Engineer---Summer-2025-Intern_R161120",
+    "locations": [
+      "Centreville, VA"
+    ],
+    "company_url": "https://simplify.jobs/c/Parsons",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Samsung",
+    "id": "26789dec-d063-4ec2-9750-d7dcb9f6bcd6",
+    "title": "Intern \u2013 System Software Engineer - CXL",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1737591967,
+    "date_posted": 1737591967,
+    "url": "https://job-boards.greenhouse.io/samsungsemiconductor/jobs/6335484003",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Samsung",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Samsung",
+    "id": "6e5e9ca5-a0d6-4c99-ab8e-4ba0c1b2b624",
+    "title": "Intern \u2013 System Software Engineer",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1737591983,
+    "date_posted": 1737591983,
+    "url": "https://job-boards.greenhouse.io/samsungsemiconductor/jobs/6321162003",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Samsung",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Marvell",
+    "id": "e23f1293-57f7-4f08-b2e2-c0ddbe134e80",
+    "title": "Comprehensive Simulator Framework Developer Intern - Bachelors",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1737591820,
+    "date_posted": 1737591820,
+    "url": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers2/job/Santa-Clara-CA/Comprehensive-Simulator-Framework-Developer-Intern--Bachelors-_2500104",
+    "locations": [
+      "Santa Clara, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/80961b05-9ed3-462d-aef9-4b418c7fb796",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Insulet Corporation",
+    "id": "99685694-ee52-4e6f-8412-6e1278f266da",
+    "title": "Intern \u2013 R&D Engineering Operations: June",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1737591482,
+    "date_posted": 1737591482,
+    "url": "https://insulet.wd5.myworkdayjobs.com/en-US/insuletcareers/job/San-Diego-California/Intern--R-D-Engineering-Operations--June---August-2025--On-site-_REQ-2025-0001",
+    "locations": [
+      "San Diego, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/dc2cf0d7-af5f-4a5c-9c42-8fa0bd0ae04d",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
