@@ -44462,5 +44462,24 @@
     "company_url": "https://simplify.jobs/c/Amazon",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "date_updated": 1737610367,
+    "url": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=10757",
+    "company_name": "IBM",
+    "title": "Software Developer (May 2025 4-16 months)",
+    "locations": [
+      "Markham, Ontario, Canada"
+    ],
+    "terms": [
+      "Summer 2025"
+    ],
+    "sponsorship": "Does Not Offer Sponsorship",
+    "active": true,
+    "source": "GaryZhous",
+    "id": "a4bb7044-a70d-40a5-accf-bca4d7608477",
+    "date_posted": 1737610367,
+    "company_url": "",
+    "is_visible": true
   }
 ]
