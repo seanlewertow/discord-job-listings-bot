@@ -44740,5 +44740,63 @@
     "company_url": "https://simplify.jobs/c/SP-Global",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Verizon Communications",
+    "id": "fd16392c-1ee2-47d6-8350-4aefb415f7fd",
+    "title": "Thrive Apprentice - Data Analytics - Data Scientist",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1737649601,
+    "date_posted": 1737649601,
+    "url": "https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Basking-Ridge-New-Jersey/Thrive-Apprentice---Data-Analytics---Data-Scientist_R-1062731",
+    "locations": [
+      "Berkeley Heights, NJ",
+      "Alpharetta, GA"
+    ],
+    "company_url": "https://simplify.jobs/c/Verizon-Communications",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "SharkNinja",
+    "id": "a4a4c236-6865-4897-9c17-5aa1c3c95156",
+    "title": "Mobile App Developer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1737649039,
+    "date_posted": 1737649039,
+    "url": "https://www.sharkninja.com/careers/?gh_jid=4436966006",
+    "locations": [
+      "Needham, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/SharkNinja",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Verizon Communications",
+    "id": "1aa08be4-9afa-4c19-aac3-a3ef7af98cb1",
+    "title": "Thrive Apprentice - Data Analytics - Business Analyst",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1737649597,
+    "date_posted": 1737649597,
+    "url": "https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Temple-Terrace-Florida/Thrive-Apprentice---Data-Analytics---Business-Analyst_R-1062766",
+    "locations": [
+      "E Fowler Ave, Tampa, FL"
+    ],
+    "company_url": "https://simplify.jobs/c/Verizon-Communications",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
