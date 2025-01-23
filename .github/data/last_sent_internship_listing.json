@@ -44645,5 +44645,100 @@
     "company_url": "https://simplify.jobs/c/Verizon-Communications",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "S&P Global ",
+    "id": "fada20ea-93db-44da-b7a9-e3d36778cf8d",
+    "title": "Software Development Intern - Early Careers",
+    "active": true,
+    "terms": [
+      "Spring 2026"
+    ],
+    "date_updated": 1737649290,
+    "date_posted": 1737649290,
+    "url": "https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Careers/job/New-York-NY/Software-Development-Intern--Early-Careers-_311745",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/SP-Global",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Apple",
+    "id": "263556bb-ea46-4f22-8d0b-63f227a687fe",
+    "title": "Internship - GPU Driver Engineer",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1737649831,
+    "date_posted": 1737649831,
+    "url": "https://jobs.apple.com/en-us/details/200588034",
+    "locations": [
+      "London, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Apple",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Verizon Communications",
+    "id": "3ed3edc9-4ee2-4147-888c-83ed602e02da",
+    "title": "Thrive Apprentice - Software Engineering - Tech Project Management",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1737649595,
+    "date_posted": 1737649595,
+    "url": "https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Temple-Terrace-Florida/Thrive-Apprentice---Software-Engineering---Tech-Project-Management_R-1062800",
+    "locations": [
+      "E Fowler Ave, Tampa, FL"
+    ],
+    "company_url": "https://simplify.jobs/c/Verizon-Communications",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Verizon Communications",
+    "id": "923d2e20-c37c-4d5b-9ad6-5bafcbb90982",
+    "title": "Thrive Apprentice - Data Analytics - Data Scientist",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1737649600,
+    "date_posted": 1737649600,
+    "url": "https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Ashburn-Virginia/Thrive-Apprentice---Data-Analytics---Data-Scientist_R-1062764",
+    "locations": [
+      "Ashburn, VA"
+    ],
+    "company_url": "https://simplify.jobs/c/Verizon-Communications",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "S&P Global ",
+    "id": "932bfb9a-5c76-41a9-969a-f64c233b7a48",
+    "title": "Software Engineer Intern - Data Services - Early Careers",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1737649311,
+    "date_posted": 1737649311,
+    "url": "https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Careers/job/New-York-NY/Software-Engineer-Intern---Data-Services--Early-Careers-_311743-2",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/SP-Global",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
