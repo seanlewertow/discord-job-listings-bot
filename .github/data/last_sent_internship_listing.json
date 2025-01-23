@@ -44481,5 +44481,24 @@
     "date_posted": 1737610367,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "date_updated": 1737611170,
+    "url": "https://jobs.hasbro.com/job/Renton-Intern-Software-Development-Engineer-%28Summer-2025%29-Wash-98055/1251145300/?from=email&refid=24859081200",
+    "company_name": "Wizards of the Coast",
+    "title": "Intern - Software Development Engineer",
+    "locations": [
+      "Renton, WA"
+    ],
+    "terms": [
+      "Summer 2025"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "source": "suspiciouslyBee",
+    "id": "d5aa759b-1761-46a7-924c-855322fe8e5c",
+    "date_posted": 1737611060,
+    "company_url": "",
+    "is_visible": true
   }
 ]
