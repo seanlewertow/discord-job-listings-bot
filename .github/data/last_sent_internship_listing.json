@@ -44817,5 +44817,24 @@
     "company_url": "https://simplify.jobs/c/Zoetis",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Verizon Communications",
+    "id": "64b63835-b0f1-4d1d-bfb0-c9b70c41119d",
+    "title": "Thrive Apprentice - Software Engineering - Software Development",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1737665277,
+    "date_posted": 1737665277,
+    "url": "https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Irving-Texas/Thrive-Apprentice---Software-Engineering---Software-Development_R-1062817",
+    "locations": [
+      "Irving, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Verizon-Communications",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
