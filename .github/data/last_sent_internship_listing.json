@@ -44798,5 +44798,24 @@
     "company_url": "https://simplify.jobs/c/Verizon-Communications",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Zoetis",
+    "id": "147263c7-687c-44f7-8852-900ed9b3b049",
+    "title": "4-Hana Supply Chain Analytics Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1737663878,
+    "date_posted": 1737663878,
+    "url": "https://zoetis.wd5.myworkdayjobs.com/zoetis/job/Kalamazoo---Downtown-Portage-Street/XMLNAME-4-Hana-Supply-Chain-Analytics-Intern_JR00017226-2",
+    "locations": [
+      "Kalamazoo, MI"
+    ],
+    "company_url": "https://simplify.jobs/c/Zoetis",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
