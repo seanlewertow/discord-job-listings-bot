@@ -45165,5 +45165,30 @@
     "company_url": "https://simplify.jobs/c/ICEMarkets",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Genesys",
+    "id": "e8ba030b-f942-4923-a3fb-8bf494fb1b7e",
+    "title": "Software Engineer Intern-Analytics",
+    "active": true,
+    "terms": [
+      "Spring 2025"
+    ],
+    "date_updated": 1737751097,
+    "date_posted": 1737751097,
+    "url": "https://genesys.wd1.myworkdayjobs.com/en-US/Genesys/job/North-Carolina-USA/Software-Engineer-Intern--Analytics_JR105628",
+    "locations": [
+      "Indianapolis, IN",
+      "California",
+      "Durham, NC",
+      "Utah",
+      "Massachusetts",
+      "North Carolina",
+      "Indiana"
+    ],
+    "company_url": "https://simplify.jobs/c/a073f454-6408-44aa-87cc-070e67702447",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
