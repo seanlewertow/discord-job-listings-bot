@@ -45108,5 +45108,62 @@
     "company_url": "https://simplify.jobs/c/UltimaGenomics",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Rivian",
+    "id": "09f42198-93e7-43aa-8300-0630bcc864c7",
+    "title": "Software Engineering Intern - Autonomy - Perception",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1737736680,
+    "date_posted": 1737736680,
+    "url": "https://careers.rivian.com/jobs/21325?lang=en-us&icims=1",
+    "locations": [
+      "Palo Alto, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Rivian",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "MongoDB",
+    "id": "a27108f0-e64a-4ae2-98a5-4b7adfed3142",
+    "title": "Software Engineer Intern - Wics Summit",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1737736582,
+    "date_posted": 1737736582,
+    "url": "https://www.mongodb.com/careers/job/?gh_jid=6539651",
+    "locations": [
+      "Remote in UK"
+    ],
+    "company_url": "https://simplify.jobs/c/MongoDB",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Intercontinental Exchange",
+    "id": "b69180e0-6909-409a-a694-897bad451960",
+    "title": "Mobile Development Intern - Software Engineer",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1737736325,
+    "date_posted": 1737736325,
+    "url": "https://careers-ice.icims.com/jobs/9273/job",
+    "locations": [
+      "Atlanta, GA"
+    ],
+    "company_url": "https://simplify.jobs/c/ICEMarkets",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
