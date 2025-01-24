@@ -45070,5 +45070,43 @@
     "company_url": "https://simplify.jobs/c/Amazon",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Workiva",
+    "id": "44cef455-9732-4db3-9e68-5c137a05fa01",
+    "title": "2025 Summer Intern - Software Engineering",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1737706929,
+    "date_posted": 1737706929,
+    "url": "https://workiva.wd1.myworkdayjobs.com/careers/job/USA---Remote/XMLNAME-2025-Summer-Intern---Software-Engineering_R9770",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/Workiva",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Ultima Genomics",
+    "id": "da9249cd-2f22-4b37-8383-884a5aceb7e9",
+    "title": "System Analytics Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1737706658,
+    "date_posted": 1737706658,
+    "url": "https://boards.greenhouse.io/ultimagenomics/jobs/5427035004",
+    "locations": [
+      "Fremont, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/UltimaGenomics",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
