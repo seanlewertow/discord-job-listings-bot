@@ -44969,5 +44969,106 @@
     "company_url": "https://simplify.jobs/c/Fifth-Third-Bank",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Verizon Communications",
+    "id": "f52fbc52-ea71-48d4-97c0-498c94988912",
+    "title": "Thrive Apprentice - Data Analytics - Data Engineering",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1737678349,
+    "date_posted": 1737678349,
+    "url": "https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Temple-Terrace-Florida/Thrive-Apprentice---Data-Analytics---Data-Engineering_R-1062858",
+    "locations": [
+      "E Fowler Ave, Tampa, FL",
+      "Berkeley Heights, NJ",
+      "Ashburn, VA",
+      "Alpharetta, GA",
+      "Irving, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Verizon-Communications",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Leidos",
+    "id": "a36a715f-0c5c-46ef-b72f-4dc5270f7b2d",
+    "title": "AI / ML Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1737678273,
+    "date_posted": 1737678273,
+    "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Reston-VA/AI---ML-Intern_R-00151889",
+    "locations": [
+      "Reston, VA"
+    ],
+    "company_url": "https://simplify.jobs/c/Leidos",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Cohesity",
+    "id": "12dc6adc-e764-4624-b4c1-41aabd57f60b",
+    "title": "Software Engineering Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1737678234,
+    "date_posted": 1737678234,
+    "url": "http://www.cohesity.com/company/careers/open-positions/?gh_jid=6391558",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Cohesity",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Kyndryl Holdings",
+    "id": "3f85c95f-5344-49fe-99e6-abfab0246af5",
+    "title": "Intern - Tech Developer & Engineering",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1737677829,
+    "date_posted": 1737677829,
+    "url": "https://kyndryl.wd5.myworkdayjobs.com/KyndrylEarlyCareers/job/VA-USA/US-Intern---Tech-Developer---Engineering_R-31546-1",
+    "locations": [
+      "Richmond, VA"
+    ],
+    "company_url": "https://simplify.jobs/c/Kyndryl-Holdings",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Amazon",
+    "id": "7cb10358-1552-4078-a38c-94156f44f9d5",
+    "title": "Software Development Engineer Intern - Computer Science",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1737678717,
+    "date_posted": 1737678717,
+    "url": "https://amazon.jobs/en/jobs/2880902/software-development-engineer-intern-computer-science",
+    "locations": [
+      "Toronto, ON, Canada",
+      "Victoria, BC, Canada",
+      "Vancouver, BC, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Amazon",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
