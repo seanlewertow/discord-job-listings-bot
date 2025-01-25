@@ -45228,5 +45228,44 @@
     "company_url": "https://simplify.jobs/c/Verizon-Communications",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Motorola",
+    "id": "b3546088-a45b-4826-8627-eec4c95e0460",
+    "title": "Software Engineering Intern - Javascript/Node.js",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1737764721,
+    "date_posted": 1737764721,
+    "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/California-Southern-Remote-Work/Software-Engineering-Intern--JavaScript-Nodejs----2025-Summer-Internship_R53314",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/MotorolaSolutions",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Kimberly-Clark",
+    "id": "18d04946-5cd4-41c0-af30-b531b258be02",
+    "title": "Product Engineer Co-Op - Summer/Fall Term",
+    "active": true,
+    "terms": [
+      "Summer 2025",
+      "Fall 2025"
+    ],
+    "date_updated": 1737764662,
+    "date_posted": 1737764662,
+    "url": "https://kimberlyclark.wd1.myworkdayjobs.com/GLOBAL/job/USA-GA-Atlanta-Roswell/Product-Engineer-Co-Op--Summer-Fall-Term-_871391",
+    "locations": [
+      "Roswell, GA"
+    ],
+    "company_url": "https://simplify.jobs/c/Kimberly-Clark",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
