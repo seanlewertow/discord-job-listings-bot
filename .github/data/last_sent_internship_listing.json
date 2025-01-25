@@ -45326,5 +45326,43 @@
     "company_url": "https://simplify.jobs/c/Addepar",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Array Labs",
+    "id": "d815cac0-f117-4bc0-8bf6-b1609ef95eda",
+    "title": "Software Engineering Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1737822201,
+    "date_posted": 1737822201,
+    "url": "https://jobs.lever.co/arraylabs.io/469fefdf-dc53-4cce-8d7b-acbfdc3cfaeb/apply",
+    "locations": [
+      "Palo Alto, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Array-Labs",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "HCSC",
+    "id": "a7d224d5-ebf6-4941-8292-92a63627b959",
+    "title": "University Relations \u2013 Associate Automation Programmer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1737822112,
+    "date_posted": 1737822112,
+    "url": "https://hcsc.wd1.myworkdayjobs.com/en-US/HCSC_External/job/TX---Richardson/University-Relations---Associate-Automation-Programmer-Intern_R0046204",
+    "locations": [
+      "Richardson, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/de9db5fc-93ac-4e2a-873c-61d8a830873c",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
