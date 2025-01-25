@@ -45364,5 +45364,24 @@
     "company_url": "https://simplify.jobs/c/de9db5fc-93ac-4e2a-873c-61d8a830873c",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Array Labs",
+    "id": "f13884c1-ced1-4a8e-a20e-9b03ae074d5f",
+    "title": "3D Reconstruction Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1737822218,
+    "date_posted": 1737822218,
+    "url": "https://jobs.lever.co/arraylabs.io/9ea64f76-5ab9-48a0-81e5-9cbb3ba98cd8/apply",
+    "locations": [
+      "Palo Alto, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Array-Labs",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
