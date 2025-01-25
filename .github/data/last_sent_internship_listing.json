@@ -45286,5 +45286,45 @@
     "company_url": "https://simplify.jobs/c/Plusgrade",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Addepar",
+    "id": "c2acecfe-e1a9-4979-af6d-7b2ce96cad3b",
+    "title": "Reference Data Engineering Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025",
+      "Fall 2025"
+    ],
+    "date_updated": 1737807159,
+    "date_posted": 1737807159,
+    "url": "https://boards.greenhouse.io/addepar1/jobs/7830856002",
+    "locations": [
+      "Edinburgh, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Addepar",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Addepar",
+    "id": "0473634a-0275-4f36-a5f0-5c7959e66f1a",
+    "title": "Data Platform Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025",
+      "Fall 2025"
+    ],
+    "date_updated": 1737807159,
+    "date_posted": 1737807159,
+    "url": "https://boards.greenhouse.io/addepar1/jobs/7830854002",
+    "locations": [
+      "Edinburgh, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Addepar",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
