@@ -45440,5 +45440,24 @@
     "company_url": "https://simplify.jobs/c/Southwest-Airlines",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "FactSet",
+    "id": "69716030-6da3-4ac4-abfc-b76f4c3c64b4",
+    "title": "Engineering Internship - Summer 2025",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1737923721,
+    "date_posted": 1737923721,
+    "url": "https://factset.wd1.myworkdayjobs.com/en-US/FactSetCareers/job/London-GBR/Engineering-Internship--London---Summer-2025_R25642",
+    "locations": [
+      "London, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/070f3806-d132-4f78-8320-b7048399142c",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
