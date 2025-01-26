@@ -45383,5 +45383,62 @@
     "company_url": "https://simplify.jobs/c/Array-Labs",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Southwest Airlines",
+    "id": "daea0838-b72e-476a-ad20-ade258ff70df",
+    "title": "System Engineer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1737879569,
+    "date_posted": 1737879569,
+    "url": "https://swa.wd1.myworkdayjobs.com/external/job/TX-Dallas/Internship-Program-for-Individuals-with-Autism---System-Engineer-Summer-2025-Intern---Remote_R-2024-49743",
+    "locations": [
+      "Dallas, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Southwest-Airlines",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Southwest Airlines",
+    "id": "054eb401-a9d8-40a9-8148-10f507c54870",
+    "title": "Software Engineer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1737879559,
+    "date_posted": 1737879559,
+    "url": "https://swa.wd1.myworkdayjobs.com/external/job/TX-Dallas/Internship-Program-for-Individuals-with-Autism---Software-Engineer-Summer-2025-Intern---Remote_R-2024-49742",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/Southwest-Airlines",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Southwest Airlines",
+    "id": "5ead8089-697c-48c5-b5d1-39bb8b658472",
+    "title": "Data Engineer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1737879554,
+    "date_posted": 1737879554,
+    "url": "https://swa.wd1.myworkdayjobs.com/external/job/TX-Dallas/Internship-Program-for-Individuals-with-Autism---Data-Engineer-Summer-2025-Intern---Remote_R-2024-49746",
+    "locations": [
+      "Dallas, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Southwest-Airlines",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
