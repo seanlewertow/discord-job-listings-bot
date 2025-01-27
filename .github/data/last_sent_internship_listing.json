@@ -45589,5 +45589,63 @@
     "company_url": "https://simplify.jobs/c/Addepar",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "McKesson",
+    "id": "5eee4e05-db4d-400e-ba8d-e683bb575771",
+    "title": "D\u00e9veloppeur logiciel Stagiaire/Software Developer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1737994882,
+    "date_posted": 1737994882,
+    "url": "https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/CAN-QC-Montreal-Ville-Saint-Laurent/Dveloppeur-logiciel-Stagiaire-Software-Developer-Intern---t-2025_JR0124645",
+    "locations": [
+      "Montreal, QC, Canada",
+      "Montr\u00e9al, QC, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/McKesson",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Addepar",
+    "id": "ac8e9120-106b-4824-b21a-ae3db3d4f3d8",
+    "title": "Software Engineer Intern - Research",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1737994346,
+    "date_posted": 1737994346,
+    "url": "https://boards.greenhouse.io/addepar1/jobs/7830853002",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/Addepar",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "CACI",
+    "id": "7ffca883-34ac-4b2b-aa5b-a1b279ac63c7",
+    "title": "Software Engineering Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1737994972,
+    "date_posted": 1737994972,
+    "url": "https://caci.wd1.myworkdayjobs.com/External/job/US-FL-Sarasota/Software-Engineering-Intern---Summer-2025_306114-1",
+    "locations": [
+      "Sarasota, FL"
+    ],
+    "company_url": "https://simplify.jobs/c/CACI",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
