@@ -45647,5 +45647,44 @@
     "company_url": "https://simplify.jobs/c/CACI",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "MKS Instruments",
+    "id": "9358dadd-e84f-44b6-b65d-d49ff4ff991e",
+    "title": "Undergraduate MECOP Co-op - Software Engineer - Reliability Modeling",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1738020472,
+    "date_posted": 1738020472,
+    "url": "https://mksinst.wd1.myworkdayjobs.com/en-US/MKSCareersUniversity/job/Beaverton-OR/XMLNAME-2025-Summer-Undergraduate-MECOP-Co-op---Software-Engineer--Reliability-Modeling-_R11696",
+    "locations": [
+      "Beaverton, OR"
+    ],
+    "company_url": "https://simplify.jobs/c/07d9f7f0-9f1a-4ecb-9346-f3ac39d905f2",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Arc'teryx Equipment",
+    "id": "fbd5ff66-382e-46b3-8c14-8c7d9d32d86e",
+    "title": "Software Engineer Co-Op Student",
+    "active": true,
+    "terms": [
+      "Spring 2025",
+      "Summer 2025"
+    ],
+    "date_updated": 1738019991,
+    "date_posted": 1738019991,
+    "url": "https://jobs.lever.co/arcteryx.com/b244d0a5-9e53-4d3b-959f-a57c8cf4387b/apply",
+    "locations": [
+      "Vancouver, BC, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Arcteryx-Equipment",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
