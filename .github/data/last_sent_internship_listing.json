@@ -45570,5 +45570,24 @@
     "company_url": "https://simplify.jobs/c/Warner-Bros",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Addepar",
+    "id": "079c636d-2aee-4c93-a50f-a0b8a965a7ae",
+    "title": "Software Engineer Intern - Analysis Workflow",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1737994342,
+    "date_posted": 1737994342,
+    "url": "https://boards.greenhouse.io/addepar1/jobs/7802318002",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/Addepar",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
