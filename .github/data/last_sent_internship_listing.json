@@ -45686,5 +45686,105 @@
     "company_url": "https://simplify.jobs/c/Arcteryx-Equipment",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Jones Lang LaSalle (JLL)",
+    "id": "eb31d13e-fb5f-4568-8364-cfee503af45e",
+    "title": "Stagiaire en march\u00e9s de capitaux / Capital Markets Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1738021422,
+    "date_posted": 1738021422,
+    "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Montreal-QC/Stagiaire-en-marchs-de-capitaux---Capital-Markets-Intern_REQ407456",
+    "locations": [
+      "Montreal, QC, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Jones-Lang-LaSalle",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Leidos",
+    "id": "a8797652-c75a-493c-87fd-b6a78eb4d22a",
+    "title": "Data Analytics Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1738021416,
+    "date_posted": 1738021416,
+    "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Data-Analytics-Intern_R-00151990",
+    "locations": [
+      "Huntsville, AL"
+    ],
+    "company_url": "https://simplify.jobs/c/Leidos",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "MSD",
+    "id": "380ab746-ed0e-4daa-9717-42de439ddbec",
+    "title": "Image Data Analytics Intern",
+    "active": true,
+    "terms": [
+      "Summer 2024",
+      "Fall 2024"
+    ],
+    "date_updated": 1738021247,
+    "date_posted": 1738021247,
+    "url": "https://msd.wd5.myworkdayjobs.com/en-US/SearchJobs/job/USA---Pennsylvania---West-Point/XMLNAME-2025-University-Recruiting---Image-Data-Analytics-Intern_R333225",
+    "locations": [
+      "Cambridge, MA",
+      "Boston, MA",
+      "SF",
+      "North Wales, PA",
+      "Linden, NJ"
+    ],
+    "company_url": "https://simplify.jobs/c/175953b9-17d1-4a2f-b0af-b77706477183",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Parsons",
+    "id": "ffa96602-9741-4ace-b3a6-ec238d59f7e9",
+    "title": "Software Engineer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1738020999,
+    "date_posted": 1738020999,
+    "url": "https://parsons.wd5.myworkdayjobs.com/en-US/search/job/US---CO-Colorado-Springs/Software-Engineer-Intern--Summer-2025-_R163333",
+    "locations": [
+      "Colorado Springs, CO"
+    ],
+    "company_url": "https://simplify.jobs/c/Parsons",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "SWBC",
+    "id": "a86e13ef-7a4a-4c76-b0dc-6ffa558c38f1",
+    "title": "Data Analyst Intern - Business Continuity and Disaster Recovery",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1738021441,
+    "date_posted": 1736208668,
+    "url": "https://swbc.wd1.myworkdayjobs.com/en-US/swbccareers/job/San-Antonio-TX/IT-Intern--Business-Continuity-and-Disaster-Recovery-_R0012556-2",
+    "locations": [
+      "San Antonio, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/9f8468ab-4066-404d-b30d-b5b9cb967967",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
