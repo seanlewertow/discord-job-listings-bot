@@ -46121,5 +46121,24 @@
     "company_url": "https://simplify.jobs/c/TD-Bank",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "date_updated": 1738040618,
+    "url": "https://jobs.sap.com/job/San-Francisco-SAP-iXp-Intern-CX-Data-&-AI-Software-Developer-CA-94107/1164944301",
+    "company_name": "SAP",
+    "title": "SAP iXp Intern - CX Data & AI Software Developer",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "terms": [
+      "Summer 2025"
+    ],
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "source": "GaryZhous",
+    "id": "d9d8a6b2-37f8-4e45-b97c-1943d70a5073",
+    "date_posted": 1738040618,
+    "company_url": "",
+    "is_visible": true
   }
 ]
