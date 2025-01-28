@@ -46239,5 +46239,64 @@
     "company_url": "https://simplify.jobs/c/Aurora-Innovation",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "TD Bank",
+    "id": "a1481bee-a9da-4654-ae61-f4d56c8425b1",
+    "title": "Business Systems Analyst Intern/Co-op",
+    "active": true,
+    "terms": [
+      "Spring 2025",
+      "Summer 2025"
+    ],
+    "date_updated": 1738096766,
+    "date_posted": 1738096766,
+    "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Business-Systems-Analyst-Intern-Co-op_R_1392541",
+    "locations": [
+      "Toronto, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/TD-Bank",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "TD Bank",
+    "id": "274cd47e-2504-4e45-9210-a829bc34e3f1",
+    "title": "Software Engineer Intern/Co-op",
+    "active": true,
+    "terms": [
+      "Spring 2025",
+      "Summer 2025"
+    ],
+    "date_updated": 1738096731,
+    "date_posted": 1738096731,
+    "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Software-Engineer-Intern-Co-op_R_1393792",
+    "locations": [
+      "Toronto, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/TD-Bank",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Synechron",
+    "id": "1e346d28-09d7-46f7-ab8c-6dc53e67c5da",
+    "title": "Summer Internship Program - AI - Data and Data Science",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1738096055,
+    "date_posted": 1738096055,
+    "url": "https://synechron.wd1.myworkdayjobs.com/en-US/SynechronCareers/job/Charlotte-NC/Summer-Internship-Program---AI--Data-and-Data-Science_JR1022836",
+    "locations": [
+      "Charlotte, NC"
+    ],
+    "company_url": "https://simplify.jobs/c/0c088963-a344-4fd6-8c0e-3a047fe449f1",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
