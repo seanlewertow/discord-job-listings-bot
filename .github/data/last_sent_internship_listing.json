@@ -46318,5 +46318,107 @@
     "company_url": "https://simplify.jobs/c/TD-Bank",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "IBM",
+    "id": "3d1bdea0-3a90-49b5-9aa9-c8af48657ea1",
+    "title": "Software Developer Co-op",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1738099024,
+    "date_posted": 1738099024,
+    "url": "https://careers.ibm.com/job/20966697/software-developer-co-op-2025-lowell-ma/",
+    "locations": [
+      "Austin, TX",
+      "San Jose, CA",
+      "Lowell, MA",
+      "Tucson, AZ",
+      "Poughkeepsie, NY"
+    ],
+    "company_url": "https://simplify.jobs/c/IBM",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Acadian Asset Management",
+    "id": "15ba45c5-c4d2-456d-a4b5-8cce15426959",
+    "title": "Software Engineering Co-Op",
+    "active": true,
+    "terms": [
+      "Summer 2025",
+      "Fall 2025",
+      "Winter 2026"
+    ],
+    "date_updated": 1738098046,
+    "date_posted": 1738098046,
+    "url": "https://www.acadian-asset.com/careers/open-positions?gh_jid=4438891006",
+    "locations": [
+      "Boston, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/acadian-asset-management",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "TD Bank",
+    "id": "a81770e8-b423-4f92-81a3-b9f73cdb6246",
+    "title": "Software Engineer Intern/Co-op - Css",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1738098165,
+    "date_posted": 1738098165,
+    "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Software-Engineer-Intern-Co-op---CSS--Summer-2025-_R_1392920",
+    "locations": [
+      "Toronto, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/TD-Bank",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Leidos",
+    "id": "6e1009ce-54aa-4f3e-9992-e0942b0dcb2f",
+    "title": "Salesforce Developer \u2013 Intern",
+    "active": true,
+    "terms": [
+      "Spring 2025"
+    ],
+    "date_updated": 1738098216,
+    "date_posted": 1738098216,
+    "url": "https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Salesforce-Developer---INTERN_R-00152266",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/Leidos",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "TD Bank",
+    "id": "c5062751-5c21-4333-9ee7-9e784398a61d",
+    "title": "Business Systems Analyst Intern/Co-op",
+    "active": true,
+    "terms": [
+      "Spring 2025",
+      "Summer 2025"
+    ],
+    "date_updated": 1738098159,
+    "date_posted": 1738098159,
+    "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Business-Systems-Analyst-Intern-Co-op_R_1392229",
+    "locations": [
+      "Toronto, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/TD-Bank",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
