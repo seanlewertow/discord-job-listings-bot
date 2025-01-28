@@ -45887,5 +45887,47 @@
     "company_url": "https://simplify.jobs/c/MotorolaSolutions",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Hewlett Packard (HP)",
+    "id": "6be56b41-28ee-40ef-bb45-fe85c3780941",
+    "title": "Personal Systems Software Engineer Internship",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1738037630,
+    "date_posted": 1738037630,
+    "url": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Spring-Texas-United-States-of-America/Personal-Systems-Software-Engineer-Internship_3141362-1",
+    "locations": [
+      "Palo Alto, CA",
+      "Austin, TX",
+      "Spring, TX",
+      "Fort Collins, CO"
+    ],
+    "company_url": "https://simplify.jobs/c/Hewlett-Packard",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Intuitive Surgical",
+    "id": "ae63ad3f-538e-4050-a3ce-0bbf0682695b",
+    "title": "Servo Software Intern",
+    "active": true,
+    "terms": [
+      "Spring 2025",
+      "Summer 2025"
+    ],
+    "date_updated": 1738037003,
+    "date_posted": 1738037003,
+    "url": "https://jobs.smartrecruiters.com/Intuitive/744000038927275",
+    "locations": [
+      "Sunnyvale, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Intuitive-Surgical",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
