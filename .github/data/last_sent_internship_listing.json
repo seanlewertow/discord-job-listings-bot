@@ -46140,5 +46140,46 @@
     "date_posted": 1738040618,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "source": "Simplify",
+    "company_name": "S&P Global ",
+    "id": "fa2b1cc2-62d4-4d7c-9d88-1fd0b55289d8",
+    "title": "Sustainability Data Analytics Summer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1738082955,
+    "date_posted": 1738082955,
+    "url": "https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Careers/job/London-UK/Sustainability-Data-Analytics-Summer-Intern_311555-1",
+    "locations": [
+      "London, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/SP-Global",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Lumentum",
+    "id": "16644771-9b9c-4832-ac38-7963d7fc6dc2",
+    "title": "Metrology Simulator Co-op/Intern",
+    "active": true,
+    "terms": [
+      "Spring 2025",
+      "Summer 2025",
+      "Fall 2025",
+      "Winter 2026"
+    ],
+    "date_updated": 1738082587,
+    "date_posted": 1738082587,
+    "url": "https://lumentum.wd5.myworkdayjobs.com/en-US/LITE/job/Canada---Ottawa-Bill-Leathem/Metrology-Simulator-Co-op-Intern_202526",
+    "locations": [
+      "Ottawa, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/0985b121-88fd-4402-aea9-c0c55bfbbc99",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
