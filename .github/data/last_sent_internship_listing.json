@@ -46200,5 +46200,44 @@
     "company_url": "https://simplify.jobs/c/Saronic",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Verkada",
+    "id": "1de83583-c370-46c0-8314-476ac3f0ee08",
+    "title": "Software Engineering Intern - Mobile",
+    "active": true,
+    "terms": [
+      "Summer 2025",
+      "Fall 2025"
+    ],
+    "date_updated": 1738096108,
+    "date_posted": 1738096108,
+    "url": "https://job-boards.greenhouse.io/verkada/jobs/4634987007",
+    "locations": [
+      "San Mateo, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Verkada",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Aurora Innovation",
+    "id": "2d62c8e3-7e23-48e3-8004-ce1595cac0ce",
+    "title": "Software Engineering Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1738095919,
+    "date_posted": 1738095919,
+    "url": "https://aurora.tech/jobs/7788395002?gh_jid=7788395002",
+    "locations": [
+      "Pittsburgh, PA"
+    ],
+    "company_url": "https://simplify.jobs/c/Aurora-Innovation",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
