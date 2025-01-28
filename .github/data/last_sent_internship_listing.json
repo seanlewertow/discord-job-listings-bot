@@ -45786,5 +45786,106 @@
     "company_url": "https://simplify.jobs/c/9f8468ab-4066-404d-b30d-b5b9cb967967",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Parsons",
+    "id": "d729f86a-825c-4590-a9ab-182ffea6fbf7",
+    "title": "Software Engineer \u2013 Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1738023731,
+    "date_posted": 1738023731,
+    "url": "https://parsons.wd5.myworkdayjobs.com/en-US/search/job/US---MD-Field-Location/Software-Engineer---Intern--Summer-2025-_R163339-1",
+    "locations": [
+      "Columbia, MD"
+    ],
+    "company_url": "https://simplify.jobs/c/Parsons",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "WebAI",
+    "id": "1b090602-02c7-47f9-9edd-9154202bb014",
+    "title": "Summer Internship - Machine Learning Engineer",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1738023583,
+    "date_posted": 1738023583,
+    "url": "https://job-boards.greenhouse.io/webai/jobs/4634778007",
+    "locations": [
+      "Austin, TX",
+      "Grand Rapids, MI"
+    ],
+    "company_url": "https://simplify.jobs/c/c60298a7-e24e-4f51-a18d-dde3aa81e93e",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "WebAI",
+    "id": "e663ca99-e4d1-4902-a5d6-6d7524669da2",
+    "title": "Summer Internship - Software Engineer",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1738023580,
+    "date_posted": 1738023580,
+    "url": "https://job-boards.greenhouse.io/webai/jobs/4634751007",
+    "locations": [
+      "Austin, TX",
+      "Grand Rapids, MI"
+    ],
+    "company_url": "https://simplify.jobs/c/c60298a7-e24e-4f51-a18d-dde3aa81e93e",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "BambooHR",
+    "id": "3fc92075-095d-497a-a9f9-c685c5139569",
+    "title": "AI Engineering/Data Science Intern",
+    "active": true,
+    "terms": [
+      "Spring 2025",
+      "Summer 2025"
+    ],
+    "date_updated": 1738024418,
+    "date_posted": 1738024418,
+    "url": "https://job-boards.greenhouse.io/bamboohr17/jobs/5417968004",
+    "locations": [
+      "Utah"
+    ],
+    "company_url": "https://simplify.jobs/c/BambooHR",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Motorola",
+    "id": "53bd3c11-7eb8-4832-924d-c5938143b150",
+    "title": "Software Engineering Intern - Devops",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1738024238,
+    "date_posted": 1738024238,
+    "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Culver-City-CA/Software-Engineering-Intern--DevOps----2025-Summer-Internship_R53349-1",
+    "locations": [
+      "Allen, TX",
+      "LA",
+      "Chicago, IL",
+      "Culver City, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/MotorolaSolutions",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
