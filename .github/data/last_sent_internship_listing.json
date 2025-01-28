@@ -45929,5 +45929,101 @@
     "company_url": "https://simplify.jobs/c/Intuitive-Surgical",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Hewlett Packard Enterprise",
+    "id": "de9ee27a-9752-4096-a648-659e01da3409",
+    "title": "Hewlett Packard Labs \u2013 Intern - System Software Research Associate",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1738038205,
+    "date_posted": 1738038205,
+    "url": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Milpitas-California-United-States-of-America/Hewlett-Packard-Labs---System-Software-Research-Associate--Intern-_1183402",
+    "locations": [
+      "Milpitas, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Hewlett-Packard-Enterprise",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Hewlett Packard Enterprise",
+    "id": "8fc529b2-271c-4c3f-8f0e-c760b789a2d5",
+    "title": "AI Engineer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1738038185,
+    "date_posted": 1738038185,
+    "url": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Spring-Texas-United-States-of-America/AI-Engineer-Intern_1177850",
+    "locations": [
+      "Spring, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Hewlett-Packard-Enterprise",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Netflix",
+    "id": "9e6ced4c-ef51-4869-8b7f-408ddc4dfc4b",
+    "title": "Data Engineering Intern - Administration",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1738038143,
+    "date_posted": 1738038143,
+    "url": "https://explore.jobs.netflix.net/careers/job/790300033025",
+    "locations": [
+      "LA",
+      "Los Gatos, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Netflix",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Blue Cross Blue Shield",
+    "id": "3401147b-c3bb-4daa-8fa9-8fdb68a1cead",
+    "title": "Summer Intern - Robotic Process Automation - RPA - Developer",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1738037992,
+    "date_posted": 1738037992,
+    "url": "https://bcbsaz.wd1.myworkdayjobs.com/en-US/BCBSAZCareers/job/Phoenix/Summer-Intern---Robotic-Process-Automation--RPA--Developer--Hybrid-_R5442",
+    "locations": [
+      "Phoenix, AZ"
+    ],
+    "company_url": "https://simplify.jobs/c/c9d90ce1-b167-4f7a-89fc-1b82e563b2a2",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Blue Cross Blue Shield",
+    "id": "e1133a67-5324-4820-93fd-9e3f09e6ca44",
+    "title": "Summer Intern - Business Intelligence Developer",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1738037994,
+    "date_posted": 1738037994,
+    "url": "https://bcbsaz.wd1.myworkdayjobs.com/en-US/BCBSAZCareers/job/Phoenix/Summer-Intern---Business-Intelligence-Developer--Hybrid-_R5439",
+    "locations": [
+      "Phoenix, AZ"
+    ],
+    "company_url": "https://simplify.jobs/c/c9d90ce1-b167-4f7a-89fc-1b82e563b2a2",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
