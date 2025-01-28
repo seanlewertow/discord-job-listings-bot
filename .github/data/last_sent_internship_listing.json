@@ -46181,5 +46181,24 @@
     "company_url": "https://simplify.jobs/c/0985b121-88fd-4402-aea9-c0c55bfbbc99",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Saronic",
+    "id": "c83bc92d-401d-4703-b892-3c6af8af4110",
+    "title": "Intern - Summer 2025",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1738082883,
+    "date_posted": 1738082883,
+    "url": "https://jobs.lever.co/saronic/8390fb4a-d29b-449f-90fe-34c1cbebddd5/apply",
+    "locations": [
+      "Austin, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Saronic",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
