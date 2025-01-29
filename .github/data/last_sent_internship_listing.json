@@ -46420,5 +46420,102 @@
     "company_url": "https://simplify.jobs/c/TD-Bank",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "HRL Laboratories",
+    "id": "5376f43e-74b7-4095-8fd5-ff26d10f3cd7",
+    "title": "Summer Software Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1738109994,
+    "date_posted": 1738109994,
+    "url": "https://jobs.lever.co/dodmg/e4ba3b44-6c3d-4018-acd1-43cc362a8e74/apply",
+    "locations": [
+      "Calabasas, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/HRL-Laboratories",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "HRL Laboratories",
+    "id": "ab64a1c5-0794-4583-a326-4efdb48b3ea4",
+    "title": "Summer Software Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1738109992,
+    "date_posted": 1738109992,
+    "url": "https://jobs.lever.co/dodmg/a84196fe-a2ff-4a57-a47e-a0e4ed88590c/apply",
+    "locations": [
+      "Calabasas, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/HRL-Laboratories",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Ameriprise Financial",
+    "id": "521ec143-b3dd-4521-bfa7-e768e6fbd1d7",
+    "title": "Technology Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1738109914,
+    "date_posted": 1738109914,
+    "url": "https://ameriprise.wd5.myworkdayjobs.com/en-US/Ameriprise/job/Minneapolis-Minnesota/Technology-Intern_R24_0000002803",
+    "locations": [
+      "Minneapolis, MN"
+    ],
+    "company_url": "https://simplify.jobs/c/Ameriprise-Financial",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "SoFi",
+    "id": "805432e5-01cb-4eac-807a-3ddebeeba8c7",
+    "title": "Intern \u2013 Software Engineer - Observability Engineering",
+    "active": true,
+    "terms": [
+      "Summer 2025",
+      "Fall 2025"
+    ],
+    "date_updated": 1738109771,
+    "date_posted": 1738109771,
+    "url": "https://www.sofi.com/careers/sofi-university/6334308003?gh_jid=6334308003",
+    "locations": [
+      "SF"
+    ],
+    "company_url": "https://simplify.jobs/c/SoFi",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "CACI",
+    "id": "bab05023-bdf3-422e-99b8-0cc439392308",
+    "title": "Summer Internship 2025",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1738110884,
+    "date_posted": 1738110884,
+    "url": "https://caci.wd1.myworkdayjobs.com/External/job/US-VA-Sterling/Summer-Internship-2025---Clarkson-University_307144",
+    "locations": [
+      "Reston, VA",
+      "Dulles, VA"
+    ],
+    "company_url": "https://simplify.jobs/c/CACI",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
