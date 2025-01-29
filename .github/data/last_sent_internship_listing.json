@@ -46593,5 +46593,25 @@
     "company_url": "https://simplify.jobs/c/bc1fb115-8f45-4b9b-a48d-d6d74ecdd988",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Motorola",
+    "id": "ac2bdf39-4576-48cd-b7de-f79f5ee36a14",
+    "title": "Software Engineer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1738139174,
+    "date_posted": 1738139174,
+    "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Schaumburg-IL/Software-Engineer-Intern---Summer-2025_R52891",
+    "locations": [
+      "Chicago, IL",
+      "Hoffman Estates, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/MotorolaSolutions",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
