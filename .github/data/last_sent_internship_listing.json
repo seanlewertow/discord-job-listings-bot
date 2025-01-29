@@ -46613,5 +46613,24 @@
     "company_url": "https://simplify.jobs/c/MotorolaSolutions",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Centene",
+    "id": "cccc5c79-ec13-41bf-aef5-8290d97cdc6b",
+    "title": "Data Science Intern - Undergraduate - Summer",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1738169722,
+    "date_posted": 1738169722,
+    "url": "https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/Intern--Undergraduate---Summer-_1545393",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/Centene",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
