@@ -46555,5 +46555,24 @@
     "company_url": "https://simplify.jobs/c/Warner-Bros",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Intel",
+    "id": "0a5da1f5-e7e6-44f5-9a6d-4c1ca6366eb1",
+    "title": "MECOP Silicon Firmware Engineer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1738124472,
+    "date_posted": 1738124472,
+    "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/MECOP-Silicon-Firmware-Engineer-Intern_JR0271079",
+    "locations": [
+      "Hillsboro, OR"
+    ],
+    "company_url": "https://simplify.jobs/c/Intel",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
