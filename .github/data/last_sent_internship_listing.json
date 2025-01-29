@@ -46574,5 +46574,24 @@
     "company_url": "https://simplify.jobs/c/Intel",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Prudential Financial",
+    "id": "8a903ced-5142-4dd8-bee3-eb9b2c630d08",
+    "title": "Coding and Software Development Internship Program",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1738138545,
+    "date_posted": 1738138545,
+    "url": "https://pru.wd5.myworkdayjobs.com/en-US/Careers/job/Newark-NJ-USA/PGIM--2025-Investments--Coding-and-Software-Development-Internship-Program_R-118395-1",
+    "locations": [
+      "Newark, NJ"
+    ],
+    "company_url": "https://simplify.jobs/c/bc1fb115-8f45-4b9b-a48d-d6d74ecdd988",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
