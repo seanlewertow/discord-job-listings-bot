@@ -47047,5 +47047,24 @@
     "company_url": "https://simplify.jobs/c/bc1fb115-8f45-4b9b-a48d-d6d74ecdd988",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Leidos",
+    "id": "dce82148-81ad-4166-9c11-e91dc5dc8344",
+    "title": "Software Engineer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1738270600,
+    "date_posted": 1738270600,
+    "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Reston-VA/Software-Engineer-Intern_R-00152339",
+    "locations": [
+      "Reston, VA"
+    ],
+    "company_url": "https://simplify.jobs/c/Leidos",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
