@@ -46881,5 +46881,24 @@
     "company_url": "https://simplify.jobs/c/Chime",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Airspace Intelligence",
+    "id": "9b3a368e-ed9a-430f-b377-565663a64808",
+    "title": "Internship - Software Engineer",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1738254177,
+    "date_posted": 1738254177,
+    "url": "https://jobs.ashbyhq.com/airspace-intelligence.com/d0e5b6dc-960a-4808-9b99-c42fac65c6f5/application",
+    "locations": [
+      "Boston, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/Airspace-Intelligence",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
