@@ -47086,5 +47086,24 @@
     "company_url": "https://simplify.jobs/c/TD-Bank",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Archer",
+    "id": "9eff17e5-c189-446d-ade2-0b90924b1b07",
+    "title": "Full Stack Application Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1738269684,
+    "date_posted": 1738197150,
+    "url": "https://job-boards.greenhouse.io/archer56/jobs/6343040003",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Archer",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
