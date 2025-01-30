@@ -47105,5 +47105,46 @@
     "company_url": "https://simplify.jobs/c/Archer",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Amazon",
+    "id": "cad21865-16df-4833-af99-64f4d0af064a",
+    "title": "SDE Intern - High-Performance Query Processing - Query Optimization",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1738270990,
+    "date_posted": 1738270990,
+    "url": "https://amazon.jobs/en/jobs/2888186/sde-intern-high-performance-query-processing-query-optimization",
+    "locations": [
+      "Palo Alto, CA",
+      "Seattle, WA",
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Amazon",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "TD Bank",
+    "id": "2c96f68d-7572-4e83-ac97-d537db165881",
+    "title": "Software Engineer Intern/Co-op",
+    "active": true,
+    "terms": [
+      "Spring 2025",
+      "Summer 2025"
+    ],
+    "date_updated": 1738270912,
+    "date_posted": 1738270912,
+    "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Software-Engineer-Intern-Co-op_R_1392812",
+    "locations": [
+      "Toronto, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/TD-Bank",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
