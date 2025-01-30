@@ -47009,5 +47009,43 @@
     "company_url": "https://simplify.jobs/c/0757d825-ab0c-4b0d-9b06-d1770bee41ce",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Castle Hill Gaming",
+    "id": "492aa500-7b6f-43cf-8cc3-4e92392b05ed",
+    "title": "Data Quality Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1738269324,
+    "date_posted": 1738269324,
+    "url": "https://job-boards.greenhouse.io/castlehillgaming/jobs/6575478",
+    "locations": [
+      "Charlottesville, VA"
+    ],
+    "company_url": "https://simplify.jobs/c/Castle-Hill-Gaming",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Prudential Financial",
+    "id": "8e4a4b21-3dc0-4752-9db2-3eccff190b34",
+    "title": "Coding and Software Development Internship Program",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1738269257,
+    "date_posted": 1738269257,
+    "url": "https://pru.wd5.myworkdayjobs.com/en-US/Careers/job/Newark-NJ-USA/PGIM--2025-Investments--Coding-and-Software-Development-Internship-Program_R-120027-1",
+    "locations": [
+      "Newark, NJ"
+    ],
+    "company_url": "https://simplify.jobs/c/bc1fb115-8f45-4b9b-a48d-d6d74ecdd988",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
