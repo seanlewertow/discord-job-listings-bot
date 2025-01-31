@@ -47301,5 +47301,24 @@
     "date_posted": 1738306099,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Casca",
+    "id": "fb396834-23ad-419b-8643-3d5ba1ab367f",
+    "title": "Engineering Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1738311080,
+    "date_posted": 1738311080,
+    "url": "https://jobs.ashbyhq.com/casca/56552e0a-8758-40ec-86cc-d68149642736/application",
+    "locations": [
+      "SF"
+    ],
+    "company_url": "https://simplify.jobs/c/Casca",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
