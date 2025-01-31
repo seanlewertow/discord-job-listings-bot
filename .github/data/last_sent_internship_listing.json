@@ -47569,5 +47569,24 @@
     "company_url": "https://simplify.jobs/c/Zoox",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Plexus",
+    "id": "64763eeb-0d52-4617-bb8e-8b8ad70c7d99",
+    "title": "Intern \u2013 Software Engineer",
+    "active": true,
+    "terms": [
+      "Spring 2026"
+    ],
+    "date_updated": 1738358436,
+    "date_posted": 1738358436,
+    "url": "https://plexus.wd5.myworkdayjobs.com/en-US/Plexus_Careers/job/Raleigh-NC/Intern---Software-Engineer--Spring-2026-_R031611",
+    "locations": [
+      "Raleigh, NC"
+    ],
+    "company_url": "https://simplify.jobs/c/Plexus",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
