@@ -47339,5 +47339,43 @@
     "company_url": "https://simplify.jobs/c/Plexus",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "The Walt Disney Company",
+    "id": "cb0fa800-5d7d-4d61-a4e5-16afc4b6d7ff",
+    "title": "Production Engineering Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1734668501,
+    "date_posted": 1734668501,
+    "url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Vancouver-BC-Canada/Production-Engineering-Intern--Summer-2025-_10109263",
+    "locations": [
+      "Vancouver, BC, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Disney",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Solidigm",
+    "id": "1ff7d621-8eaa-4e00-93e6-f65660043d4f",
+    "title": "SSD Firmware Development Undergraduate Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1728675829,
+    "date_posted": 1728675829,
+    "url": "https://jobs.smartrecruiters.com/Solidigm/744000019959022",
+    "locations": [
+      "Longmont, CO"
+    ],
+    "company_url": "https://simplify.jobs/c/Solidigm",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
