@@ -47263,5 +47263,43 @@
     "company_url": "https://simplify.jobs/c/Jones-Lang-LaSalle",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "date_updated": 1738306056,
+    "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/276470",
+    "company_name": "Oracle",
+    "title": "Software Development Intern",
+    "locations": [
+      "United States"
+    ],
+    "terms": [
+      "Summer 2025"
+    ],
+    "sponsorship": "Does Not Offer Sponsorship",
+    "active": true,
+    "source": "GaryZhous",
+    "id": "625e187b-4444-42ba-ab18-9275fa25035d",
+    "date_posted": 1738306056,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1738306099,
+    "url": "https://www.lastmile-ed.org/lastmile-reu",
+    "company_name": "Last Mile Education Fund",
+    "title": "2025 REU Supplemental Funding",
+    "locations": [
+      "Remote"
+    ],
+    "terms": [
+      "Summer 2025"
+    ],
+    "sponsorship": "U.S. Citizenship is Required",
+    "active": true,
+    "source": "lastmilecasey",
+    "id": "46cb8da6-8818-4fa4-a85e-5d8b94f29d5a",
+    "date_posted": 1738306099,
+    "company_url": "",
+    "is_visible": true
   }
 ]
