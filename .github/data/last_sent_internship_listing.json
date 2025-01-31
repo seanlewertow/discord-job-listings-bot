@@ -47320,5 +47320,24 @@
     "company_url": "https://simplify.jobs/c/Casca",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Plexus",
+    "id": "95ee60f6-72ac-4823-befb-9abece948a70",
+    "title": "Intern \u2013 Software Engineer",
+    "active": true,
+    "terms": [
+      "Spring 2026"
+    ],
+    "date_updated": 1738341213,
+    "date_posted": 1738341213,
+    "url": "https://plexus.wd5.myworkdayjobs.com/en-US/Plexus_Careers/job/Neenah-WI/Intern---Software-Engineer--Spring-2026-_R031605",
+    "locations": [
+      "Neenah, WI"
+    ],
+    "company_url": "https://simplify.jobs/c/Plexus",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
