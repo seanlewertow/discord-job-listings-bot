@@ -47799,5 +47799,25 @@
     "company_url": "https://simplify.jobs/c/Capella-Space",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "TD Bank",
+    "id": "e2bfd276-4deb-4464-9acd-d4990d946854",
+    "title": "Portfolio Analytics Data Analyst Intern / Co-Op",
+    "active": true,
+    "terms": [
+      "Spring 2025",
+      "Summer 2025"
+    ],
+    "date_updated": 1738358314,
+    "date_posted": 1738358314,
+    "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/161-Bay-Street-Corporate/Portfolio-Analytics-Data-Analyst-Intern---Co-Op_R_1384748",
+    "locations": [
+      "Oakland, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/TD-Bank",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
