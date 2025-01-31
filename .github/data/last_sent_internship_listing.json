@@ -47244,5 +47244,24 @@
     "company_url": "https://simplify.jobs/c/e05ef31f-f120-4063-adad-2b2fdde995cb",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Jones Lang LaSalle (JLL)",
+    "id": "3cd32dd4-ab68-4004-97d5-f471ac0c9e08",
+    "title": "Software Engineering Summer 2025 Internship",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1738297297,
+    "date_posted": 1738297297,
+    "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/New-York-NY/Software-Engineering-Summer-2025-Internship---New-York--NY_REQ408220-1",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Jones-Lang-LaSalle",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
