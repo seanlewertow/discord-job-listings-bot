@@ -47415,5 +47415,64 @@
     "company_url": "https://simplify.jobs/c/Carrier-Global",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Intuitive Surgical",
+    "id": "2ed41362-938d-4cb8-aef4-66398a6a1967",
+    "title": "Software Engineering Intern",
+    "active": true,
+    "terms": [
+      "Spring 2025",
+      "Summer 2025"
+    ],
+    "date_updated": 1738354894,
+    "date_posted": 1738354894,
+    "url": "https://jobs.smartrecruiters.com/Intuitive/744000039981548",
+    "locations": [
+      "Sunnyvale, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Intuitive-Surgical",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Medline",
+    "id": "bda89780-584b-454c-8d0e-11ecba2252df",
+    "title": "IT Business Systems Intern - Sap/Erp",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1737751338,
+    "date_posted": 1737751338,
+    "url": "https://medline.wd5.myworkdayjobs.com/en-US/Medline/job/CORP---Northbrook-IL/IT-Business-Systems-Intern--SAP-ERP----Summer-2025_R2404941",
+    "locations": [
+      "Northbrook, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/f22ab711-4900-472d-be8a-7263e99e49fa",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Genuine Parts Company",
+    "id": "6e2fabb6-660d-4e29-916a-af059a65f7f4",
+    "title": "Transportation Solutions Intern",
+    "active": true,
+    "terms": [
+      "Spring 2025",
+      "Summer 2025"
+    ],
+    "date_updated": 1736802467,
+    "date_posted": 1736802467,
+    "url": "https://genpt.wd1.myworkdayjobs.com/Careers/job/Atlanta-GA-USA/Transportation-Solutions-Intern_R24_0000033686",
+    "locations": [
+      "Atlanta, GA"
+    ],
+    "company_url": "https://simplify.jobs/c/Genuine-Parts-Company",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
