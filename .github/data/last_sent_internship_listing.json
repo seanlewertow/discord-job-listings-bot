@@ -47683,5 +47683,43 @@
     "company_url": "https://simplify.jobs/c/SageSure-Insurance-Managers",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Warner Bros.",
+    "id": "a3203d37-5abd-4291-82ab-06e66ffc8123",
+    "title": "WB Games User Research Intern - Summer 2025",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1738283377,
+    "date_posted": 1738283377,
+    "url": "https://warnerbros.wd5.myworkdayjobs.com/global/job/WA-Kirkland-12131-113th-Ave-NE/Games-User-Research-Intern--Kirkland---Summer-2025_R000090012",
+    "locations": [
+      "Kirkland, WA"
+    ],
+    "company_url": "https://simplify.jobs/c/Warner-Bros",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Echostar",
+    "id": "4e44ab19-2eea-412d-9cb1-7948f789c719",
+    "title": "Pilot Engineering and Solutions Architecture Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1737073894,
+    "date_posted": 1737073894,
+    "url": "https://echostar.wd5.myworkdayjobs.com/echostar/job/MD-Germantown/Pilot-Engineering-and-Solutions-Architecture-Intern_R0004662-1",
+    "locations": [
+      "Germantown, MD"
+    ],
+    "company_url": "https://simplify.jobs/c/Echostar",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
