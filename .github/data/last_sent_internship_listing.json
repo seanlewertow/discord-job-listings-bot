@@ -47721,5 +47721,83 @@
     "company_url": "https://simplify.jobs/c/Echostar",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Motorola",
+    "id": "854817bb-6952-4827-86b3-13f6995c876b",
+    "title": "Devops Software Internship",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1738358461,
+    "date_posted": 1738358461,
+    "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Culver-City-CA/DevOps-Software-Internship---Summer-2025-Internship_R53374",
+    "locations": [
+      "Dallas, TX",
+      "Remote in USA",
+      "Culver City, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/MotorolaSolutions",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Baxter International",
+    "id": "0f628761-856e-4ab3-8174-2638d18f08ef",
+    "title": "2025 Summer Internship - Embedded Software",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1738358017,
+    "date_posted": 1738358017,
+    "url": "https://baxter.wd1.myworkdayjobs.com/en-US/baxter/job/Raleigh-North-Carolina/XMLNAME-2025-Summer-Internship---Embedded-Software_JR-160856-2",
+    "locations": [
+      "Raleigh, NC"
+    ],
+    "company_url": "https://simplify.jobs/c/Baxter-International",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "BambooHR",
+    "id": "a89c010c-54cb-45ee-8687-39c0fe7b003a",
+    "title": "Salesforce Administrator Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1738196595,
+    "date_posted": 1738196595,
+    "url": "https://job-boards.greenhouse.io/bamboohr17/jobs/5422890004",
+    "locations": [
+      "Utah"
+    ],
+    "company_url": "https://simplify.jobs/c/BambooHR",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Capella Space",
+    "id": "3826226f-159d-4d9f-89da-70da5cdfff25",
+    "title": "Tasking & Scheduling Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1738109646,
+    "date_posted": 1738109646,
+    "url": "https://www.capellaspace.com/company/apply?gh_jid=5405211004",
+    "locations": [
+      "SF"
+    ],
+    "company_url": "https://simplify.jobs/c/Capella-Space",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
