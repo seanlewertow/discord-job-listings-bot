@@ -47474,5 +47474,100 @@
     "company_url": "https://simplify.jobs/c/Genuine-Parts-Company",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Samsung Research America",
+    "id": "9e43f266-e822-4908-a263-cc80b382e49c",
+    "title": "2025 Summer Intern - Open Innovation - Visual Display Partnerships",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1734999237,
+    "date_posted": 1734999237,
+    "url": "https://job-boards.greenhouse.io/samsungresearchamericainternship/jobs/7787502002",
+    "locations": [
+      "Mountain View, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Samsung-Research-America",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "McKesson",
+    "id": "bcf4b535-dbb7-4ccd-a8d0-a30c62d27a3c",
+    "title": "Software & Database Development Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1738358066,
+    "date_posted": 1738358066,
+    "url": "https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/CAN-ON-Mississauga/Software---Database-Development-Intern---Summer-2025_JR0124547-1",
+    "locations": [
+      "Mississauga, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/McKesson",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Western Digital",
+    "id": "f8f06c0d-07c6-4dee-9530-440c14ac58d7",
+    "title": "Summer 2025 Intern - Data Integration Engineering",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1738355248,
+    "date_posted": 1738355248,
+    "url": "https://jobs.smartrecruiters.com/WesternDigital/744000040000035",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Western-Digital",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Apple",
+    "id": "e4a0d6e3-2717-470d-b1c8-39bd60985cc2",
+    "title": "Internship - Distributed Build System",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1737394012,
+    "date_posted": 1737394012,
+    "url": "https://jobs.apple.com/en-us/details/200587568",
+    "locations": [
+      "London, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Apple",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Zoox",
+    "id": "02037816-a3e5-470e-9c4a-e7518ec4d47c",
+    "title": "System Integration & Validation Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1737087332,
+    "date_posted": 1737087332,
+    "url": "https://jobs.lever.co/zoox/42d2f49e-77a7-4e89-b516-99d8f023fb46/apply",
+    "locations": [
+      "San Mateo, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Zoox",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
