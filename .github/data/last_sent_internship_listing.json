@@ -47588,5 +47588,100 @@
     "company_url": "https://simplify.jobs/c/Plexus",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Centene",
+    "id": "abfce870-d65a-402a-90af-333b3e307a47",
+    "title": "Application Development Intern - Undergraduate",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1738357605,
+    "date_posted": 1738357605,
+    "url": "https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-NC/Application-Development-Intern--Undergraduate---Summer-2025-_1557095",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/Centene",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Gamechanger",
+    "id": "512ffcca-0f32-45a9-a520-ed19f7cff4f0",
+    "title": "Full Stack Software Engineer Intern - Diamond Sports",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1738356200,
+    "date_posted": 1738356200,
+    "url": "https://jobs.ashbyhq.com/gamechanger/ef411233-b5e3-4f44-adad-c3fa9334534d/application",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/Gamechanger",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Echostar",
+    "id": "308c4179-e131-44c8-8ec6-f6f0940063de",
+    "title": "Software Engineering Summer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1738356806,
+    "date_posted": 1738356806,
+    "url": "https://echostar.wd5.myworkdayjobs.com/echostar/job/CA-San-Diego/Software-Engineering-Summer-Intern---2025_R0004667",
+    "locations": [
+      "San Diego, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Echostar",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "TD Bank",
+    "id": "b5ba9672-add9-4df6-9244-b8c6c4d85005",
+    "title": "Distribution & Geospatial Intelligence Analyst Intern/Co-op",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1738038741,
+    "date_posted": 1738038741,
+    "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/TD-Terrace---160-Front-Street-West-Corporate/Distribution---Geospatial-Intelligence-Analyst-Intern-Co-op--Summer-2025-_R_1389484",
+    "locations": [
+      "Toronto, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/TD-Bank",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "SageSure",
+    "id": "3d664ec9-5d54-4cf1-9c34-f76857d3a847",
+    "title": "Intern \u2013 Innovation - Capital Risk Management Analytics",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1736295357,
+    "date_posted": 1736295357,
+    "url": "https://www.sagesure.com/careers/current-job-openings/?gh_jid=4430878006",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "company_url": "https://simplify.jobs/c/SageSure-Insurance-Managers",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
