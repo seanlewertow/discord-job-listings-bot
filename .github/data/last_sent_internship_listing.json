@@ -47377,5 +47377,43 @@
     "company_url": "https://simplify.jobs/c/Solidigm",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Blue Cross Blue Shield",
+    "id": "d5b8fcb6-3c08-41ec-acab-082f6eda0ace",
+    "title": "Summer Intern - IT Application Development",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1738082861,
+    "date_posted": 1738082861,
+    "url": "https://bcbsaz.wd1.myworkdayjobs.com/en-US/BCBSAZCareers/job/Phoenix/Summer-Intern---IT-Application-Development--Hybrid-_R5444",
+    "locations": [
+      "Phoenix, AZ"
+    ],
+    "company_url": "https://simplify.jobs/c/c9d90ce1-b167-4f7a-89fc-1b82e563b2a2",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Carrier Global",
+    "id": "ee533dd5-7c5d-4fbc-af7d-43ef2f2ab645",
+    "title": "Enterprise Business System Intern-Spring",
+    "active": true,
+    "terms": [
+      "Spring 2025"
+    ],
+    "date_updated": 1736802831,
+    "date_posted": 1736802831,
+    "url": "https://carrier.wd5.myworkdayjobs.com/jobs/job/CAG24-Atlanta-Digital-Hub-3350-Riverwood-Parkway-Suite-900-Atlanta-GA-30339-USA/Enterprise-Business-System-Intern--Spring_30163939-1",
+    "locations": [
+      "Atlanta, GA"
+    ],
+    "company_url": "https://simplify.jobs/c/Carrier-Global",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
