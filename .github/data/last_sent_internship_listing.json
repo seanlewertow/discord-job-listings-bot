@@ -47992,5 +47992,26 @@
     "company_url": "https://simplify.jobs/c/Deductive-AI",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "QuantCo",
+    "id": "1af5082c-0a84-4711-bafc-97602127ae4e",
+    "title": "Data Science Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1738398240,
+    "date_posted": 1738398240,
+    "url": "https://jobs.lever.co/quantco-/a9862eb3-bbfa-4cdc-862d-ad614f20b1e4/apply",
+    "locations": [
+      "Boston, MA",
+      "London, UK",
+      "SF"
+    ],
+    "company_url": "https://simplify.jobs/c/QuantCo",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
