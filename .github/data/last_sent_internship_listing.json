@@ -47914,5 +47914,64 @@
     "company_url": "https://simplify.jobs/c/Ripple",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Vizient ",
+    "id": "4d9a6e31-170c-4414-bafe-a90ecafdeff2",
+    "title": "Summer Intern - Software Engineering",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1738383093,
+    "date_posted": 1738383093,
+    "url": "https://vizient.wd1.myworkdayjobs.com/Vizient_Careers/job/Chicago-IL-60607/Summer-Intern---Software-Engineering_29166R",
+    "locations": [
+      "Chicago, IL",
+      "Irving, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/85ed65fb-d411-473a-a950-b4d5c8ad7bdf",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Vizient ",
+    "id": "fc56a614-174c-47a3-a57b-0eeebf9909a6",
+    "title": "Summer Intern - Software Engineering",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1738383092,
+    "date_posted": 1738383092,
+    "url": "https://vizient.wd1.myworkdayjobs.com/Vizient_Careers/job/Chicago-IL-60607/Summer-Intern---Software-Engineering_29167R",
+    "locations": [
+      "Chicago, IL",
+      "Cape Girardeau, MO"
+    ],
+    "company_url": "https://simplify.jobs/c/85ed65fb-d411-473a-a950-b4d5c8ad7bdf",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Vizient ",
+    "id": "7cd4ff03-3bd1-4424-a14a-8123628afccd",
+    "title": "Summer Intern - Software Engineering",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1738383092,
+    "date_posted": 1738383092,
+    "url": "https://vizient.wd1.myworkdayjobs.com/Vizient_Careers/job/Chicago-IL-60607/Summer-Intern---Software-Engineering_29168R",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/85ed65fb-d411-473a-a950-b4d5c8ad7bdf",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
