@@ -48013,5 +48013,25 @@
     "company_url": "https://simplify.jobs/c/QuantCo",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Motorola",
+    "id": "ddde655f-a8b7-41fa-90f0-1ddd04d7e9f8",
+    "title": "Software Development Co-Op",
+    "active": true,
+    "terms": [
+      "Spring 2025",
+      "Summer 2025"
+    ],
+    "date_updated": 1738412962,
+    "date_posted": 1738412962,
+    "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/ONT39/Software-Development-2025-Co-Op_R52947",
+    "locations": [
+      "Ontario, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/MotorolaSolutions",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
