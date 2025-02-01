@@ -47819,5 +47819,100 @@
     "company_url": "https://simplify.jobs/c/TD-Bank",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Warner Bros.",
+    "id": "33833f6d-762e-4774-bf3c-d127c11cb6cc",
+    "title": "CNN Digital Growth Analytics Intern - Summer 2025",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1738369460,
+    "date_posted": 1738369460,
+    "url": "https://warnerbros.wd5.myworkdayjobs.com/global/job/NY-New-York-30-Hudson-Yards/CNN-Digital-Growth-Analytics-Intern--NYC---Summer-2025_R000089983",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Warner-Bros",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Cadence Design Systems",
+    "id": "6b282a53-faa0-4ff5-9b0e-c84e3885a8bc",
+    "title": "Software Intern - Automation",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1738369385,
+    "date_posted": 1738369385,
+    "url": "https://cadence.wd1.myworkdayjobs.com/en-US/External_Careers/job/PITTSBURGH-03/Software-Intern--Automation--Summer-2025-_R48739-1",
+    "locations": [
+      "Pittsburgh, PA"
+    ],
+    "company_url": "https://simplify.jobs/c/Cadence-Design-Systems",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Cadence Design Systems",
+    "id": "eb5ba8ad-4e25-4edd-9565-18ca0b4d838a",
+    "title": "Software Development Internship",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1738369381,
+    "date_posted": 1738369381,
+    "url": "https://cadence.wd1.myworkdayjobs.com/en-US/External_Careers/job/Burlington-MA/Software-Development-Internship--SDA--Summer-2025-_R48921-1",
+    "locations": [
+      "Burlington, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/Cadence-Design-Systems",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Together AI",
+    "id": "ffc3505a-dfd8-4f65-96ff-6a93a0e760c2",
+    "title": "Summer 2025 Engineering Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1738368987,
+    "date_posted": 1738368987,
+    "url": "https://job-boards.greenhouse.io/togetherai/jobs/4555193007",
+    "locations": [
+      "SF"
+    ],
+    "company_url": "https://simplify.jobs/c/Together-AI",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Ripple",
+    "id": "d25be504-7223-419f-b209-98a323353bf6",
+    "title": "Markets & Trading Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1738368716,
+    "date_posted": 1738368716,
+    "url": "https://ripple.com/careers/all-jobs/job/6587583?gh_jid=6587583",
+    "locations": [
+      "London, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Ripple",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
