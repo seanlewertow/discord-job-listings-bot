@@ -47973,5 +47973,24 @@
     "company_url": "https://simplify.jobs/c/85ed65fb-d411-473a-a950-b4d5c8ad7bdf",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Deductive AI",
+    "id": "44f5fd8a-7e10-4a64-89ac-d44603ba2e97",
+    "title": "Software Engineer Intern - Fall",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1738383032,
+    "date_posted": 1738383032,
+    "url": "https://jobs.ashbyhq.com/deductive/f391540a-8742-4455-89d5-0022a9ac6f9d/application",
+    "locations": [
+      "Mountain View, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Deductive-AI",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
