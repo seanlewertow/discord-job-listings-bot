@@ -48052,5 +48052,24 @@
     "company_url": "https://simplify.jobs/c/MotorolaSolutions",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Splunk",
+    "id": "051150cc-b9e5-4c1b-ad0f-4dd0fd75eb8b",
+    "title": "Applications Transformation Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1738427434,
+    "date_posted": 1738357261,
+    "url": "https://jobs.jobvite.com/splunk-careers/job/opBmvfwB?nl=1&nl=1&fr=false",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/Splunk",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
