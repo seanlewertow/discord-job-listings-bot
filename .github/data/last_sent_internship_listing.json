@@ -48071,5 +48071,43 @@
     "company_url": "https://simplify.jobs/c/Splunk",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "date_updated": 1738474167,
+    "url": "https://careers.7-eleven.com/job/-/-/7/76740899088",
+    "company_name": "7-Eleven",
+    "title": "Software Developer Intern",
+    "locations": [
+      "Irving, TX"
+    ],
+    "terms": [
+      "Summer 2025"
+    ],
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "source": "GaryZhous",
+    "id": "28301c91-2f8e-4bf7-8834-92e93a8a06e1",
+    "date_posted": 1738474167,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1738474313,
+    "url": "https://app.ripplematch.com/v2/public/job/1c21e989",
+    "company_name": "7-Eleven",
+    "title": "Software Engineer Intern, Anaplan (Summer 2025)",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "terms": [
+      "Summer 2025"
+    ],
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "source": "GaryZhous",
+    "id": "9823c03c-d101-4c29-aab0-a8546f92dbc5",
+    "date_posted": 1738474313,
+    "company_url": "",
+    "is_visible": true
   }
 ]
