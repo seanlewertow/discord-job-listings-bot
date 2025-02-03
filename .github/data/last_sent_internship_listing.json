@@ -48441,5 +48441,24 @@
     "company_url": "https://simplify.jobs/c/Kargo",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Applied Materials",
+    "id": "7a60bd23-319a-42a2-bf37-029ca9586bb8",
+    "title": "Summer 2025 Data Analyst Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1738615569,
+    "date_posted": 1738615569,
+    "url": "https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/Summer-2025-Data-Analyst-Intern--Santa-Clara--CA-_R2510729",
+    "locations": [
+      "Santa Clara, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Applied-Materials",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
