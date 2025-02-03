@@ -48109,5 +48109,43 @@
     "date_posted": 1738474313,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "date_updated": 1738559014,
+    "url": "https://jobs.juniper.net/careers/job/893378500787",
+    "company_name": "Juniper Networks",
+    "title": "Software Engineering Intern - Summer 2025",
+    "locations": [
+      "Sunnyvale, CA"
+    ],
+    "terms": [
+      "Summer 2025"
+    ],
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "source": "GaryZhous",
+    "id": "58a2ef69-2e2f-4fa9-83f5-1d3d20a96281",
+    "date_posted": 1738559014,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1738559123,
+    "url": "https://hl.wd1.myworkdayjobs.com/Corporate/job/Los-Angeles-CA-USA/Software-Engineer-Intern_R2209",
+    "company_name": "Houlihan Lokey",
+    "title": "Software Engineer Intern",
+    "locations": [
+      "Los Angeles, CA"
+    ],
+    "terms": [
+      "Summer 2025"
+    ],
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "source": "GaryZhous",
+    "id": "7f525ecc-fbd5-4a73-bcb9-6809c869cead",
+    "date_posted": 1738559123,
+    "company_url": "",
+    "is_visible": true
   }
 ]
