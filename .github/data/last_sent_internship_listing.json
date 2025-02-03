@@ -48479,5 +48479,25 @@
     "company_url": "https://simplify.jobs/c/Ameriprise-Financial",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Guidewire",
+    "id": "09977c1c-6e92-4857-9ba8-9a93d88524b3",
+    "title": "Consultant Developer Intern",
+    "active": true,
+    "terms": [
+      "Spring 2025",
+      "Summer 2025"
+    ],
+    "date_updated": 1738614923,
+    "date_posted": 1738614923,
+    "url": "https://wd5.myworkdaysite.com/en-US/recruiting/guidewire/external/job/United-States---Philadelphia-PA/Consultant-Developer-Intern_JR_12776-1",
+    "locations": [
+      "Exton, PA"
+    ],
+    "company_url": "https://simplify.jobs/c/Guidewire",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
