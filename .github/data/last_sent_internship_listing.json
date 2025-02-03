@@ -48422,5 +48422,24 @@
     "company_url": "https://simplify.jobs/c/Kargo",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Kargo",
+    "id": "fcce438a-f839-43a4-b4aa-eae1e29f956c",
+    "title": "Intern \u2013 Software Engineering",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1738614038,
+    "date_posted": 1738614038,
+    "url": "https://www.kargo.com/careers?gh_jid=4640097007",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Kargo",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
