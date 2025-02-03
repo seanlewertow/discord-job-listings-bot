@@ -48460,5 +48460,24 @@
     "company_url": "https://simplify.jobs/c/Applied-Materials",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Ameriprise Financial",
+    "id": "9d46a0d9-4715-42f3-8de9-47a367738810",
+    "title": "Investments Intern - Quantitative Research",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1738614634,
+    "date_posted": 1738614634,
+    "url": "https://ameriprise.wd5.myworkdayjobs.com/en-US/Ameriprise/job/Boston-Massachusetts/Investments-Intern--Quantitative-Research_R24_0000002716",
+    "locations": [
+      "Boston, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/Ameriprise-Financial",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
