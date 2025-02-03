@@ -48345,5 +48345,44 @@
     "company_url": "https://simplify.jobs/c/Spot-Freight",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Brunswick",
+    "id": "caa5a317-ba6c-46be-88b0-099ec72ab652",
+    "title": "Software Engineering Intern",
+    "active": true,
+    "terms": [
+      "Spring 2025",
+      "Summer 2025"
+    ],
+    "date_updated": 1738615019,
+    "date_posted": 1738615019,
+    "url": "https://brunswick.wd1.myworkdayjobs.com/en-US/search/job/Tulsa-OK/Software-Engineering-Intern_JR-044185",
+    "locations": [
+      "Tulsa, OK"
+    ],
+    "company_url": "https://simplify.jobs/c/a93a0fb2-e10a-434c-a88c-a639748677a4",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Kargo",
+    "id": "bb101caa-16a5-43be-9e75-7605555785f7",
+    "title": "Intern \u2013 Machine Learning",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1738614037,
+    "date_posted": 1738614037,
+    "url": "https://www.kargo.com/careers?gh_jid=4640621007",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Kargo",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
