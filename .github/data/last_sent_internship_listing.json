@@ -48384,5 +48384,43 @@
     "company_url": "https://simplify.jobs/c/Kargo",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "d-Matrix",
+    "id": "762d524d-636c-411b-bc42-acbddde00e4c",
+    "title": "Machine Learning Research Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1738616155,
+    "date_posted": 1738616155,
+    "url": "https://jobs.ashbyhq.com/d-Matrix/f05ada35-9763-40f2-b079-15191374b2f3/application",
+    "locations": [
+      "Santa Clara, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/d-Matrix",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Kargo",
+    "id": "f35b522f-de00-4e50-95b2-21c210fd7a48",
+    "title": "Intern \u2013 Data Analytics",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1738614049,
+    "date_posted": 1738614049,
+    "url": "https://www.kargo.com/careers?gh_jid=4639909007",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Kargo",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
