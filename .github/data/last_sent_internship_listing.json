@@ -48283,5 +48283,67 @@
     "company_url": "https://simplify.jobs/c/Expedia-Group",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Booz Allen",
+    "id": "507e2a38-1ef7-4fe1-80c5-aef7d6aa8553",
+    "title": "University \u2013 Systems Engineer Intern",
+    "active": true,
+    "terms": [
+      "Winter 2025",
+      "Spring 2025",
+      "Summer 2025",
+      "Fall 2025",
+      "Winter 2026",
+      "Spring 2026"
+    ],
+    "date_updated": 1738600549,
+    "date_posted": 1738600549,
+    "url": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fayetteville-NC/University--Systems-Engineer-Intern_R0214007",
+    "locations": [
+      "Fayetteville, NC"
+    ],
+    "company_url": "https://simplify.jobs/c/Booz-Allen",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Tecovas",
+    "id": "67bb5736-dd5c-4af2-870a-958fc678ce10",
+    "title": "Technology Core Systems Intern - Internal Opportunity",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1738600539,
+    "date_posted": 1738600539,
+    "url": "https://job-boards.greenhouse.io/tecovas/jobs/7842724002",
+    "locations": [
+      "Austin, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Tecovas",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Spot Freight",
+    "id": "e00ffdce-c769-4278-abc9-0c07a4df4035",
+    "title": "Software Developer Internship",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1738600428,
+    "date_posted": 1738600428,
+    "url": "https://spotinc.com/careers/applynow/?gh_jid=4440361006",
+    "locations": [
+      "Indianapolis, IN"
+    ],
+    "company_url": "https://simplify.jobs/c/Spot-Freight",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
