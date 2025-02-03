@@ -48147,5 +48147,44 @@
     "date_posted": 1738559123,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Teledyne",
+    "id": "68ce4918-41af-4039-b10e-1dcbea6701d7",
+    "title": "Technical Intern - Summer",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1738570252,
+    "date_posted": 1738570252,
+    "url": "https://flir.wd1.myworkdayjobs.com/en-US/flircareers/job/US---Durham-NC-TDY/Technical-Intern--Summer-_REQ28076-1",
+    "locations": [
+      "Durham, NC"
+    ],
+    "company_url": "https://simplify.jobs/c/199b3c43-379a-408c-a6a8-980e79183038",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "The Walt Disney Company",
+    "id": "28618cf1-fc33-4b3a-9f64-630e06ba4693",
+    "title": "Walt Disney World Transportation Logistics & Analytics Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025",
+      "Fall 2025"
+    ],
+    "date_updated": 1738570655,
+    "date_posted": 1738570655,
+    "url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Lake-Buena-Vista-FL-USA/Walt-Disney-World-Transportation-Logistics---Analytics-Intern--Summer-Fall-2025_10110996",
+    "locations": [
+      "Celebration, FL"
+    ],
+    "company_url": "https://simplify.jobs/c/Disney",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
