@@ -48186,5 +48186,102 @@
     "company_url": "https://simplify.jobs/c/Disney",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Amazon",
+    "id": "66cfa376-1da4-4cf1-a0c8-96287efa4c0b",
+    "title": "Business Intelligence Engineer Internship",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1738600150,
+    "date_posted": 1738600150,
+    "url": "https://amazon.jobs/en/jobs/2793105/2025-business-intelligence-engineer-internship",
+    "locations": [
+      "Denmark, WI"
+    ],
+    "company_url": "https://simplify.jobs/c/Amazon",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "CACI",
+    "id": "98b62ef6-5cb2-4fda-8ebb-58025d3ebd3c",
+    "title": "BD Ops Reporting & Analytics Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1738599882,
+    "date_posted": 1738599882,
+    "url": "https://caci.wd1.myworkdayjobs.com/External/job/US-VA-Reston/BD-Ops-Reporting---Analytics-Intern---Summer-2025_307274-1",
+    "locations": [
+      "Reston, VA"
+    ],
+    "company_url": "https://simplify.jobs/c/CACI",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Splunk",
+    "id": "de20ab8c-56d2-4887-bd49-bad4711b6d58",
+    "title": "Data Analyst Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1738599740,
+    "date_posted": 1738599740,
+    "url": "https://jobs.jobvite.com/splunk-careers/job/oB4nvfwh?nl=1&nl=1&fr=false",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/Splunk",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Expedia Group",
+    "id": "0d699d58-bebf-4369-b1fc-f970642f8403",
+    "title": "Mobile Engineering Intern",
+    "active": true,
+    "terms": [
+      "Spring 2025",
+      "Summer 2025"
+    ],
+    "date_updated": 1738599716,
+    "date_posted": 1738599716,
+    "url": "https://expedia.wd5.myworkdayjobs.com/en-US/private/job/Canada---Quebec---Montreal/Mobile-Engineering-Intern---2025---Montreal_R-91176",
+    "locations": [
+      "Montreal, QC, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Expedia-Group",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Expedia Group",
+    "id": "02da086c-e17c-4461-be18-9644584815f6",
+    "title": "Software Development Intern - 2025",
+    "active": true,
+    "terms": [
+      "Spring 2025",
+      "Summer 2025"
+    ],
+    "date_updated": 1738599697,
+    "date_posted": 1738599697,
+    "url": "https://expedia.wd5.myworkdayjobs.com/en-US/private/job/Canada---Quebec---Montreal/Software-Development-Engineering-Intern---2025---Montreal_R-91174",
+    "locations": [
+      "Montreal, QC, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Expedia-Group",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
