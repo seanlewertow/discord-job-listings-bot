@@ -48846,5 +48846,43 @@
     "company_url": "https://simplify.jobs/c/199b3c43-379a-408c-a6a8-980e79183038",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Bank of Montreal",
+    "id": "0deafc4c-5e5e-43fd-b2cd-02670f28cb8f",
+    "title": "Data Analyst Intern \u2013 Co-op/Internship - Business Banking",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1738687212,
+    "date_posted": 1738687212,
+    "url": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Data-Analyst-Intern--Business-Banking---Summer-2025--Co-op-Internship----4-Months_R250003095-1",
+    "locations": [
+      "Toronto, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/BMO",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Bank of Montreal",
+    "id": "852ce194-2389-465c-9cbd-921e64ad8001",
+    "title": "Data Analyst Intern \u2013 Co-op/Internship - Business Banking",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1738686978,
+    "date_posted": 1738686978,
+    "url": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Data-Analyst-Intern--Business-Banking----Summer-2025--Co-op-Internship----4-Months_R250003098-1",
+    "locations": [
+      "Toronto, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/BMO",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
