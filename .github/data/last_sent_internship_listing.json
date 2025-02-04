@@ -48982,5 +48982,44 @@
     "company_url": "https://simplify.jobs/c/Toast",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Five Rings Capital",
+    "id": "4268c8f2-b3e9-4368-b295-25249bfc444b",
+    "title": "Winter Intern - Quantitative Research Analyst",
+    "active": true,
+    "terms": [
+      "Winter 2026"
+    ],
+    "date_updated": 1738701543,
+    "date_posted": 1738701543,
+    "url": "https://job-boards.greenhouse.io/fiveringsllc/jobs/4521146008",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Five-Rings",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Motorola",
+    "id": "b5055a7a-6931-41c9-a8ae-6186c09b9a55",
+    "title": "Intern - Data and Analytics Tableau Developer",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1738703393,
+    "date_posted": 1738703393,
+    "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/XMLNAME-2025-Summer-Intern---Data-and-Analytics-Tableau-Developer_R53589-1",
+    "locations": [
+      "Chicago, IL",
+      "Plantation, FL"
+    ],
+    "company_url": "https://simplify.jobs/c/MotorolaSolutions",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
