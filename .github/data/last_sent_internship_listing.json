@@ -48884,5 +48884,45 @@
     "company_url": "https://simplify.jobs/c/BMO",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Nelnet",
+    "id": "74fef5a8-704c-4004-a579-beef26421c95",
+    "title": "BA Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1738703720,
+    "date_posted": 1738703720,
+    "url": "https://nelnet.wd1.myworkdayjobs.com/en-US/MyNelnet/job/Remote/BA-Intern_R20659-1",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/d7662126-9bc7-4ec4-b3e6-a9a3ae307c5d",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Motorola",
+    "id": "c4e12bee-c072-4d87-a03d-1c6c441df5ee",
+    "title": "Customer Data Management & Proposal Center Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1738703404,
+    "date_posted": 1738703404,
+    "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/Customer-Data-Management---Proposal-Center-Intern--2025-Summer-Internship-_R53520",
+    "locations": [
+      "Florida",
+      "Chicago, IL",
+      "Plantation, FL"
+    ],
+    "company_url": "https://simplify.jobs/c/MotorolaSolutions",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
