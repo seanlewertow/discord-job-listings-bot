@@ -48499,5 +48499,100 @@
     "company_url": "https://simplify.jobs/c/Guidewire",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Salesforce",
+    "id": "a88abc3d-a867-4ff3-a3b2-97cf37150490",
+    "title": "Summer 2025 Intern - AI Research - Office of the CEO",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1738627938,
+    "date_posted": 1738627938,
+    "url": "https://salesforce.wd12.myworkdayjobs.com/en-us/External_Career_Site/job/California---San-Francisco/Summer-2025-Intern---AI-Research--Office-of-the-CEO_JR281484-1",
+    "locations": [
+      "SF"
+    ],
+    "company_url": "https://simplify.jobs/c/Salesforce",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Archer",
+    "id": "33708ec6-0a34-4c80-9ecf-ae13812ae492",
+    "title": "Full Stack Application Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1738628791,
+    "date_posted": 1738628791,
+    "url": "https://job-boards.greenhouse.io/archer56/jobs/6347217003",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Archer",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Booz Allen",
+    "id": "0c3e879f-92fe-48e9-a9ac-751f79ec9fc0",
+    "title": "Systems Engineer Intern",
+    "active": true,
+    "terms": [
+      "Spring 2025"
+    ],
+    "date_updated": 1738628732,
+    "date_posted": 1738628732,
+    "url": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fayetteville-NC/Systems-Engineer-Intern_R0213950",
+    "locations": [
+      "Fayetteville, NC"
+    ],
+    "company_url": "https://simplify.jobs/c/Booz-Allen",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Bank of Montreal",
+    "id": "cbd15a40-45bd-42c5-ac19-8ad64d1a333c",
+    "title": "Data Analyst \u2013 Co-op/Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1738628579,
+    "date_posted": 1738628579,
+    "url": "https://bmo.wd3.myworkdayjobs.com/External/job/MONTREAL-QC-CAN/Data-Analyst--Co-op-Intern---Summer-2025--Montreal---4-months_R250002219-1",
+    "locations": [
+      "Montreal, QC, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/BMO",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "United Parcel Service (UPS)",
+    "id": "84c94ce4-4013-4ac4-8063-e06bc74d3bae",
+    "title": "Opt \u2013 Flight & Crew Systems Co-op",
+    "active": true,
+    "terms": [
+      "Spring 2025"
+    ],
+    "date_updated": 1738629082,
+    "date_posted": 1738629082,
+    "url": "https://hcmportal.wd5.myworkdayjobs.com/en-US/Search/job/US---AIR-GROUP-BUILDING-KYARP/ISM-Co-op_R25003471",
+    "locations": [
+      "United States"
+    ],
+    "company_url": "https://simplify.jobs/c/United-Parcel-Service",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
