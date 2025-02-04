@@ -48749,5 +48749,102 @@
     "company_url": "https://simplify.jobs/c/Samsara",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Autodesk",
+    "id": "3c220632-a8a6-4d54-88f5-348014986446",
+    "title": "Intern \u2013 Machine Learning Developer",
+    "active": true,
+    "terms": [
+      "Spring 2025",
+      "Summer 2025"
+    ],
+    "date_updated": 1738686641,
+    "date_posted": 1738686641,
+    "url": "https://autodesk.wd1.myworkdayjobs.com/en-US/uni/job/AMER---Canada---Ontario---OffsiteHome/Intern--Machine-Learning-Developer_24WD82665",
+    "locations": [
+      "Remote in Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/9a5a4634-d168-4118-b172-0c0aae45f2ad",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "FactSet",
+    "id": "ef7435ad-a9fc-4d57-b836-b5f944a09c7a",
+    "title": "Buy-Side Analytics Internship",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1738686517,
+    "date_posted": 1738686517,
+    "url": "https://factset.wd1.myworkdayjobs.com/en-US/FactSetCareers/job/United-States-Boston-One-Beacon-Street/Buy-Side-Analytics-Internship----Americas-Campus--Summer-2025-_R26768",
+    "locations": [
+      "Boston, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/070f3806-d132-4f78-8320-b7048399142c",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Click Therapeutics",
+    "id": "0cc8d7c6-c5a5-467e-baaa-0abd783ca21d",
+    "title": "Prototype Engineer Intern",
+    "active": true,
+    "terms": [
+      "Spring 2025",
+      "Summer 2025"
+    ],
+    "date_updated": 1738686394,
+    "date_posted": 1738686394,
+    "url": "https://boards.greenhouse.io/clicktherapeutics/jobs/7846429002",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/ClickTx",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Snyk",
+    "id": "aae77762-c9ef-4a3c-ae99-d4893a7b1dec",
+    "title": "R&D Engineering Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1738686386,
+    "date_posted": 1738686386,
+    "url": "https://boards.greenhouse.io/snyk/jobs/7714363002",
+    "locations": [
+      "London, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Snyk",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Teledyne",
+    "id": "fabc489c-bbfd-4ea4-9bf2-ebdd5880b423",
+    "title": "Software Engineer \u2013 Intern",
+    "active": true,
+    "terms": [
+      "Spring 2025"
+    ],
+    "date_updated": 1738686052,
+    "date_posted": 1738686052,
+    "url": "https://flir.wd1.myworkdayjobs.com/en-US/flircareers/job/US---Huntsville-AL/Software-Engineer--Intern-_REQ28194",
+    "locations": [
+      "Huntsville, AL"
+    ],
+    "company_url": "https://simplify.jobs/c/199b3c43-379a-408c-a6a8-980e79183038",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
