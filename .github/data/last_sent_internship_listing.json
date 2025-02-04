@@ -48943,5 +48943,44 @@
     "company_url": "https://simplify.jobs/c/F5",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "SoFi",
+    "id": "2bda0b0e-938b-423c-8b3c-15d28762deca",
+    "title": "Intern \u2013 Data Scientist - Borrow",
+    "active": true,
+    "terms": [
+      "Summer 2025",
+      "Fall 2025"
+    ],
+    "date_updated": 1738700922,
+    "date_posted": 1738700922,
+    "url": "https://www.sofi.com/careers/sofi-university/6339829003?gh_jid=6339829003",
+    "locations": [
+      "SF"
+    ],
+    "company_url": "https://simplify.jobs/c/SoFi",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Toast",
+    "id": "08f6acd5-356a-455c-b170-a32895ebc2c1",
+    "title": "Engineering Co-op",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1738700429,
+    "date_posted": 1738700429,
+    "url": "https://boards.greenhouse.io/embed/job_app?token=6600008",
+    "locations": [
+      "Boston, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/Toast",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
