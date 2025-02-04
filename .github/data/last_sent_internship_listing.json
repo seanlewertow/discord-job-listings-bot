@@ -49021,5 +49021,24 @@
     "company_url": "https://simplify.jobs/c/MotorolaSolutions",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "General Motors",
+    "id": "0f50cc81-f383-45c7-9c98-45adabefe05c",
+    "title": "Software Developer \u2013 Simulation Internship",
+    "active": true,
+    "terms": [
+      "Spring 2025"
+    ],
+    "date_updated": 1738701740,
+    "date_posted": 1738701740,
+    "url": "https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Markham-Ontario-Canada/Software-Developer---Simulation-Internship_JR-202502536",
+    "locations": [
+      "Markham, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/General-Motors",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
