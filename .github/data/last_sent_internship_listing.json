@@ -48594,5 +48594,24 @@
     "company_url": "https://simplify.jobs/c/United-Parcel-Service",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Kyndryl Holdings",
+    "id": "af4e92cc-41c2-4a15-9404-fe5977d7c76f",
+    "title": "Software Developer \u2013 Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1738636406,
+    "date_posted": 1738082661,
+    "url": "https://kyndryl.wd5.myworkdayjobs.com/KyndrylEarlyCareers/job/Rochester-MN-USA/Software-Developer---Intern_R-31004-1",
+    "locations": [
+      "Rochester, MN"
+    ],
+    "company_url": "https://simplify.jobs/c/Kyndryl-Holdings",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
