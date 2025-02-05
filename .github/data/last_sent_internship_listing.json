@@ -49184,5 +49184,24 @@
     "company_url": "https://simplify.jobs/c/Gamechanger",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Blockhouse",
+    "id": "8f407504-ff91-4cb0-a5a8-6a1a2bd2257c",
+    "title": "Crypto Data Analyst Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1738772720,
+    "date_posted": 1738772720,
+    "url": "https://jobs.ashbyhq.com/blockhouse/a7812f45-16e2-4815-9ac2-d96aa3dbe502/application",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Blockhouse",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
