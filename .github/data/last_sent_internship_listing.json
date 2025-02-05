@@ -49319,5 +49319,62 @@
     "company_url": "https://simplify.jobs/c/FM-Global",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Parsons",
+    "id": "819f9b22-75be-40be-ac08-17d2d9e83ee5",
+    "title": "Computer Science Co-Op",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1738788321,
+    "date_posted": 1738788321,
+    "url": "https://parsons.wd5.myworkdayjobs.com/en-US/search/job/US---Remote-Any-Location/Computer-Science-Co-Op---2025_R163777",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/Parsons",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Resmed",
+    "id": "52971250-e8c7-4718-b303-b1013c135ad4",
+    "title": "Software Engineering Intern",
+    "active": true,
+    "terms": [
+      "Summer 2024"
+    ],
+    "date_updated": 1738787722,
+    "date_posted": 1738787722,
+    "url": "https://resmed.wd3.myworkdayjobs.com/en-US/ResMed_External_Careers/job/San-Diego-CA-United-States/Software-Engineering-Intern_JR_039584",
+    "locations": [
+      "San Diego, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/f1e2116e-f25f-44f8-9667-7351ce6ceb3f",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Resmed",
+    "id": "983eb99e-296f-4fab-a9b5-3a586be4e8ff",
+    "title": "Software Test Engineering Intern",
+    "active": true,
+    "terms": [
+      "Summer 2024"
+    ],
+    "date_updated": 1738787716,
+    "date_posted": 1738787716,
+    "url": "https://resmed.wd3.myworkdayjobs.com/en-US/ResMed_External_Careers/job/San-Diego-CA-United-States/Software-Test-Engineering-Intern_JR_039383",
+    "locations": [
+      "San Diego, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/f1e2116e-f25f-44f8-9667-7351ce6ceb3f",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
