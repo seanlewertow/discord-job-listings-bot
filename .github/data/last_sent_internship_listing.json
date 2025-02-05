@@ -49165,5 +49165,24 @@
     "company_url": "https://simplify.jobs/c/Harbinger-Motors",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Gamechanger",
+    "id": "b6294f57-8eae-4b3b-971a-9eb35e2cdd73",
+    "title": "Software Engineer Intern - Video",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1738772154,
+    "date_posted": 1738772154,
+    "url": "https://jobs.ashbyhq.com/gamechanger/9d870798-78e2-4968-a328-c1489b09eddf/application",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/Gamechanger",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
