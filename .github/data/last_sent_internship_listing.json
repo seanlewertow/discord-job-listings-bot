@@ -49475,5 +49475,24 @@
     "company_url": "https://simplify.jobs/c/LiveRamp",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Leidos",
+    "id": "db5cfc13-1d11-4de9-97e2-694145ef6d77",
+    "title": "Power BI Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1738788872,
+    "date_posted": 1738788872,
+    "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Reston-VA/Power-BI-Intern_R-00152858",
+    "locations": [
+      "Reston, VA"
+    ],
+    "company_url": "https://simplify.jobs/c/Leidos",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
