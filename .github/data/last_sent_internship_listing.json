@@ -49146,5 +49146,24 @@
     "company_url": "https://simplify.jobs/c/Viant",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Harbinger Motors",
+    "id": "e4a0e315-f6ca-454a-a311-35977211c0a2",
+    "title": "Intern \u2013 Production Data Analytics",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1738728960,
+    "date_posted": 1738728960,
+    "url": "https://job-boards.greenhouse.io/harbingermotors/jobs/4642763007",
+    "locations": [
+      "Westminster, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Harbinger-Motors",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
