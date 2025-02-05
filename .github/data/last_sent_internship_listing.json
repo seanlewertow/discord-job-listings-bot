@@ -49494,5 +49494,24 @@
     "company_url": "https://simplify.jobs/c/Leidos",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Rivian",
+    "id": "95d6e909-0282-4817-9884-001a4bf6c61e",
+    "title": "Software Engineering Intern - Software Systems - Autonomy",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1738790022,
+    "date_posted": 1738790022,
+    "url": "https://careers.rivian.com/jobs/21803?lang=en-us&icims=1",
+    "locations": [
+      "Palo Alto, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Rivian",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
