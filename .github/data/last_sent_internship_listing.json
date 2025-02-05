@@ -49300,5 +49300,24 @@
     "company_url": "https://simplify.jobs/c/a93a0fb2-e10a-434c-a88c-a639748677a4",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "FM Global",
+    "id": "0b2df1f4-882e-4a61-b5e7-9cab36587504",
+    "title": "Enterprise Services Metrics and Reporting Summer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1738787084,
+    "date_posted": 1738787084,
+    "url": "https://jobs-fmglobal.icims.com/jobs/15425/job",
+    "locations": [
+      "Providence, RI"
+    ],
+    "company_url": "https://simplify.jobs/c/FM-Global",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
