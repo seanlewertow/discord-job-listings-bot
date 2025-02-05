@@ -49241,5 +49241,44 @@
     "company_url": "https://simplify.jobs/c/238c95d8-0d6e-4717-b28c-078b16d675d7",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "FactSet",
+    "id": "cd168cbd-f0cb-4dbe-9043-ccbaf46e7ec5",
+    "title": "Buy-Side Analytics Internship",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1738772665,
+    "date_posted": 1738772665,
+    "url": "https://factset.wd1.myworkdayjobs.com/en-US/FactSetCareers/job/New-York-NY-USA/Buy-Side-Analytics-Internship----Americas-Campus--Summer-2025-_R25689",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/070f3806-d132-4f78-8320-b7048399142c",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "TD Bank",
+    "id": "bc345e5c-760a-48be-a521-67531852a1ee",
+    "title": "Business Systems Analyst Intern/Co-op",
+    "active": true,
+    "terms": [
+      "Fall 2025",
+      "Winter 2026"
+    ],
+    "date_updated": 1738773081,
+    "date_posted": 1738773081,
+    "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Business-Systems-Analyst-Intern-Co-op_R_1393138",
+    "locations": [
+      "Toronto, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/TD-Bank",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
