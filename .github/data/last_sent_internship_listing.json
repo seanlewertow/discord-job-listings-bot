@@ -49456,5 +49456,24 @@
     "company_url": "https://simplify.jobs/c/Illumio",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "LiveRamp",
+    "id": "ccb682b2-f8c9-407b-80c1-ab12178b5efc",
+    "title": "Co-Op \u2013 Software Engineering",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1738787358,
+    "date_posted": 1738787358,
+    "url": "https://liveramp.wd5.myworkdayjobs.com/en-US/LiveRampCareers/job/San-Francisco/Co-Op--Software-Engineering_JR011449",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/LiveRamp",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
