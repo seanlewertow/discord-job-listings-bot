@@ -49040,5 +49040,111 @@
     "company_url": "https://simplify.jobs/c/General-Motors",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Crowdstrike",
+    "id": "bd241d7d-f8ba-4e15-81da-64d8d164ca2b",
+    "title": "Software Engineer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1738714995,
+    "date_posted": 1738714995,
+    "url": "https://crowdstrike.wd5.myworkdayjobs.com/en-us/crowdstrikecareers/job/USA---Remote-VA/Software-Engineer-Intern---Summer-2025--Remote-_R21589",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/Crowdstrike",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Chime",
+    "id": "334290d7-7692-419f-a01a-c1bf3122a5a2",
+    "title": "Reporting and Data Infrastructure Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1738714948,
+    "date_posted": 1738714948,
+    "url": "https://boards.greenhouse.io/chime/jobs/7744600002",
+    "locations": [
+      "SF"
+    ],
+    "company_url": "https://simplify.jobs/c/Chime",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Mach9",
+    "id": "4d241c98-2def-4110-8a55-dc7534e991d9",
+    "title": "Full-Stack Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1738714809,
+    "date_posted": 1738714809,
+    "url": "https://jobs.ashbyhq.com/mach9/5673f663-3ef1-4f83-8a6c-ed7d6944370e/application",
+    "locations": [
+      "SF"
+    ],
+    "company_url": "https://simplify.jobs/c/Mach9",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Comcast",
+    "id": "39728715-5b7c-46ab-8953-372e078f1d1a",
+    "title": "ERP Internship: Rising Senior Technology",
+    "active": true,
+    "terms": [
+      "Spring 2025",
+      "Summer 2025"
+    ],
+    "date_updated": 1738714608,
+    "date_posted": 1738714608,
+    "url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1701-John-F-Kennedy-Blvd/ERP-Internship--Rising-Senior-Technology_R395084",
+    "locations": [
+      "West Chester, PA",
+      "Orlando, FL",
+      "Englewood, NJ",
+      "Stamford, CT",
+      "Philadelphia, PA",
+      "Berwyn, PA",
+      "North Hollywood, LA",
+      "Mt Laurel Township, NJ",
+      "Trevose, Feasterville-Trevose, PA",
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Comcast",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Viant",
+    "id": "9d620b6c-edf2-47e1-913d-cfb349e9f99c",
+    "title": "Engineering Intern - Corp IT",
+    "active": true,
+    "terms": [
+      "Summer 2025",
+      "Fall 2025"
+    ],
+    "date_updated": 1738714685,
+    "date_posted": 1738714685,
+    "url": "https://jobs.lever.co/viantinc/ee308817-86a9-45aa-8a63-840f0c0d4873/apply",
+    "locations": [
+      "Irvine, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Viant",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
