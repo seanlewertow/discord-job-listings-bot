@@ -49551,5 +49551,101 @@
     "company_url": "https://simplify.jobs/c/PNC-Financial-Services",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Resmed",
+    "id": "2bf2ad4f-3c22-4333-b4be-a2e7c1d7b15d",
+    "title": "Generative AI Machine Learning Intern",
+    "active": true,
+    "terms": [
+      "Summer 2024"
+    ],
+    "date_updated": 1738801023,
+    "date_posted": 1738801023,
+    "url": "https://resmed.wd3.myworkdayjobs.com/en-US/ResMed_External_Careers/job/US-San-Diego-Corporate/Generative-AI-Machine-Learning-Intern_JR_039215",
+    "locations": [
+      "San Diego, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/f1e2116e-f25f-44f8-9667-7351ce6ceb3f",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Resmed",
+    "id": "1c93ae8f-3b31-469f-9a10-a3bd036aa2ca",
+    "title": "Android Developer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2024"
+    ],
+    "date_updated": 1738801019,
+    "date_posted": 1738801019,
+    "url": "https://resmed.wd3.myworkdayjobs.com/en-US/ResMed_External_Careers/job/US-San-Diego-Corporate/Android-Developer-Intern_JR_039381",
+    "locations": [
+      "San Diego, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/f1e2116e-f25f-44f8-9667-7351ce6ceb3f",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Cadence Design Systems",
+    "id": "b3fe29e7-40a0-4308-bbcb-51911ff9bfe6",
+    "title": "SVG Software Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1738801012,
+    "date_posted": 1738801012,
+    "url": "https://cadence.wd1.myworkdayjobs.com/en-US/External_Careers/job/SAN-JOSE/SVG-Software-Intern--Summer-2025-_R48644-1",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Cadence-Design-Systems",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Snorkel AI",
+    "id": "542a8dd8-d140-4307-801f-89144065b294",
+    "title": "Software Engineer \u2013 Summer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1738800959,
+    "date_posted": 1738800959,
+    "url": "https://job-boards.greenhouse.io/snorkelai/jobs/5439082004",
+    "locations": [
+      "SF",
+      "San Carlos, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Snorkel-AI",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Amazon",
+    "id": "271d992f-e750-4208-916a-87e7794ebc22",
+    "title": "SDE Intern - Software and Networking Developer - SDN",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1738801827,
+    "date_posted": 1738801827,
+    "url": "https://amazon.jobs/en/jobs/2893532/sde-intern-summer-software-and-networking-developer-sdn",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "company_url": "https://simplify.jobs/c/Amazon",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
