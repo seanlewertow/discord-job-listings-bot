@@ -49763,5 +49763,25 @@
     "company_url": "https://simplify.jobs/c/Chewy",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Brunswick",
+    "id": "1247f351-d0e8-4b4a-b0a4-c9ec8533b3cb",
+    "title": "Embedded Software Intern",
+    "active": true,
+    "terms": [
+      "Fall 2025",
+      "Spring 2026"
+    ],
+    "date_updated": 1738873895,
+    "date_posted": 1738873895,
+    "url": "https://brunswick.wd1.myworkdayjobs.com/en-US/search/job/Champaign-IL/Embedded-Software-Intern_JR-045264",
+    "locations": [
+      "Urbana, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/a93a0fb2-e10a-434c-a88c-a639748677a4",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
