@@ -49783,5 +49783,24 @@
     "company_url": "https://simplify.jobs/c/a93a0fb2-e10a-434c-a88c-a639748677a4",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Verition Fund Management",
+    "id": "f64e76c3-4849-4c51-a8e3-2e61c1221e64",
+    "title": "2025 Summer Internship - Technology",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1738875367,
+    "date_posted": 1738875367,
+    "url": "https://www.verition.com/open-positions?gh_jid=4644850007",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/VeritionFund",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
