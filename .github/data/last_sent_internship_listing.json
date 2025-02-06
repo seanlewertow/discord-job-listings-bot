@@ -49704,5 +49704,43 @@
     "company_url": "https://simplify.jobs/c/Hatch-IT",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "CACI",
+    "id": "584466d8-b20e-491f-b53a-0cf91f1ff9fb",
+    "title": "Intern Program",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1738859057,
+    "date_posted": 1738859057,
+    "url": "https://caci.wd1.myworkdayjobs.com/External/job/Nationwide/Clarkson-University-Students---Summer-2025-Intern-Program_307628-1",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/CACI",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Rivian",
+    "id": "627393d4-03f4-470e-b8aa-61b5f8cefca3",
+    "title": "Software Engineering Intern - Embedded Software - Autonomy",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1738859387,
+    "date_posted": 1738859387,
+    "url": "https://careers.rivian.com/jobs/21802?lang=en-us&icims=1",
+    "locations": [
+      "Palo Alto, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Rivian",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
