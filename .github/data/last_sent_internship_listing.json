@@ -49666,5 +49666,43 @@
     "company_url": "https://simplify.jobs/c/AppLovin",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Motorola",
+    "id": "687c3370-5ac3-4e39-b653-17c5824f7d34",
+    "title": "2025 Summer Internship - Embedded Software Engineer",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1738859350,
+    "date_posted": 1738859350,
+    "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Schaumburg-IL/XMLNAME-2025-Summer-Internship---Embedded-Software-Engineer_R53571",
+    "locations": [
+      "Hoffman Estates, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/MotorolaSolutions",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Hatch IT",
+    "id": "4c408587-9d8e-4922-8e42-b95e6f62d0d7",
+    "title": "Intern--Generative AI",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1738858768,
+    "date_posted": 1738858768,
+    "url": "https://jobs.lever.co/hatchit/bb82a213-a9ce-449e-a4a7-25b167891993/apply",
+    "locations": [
+      "Fairfax, VA"
+    ],
+    "company_url": "https://simplify.jobs/c/Hatch-IT",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
