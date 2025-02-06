@@ -49742,5 +49742,26 @@
     "company_url": "https://simplify.jobs/c/Rivian",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Chewy",
+    "id": "17659ce8-8479-4e7c-a731-635d015a6a33",
+    "title": "Software Engineer I Co-op",
+    "active": true,
+    "terms": [
+      "Summer 2025",
+      "Fall 2025",
+      "Winter 2026"
+    ],
+    "date_updated": 1738873440,
+    "date_posted": 1738873440,
+    "url": "https://boards.greenhouse.io/embed/job_app?token=6498829",
+    "locations": [
+      "Minneapolis, MN"
+    ],
+    "company_url": "https://simplify.jobs/c/Chewy",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
