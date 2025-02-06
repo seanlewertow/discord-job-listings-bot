@@ -49647,5 +49647,24 @@
     "company_url": "https://simplify.jobs/c/Amazon",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "AppLovin",
+    "id": "20533fe6-656b-44a2-b2cb-5ed5795ddeff",
+    "title": "Software Engineering Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1738816141,
+    "date_posted": 1738816141,
+    "url": "https://boards.greenhouse.io/applovin/jobs/4406605006",
+    "locations": [
+      "Palo Alto, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/AppLovin",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
