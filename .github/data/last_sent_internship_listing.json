@@ -50106,5 +50106,43 @@
     "company_url": "https://simplify.jobs/c/199b3c43-379a-408c-a6a8-980e79183038",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Resmed",
+    "id": "3b28017d-77f2-4df1-ba38-eab939f686fd",
+    "title": "Machine Learning Engineering Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1738961137,
+    "date_posted": 1738961137,
+    "url": "https://resmed.wd3.myworkdayjobs.com/en-US/ResMed_External_Careers/job/San-Diego-CA-United-States/Machine-Learning-Engineering-Intern_JR_039221",
+    "locations": [
+      "San Diego, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/f1e2116e-f25f-44f8-9667-7351ce6ceb3f",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Thinkingbox",
+    "id": "47e8127c-8839-489d-822c-396c8aa5f5c1",
+    "title": "Front End Developer Intern - Thinkingbox",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1738961047,
+    "date_posted": 1738961047,
+    "url": "https://jobs.lever.co/thinkingbox/058d9ca3-80fd-4200-8687-033751416838/apply",
+    "locations": [
+      "Toronto, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Thinkingbox",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
