@@ -50030,5 +50030,24 @@
     "company_url": "https://simplify.jobs/c/c9d90ce1-b167-4f7a-89fc-1b82e563b2a2",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Genuine Parts Company",
+    "id": "2d67e7e4-6649-42aa-840d-57c7f6c9645a",
+    "title": "Web Developer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1738946791,
+    "date_posted": 1738946791,
+    "url": "https://genpt.wd1.myworkdayjobs.com/Careers/job/Birmingham-AL-USA/Web-Developer-Intern_R25_0000004598",
+    "locations": [
+      "Birmingham, AL"
+    ],
+    "company_url": "https://simplify.jobs/c/Genuine-Parts-Company",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
