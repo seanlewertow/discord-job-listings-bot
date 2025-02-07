@@ -50183,5 +50183,43 @@
     "company_url": "https://simplify.jobs/c/TD-Bank",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Applied Materials",
+    "id": "080ffbe3-75e5-4efb-8760-1a23c71e0307",
+    "title": "Software Engineer Co-op",
+    "active": true,
+    "terms": [
+      "Spring 2025"
+    ],
+    "date_updated": 1738961663,
+    "date_posted": 1738961663,
+    "url": "https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/Software-Engineer-Co-op--Spring-2025---Spring-2026-_R2510808",
+    "locations": [
+      "Santa Clara, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Applied-Materials",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "CACI",
+    "id": "9cf552d6-5e20-40a0-9930-2daad6f61986",
+    "title": "Software Engineering Co-Op",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1738962145,
+    "date_posted": 1738962145,
+    "url": "https://caci.wd1.myworkdayjobs.com/External/job/US-NY-Rochester/Software-Engineering-Co-Op---Summer-2025_306864-1",
+    "locations": [
+      "Rochester, NY"
+    ],
+    "company_url": "https://simplify.jobs/c/CACI",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
