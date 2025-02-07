@@ -50144,5 +50144,24 @@
     "company_url": "https://simplify.jobs/c/Thinkingbox",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Resmed",
+    "id": "f4f3cfdb-2426-46ee-8bd1-c44842436b6d",
+    "title": "Machine Learning Ops Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1738961131,
+    "date_posted": 1738961131,
+    "url": "https://resmed.wd3.myworkdayjobs.com/en-US/ResMed_External_Careers/job/San-Diego-CA-United-States/Machine-Learning-Ops-Intern_JR_039220",
+    "locations": [
+      "San Diego, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/f1e2116e-f25f-44f8-9667-7351ce6ceb3f",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
