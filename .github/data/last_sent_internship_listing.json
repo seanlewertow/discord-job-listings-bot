@@ -49802,5 +49802,100 @@
     "company_url": "https://simplify.jobs/c/VeritionFund",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Quest Analytics",
+    "id": "474ed89f-2215-4edd-8dfe-4ec91a3eabf4",
+    "title": "Software Support Internship",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1738887525,
+    "date_posted": 1738887525,
+    "url": "https://jobs.lever.co/questanalytics/59dca32a-30cf-402a-a8e4-5cd6f52a0a68/apply",
+    "locations": [
+      "Overland Park, KS"
+    ],
+    "company_url": "https://simplify.jobs/c/Quest-Analytics",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Quest Analytics",
+    "id": "813ca58b-4690-4d52-aaae-f09048b18439",
+    "title": "Software Engineer Internship",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1738887506,
+    "date_posted": 1738887506,
+    "url": "https://jobs.lever.co/questanalytics/fb5754f5-3f51-4f2b-8184-18278b87dd5a/apply",
+    "locations": [
+      "Overland Park, KS"
+    ],
+    "company_url": "https://simplify.jobs/c/Quest-Analytics",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Quest Analytics",
+    "id": "d8a24350-2974-4280-b2ec-a237274fef6d",
+    "title": "Software Data Engineer Internship",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1738887505,
+    "date_posted": 1738887505,
+    "url": "https://jobs.lever.co/questanalytics/7159cfbc-4ddb-4948-b78b-ec3afaae8aa0/apply",
+    "locations": [
+      "Overland Park, KS"
+    ],
+    "company_url": "https://simplify.jobs/c/Quest-Analytics",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Cadence Design Systems",
+    "id": "7f038e89-7a5f-4bc0-a7c9-e41ee6e17dbd",
+    "title": "Software Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1738887410,
+    "date_posted": 1738887410,
+    "url": "https://cadence.wd1.myworkdayjobs.com/en-US/External_Careers/job/SAN-JOSE/Software-Intern_R49058-1",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Cadence-Design-Systems",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Cadence Design Systems",
+    "id": "0656abcf-5cea-490a-a1fe-a1c7dee09ac7",
+    "title": "Software Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1738887409,
+    "date_posted": 1738887409,
+    "url": "https://cadence.wd1.myworkdayjobs.com/en-US/External_Careers/job/SAN-JOSE/Software-Intern_R49059-1",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Cadence-Design-Systems",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
