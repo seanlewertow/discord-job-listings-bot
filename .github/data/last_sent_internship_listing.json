@@ -49916,5 +49916,24 @@
     "company_url": "https://simplify.jobs/c/BorgWarner",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Cardiosense",
+    "id": "163f4828-67ed-41c6-9ba8-677972df836c",
+    "title": "Data Scientist Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1738901746,
+    "date_posted": 1738901746,
+    "url": "https://jobs.lever.co/cardiosense/408c5257-d30f-44a1-b5c6-833f7fc41b49/apply",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/Cardiosense",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
