@@ -50316,5 +50316,24 @@
     "company_url": "https://simplify.jobs/c/TD-Bank",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "GoFundMe",
+    "id": "5d3e1bc5-95a3-48e3-bd87-872b501c2c48",
+    "title": "Software Engineer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1738988051,
+    "date_posted": 1738988051,
+    "url": "https://boards.greenhouse.io/gofundme/jobs/6269274",
+    "locations": [
+      "SF"
+    ],
+    "company_url": "https://simplify.jobs/c/GoFundMe",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
