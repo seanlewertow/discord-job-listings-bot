@@ -50221,5 +50221,100 @@
     "company_url": "https://simplify.jobs/c/CACI",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Parsons",
+    "id": "6bd653ef-e30f-4b26-abee-438f568d5f9f",
+    "title": "Computer Engineer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1738974581,
+    "date_posted": 1738974581,
+    "url": "https://parsons.wd5.myworkdayjobs.com/en-US/search/job/US---MD-Aberdeen/Computer-Engineer-Intern--Summer-2025-_R163475",
+    "locations": [
+      "Aberdeen, MD"
+    ],
+    "company_url": "https://simplify.jobs/c/Parsons",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "CVS Health",
+    "id": "ab03461e-0758-4594-9b18-2a465ecac1dc",
+    "title": "Innotech Summer Undergraduate Internship 2025 - Enterprise Delivery - APMO Automation & Analytics",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1738974446,
+    "date_posted": 1738974446,
+    "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/CT---Hartford/InnoTech-Summer-Undergraduate-Internship-2025---Enterprise-Delivery---APMO-Automation---Analytics_R0498601",
+    "locations": [
+      "Hartford, CT"
+    ],
+    "company_url": "https://simplify.jobs/c/CVS-Health",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "CVS Health",
+    "id": "51f9871d-2c66-4eea-9b3e-ff919e449ade",
+    "title": "Innotech Summer Undergraduate Internship 2025 - Enterprise Delivery - Finance Technology & Corporate Systems",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1738974436,
+    "date_posted": 1738974436,
+    "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/Scottsdale-9501-East-Shea-Blvd/InnoTech-Summer-Undergraduate-Internship-2025---Enterprise-Delivery---Finance-Technology---Corporate-Systems_R0499789",
+    "locations": [
+      "Scottsdale, AZ"
+    ],
+    "company_url": "https://simplify.jobs/c/CVS-Health",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Motorola",
+    "id": "9fecf731-18f7-4db5-a542-9a3f511a0dd2",
+    "title": "Software Engineer",
+    "active": true,
+    "terms": [
+      "Spring 2025"
+    ],
+    "date_updated": 1738974328,
+    "date_posted": 1738974328,
+    "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Champaign-IL-IL169/Software-Engineer---Spring-2025-Co-op--Research-Park-_R53761",
+    "locations": [
+      "Urbana, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/MotorolaSolutions",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "TD Bank",
+    "id": "1265bec1-1d57-4c83-b313-d7d22017d21c",
+    "title": "Global Markets Intern/Co-op - Quantitative Engineering Development",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1738974320,
+    "date_posted": 1738974320,
+    "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Global-Markets-Intern-Co-op---Quantitative-Engineering-Development--Summer-2025-_R_1399532",
+    "locations": [
+      "Toronto, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/TD-Bank",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
