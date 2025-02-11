@@ -50489,5 +50489,24 @@
     "company_url": "https://simplify.jobs/c/Axiom-Zen",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Western Digital",
+    "id": "dfba97b8-fa4b-4277-b819-7f3d015d8996",
+    "title": "Software Engineering Intern - Rss Fw - Defect Management",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1739305306,
+    "date_posted": 1739305306,
+    "url": "https://jobs.smartrecruiters.com/WesternDigital/744000041824476",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Western-Digital",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
