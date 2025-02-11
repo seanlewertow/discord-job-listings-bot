@@ -50449,5 +50449,45 @@
     "company_url": "https://simplify.jobs/c/Archer",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Axiom Zen",
+    "id": "ed033102-26d8-4c85-be32-532891ae167d",
+    "title": "Frontend Software Engineering Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1739304587,
+    "date_posted": 1739304587,
+    "url": "https://jobs.lever.co/axiomzen/b55d93a4-ad9c-4f43-b147-cb0ba6271ab0/apply",
+    "locations": [
+      "Remote in USA",
+      "Remote in Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Axiom-Zen",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Axiom Zen",
+    "id": "21b037cb-2d09-4894-a311-7df5f0a27e6e",
+    "title": "Backend Software Engineering Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1739304589,
+    "date_posted": 1739304589,
+    "url": "https://jobs.lever.co/axiomzen/f2138595-7516-440c-85b2-d4a853adaf3e/apply",
+    "locations": [
+      "Remote in USA",
+      "Remote in Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Axiom-Zen",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
