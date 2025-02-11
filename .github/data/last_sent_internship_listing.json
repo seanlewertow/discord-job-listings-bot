@@ -50546,5 +50546,62 @@
     "company_url": "https://simplify.jobs/c/Cadence-Design-Systems",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Motorola",
+    "id": "99b4e87c-7db5-4e62-9e2b-2cd893eb249e",
+    "title": "Software as a Service \u2013 Presales Intern \u2013 2025 Summer Internship",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1739307389,
+    "date_posted": 1739307389,
+    "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Greater-Chicago-Area/Software-as-a-Service---Presales-Intern--2025-Summer-Internship----Remote_R53529",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/MotorolaSolutions",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Motorola",
+    "id": "9ba8b8eb-b669-400a-8c6b-6d435302dea9",
+    "title": "Embedded Software Engineer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1739307375,
+    "date_posted": 1739307375,
+    "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Fresno-CA-CA180/Embedded-Software-Engineer-Intern---Summer-2025-Internship_R53777",
+    "locations": [
+      "Fresno, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/MotorolaSolutions",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Amazon",
+    "id": "fc89dcb4-a712-4f93-bdcc-e507521221e1",
+    "title": "DE Co-op Fall Internship",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1739307342,
+    "date_posted": 1739307342,
+    "url": "https://amazon.jobs/en/jobs/2898731/de-co-op-fall-internship-2025-us",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "company_url": "https://simplify.jobs/c/Amazon",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
