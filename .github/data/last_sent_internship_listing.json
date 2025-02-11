@@ -50508,5 +50508,43 @@
     "company_url": "https://simplify.jobs/c/Western-Digital",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Parsons",
+    "id": "c09fab16-f167-46b7-9259-622000a54d79",
+    "title": "Software Engineer/Data Scientist Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1739306689,
+    "date_posted": 1739306689,
+    "url": "https://parsons.wd5.myworkdayjobs.com/en-US/search/job/US---MD-Annapolis-Junction/Software-Engineer-Data-Scientist-Intern--Summer-2025-_R163774",
+    "locations": [
+      "Annapolis Junction, MD"
+    ],
+    "company_url": "https://simplify.jobs/c/Parsons",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Cadence Design Systems",
+    "id": "f27bcd71-c03c-402e-9030-3b5aa6247e3f",
+    "title": "Software Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1739306194,
+    "date_posted": 1739306194,
+    "url": "https://cadence.wd1.myworkdayjobs.com/en-US/External_Careers/job/SAN-JOSE/Software-Intern_R49000-1",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Cadence-Design-Systems",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
