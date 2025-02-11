@@ -50354,5 +50354,100 @@
     "company_url": "https://simplify.jobs/c/Archer",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Mistplay",
+    "id": "3cd98c10-e271-419d-ab0d-604da8036ed6",
+    "title": "Stagiaire en science des donn\u00e9es \u2013 Data Scientist Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1739204442,
+    "date_posted": 1739204442,
+    "url": "https://jobs.lever.co/mistplay/b0611efc-1ccd-4b83-9185-98486e535da2/apply",
+    "locations": [
+      "Toronto, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Mistplay",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "CACI",
+    "id": "5b8b6a7e-f9a3-4e59-91c2-6d5b68912178",
+    "title": "Students \u2013 Summer 2025 Intern Program",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1739204671,
+    "date_posted": 1739204671,
+    "url": "https://caci.wd1.myworkdayjobs.com/External/job/Nationwide/Virginia-Tech-Students---Summer-2025-Intern-Program_307806",
+    "locations": [
+      "United States"
+    ],
+    "company_url": "https://simplify.jobs/c/CACI",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "McKesson",
+    "id": "32c5ebb3-ff96-4447-8f34-be8e21eab72e",
+    "title": "Covermymeds \u2013 Technology Intern - CMM",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1739204395,
+    "date_posted": 1739204395,
+    "url": "https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/USA-OH-Columbus/CoverMyMeds--CMM--Technology-Intern---Summer-2025_JR0117196",
+    "locations": [
+      "Columbus, OH"
+    ],
+    "company_url": "https://simplify.jobs/c/McKesson",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Archer",
+    "id": "c4da2b7c-2934-4416-8a9f-8f9a1a924836",
+    "title": "BMS Software Engineering Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1739175867,
+    "date_posted": 1739175867,
+    "url": "https://job-boards.greenhouse.io/archer56/jobs/6357330003",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Archer",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Archer",
+    "id": "ec2e8eaa-82f8-4a4c-ba5f-02cd9d9f9ce5",
+    "title": "Flight Controls Software Engineering Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1739175874,
+    "date_posted": 1739175874,
+    "url": "https://job-boards.greenhouse.io/archer56/jobs/6357331003",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Archer",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
