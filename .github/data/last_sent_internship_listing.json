@@ -50661,5 +50661,45 @@
     "company_url": "https://simplify.jobs/c/ad82fc6f-2c63-4173-8dcd-2209d5a97368",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "PNC Financial Services",
+    "id": "3fac300f-bd30-4614-b97a-bc629388a9b4",
+    "title": "Technology Summer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1739306853,
+    "date_posted": 1739306853,
+    "url": "https://pnc.wd5.myworkdayjobs.com/External/job/PA---Pittsburgh-15222/Technology-Summer-Intern_R168775",
+    "locations": [
+      "Pittsburgh, PA"
+    ],
+    "company_url": "https://simplify.jobs/c/PNC-Financial-Services",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Symbotic",
+    "id": "73cc473d-3ad4-43a3-8687-3212497b2812",
+    "title": "Co-op-Finance",
+    "active": true,
+    "terms": [
+      "Summer 2025",
+      "Spring 2026",
+      "Fall 2026"
+    ],
+    "date_updated": 1739305700,
+    "date_posted": 1739305700,
+    "url": "https://symbotic.wd1.myworkdayjobs.com/en-US/Symbotic/job/USA-Wilmington--MA---HQ/Co-op--Finance_R4538",
+    "locations": [
+      "Burlington, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/symbotic",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
