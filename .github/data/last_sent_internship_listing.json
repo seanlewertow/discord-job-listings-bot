@@ -50894,5 +50894,45 @@
     "company_url": "https://simplify.jobs/c/ad82fc6f-2c63-4173-8dcd-2209d5a97368",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Capital One",
+    "id": "8abfbfe3-287a-43b5-9b2d-5b4d13dc93f7",
+    "title": "Data Scientist \u2013 Intern",
+    "active": true,
+    "terms": [
+      "Spring 2025",
+      "Summer 2025"
+    ],
+    "date_updated": 1739377993,
+    "date_posted": 1739377993,
+    "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Data-Scientist--Intern--Spring-Summer-2025-_R208104",
+    "locations": [
+      "Toronto, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Capital-One",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Capital One",
+    "id": "fc865c2e-280c-438c-a950-5cab49eee52a",
+    "title": "Data Scientist \u2013 Intern",
+    "active": true,
+    "terms": [
+      "Spring 2025",
+      "Summer 2025"
+    ],
+    "date_updated": 1739377993,
+    "date_posted": 1739377993,
+    "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Data-Scientist--Intern--Spring-Summer-2025-_R208105",
+    "locations": [
+      "Toronto, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Capital-One",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
