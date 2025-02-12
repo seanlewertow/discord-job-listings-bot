@@ -50991,5 +50991,24 @@
     "company_url": "https://simplify.jobs/c/e38ff337-ef4e-42b4-b1fc-e1834b3b603f",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "FM Global",
+    "id": "5a74dadc-33ca-4a96-a57b-f1c46ca104ff",
+    "title": "GIS Development Co-Op",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1739391874,
+    "date_posted": 1739391874,
+    "url": "https://jobs-fmglobal.icims.com/jobs/15442/job",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/FM-Global",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
