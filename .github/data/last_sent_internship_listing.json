@@ -50837,5 +50837,43 @@
     "company_url": "https://simplify.jobs/c/Methodfi",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Cadence Design Systems",
+    "id": "40ee2120-fdb7-4ea3-b710-21e5dff756b9",
+    "title": "Software Engineering Intern - Circuit Simulation",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1739333790,
+    "date_posted": 1739333790,
+    "url": "https://cadence.wd1.myworkdayjobs.com/en-US/External_Careers/job/SAN-JOSE/Software-Engineering-Intern--Circuit-Simulation-_R49129-1",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Cadence-Design-Systems",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Fifth Third Bank",
+    "id": "9b1e8fba-28fc-42a8-9f55-a5851327f54e",
+    "title": "Quantitative Model Audit Co-op",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1739334135,
+    "date_posted": 1739334135,
+    "url": "https://fifththird.wd5.myworkdayjobs.com/en-US/53careers/job/Cincinnati-OH/Quantitative-Model-Audit-Co-op_R56414",
+    "locations": [
+      "Cincinnati, OH"
+    ],
+    "company_url": "https://simplify.jobs/c/Fifth-Third-Bank",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
