@@ -50701,5 +50701,101 @@
     "company_url": "https://simplify.jobs/c/symbotic",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Raptor Maps",
+    "id": "d1521655-1f71-4db9-ab49-f6cba0f609b0",
+    "title": "Software Engineering Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1739320096,
+    "date_posted": 1739320096,
+    "url": "https://jobs.lever.co/RaptorMaps/0aef0674-977a-4d3a-a27f-0fe369b744e3/apply",
+    "locations": [
+      "Boston, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/RaptorMaps",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Qualcomm",
+    "id": "9bcfca5b-17f7-43b7-aa33-b86c35c06619",
+    "title": "Embedded Engineering Internship - Interim Engineering Intern - SW",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1739320070,
+    "date_posted": 1739320070,
+    "url": "https://qualcomm.eightfold.ai/careers/job/446700989859",
+    "locations": [
+      "San Diego, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Qualcomm",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Qualcomm",
+    "id": "2693178f-7d0d-432f-b4d5-9cea316dc4c2",
+    "title": "Multimedia Engineering Internship - Interim Engineering Intern - SW",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1739319853,
+    "date_posted": 1739319853,
+    "url": "https://qualcomm.eightfold.ai/careers/job/446701027592",
+    "locations": [
+      "San Diego, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Qualcomm",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Qualcomm",
+    "id": "6edf93f9-ed81-4454-b4f5-296988079a9c",
+    "title": "FY25 Intern \u2013 GenAI Evaluation and Benchmarking Internship - Interim Engineering Intern - HW",
+    "active": true,
+    "terms": [
+      "Spring 2025",
+      "Summer 2025"
+    ],
+    "date_updated": 1739319821,
+    "date_posted": 1739319821,
+    "url": "https://qualcomm.eightfold.ai/careers/job/446703774746",
+    "locations": [
+      "Markham, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Qualcomm",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Live Nation Entertainment",
+    "id": "16f5eef7-4464-4fa4-9c57-f6ddb191b8aa",
+    "title": "Strategy & Analytics Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1739319771,
+    "date_posted": 1739319771,
+    "url": "https://livenation.wd1.myworkdayjobs.com/en-US/LNExternalSite/job/Beverly-Hills-CA-USA/Strategy---Analytics-Intern_JR-76690-1",
+    "locations": [
+      "Culver City, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Live-Nation-Entertainment",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
