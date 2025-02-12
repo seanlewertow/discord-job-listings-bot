@@ -50875,5 +50875,24 @@
     "company_url": "https://simplify.jobs/c/Fifth-Third-Bank",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Cyberark",
+    "id": "50f5c6b5-f11d-4e30-bb9c-8054e77da8e5",
+    "title": "Software Engineer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1739361814,
+    "date_posted": 1739361814,
+    "url": "https://jobs.smartrecruiters.com/Cyberark1/744000041918311",
+    "locations": [
+      "London, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/ad82fc6f-2c63-4173-8dcd-2209d5a97368",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
