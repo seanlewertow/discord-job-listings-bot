@@ -51010,5 +51010,100 @@
     "company_url": "https://simplify.jobs/c/FM-Global",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Applied Materials",
+    "id": "7f44ca90-2812-4a08-ab92-16bc3e1845b1",
+    "title": "2025 Summer Software Engineer Intern - Bachelor's",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1739393423,
+    "date_posted": 1739393423,
+    "url": "https://amat.wd1.myworkdayjobs.com/en-US/External/job/KalispellMT/XMLNAME-2025-Summer-Software-Engineer-Intern--Bachelor-s----Kalispell--MT_R2511105",
+    "locations": [
+      "Kalispell, MT"
+    ],
+    "company_url": "https://simplify.jobs/c/Applied-Materials",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Intrinsic",
+    "id": "a3de5f2d-f09a-4205-a9b1-cefd31d0e6eb",
+    "title": "Intern: Foundation Models for Pose Estimation Researcher",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1739393123,
+    "date_posted": 1739393123,
+    "url": "https://boards.greenhouse.io/intrinsicrobotics/jobs/5440297004",
+    "locations": [
+      "Mountain View, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/IntrinsicAI",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Rokt",
+    "id": "a963f694-94d7-43b5-9636-3da3da1dcc97",
+    "title": "Software Engineering Summer Internship",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1739392723,
+    "date_posted": 1739392723,
+    "url": "https://apply.workable.com/rokt/j/FDC96FE8F3/apply",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "company_url": "https://simplify.jobs/c/f08512e1-117c-4076-b4b9-217616f1a3eb",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Gas South",
+    "id": "8bf08bd8-16a5-4622-99f0-ffaedb503b24",
+    "title": "Application Developer Summer Internship",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1739393161,
+    "date_posted": 1739393161,
+    "url": "https://job-boards.greenhouse.io/gassouth/jobs/6624881",
+    "locations": [
+      "Atlanta, GA"
+    ],
+    "company_url": "https://simplify.jobs/c/ff06bdb4-52b3-402b-a26c-0d79ee9202a6",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Rokt",
+    "id": "83a8af43-5d58-4a40-9e24-0208afbfcfd2",
+    "title": "ML Engineering Summer Internship",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1739392733,
+    "date_posted": 1739392733,
+    "url": "https://apply.workable.com/rokt/j/101CB89FD3/apply",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "company_url": "https://simplify.jobs/c/f08512e1-117c-4076-b4b9-217616f1a3eb",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
