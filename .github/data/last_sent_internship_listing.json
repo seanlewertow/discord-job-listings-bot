@@ -50953,5 +50953,24 @@
     "company_url": "https://simplify.jobs/c/Zoox",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "State Street",
+    "id": "b6ba16f3-bc50-4193-ad34-5b8eada32cc0",
+    "title": "Co-Op - Crd",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1739393885,
+    "date_posted": 1739393885,
+    "url": "https://statestreet.wd1.myworkdayjobs.com/en-US/Global/job/Boston-Massachusetts/Charles-River-Fall-2025-Co-Op--CRD--Co-Op_R-767618",
+    "locations": [
+      "Boston, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/d1ef45b2-fd52-4e9d-9d7d-dc3d5386744f",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
