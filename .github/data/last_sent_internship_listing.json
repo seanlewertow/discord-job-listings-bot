@@ -50972,5 +50972,24 @@
     "company_url": "https://simplify.jobs/c/d1ef45b2-fd52-4e9d-9d7d-dc3d5386744f",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "ATPCO",
+    "id": "51705e2a-baee-42cc-91a5-ac0b76640b27",
+    "title": "Software Engineer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1739391191,
+    "date_posted": 1739391191,
+    "url": "https://jobs.smartrecruiters.com/ATPCO1/744000042010025",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/e38ff337-ef4e-42b4-b1fc-e1834b3b603f",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
