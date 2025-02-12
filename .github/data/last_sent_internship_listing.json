@@ -50797,5 +50797,45 @@
     "company_url": "https://simplify.jobs/c/Live-Nation-Entertainment",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Qualcomm",
+    "id": "76856c31-afd6-4d1a-8526-247794457519",
+    "title": "FY25 Intern \u2013 Software Toolchains Engineering Internship - Interim Engineering Intern - SW",
+    "active": true,
+    "terms": [
+      "Spring 2025",
+      "Summer 2025"
+    ],
+    "date_updated": 1739320420,
+    "date_posted": 1739320420,
+    "url": "https://qualcomm.eightfold.ai/careers/job/446702550395",
+    "locations": [
+      "Markham, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Qualcomm",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Method Financial",
+    "id": "61841cb1-660b-4ad7-b7a2-e4b1063d5c93",
+    "title": "Software Engineer \u2013 Summer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1739320347,
+    "date_posted": 1739320347,
+    "url": "https://jobs.ashbyhq.com/method/e1e444cd-804b-4e04-ad35-af6f23285854/application",
+    "locations": [
+      "Austin, TX",
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Methodfi",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
