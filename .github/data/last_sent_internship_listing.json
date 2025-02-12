@@ -50934,5 +50934,24 @@
     "company_url": "https://simplify.jobs/c/Capital-One",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Zoox",
+    "id": "6e3b2bfa-4502-4387-9079-b8c3869669c7",
+    "title": "Drive Feature Integration Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1739392142,
+    "date_posted": 1737087288,
+    "url": "https://jobs.lever.co/zoox/31962e70-a76f-42e0-b83b-b4c63b47e026/apply",
+    "locations": [
+      "San Mateo, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Zoox",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
