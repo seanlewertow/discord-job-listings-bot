@@ -51549,5 +51549,24 @@
     "company_url": "https://simplify.jobs/c/Carbon",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Northrop Grumman",
+    "id": "2791197e-6da6-43f2-9e5f-ef6df69630b9",
+    "title": "2025 Intern Database Administration",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1739481471,
+    "date_posted": 1739481471,
+    "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Ohio-Wright-Patterson-AFB/XMLNAME-2025-Intern-Database-Administration_R10186333-2",
+    "locations": [
+      "Wright-Patterson AFB, OH"
+    ],
+    "company_url": "https://simplify.jobs/c/238c95d8-0d6e-4717-b28c-078b16d675d7",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
