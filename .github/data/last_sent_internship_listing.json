@@ -51511,5 +51511,43 @@
     "company_url": "https://simplify.jobs/c/VastSpace",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Intrinsic",
+    "id": "a3d18329-c99e-4f55-9273-8a42c73c792c",
+    "title": "Intern: Foundation Models for Pose Estimation Researcher",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1739479420,
+    "date_posted": 1739479420,
+    "url": "https://boards.greenhouse.io/intrinsicrobotics/jobs/5450305004",
+    "locations": [
+      "Mountain View, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/IntrinsicAI",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Carbon",
+    "id": "17f31bd4-919a-4f52-baac-dfe9fce43cf9",
+    "title": "Fullstack Software Engineering Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1739478547,
+    "date_posted": 1739478547,
+    "url": "https://job-boards.greenhouse.io/carbon/jobs/4646452007",
+    "locations": [
+      "San Carlos, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Carbon",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
