@@ -51433,5 +51433,43 @@
     "company_url": "https://simplify.jobs/c/Yodlee",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Northrop Grumman",
+    "id": "84585fbe-81df-46c1-9b77-82e35cc6fa23",
+    "title": "Intern Software Engineering",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1739479632,
+    "date_posted": 1739479632,
+    "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/XMLNAME-2025-Intern-Software-Engineering_R10186301-1",
+    "locations": [
+      "Huntsville, AL"
+    ],
+    "company_url": "https://simplify.jobs/c/238c95d8-0d6e-4717-b28c-078b16d675d7",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Cyberark",
+    "id": "cc89624a-5aa4-48e9-937e-5cb217d4c953",
+    "title": "C&I Software Engineer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1739477680,
+    "date_posted": 1739477680,
+    "url": "https://jobs.smartrecruiters.com/Cyberark1/744000042366115",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/ad82fc6f-2c63-4173-8dcd-2209d5a97368",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
