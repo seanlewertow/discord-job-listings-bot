@@ -51471,5 +51471,45 @@
     "company_url": "https://simplify.jobs/c/ad82fc6f-2c63-4173-8dcd-2209d5a97368",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "American Century Investments",
+    "id": "b3f3be12-0f36-4fad-b1c2-808010d005a0",
+    "title": "Data Scientist Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1739480095,
+    "date_posted": 1739480095,
+    "url": "https://americancentury.wd5.myworkdayjobs.com/en-US/AmericanCenturyInvestments/job/New-York-New-York/Data-Scientist-Intern_R0005135",
+    "locations": [
+      "Santa Clara, CA",
+      "Kansas City, MO",
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/2940e44d-daa3-4a3c-b896-ba9435ad86f7",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "VAST",
+    "id": "5166fbca-5848-485a-8c7e-1f580e5367ba",
+    "title": "Fall 2025 Internship - Software Engineering",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1739477966,
+    "date_posted": 1739477966,
+    "url": "https://boards.greenhouse.io/vast/jobs/4444258006",
+    "locations": [
+      "Long Beach, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/VastSpace",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
