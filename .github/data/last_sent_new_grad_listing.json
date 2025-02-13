@@ -7904,5 +7904,21 @@
     "company_url": "https://simplify.jobs/c/Marqeta",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Coalition",
+    "id": "1204a3e6-bb6a-4db3-a820-27dc60333e21",
+    "title": "Software Engineer I",
+    "active": true,
+    "date_updated": 1739480133,
+    "date_posted": 1739480133,
+    "url": "https://www.coalitioninc.com/job-posting?gh_jid=4528287005",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/Coalition",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
