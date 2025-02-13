@@ -51262,5 +51262,43 @@
     "company_url": "https://simplify.jobs/c/f1e2116e-f25f-44f8-9667-7351ce6ceb3f",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Lazard",
+    "id": "9881890e-e9f2-4691-94b7-6a8e7d152c37",
+    "title": "Quant Researcher Summer Internship",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1739423287,
+    "date_posted": 1739423287,
+    "url": "https://lazard-careers.tal.net/vx/mobile-0/appcentre-ext/brand-4/candidate/so/pm/1/pl/2/opp/2990-Quant-Researcher-Summer-Internship/en-GB",
+    "locations": [
+      "Boston, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/7d057960-156e-4d7c-9483-82513be53e32",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Jefferies",
+    "id": "11713ec2-aef1-45a1-9dfa-2b33d586ffcb",
+    "title": "2026 Fixed Income Sales & Trading Summer Analyst",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1739423283,
+    "date_posted": 1739423283,
+    "url": "https://jefferies.tal.net/vx/mobile-0/appcentre-ext/brand-4/candidate/so/pm/1/pl/2/opp/1429-2026-Fixed-Income-Sales-Trading-Summer-Analyst-New-York/en-GB",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Jefferies",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
