@@ -51300,5 +51300,62 @@
     "company_url": "https://simplify.jobs/c/Jefferies",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Jefferies",
+    "id": "18c9790e-8730-467e-a99d-fdcb1553086b",
+    "title": "2026 Equity Sales & Trading Summer Analyst",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1739423287,
+    "date_posted": 1739423287,
+    "url": "https://jefferies.tal.net/vx/mobile-0/appcentre-ext/brand-4/candidate/so/pm/1/pl/2/opp/1430-2026-Equity-Sales-Trading-Summer-Analyst-New-York/en-GB",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Jefferies",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Motorola",
+    "id": "96ada597-b9dd-4355-b950-16f1f8dff29a",
+    "title": "Software Engineer",
+    "active": true,
+    "terms": [
+      "Spring 2025"
+    ],
+    "date_updated": 1739435144,
+    "date_posted": 1739435144,
+    "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Champaign-IL-IL169/Software-Engineer---Spring-2025-Co-Op--Research-Park-_R53760",
+    "locations": [
+      "Urbana, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/MotorolaSolutions",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Crowdstrike",
+    "id": "18bbb08a-88fe-4a09-8060-27ee0701de78",
+    "title": "GTM Software Engineering Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1739434894,
+    "date_posted": 1739434894,
+    "url": "https://crowdstrike.wd5.myworkdayjobs.com/en-us/crowdstrikecareers/job/USA---Remote/GTM-Software-Engineering-Intern--Remote-_R21979",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/Crowdstrike",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
