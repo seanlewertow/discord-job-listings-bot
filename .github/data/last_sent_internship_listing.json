@@ -51395,5 +51395,43 @@
     "company_url": "https://simplify.jobs/c/e38ff337-ef4e-42b4-b1fc-e1834b3b603f",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Carrier Global",
+    "id": "2db4d408-8080-43dc-b645-ca9c68f2c02b",
+    "title": "Enterprise Business System Intern-Summer",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1739464184,
+    "date_posted": 1739464184,
+    "url": "https://carrier.wd5.myworkdayjobs.com/jobs/job/CAG24-Atlanta-Digital-Hub-3350-Riverwood-Parkway-Suite-900-Atlanta-GA-30339-USA/Enterprise-Business-System-Intern--Summer_30172037-1",
+    "locations": [
+      "Atlanta, GA"
+    ],
+    "company_url": "https://simplify.jobs/c/Carrier-Global",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Yodlee",
+    "id": "c82e820d-9a1f-4845-856e-d7ca7d778d25",
+    "title": "AI Engineer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1739463177,
+    "date_posted": 1739463177,
+    "url": "https://jobs.jobvite.com/yodlee/job/oLhrvfwI?nl=1&nl=1&fr=false",
+    "locations": [
+      "Raleigh, NC"
+    ],
+    "company_url": "https://simplify.jobs/c/Yodlee",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
