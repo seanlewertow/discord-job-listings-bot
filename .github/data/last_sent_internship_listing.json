@@ -51895,5 +51895,24 @@
     "company_url": "https://simplify.jobs/c/Oshkosh",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "IBM",
+    "id": "74e2bd5e-1897-4b32-82d3-e2c920035165",
+    "title": "Software Engineer \u2013 Large Scale Language Models Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1739567349,
+    "date_posted": 1739567349,
+    "url": "https://careers.ibm.com/job/21042789/software-engineer-large-scale-language-models-intern-2025-yorktown-heights-ny/",
+    "locations": [
+      "New York"
+    ],
+    "company_url": "https://simplify.jobs/c/IBM",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
