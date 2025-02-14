@@ -51779,5 +51779,45 @@
     "company_url": "https://simplify.jobs/c/Applied-Materials",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Rivian",
+    "id": "86d65d4b-5877-45bb-b201-0b692583615a",
+    "title": "Intern - Special Projects",
+    "active": true,
+    "terms": [
+      "Fall 2025",
+      "Spring 2026",
+      "Summer 2026"
+    ],
+    "date_updated": 1739559629,
+    "date_posted": 1739559629,
+    "url": "https://careers.rivian.com/jobs/22262?lang=en-us&icims=1",
+    "locations": [
+      "Urbana, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/Rivian",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Citigroup",
+    "id": "db2abf58-aac7-4b21-8971-1248e5a4bd9f",
+    "title": "Markets \u2013 Summer Analyst - Sales and Trading",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1739559817,
+    "date_posted": 1739559817,
+    "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/New-York-New-York-United-States/Markets---Sales-and-Trading--Summer-Analyst--New-York-City---US--2026_25833988",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Citigroup",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
