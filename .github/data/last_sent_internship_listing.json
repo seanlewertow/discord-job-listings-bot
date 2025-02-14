@@ -51819,5 +51819,62 @@
     "company_url": "https://simplify.jobs/c/Citigroup",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "FM Global",
+    "id": "66cd5b22-0d4d-4e7f-9c5c-d081e4060d45",
+    "title": "Software Development Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1739564571,
+    "date_posted": 1739564571,
+    "url": "https://jobs-fmglobal.icims.com/jobs/15445/job",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/FM-Global",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Roku",
+    "id": "5f75df60-4ade-49c7-ae2b-273de17d40cf",
+    "title": "Software Engineer Intern - Devops",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1739564523,
+    "date_posted": 1739564523,
+    "url": "https://www.weareroku.com/jobs/6613664?gh_jid=6613664",
+    "locations": [
+      "Cardiff, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Roku",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "BillionToOne",
+    "id": "6d79ffd3-5dfa-4696-bd06-f3ebd7b96cbe",
+    "title": "Software Engineering Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1739564268,
+    "date_posted": 1739564268,
+    "url": "https://job-boards.greenhouse.io/billiontoone/jobs/4525570005",
+    "locations": [
+      "Menlo Park, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/BillionToOne",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
