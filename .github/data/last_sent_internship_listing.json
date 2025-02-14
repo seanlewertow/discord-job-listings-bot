@@ -51568,5 +51568,43 @@
     "company_url": "https://simplify.jobs/c/238c95d8-0d6e-4717-b28c-078b16d675d7",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Cyberark",
+    "id": "28d67c87-fdf4-435a-8c38-ff8ef55fe054",
+    "title": "Software Engineering Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1739506611,
+    "date_posted": 1739506611,
+    "url": "https://jobs.smartrecruiters.com/Cyberark1/744000042369215",
+    "locations": [
+      "Santa Clara, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/ad82fc6f-2c63-4173-8dcd-2209d5a97368",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Cyberark",
+    "id": "5cb78888-1f0a-4a75-82a6-08ef3f1195ff",
+    "title": "Software Engineer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1739506595,
+    "date_posted": 1739506595,
+    "url": "https://jobs.smartrecruiters.com/Cyberark1/744000042391403",
+    "locations": [
+      "Salt Lake City, UT"
+    ],
+    "company_url": "https://simplify.jobs/c/ad82fc6f-2c63-4173-8dcd-2209d5a97368",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
