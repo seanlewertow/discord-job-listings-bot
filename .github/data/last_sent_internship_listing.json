@@ -51703,5 +51703,62 @@
     "company_url": "https://simplify.jobs/c/Cadence-Design-Systems",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Hudl",
+    "id": "c77bcbee-68bf-4d22-bbca-0d238bee25ce",
+    "title": "FP&a \u2013 Data Analyst Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1739522635,
+    "date_posted": 1739522635,
+    "url": "https://job-boards.greenhouse.io/hudl/jobs/6601544",
+    "locations": [
+      "Lincoln, NE"
+    ],
+    "company_url": "https://simplify.jobs/c/Hudl",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Leidos",
+    "id": "1cd2aac3-3ad5-4092-a225-689c7d679dac",
+    "title": "Software Engineer Intern",
+    "active": true,
+    "terms": [
+      "Spring 2025"
+    ],
+    "date_updated": 1739522153,
+    "date_posted": 1739522153,
+    "url": "https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Software-Engineer-Intern_R-00153262",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/Leidos",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Leidos",
+    "id": "88b5af3b-0375-4f12-9ac2-cf902d257368",
+    "title": "Cybersecurity Software Development Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1739522144,
+    "date_posted": 1739522144,
+    "url": "https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Cybersecurity-Software-Development-Intern_R-00153565",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/Leidos",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
