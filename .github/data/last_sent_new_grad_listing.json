@@ -7920,5 +7920,21 @@
     "company_url": "https://simplify.jobs/c/Coalition",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Vanta",
+    "id": "17aed23d-462e-4133-9778-26fc636fb537",
+    "title": "Software Engineer \u2013 Entry Level",
+    "active": true,
+    "date_updated": 1739564566,
+    "date_posted": 1739564566,
+    "url": "https://jobs.ashbyhq.com/vanta/13d263a6-ba81-4a93-87df-efda33a909bf/application",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/Vanta",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
