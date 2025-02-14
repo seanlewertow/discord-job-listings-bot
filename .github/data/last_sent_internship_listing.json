@@ -51760,5 +51760,24 @@
     "company_url": "https://simplify.jobs/c/Leidos",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Applied Materials",
+    "id": "ae60d71f-9e0c-47c2-808b-c89acd7f5b46",
+    "title": "2025 Process Engineer Intern - New Technologies",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1739521866,
+    "date_posted": 1739521866,
+    "url": "https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/XMLNAME-2025-Process-Engineer-Intern--New-Technologies--Santa-Clara--CA-_R2511496",
+    "locations": [
+      "Santa Clara, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Applied-Materials",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
