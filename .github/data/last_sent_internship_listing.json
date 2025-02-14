@@ -51933,5 +51933,104 @@
     "company_url": "https://simplify.jobs/c/Scout-Motors",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Nordson",
+    "id": "8561be85-549c-4567-8502-d26e86dce821",
+    "title": "Computer Engineering Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1739564716,
+    "date_posted": 1739564716,
+    "url": "https://nordsonhcm.wd5.myworkdayjobs.com/en-US/nordsoncareers/job/USA---Georgia---Duluth/Intern--Computer-Engineering-Intern-_REQ41234",
+    "locations": [
+      "Duluth, GA"
+    ],
+    "company_url": "https://simplify.jobs/c/4a6d9a5a-25c4-4585-a0d2-0a1947c56003",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Warner Bros.",
+    "id": "f82a68db-f70e-4fc0-b4a6-f639680c3f10",
+    "title": "Netherrealm Software Engineering Co-op - Summer 2025 - June-December",
+    "active": true,
+    "terms": [
+      "Summer 2025",
+      "Fall 2025",
+      "Winter 2026"
+    ],
+    "date_updated": 1739566559,
+    "date_posted": 1739566559,
+    "url": "https://warnerbros.wd5.myworkdayjobs.com/global/job/IL-Chicago-2650A-W-Bradley-Place/NetherRealm-Software-Engineering-Co-op--Chicago---Summer-2025--June-December-_R000085813",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/Warner-Bros",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "KeyBank",
+    "id": "d8a008c9-3b5e-4a05-9b19-1fcf4f60fb13",
+    "title": "2025 Summer Analytics and Quantitative Modeling Internship",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1739564743,
+    "date_posted": 1739564743,
+    "url": "https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Cleveland-OH/XMLNAME-2025-Summer-Analytics-and-Quantitative-Modeling-Internship---Cleveland_R-26604",
+    "locations": [
+      "Cleveland, OH"
+    ],
+    "company_url": "https://simplify.jobs/c/KeyBank",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Avnet",
+    "id": "270abf2f-d579-4aff-bbca-685ca0c7ec1e",
+    "title": "GIS Operations Intern",
+    "active": true,
+    "terms": [
+      "Spring 2025",
+      "Summer 2025"
+    ],
+    "date_updated": 1739564670,
+    "date_posted": 1739564670,
+    "url": "https://wd1.myworkdaysite.com/recruiting/avnet/External/job/Phoenix-Arizona-United-States-Of-America/GIS-Operations-Intern_JR-018148",
+    "locations": [
+      "Phoenix, AZ"
+    ],
+    "company_url": "https://simplify.jobs/c/Avnet",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Avnet",
+    "id": "9003a68a-7678-40e8-ae70-ecf04a25199e",
+    "title": "GIS Middleware Intern",
+    "active": true,
+    "terms": [
+      "Spring 2025",
+      "Summer 2025"
+    ],
+    "date_updated": 1739564662,
+    "date_posted": 1739564662,
+    "url": "https://wd1.myworkdaysite.com/recruiting/avnet/External/job/Phoenix-Arizona-United-States-Of-America/GIS-Middleware-Intern_JR-018150",
+    "locations": [
+      "Phoenix, AZ"
+    ],
+    "company_url": "https://simplify.jobs/c/Avnet",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
