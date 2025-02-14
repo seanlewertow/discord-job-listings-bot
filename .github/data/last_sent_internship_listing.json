@@ -51876,5 +51876,24 @@
     "company_url": "https://simplify.jobs/c/BillionToOne",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Oshkosh",
+    "id": "964ee367-3cd6-48a7-88a6-7529df86dd28",
+    "title": "Software Engineer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1739565549,
+    "date_posted": 1739565549,
+    "url": "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Hagerstown-Maryland-United-States/Software-Engineer-Intern_R30886",
+    "locations": [
+      "Hagerstown, MD"
+    ],
+    "company_url": "https://simplify.jobs/c/Oshkosh",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
