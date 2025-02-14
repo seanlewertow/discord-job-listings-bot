@@ -51914,5 +51914,24 @@
     "company_url": "https://simplify.jobs/c/IBM",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Scout Motors",
+    "id": "f4d9754c-6741-4cb4-adf5-7332707138ee",
+    "title": "2025 Summer Internship - Production - AI Implementation",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1739564878,
+    "date_posted": 1739564878,
+    "url": "https://job-boards.greenhouse.io/scoutmotors/jobs/4652398007",
+    "locations": [
+      "Columbia, SC"
+    ],
+    "company_url": "https://simplify.jobs/c/Scout-Motors",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
