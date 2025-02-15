@@ -52051,5 +52051,100 @@
     "company_url": "https://simplify.jobs/c/Samsung",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Modular",
+    "id": "f00aede9-8aee-44bb-bf98-4367fbbba99a",
+    "title": "Summer Internship 2025 - GenAI Libraries",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1739579124,
+    "date_posted": 1739579124,
+    "url": "https://www.modular.com/company/career-post?4529905005&gh_jid=4529905005",
+    "locations": [
+      "Mountain View, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Modular",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Modular",
+    "id": "e5a22cd8-5a7e-41aa-8ff8-0b9ac7e50b6f",
+    "title": "Summer Internship 2025 - Data Engineering",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1739579124,
+    "date_posted": 1739579124,
+    "url": "https://www.modular.com/company/career-post?4528591005&gh_jid=4528591005",
+    "locations": [
+      "Mountain View, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Modular",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Global Relay",
+    "id": "ffb166cd-78e8-4161-a81f-29b235f9b8a9",
+    "title": "Co-op C# Developer",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1739578719,
+    "date_posted": 1739578719,
+    "url": "https://www.globalrelay.com/careers/jobs/?gh_jid=5086562004",
+    "locations": [
+      "Vancouver, BC, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Global-Relay",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Global Relay",
+    "id": "310950e4-0a9d-4cb9-bb3d-e7aa74d049e7",
+    "title": "Co-op Software Development Engineer in Test - Sdet",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1739578715,
+    "date_posted": 1739578715,
+    "url": "https://www.globalrelay.com/careers/jobs/?gh_jid=5451724004",
+    "locations": [
+      "Kelowna, BC, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Global-Relay",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "United Parcel Service (UPS)",
+    "id": "0963e255-023c-41d0-93df-3c374bf64a15",
+    "title": "Software Development Co-op - Java & .NET Focus",
+    "active": true,
+    "terms": [
+      "Spring 2025"
+    ],
+    "date_updated": 1739579435,
+    "date_posted": 1739579435,
+    "url": "https://hcmportal.wd5.myworkdayjobs.com/en-US/Search/job/US---AIR-GROUP-BUILDING-KYARP/Software-Development-Co-op---Java---NET-Focus_R25003503",
+    "locations": [
+      "Louisville, KY"
+    ],
+    "company_url": "https://simplify.jobs/c/United-Parcel-Service",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
