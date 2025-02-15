@@ -52146,5 +52146,100 @@
     "company_url": "https://simplify.jobs/c/United-Parcel-Service",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Dexcom",
+    "id": "64f83e64-89ae-4e82-a51e-f7d4132a141d",
+    "title": "Intern II \u2013 Mobile Application Engineering",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1739592472,
+    "date_posted": 1739592472,
+    "url": "https://dexcom.wd1.myworkdayjobs.com/Dexcom/job/San-Diego-California/Intern-II---Mobile-Application-Engineering_JR109974",
+    "locations": [
+      "San Diego, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Dexcoma",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Dexcom",
+    "id": "3d6e7b43-4409-4f52-a8f8-64b31b2d3da8",
+    "title": "Intern II \u2013 Data Science",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1739592469,
+    "date_posted": 1739592469,
+    "url": "https://dexcom.wd1.myworkdayjobs.com/Dexcom/job/Remote---United-States/Intern-II---Data-Science_JR110118",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/Dexcoma",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Dexcom",
+    "id": "c4b59b60-0a2d-40c9-9d94-d208c5708fcf",
+    "title": "Intern II \u2013 Data Science",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1739592481,
+    "date_posted": 1739592481,
+    "url": "https://dexcom.wd1.myworkdayjobs.com/Dexcom/job/Remote---United-States/Intern-II---Data-Science_JR109977",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/Dexcoma",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Keyera",
+    "id": "ed6a6140-099a-43b6-bd48-dad2e0663a18",
+    "title": "Measurement Analyst Co-op",
+    "active": true,
+    "terms": [
+      "Spring 2025"
+    ],
+    "date_updated": 1739592419,
+    "date_posted": 1739592419,
+    "url": "https://keyera.wd3.myworkdayjobs.com/Keyera_Careers/job/Calgary-Alberta/Measurement-Analyst-Co-op_JR2170",
+    "locations": [
+      "Calgary, AB, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Keyera",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Global Relay",
+    "id": "13f0246e-657c-43bd-8e58-8c991af378a6",
+    "title": "Co-op Data Scientist",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1739593711,
+    "date_posted": 1739593711,
+    "url": "https://www.globalrelay.com/careers/jobs/?gh_jid=5451713004",
+    "locations": [
+      "Vancouver, BC, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Global-Relay",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
