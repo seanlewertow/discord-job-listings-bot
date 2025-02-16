@@ -52279,5 +52279,24 @@
     "company_url": "https://simplify.jobs/c/GlobalFoundries",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "date_updated": 1739748575,
+    "url": "https://jobs.lincolnelectric.com/job/Waterloo-Robotics-Software-Engineering-Student-Intern-ON-ON-N2L-5V4/1169143901/",
+    "company_name": "Lincoln Electric",
+    "title": "Robotics Software Engineering Student Intern",
+    "locations": [
+      "Waterloo, Canada"
+    ],
+    "terms": [
+      "Summer 2025"
+    ],
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "source": "GaryZhous",
+    "id": "c3a6e371-fe4d-4b5c-8bda-3e7a9afdf02b",
+    "date_posted": 1739748575,
+    "company_url": "",
+    "is_visible": true
   }
 ]
