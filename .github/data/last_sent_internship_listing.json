@@ -52298,5 +52298,64 @@
     "date_posted": 1739748575,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Motorola",
+    "id": "aae564e7-b467-49fc-aaf9-fc6b33872cb4",
+    "title": "Presale Systems Engineer",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1739809722,
+    "date_posted": 1739809722,
+    "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/Presale-Systems-Engineer--Summer-2025-Internship-_R53715",
+    "locations": [
+      "Chicago, IL",
+      "Minnesota",
+      "Illinois"
+    ],
+    "company_url": "https://simplify.jobs/c/MotorolaSolutions",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Motorola",
+    "id": "dc4a973c-167e-446c-ba91-ffdd02a697c9",
+    "title": "Software Engineering",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1739809714,
+    "date_posted": 1739809714,
+    "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/Software-Engineering---2025-Summer-Internship_R51702",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/MotorolaSolutions",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Centene",
+    "id": "9a2a4f43-b68b-43a3-9e60-ea7becfee8c5",
+    "title": "Data Science Intern \u2013 Graduate - Summer",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1739809542,
+    "date_posted": 1739809542,
+    "url": "https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/Data-Science-Intern--Graduate---Summer-_1559150",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/Centene",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
