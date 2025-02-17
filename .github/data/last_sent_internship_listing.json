@@ -52357,5 +52357,24 @@
     "company_url": "https://simplify.jobs/c/Centene",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "DV Trading",
+    "id": "f92c8268-8778-4583-ab29-5a03ded74ba1",
+    "title": "2025 Summer Internship - Trading - DV Equities",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1739808656,
+    "date_posted": 1739808656,
+    "url": "https://boards.greenhouse.io/dvtrading/jobs/4519902005",
+    "locations": [
+      "Toronto, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/DV-Trading",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
