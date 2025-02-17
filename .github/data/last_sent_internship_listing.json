@@ -52414,5 +52414,24 @@
     "company_url": "https://simplify.jobs/c/7-Eleven",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Jabil",
+    "id": "78122dd9-0585-4394-9c5e-2cac7b162f66",
+    "title": "Generative AI Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1739825103,
+    "date_posted": 1739825103,
+    "url": "https://jabil.wd5.myworkdayjobs.com/en-US/Jabil_Careers/job/St-PetersburgTampa-FL/Generative-AI-Intern_J2408332",
+    "locations": [
+      "St. Petersburg, FL"
+    ],
+    "company_url": "https://simplify.jobs/c/051f591a-22c2-4254-aec5-c3ee7c82b288",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
