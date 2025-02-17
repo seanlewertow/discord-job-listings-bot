@@ -52433,5 +52433,24 @@
     "company_url": "https://simplify.jobs/c/051f591a-22c2-4254-aec5-c3ee7c82b288",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Resmed",
+    "id": "c4476f05-eb10-4c22-86ee-2e4760ac98dd",
+    "title": "Data Engineering Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1739824702,
+    "date_posted": 1739824702,
+    "url": "https://resmed.wd3.myworkdayjobs.com/en-US/ResMed_External_Careers/job/US-San-Diego-Corporate/Data-Engineering-Intern_JR_039876",
+    "locations": [
+      "San Diego, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/f1e2116e-f25f-44f8-9667-7351ce6ceb3f",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
