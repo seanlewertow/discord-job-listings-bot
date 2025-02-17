@@ -52395,5 +52395,24 @@
     "company_url": "https://simplify.jobs/c/238c95d8-0d6e-4717-b28c-078b16d675d7",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "7-Eleven",
+    "id": "195323e0-9dca-43ff-8147-759b56d9f65a",
+    "title": "Enterprise Technology Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1739824905,
+    "date_posted": 1739824905,
+    "url": "https://my7elevenhr.wd12.myworkdayjobs.com/Careers/job/SSC-Irving-TX/Enterprise-Technology-Intern_R25_0000001209",
+    "locations": [
+      "Irving, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/7-Eleven",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
