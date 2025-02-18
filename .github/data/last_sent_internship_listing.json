@@ -52649,5 +52649,43 @@
     "company_url": "https://simplify.jobs/c/Lowes",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Chewy",
+    "id": "e823870c-0da2-4586-9d7e-e8e73d09ad28",
+    "title": "AI Innovator Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1739895471,
+    "date_posted": 1739895471,
+    "url": "https://boards.greenhouse.io/embed/job_app?token=6642607",
+    "locations": [
+      "Boston, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/Chewy",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Chewy",
+    "id": "1c4fc0c8-5564-48fd-b781-471d528757ac",
+    "title": "AI Innovator Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1739895470,
+    "date_posted": 1739895470,
+    "url": "https://boards.greenhouse.io/embed/job_app?token=6641852",
+    "locations": [
+      "Bellevue, WA"
+    ],
+    "company_url": "https://simplify.jobs/c/Chewy",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
