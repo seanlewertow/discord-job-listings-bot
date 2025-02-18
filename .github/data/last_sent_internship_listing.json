@@ -53001,5 +53001,25 @@
     "company_url": "https://simplify.jobs/c/Applied-Materials",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "DJE Holdings",
+    "id": "7444e6fc-1627-4b70-86fe-97ab8c9f7776",
+    "title": "Intern \u2013 Performance Analytics",
+    "active": true,
+    "terms": [
+      "Summer 2025",
+      "Fall 2025"
+    ],
+    "date_updated": 1739910297,
+    "date_posted": 1739910297,
+    "url": "https://jobs.lever.co/djeholdings/c2ab9ded-891d-4f9a-9c7f-b40b2bf72ec1/apply",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Dje-Holdings",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
