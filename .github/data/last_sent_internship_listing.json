@@ -52770,5 +52770,64 @@
     "company_url": "https://simplify.jobs/c/Comcast",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Intel",
+    "id": "c286d91a-c60d-4bd2-8503-fdb5eac4493a",
+    "title": "System and Software Optimization Engineer \u2013 Undergrad Intern - AI/ML",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1739910758,
+    "date_posted": 1739910758,
+    "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-California-Santa-Clara/System-and-Software-Optimization-Engineer----Undergrad-Intern--AI-ML-_JR0272229",
+    "locations": [
+      "Marlborough, MA",
+      "Santa Clara, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Intel",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Marvell",
+    "id": "607a357f-7f3a-4332-a59b-28e932e9efec",
+    "title": "People Analytics Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1739910671,
+    "date_posted": 1739910671,
+    "url": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers2/job/Santa-Clara-CA/People-Analytics-Intern---Bachelor-s-degree_2401876",
+    "locations": [
+      "Santa Clara, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/80961b05-9ed3-462d-aef9-4b418c7fb796",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Daniel J Edelman Holdings",
+    "id": "fcaa76f2-c8f4-4b46-bef3-7e596395d011",
+    "title": "Intern \u2013 Predictive Analytics",
+    "active": true,
+    "terms": [
+      "Summer 2025",
+      "Fall 2025"
+    ],
+    "date_updated": 1739910311,
+    "date_posted": 1739910311,
+    "url": "https://jobs.lever.co/djeholdings/3efb093e-541b-4cf3-917d-f37f8515befc/apply",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/Daniel-J-Edelman-Holdings",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
