@@ -53021,5 +53021,81 @@
     "company_url": "https://simplify.jobs/c/Dje-Holdings",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Samsung",
+    "id": "6ffd5b35-868c-4aad-bce2-db480f64c6c4",
+    "title": "Summer Intern - Software Dev Engineer",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1739913796,
+    "date_posted": 1739913796,
+    "url": "https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/6625-Excellence-Way-Plano-TX-USA/Summer-Intern--Software-Dev-Engineer_R100637",
+    "locations": [
+      "Plano, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Samsung",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Leidos",
+    "id": "f940a814-0d1a-4bc9-a29f-8e9bbb99ac26",
+    "title": "Division CTO Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1739913100,
+    "date_posted": 1739913100,
+    "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Reston-VA/Division-CTO-Intern_R-00153377",
+    "locations": [
+      "Reston, VA"
+    ],
+    "company_url": "https://simplify.jobs/c/Leidos",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Leidos",
+    "id": "85af3418-e8a1-4b62-b82d-582f33543e56",
+    "title": "Behavioral and Neuro-Cognitive Research Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1739913098,
+    "date_posted": 1739913098,
+    "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Arlington-VA/Behavioral-and-Neuro-Cognitive-Research-Intern_R-00153368",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/Leidos",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Live Nation Entertainment",
+    "id": "574abbb2-4555-4791-a924-8a44da2e4074",
+    "title": "Software Engineer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1739912719,
+    "date_posted": 1739912719,
+    "url": "https://livenation.wd1.myworkdayjobs.com/en-US/LNExternalSite/job/Reston-VA-USA/Software-Engineer-Intern_JR-76686-1",
+    "locations": [
+      "Reston, VA"
+    ],
+    "company_url": "https://simplify.jobs/c/Live-Nation-Entertainment",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
