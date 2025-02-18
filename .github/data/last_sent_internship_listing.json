@@ -52452,5 +52452,103 @@
     "company_url": "https://simplify.jobs/c/f1e2116e-f25f-44f8-9667-7351ce6ceb3f",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Genuine Parts Company",
+    "id": "5e33d32f-1b04-4dca-b970-5c1fc4d77d56",
+    "title": "Software Developer \u2013 Ebusiness Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1739837539,
+    "date_posted": 1739837539,
+    "url": "https://genpt.wd1.myworkdayjobs.com/Careers/job/Birmingham-AL-USA/Software-Developer---eBusiness-Intern_R25_0000005896",
+    "locations": [
+      "Birmingham, AL"
+    ],
+    "company_url": "https://simplify.jobs/c/Genuine-Parts-Company",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Northwestern Mutual",
+    "id": "f2ebb765-540c-448a-8128-2bfd209bfb62",
+    "title": "Public Investments Quantitative Analyst Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1739838588,
+    "date_posted": 1739838588,
+    "url": "https://northwesternmutual.wd5.myworkdayjobs.com/corporate-careers/job/Milwaukee-WI-Corporate/Public-Investments-Quantitative-Analyst-Intern_JR-41879",
+    "locations": [
+      "Milwaukee, WI"
+    ],
+    "company_url": "https://simplify.jobs/c/Northwestern-Mutual",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Relativity Space",
+    "id": "8ca0f359-2458-447e-a311-3f05a0c2bffb",
+    "title": "Software Engineer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025",
+      "Fall 2025"
+    ],
+    "date_updated": 1739838560,
+    "date_posted": 1739838560,
+    "url": "https://boards.greenhouse.io/rsinternboard/jobs/7855756002",
+    "locations": [
+      "John C. Stennis Space Center, MS"
+    ],
+    "company_url": "https://simplify.jobs/c/Relativity-Space",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Truveta",
+    "id": "6ff80ddd-7319-4bfa-9283-5608c300c20a",
+    "title": "Clinical Data Analyst Intern/Apprentice",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1739837798,
+    "date_posted": 1739837798,
+    "url": "https://job-boards.greenhouse.io/truveta/jobs/5452551004",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "company_url": "https://simplify.jobs/c/Truveta",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "CVS Health",
+    "id": "7227f084-a9a4-4854-a8b2-ad75ea4f7bfe",
+    "title": "Innotech Summer Undergraduate Internship - Pharmacy Services - Software Engineer",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1739838931,
+    "date_posted": 1739838931,
+    "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/AZ---Scottsdale/InnoTech-Summer-Undergraduate-Internship-2025---Pharmacy-Services---Software-Engineer_R0507290",
+    "locations": [
+      "Smithfield, RI",
+      "Scottsdale, AZ",
+      "Hartford, CT"
+    ],
+    "company_url": "https://simplify.jobs/c/CVS-Health",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
