@@ -52943,5 +52943,63 @@
     "company_url": "https://simplify.jobs/c/DigitalOcean",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Autodesk",
+    "id": "4fc4bb6a-fc3d-4594-9590-c5c0576fcdc9",
+    "title": "Intern \u2013 Full Stack Software Developer",
+    "active": true,
+    "terms": [
+      "Spring 2025",
+      "Summer 2025"
+    ],
+    "date_updated": 1739910520,
+    "date_posted": 1739910520,
+    "url": "https://autodesk.wd1.myworkdayjobs.com/en-US/uni/job/Ontario-CAN---Remote/Intern--Full-Stack-Software-Developer_24WD81512-1",
+    "locations": [
+      "Remote in Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/9a5a4634-d168-4118-b172-0c0aae45f2ad",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "COTA",
+    "id": "383eea33-3e14-4463-ba6c-b90afbdf05d6",
+    "title": "Data Product Engineer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1739913827,
+    "date_posted": 1739913827,
+    "url": "https://job-boards.greenhouse.io/cota/jobs/6472352003",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/COTA",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Applied Materials",
+    "id": "2d6dc715-f328-46f2-b361-05560a158654",
+    "title": "Summer 2025 Knowledge Management Data Analyst Intern-Bachelor's",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1739910484,
+    "date_posted": 1739910484,
+    "url": "https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/Summer-2025-Knowledge-Management-Data-Analyst-Intern--Bachelor-s--Santa-Clara--CA-_R2511523",
+    "locations": [
+      "Santa Clara, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Applied-Materials",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
