@@ -52687,5 +52687,88 @@
     "company_url": "https://simplify.jobs/c/Chewy",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "7-Eleven",
+    "id": "25c5f0d6-6ff1-49e6-a73d-3129efab393d",
+    "title": "Merchandising Technology Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1739896288,
+    "date_posted": 1739896288,
+    "url": "https://my7elevenhr.wd12.myworkdayjobs.com/Careers/job/SSC-Irving-TX/Merchandising-Technology-Intern_R25_0000001208",
+    "locations": [
+      "Irving, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/7-Eleven",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Comcast",
+    "id": "faff98b6-aa9e-42ce-951c-e34964a22dd0",
+    "title": "Comcast AI Technologies Front-End Engineer Co-op",
+    "active": true,
+    "terms": [
+      "Spring 2025",
+      "Summer 2025",
+      "Fall 2025"
+    ],
+    "date_updated": 1739896307,
+    "date_posted": 1739896307,
+    "url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1800-Arch-St/Comcast-AI-Technologies-Front-End-Engineer-Co-op_R398002",
+    "locations": [
+      "Philadelphia, PA"
+    ],
+    "company_url": "https://simplify.jobs/c/Comcast",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "National Information Solutions Cooperative (NISC)",
+    "id": "76e651ab-cfb6-4f9e-8e40-f35e10e2cb8d",
+    "title": "Intern \u2013 Software Development",
+    "active": true,
+    "terms": [
+      "Spring 2025",
+      "Summer 2025"
+    ],
+    "date_updated": 1739895766,
+    "date_posted": 1739895766,
+    "url": "https://boards.greenhouse.io/testnisc/jobs/6643155",
+    "locations": [
+      "Bismarck, ND",
+      "Lake St Louis, MO",
+      "Cedar Rapids, IA"
+    ],
+    "company_url": "https://simplify.jobs/c/National-Information-Solutions-Cooperative-(NISC)",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Comcast",
+    "id": "f9e9792d-0d9d-4379-aac8-2cbcfe2e3e94",
+    "title": "Comcast Software Engineer Co-op",
+    "active": true,
+    "terms": [
+      "Spring 2025",
+      "Summer 2025",
+      "Fall 2025"
+    ],
+    "date_updated": 1739896302,
+    "date_posted": 1739896302,
+    "url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1800-Arch-St/Comcast-Software-Engineer-Co-op_R400696",
+    "locations": [
+      "Philadelphia, PA"
+    ],
+    "company_url": "https://simplify.jobs/c/Comcast",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
