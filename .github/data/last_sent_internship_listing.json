@@ -53422,5 +53422,24 @@
     "company_url": "https://simplify.jobs/c/ServiceNow",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Western Digital",
+    "id": "b2c585df-e83b-453b-9ca9-a58c8b5d74d5",
+    "title": "Summer 2025 Intern - AI/ML for Semiconductor Yield & Quality Improvement",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1739996247,
+    "date_posted": 1739996247,
+    "url": "https://jobs.smartrecruiters.com/WesternDigital/744000043510175",
+    "locations": [
+      "Fremont, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Western-Digital",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
