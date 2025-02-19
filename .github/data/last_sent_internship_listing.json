@@ -53479,5 +53479,100 @@
     "company_url": "https://simplify.jobs/c/Fresenius",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Mistplay",
+    "id": "9239db3c-4348-4c66-bb4f-62e17c6e58a6",
+    "title": "Backend Developer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1739998664,
+    "date_posted": 1739998664,
+    "url": "https://jobs.lever.co/mistplay/f9e61570-fee8-44b5-bcf7-96946eb444dd/apply",
+    "locations": [
+      "Toronto, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Mistplay",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Mistplay",
+    "id": "37b997e5-b261-472e-bd4a-b3c7342fc2ee",
+    "title": "Android Developer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1740000121,
+    "date_posted": 1740000121,
+    "url": "https://jobs.lever.co/mistplay/5daed04a-bd28-42c9-8cf6-f07fadbecc89/apply",
+    "locations": [
+      "Toronto, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Mistplay",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Fresenius Medical Care",
+    "id": "49bcdf96-5c85-462d-a9cc-c6f4899e446b",
+    "title": "Software Engineering Co-op",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1740000116,
+    "date_posted": 1740000116,
+    "url": "https://freseniusmedicalcare.wd3.myworkdayjobs.com/fme/job/Lawrence-MA-USA/Software-Engineering-Co-op---1_R0190045",
+    "locations": [
+      "Andover, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/Fresenius",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "DigitalOcean",
+    "id": "cae8cae9-6a8c-4f9a-9f65-da1367531317",
+    "title": "Software Engineer \u2013 Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1739998766,
+    "date_posted": 1739998766,
+    "url": "https://www.digitalocean.com/careers/position/apply/?gh_jid=6647899",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/DigitalOcean",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "DigitalOcean",
+    "id": "b4f571d3-550c-434b-ba2d-b6be3417c75a",
+    "title": "Software Engineer \u2013 Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1739998766,
+    "date_posted": 1739998766,
+    "url": "https://www.digitalocean.com/careers/position/apply/?gh_jid=6647896",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/DigitalOcean",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
