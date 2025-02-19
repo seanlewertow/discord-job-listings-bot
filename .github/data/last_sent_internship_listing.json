@@ -53327,5 +53327,62 @@
     "company_url": "https://simplify.jobs/c/Rivian",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Leidos",
+    "id": "0b21006f-3856-47db-a00d-165dd71b63ab",
+    "title": "Corporate Project Planning and EVM Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1739983061,
+    "date_posted": 1739983061,
+    "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Remote-US/Corporate-Project-Planning-and-EVM-Intern_R-00153794",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/Leidos",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Cerebras",
+    "id": "e6e3a1d3-5603-4aa7-9f04-1e6745d216a1",
+    "title": "Distributed Software Engineer \u2013 Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1739982984,
+    "date_posted": 1739982984,
+    "url": "https://boards.greenhouse.io/embed/job_app?token=6278580003",
+    "locations": [
+      "Toronto, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Cerebras-Systems",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Zocdoc",
+    "id": "2c12095a-b702-400f-9730-ddff89d54e4c",
+    "title": "Software Engineering Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1739982656,
+    "date_posted": 1739982656,
+    "url": "https://www.zocdoc.com/about/careers/?job_id=6280453&gh_jid=6280453",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Zocdoc",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
