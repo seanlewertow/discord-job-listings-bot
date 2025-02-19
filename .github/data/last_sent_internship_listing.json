@@ -53441,5 +53441,43 @@
     "company_url": "https://simplify.jobs/c/Western-Digital",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Zoox",
+    "id": "725b19a6-a3cc-4c2d-b510-17e0c7a9b287",
+    "title": "Reliability Data Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1740001090,
+    "date_posted": 1740001090,
+    "url": "https://jobs.lever.co/zoox/3f3e290e-15fa-444a-9c67-1ac49c793e9d/apply",
+    "locations": [
+      "San Mateo, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Zoox",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Fresenius Medical Care",
+    "id": "2d5353ca-5451-4001-b12d-b2ebc8903b59",
+    "title": "Software Engineer Co-Op - Pd",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1740001038,
+    "date_posted": 1740001038,
+    "url": "https://freseniusmedicalcare.wd3.myworkdayjobs.com/fme/job/Lawrence-MA-USA/Software-Engineer-Co-Op--PD_R0193347",
+    "locations": [
+      "Andover, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/Fresenius",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
