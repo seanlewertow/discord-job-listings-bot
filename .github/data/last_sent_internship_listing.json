@@ -53192,5 +53192,82 @@
     "company_url": "https://simplify.jobs/c/238c95d8-0d6e-4717-b28c-078b16d675d7",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Applied Materials",
+    "id": "08e8aa93-da1f-445e-aa48-5cf56f136126",
+    "title": "Materials Program Management Intern-Bachelor's",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1739932941,
+    "date_posted": 1738270180,
+    "url": "https://amat.wd1.myworkdayjobs.com/en-US/External/job/AustinTX/Semiconductor-Material-Project-Program-Management-Intern--Bachelor-s--Austin--TX-_R2510816",
+    "locations": [
+      "Austin, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Applied-Materials",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Chime",
+    "id": "afb133a0-852d-4f61-8c1b-24cc9292dbdf",
+    "title": "Software Engineer Intern - Agent Tools",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1739938385,
+    "date_posted": 1739938385,
+    "url": "https://boards.greenhouse.io/chime/jobs/7744626002",
+    "locations": [
+      "SF"
+    ],
+    "company_url": "https://simplify.jobs/c/Chime",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Samsung",
+    "id": "cc5e21c7-574c-4d73-a1f9-c5f31b5d9efc",
+    "title": "AI Analyst Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1739938312,
+    "date_posted": 1739938312,
+    "url": "https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/6625-Excellence-Way-Plano-TX-USA/AI-Analyst_R100776",
+    "locations": [
+      "Plano, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Samsung",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "ServiceNow",
+    "id": "63ae8847-2615-4c85-a0bc-d55f46da7437",
+    "title": "Backend Software Engineer Intern Co-op",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1739938175,
+    "date_posted": 1739938175,
+    "url": "https://jobs.smartrecruiters.com/ServiceNow/744000043341863",
+    "locations": [
+      "Montreal, QC, Canada",
+      "Toronto, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/ServiceNow",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
