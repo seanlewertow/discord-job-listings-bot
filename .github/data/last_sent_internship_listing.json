@@ -53384,5 +53384,43 @@
     "company_url": "https://simplify.jobs/c/Zocdoc",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Parsons",
+    "id": "dc5ab012-5187-4ec1-aaa8-72f56e048593",
+    "title": "Application Specialist Intern Summer 2025",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1739997866,
+    "date_posted": 1739997866,
+    "url": "https://parsons.wd5.myworkdayjobs.com/en-US/search/job/US---Remote-Any-Location/Application-Specialist-Intern-Summer-2025--Remote-_R162667",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/Parsons",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "ServiceNow",
+    "id": "43f50186-7641-4f00-8b63-e7d9b900c559",
+    "title": "Technical Accelerator Consultant \u2013 Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1739997143,
+    "date_posted": 1739997143,
+    "url": "https://jobs.smartrecruiters.com/ServiceNow/744000043532696",
+    "locations": [
+      "Orlando, FL"
+    ],
+    "company_url": "https://simplify.jobs/c/ServiceNow",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
