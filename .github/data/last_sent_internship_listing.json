@@ -53269,5 +53269,24 @@
     "company_url": "https://simplify.jobs/c/ServiceNow",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Nuro",
+    "id": "704b6a11-d67d-4927-a81a-c1592dd6197e",
+    "title": "Embedded Software Engineer \u2013 Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1739939067,
+    "date_posted": 1739939067,
+    "url": "https://nuro.ai/careersitem?gh_jid=6608437",
+    "locations": [
+      "Mountain View, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Nuro",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
