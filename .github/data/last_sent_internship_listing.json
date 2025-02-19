@@ -53288,5 +53288,44 @@
     "company_url": "https://simplify.jobs/c/Nuro",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Comcast",
+    "id": "2eae01b8-2542-45df-9bf1-8967a2fbaa4c",
+    "title": "Comcast HR Analytics Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025",
+      "Fall 2025"
+    ],
+    "date_updated": 1739982490,
+    "date_posted": 1739982490,
+    "url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1701-John-F-Kennedy-Blvd/Comcast-HR-Analytics-Intern_R406255",
+    "locations": [
+      "Philadelphia, PA"
+    ],
+    "company_url": "https://simplify.jobs/c/Comcast",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Rivian",
+    "id": "c2874dc3-a671-4aa7-b00a-e7b3cfee7492",
+    "title": "Software Engineering Intern - AI Infrastructure - Autonomy",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1739981948,
+    "date_posted": 1739981948,
+    "url": "https://careers.rivian.com/jobs/20007?lang=en-us&icims=1",
+    "locations": [
+      "Palo Alto, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Rivian",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
