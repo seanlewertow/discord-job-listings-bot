@@ -53593,5 +53593,63 @@
     "company_url": "https://simplify.jobs/c/Booz-Allen",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "CompanyCam",
+    "id": "84fc2a1e-a053-43da-aa2b-757ed11639db",
+    "title": "Data Scientist Intern",
+    "active": true,
+    "terms": [
+      "Spring 2025",
+      "Summer 2025"
+    ],
+    "date_updated": 1740011260,
+    "date_posted": 1740011260,
+    "url": "https://companycam.com/job?gh_jid=6386861003",
+    "locations": [
+      "Lincoln, NE"
+    ],
+    "company_url": "https://simplify.jobs/c/CompanyCam",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "LivePerson",
+    "id": "07672159-e3d4-4582-a92e-c614dd80c4b2",
+    "title": "AI/ML Engineer \u2013 Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1740011015,
+    "date_posted": 1740011015,
+    "url": "https://boards.greenhouse.io/liveperson/jobs/6645625",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/LivePerson",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "MongoDB",
+    "id": "d12215ea-fea1-491f-9d81-c72f0bf66c23",
+    "title": "Industry Solutions Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1740010566,
+    "date_posted": 1740010566,
+    "url": "https://www.mongodb.com/careers/job/?gh_jid=6631757",
+    "locations": [
+      "Austin, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/MongoDB",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
