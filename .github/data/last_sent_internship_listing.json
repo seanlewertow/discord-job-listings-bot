@@ -53765,5 +53765,24 @@
     "company_url": "https://simplify.jobs/c/MotorolaSolutions",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Western Digital",
+    "id": "d77a1fcb-dc46-4eb1-b402-87733f30e5b8",
+    "title": "Summer 2025 Intern - Applications Engineering",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1740082154,
+    "date_posted": 1740082154,
+    "url": "https://jobs.smartrecruiters.com/WesternDigital/744000043764255",
+    "locations": [
+      "Fremont, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Western-Digital",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
