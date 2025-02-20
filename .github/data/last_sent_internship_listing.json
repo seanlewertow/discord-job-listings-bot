@@ -53938,5 +53938,44 @@
     "company_url": "https://simplify.jobs/c/Lowe",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Parsons",
+    "id": "2967237e-74bd-43f1-9db7-32b2b002442b",
+    "title": "Software Developer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1740083426,
+    "date_posted": 1740083426,
+    "url": "https://parsons.wd5.myworkdayjobs.com/en-US/search/job/US---CO-Denver/Software-Developer-Intern--Summer-2025-_R159339",
+    "locations": [
+      "Colorado Springs, CO",
+      "Denver, CO"
+    ],
+    "company_url": "https://simplify.jobs/c/Parsons",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Samsung",
+    "id": "eed9adcf-1436-42e4-9f06-f3d1035dd477",
+    "title": "Promotions Analyst Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1740086536,
+    "date_posted": 1739910333,
+    "url": "https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/6625-Excellence-Way-Plano-TX-USA/Analyst-Intern_R100565",
+    "locations": [
+      "Plano, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Samsung",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
