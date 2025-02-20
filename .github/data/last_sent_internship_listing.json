@@ -53862,5 +53862,43 @@
     "company_url": "https://simplify.jobs/c/Capital-One",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Legend Biotech",
+    "id": "5f5d6930-1cc3-441d-b04e-8b55cd9de9a3",
+    "title": "Analytical Data Science \u2013 CMC Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1740084022,
+    "date_posted": 1740084022,
+    "url": "https://job-boards.greenhouse.io/legendcareers/jobs/4531331005",
+    "locations": [
+      "Somerset County, NJ"
+    ],
+    "company_url": "https://simplify.jobs/c/Legend-Biotech",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Legend Biotech",
+    "id": "168d5e5e-8360-433e-aa65-9509a51b2c85",
+    "title": "Data Science Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1740084023,
+    "date_posted": 1740084023,
+    "url": "https://job-boards.greenhouse.io/legendcareers/jobs/4531237005",
+    "locations": [
+      "Bridgewater Township, NJ"
+    ],
+    "company_url": "https://simplify.jobs/c/Legend-Biotech",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
