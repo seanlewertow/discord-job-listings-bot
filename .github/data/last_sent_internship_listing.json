@@ -53784,5 +53784,83 @@
     "company_url": "https://simplify.jobs/c/Western-Digital",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Tower Research Capital",
+    "id": "b14ebff6-8b64-49c2-b8c4-7799457f8b61",
+    "title": "Software Engineer Intern - Ventures Team",
+    "active": true,
+    "terms": [
+      "Summer 2025",
+      "Fall 2025"
+    ],
+    "date_updated": 1740083502,
+    "date_posted": 1740083502,
+    "url": "https://www.tower-research.com/open-positions/?gh_jid=6650163",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Tower-Research-Capital",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Oshkosh",
+    "id": "d72492cd-6122-4913-967c-d75100a463e0",
+    "title": "Data Analyst Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1740082862,
+    "date_posted": 1740082862,
+    "url": "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Oshkosh-Wisconsin-United-States/Data-Analyst-Intern_R35754-1",
+    "locations": [
+      "Oshkosh, WI"
+    ],
+    "company_url": "https://simplify.jobs/c/Oshkosh",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "CACI",
+    "id": "82908437-cb54-4242-885c-d80214f1ee71",
+    "title": "Software Engineer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1740082889,
+    "date_posted": 1740082889,
+    "url": "https://caci.wd1.myworkdayjobs.com/External/job/US-VA-Fort-Belvoir/Software-Engineer-Intern---Summer-2025_308222-1",
+    "locations": [
+      "Fort Belvoir, VA"
+    ],
+    "company_url": "https://simplify.jobs/c/CACI",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Capital One",
+    "id": "2d01e6ac-6e0f-4fbf-b929-9086c9c72658",
+    "title": "Data Scientist Intern",
+    "active": true,
+    "terms": [
+      "Spring 2025",
+      "Summer 2025"
+    ],
+    "date_updated": 1740082724,
+    "date_posted": 1740082724,
+    "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Data-Scientist-Intern--Spring-Summer-2025-_R208102",
+    "locations": [
+      "Toronto, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Capital-One",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
