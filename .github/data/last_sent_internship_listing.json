@@ -53670,5 +53670,100 @@
     "company_url": "https://simplify.jobs/c/Hewlett-Packard",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "CVS Health",
+    "id": "1a6d6d70-9468-4019-b25a-aa03d18f4dd1",
+    "title": "Innotech Summer Graduate Internship 2025 - Pharmacy & Consumer Wellness Tech - Web Development Modern Stack",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1740069573,
+    "date_posted": 1740069573,
+    "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/RI---Woonsocket/InnoTech-Summer-Graduate-Internship-2025---Pharmacy---Consumer-Wellness-Tech---Web-Development-Modern-Stack_R0509096",
+    "locations": [
+      "Smithfield, RI"
+    ],
+    "company_url": "https://simplify.jobs/c/CVS-Health",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "CVS Health",
+    "id": "fc24136a-af22-4bae-ac0c-1f0deb8cb77f",
+    "title": "Innotech Summer Undergraduate Internship 2025 - Pharmacy & Consumer Wellness Tech - Software Developer",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1740068933,
+    "date_posted": 1740068933,
+    "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/RI---Woonsocket/InnoTech-Summer-Undergraduate-Internship-2025---Pharmacy---Consumer-Wellness-Tech---Software-Developer_R0509106",
+    "locations": [
+      "Smithfield, RI"
+    ],
+    "company_url": "https://simplify.jobs/c/CVS-Health",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Alarm.com",
+    "id": "c709b314-f55d-4e61-ba94-c3d53bb990f5",
+    "title": "Software Engineering Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1740068349,
+    "date_posted": 1740068349,
+    "url": "https://boards.greenhouse.io/alarmcom/jobs/7852343002",
+    "locations": [
+      "Vienna, VA"
+    ],
+    "company_url": "https://simplify.jobs/c/Alarm",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Rivian",
+    "id": "6dcaa70c-cfb7-4171-a76f-4c46f4041a62",
+    "title": "Software Engineering Intern - Product Manager",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1740068351,
+    "date_posted": 1740068351,
+    "url": "https://careers.rivian.com/jobs/22308?lang=en-us&icims=1",
+    "locations": [
+      "Palo Alto, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Rivian",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Motorola",
+    "id": "dbc54132-6835-4678-bf79-1673e87ca5e4",
+    "title": "Software Engineer Summer 2025 Internship",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1740069181,
+    "date_posted": 1740069181,
+    "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Champaign-IL-IL169/Software-Engineer-Summer-2025-Internship--UIUC-Research-Park-_R53918",
+    "locations": [
+      "Urbana, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/MotorolaSolutions",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
