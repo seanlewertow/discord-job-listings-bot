@@ -53900,5 +53900,43 @@
     "company_url": "https://simplify.jobs/c/Legend-Biotech",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Jones Lang LaSalle (JLL)",
+    "id": "0685e267-26d5-4643-94e7-b8d575a0c065",
+    "title": "Software Development Summer 2025 Internship",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1740084792,
+    "date_posted": 1740084792,
+    "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Boston-MA/Software-Development-Summer-2025-Internship---Boston--MA_REQ411862-1",
+    "locations": [
+      "Boston, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/Jones-Lang-LaSalle",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Lowe's",
+    "id": "1506ffc2-1be9-4e4e-a697-4786443101e6",
+    "title": "Exploratory Software Engineer \u2013 Undergraduate Internship",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1740084511,
+    "date_posted": 1740084511,
+    "url": "https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Lowes-Charlotte-Technology-Hub-3505/Exploratory-Software-Engineer--Undergraduate-Internship_JR-01879299",
+    "locations": [
+      "Charlotte, NC"
+    ],
+    "company_url": "https://simplify.jobs/c/Lowe",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
