@@ -53651,5 +53651,24 @@
     "company_url": "https://simplify.jobs/c/MongoDB",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Hewlett Packard (HP)",
+    "id": "fec5f549-3d8c-411e-bfaf-b13c0c3a3037",
+    "title": "Gaming Software Experience Engineer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1740010878,
+    "date_posted": 1740010878,
+    "url": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Spring-Texas-United-States-of-America/Gaming-Software-Experience-Engineer-Intern_UNI1610-2",
+    "locations": [
+      "Spring, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Hewlett-Packard",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
