@@ -54210,5 +54210,62 @@
     "company_url": "https://simplify.jobs/c/Samsung",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Roku",
+    "id": "3cb2ef44-b9fe-4cd8-8f01-736aaa550bf2",
+    "title": "Software Engineer Intern - Devops",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1740155104,
+    "date_posted": 1740155104,
+    "url": "https://www.weareroku.com/jobs/6613675?gh_jid=6613675",
+    "locations": [
+      "Cambridge, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Roku",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Brooks Automation",
+    "id": "b8275ae9-eb9c-452f-ae2d-74e1529a9ecf",
+    "title": "Business Intelligence Analyst Internship",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1740154879,
+    "date_posted": 1740154879,
+    "url": "https://brooksauto.wd1.myworkdayjobs.com/en-US/Brooks_External_Site/job/Chelmsford-MA/Business-Intelligence-Analyst-Internship-for-Summer-2025_R3017",
+    "locations": [
+      "Lowell, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/190ae898-a199-4c93-b2ce-50b07b110a17",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Tower Research Capital",
+    "id": "c5ee72ae-f07d-450e-9e49-034e3504b9a6",
+    "title": "Machine Learning Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1740154805,
+    "date_posted": 1740154805,
+    "url": "https://www.tower-research.com/open-positions/?gh_jid=6651908",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Tower-Research-Capital",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
