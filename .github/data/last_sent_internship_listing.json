@@ -54381,5 +54381,43 @@
     "company_url": "https://simplify.jobs/c/e955406a-7989-4ed8-aff1-01032b96e141",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "date_updated": 1740176075,
+    "url": "https://careers.honeywell.com/us/en/job/HONEUSHRD906926EXTERNALENUS/Intern-Bachelors-AI",
+    "company_name": "Honeywell",
+    "title": "Intern Bachelors AI",
+    "locations": [
+      "Kanata, ON, Canada"
+    ],
+    "terms": [
+      "Summer 2025"
+    ],
+    "sponsorship": "Does Not Offer Sponsorship",
+    "active": true,
+    "source": "GaryZhous",
+    "id": "a3d4d7eb-8b86-4548-8ac0-e9775a35927e",
+    "date_posted": 1740176075,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1740176205,
+    "url": "https://gtsgbu.wd3.myworkdayjobs.com/Careers/job/Toronto/Software-Analyst-Intern---C--C----Python--4-or-8-months-_R1008436",
+    "company_name": "Hitachi Rail",
+    "title": "Software Analyst Intern - C, C++, Python",
+    "locations": [
+      "Toronto, Canada"
+    ],
+    "terms": [
+      "Summer 2025"
+    ],
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "source": "GaryZhous",
+    "id": "d4ea8bee-d5b1-4304-b736-119e484b50a7",
+    "date_posted": 1740176205,
+    "company_url": "",
+    "is_visible": true
   }
 ]
