@@ -54132,5 +54132,43 @@
     "company_url": "https://simplify.jobs/c/MotorolaSolutions",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "adMarketplace",
+    "id": "a259372b-aed0-4d80-8c3a-dc8472554233",
+    "title": "Business Intelligence Summer Internship",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1740084439,
+    "date_posted": 1740084439,
+    "url": "https://job-boards.greenhouse.io/admarketplaceinc/jobs/4532164005",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/adMarketplace",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Dun & Bradstreet",
+    "id": "4416be51-3725-42bf-90eb-717aeb3cd2d7",
+    "title": "2025 Summer Internship Program - People Analytics",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1737145408,
+    "date_posted": 1736785305,
+    "url": "https://jobs.lever.co/dnb/d5201b70-f7e1-44a0-ba1b-4cb028972b1f/apply",
+    "locations": [
+      "Jacksonville, FL"
+    ],
+    "company_url": "https://simplify.jobs/c/Dun-and-Bradstreet",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
