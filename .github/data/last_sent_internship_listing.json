@@ -54343,5 +54343,24 @@
     "company_url": "https://simplify.jobs/c/Parsons",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "The Walt Disney Company",
+    "id": "f5e5a490-91b3-406b-983f-0dfff08f1402",
+    "title": "Software Engineering Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1740171358,
+    "date_posted": 1740171358,
+    "url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Morrisville-NC-USA/Software-Engineering-Intern--Morrisville--NC--Summer-2025_10105231",
+    "locations": [
+      "Morrisville, NC"
+    ],
+    "company_url": "https://simplify.jobs/c/Disney",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
