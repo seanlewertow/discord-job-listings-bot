@@ -54362,5 +54362,24 @@
     "company_url": "https://simplify.jobs/c/Disney",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Athena Health",
+    "id": "ff9e9007-36a1-465a-b908-bb3306b4dcb9",
+    "title": "Software Engineering Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1740170967,
+    "date_posted": 1740170967,
+    "url": "https://athenahealth.wd1.myworkdayjobs.com/en-US/External/job/Boston-MA/XMLNAME-2025-Summer-Software-Engineering-Intern_R11470",
+    "locations": [
+      "Boston, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/e955406a-7989-4ed8-aff1-01032b96e141",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
