@@ -54324,5 +54324,24 @@
     "company_url": "https://simplify.jobs/c/Samsung",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Parsons",
+    "id": "a7fab991-5cbb-40db-928b-1c36d4ce734e",
+    "title": "Software Engineering Co-Op",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1740170379,
+    "date_posted": 1740170379,
+    "url": "https://parsons.wd5.myworkdayjobs.com/en-US/search/job/US---VA-Centreville/Software-Engineering-Co-Op--TS-or-Higher-Clearance-_R164188",
+    "locations": [
+      "Centreville, VA"
+    ],
+    "company_url": "https://simplify.jobs/c/Parsons",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
