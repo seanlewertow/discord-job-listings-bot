@@ -53977,5 +53977,103 @@
     "company_url": "https://simplify.jobs/c/Samsung",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "BlackSky",
+    "id": "192bb932-6eba-45a2-916e-257071eaf822",
+    "title": "Software Development Engineer in Test \u2013 Intern - Sdet",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1740097300,
+    "date_posted": 1740097300,
+    "url": "https://boards.greenhouse.io/blacksky/jobs/7853542002",
+    "locations": [
+      "Reston, VA"
+    ],
+    "company_url": "https://simplify.jobs/c/BlackSky",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Xometry",
+    "id": "c7d85cc0-5561-4f2a-9091-5a753de420d0",
+    "title": "Machine Learning Platform Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1740096958,
+    "date_posted": 1740096958,
+    "url": "https://job-boards.greenhouse.io/xometry/jobs/4658355007",
+    "locations": [
+      "North Bethesda, MD"
+    ],
+    "company_url": "https://simplify.jobs/c/Xometry",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Ensono",
+    "id": "f8c151d4-4552-4bb3-ad06-3505536465f9",
+    "title": "Data Center Infrastructure Intern",
+    "active": true,
+    "terms": [
+      "Spring 2025",
+      "Summer 2025"
+    ],
+    "date_updated": 1740098167,
+    "date_posted": 1740098167,
+    "url": "https://ensono.com/company/careers/jobs-board/?gh_jid=4525951005",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/Ensono",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Ensono",
+    "id": "b6e47c5f-29a2-4237-bccc-43ac256414b8",
+    "title": "Capacity & Data Analytics Intern",
+    "active": true,
+    "terms": [
+      "Spring 2025",
+      "Summer 2025"
+    ],
+    "date_updated": 1740098167,
+    "date_posted": 1740098167,
+    "url": "https://ensono.com/company/careers/jobs-board/?gh_jid=4525956005",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/Ensono",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Ensono",
+    "id": "57cd420d-3ea7-46e6-9ef5-4eae1633e38b",
+    "title": "Automation Servicenow Intern",
+    "active": true,
+    "terms": [
+      "Spring 2025",
+      "Summer 2025"
+    ],
+    "date_updated": 1740098163,
+    "date_posted": 1740098163,
+    "url": "https://ensono.com/company/careers/jobs-board/?gh_jid=4525960005",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/Ensono",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
