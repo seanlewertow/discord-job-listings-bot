@@ -54075,5 +54075,62 @@
     "company_url": "https://simplify.jobs/c/Ensono",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Integrity",
+    "id": "072bf5bd-ed14-4d1c-8817-bc40d41926df",
+    "title": "Consumer Insights Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1739998985,
+    "date_posted": 1739998985,
+    "url": "https://integritymarketing.wd1.myworkdayjobs.com/en-US/Integrity/job/Minneapolis-MN/Consumer-Insights-Intern_JR2587",
+    "locations": [
+      "Minneapolis, MN"
+    ],
+    "company_url": "https://simplify.jobs/c/cc2aa6fd-89ed-45ce-a866-4f4e3b9c6965",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Warner Bros.",
+    "id": "45142b6b-cade-4c32-822a-c358069fdd3f",
+    "title": "TNT Sports BI Analyst Intern - Summer 2025",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1738702599,
+    "date_posted": 1738702599,
+    "url": "https://warnerbros.wd5.myworkdayjobs.com/global/job/GA-Atlanta-1050-Techwood-Drive-NW/TNT-Sports-BI-Analyst-Intern--ATL---Summer-2025_R000090089",
+    "locations": [
+      "Atlanta, GA"
+    ],
+    "company_url": "https://simplify.jobs/c/Warner-Bros",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Motorola",
+    "id": "ecd9a20e-43c9-40bb-9058-a429a015632d",
+    "title": "CMSO Front Office Design and Tools Internship",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1737736767,
+    "date_posted": 1737736767,
+    "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Schaumburg-IL/CMSO-Front-Office-Design-and-Tools-Intern--Summer-2025-_R51777",
+    "locations": [
+      "Hoffman Estates, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/MotorolaSolutions",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
