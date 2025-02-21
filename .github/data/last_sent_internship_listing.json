@@ -54267,5 +54267,24 @@
     "company_url": "https://simplify.jobs/c/Tower-Research-Capital",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Wayfair",
+    "id": "7609b6c1-6b72-4277-8000-04bf06d371ab",
+    "title": "Data Scientist Co-op",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1740154475,
+    "date_posted": 1740154475,
+    "url": "https://www.wayfair.com/careers/jobs/7870094002?gh_jid=7870094002",
+    "locations": [
+      "Boston, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/Wayfair",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
