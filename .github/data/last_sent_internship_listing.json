@@ -54612,5 +54612,24 @@
     "company_url": "https://simplify.jobs/c/Bridgestone",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Lake Michigan Credit Union",
+    "id": "0a7fd4d0-ed14-417e-9d96-f2e277b24e7b",
+    "title": "Retail Intern",
+    "active": true,
+    "terms": [
+      "Spring 2025"
+    ],
+    "date_updated": 1740226515,
+    "date_posted": 1740226515,
+    "url": "https://lmcu.wd5.myworkdayjobs.com/lmcucareersite/job/Tampa-FL/Retail-Intern---Central-FL_REQ-2025-5426",
+    "locations": [
+      "Tampa, FL"
+    ],
+    "company_url": "https://simplify.jobs/c/Lake-Michigan-Credit-Union",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
