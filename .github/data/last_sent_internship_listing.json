@@ -54419,5 +54419,103 @@
     "date_posted": 1740176205,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Marsh & McLennan",
+    "id": "44273502-a80c-4039-845a-a94c3c5557ff",
+    "title": "Data Strategy Software Engineering Co-op - College Program 2025",
+    "active": true,
+    "terms": [
+      "Summer 2025",
+      "Fall 2025",
+      "Winter 2026"
+    ],
+    "date_updated": 1740183171,
+    "date_posted": 1740183171,
+    "url": "https://mmc.wd1.myworkdayjobs.com/en-US/MMC/job/New-York---1166/Data-Strategy-Software-Engineering-Co-op---NY---College-Program-2025_R_298259-1",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Marsh-McLennan",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Coral",
+    "id": "a579fe8b-c7f9-428b-89fd-b2323d7076fa",
+    "title": "Software Engineer Intern - AI Anime Avatar Apps \ud83e\udd16",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1740184072,
+    "date_posted": 1740184072,
+    "url": "https://jobs.ashbyhq.com/Coral/9b46f5e6-b22b-40e5-9013-a36445b350b7/application",
+    "locations": [
+      "Remote in USA",
+      "Remote in Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/6a0a29d6-c32d-4703-93c2-9b5edf49bebd",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "EUNA Solutions",
+    "id": "22a4ffc3-da41-41b2-b13b-4ab192da2701",
+    "title": "Software Developer Co-Op - Procurement",
+    "active": true,
+    "terms": [
+      "Spring 2025"
+    ],
+    "date_updated": 1740183990,
+    "date_posted": 1740183990,
+    "url": "https://euna.bamboohr.com/careers/281/",
+    "locations": [
+      "Oakville, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/86636c38-0e05-4ec1-b699-ea03e743f151",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Applied Materials",
+    "id": "02bdfe50-af10-440a-9356-4076a85590b7",
+    "title": "Corporate Strategy Intern - Data Science",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1740183437,
+    "date_posted": 1740183437,
+    "url": "https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/Corporate-Strategy-Intern---Data-Science_R2511392",
+    "locations": [
+      "Santa Clara, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Applied-Materials",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Live Nation Entertainment",
+    "id": "e980a9dd-5976-45ae-8bc5-dcdf34bb1437",
+    "title": "Software Engineer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1740184357,
+    "date_posted": 1740184357,
+    "url": "https://livenation.wd1.myworkdayjobs.com/en-US/LNExternalSite/job/Reston-VA-USA/Software-Engineer-Intern_JR-76689-1",
+    "locations": [
+      "Reston, VA"
+    ],
+    "company_url": "https://simplify.jobs/c/Live-Nation-Entertainment",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
