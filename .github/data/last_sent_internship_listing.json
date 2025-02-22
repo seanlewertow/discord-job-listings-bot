@@ -54517,5 +54517,62 @@
     "company_url": "https://simplify.jobs/c/Live-Nation-Entertainment",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "The Walt Disney Company",
+    "id": "a02791e8-10b2-4fb8-a3c0-0fab8c977c2e",
+    "title": "Disney Entertainment and ESPN Technology Software Engineering Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1740198705,
+    "date_posted": 1740198705,
+    "url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Seattle-WA-USA/Disney-Entertainment-and-ESPN-Technology-Software-Engineering-Intern--Seattle--WA--Summer-2025_10114567",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "company_url": "https://simplify.jobs/c/Disney",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Fresenius Medical Care",
+    "id": "d7a70480-1e00-43cd-a5ee-8c624eda5f76",
+    "title": "Software Engineering Co-op",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1740198530,
+    "date_posted": 1740198530,
+    "url": "https://freseniusmedicalcare.wd3.myworkdayjobs.com/fme/job/Lawrence-MA-USA/Software-Engineering-Co-op---2_R0190047",
+    "locations": [
+      "Andover, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/Fresenius",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Exact Sciences",
+    "id": "f614c4c0-fa63-41b6-b7b5-e4afcd14d7e8",
+    "title": "Data Science Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1740197898,
+    "date_posted": 1740197898,
+    "url": "https://exactsciences.wd1.myworkdayjobs.com/Exact_Sciences/job/US---WI---Madison/Data-Science-Intern_R24-7097",
+    "locations": [
+      "Madison, WI"
+    ],
+    "company_url": "https://simplify.jobs/c/Exact-Sciences",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
