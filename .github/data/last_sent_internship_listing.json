@@ -54574,5 +54574,43 @@
     "company_url": "https://simplify.jobs/c/Exact-Sciences",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "IDEXX",
+    "id": "1f8d1e91-1feb-427f-a2c5-8cfca4508ec3",
+    "title": "Servicenow Developer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1740227509,
+    "date_posted": 1740227509,
+    "url": "https://idexx.wd1.myworkdayjobs.com/IDEXX/job/Virtual-United-States/ServiceNow-Developer-Intern_J-046234",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/IDEXX",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Bridgestone",
+    "id": "52384210-0314-4a36-9d8e-97ac74ef8882",
+    "title": "Data Science Intern",
+    "active": true,
+    "terms": [
+      "Spring 2025"
+    ],
+    "date_updated": 1740227326,
+    "date_posted": 1740227326,
+    "url": "https://bridgestone.wd5.myworkdayjobs.com/External/job/Americas-Technology-Center/Data-Science-Intern_2025_03871",
+    "locations": [
+      "Akron, OH"
+    ],
+    "company_url": "https://simplify.jobs/c/Bridgestone",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
