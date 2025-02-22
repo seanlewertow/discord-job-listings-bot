@@ -54631,5 +54631,26 @@
     "company_url": "https://simplify.jobs/c/Lake-Michigan-Credit-Union",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Tandem",
+    "id": "7a76e53c-f5e2-4da2-878b-da950d7b4b71",
+    "title": "Software Engineer Internship",
+    "active": true,
+    "terms": [
+      "Spring 2025",
+      "Summer 2025",
+      "Fall 2025"
+    ],
+    "date_updated": 1740256061,
+    "date_posted": 1740256061,
+    "url": "https://jobs.ashbyhq.com/tandem/82e10191-232e-4e8d-9c5e-cb82940cdfc7/application",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Tandem",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
