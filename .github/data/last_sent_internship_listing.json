@@ -54978,5 +54978,63 @@
     "company_url": "https://simplify.jobs/c/Rain",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Motorola",
+    "id": "f078107c-8521-499e-b3b1-e7ffe999f79e",
+    "title": "Software Engineering \u2013 2025 Summer Internship",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1740431225,
+    "date_posted": 1740431225,
+    "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/Software-Engineering---2025-Summer-Internship--Chicago-Hybrid-_R53621",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/MotorolaSolutions",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Yahoo",
+    "id": "4419ab19-71f9-4cee-8cbc-0bc4edc6a373",
+    "title": "Data Engineer/Data Science Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1740431105,
+    "date_posted": 1740431105,
+    "url": "https://ouryahoo.wd5.myworkdayjobs.com/en-US/careers/job/United-States-of-America/Data-Engineer-Data-Science-Intern_JR0025570",
+    "locations": [
+      "United States"
+    ],
+    "company_url": "https://simplify.jobs/c/Yahoo",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Ensono",
+    "id": "905ab38f-bd15-42cd-839c-f3663f66ce8c",
+    "title": "Reporting Analyst Intern",
+    "active": true,
+    "terms": [
+      "Spring 2025",
+      "Summer 2025"
+    ],
+    "date_updated": 1740431045,
+    "date_posted": 1740431045,
+    "url": "https://ensono.com/company/careers/jobs-board/?gh_jid=4533177005",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/Ensono",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
