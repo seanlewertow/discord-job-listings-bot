@@ -54652,5 +54652,25 @@
     "company_url": "https://simplify.jobs/c/Tandem",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Warner Bros.",
+    "id": "b4fb42cd-33a9-4e0f-bf3f-5f7d757f4670",
+    "title": "Content Protection & Analytics Graduate Intern",
+    "active": true,
+    "terms": [
+      "Spring 2025",
+      "Summer 2025"
+    ],
+    "date_updated": 1740356110,
+    "date_posted": 1740356110,
+    "url": "https://warnerbros.wd5.myworkdayjobs.com/global/job/London-98-Theobalds-Road/Content-Protection---Analytics-Graduate-Intern_R000090410",
+    "locations": [
+      "London, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Warner-Bros",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
