@@ -54672,5 +54672,41 @@
     "company_url": "https://simplify.jobs/c/Warner-Bros",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Jet Support Services",
+    "id": "44124a18-4ff4-4a65-bb4c-957053ab11f4",
+    "title": "Data Analytics Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1740371098,
+    "date_posted": 1740371098,
+    "url": "https://jobs.lever.co/jetsupport/7ad6bdfc-82c1-41f0-85b7-149a5fbf3f7d/apply",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/Jet-Support-Services",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Skechers",
+    "id": "2f6f9465-a266-4125-9e0c-19a015b6d66d",
+    "title": "Data Science and Analytics Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1740370831,
+    "date_posted": 1740370831,
+    "url": "https://skechers.wd5.myworkdayjobs.com/One-career-site/job/Manhattan-Beach-CA/Data-Science-and-Analytics-Intern--Summer-2025-_JR114066-1",
+    "locations": [],
+    "company_url": "https://simplify.jobs/c/Skechers",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
