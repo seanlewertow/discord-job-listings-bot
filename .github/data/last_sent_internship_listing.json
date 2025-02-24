@@ -54767,5 +54767,64 @@
     "company_url": "https://simplify.jobs/c/Cox",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Motorola",
+    "id": "a97a208f-b49f-45f2-9fe5-5a4cd3b35b72",
+    "title": "Software Engineering Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1740414716,
+    "date_posted": 1740414716,
+    "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Allen-TX-TX139/Software-Engineering-Intern---Summer-2025-Internship_R53625",
+    "locations": [
+      "Allen, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/MotorolaSolutions",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Integrity",
+    "id": "a1872e6c-736c-4538-b998-e41d97e9fa89",
+    "title": "Advanced Markets Intern",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1740415099,
+    "date_posted": 1740415099,
+    "url": "https://integritymarketing.wd1.myworkdayjobs.com/en-US/Integrity/job/Fort-Wayne-IN/Advanced-Markets-Intern_JR2589-1",
+    "locations": [
+      "Fort Wayne, IN"
+    ],
+    "company_url": "https://simplify.jobs/c/cc2aa6fd-89ed-45ce-a866-4f4e3b9c6965",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Elevance Health",
+    "id": "b025d900-d004-4ac0-9d3f-f06823f4cee7",
+    "title": "Business Analytics Internship",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1740415053,
+    "date_posted": 1740415053,
+    "url": "https://elevancehealth.wd1.myworkdayjobs.com/en-US/ANT/job/CA-WOODLAND-HILLS-21215-BURBANK-BLVD/Business-Analytics-Internship---Summer-2025_JR142179",
+    "locations": [
+      "Canoga Park, LA",
+      "Sacramento, CA",
+      "Walnut Creek, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Elevance-Health",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
