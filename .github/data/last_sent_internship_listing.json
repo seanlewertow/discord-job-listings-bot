@@ -54845,5 +54845,100 @@
     "date_posted": 1740429635,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "date_updated": 1740429795,
+    "url": "https://autodesk.wd1.myworkdayjobs.com/en-US/Ext/job/Toronto-ON-CAN/Intern--AI-Researcher_24WD83428-2",
+    "company_name": "Autodesk",
+    "title": "Intern, AI Research Scientist",
+    "locations": [
+      "Toronto, ON, CA"
+    ],
+    "terms": [
+      "Summer 2025"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "source": "BuckyMaler",
+    "id": "37ab3a91-d4c5-43ab-b717-02e19f551c54",
+    "date_posted": 1740429795,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Radian",
+    "id": "87522151-7798-4980-9e67-85e4aabe5343",
+    "title": "2025 Software Engineering Summer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1740429753,
+    "date_posted": 1740429753,
+    "url": "https://compass.wd5.myworkdayjobs.com/en-US/radian_external_career_site/job/Philadelphia-PA/XMLNAME-2025-Software-Engineering-Summer-Intern---Multiple-Locations--US-only_R20240258",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/Radian",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Radian",
+    "id": "3ae2af5a-b5e1-41f2-84ac-f9ae8c9a0ca2",
+    "title": "2025 Data Engineering Summer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1740429752,
+    "date_posted": 1740429752,
+    "url": "https://compass.wd5.myworkdayjobs.com/en-US/radian_external_career_site/job/Philadelphia-PA/XMLNAME-2025-Data-Engineering-Summer-Intern---Wayne--Denver--or-SLC--open-to-remote--US-only_R20240265",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/Radian",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Radian",
+    "id": "85c4f625-c14f-4efb-9bf4-9457301ea947",
+    "title": "2025 Software Engineering GenAI Summer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1740429754,
+    "date_posted": 1740429754,
+    "url": "https://compass.wd5.myworkdayjobs.com/en-US/radian_external_career_site/job/Philadelphia-PA/XMLNAME-2025-Software-Engineering-GenAI-Summer-Intern---100--Remote-in-US-only-_R20240260",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/Radian",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Radian",
+    "id": "de5581df-9c4c-4307-afb6-26bf84f525fe",
+    "title": "2025 Software Engineer in Test Summer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1740429742,
+    "date_posted": 1740429742,
+    "url": "https://compass.wd5.myworkdayjobs.com/en-US/radian_external_career_site/job/Philadelphia-PA/XMLNAME-2025-Software-Engineer-in-Test-Summer-Intern---Multiple-Locations--US-only_R20240259",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/Radian",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
