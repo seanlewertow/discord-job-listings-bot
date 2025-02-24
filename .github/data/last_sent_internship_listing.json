@@ -54728,5 +54728,44 @@
     "company_url": "https://simplify.jobs/c/Cibc",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Clayton",
+    "id": "4d30e924-281d-4f11-8ea1-06e7cb3e5438",
+    "title": "Internship - Accounting Data Analytics",
+    "active": true,
+    "terms": [
+      "Spring 2025",
+      "Summer 2025"
+    ],
+    "date_updated": 1740384967,
+    "date_posted": 1740384967,
+    "url": "https://claytonhomes.wd1.myworkdayjobs.com/ClaytonCareers/job/Maryville-TN/Internship----Accounting-Data-Analytics_JR118791-1",
+    "locations": [
+      "Maryville, TN"
+    ],
+    "company_url": "https://simplify.jobs/c/Clayton",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Cox",
+    "id": "70aabe36-312d-4b88-985d-f54d102ed58a",
+    "title": "Software Engineering Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1740385024,
+    "date_posted": 1740385024,
+    "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Carmel-IN/Software-Engineering-Intern---Summer-2025_R202558722",
+    "locations": [
+      "Carmel, IN"
+    ],
+    "company_url": "https://simplify.jobs/c/Cox",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
