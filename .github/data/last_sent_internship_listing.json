@@ -54940,5 +54940,43 @@
     "company_url": "https://simplify.jobs/c/Radian",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "McKesson",
+    "id": "3cf0fb10-f672-47cd-b3c8-87d4c6977152",
+    "title": "Business Intelligence & Analytics Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1740430795,
+    "date_posted": 1740430795,
+    "url": "https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/CAN-QC-Montreal-Ville-Saint-Laurent/Stagiaire-en-analyse-et-en-intelligence-d-affaires---t-2025---Business-Intelligence---Analytics-Intern---Summer-2025_JR0125393-1",
+    "locations": [
+      "Montr\u00e9al, QC, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/McKesson",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Rain",
+    "id": "e01f4c3f-a9d9-4376-8cdb-05fcc69137aa",
+    "title": "Software Engineer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1740430756,
+    "date_posted": 1740430756,
+    "url": "https://jobs.ashbyhq.com/rain/834ee1ea-9c83-4ff7-90de-2a1738f012d9/application",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/Rain",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
