@@ -55036,5 +55036,63 @@
     "company_url": "https://simplify.jobs/c/Ensono",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Critical Mass",
+    "id": "f5220c38-a1ae-4e62-b94d-52fe01adebe2",
+    "title": "Development Intern",
+    "active": true,
+    "terms": [
+      "Spring 2025",
+      "Summer 2025"
+    ],
+    "date_updated": 1740433346,
+    "date_posted": 1740433346,
+    "url": "https://job-boards.greenhouse.io/criticalmass/jobs/6608073",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/Critical-Mass",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "S&P Global ",
+    "id": "62d740fc-c85e-4516-9c0d-f2556a085a96",
+    "title": "Production Analyst Intern - Early Careers",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1740433208,
+    "date_posted": 1740433208,
+    "url": "https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Careers/job/US---TX---HOUSTON/Production-Analyst-Intern--Early-Careers-_307557-1",
+    "locations": [
+      "Houston, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/SP-Global",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Curtiss-Wright Corporation",
+    "id": "95f3c3eb-8764-4be4-a877-881f809d4437",
+    "title": "Software Development Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1740433146,
+    "date_posted": 1740433146,
+    "url": "https://curtisswright.wd1.myworkdayjobs.com/cw_external_career_site/job/US-ID-Idaho-Falls-Nuclear/Software-Development-Intern_JR7479",
+    "locations": [
+      "Idaho Falls, ID"
+    ],
+    "company_url": "https://simplify.jobs/c/Curtiss-Wright",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
