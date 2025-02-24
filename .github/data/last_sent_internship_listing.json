@@ -54708,5 +54708,25 @@
     "company_url": "https://simplify.jobs/c/Skechers",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Cibc",
+    "id": "35fd352d-4ed2-42c6-af57-da0b0442f263",
+    "title": "AI Scientist Co-op",
+    "active": true,
+    "terms": [
+      "Winter 2025",
+      "Spring 2025"
+    ],
+    "date_updated": 1740384897,
+    "date_posted": 1740384897,
+    "url": "https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Ai-Scientist-Co-op_2503839",
+    "locations": [
+      "Toronto, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Cibc",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
