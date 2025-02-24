@@ -54826,5 +54826,24 @@
     "company_url": "https://simplify.jobs/c/Elevance-Health",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "date_updated": 1740429635,
+    "url": "https://maximus.avature.net/careers/FolderDetail/United-States-Intern-AI-Software-Engineering/28377",
+    "company_name": "Maximus",
+    "title": "AI Software Engineering Intern",
+    "locations": [
+      "Remote in USA"
+    ],
+    "terms": [
+      "Summer 2025"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "source": "BuckyMaler",
+    "id": "bef15e32-b568-4544-95ed-b52ec9a76d59",
+    "date_posted": 1740429635,
+    "company_url": "",
+    "is_visible": true
   }
 ]
