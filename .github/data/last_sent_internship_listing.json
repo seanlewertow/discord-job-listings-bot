@@ -55190,5 +55190,24 @@
     "company_url": "https://simplify.jobs/c/Jones-Lang-LaSalle",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Inflection",
+    "id": "35920aec-2280-4edc-a31d-c35f1f0bee3e",
+    "title": "Inflection AI Summer Internship Program",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1740457746,
+    "date_posted": 1740457746,
+    "url": "https://boards.greenhouse.io/inflectionai/jobs/4440856006",
+    "locations": [
+      "Palo Alto, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Inflection-AI",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
