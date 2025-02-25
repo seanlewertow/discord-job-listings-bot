@@ -8081,5 +8081,21 @@
     "company_url": "https://simplify.jobs/c/Cox",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Teledyne",
+    "id": "12bdc17d-bacd-4355-a17e-5c08ae7a38bf",
+    "title": "Junior Research Engineer",
+    "active": true,
+    "date_updated": 1740515051,
+    "date_posted": 1740515051,
+    "url": "https://flir.wd1.myworkdayjobs.com/en-US/flircareers/job/US---Durham-NC-TDY/Junior-Research-Engineer_REQ28389-1",
+    "locations": [
+      "Durham, NC"
+    ],
+    "company_url": "https://simplify.jobs/c/199b3c43-379a-408c-a6a8-980e79183038",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
