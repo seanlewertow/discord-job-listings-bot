@@ -55094,5 +55094,101 @@
     "company_url": "https://simplify.jobs/c/Curtiss-Wright",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "MotherDuck",
+    "id": "e57f45f0-f309-4c15-9d1a-10e98404b677",
+    "title": "Software Engineering Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1740443026,
+    "date_posted": 1740443026,
+    "url": "https://jobs.ashbyhq.com/MotherDuck/48603aba-97f8-41cc-95c0-fc356948733d/application",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "company_url": "https://simplify.jobs/c/MotherDuck",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Elevance Health",
+    "id": "e02ddf53-f740-4ae8-bf46-e08dc0dab284",
+    "title": "Business Analytics Internship",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1740442973,
+    "date_posted": 1740442973,
+    "url": "https://elevancehealth.wd1.myworkdayjobs.com/en-US/ANT/job/IL-CHICAGO-233-S-WACKER-DR-STE-3700/Business-Analytics-Internship---Summer-2025_JR142774",
+    "locations": [
+      "Indianapolis, IN",
+      "Chicago, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/Elevance-Health",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Hewlett Packard (HP)",
+    "id": "cca39132-5893-4ac5-895a-5d8d91fd3f01",
+    "title": "Associate Software Developer",
+    "active": true,
+    "terms": [
+      "Spring 2025"
+    ],
+    "date_updated": 1740442759,
+    "date_posted": 1740442759,
+    "url": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Vancouver-British-Columbia-Canada/Associate-Software-Developer--Co-op-position-_3148265-1",
+    "locations": [
+      "Vancouver, BC, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Hewlett-Packard",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Clearway Energy",
+    "id": "9d753b90-b9da-49e6-b8c7-2438d6477af8",
+    "title": "Performance Engineering Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1740443603,
+    "date_posted": 1740443603,
+    "url": "https://job-boards.greenhouse.io/clearwayjobs/jobs/4654561007",
+    "locations": [
+      "Houston, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Clearway-Energy",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Jones Lang LaSalle (JLL)",
+    "id": "1d2a7ea9-5ca3-4fc6-bb57-5b26d6063c96",
+    "title": "Data Analytics Summer 2025 Internship",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1740443580,
+    "date_posted": 1740443580,
+    "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Chicago-IL/Data-Analytics-Summer-2025-Internship---Chicago--IL_REQ413427",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/Jones-Lang-LaSalle",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
