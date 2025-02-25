@@ -55209,5 +55209,24 @@
     "company_url": "https://simplify.jobs/c/Inflection-AI",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Palantir",
+    "id": "8a114980-cfb3-4e66-825b-a4e0710c6454",
+    "title": "Deployment Strategist \u2013 Internship",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1740457933,
+    "date_posted": 1740457933,
+    "url": "https://jobs.lever.co/palantir/9f0dcd19-22ec-4860-8f85-dff02a30dbb7/apply",
+    "locations": [
+      "Washington, DC"
+    ],
+    "company_url": "https://simplify.jobs/c/Palantir",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
