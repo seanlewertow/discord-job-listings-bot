@@ -55228,5 +55228,101 @@
     "company_url": "https://simplify.jobs/c/Palantir",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "7-Eleven",
+    "id": "88be03e1-f12f-420b-af6a-339182536712",
+    "title": "Machine Learning Engineer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1740500970,
+    "date_posted": 1740500970,
+    "url": "https://my7elevenhr.wd12.myworkdayjobs.com/Careers/job/SSC-7Next-Irving/Machine-Learning-Engineer-Intern_R25_0000002377",
+    "locations": [
+      "Irving, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/7-Eleven",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Hewlett Packard (HP)",
+    "id": "830eac98-c401-4737-9ed5-67f3256bc419",
+    "title": "Associate Software Developer \u2013 Co-op position - HP Anyware Endpoints Performance",
+    "active": true,
+    "terms": [
+      "Spring 2025"
+    ],
+    "date_updated": 1740500525,
+    "date_posted": 1740500525,
+    "url": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Vancouver-British-Columbia-Canada/Associate-Software-Developer---HP-Anyware-Endpoints-Performance--Co-op-position-_3148263-1",
+    "locations": [
+      "Vancouver, BC, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Hewlett-Packard",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Hewlett Packard (HP)",
+    "id": "f18edb1e-d6eb-48ca-9227-03880ab66f84",
+    "title": "Associate Software Developer \u2013 Co-op position - HP Anyware Endpoints System Team",
+    "active": true,
+    "terms": [
+      "Spring 2025"
+    ],
+    "date_updated": 1740500526,
+    "date_posted": 1740500526,
+    "url": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Vancouver-British-Columbia-Canada/Associate-Software-Developer---HP-Anyware-Endpoints-System-Team--Co-op-position-_3148264-1",
+    "locations": [
+      "Vancouver, BC, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Hewlett-Packard",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Avnet",
+    "id": "46591dde-1a04-4138-b7b9-00f3568936f6",
+    "title": "Supply Chain Data Analytics Intern",
+    "active": true,
+    "terms": [
+      "Spring 2025",
+      "Summer 2025"
+    ],
+    "date_updated": 1740500403,
+    "date_posted": 1740500403,
+    "url": "https://wd1.myworkdaysite.com/recruiting/avnet/External/job/Phoenix-Arizona-United-States-Of-America/Supply-Chain-Data-Analytics-Intern_JR-018247",
+    "locations": [
+      "Phoenix, AZ"
+    ],
+    "company_url": "https://simplify.jobs/c/Avnet",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Parsons",
+    "id": "23926cea-c85a-4af3-88db-05335c463adc",
+    "title": "Computer Engineer/Computer Science 2025 Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1740500363,
+    "date_posted": 1740500363,
+    "url": "https://parsons.wd5.myworkdayjobs.com/en-US/search/job/US---MD-Aberdeen/Computer-Engineer-Computer-Science-2025-Intern_R163676",
+    "locations": [
+      "Aberdeen, MD"
+    ],
+    "company_url": "https://simplify.jobs/c/Parsons",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
