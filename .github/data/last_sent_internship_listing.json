@@ -55343,5 +55343,25 @@
     "company_url": "https://simplify.jobs/c/1495091e-1f19-4c30-a48a-5afa4aa5e7dd",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "date_updated": 1740514318,
+    "url": "https://app.ripplematch.com/v2/public/job/2f0d7d55/details",
+    "company_name": "Notion",
+    "title": "Software Engineer, AI Intern (Summer 2025)",
+    "locations": [
+      "New York, NY, US",
+      "San Francisco, CA, US"
+    ],
+    "terms": [
+      "Summer 2025"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "source": "BuckyMaler",
+    "id": "4c341230-ad27-4673-a9c9-5a52799233bc",
+    "date_posted": 1740514318,
+    "company_url": "",
+    "is_visible": true
   }
 ]
