@@ -55401,5 +55401,105 @@
     "company_url": "https://simplify.jobs/c/Hewlett-Packard",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "CVS Health",
+    "id": "16e93e3a-c1ee-418e-bb9e-bb1fe63cc74d",
+    "title": "Innotech Summer Graduate Internship - Health Care Delivery - Enterprise Engineering",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1740517149,
+    "date_posted": 1740517149,
+    "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/AZ---Scottsdale/InnoTech-Summer-Graduate-Internship-2025---Health-Care-Delivery---Enterprise-Engineering_R0515181",
+    "locations": [
+      "Smithfield, RI",
+      "Scottsdale, AZ",
+      "Hartford, CT"
+    ],
+    "company_url": "https://simplify.jobs/c/CVS-Health",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "CVS Health",
+    "id": "277df646-4ea6-4d3d-951a-3aa603674a47",
+    "title": "Innotech - Health Care Delivery - Software Engineer",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1740517143,
+    "date_posted": 1740517143,
+    "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/AZ---Scottsdale/InnoTech-Summer-Graduate-Internship-2025---Health-Care-Delivery---Software-Engineer_R0515175",
+    "locations": [
+      "Smithfield, RI",
+      "Scottsdale, AZ",
+      "Hartford, CT"
+    ],
+    "company_url": "https://simplify.jobs/c/CVS-Health",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Targetbase",
+    "id": "d8821af4-04a4-446e-8dec-e511d6918fd5",
+    "title": "Technology Solutions Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1740516567,
+    "date_posted": 1740516567,
+    "url": "https://targetbase.com/careers?gh_jid=6490514003",
+    "locations": [
+      "Irving, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/8f7dd444-fb5b-44e2-9179-99ce0c993043",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Targetbase",
+    "id": "3ec76696-ab87-49a7-b9ce-dd1d480beb11",
+    "title": "Decision Sciences Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1740516559,
+    "date_posted": 1740516559,
+    "url": "https://targetbase.com/careers?gh_jid=6490482003",
+    "locations": [
+      "Raleigh, NC"
+    ],
+    "company_url": "https://simplify.jobs/c/8f7dd444-fb5b-44e2-9179-99ce0c993043",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Targetbase",
+    "id": "5ece528e-f769-49f5-97a4-8623843fe294",
+    "title": "Decision Sciences Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1740516561,
+    "date_posted": 1740516561,
+    "url": "https://targetbase.com/careers?gh_jid=6490476003",
+    "locations": [
+      "Raleigh, NC",
+      "Irving, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/8f7dd444-fb5b-44e2-9179-99ce0c993043",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
