@@ -55623,5 +55623,24 @@
     "company_url": "https://simplify.jobs/c/Point72",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "ServiceNow",
+    "id": "9a980067-e158-40a4-b391-549db5888d94",
+    "title": "Engineering Excellence Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1740542828,
+    "date_posted": 1740542828,
+    "url": "https://jobs.smartrecruiters.com/ServiceNow/744000044592268",
+    "locations": [
+      "Santa Clara, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/ServiceNow",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
