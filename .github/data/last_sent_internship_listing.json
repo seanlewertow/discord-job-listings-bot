@@ -55796,5 +55796,45 @@
     "company_url": "https://simplify.jobs/c/Equipment-Share",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "adMarketplace",
+    "id": "08fc09d7-b4c6-4ece-8605-2cba09b61fd9",
+    "title": "Engineering Internship 2025",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1740603714,
+    "date_posted": 1740603714,
+    "url": "https://job-boards.greenhouse.io/admarketplaceinc/jobs/4532163005",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/adMarketplace",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Moloco",
+    "id": "78437d24-c246-4951-8dcb-050a5472766f",
+    "title": "Data Science Intern",
+    "active": true,
+    "terms": [
+      "Spring 2025",
+      "Summer 2025",
+      "Fall 2025"
+    ],
+    "date_updated": 1740603128,
+    "date_posted": 1740603128,
+    "url": "https://job-boards.greenhouse.io/moloco/jobs/6490914003",
+    "locations": [
+      "London, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Moloco",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
