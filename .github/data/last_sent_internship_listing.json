@@ -55604,5 +55604,24 @@
     "company_url": "https://simplify.jobs/c/KBR",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Point72",
+    "id": "f6c82347-3f0e-4229-b426-670569fe7f12",
+    "title": "Quantitative Research Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1740529138,
+    "date_posted": 1740529138,
+    "url": "https://job-boards.greenhouse.io/point72/jobs/7880836002",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Point72",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
