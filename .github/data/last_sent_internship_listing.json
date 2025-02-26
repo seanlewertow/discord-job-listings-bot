@@ -55501,5 +55501,108 @@
     "company_url": "https://simplify.jobs/c/8f7dd444-fb5b-44e2-9179-99ce0c993043",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "KBR",
+    "id": "ed7cd835-e5ad-443d-996f-17f677da2342",
+    "title": "Intern for Total Operational Weather Readiness-Satellites - Towr-S",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1740530495,
+    "date_posted": 1740530495,
+    "url": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Silver-Spring-Maryland/Intern-for-Total-Operational-Weather-Readiness-Satellites--TOWR-S-_R2098160",
+    "locations": [
+      "Silver Spring, MD"
+    ],
+    "company_url": "https://simplify.jobs/c/KBR",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Block",
+    "id": "abe19f0c-2745-4a5e-af04-651e7e7da6b5",
+    "title": "Deep Learning Research Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1740530105,
+    "date_posted": 1740530105,
+    "url": "http://block.xyz/careers/jobs/4556937008?gh_jid=4556937008",
+    "locations": [
+      "Remote in Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Block",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Block",
+    "id": "a63ff268-dff5-4e01-993b-8e2d1de416b8",
+    "title": "Deep Learning Research Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1740530075,
+    "date_posted": 1740530075,
+    "url": "http://block.xyz/careers/jobs/4556938008?gh_jid=4556938008",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/Block",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "SoFi",
+    "id": "739c2306-6593-4f74-99be-4bce230d4968",
+    "title": "Intern \u2013 Credit Risk Analytics",
+    "active": true,
+    "terms": [
+      "Spring 2025",
+      "Summer 2025"
+    ],
+    "date_updated": 1740529989,
+    "date_posted": 1740529989,
+    "url": "https://www.sofi.com/careers/sofi-university/6490827003?gh_jid=6490827003",
+    "locations": [
+      "SF"
+    ],
+    "company_url": "https://simplify.jobs/c/SoFi",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "KBR",
+    "id": "636ac850-023c-4263-a7a1-570708d4be2d",
+    "title": "Software Engineering Internship - Nss",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1740529970,
+    "date_posted": 1740529970,
+    "url": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Chantilly-Virginia/National-Security-Solutions--NSS--Software-Engineering-Internship_R2095307",
+    "locations": [
+      "King of Prussia, PA",
+      "Colorado Springs, CO",
+      "Chantilly, VA",
+      "Ann Arbor, MI",
+      "Maui, Hawaii",
+      "Columbus, OH",
+      "Beavercreek, OH",
+      "Huntsville, AL"
+    ],
+    "company_url": "https://simplify.jobs/c/KBR",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
