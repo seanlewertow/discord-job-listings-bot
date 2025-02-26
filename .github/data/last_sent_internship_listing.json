@@ -55739,5 +55739,62 @@
     "company_url": "https://simplify.jobs/c/7-Eleven",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Corelogic",
+    "id": "3d15ffd8-8fdd-498e-9194-d63349ef63b3",
+    "title": "Intern \u2013 Business/Data Analyst - Insurance Insights",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1740601789,
+    "date_posted": 1740601789,
+    "url": "https://corelogic.wd5.myworkdayjobs.com/en-US/Global/job/United-States/Intern---Business-Analyst--Insurance-Insights_REQ15645",
+    "locations": [
+      "Dallas, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/84f3bc2b-33c1-4bb0-af43-21bb8d59d639",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Fortra",
+    "id": "dde1529c-2ce8-411c-bb53-af823453b492",
+    "title": "Software Engineer Intern - Ibm i",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1740601399,
+    "date_posted": 1740601399,
+    "url": "https://boards.greenhouse.io/fortra/jobs/4448780006",
+    "locations": [
+      "United States"
+    ],
+    "company_url": "https://simplify.jobs/c/Fortra",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "EquipmentShare",
+    "id": "ed249d0e-1974-43f8-ab62-117e66b929a0",
+    "title": "Intern: Software Engineer",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1740601293,
+    "date_posted": 1740601293,
+    "url": "https://www.equipmentshare.com/careers/openings/?gh_jid=6666446",
+    "locations": [
+      "Columbia, MO"
+    ],
+    "company_url": "https://simplify.jobs/c/Equipment-Share",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
