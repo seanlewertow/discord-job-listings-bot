@@ -55700,5 +55700,44 @@
     "company_url": "https://simplify.jobs/c/CACI",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Strategic Education",
+    "id": "9ac2921f-a11b-4219-badb-ecf8ae63515d",
+    "title": "IT Interns",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1740588077,
+    "date_posted": 1740588077,
+    "url": "https://strayer.wd1.myworkdayjobs.com/en-US/SEI/job/Remote/IT-Interns_R26668",
+    "locations": [
+      "Reston, VA",
+      "Minneapolis, MN"
+    ],
+    "company_url": "https://simplify.jobs/c/c37aef6c-b4ea-4d9f-a94f-9ecdc9ce90f6",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "7-Eleven",
+    "id": "7b9f5231-f366-4be7-989b-5de6400f6e2e",
+    "title": "Restaurant Data Analyst Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1740587793,
+    "date_posted": 1740587793,
+    "url": "https://my7elevenhr.wd12.myworkdayjobs.com/Careers/job/SSC-Irving-TX/Restaurant-Data-Analyst-Intern_R25_0000002378",
+    "locations": [
+      "Irving, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/7-Eleven",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
