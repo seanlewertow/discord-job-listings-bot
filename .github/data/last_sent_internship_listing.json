@@ -55856,5 +55856,25 @@
     "company_url": "https://simplify.jobs/c/Leidos",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Braze",
+    "id": "9496a81a-c628-4cc7-96af-7623acb46a87",
+    "title": "Analytics Consulting Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025",
+      "Fall 2025"
+    ],
+    "date_updated": 1740605840,
+    "date_posted": 1740605840,
+    "url": "https://boards.greenhouse.io/braze/jobs/6661473",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Braze",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
