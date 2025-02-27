@@ -56201,5 +56201,24 @@
     "company_url": "https://simplify.jobs/c/c37aef6c-b4ea-4d9f-a94f-9ecdc9ce90f6",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Trepp",
+    "id": "f68f32dd-c740-4196-bd68-66930fd8ce94",
+    "title": "Data Science Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1740675814,
+    "date_posted": 1740675814,
+    "url": "https://www.trepp.com/joining-trepp?gh_jid=6668351",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Trepp",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
