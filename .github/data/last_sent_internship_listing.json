@@ -56104,5 +56104,64 @@
     "company_url": "https://simplify.jobs/c/199b3c43-379a-408c-a6a8-980e79183038",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Rivian",
+    "id": "c7689e78-caa4-45cd-b29d-a27ed2c1cea3",
+    "title": "Software Engineering Intern - Offline Perception - Autonomy",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1740674533,
+    "date_posted": 1740674533,
+    "url": "https://careers.rivian.com/jobs/21801?lang=en-us&icims=1",
+    "locations": [
+      "Palo Alto, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Rivian",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Qualcomm",
+    "id": "25ec8cad-7671-4c2f-8317-096939cfc127",
+    "title": "QGOV Engineering Internship - Summer 2025 - Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1740674422,
+    "date_posted": 1740674422,
+    "url": "https://qualcomm.eightfold.ai/careers/job/446701026690",
+    "locations": [
+      "Boulder, CO",
+      "San Diego, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Qualcomm",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Cox",
+    "id": "905970f9-f4ae-4171-b1f4-187f945d8495",
+    "title": "Software Engineering Intern - Summer 2025",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1740674381,
+    "date_posted": 1740674381,
+    "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Long-Island-NY/Software-Engineering-Intern---Summer-2025--North-Hills--NY-_R202558482",
+    "locations": [
+      "Williston Park, NY",
+      "Long Island, New York"
+    ],
+    "company_url": "https://simplify.jobs/c/Cox",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
