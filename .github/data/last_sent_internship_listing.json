@@ -56260,5 +56260,43 @@
     "company_url": "https://simplify.jobs/c/Intuitive-Surgical",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Skechers",
+    "id": "2aa65549-f98e-43dc-8854-46f878955a41",
+    "title": "Digital Loyalty Engineering Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1740688950,
+    "date_posted": 1740688950,
+    "url": "https://skechers.wd5.myworkdayjobs.com/One-career-site/job/Manhattan-Beach-CA/Digital-Loyalty-Engineering-Intern--Summer-2025-_JR114302",
+    "locations": [
+      "El Segundo, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Skechers",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Dick's Sporting Goods",
+    "id": "7c45d52b-8f39-4343-a3bb-43fb6dcd02c8",
+    "title": "IOS Software Engineer Intern - Emerging Sports",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1740688551,
+    "date_posted": 1740688551,
+    "url": "https://dickssportinggoods.wd1.myworkdayjobs.com/en-US/DSG/job/06083-GameChanger/iOS-Software-Engineer-Intern--Emerging-Sports_202503487",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/Dicks-Sporting-Goods",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
