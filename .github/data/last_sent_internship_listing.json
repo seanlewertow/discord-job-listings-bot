@@ -56163,5 +56163,43 @@
     "company_url": "https://simplify.jobs/c/Cox",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "FM Global",
+    "id": "34548cba-e736-42b8-88dc-7d22147a0725",
+    "title": "Corporate Underwriting Data Analyst Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1740675523,
+    "date_posted": 1740675523,
+    "url": "https://jobs-fmglobal.icims.com/jobs/15486/job",
+    "locations": [
+      "Providence, RI"
+    ],
+    "company_url": "https://simplify.jobs/c/FM-Global",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Strategic Education",
+    "id": "1081d362-aa6d-40f2-b325-3ef58ba8e52f",
+    "title": "Enterprise Partnerships \u2013 Software Engineer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1740674921,
+    "date_posted": 1740674921,
+    "url": "https://strayer.wd1.myworkdayjobs.com/en-US/SEI/job/Minneapolis-MN/Enterprise-Partnerships---Software-Engineer-Intern_R26678",
+    "locations": [
+      "Minneapolis, MN"
+    ],
+    "company_url": "https://simplify.jobs/c/c37aef6c-b4ea-4d9f-a94f-9ecdc9ce90f6",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
