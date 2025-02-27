@@ -56298,5 +56298,83 @@
     "company_url": "https://simplify.jobs/c/Dicks-Sporting-Goods",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Voltus",
+    "id": "1c259fd5-d46c-412b-b70c-b8bab9bb78e8",
+    "title": "Software Engineering Internship",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1740689862,
+    "date_posted": 1740689862,
+    "url": "https://jobs.lever.co/voltus/9c31ab6e-595a-4638-9017-fa5e4390f833/apply",
+    "locations": [
+      "Remote in USA",
+      "Remote in Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Voltus",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "TD Bank",
+    "id": "c063af28-110c-433f-a0ad-acb1b6de1dd6",
+    "title": "Business Systems Analyst Intern/Co-op",
+    "active": true,
+    "terms": [
+      "Spring 2025",
+      "Summer 2025"
+    ],
+    "date_updated": 1740689854,
+    "date_posted": 1740689854,
+    "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Business-Systems-Analyst-Intern-Co-op_R_1404431",
+    "locations": [
+      "Toronto, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/TD-Bank",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "MBTA",
+    "id": "f3e66b26-deb1-4377-8e1c-227b65271ea9",
+    "title": "Intern \u2013 Transit Tech",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1740689681,
+    "date_posted": 1740689681,
+    "url": "https://jobs.lever.co/mbta/c83bd630-0fdf-4527-9765-f285a462afbb/apply",
+    "locations": [
+      "Boston, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/MBTA",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Cibc",
+    "id": "c45ceaa0-fb16-4a36-a6ee-cd3d72b7806b",
+    "title": "Data Management \u2013 Summer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1740689216,
+    "date_posted": 1740689216,
+    "url": "https://cibc.wd3.myworkdayjobs.com/campus/job/Chicago-IL/US-Data-Management---2025-Summer-Intern_2419043",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/Cibc",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
