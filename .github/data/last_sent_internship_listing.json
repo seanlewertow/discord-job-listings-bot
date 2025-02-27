@@ -56066,5 +56066,24 @@
     "company_url": "https://simplify.jobs/c/Ciena",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "ThredUp",
+    "id": "19d92046-1260-4fa2-bdfb-f68560ed4072",
+    "title": "Fintech Software Engineering Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1740629468,
+    "date_posted": 1740629468,
+    "url": "https://thredup.wd1.myworkdayjobs.com/en-US/thredup_Careers/job/Oakland-CA/Fintech-Software-Engineering-Intern_950-1",
+    "locations": [
+      "Oakland, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/abce266b-0529-48a2-bfd2-a071fa10a847",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
