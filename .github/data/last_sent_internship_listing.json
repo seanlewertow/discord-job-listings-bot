@@ -55876,5 +55876,100 @@
     "company_url": "https://simplify.jobs/c/Braze",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Barclays",
+    "id": "fd1a433a-9591-4e7b-8e0f-ffc6d36013f6",
+    "title": "Sales \u2013 Trading and Structuring Summer Analyst Internship Program 2026",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1740615992,
+    "date_posted": 1740615992,
+    "url": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/745-7th-Avenue-New-York/Sales--Trading-and-Structuring-Summer-Analyst-Internship-Program-2026-New-York_JR-0000033553",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Barclays",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "DriveTime",
+    "id": "9ad6ba80-1a96-425c-8a7c-9257ec932e84",
+    "title": "AI Engineer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1740615651,
+    "date_posted": 1740615651,
+    "url": "https://drivetime.wd1.myworkdayjobs.com/DriveTime/job/5430-Lyndon-B-Johnson-Fwy-Suite-1200-Dallas-TX-75240/AI-Engineer-Intern---Summer-2025-_R11144",
+    "locations": [
+      "Dallas, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/drivetime",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Vertex Pharmaceuticals",
+    "id": "911e6a65-d40e-42d4-94a1-409ad856cdbb",
+    "title": "Vertex Summer 2025 Intern - Clinical Data Management & Metrics",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1740615594,
+    "date_posted": 1740615594,
+    "url": "https://vrtx.wd5.myworkdayjobs.com/Vertex_Careers/job/Boston-MA/Vertex-Summer-2025-Intern--Clinical-Data-Management---Metrics--Boston--MA-_REQ-23647-1",
+    "locations": [
+      "Boston, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/Vertex-Pharmaceuticals",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Jabil",
+    "id": "1e1d00c5-4d9d-49d8-9972-e5c5b329fc91",
+    "title": "Integration Services AI and API Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1740615498,
+    "date_posted": 1740615498,
+    "url": "https://jabil.wd5.myworkdayjobs.com/en-US/Jabil_Careers/job/St-PetersburgTampa-FL/Integration-Services-AI-and-API-Intern_J2409935",
+    "locations": [
+      "St. Petersburg, FL"
+    ],
+    "company_url": "https://simplify.jobs/c/051f591a-22c2-4254-aec5-c3ee7c82b288",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Banco Bilbao Vizcaya Argentaria",
+    "id": "7c502b12-bb92-42fd-b364-8d75b6765201",
+    "title": "Trading Summer Internship",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1740616470,
+    "date_posted": 1740616470,
+    "url": "https://bbva.wd3.myworkdayjobs.com/BBVA/job/LONDON/TRADING-SUMMER-INTERNSHIP-LONDON_JR00064003",
+    "locations": [
+      "London, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Banco-Bilbao-Vizcaya-Argentaria",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
