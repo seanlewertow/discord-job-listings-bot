@@ -56085,5 +56085,24 @@
     "company_url": "https://simplify.jobs/c/abce266b-0529-48a2-bfd2-a071fa10a847",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Teledyne",
+    "id": "222e24da-b70c-4eac-9192-8110cfbe22ef",
+    "title": "Software Engineer Co-Op",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1740673733,
+    "date_posted": 1740673733,
+    "url": "https://flir.wd1.myworkdayjobs.com/en-US/flircareers/job/US---Chestnut-Ridge-NY/Software-Engineer-Co-Op_REQ27924",
+    "locations": [
+      "Mahwah, NJ"
+    ],
+    "company_url": "https://simplify.jobs/c/199b3c43-379a-408c-a6a8-980e79183038",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
