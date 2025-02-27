@@ -56220,5 +56220,45 @@
     "company_url": "https://simplify.jobs/c/Trepp",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Amazon",
+    "id": "0c41ff10-aaf9-4665-92e4-99ceaa98436a",
+    "title": "SDE Intern - Computer Science",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1740687425,
+    "date_posted": 1740687425,
+    "url": "https://amazon.jobs/en/jobs/2855804/sde-intern-computer-science",
+    "locations": [
+      "Toronto, ON, Canada",
+      "Vancouver, BC, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Amazon",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Intuitive Surgical",
+    "id": "81c4fa34-9bed-443d-a6f7-774ff641d2f7",
+    "title": "Software Engineering Intern",
+    "active": true,
+    "terms": [
+      "Spring 2025",
+      "Summer 2025"
+    ],
+    "date_updated": 1740687543,
+    "date_posted": 1740687543,
+    "url": "https://jobs.smartrecruiters.com/Intuitive/744000044952610",
+    "locations": [
+      "Sunnyvale, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Intuitive-Surgical",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
