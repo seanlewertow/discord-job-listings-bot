@@ -56670,5 +56670,43 @@
     "company_url": "https://simplify.jobs/c/CVS-Health",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Clorox",
+    "id": "7688ee79-0394-43fc-b6a8-b1a81f558c61",
+    "title": "Data Engineer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1740774503,
+    "date_posted": 1740774503,
+    "url": "https://wd1.myworkdaysite.com/recruiting/clorox/Clorox/job/Pleasanton-CPC-CA---USA/Data-Engineer-Intern_18258-1",
+    "locations": [
+      "Pleasanton, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Clorox",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "COTA",
+    "id": "8fe81d95-1d8a-4e77-8b0b-704309ec751f",
+    "title": "DAI Summer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1740774060,
+    "date_posted": 1740774060,
+    "url": "https://job-boards.greenhouse.io/cota/jobs/6494379003",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/COTA",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
