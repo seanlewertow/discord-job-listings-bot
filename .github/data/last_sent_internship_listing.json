@@ -56531,5 +56531,24 @@
     "company_url": "https://simplify.jobs/c/Groq",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "IBM",
+    "id": "5e52d91a-252c-478f-b2a2-402053f53a0b",
+    "title": "Software Developer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1740717244,
+    "date_posted": 1740717244,
+    "url": "https://careers.ibm.com/job/21342420/software-developer-intern-research-triangle-park-nc/",
+    "locations": [
+      "Research Triangle, Durham, NC"
+    ],
+    "company_url": "https://simplify.jobs/c/IBM",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
