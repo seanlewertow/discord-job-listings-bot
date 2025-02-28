@@ -56785,5 +56785,62 @@
     "company_url": "https://simplify.jobs/c/Eulerity",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Leidos",
+    "id": "8cc4a6ba-5658-42ab-9e8a-221cd05f2215",
+    "title": "Network Engineering/Software Development Intern",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1740778658,
+    "date_posted": 1740778658,
+    "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Shiloh-IL/Network-Engineering-Software-Development-Intern_R-00154504",
+    "locations": [
+      "O'Fallon, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/Leidos",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Astranis",
+    "id": "92d88f3f-2cb2-4c81-a378-bb180cf64691",
+    "title": "Full Stack Developer \u2013 Intern - Network Software",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1740778629,
+    "date_posted": 1740778629,
+    "url": "https://job-boards.greenhouse.io/astranis/jobs/4400092006",
+    "locations": [
+      "SF"
+    ],
+    "company_url": "https://simplify.jobs/c/Astranis",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "S&P Global ",
+    "id": "3bb31033-3461-4699-9bb4-03ebfa2eb912",
+    "title": "Software Engineer Intern - Early Careers",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1740778600,
+    "date_posted": 1740778600,
+    "url": "https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Careers/job/New-York-NY/Software-Engineer-Intern---Early-Careers_312712-1",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/SP-Global",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
