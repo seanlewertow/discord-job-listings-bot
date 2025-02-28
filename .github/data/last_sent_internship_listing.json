@@ -56510,5 +56510,26 @@
     "company_url": "https://simplify.jobs/c/Jefferies",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Groq",
+    "id": "30058c37-957d-4d2d-9074-715b631175dd",
+    "title": "Software Engineer \u2013 Model Evaluation Systems Intern",
+    "active": true,
+    "terms": [
+      "Winter 2025",
+      "Spring 2025"
+    ],
+    "date_updated": 1740716209,
+    "date_posted": 1740716209,
+    "url": "https://groq.com/careers?gh_jid=6493582003",
+    "locations": [
+      "Remote in USA",
+      "Remote in Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Groq",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
