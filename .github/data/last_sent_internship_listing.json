@@ -56708,5 +56708,24 @@
     "company_url": "https://simplify.jobs/c/COTA",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "McKesson",
+    "id": "4dfb876c-71a7-4320-be6d-dd5f0f7b953e",
+    "title": "Stagiaire en gestion des donn\u00e9es ma\u00eetresses \u2013 Intern - MDM",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1740775207,
+    "date_posted": 1740775207,
+    "url": "https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/CAN-QC-Montreal-Ville-Saint-Laurent/Stagiaire-en-gestion-des-donnes-matresses---t-2025---Master-Data-Management--MDM--Intern---Summer-2025_JR0125181-1",
+    "locations": [
+      "Montr\u00e9al, QC, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/McKesson",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
