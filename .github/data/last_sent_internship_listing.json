@@ -56727,5 +56727,63 @@
     "company_url": "https://simplify.jobs/c/McKesson",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Precisely",
+    "id": "57175b95-bd70-44f9-9ea4-c1c882103ae7",
+    "title": "Data Quality Research Analyst Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1740776412,
+    "date_posted": 1740776412,
+    "url": "https://www.precisely.com/careers-and-culture/us-jobs/job/4534221005?gh_jid=4534221005",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/Precisely",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Comcast",
+    "id": "919b85fa-fa9a-48b9-8d3c-3c91655dedbc",
+    "title": "Comcast Software Engineer Intern - Beeswax Serving",
+    "active": true,
+    "terms": [
+      "Summer 2025",
+      "Fall 2025"
+    ],
+    "date_updated": 1740775940,
+    "date_posted": 1740775940,
+    "url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/NY---New-York-1407-Broadway-Floor-12/Comcast-Software-Engineer-Intern--Beeswax-Serving_R405318",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Comcast",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Eulerity",
+    "id": "7d5d9408-3d0e-414e-b692-11201f767f72",
+    "title": "Mobile iOS Summer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1740775736,
+    "date_posted": 1740693043,
+    "url": "https://job-boards.greenhouse.io/eulerity/jobs/4448358006",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Eulerity",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
