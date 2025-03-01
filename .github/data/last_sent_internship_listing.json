@@ -56983,5 +56983,81 @@
     "date_posted": 1740808298,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Mr. Cooper",
+    "id": "28656949-16bd-42d7-82c9-944395ce860f",
+    "title": "Data Engineer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1740831870,
+    "date_posted": 1740831870,
+    "url": "https://nationstar.wd5.myworkdayjobs.com/mrcooper/job/Cypress-Waters---Dallas-TX/XMLNAME-2025-Summer-Intern-Program---Data-Engineer-Intern--Onsite--DFW-_022987",
+    "locations": [
+      "Dallas, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/21c673f4-d5e4-401d-aa12-c91bc6aa44fb",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Mr. Cooper",
+    "id": "5648116b-682c-4156-8e75-9d3729b6d9ba",
+    "title": "Data Engineer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1740831871,
+    "date_posted": 1740831871,
+    "url": "https://nationstar.wd5.myworkdayjobs.com/mrcooper/job/Cypress-Waters---Dallas-TX/XMLNAME-2025-Summer-Virtual-Intern-Program---Data-Engineer-Intern--On-Site-Lewisville-_022975",
+    "locations": [
+      "Dallas, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/21c673f4-d5e4-401d-aa12-c91bc6aa44fb",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Mr. Cooper",
+    "id": "b7a458f4-f4aa-42b5-a139-8c3ddda7fe40",
+    "title": "2025 Summer Intern Program \u2013 Originations Analytics Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1740831869,
+    "date_posted": 1740831869,
+    "url": "https://nationstar.wd5.myworkdayjobs.com/mrcooper/job/Cypress-Waters---Dallas-TX/XMLNAME-2025-Summer-Intern-Program---Originations-Analytics-Intern--Onsite-DFW-_023128",
+    "locations": [
+      "Dallas, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/21c673f4-d5e4-401d-aa12-c91bc6aa44fb",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Mr. Cooper",
+    "id": "3ac9aa5e-4228-47bc-9673-c97d5a95bfb4",
+    "title": "2025 Summer Intern Program - Machine Learning Engineer",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1740831867,
+    "date_posted": 1740831867,
+    "url": "https://nationstar.wd5.myworkdayjobs.com/mrcooper/job/Cypress-Waters---Dallas-TX/XMLNAME-2025-Summer-Intern-Program---Machine-Learning-Engineer--DFW-_023219",
+    "locations": [
+      "Dallas, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/21c673f4-d5e4-401d-aa12-c91bc6aa44fb",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
