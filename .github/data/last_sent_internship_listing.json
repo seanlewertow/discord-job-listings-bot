@@ -56842,5 +56842,89 @@
     "company_url": "https://simplify.jobs/c/SP-Global",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "EquipmentShare",
+    "id": "b13997fd-7f7c-4301-8f9a-c88c4a23096b",
+    "title": "Intern: Software Engineer",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1740787985,
+    "date_posted": 1740787985,
+    "url": "https://www.equipmentshare.com/careers/openings/?gh_jid=6676021",
+    "locations": [
+      "Columbia, MO"
+    ],
+    "company_url": "https://simplify.jobs/c/Equipment-Share",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "USAA",
+    "id": "52e0d888-c710-443d-a37a-8a2aca8af7f0",
+    "title": "CFO Intern - Data",
+    "active": true,
+    "terms": [
+      "Spring 2025",
+      "Summer 2025"
+    ],
+    "date_updated": 1740788933,
+    "date_posted": 1740788933,
+    "url": "https://usaa.wd1.myworkdayjobs.com/en-US/USAAJOBSWD/job/San-Antonio-Home-Office-I/CFO-Intern--Data-_R0107528",
+    "locations": [
+      "Charlotte, NC",
+      "San Antonio, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/664e9aa2-3c0e-4e96-9048-739e08b37a63",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Motorola",
+    "id": "daa73fcc-64bd-4a06-862e-0988222beae8",
+    "title": "Software Development Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1740789607,
+    "date_posted": 1740789607,
+    "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/Software-Development-Intern--Summer-2025-_R54029",
+    "locations": [
+      "Chicago, IL",
+      "Westminster, CO"
+    ],
+    "company_url": "https://simplify.jobs/c/MotorolaSolutions",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "KBR",
+    "id": "b8b555d4-2c50-422b-baae-db0afc4d64ee",
+    "title": "Power BI Intern - Nss",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1740789413,
+    "date_posted": 1740789413,
+    "url": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Chantilly-Virginia/National-Security-Solutions--NSS--Internship---Power-BI-Intern_R2102934",
+    "locations": [
+      "King of Prussia, PA",
+      "Colorado Springs, CO",
+      "Chantilly, VA",
+      "Maui, Hawaii",
+      "Columbus, OH",
+      "Beavercreek, OH"
+    ],
+    "company_url": "https://simplify.jobs/c/KBR",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
