@@ -56964,5 +56964,24 @@
     "company_url": "https://simplify.jobs/c/a5d9e630-71ac-4ef5-9d27-140adc376da1",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "date_updated": 1740808298,
+    "url": "https://interac.wd3.myworkdayjobs.com/Interac/job/Toronto/Software-Development-Intern_REQ-1608",
+    "company_name": "Interac Corp.",
+    "title": "Software Development Intern",
+    "locations": [
+      "Toronto, Canada"
+    ],
+    "terms": [
+      "Summer 2025"
+    ],
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "source": "GaryZhous",
+    "id": "e6435f60-2a4c-4330-9393-7603d8b8f5e2",
+    "date_posted": 1740808298,
+    "company_url": "",
+    "is_visible": true
   }
 ]
