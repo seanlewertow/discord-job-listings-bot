@@ -57347,5 +57347,44 @@
     "company_url": "https://simplify.jobs/c/238c95d8-0d6e-4717-b28c-078b16d675d7",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Trepp",
+    "id": "a42e28f3-a2d7-45b5-bee0-407303ab769d",
+    "title": "Full Stack Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1741038951,
+    "date_posted": 1741038951,
+    "url": "https://www.trepp.com/joining-trepp?gh_jid=6679252",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Trepp",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "The Athletic Media Company",
+    "id": "bc04fcff-b8b1-48dd-82ce-545bb7534570",
+    "title": "Engineering Student Intern - Summer 2025",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1741038494,
+    "date_posted": 1741038494,
+    "url": "https://jobs.lever.co/theathletic/f650f3b0-4a7f-4064-86b5-93e01b538879/apply",
+    "locations": [
+      "Remote in USA",
+      "Remote in Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/The-Athletic-Media-Company",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
