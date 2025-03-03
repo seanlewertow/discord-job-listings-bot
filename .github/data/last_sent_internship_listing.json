@@ -57192,5 +57192,24 @@
     "company_url": "https://simplify.jobs/c/Tifin",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Checkr",
+    "id": "4d08922b-da24-43d3-a22c-2694fa4c38ea",
+    "title": "Engineering Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1741035658,
+    "date_posted": 1741035658,
+    "url": "https://job-boards.greenhouse.io/checkr/jobs/6669517",
+    "locations": [
+      "Denver, CO"
+    ],
+    "company_url": "https://simplify.jobs/c/Checkr",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
