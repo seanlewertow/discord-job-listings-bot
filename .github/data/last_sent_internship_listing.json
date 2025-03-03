@@ -57307,5 +57307,45 @@
     "company_url": "https://simplify.jobs/c/Accenture-FS",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Northrop Grumman",
+    "id": "8c3eb01b-bb17-4420-8df5-84068daf54e1",
+    "title": "2025 Data Analytics Co-op - Mission Assurance",
+    "active": true,
+    "terms": [
+      "Summer 2025",
+      "Fall 2025",
+      "Winter 2026"
+    ],
+    "date_updated": 1741036829,
+    "date_posted": 1741036829,
+    "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Redondo-Beach/XMLNAME-2025-Data-Analytics-Co-op---Mission-Assurance_R10187992-1",
+    "locations": [
+      "El Segundo, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/238c95d8-0d6e-4717-b28c-078b16d675d7",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Northrop Grumman",
+    "id": "ca0c01e4-d9a6-47e3-b59a-6d251e99eb5d",
+    "title": "2025 Software Engineering Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1741036820,
+    "date_posted": 1741036820,
+    "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Maryland-Elkton/XMLNAME-2025-Software-Engineering-Intern---Elkton-MD_R10188004",
+    "locations": [
+      "Elkton, MD"
+    ],
+    "company_url": "https://simplify.jobs/c/238c95d8-0d6e-4717-b28c-078b16d675d7",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
