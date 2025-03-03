@@ -57211,5 +57211,101 @@
     "company_url": "https://simplify.jobs/c/Checkr",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "CVS Health",
+    "id": "1efbf540-e05c-4657-b517-787fd4f01888",
+    "title": "Innotech Summer Undergraduate Internship 2025 - Aetna Tech - Data Scientist",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1741035959,
+    "date_posted": 1741035959,
+    "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/CT---Hartford/InnoTech-Summer-Undergraduate-Internship-2025---Aetna-Tech---Data-Scientist_R0519406",
+    "locations": [
+      "Hartford, CT"
+    ],
+    "company_url": "https://simplify.jobs/c/CVS-Health",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "CVS Health",
+    "id": "81e4cfa5-beca-4dd2-a5f7-464be9ca96ba",
+    "title": "Innotech Summer Undergraduate Internship - Aetna Tech - Software Engineer",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1741035956,
+    "date_posted": 1741035956,
+    "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/CT---Hartford/InnoTech-Summer-Undergraduate-Internship-2025---Aetna-Tech---Software-Engineer_R0519345",
+    "locations": [
+      "Smithfield, RI",
+      "Hartford, CT"
+    ],
+    "company_url": "https://simplify.jobs/c/CVS-Health",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "CVS Health",
+    "id": "05e7df8b-6df4-4674-a645-af296b7580db",
+    "title": "Innotech Summer Undergraduate Internship - Aetna Tech - Software Engineer",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1741035952,
+    "date_posted": 1741035952,
+    "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/CT---Hartford/InnoTech-Summer-Undergraduate-Internship-2025---Aetna-Tech---Software-Engineer_R0520591",
+    "locations": [],
+    "company_url": "https://simplify.jobs/c/CVS-Health",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "CVS Health",
+    "id": "0ec5c7da-3ec8-46a8-b976-0288a32c7a8a",
+    "title": "Innotech Summer Graduate Internship - Aetna Tech - Software Engineer",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1741035951,
+    "date_posted": 1741035951,
+    "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/RI---Woonsocket/InnoTech-Summer-Graduate-Internship-2025---Aetna-Tech---Software-Engineer_R0519307-1",
+    "locations": [
+      "Smithfield, RI",
+      "Scottsdale, AZ",
+      "Hartford, CT"
+    ],
+    "company_url": "https://simplify.jobs/c/CVS-Health",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Accenture",
+    "id": "50619325-78fb-47c5-af0e-25f08e2ea6cf",
+    "title": "Center for Advanced AI \u2013 Applied Research Scientist Graduate Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1741035846,
+    "date_posted": 1741035846,
+    "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/CA---Mountain-View/Center-for-Advanced-AI---Applied-Research-Scientist-Graduate-Intern---NAELFY25_R00258191",
+    "locations": [
+      "Mountain View, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Accenture-FS",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
