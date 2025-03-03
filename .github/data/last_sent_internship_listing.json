@@ -57116,5 +57116,24 @@
     "date_posted": 1740983354,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Applied Materials",
+    "id": "917f00b1-1f61-4df8-99a5-a2c58b10dd81",
+    "title": "Intern - Process Data Scientist",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1740989605,
+    "date_posted": 1740989605,
+    "url": "https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/XMLNAME-2025-Summer-Intern---Process-Data-Scientist_R2511163",
+    "locations": [
+      "Santa Clara, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Applied-Materials",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
