@@ -57938,5 +57938,43 @@
     "company_url": "https://simplify.jobs/c/SP-Global",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Spot & Tango",
+    "id": "5641f7c9-450e-4a56-a6c4-07ce6dc09fce",
+    "title": "Data Science/Analytics Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1741122561,
+    "date_posted": 1741122561,
+    "url": "http://www.spotandtango.com/careers?gh_jid=4536216005",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Spot-And-Tango",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Spot & Tango",
+    "id": "60752a60-3707-4c11-b0c8-e1dd2dee7c97",
+    "title": "Software Engineering Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1741122535,
+    "date_posted": 1741122535,
+    "url": "http://www.spotandtango.com/careers?gh_jid=4536210005",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Spot-And-Tango",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
