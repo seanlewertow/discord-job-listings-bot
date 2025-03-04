@@ -57635,5 +57635,100 @@
     "company_url": "https://simplify.jobs/c/Smith-And-Associates",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "ByteDance",
+    "id": "856d1e85-61ea-4883-ba89-da63f7f48652",
+    "title": "Software Engineer Intern - Platform Product - Global Payment",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1741120241,
+    "date_posted": 1741120241,
+    "url": "https://jobs.bytedance.com/en/position/7477773899411065096/detail",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/3f74d8b1-5d66-4d3b-b4b2-52ec6c78afc3",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "ByteDance",
+    "id": "c30e5cb1-fb8b-4cd0-8d38-e345efe6ee14",
+    "title": "Frontend Software Engineer Intern - Web and Client - Global Payment",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1741120237,
+    "date_posted": 1741120237,
+    "url": "https://jobs.bytedance.com/en/position/7477775696905292040/detail",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/3f74d8b1-5d66-4d3b-b4b2-52ec6c78afc3",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "ByteDance",
+    "id": "994d2ea2-208a-43b0-8941-3d3ddd22c5ce",
+    "title": "Software Engineer Intern - Payment Risk - Global Payment",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1741120238,
+    "date_posted": 1741120238,
+    "url": "https://jobs.bytedance.com/en/position/7477504090055919880/detail",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/3f74d8b1-5d66-4d3b-b4b2-52ec6c78afc3",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Thousand Eyes",
+    "id": "33d05d4b-4232-44ed-ae40-758e3387a3b5",
+    "title": "Software Engineering Intern - Subscription Management Platform",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1741120122,
+    "date_posted": 1741120122,
+    "url": "https://job-boards.greenhouse.io/thousandeyes/jobs/6679514",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/Thousand-Eyes",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Western Digital",
+    "id": "40e496ac-0411-4ac6-b1e3-1f688d81564e",
+    "title": "Intern - Data Engineering",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1741119603,
+    "date_posted": 1741119603,
+    "url": "https://jobs.smartrecruiters.com/WesternDigital/744000045946162",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Western-Digital",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
