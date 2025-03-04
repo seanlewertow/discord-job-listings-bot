@@ -8303,5 +8303,53 @@
     "company_url": "https://simplify.jobs/c/c0d581f7-6346-4205-96a6-0fb804352421",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Sierra Nevada Coporation",
+    "id": "19f38bf7-9f66-4300-a0ce-0d3baf782090",
+    "title": "Software Engineer I",
+    "active": true,
+    "date_updated": 1741061794,
+    "date_posted": 1741061794,
+    "url": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Lone-Tree-CO/Software-Engineer-I_R0026766",
+    "locations": [
+      "Lone Tree, CO"
+    ],
+    "company_url": "https://simplify.jobs/c/Sierra-Nevada-Coporation",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Sierra Nevada Coporation",
+    "id": "7d2cbcc3-2797-432c-8e43-e26a9b43f555",
+    "title": "Software Engineer I",
+    "active": true,
+    "date_updated": 1741061789,
+    "date_posted": 1741061789,
+    "url": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Lone-Tree-CO/Software-Engineer-I_R0026883",
+    "locations": [
+      "Lone Tree, CO"
+    ],
+    "company_url": "https://simplify.jobs/c/Sierra-Nevada-Coporation",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Sierra Nevada Coporation",
+    "id": "6044f53c-5272-4a36-9bcc-82dc326f75fd",
+    "title": "Software Engineer I - Test",
+    "active": true,
+    "date_updated": 1741061765,
+    "date_posted": 1741061765,
+    "url": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Herndon-VA/Software-Engineer-I---Test_R0026900",
+    "locations": [
+      "Reston, VA"
+    ],
+    "company_url": "https://simplify.jobs/c/Sierra-Nevada-Coporation",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
