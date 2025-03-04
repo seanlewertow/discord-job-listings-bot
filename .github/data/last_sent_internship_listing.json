@@ -57881,5 +57881,24 @@
     "company_url": "https://simplify.jobs/c/KBR",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "ByteDance",
+    "id": "90c9f9f7-a9d9-4bd6-828a-74fce48ab352",
+    "title": "Software Engineer Intern - User Product - Global Payment",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1741120255,
+    "date_posted": 1741120255,
+    "url": "https://jobs.bytedance.com/en/position/7477775374768900360/detail",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/3f74d8b1-5d66-4d3b-b4b2-52ec6c78afc3",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
