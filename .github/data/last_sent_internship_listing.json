@@ -57482,5 +57482,43 @@
     "company_url": "https://simplify.jobs/c/Live-Nation-Entertainment",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "CVS Health",
+    "id": "49571fee-e491-4aba-b9c4-b17eed566969",
+    "title": "Innotech Summer Undergraduate Internship - Aetna Tech - Software Engineer",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1741035966,
+    "date_posted": 1741035966,
+    "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/CT---Hartford/InnoTech-Summer-Undergraduate-Internship-2025---Aetna-Tech---Software-Engineer_R0519476",
+    "locations": [
+      "Hartford, CT"
+    ],
+    "company_url": "https://simplify.jobs/c/CVS-Health",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "CVS Health",
+    "id": "b5dc65d7-ae1c-4efb-9ab5-7619fbb7b2f9",
+    "title": "Innotech Summer Undergraduate Internship - Aetna Tech - Software Engineer",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1741035947,
+    "date_posted": 1741035947,
+    "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/CT---Hartford/InnoTech-Summer-Undergraduate-Internship-2025---Aetna-Tech---Software-Engineer_R0519378",
+    "locations": [
+      "Hartford, CT"
+    ],
+    "company_url": "https://simplify.jobs/c/CVS-Health",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
