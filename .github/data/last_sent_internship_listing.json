@@ -57730,5 +57730,81 @@
     "company_url": "https://simplify.jobs/c/Western-Digital",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Point72",
+    "id": "82d60d20-7563-40f8-9cde-6d28638c0a22",
+    "title": "2025 Data \u2013 Web Scraping Summer Internship",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1741120805,
+    "date_posted": 1741120805,
+    "url": "https://job-boards.greenhouse.io/point72/jobs/7850536002",
+    "locations": [
+      "Columbia City, IN"
+    ],
+    "company_url": "https://simplify.jobs/c/Point72",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Dick's Sporting Goods",
+    "id": "56c6e2e3-c501-4575-accd-40b4fb071ca6",
+    "title": "Analytics Engineer Intern - Analytics Hub",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1741120807,
+    "date_posted": 1741120807,
+    "url": "https://dickssportinggoods.wd1.myworkdayjobs.com/en-US/DSG/job/06083-GameChanger/Analytics-Engineer-Intern--Analytics-Hub_202503752",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/Dicks-Sporting-Goods",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Dick's Sporting Goods",
+    "id": "3f0f5f87-1d2e-4fd9-a866-679564933370",
+    "title": "Software Engineer Intern - Video",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1741120806,
+    "date_posted": 1741120806,
+    "url": "https://dickssportinggoods.wd1.myworkdayjobs.com/en-US/DSG/job/06083-GameChanger/Software-Engineer-Intern--Video_202503754",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/Dicks-Sporting-Goods",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Varex Imaging Corporation",
+    "id": "7b91617a-688d-47c9-8cce-528d7acb4c9f",
+    "title": "Software Engineering Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1741120547,
+    "date_posted": 1741120547,
+    "url": "https://vareximaging.wd103.myworkdayjobs.com/External_Career_Site/job/Salt-Lake-City/Software-Engineering-Intern_R0005027",
+    "locations": [
+      "Salt Lake City, UT"
+    ],
+    "company_url": "https://simplify.jobs/c/Varex-Imaging-Corporation",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
