@@ -57900,5 +57900,43 @@
     "company_url": "https://simplify.jobs/c/3f74d8b1-5d66-4d3b-b4b2-52ec6c78afc3",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Live Nation Entertainment",
+    "id": "11b98237-66b9-4d70-8991-89cbe29a97af",
+    "title": "Data Visualization Intern - Liveanalytics",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1741123088,
+    "date_posted": 1741123088,
+    "url": "https://livenation.wd1.myworkdayjobs.com/en-US/LNExternalSite/job/Beverly-Hills-CA-USA/Data-Visualization-Intern--LiveAnalytics_JR-76883-1",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/Live-Nation-Entertainment",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "S&P Global ",
+    "id": "2535fc5b-36fa-49ca-877f-230de18c5be9",
+    "title": "Data Transformation Intern - Early Careers",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1741122626,
+    "date_posted": 1741122626,
+    "url": "https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Careers/job/Michigan-US/Data-Transformation-Intern----Early-Careers-_312559-2",
+    "locations": [
+      "Southfield, MI"
+    ],
+    "company_url": "https://simplify.jobs/c/SP-Global",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
