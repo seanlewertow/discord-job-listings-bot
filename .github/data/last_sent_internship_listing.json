@@ -57540,5 +57540,100 @@
     "company_url": "https://simplify.jobs/c/Avnet",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Robert Half",
+    "id": "90af7970-633b-424c-8185-ba398825e329",
+    "title": "Software Engineer Virtual Internship",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1741061940,
+    "date_posted": 1741061940,
+    "url": "https://roberthalf.wd1.myworkdayjobs.com/roberthalfcareers/job/SAN-RAMON/Software-Engineer-Virtual-Internship_JR-256179",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/Robert-Half",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Netsmart",
+    "id": "16857d0c-80e6-4db7-97ac-69e1a2f921ce",
+    "title": "Software Engineer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1741061882,
+    "date_posted": 1741061882,
+    "url": "https://ntst.wd1.myworkdayjobs.com/careers/job/Overland-Park-KS/Software-Engineer-Intern--Summer-2025-_R013701",
+    "locations": [
+      "Overland Park, KS"
+    ],
+    "company_url": "https://simplify.jobs/c/Netsmart",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "ASML",
+    "id": "b135bce2-7a6a-4e48-b709-5b0c221396b7",
+    "title": "Internship - Full Stack Software Engineer",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1741061774,
+    "date_posted": 1741061774,
+    "url": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Jose-CA-USA/Internship---Full-Stack-Software-Engineer_J-00307917",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/ASML",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Smith & Associates",
+    "id": "aee64efc-8130-4819-bae7-7eafd4986d94",
+    "title": "Intern \u2013 Software Engineering",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1741061390,
+    "date_posted": 1741061390,
+    "url": "https://smithweb.wd5.myworkdayjobs.com/smith2/job/Hou---Holl/Intern---Software-Engineering_REQ-1794",
+    "locations": [
+      "Houston, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Smith-And-Associates",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Smith & Associates",
+    "id": "fb216047-5dd0-4fb6-966b-5ef41a83c63a",
+    "title": "Data Science Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1741061385,
+    "date_posted": 1741061385,
+    "url": "https://smithweb.wd5.myworkdayjobs.com/smith2/job/Houston-TX/Data-Science-Intern_REQ-1802",
+    "locations": [
+      "Houston, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Smith-And-Associates",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
