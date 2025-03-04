@@ -57520,5 +57520,25 @@
     "company_url": "https://simplify.jobs/c/CVS-Health",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Avnet",
+    "id": "ff1ab33d-6a78-4a34-94cb-bb4c4a8c813a",
+    "title": "Supplier Incentive Analytics Intern",
+    "active": true,
+    "terms": [
+      "Spring 2025",
+      "Summer 2025"
+    ],
+    "date_updated": 1741054618,
+    "date_posted": 1739997046,
+    "url": "https://wd1.myworkdaysite.com/recruiting/avnet/External/job/Chandler-Arizona-United-States-Of-America/Programs-and-Contracts-Intern_JR-018214",
+    "locations": [
+      "Chandler, AZ"
+    ],
+    "company_url": "https://simplify.jobs/c/Avnet",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
