@@ -57386,5 +57386,101 @@
     "company_url": "https://simplify.jobs/c/The-Athletic-Media-Company",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Block",
+    "id": "906255cb-8822-4890-a3c7-7dbd3529086b",
+    "title": "Software Engineer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1741048229,
+    "date_posted": 1741048229,
+    "url": "http://block.xyz/careers/jobs/4564341008?gh_jid=4564341008",
+    "locations": [
+      "Toronto, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Block",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "TruStage",
+    "id": "caf3ac30-56c9-4c4b-a8a8-5d01adf706f5",
+    "title": "Full-stack \u2013 Application Developer IT Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1741047996,
+    "date_posted": 1741047996,
+    "url": "https://trustage.wd1.myworkdayjobs.com/TruStage/job/Remote---USA/IT-Intern---Application-Developer--Remote-or-hybrid-_R-010515",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/TruStage",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "SpartanNash",
+    "id": "bfdca451-2fcf-4455-a653-ff5149f360e8",
+    "title": "IT Database Administration Intern",
+    "active": true,
+    "terms": [
+      "Spring 2025",
+      "Summer 2025"
+    ],
+    "date_updated": 1741047700,
+    "date_posted": 1741047700,
+    "url": "https://spartannash.wd1.myworkdayjobs.com/SpartanNash_Careers/job/Byron-Center-Michigan/IT-Database-Administration-Intern_R67612",
+    "locations": [
+      "Wyoming, MI"
+    ],
+    "company_url": "https://simplify.jobs/c/SpartanNash",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Checkr",
+    "id": "e1f51127-fd43-49c3-a258-549017a65348",
+    "title": "Engineering Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1741035658,
+    "date_posted": 1741035658,
+    "url": "https://job-boards.greenhouse.io/checkr/jobs/6669434",
+    "locations": [
+      "SF"
+    ],
+    "company_url": "https://simplify.jobs/c/Checkr",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Live Nation Entertainment",
+    "id": "1626476e-b08a-42b2-99de-99b8b5d1a744",
+    "title": "Software Engineer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1741048704,
+    "date_posted": 1741048704,
+    "url": "https://livenation.wd1.myworkdayjobs.com/en-US/LNExternalSite/job/Beverly-Hills-CA-USA/Software-Engineer-Intern_JR-76685-1",
+    "locations": [
+      "Culver City, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Live-Nation-Entertainment",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
