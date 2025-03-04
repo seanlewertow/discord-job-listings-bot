@@ -57806,5 +57806,80 @@
     "company_url": "https://simplify.jobs/c/Varex-Imaging-Corporation",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Dick's Sporting Goods",
+    "id": "832e690d-d0d6-4280-84bb-3cf7abbef025",
+    "title": "Software Engineer Intern - User Growth",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1741120804,
+    "date_posted": 1741120804,
+    "url": "https://dickssportinggoods.wd1.myworkdayjobs.com/en-US/DSG/job/06083-GameChanger/Software-Engineer-Intern--User-Growth_202503755",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/Dicks-Sporting-Goods",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "S&P Global ",
+    "id": "e9f139c0-d055-4143-bc0a-bfed1e3e3d0f",
+    "title": "Software Engineering Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1741122635,
+    "date_posted": 1741122635,
+    "url": "https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Careers/job/New-York-NY/Software-Engineering-Intern_312375-1",
+    "locations": [
+      "Princeton, NJ",
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/SP-Global",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Alarm.com",
+    "id": "cbea7bc0-5602-4c6f-acd2-7074b9ff4d22",
+    "title": "Software Engineering Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1741122062,
+    "date_posted": 1741122062,
+    "url": "https://boards.greenhouse.io/alarmcom/jobs/7889233002",
+    "locations": [
+      "Denver, CO"
+    ],
+    "company_url": "https://simplify.jobs/c/Alarm",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "KBR",
+    "id": "633bcf8d-58f3-4aaa-9ae2-39ac83074f32",
+    "title": "National Security Solutions \u2013 Internship - Nss - Program Management Portal",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1741122135,
+    "date_posted": 1741122135,
+    "url": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Beavercreek-Township-Ohio/National-Security-Solutions--NSS--Internship---Program-Management-Portal_R2102990",
+    "locations": [],
+    "company_url": "https://simplify.jobs/c/KBR",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
