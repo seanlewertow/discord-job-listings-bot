@@ -58128,5 +58128,72 @@
     "company_url": "https://simplify.jobs/c/abce266b-0529-48a2-bfd2-a071fa10a847",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Covenant Eyes",
+    "id": "a726ad59-505b-4dd3-9a5b-1d61845430a1",
+    "title": "Software Developer \u2013 Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1741162465,
+    "date_posted": 1741162465,
+    "url": "https://careers-covenanteyes.icims.com/jobs/1230/job",
+    "locations": [
+      "East Lansing, MI"
+    ],
+    "company_url": "https://simplify.jobs/c/Covenant-Eyes",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Everwatch",
+    "id": "1455665b-2757-4563-a63b-02d340458236",
+    "title": "Computer Science Intern",
+    "active": true,
+    "terms": [
+      "Spring 2025",
+      "Summer 2025",
+      "Fall 2025",
+      "Winter 2026",
+      "Spring 2026",
+      "Summer 2026"
+    ],
+    "date_updated": 1741162476,
+    "date_posted": 1741162476,
+    "url": "https://everwatch-everwatchsolutions.icims.com/jobs/3159/job",
+    "locations": [
+      "Annapolis Junction, MD"
+    ],
+    "company_url": "https://simplify.jobs/c/Everwatch",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Everwatch",
+    "id": "54fca1f5-9c0b-45cc-b257-58c5e5e12457",
+    "title": "Computer Science Intern",
+    "active": true,
+    "terms": [
+      "Spring 2025",
+      "Summer 2025",
+      "Fall 2025",
+      "Winter 2026",
+      "Spring 2026",
+      "Summer 2026"
+    ],
+    "date_updated": 1741162476,
+    "date_posted": 1741162476,
+    "url": "https://everwatch-everwatchsolutions.icims.com/jobs/3163/job",
+    "locations": [
+      "Annapolis Junction, MD"
+    ],
+    "company_url": "https://simplify.jobs/c/Everwatch",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
