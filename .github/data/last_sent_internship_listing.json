@@ -58073,5 +58073,60 @@
     "company_url": "https://simplify.jobs/c/Rivian",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Standard Insurance",
+    "id": "b4e0132d-6240-4c4f-9198-ad1d2818abc1",
+    "title": "Data Analyst Intern - RP Sales",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1741148057,
+    "date_posted": 1741148057,
+    "url": "https://standard.wd1.myworkdayjobs.com/search/job/Portland-OR/Data--Analyst-Intern---RP-Sales_REQ005361",
+    "locations": [],
+    "company_url": "https://simplify.jobs/c/Standard-Insurance",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Chime",
+    "id": "2ffec62e-f763-40b9-9a84-3330aaa1b7b1",
+    "title": "Software Engineer Intern - Growth Funding",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1741147827,
+    "date_posted": 1741147827,
+    "url": "https://boards.greenhouse.io/chime/jobs/7744493002",
+    "locations": [
+      "SF"
+    ],
+    "company_url": "https://simplify.jobs/c/Chime",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "ThredUp",
+    "id": "bb7905b0-76e7-4ea5-aae2-75f641c8fad8",
+    "title": "Machine Learning Engineer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1741147726,
+    "date_posted": 1741147726,
+    "url": "https://thredup.wd1.myworkdayjobs.com/en-US/thredup_Careers/job/Scottsdale-AZ/Machine-Learning-Engineer_951",
+    "locations": [
+      "Scottsdale, AZ"
+    ],
+    "company_url": "https://simplify.jobs/c/abce266b-0529-48a2-bfd2-a071fa10a847",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
