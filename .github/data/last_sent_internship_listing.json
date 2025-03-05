@@ -57976,5 +57976,102 @@
     "company_url": "https://simplify.jobs/c/Spot-And-Tango",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Relativity Space",
+    "id": "5de5f7fb-a465-4c09-baf6-ecefcc7f05cd",
+    "title": "Flight Software Engineer Intern",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1741134354,
+    "date_posted": 1741134354,
+    "url": "https://boards.greenhouse.io/rsinternboard/jobs/7892232002",
+    "locations": [
+      "Long Beach, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Relativity-Space",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Airbus",
+    "id": "cc18a152-270d-43ef-9d1a-b681dbb5741d",
+    "title": "Summer Internship - Project Data Analyst",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1741134273,
+    "date_posted": 1741134273,
+    "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Mobile-Area-AL/Summer-Internship---Project-Data-Analyst_JR10317675",
+    "locations": [
+      "Mobile, AL"
+    ],
+    "company_url": "https://simplify.jobs/c/Airbus",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Optiver",
+    "id": "b816e606-0f93-4245-9fdf-2ff1b52d6fce",
+    "title": "Software Engineer Co-Op",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1741134544,
+    "date_posted": 1741134544,
+    "url": "https://job-boards.greenhouse.io/optiverprivate/jobs/7883877002",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/Optiver",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Las Vegas Sands Corp",
+    "id": "11a92b30-7a90-4926-b5fa-3e9c8b0df8ae",
+    "title": "Software Engineering Intern",
+    "active": false,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1741134014,
+    "date_posted": 1741134014,
+    "url": "https://sands.wd1.myworkdayjobs.com/sands_careers/job/Dallas-Texas/Software-Engineering-Intern_R25_0031",
+    "locations": [
+      "Dallas, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Las-Vegas-Sands-Corp",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Rivian",
+    "id": "28d5719c-16cf-4a7d-8534-0be23f93075f",
+    "title": "Intern - Embedded Systems Software Engineer",
+    "active": true,
+    "terms": [
+      "Summer 2025",
+      "Fall 2025",
+      "Spring 2026"
+    ],
+    "date_updated": 1741133853,
+    "date_posted": 1741133853,
+    "url": "https://careers.rivian.com/jobs/22518?lang=en-us&icims=1",
+    "locations": [
+      "Urbana, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/Rivian",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
