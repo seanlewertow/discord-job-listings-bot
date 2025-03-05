@@ -58195,5 +58195,114 @@
     "company_url": "https://simplify.jobs/c/Everwatch",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Panasonic Avionics",
+    "id": "fdd1db4c-1590-4fd7-b36a-e615c22fe286",
+    "title": "Data Engineer Intern",
+    "active": true,
+    "terms": [
+      "Spring 2025",
+      "Summer 2025"
+    ],
+    "date_updated": 1741162565,
+    "date_posted": 1741162565,
+    "url": "https://careers.na.panasonic.com/jobs/41162?lang=en-us&icims=1",
+    "locations": [
+      "Newark, NJ"
+    ],
+    "company_url": "https://simplify.jobs/c/Panasonic-Avionics",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Panasonic Avionics",
+    "id": "da3be2f1-7fd1-41f2-8957-6989be9c62a1",
+    "title": "Data Science Intern",
+    "active": true,
+    "terms": [
+      "Spring 2025",
+      "Summer 2025"
+    ],
+    "date_updated": 1741162588,
+    "date_posted": 1741162588,
+    "url": "https://careers.na.panasonic.com/jobs/39225?lang=en-us&icims=1",
+    "locations": [
+      "Irvine, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Panasonic-Avionics",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Panasonic Avionics",
+    "id": "250bb8e6-cadd-4845-88a1-7d8fc68664f0",
+    "title": "Software Engineering Intern",
+    "active": true,
+    "terms": [
+      "Spring 2025",
+      "Summer 2025",
+      "Fall 2025"
+    ],
+    "date_updated": 1741162572,
+    "date_posted": 1741162572,
+    "url": "https://careers.na.panasonic.com/jobs/39958?lang=en-us&icims=1",
+    "locations": [
+      "Portland, OR"
+    ],
+    "company_url": "https://simplify.jobs/c/Panasonic-Avionics",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Everwatch",
+    "id": "318a9e09-a6a3-4342-996d-60a44c5f3817",
+    "title": "Computer Science Intern",
+    "active": true,
+    "terms": [
+      "Spring 2025",
+      "Summer 2025",
+      "Fall 2025",
+      "Winter 2026",
+      "Spring 2026",
+      "Summer 2026"
+    ],
+    "date_updated": 1741162476,
+    "date_posted": 1741162476,
+    "url": "https://everwatch-everwatchsolutions.icims.com/jobs/3158/job",
+    "locations": [
+      "Annapolis Junction, MD"
+    ],
+    "company_url": "https://simplify.jobs/c/Everwatch",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Everwatch",
+    "id": "8e4b8ad9-1308-49f0-bfde-27b0f688aa1e",
+    "title": "Computer Science Intern",
+    "active": true,
+    "terms": [
+      "Spring 2025",
+      "Summer 2025",
+      "Fall 2025",
+      "Winter 2026",
+      "Spring 2026",
+      "Summer 2026"
+    ],
+    "date_updated": 1741162476,
+    "date_posted": 1741162476,
+    "url": "https://everwatch-everwatchsolutions.icims.com/jobs/3162/job",
+    "locations": [
+      "Annapolis Junction, MD"
+    ],
+    "company_url": "https://simplify.jobs/c/Everwatch",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
