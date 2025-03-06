@@ -58304,5 +58304,100 @@
     "company_url": "https://simplify.jobs/c/Everwatch",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Tradeweb",
+    "id": "ccd14f29-0dc0-4a6e-b994-61526fb250f3",
+    "title": "Summer Internship Program - C++/ OOP Developer",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1741220032,
+    "date_posted": 1741220032,
+    "url": "https://ecnf.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/301077",
+    "locations": [
+      "London, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Tradeweb",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Nokia",
+    "id": "2a178aae-33da-4f32-96d2-e27f09062f3b",
+    "title": "AI/Data/ML Development Co-op/Intern",
+    "active": true,
+    "terms": [
+      "Spring 2025"
+    ],
+    "date_updated": 1741220043,
+    "date_posted": 1741220043,
+    "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/job/17858",
+    "locations": [
+      "Remote in Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Nokia",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Tradeweb",
+    "id": "1715c529-d19f-4832-9ffd-16c3796c2909",
+    "title": "Tradeweb International Summer Internship Program 2025 - Site Reliability/ Business Intelligence Engineer - Technology Division",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1741220028,
+    "date_posted": 1741220028,
+    "url": "https://ecnf.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/301084",
+    "locations": [
+      "London, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Tradeweb",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Vapi",
+    "id": "37bce317-7267-4c31-8ef8-40937d2d3a74",
+    "title": "Software Engineering Intern",
+    "active": true,
+    "terms": [
+      "Spring 2025"
+    ],
+    "date_updated": 1741219948,
+    "date_posted": 1741219948,
+    "url": "https://jobs.ashbyhq.com/vapi/a2ab3304-b7a8-4187-8681-e5f4a7e3d862/application",
+    "locations": [
+      "SF"
+    ],
+    "company_url": "https://simplify.jobs/c/Vapi",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Werfen",
+    "id": "61127c7e-450d-4104-b8d5-df67ee021a96",
+    "title": "Software Engineer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1741220201,
+    "date_posted": 1741220201,
+    "url": "https://careers-werfen.icims.com/jobs/8343/job",
+    "locations": [
+      "Bedford, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/Werfen",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
