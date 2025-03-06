@@ -58628,5 +58628,64 @@
     "company_url": "https://simplify.jobs/c/Solar-Landscape",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Kodiak Robotics",
+    "id": "2071a4de-916a-4e17-8800-919e2ee086f3",
+    "title": "Summer 2025 Intern - Artificial Intelligence/Machine Learning",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1741293961,
+    "date_posted": 1741293961,
+    "url": "https://jobs.lever.co/kodiak/894854a7-8cbe-45bf-a09b-c0543c142e46/apply",
+    "locations": [
+      "Mountain View, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Kodiak-Robotics",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "O'Reilly Auto Parts",
+    "id": "5a233859-9462-4506-813f-e86e047ca33e",
+    "title": "Intern-IT Web Content Administrator",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1741294930,
+    "date_posted": 1741294930,
+    "url": "https://oreillyauto.wd1.myworkdayjobs.com/oreilly/job/Headquarters/Intern---Info-Tech_R106117",
+    "locations": [
+      "Springfield, MO"
+    ],
+    "company_url": "https://simplify.jobs/c/OReilly-Auto-Parts",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Bose",
+    "id": "b16bbd57-53a8-4c2d-a744-234c9d061b25",
+    "title": "Algorithms Software Engineer Co-op",
+    "active": true,
+    "terms": [
+      "Summer 2025",
+      "Fall 2025",
+      "Winter 2026"
+    ],
+    "date_updated": 1741292790,
+    "date_posted": 1741292790,
+    "url": "https://boseallaboutme.wd1.myworkdayjobs.com/en-US/Bose_Careers/job/US-MA---Framingham/Algorithms-Software-Engineer-Co-op_R28051",
+    "locations": [
+      "Framingham, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/bose",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
