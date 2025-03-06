@@ -58915,5 +58915,44 @@
     "company_url": "https://simplify.jobs/c/Thousand-Eyes",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "The Walt Disney Company",
+    "id": "c91d4ed8-07f2-4179-bfef-a38098c60e78",
+    "title": "Software Engineering Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025",
+      "Fall 2025"
+    ],
+    "date_updated": 1741296129,
+    "date_posted": 1741296129,
+    "url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Orlando-FL-USA/Software-Engineering-Intern--Summer-Fall-2025_10111740",
+    "locations": [
+      "Orlando, FL"
+    ],
+    "company_url": "https://simplify.jobs/c/Disney",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Kodiak Robotics",
+    "id": "40c7b4f9-7ca4-42ba-972c-2e87e7580846",
+    "title": "Summer 2025 Intern - Data Science",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1741296115,
+    "date_posted": 1741296115,
+    "url": "https://jobs.lever.co/kodiak/f7e9b976-be8d-479f-b754-9afa34f07e70/apply",
+    "locations": [
+      "Mountain View, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Kodiak-Robotics",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
