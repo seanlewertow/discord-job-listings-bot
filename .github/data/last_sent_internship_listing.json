@@ -58609,5 +58609,24 @@
     "company_url": "https://simplify.jobs/c/Northwestern-Mutual",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Solar Landscape",
+    "id": "4895eb95-3a04-4815-9211-4a5864733b53",
+    "title": "Software Engineer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1741249225,
+    "date_posted": 1741249225,
+    "url": "https://jobs.lever.co/solarlandscape/76615ad3-751a-41ac-a2a8-01fc370967be/apply",
+    "locations": [
+      "Shrewsbury, NJ"
+    ],
+    "company_url": "https://simplify.jobs/c/Solar-Landscape",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
