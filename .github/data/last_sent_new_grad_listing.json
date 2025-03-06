@@ -8480,5 +8480,22 @@
     "company_url": "https://simplify.jobs/c/3bc7a09e-e5f1-45e8-b26b-1d3c77588a00",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Splunk",
+    "id": "907fad13-9965-49f6-b379-785141633097",
+    "title": "Software Engineer - Frontend - Early in Career",
+    "active": true,
+    "date_updated": 1741233283,
+    "date_posted": 1741233283,
+    "url": "https://jobs.jobvite.com/splunk-careers/job/oVYzvfwH?nl=1&nl=1&fr=false",
+    "locations": [
+      "Colorado",
+      "North Carolina"
+    ],
+    "company_url": "https://simplify.jobs/c/Splunk",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
