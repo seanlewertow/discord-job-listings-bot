@@ -58399,5 +58399,100 @@
     "company_url": "https://simplify.jobs/c/Werfen",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "IDEMIA",
+    "id": "f48f4395-880e-43a4-a61a-8a6a35724072",
+    "title": "Software Engineering Internship",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1741222243,
+    "date_posted": 1741222243,
+    "url": "https://uscareers-idemia.icims.com/jobs/7666/job",
+    "locations": [
+      "Fort Wayne, IN"
+    ],
+    "company_url": "https://simplify.jobs/c/Idemia",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Keysight Technologies, Inc.",
+    "id": "d7f2e736-0ade-47d9-9cc5-cc761b85979d",
+    "title": "R&D Software Engineering Internship",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1741222243,
+    "date_posted": 1741222243,
+    "url": "https://jobs.keysight.com/jobs/47080?lang=en-us&icims=1",
+    "locations": [
+      "Calabasas, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Keysight-Technologies-Inc",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "IDEMIA",
+    "id": "5971fe90-5a1d-4a02-b8dc-ecb31abb1246",
+    "title": "Software Engineering Internship",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1741222243,
+    "date_posted": 1741222243,
+    "url": "https://uscareers-idemia.icims.com/jobs/7667/job",
+    "locations": [
+      "Fort Wayne, IN"
+    ],
+    "company_url": "https://simplify.jobs/c/Idemia",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Werfen",
+    "id": "8b64242e-607b-4207-99a8-35ca139bbc48",
+    "title": "Summer Firmware Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1741222226,
+    "date_posted": 1741222226,
+    "url": "https://careers-werfen.icims.com/jobs/8311/job",
+    "locations": [
+      "Bedford, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/Werfen",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "EVgo",
+    "id": "75bcbfbd-ea77-4516-8ebd-dcb9a0318b12",
+    "title": "Intern \u2013 Firmware Development",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1741223054,
+    "date_posted": 1741223054,
+    "url": "https://jobs.jobvite.com/evgo/job/ouNyvfw4?nl=1&nl=1&fr=false",
+    "locations": [
+      "El Segundo, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/EVgo",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
