@@ -58494,5 +58494,24 @@
     "company_url": "https://simplify.jobs/c/EVgo",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "DTCC",
+    "id": "7b88cc54-bea1-4576-8a46-3f6055a8b111",
+    "title": "Technical Internship",
+    "active": true,
+    "terms": [
+      "Spring 2025"
+    ],
+    "date_updated": 1741232399,
+    "date_posted": 1741232399,
+    "url": "https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/201709",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/DTCC",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
