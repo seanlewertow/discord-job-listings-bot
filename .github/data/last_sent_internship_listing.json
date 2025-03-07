@@ -59088,5 +59088,24 @@
     "company_url": "https://simplify.jobs/c/Qualcomm",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Centerfield",
+    "id": "65d34692-1b4d-41b2-8e4a-be9afc4f69f6",
+    "title": "Software Engineer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1741323779,
+    "date_posted": 1741323779,
+    "url": "https://jobs.lever.co/centerfield/d34ab923-4488-4136-888f-c7404d2dfd45/apply",
+    "locations": [
+      "LA"
+    ],
+    "company_url": "https://simplify.jobs/c/Centerfield",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
