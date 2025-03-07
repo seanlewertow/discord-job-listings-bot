@@ -59227,5 +59227,24 @@
     "company_url": "https://simplify.jobs/c/Skechers",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Nokia",
+    "id": "4fc4c8fe-bcb3-44ea-9759-fb1e3a08ffc2",
+    "title": "Sofware Developer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1741378917,
+    "date_posted": 1741378917,
+    "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/job/17123",
+    "locations": [
+      "United States"
+    ],
+    "company_url": "https://simplify.jobs/c/Nokia",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
