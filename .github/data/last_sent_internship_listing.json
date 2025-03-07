@@ -59107,5 +59107,25 @@
     "company_url": "https://simplify.jobs/c/Centerfield",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "RELX",
+    "id": "0e2a6bc1-851b-4a63-8ee5-fce7ae6d405a",
+    "title": "Student / Internship Data Scientists",
+    "active": true,
+    "terms": [
+      "Summer 2025",
+      "Winter 2026"
+    ],
+    "date_updated": 1741350589,
+    "date_posted": 1741294011,
+    "url": "https://relx.wd3.myworkdayjobs.com/en-US/relx/job/Karlsruhe/Student-Analysts---Data-Scientists--m-f-d-_R91985-1",
+    "locations": [
+      "London, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/1495091e-1f19-4c30-a48a-5afa4aa5e7dd",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
