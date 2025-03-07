@@ -59050,5 +59050,43 @@
     "company_url": "https://simplify.jobs/c/Jones-Lang-LaSalle",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Sony Pictures Entertainment",
+    "id": "c2b69dbf-5652-4a95-94bf-68bbeb4fe918",
+    "title": "Production Systems Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1741320800,
+    "date_posted": 1741320800,
+    "url": "https://spe.wd1.myworkdayjobs.com/en-US/SonyPicturesEntertainment/job/Culver-City-California/Production-Systems-Intern--US-TV-Production---Summer-2025_JR105852",
+    "locations": [
+      "Culver City, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/cba19b9c-c87b-4670-905f-598655ed2801",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Qualcomm",
+    "id": "ec59cbf1-4ca6-4c3b-8e6f-d81367a45087",
+    "title": "Machine Learning & Artificial Intelligence Engineering Internship - Interim Engineering Intern - SW",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1741321309,
+    "date_posted": 1741321309,
+    "url": "https://qualcomm.eightfold.ai/careers/job/446701026300",
+    "locations": [
+      "San Diego, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Qualcomm",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
