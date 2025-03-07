@@ -59265,5 +59265,43 @@
     "company_url": "https://simplify.jobs/c/Werfen",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Leidos",
+    "id": "a3ef0a0c-0bf6-42ee-9487-38180fecb70d",
+    "title": "Software Engineer Intern",
+    "active": true,
+    "terms": [
+      "Spring 2025"
+    ],
+    "date_updated": 1741380507,
+    "date_posted": 1741380507,
+    "url": "https://leidos.wd5.myworkdayjobs.com/External/job/St-Petersburg-FL/Software-Engineer-Intern_R-00154741",
+    "locations": [
+      "St. Petersburg, FL"
+    ],
+    "company_url": "https://simplify.jobs/c/Leidos",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Braze",
+    "id": "421eea61-b99b-49bb-8306-61d2545c05f9",
+    "title": "Product Analytics Intern",
+    "active": true,
+    "terms": [
+      "Spring 2025"
+    ],
+    "date_updated": 1741379867,
+    "date_posted": 1741379867,
+    "url": "https://boards.greenhouse.io/braze/jobs/6682060",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Braze",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
