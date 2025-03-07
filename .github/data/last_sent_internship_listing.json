@@ -58954,5 +58954,101 @@
     "company_url": "https://simplify.jobs/c/Kodiak-Robotics",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Geisinger",
+    "id": "f1cf6014-1368-4dff-a600-1c08e588bdbe",
+    "title": "Intern Graduate - Data Science",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1741307010,
+    "date_posted": 1741307010,
+    "url": "https://geisinger.wd5.myworkdayjobs.com/geisingerexternal/job/Work-from-Home/Intern-Graduate--Data-Science-_R-73822-1",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/Geisinger",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Geisinger",
+    "id": "880e8364-79c1-40c1-a493-7fc32f147a92",
+    "title": "Intern Graduate - Data Science",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1741306999,
+    "date_posted": 1741306999,
+    "url": "https://geisinger.wd5.myworkdayjobs.com/geisingerexternal/job/Work-from-Home/Intern-Undergraduate--Data-Science-_R-73821",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/Geisinger",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "C&S Wholesale Grocers",
+    "id": "1dde9fce-fd9d-4c33-83db-5a44be6da126",
+    "title": "Application Migration Intern - Mainframe",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1741306787,
+    "date_posted": 1741306787,
+    "url": "https://cswg.wd1.myworkdayjobs.com/cs_careers/job/Keene-NH/Application-Migration-Intern--Mainframe----Summer-2025_R-261277",
+    "locations": [
+      "Brattleboro, VT"
+    ],
+    "company_url": "https://simplify.jobs/c/CS-Wholesale-Grocers",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "SpartanNash",
+    "id": "0e019b37-818c-466d-8a39-73c6844601ec",
+    "title": "IT Ecommerce Developer Intern",
+    "active": true,
+    "terms": [
+      "Spring 2025",
+      "Summer 2025"
+    ],
+    "date_updated": 1741306654,
+    "date_posted": 1741306654,
+    "url": "https://spartannash.wd1.myworkdayjobs.com/SpartanNash_Careers/job/Byron-Center-Michigan/IT-Ecommerce-Developer-Intern_R67603",
+    "locations": [
+      "Wyoming, MI"
+    ],
+    "company_url": "https://simplify.jobs/c/SpartanNash",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Jones Lang LaSalle (JLL)",
+    "id": "55562201-2abc-4cd6-b4a2-a889e0705555",
+    "title": "CRE Technology Summer 2025 Internship",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1741307461,
+    "date_posted": 1741307461,
+    "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Chicago-IL/CRE-Technology-Summer-2025-Internship---Chicago--IL_REQ410108",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/Jones-Lang-LaSalle",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
