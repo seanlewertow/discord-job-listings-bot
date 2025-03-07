@@ -59187,5 +59187,26 @@
     "company_url": "https://simplify.jobs/c/Tamr",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Tamr",
+    "id": "3262732a-c37c-4cfb-9571-dae2e4d076eb",
+    "title": "Software Engineering Co-op",
+    "active": true,
+    "terms": [
+      "Summer 2025",
+      "Fall 2025",
+      "Winter 2026"
+    ],
+    "date_updated": 1741363724,
+    "date_posted": 1741363724,
+    "url": "https://jobs.lever.co/tamr/73fd290c-3ffe-42ae-be1d-5783214c0751/apply",
+    "locations": [
+      "Cambridge, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/Tamr",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
