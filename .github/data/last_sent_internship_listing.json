@@ -59303,5 +59303,24 @@
     "company_url": "https://simplify.jobs/c/Braze",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Skechers",
+    "id": "ce8030be-5e19-4865-b3b1-d166555ae2dd",
+    "title": "Data Architect Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1741379645,
+    "date_posted": 1741379645,
+    "url": "https://skechers.wd5.myworkdayjobs.com/One-career-site/job/Manhattan-Beach-CA/Data-Architect-Intern--Summer-2025-_JR114496-1",
+    "locations": [
+      "El Segundo, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Skechers",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
