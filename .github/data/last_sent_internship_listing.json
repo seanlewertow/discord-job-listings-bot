@@ -59322,5 +59322,43 @@
     "company_url": "https://simplify.jobs/c/Skechers",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Western Digital",
+    "id": "e801beef-3205-4c5b-a04b-a8df72097df7",
+    "title": "Summer 2025 Intern - Operations Research & Analytics Engineering",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1741379147,
+    "date_posted": 1741379147,
+    "url": "https://jobs.smartrecruiters.com/WesternDigital/744000046669285",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Western-Digital",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Nokia",
+    "id": "c32d831b-dcce-4277-a622-da9fcd49dde9",
+    "title": "Software Developer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1741378917,
+    "date_posted": 1741378917,
+    "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/job/17122",
+    "locations": [
+      "United States"
+    ],
+    "company_url": "https://simplify.jobs/c/Nokia",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
