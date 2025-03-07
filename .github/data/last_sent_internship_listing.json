@@ -59127,5 +59127,44 @@
     "company_url": "https://simplify.jobs/c/1495091e-1f19-4c30-a48a-5afa4aa5e7dd",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Nokia",
+    "id": "17deb094-26a7-4e90-bfb7-0098e17cab43",
+    "title": "Platforms Engineering Architecture Co-op",
+    "active": true,
+    "terms": [
+      "Spring 2025",
+      "Summer 2025"
+    ],
+    "date_updated": 1741363992,
+    "date_posted": 1741363992,
+    "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/job/17584",
+    "locations": [
+      "United States"
+    ],
+    "company_url": "https://simplify.jobs/c/Nokia",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Clarivate",
+    "id": "4d23ff23-8f27-4309-bbe9-a9c26424a29f",
+    "title": "Futures Business Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1741364437,
+    "date_posted": 1741364437,
+    "url": "https://clarivate.wd3.myworkdayjobs.com/Clarivate_Careers/job/R244-Kansas-City/Futures-Business-Intern_JREQ131401-1",
+    "locations": [
+      "Kansas City, MO"
+    ],
+    "company_url": "https://simplify.jobs/c/Clarivate",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
