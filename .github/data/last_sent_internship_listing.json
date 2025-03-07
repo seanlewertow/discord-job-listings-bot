@@ -59246,5 +59246,24 @@
     "company_url": "https://simplify.jobs/c/Nokia",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Werfen",
+    "id": "105dde4b-fdca-4c13-8814-fc740fa5b59f",
+    "title": "Software Engineering Intern",
+    "active": true,
+    "terms": [
+      "Spring 2025"
+    ],
+    "date_updated": 1741379020,
+    "date_posted": 1741379020,
+    "url": "https://careers-werfen.icims.com/jobs/8310/job",
+    "locations": [
+      "Bedford, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/Werfen",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
