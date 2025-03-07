@@ -59208,5 +59208,24 @@
     "company_url": "https://simplify.jobs/c/Tamr",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Skechers",
+    "id": "349d97b6-a717-4ee2-a094-4e04fe52eea0",
+    "title": "Data Engineer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1741379645,
+    "date_posted": 1741379645,
+    "url": "https://skechers.wd5.myworkdayjobs.com/One-career-site/job/Manhattan-Beach-CA/Data-Engineer-Intern--Summer-2025-_JR114495-1",
+    "locations": [
+      "El Segundo, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Skechers",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
