@@ -59493,5 +59493,26 @@
     "company_url": "https://simplify.jobs/c/Atlas-Van-Lines",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "GE Vernova",
+    "id": "55454fd9-66f9-4392-b0ce-8fb82ad7dc5e",
+    "title": "GE Vernova Digital Technology Internship",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1741407525,
+    "date_posted": 1741407525,
+    "url": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Schenectady/GE-Vernova-Digital-Technology-Internship---Summer-2025_R5005281-1",
+    "locations": [
+      "Greenville, SC",
+      "Schenectady, NY",
+      "Atlanta, GA"
+    ],
+    "company_url": "https://simplify.jobs/c/GE-Vernova",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
