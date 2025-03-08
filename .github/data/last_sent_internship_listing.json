@@ -59360,5 +59360,100 @@
     "company_url": "https://simplify.jobs/c/Nokia",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Safran",
+    "id": "c4f24b99-980e-457b-aafa-3ee6777b2b4e",
+    "title": "Engineering Internships!",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1741392355,
+    "date_posted": 1741392355,
+    "url": "https://safransed.bamboohr.com/careers/509/",
+    "locations": [
+      "Rochester, NY"
+    ],
+    "company_url": "https://simplify.jobs/c/Safran",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Kodiak Robotics",
+    "id": "8bb4beaa-8ab4-49e5-a457-1b372a12d0bd",
+    "title": "Intern - Motion Planning",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1741393371,
+    "date_posted": 1741393371,
+    "url": "https://jobs.lever.co/kodiak/9402afdd-6682-4d9c-9116-cf9fd472742d/apply",
+    "locations": [
+      "Mountain View, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Kodiak-Robotics",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Kodiak Robotics",
+    "id": "db462274-034d-42fc-9b58-61e83827f6cd",
+    "title": "Summer 2025 Intern - Perception",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1741393369,
+    "date_posted": 1741393369,
+    "url": "https://jobs.lever.co/kodiak/c731a8b1-5efd-4c91-82fc-764a24dfd44b/apply",
+    "locations": [
+      "Mountain View, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Kodiak-Robotics",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Sanofi",
+    "id": "35235283-ca1d-4a02-8f66-ec653ddbc72b",
+    "title": "Data and AI Engineer",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1741393146,
+    "date_posted": 1741393146,
+    "url": "https://sanofi.wd3.myworkdayjobs.com/en-US/SanofiCareers/job/Cambridge-MA/Data-and-AI-Engineer---Summer-2025-Intern_R2788513",
+    "locations": [
+      "Cambridge, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/2e32cd23-87b9-4a8f-9544-8fd5f15736cc",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Keysight Technologies, Inc.",
+    "id": "7e7abdfa-7c99-4e45-96a3-e6e4e6ec5760",
+    "title": "Machine Learning Engineering Internship",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1741392695,
+    "date_posted": 1741392695,
+    "url": "https://jobs.keysight.com/jobs/47095?lang=en-us&icims=1",
+    "locations": [
+      "Santa Clara, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Keysight-Technologies-Inc",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
