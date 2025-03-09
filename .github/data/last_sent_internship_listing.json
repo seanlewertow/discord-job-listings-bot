@@ -59514,5 +59514,24 @@
     "company_url": "https://simplify.jobs/c/GE-Vernova",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Rad AI",
+    "id": "12b5e65e-24ee-4be3-a6f6-567e068a74fd",
+    "title": "Software Engineer Internship",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1741561637,
+    "date_posted": 1741561637,
+    "url": "https://jobs.ashbyhq.com/radai/b4b5a0d4-f878-46c9-bfaa-0759d2150811/application",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/Rad-AI",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
