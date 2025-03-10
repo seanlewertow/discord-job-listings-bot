@@ -59725,5 +59725,25 @@
     "company_url": "https://simplify.jobs/c/Pitney-Bowes",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "MRI Software",
+    "id": "187de591-7a30-463c-a764-6593eaa44a98",
+    "title": "Software Engineering Intern",
+    "active": true,
+    "terms": [
+      "Spring 2025",
+      "Summer 2025"
+    ],
+    "date_updated": 1741634693,
+    "date_posted": 1741634693,
+    "url": "https://mrisoftware.wd501.myworkdayjobs.com/External_CareerSite/job/Cleveland-Ohio-Office/Software-Engineering-Intern_R-104774",
+    "locations": [
+      "Cleveland, OH"
+    ],
+    "company_url": "https://simplify.jobs/c/MRI-Software",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
