@@ -59648,5 +59648,43 @@
     "company_url": "https://simplify.jobs/c/Elsevier",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Booz Allen",
+    "id": "b24cf80a-e8fe-42ab-a49c-8130e5a077b9",
+    "title": "University \u2013 Systems Engineer Intern",
+    "active": true,
+    "terms": [
+      "Spring 2027"
+    ],
+    "date_updated": 1741620861,
+    "date_posted": 1741620861,
+    "url": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fayetteville-NC/University--Systems-Engineer-Intern_R0216882",
+    "locations": [
+      "Fayetteville, NC"
+    ],
+    "company_url": "https://simplify.jobs/c/Booz-Allen",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Booz Allen",
+    "id": "a88de9ec-40be-4871-bbda-f30565217924",
+    "title": "University \u2013 Systems Engineer Intern",
+    "active": true,
+    "terms": [
+      "Spring 2027"
+    ],
+    "date_updated": 1741620824,
+    "date_posted": 1741620824,
+    "url": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fayetteville-NC/University--Systems-Engineer-Intern_R0216883",
+    "locations": [
+      "Fayetteville, NC"
+    ],
+    "company_url": "https://simplify.jobs/c/Booz-Allen",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
