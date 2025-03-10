@@ -59686,5 +59686,25 @@
     "company_url": "https://simplify.jobs/c/Booz-Allen",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Panasonic Avionics",
+    "id": "39489a30-ae1e-42ce-8f62-682446fa2078",
+    "title": "Data Analytics Internal Audit Intern",
+    "active": true,
+    "terms": [
+      "Spring 2025",
+      "Summer 2025"
+    ],
+    "date_updated": 1741619616,
+    "date_posted": 1741619616,
+    "url": "https://careers.na.panasonic.com/jobs/41876?lang=en-us&icims=1",
+    "locations": [
+      "Newark, NJ"
+    ],
+    "company_url": "https://simplify.jobs/c/Panasonic-Avionics",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
