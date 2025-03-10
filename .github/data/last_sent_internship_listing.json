@@ -59552,5 +59552,82 @@
     "date_posted": 1741566380,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Reveleer",
+    "id": "023b8d1c-b9d6-49cc-af35-ff605547b2d3",
+    "title": "Data Warehouse Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1741619647,
+    "date_posted": 1741619647,
+    "url": "https://reveleer.breezy.hr/p/522d24d2ea5e/apply",
+    "locations": [
+      "United States"
+    ],
+    "company_url": "https://simplify.jobs/c/6fcb2c48-7850-4a98-85c2-2c6126e6b04d",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Reveleer",
+    "id": "90e8e019-60bd-443d-8926-57e499dafc31",
+    "title": "Engineering Operations Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1741619649,
+    "date_posted": 1741619649,
+    "url": "https://reveleer.breezy.hr/p/3d97c99b97f1/apply",
+    "locations": [
+      "United States"
+    ],
+    "company_url": "https://simplify.jobs/c/6fcb2c48-7850-4a98-85c2-2c6126e6b04d",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Reveleer",
+    "id": "3dcfb9a5-a466-4db2-8842-3769691b1e45",
+    "title": "Applied Analytics Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1741619645,
+    "date_posted": 1741619645,
+    "url": "https://reveleer.breezy.hr/p/8b55db70c3f4/apply",
+    "locations": [
+      "United States"
+    ],
+    "company_url": "https://simplify.jobs/c/6fcb2c48-7850-4a98-85c2-2c6126e6b04d",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Nutanix",
+    "id": "41d19eb4-8e5a-4179-8264-418e674d89e9",
+    "title": "Software Engineering Intern - Aiops",
+    "active": true,
+    "terms": [
+      "Spring 2025",
+      "Summer 2025"
+    ],
+    "date_updated": 1741619427,
+    "date_posted": 1741619427,
+    "url": "https://jobs.jobvite.com/nutanix/job/o1dAvfw3?nl=1&nl=1&fr=false",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Nutanix",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
