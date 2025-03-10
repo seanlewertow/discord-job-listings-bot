@@ -59863,5 +59863,25 @@
     "company_url": "https://simplify.jobs/c/a2fd660a-bdbb-4434-8768-68c94e322d25",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Trepp",
+    "id": "b5d5768e-bfd7-4bd4-a293-40da73042d09",
+    "title": "Product & Data Analytics Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1741635988,
+    "date_posted": 1741635988,
+    "url": "https://www.trepp.com/joining-trepp?gh_jid=6697281",
+    "locations": [
+      "Dallas, TX",
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Trepp",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
