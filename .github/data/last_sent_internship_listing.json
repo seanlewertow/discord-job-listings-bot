@@ -59764,5 +59764,64 @@
     "company_url": "https://simplify.jobs/c/Live-Nation-Entertainment",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "MRI Software",
+    "id": "266705d0-60a8-4b3e-b054-34f85079207b",
+    "title": "AI Software Engineer Intern",
+    "active": true,
+    "terms": [
+      "Spring 2025",
+      "Summer 2025"
+    ],
+    "date_updated": 1741634692,
+    "date_posted": 1741634692,
+    "url": "https://mrisoftware.wd501.myworkdayjobs.com/External_CareerSite/job/Cleveland-Ohio-Office/AI-Software-Engineer-Intern_R-104782",
+    "locations": [
+      "Solon, OH"
+    ],
+    "company_url": "https://simplify.jobs/c/MRI-Software",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Live Nation Entertainment",
+    "id": "7018eeda-7a70-440a-a4ad-6093425841c3",
+    "title": "Pricing Data Analyst Intern",
+    "active": true,
+    "terms": [
+      "Spring 2025"
+    ],
+    "date_updated": 1741636303,
+    "date_posted": 1741636303,
+    "url": "https://livenation.wd1.myworkdayjobs.com/en-US/LNExternalSite/job/Beverly-Hills-CA-USA/Pricing-Data-Analyst-Intern_JR-76920-1",
+    "locations": [
+      "Hollywood, LA"
+    ],
+    "company_url": "https://simplify.jobs/c/Live-Nation-Entertainment",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "TD Bank",
+    "id": "5974913f-f64b-4f2b-9d65-0ee9f2e4b2da",
+    "title": "Tdi Data \u2013 Analytics and Insights Intern/Co-op",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1741635532,
+    "date_posted": 1741635532,
+    "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Montral-Qubec/TDI-Data--Analytics-and-Insights-Intern-Co-op--Summer-2025-_R_1385195",
+    "locations": [
+      "Montreal, QC, Canada",
+      "Toronto, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/TD-Bank",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
