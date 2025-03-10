@@ -59883,5 +59883,24 @@
     "company_url": "https://simplify.jobs/c/Trepp",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Western Digital",
+    "id": "818af22e-8558-4741-8ccc-931028adc6e3",
+    "title": "Summer 2025 Intern - Applications Engineering",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1741648360,
+    "date_posted": 1741648360,
+    "url": "https://jobs.smartrecruiters.com/WesternDigital/744000046992456",
+    "locations": [
+      "Fremont, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Western-Digital",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
