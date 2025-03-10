@@ -59902,5 +59902,62 @@
     "company_url": "https://simplify.jobs/c/Western-Digital",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Trepp",
+    "id": "29511f2a-9624-4b1b-ab27-fabc615bf5bf",
+    "title": "Data Engineering Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1741649310,
+    "date_posted": 1741649310,
+    "url": "https://www.trepp.com/joining-trepp?gh_jid=6698066",
+    "locations": [
+      "Dallas, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Trepp",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "EVgo",
+    "id": "5193993d-33e9-43ef-b49d-9437b9b5e04d",
+    "title": "Intern \u2013 Technical Data Solutions",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1741649164,
+    "date_posted": 1741649164,
+    "url": "https://jobs.jobvite.com/evgo/job/o7CAvfwy?nl=1&nl=1&fr=false",
+    "locations": [
+      "LA"
+    ],
+    "company_url": "https://simplify.jobs/c/EVgo",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Keysight Technologies, Inc.",
+    "id": "86928278-6876-4cdc-a717-45b5aa5cb740",
+    "title": "R&D \u2013 Software Intern - Network Test",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1741649039,
+    "date_posted": 1741649039,
+    "url": "https://jobs.keysight.com/jobs/47156?lang=en-us&icims=1",
+    "locations": [
+      "Calabasas, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Keysight-Technologies-Inc",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
