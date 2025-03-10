@@ -59533,5 +59533,24 @@
     "company_url": "https://simplify.jobs/c/Rad-AI",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "date_updated": 1741566380,
+    "url": "https://careers.hootsuite.com/job/?gh_jid=6678535",
+    "company_name": "Hootsuite",
+    "title": "Co-Op/ Intern, Software Development - Summer 2025",
+    "locations": [
+      "Vancouver, British Columbia, Canada"
+    ],
+    "terms": [
+      "Summer 2025"
+    ],
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "source": "GaryZhous",
+    "id": "38d6f530-ad44-420a-9799-887400392aab",
+    "date_posted": 1741566380,
+    "company_url": "",
+    "is_visible": true
   }
 ]
