@@ -59959,5 +59959,100 @@
     "company_url": "https://simplify.jobs/c/Keysight-Technologies-Inc",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Hewlett Packard (HP)",
+    "id": "4eed0549-defb-4168-b9df-ff25eb7500fc",
+    "title": "AI & SEO Content Optimization Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1741648459,
+    "date_posted": 1741648459,
+    "url": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Spring-Texas-United-States-of-America/AI---SEO-Content-Optimization-Intern_3148569-1",
+    "locations": [
+      "Houston, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Hewlett-Packard",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Uber",
+    "id": "6ba89596-1f70-4678-94e2-3a1e75f5a870",
+    "title": "2025 Data Science Internship - Safety Identity Science",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1741648404,
+    "date_posted": 1741648404,
+    "url": "https://www.uber.com/global/en/careers/list/141077/",
+    "locations": [
+      "SF"
+    ],
+    "company_url": "https://simplify.jobs/c/Uber",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Uber",
+    "id": "ec9ef261-dcb9-4686-845e-368717066f92",
+    "title": "2025 Data Science Internship - Safety Identity Science",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1741648354,
+    "date_posted": 1741648354,
+    "url": "https://university-uber.icims.com/jobs/141077/job",
+    "locations": [
+      "SF"
+    ],
+    "company_url": "https://simplify.jobs/c/Uber",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "RELX",
+    "id": "6b9386af-75eb-40c1-bbca-afdab18cca4f",
+    "title": "Research Networks Data Analyst Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1741648854,
+    "date_posted": 1741648854,
+    "url": "https://relx.wd3.myworkdayjobs.com/en-US/relx/job/New-York/Research-Networks-Data-Analyst-Intern_R91433-1",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/1495091e-1f19-4c30-a48a-5afa4aa5e7dd",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Global Payments",
+    "id": "5b2adfd7-5632-4fd7-ac44-1ee86bbc5fc0",
+    "title": "Data Analyst Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1741649370,
+    "date_posted": 1741649370,
+    "url": "https://tsys.wd1.myworkdayjobs.com/TSYS/job/Alpharetta-Georgia-USA/Data-Analyst-Intern_R0059646",
+    "locations": [
+      "Alpharetta, GA"
+    ],
+    "company_url": "https://simplify.jobs/c/Global-Payments",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
