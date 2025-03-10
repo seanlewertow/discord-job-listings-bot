@@ -59629,5 +59629,24 @@
     "company_url": "https://simplify.jobs/c/Nutanix",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Elsevier",
+    "id": "866c8c40-2aea-44f4-89d4-36b50d89ad7a",
+    "title": "Data Scientist Health Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1741620321,
+    "date_posted": 1741620321,
+    "url": "https://relx.wd3.myworkdayjobs.com/ElsevierJobs/job/New-York/Data-Scientist-Health-Intern_R91266",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/Elsevier",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
