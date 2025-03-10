@@ -59823,5 +59823,45 @@
     "company_url": "https://simplify.jobs/c/TD-Bank",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Rolls Royce",
+    "id": "7628b7c7-5503-45e2-bff8-50bd8813a244",
+    "title": "Rolls-Royce Undergraduate of the Year \u2013 Summer Internship - Invite Only",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1741634826,
+    "date_posted": 1741634826,
+    "url": "https://rollsroyce.wd3.myworkdayjobs.com/Intern_Graduate/job/Derby/Rolls-Royce-Undergraduate-of-the-Year-2025---Summer-Internship--INVITE-ONLY-_JR6135221",
+    "locations": [
+      "Solihull, UK",
+      "Derby, UK",
+      "Bristol, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Rolls-Royce",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Ventas Inc",
+    "id": "5d45848d-8dcd-4fc7-9180-e53f265ed758",
+    "title": "Intern \u2013 Software Engineering",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1741634696,
+    "date_posted": 1741634696,
+    "url": "https://ventas.wd1.myworkdayjobs.com/en-US/ventas_careers/job/IL---Chicago/Intern--Software-Engineering--Summer-2025-_R0001113",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/a2fd660a-bdbb-4434-8768-68c94e322d25",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
