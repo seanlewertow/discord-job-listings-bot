@@ -60228,5 +60228,105 @@
     "company_url": "https://simplify.jobs/c/Nokia",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "GE Aerospace",
+    "id": "821d6aa3-adc3-4c89-8355-f2820dacd8fa",
+    "title": "Engineering Engines Co-op - Computer or Software Engineering - Returning Students",
+    "active": true,
+    "terms": [
+      "Fall 2026"
+    ],
+    "date_updated": 1741734402,
+    "date_posted": 1741734402,
+    "url": "https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Evendale/Engineering-Engines-Co-op---Computer-or-Software-Engineering---US---Fall-2026---Returning-Students_R5004200-1",
+    "locations": [
+      "Saugus, MA",
+      "Cincinnati, OH"
+    ],
+    "company_url": "https://simplify.jobs/c/GE-Aerospace",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "GE Aerospace",
+    "id": "428a9796-35b6-495d-89bf-101a1f45ef19",
+    "title": "Digital Technology Co-op",
+    "active": true,
+    "terms": [
+      "Fall 2026"
+    ],
+    "date_updated": 1741734402,
+    "date_posted": 1741734402,
+    "url": "https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Evendale/Digital-Technology-Co-op---US---Fall-2026---Returning-Students_R5004190-1",
+    "locations": [
+      "Detroit, MI",
+      "Cincinnati, OH"
+    ],
+    "company_url": "https://simplify.jobs/c/GE-Aerospace",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "GE Aerospace",
+    "id": "23a6a187-d8d4-4014-97bd-e1c3ba5a5182",
+    "title": "Digital Technology Co-op",
+    "active": true,
+    "terms": [
+      "Spring 2026"
+    ],
+    "date_updated": 1741734397,
+    "date_posted": 1741734397,
+    "url": "https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Evendale/Digital-Technology-Co-op---US---Spring-2026---Returning-Students_R5004188",
+    "locations": [
+      "Detroit, MI",
+      "Cincinnati, OH"
+    ],
+    "company_url": "https://simplify.jobs/c/GE-Aerospace",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "GE Aerospace",
+    "id": "0fba8338-ebe0-4c46-92cd-3a95ce3bdc3c",
+    "title": "Engineering Engines Co-op - Computer or Software Engineering - Returning Students",
+    "active": true,
+    "terms": [
+      "Spring 2026"
+    ],
+    "date_updated": 1741734388,
+    "date_posted": 1741734388,
+    "url": "https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Evendale/Engineering-Engines-Co-op---Computer-or-Software-Engineering---US---Spring-2026---Returning-Students_R5004198-1",
+    "locations": [
+      "Saugus, MA",
+      "Cincinnati, OH"
+    ],
+    "company_url": "https://simplify.jobs/c/GE-Aerospace",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "GE Aerospace",
+    "id": "1b116f8b-0504-42e9-bf98-4b3cd561d366",
+    "title": "GE Aerospace Engineering Engines Computer or Software Engineering Intern - Returning Students",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1741734388,
+    "date_posted": 1741734388,
+    "url": "https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Evendale/GE-Aerospace-Engineering-Engines-Computer-or-Software-Engineering-Intern---Fall-2025---Returning-Students_R3755647-1",
+    "locations": [
+      "Saugus, MA",
+      "Cincinnati, OH"
+    ],
+    "company_url": "https://simplify.jobs/c/GE-Aerospace",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
