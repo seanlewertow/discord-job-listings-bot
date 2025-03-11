@@ -60152,5 +60152,24 @@
     "company_url": "https://simplify.jobs/c/Wordware",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "City of Charlotte",
+    "id": "7a8888e5-4fcc-4e47-993a-dc40914648ea",
+    "title": "Data Analytics Summer Internship",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1741706099,
+    "date_posted": 1741706099,
+    "url": "https://charlottenc.wd12.myworkdayjobs.com/citgov/job/CLTW-Brookshire/Data-Analytics-Summer-Internship_JR101424",
+    "locations": [
+      "Charlotte, NC"
+    ],
+    "company_url": "https://simplify.jobs/c/City-Of-Charlotte",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
