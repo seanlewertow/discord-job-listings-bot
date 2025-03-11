@@ -60171,5 +60171,43 @@
     "company_url": "https://simplify.jobs/c/City-Of-Charlotte",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Leidos",
+    "id": "04d057ce-4163-47e4-b0a2-20da45bb0977",
+    "title": "Data Strategy & Transformation Intern",
+    "active": true,
+    "terms": [
+      "Spring 2025"
+    ],
+    "date_updated": 1741707390,
+    "date_posted": 1741707390,
+    "url": "https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Data-Strategy---Transformation-Intern_R-00155124",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/Leidos",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "NineDot Energy",
+    "id": "dd086b6d-b312-498c-b630-4ec3a1634ea4",
+    "title": "Intern \u2013 Data Engineering",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1741705595,
+    "date_posted": 1741705595,
+    "url": "https://job-boards.greenhouse.io/ninedotholdingsinc/jobs/4538618005",
+    "locations": [
+      "Brooklyn, NY"
+    ],
+    "company_url": "https://simplify.jobs/c/NineDotEnergy",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
