@@ -60328,5 +60328,62 @@
     "company_url": "https://simplify.jobs/c/GE-Aerospace",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Copart",
+    "id": "cb193373-5615-4c80-a2c5-58a7e605922d",
+    "title": "Software Engineering Intern",
+    "active": true,
+    "terms": [
+      "Spring 2025"
+    ],
+    "date_updated": 1741735596,
+    "date_posted": 1741735596,
+    "url": "https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR101097-1",
+    "locations": [
+      "Dallas, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Copart",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "PTC",
+    "id": "af450be5-e3b3-40dc-8c92-320efb924c2d",
+    "title": "Software Development Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1741735576,
+    "date_posted": 1741735576,
+    "url": "https://ptc.wd1.myworkdayjobs.com/ptc/job/Boston-MA-USA/Software-Development-Intern_JR109063",
+    "locations": [
+      "Boston, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/PTC",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Magna",
+    "id": "40006abf-b2fd-4ea0-a9ba-fc77d6116bd1",
+    "title": "Embedded Software Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1741735367,
+    "date_posted": 1741735367,
+    "url": "https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Troy-Michigan-US/Embedded-Software-Intern_R00178311",
+    "locations": [
+      "Troy, MI"
+    ],
+    "company_url": "https://simplify.jobs/c/Magna",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
