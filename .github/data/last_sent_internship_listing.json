@@ -60385,5 +60385,62 @@
     "company_url": "https://simplify.jobs/c/Magna",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Leidos",
+    "id": "97ebef54-d514-478d-9d7b-2441093d244a",
+    "title": "System Engineer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1741736355,
+    "date_posted": 1741736355,
+    "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Arlington-VA/System-Engineer-Intern_R-00155173",
+    "locations": [
+      "Arlington, VA"
+    ],
+    "company_url": "https://simplify.jobs/c/Leidos",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Leidos",
+    "id": "95ca9c37-f764-42b8-8f57-7a51e920d7e8",
+    "title": "Software Engineer Intern",
+    "active": true,
+    "terms": [
+      "Spring 2025"
+    ],
+    "date_updated": 1741736352,
+    "date_posted": 1741736352,
+    "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Tewksbury-MA/Software-Engineer-Intern_R-00154900",
+    "locations": [
+      "Tewksbury, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/Leidos",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "RTX",
+    "id": "a391ee1a-236b-4240-b131-7fbb1bcc58d5",
+    "title": "Intern: Statistical and Mathematical Analysis",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1741736121,
+    "date_posted": 1741736121,
+    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/UT13-RC-CT---Corp-411-Silver-Lane-East-Hartford-CT-06108-USA/Summer-2025--Intern--Statistical-and-Mathematical-Analysis-for-Microelectronics--Remote-_01756412",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/RTX",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
