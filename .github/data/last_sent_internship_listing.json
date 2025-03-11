@@ -60209,5 +60209,24 @@
     "company_url": "https://simplify.jobs/c/NineDotEnergy",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Nokia",
+    "id": "9a0d3bf2-cd67-43fa-bfd7-2e4b626038f1",
+    "title": "Automation & AI/ML Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1741705777,
+    "date_posted": 1741705777,
+    "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/job/17139",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/Nokia",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
