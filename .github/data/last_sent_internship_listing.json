@@ -60054,5 +60054,63 @@
     "company_url": "https://simplify.jobs/c/Global-Payments",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "The Walt Disney Company",
+    "id": "5c1e4c48-6c8e-42e4-b724-386cb5fc6a51",
+    "title": "Data Science Grad Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1741663914,
+    "date_posted": 1741663914,
+    "url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Santa-Monica-CA-USA/Data-Science-Grad-Intern--Summer-2025_10103985",
+    "locations": [
+      "Santa Monica, CA",
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Disney",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Sony Pictures Entertainment",
+    "id": "ba3bb0dd-a21c-4864-9241-d7058a363cd0",
+    "title": "People Analytics Intern - People & Organization",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1741663242,
+    "date_posted": 1741663242,
+    "url": "https://spe.wd1.myworkdayjobs.com/en-US/SonyPicturesEntertainment/job/Culver-City-California/People-Analytics-Intern--People---Organization---Summer-2025_JR106222",
+    "locations": [
+      "Culver City, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/cba19b9c-c87b-4670-905f-598655ed2801",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Gesture",
+    "id": "14692d90-caf8-4769-8e56-061c79b316a0",
+    "title": "Data Marketing Engineer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1741664445,
+    "date_posted": 1741664445,
+    "url": "https://gesture-us-inc.breezy.hr/p/b5169adb8cca/apply",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/50f4de28-242d-4456-950c-e71d73d15169",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
