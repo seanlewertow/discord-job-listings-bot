@@ -60112,5 +60112,26 @@
     "company_url": "https://simplify.jobs/c/50f4de28-242d-4456-950c-e71d73d15169",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "ASML",
+    "id": "f03eac5d-bcdd-4ee9-ad61-c54b0fb8928d",
+    "title": "People Analytics Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1741662948,
+    "date_posted": 1741662948,
+    "url": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Jose-CA-USA/People-Analytics-Intern_J-00316996",
+    "locations": [
+      "San Jose, CA",
+      "Chandler, AZ",
+      "San Diego, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/ASML",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
