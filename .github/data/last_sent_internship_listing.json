@@ -60133,5 +60133,24 @@
     "company_url": "https://simplify.jobs/c/ASML",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Wordware",
+    "id": "8f8c1a37-bc92-493f-a9f0-fea8cfd65030",
+    "title": "Engineering intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1741677058,
+    "date_posted": 1741677058,
+    "url": "https://jobs.ashbyhq.com/wordware.ai/07dc0d12-1efc-4a70-8375-a171578ed7ca/application",
+    "locations": [
+      "SF"
+    ],
+    "company_url": "https://simplify.jobs/c/Wordware",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
