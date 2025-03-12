@@ -60863,5 +60863,62 @@
     "date_posted": 1741801657,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Point72",
+    "id": "973aae71-2f10-4f4c-b282-b65cd85bf3e6",
+    "title": "Data Engineer Internship - Long/Short Equities",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1741821294,
+    "date_posted": 1741821294,
+    "url": "https://job-boards.greenhouse.io/point72/jobs/7909020002",
+    "locations": [
+      "London, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Point72",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Samsung",
+    "id": "70bd9404-e260-4409-af37-83eee7a3e33c",
+    "title": "Samsung Ads \u2013 Intern - Client Engineer",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1741821162,
+    "date_posted": 1741821162,
+    "url": "https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/6625-Excellence-Way-Plano-TX-USA/Samsung-Ads---Intern---Client-Engineer_R101520",
+    "locations": [
+      "Plano, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Samsung",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Jobber",
+    "id": "88356d69-fc5c-4059-8b6c-5556c699c0a1",
+    "title": "Software Engineering Intern",
+    "active": true,
+    "terms": [
+      "Spring 2025"
+    ],
+    "date_updated": 1741821124,
+    "date_posted": 1741821124,
+    "url": "https://boards.greenhouse.io/jobber/jobs/7900058002",
+    "locations": [
+      "Remote in Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Jobber",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
