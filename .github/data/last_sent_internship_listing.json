@@ -60577,5 +60577,100 @@
     "company_url": "https://simplify.jobs/c/RippleMatch",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "RippleMatch",
+    "id": "2f31c132-0f65-4c34-bee0-4f7a9c5a1656",
+    "title": "Machine Learning Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1741749816,
+    "date_posted": 1741749816,
+    "url": "https://job-boards.greenhouse.io/ripplematchinterns/jobs/7895041002",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/RippleMatch",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "RippleMatch",
+    "id": "da387404-9cc0-4e04-88a8-f0b5756ee479",
+    "title": "Data Analyst Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1741749762,
+    "date_posted": 1741749762,
+    "url": "https://job-boards.greenhouse.io/ripplematchinterns/jobs/7887281002",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/RippleMatch",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "RippleMatch",
+    "id": "826ff089-cc7f-435f-9d99-53b76d771ce4",
+    "title": "Innotech Summer Undergraduate Internship - Pharmacy & Consumer Wellness Tech - Software Engineer",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1741749763,
+    "date_posted": 1741749763,
+    "url": "https://job-boards.greenhouse.io/ripplematchinterns/jobs/7900916002",
+    "locations": [
+      "Smithfield, RI"
+    ],
+    "company_url": "https://simplify.jobs/c/RippleMatch",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "RippleMatch",
+    "id": "cc479918-c2d7-498b-9c30-256ccac24020",
+    "title": "Data Analyst Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1741749762,
+    "date_posted": 1741749762,
+    "url": "https://job-boards.greenhouse.io/ripplematchinterns/jobs/7887285002",
+    "locations": [
+      "Washington, DC"
+    ],
+    "company_url": "https://simplify.jobs/c/RippleMatch",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Harmonic",
+    "id": "1f0c7ce4-134d-4b9b-bd06-790489329bee",
+    "title": "Research Engineer \u2013 Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1741749619,
+    "date_posted": 1741749619,
+    "url": "https://jobs.ashbyhq.com/Harmonic/4c9a9e3e-6ff6-4e08-8a36-6cf57cb3ea1f/application",
+    "locations": [
+      "Palo Alto, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Harmonic-Math",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
