@@ -60461,5 +60461,102 @@
     "company_url": "https://simplify.jobs/c/Genies",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "RippleMatch",
+    "id": "f013aa3e-78b0-419e-b9e8-fcd1b67d467b",
+    "title": "Innotech Summer Undergraduate Internship - Pharmacy Services - Software Engineer",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1741749763,
+    "date_posted": 1741749763,
+    "url": "https://job-boards.greenhouse.io/ripplematchinterns/jobs/7901137002",
+    "locations": [
+      "Smithfield, RI"
+    ],
+    "company_url": "https://simplify.jobs/c/RippleMatch",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "RippleMatch",
+    "id": "ec765fed-e532-453c-8133-58cf0badfb86",
+    "title": "Data Analyst Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1741749762,
+    "date_posted": 1741749762,
+    "url": "https://job-boards.greenhouse.io/ripplematchinterns/jobs/7887292002",
+    "locations": [
+      "Pittsburgh, PA"
+    ],
+    "company_url": "https://simplify.jobs/c/RippleMatch",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "RippleMatch",
+    "id": "29f26dea-8fb3-425f-9b30-f16bdd6097fb",
+    "title": "Innotech Summer Undergraduate Internship - Aetna Tech - Software Engineer",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1741749760,
+    "date_posted": 1741749760,
+    "url": "https://job-boards.greenhouse.io/ripplematchinterns/jobs/7901108002",
+    "locations": [
+      "Smithfield, RI"
+    ],
+    "company_url": "https://simplify.jobs/c/RippleMatch",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "RippleMatch",
+    "id": "e78a7495-c68a-4d9c-9363-528467360e9c",
+    "title": "Database Engineering IT Summer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1741749745,
+    "date_posted": 1741749745,
+    "url": "https://job-boards.greenhouse.io/ripplematchinterns/jobs/7884270002",
+    "locations": [
+      "Greensboro, NC"
+    ],
+    "company_url": "https://simplify.jobs/c/RippleMatch",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Rivian",
+    "id": "f761b105-5280-40dc-8ecb-5e1e5aac0e63",
+    "title": "Intern - Embedded Systems Software Engineer",
+    "active": true,
+    "terms": [
+      "Summer 2025",
+      "Fall 2025",
+      "Spring 2026"
+    ],
+    "date_updated": 1741749654,
+    "date_posted": 1741749654,
+    "url": "https://careers.rivian.com/jobs/22736?lang=en-us&icims=1",
+    "locations": [
+      "Urbana, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/Rivian",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
