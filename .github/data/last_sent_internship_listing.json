@@ -60558,5 +60558,24 @@
     "company_url": "https://simplify.jobs/c/Rivian",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "RippleMatch",
+    "id": "97d5ab31-1fea-435d-a848-7da0243e86a3",
+    "title": "Marketing Analytics Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1741749818,
+    "date_posted": 1741749818,
+    "url": "https://job-boards.greenhouse.io/ripplematchinterns/jobs/7899871002",
+    "locations": [
+      "Austin, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/RippleMatch",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
