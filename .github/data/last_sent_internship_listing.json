@@ -60442,5 +60442,24 @@
     "company_url": "https://simplify.jobs/c/RTX",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Genies",
+    "id": "51dadaab-4a53-4690-abaa-8a100a534c1d",
+    "title": "Backend Engineer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1741735479,
+    "date_posted": 1741735479,
+    "url": "https://job-boards.greenhouse.io/genies/jobs/6506648003",
+    "locations": [
+      "San Mateo, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Genies",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
