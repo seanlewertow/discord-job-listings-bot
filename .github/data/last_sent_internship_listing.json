@@ -60825,5 +60825,43 @@
     "company_url": "https://simplify.jobs/c/Applied-Materials",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "date_updated": 1741801612,
+    "url": "https://www.gd.com/careers/intern-software-engineer-scottsdale-az-us-2025-65492-gdms-opportunity",
+    "company_name": "General Dynamics",
+    "title": "Intern, Software Engineer",
+    "locations": [
+      "Scottsdale, AZ"
+    ],
+    "terms": [
+      "Summer 2025"
+    ],
+    "sponsorship": "U.S. Citizenship is Required",
+    "active": true,
+    "source": "Shaunak-Sinha-05",
+    "id": "6a5f6380-7601-4c28-ae14-aa47f28afa41",
+    "date_posted": 1741801404,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1741801790,
+    "url": "https://www.gd.com/careers/software-intern-engineer-florham-park-nj-us-2025-65566-gdms-opportunity",
+    "company_name": "General Dynamics",
+    "title": "Software Intern Engineer",
+    "locations": [
+      "Florham Park, NJ"
+    ],
+    "terms": [
+      "Summer 2025"
+    ],
+    "sponsorship": "U.S. Citizenship is Required",
+    "active": true,
+    "source": "Shaunak-Sinha-05",
+    "id": "190cb6f9-db32-4731-bf29-65794d1963e7",
+    "date_posted": 1741801657,
+    "company_url": "",
+    "is_visible": true
   }
 ]
