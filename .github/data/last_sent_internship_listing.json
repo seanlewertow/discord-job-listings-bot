@@ -60672,5 +60672,100 @@
     "company_url": "https://simplify.jobs/c/Harmonic-Math",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "RippleMatch",
+    "id": "60c83e31-cea5-4830-ae4b-0b0d743005b4",
+    "title": "Investment Analyst Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1741749800,
+    "date_posted": 1741749800,
+    "url": "https://job-boards.greenhouse.io/ripplematchinterns/jobs/7894561002",
+    "locations": [
+      "Dallas, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/RippleMatch",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "RippleMatch",
+    "id": "f09300e7-335b-440a-8e2f-6f3c178f33e0",
+    "title": "Machine Learning Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1741749818,
+    "date_posted": 1741749818,
+    "url": "https://job-boards.greenhouse.io/ripplematchinterns/jobs/7894663002",
+    "locations": [
+      "SF"
+    ],
+    "company_url": "https://simplify.jobs/c/RippleMatch",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "RippleMatch",
+    "id": "1f3099e6-4609-4e77-8864-b1d8afdf8189",
+    "title": "Innotech Summer Undergraduate Internship - Aetna Tech - Aetna Health Digital",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1741749763,
+    "date_posted": 1741749763,
+    "url": "https://job-boards.greenhouse.io/ripplematchinterns/jobs/7901128002",
+    "locations": [
+      "Scottsdale, AZ"
+    ],
+    "company_url": "https://simplify.jobs/c/RippleMatch",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "RippleMatch",
+    "id": "7ef523f0-dbf6-463e-9f05-7837f3088539",
+    "title": "Innotech Summer Undergraduate Internship - Enterprise Delivery - Finance Technology & Corporate Systems",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1741749766,
+    "date_posted": 1741749766,
+    "url": "https://job-boards.greenhouse.io/ripplematchinterns/jobs/7900942002",
+    "locations": [
+      "Scottsdale, AZ"
+    ],
+    "company_url": "https://simplify.jobs/c/RippleMatch",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "RippleMatch",
+    "id": "121751f2-a272-481a-84a3-8835b0b62fb6",
+    "title": "Data Analyst Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1741749762,
+    "date_posted": 1741749762,
+    "url": "https://job-boards.greenhouse.io/ripplematchinterns/jobs/7887287002",
+    "locations": [
+      "Houston, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/RippleMatch",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
