@@ -60920,5 +60920,102 @@
     "company_url": "https://simplify.jobs/c/Jobber",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Arrowstreet Capital",
+    "id": "76371c4b-a080-42ca-92cb-995df056e7ef",
+    "title": "Research Systems Software Engineer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1741821820,
+    "date_posted": 1741821820,
+    "url": "https://arrowstreetcapital.wd5.myworkdayjobs.com/en-US/Arrowstreet/job/Boston/Research-Systems-Software-Engineer-Intern--Summer-2025_R1268",
+    "locations": [
+      "Boston, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/Arrowstreet-Capital",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Keysight Technologies, Inc.",
+    "id": "4a951b5b-6a10-4594-83f9-fd72c61f12a2",
+    "title": "R&D Software Engineering Internship",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1741821808,
+    "date_posted": 1741821808,
+    "url": "https://jobs.keysight.com/jobs/47218?lang=en-us&icims=1",
+    "locations": [
+      "Santa Rosa, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Keysight-Technologies-Inc",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Rockwell Automation",
+    "id": "e172c73a-4611-448a-8bdf-eb9c179157a3",
+    "title": "Robot Platform Software Developer Intern",
+    "active": true,
+    "terms": [
+      "Spring 2025",
+      "Summer 2025"
+    ],
+    "date_updated": 1741821717,
+    "date_posted": 1741821717,
+    "url": "https://rockwellautomation.wd1.myworkdayjobs.com/en-US/External_Rockwell_Automation/job/Kitchener-Ontario-Canada/Robot-Platform-Software-Developer-Intern_R25-2157-1",
+    "locations": [
+      "Kitchener, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Rockwell-Automation",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "C&S Wholesale Grocers",
+    "id": "0967f964-d077-4ba9-9450-e82270e19191",
+    "title": "Supply Chain Analytics Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1741821706,
+    "date_posted": 1741821706,
+    "url": "https://cswg.wd1.myworkdayjobs.com/cs_careers/job/Keene-NH/Supply-Chain-Analytics-Intern---Summer-2025_R-258942",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/CS-Wholesale-Grocers",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Sierra Nevada Coporation",
+    "id": "3dbc0f96-5054-4a7e-9177-c06053f332cd",
+    "title": "Software Engineer Intern",
+    "active": true,
+    "terms": [
+      "Spring 2025",
+      "Summer 2025"
+    ],
+    "date_updated": 1741821672,
+    "date_posted": 1741821672,
+    "url": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Lone-Tree-CO/Software-Engineer-Intern_R0026999",
+    "locations": [
+      "Lone Tree, CO"
+    ],
+    "company_url": "https://simplify.jobs/c/Sierra-Nevada-Coporation",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
