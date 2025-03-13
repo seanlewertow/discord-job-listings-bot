@@ -62104,5 +62104,102 @@
     "company_url": "https://simplify.jobs/c/Detroit-Lions",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Applied Materials",
+    "id": "bbafc2e5-7c6b-4416-a96c-95228f3eaadb",
+    "title": "Data Scientist Intern",
+    "active": true,
+    "terms": [
+      "Spring 2025"
+    ],
+    "date_updated": 1741908829,
+    "date_posted": 1741908829,
+    "url": "https://amat.wd1.myworkdayjobs.com/en-US/External/job/Home--MobileBay-AreaCA-002/Data-Scientist-Intern_R2512264-1",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/Applied-Materials",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "NVIDIA",
+    "id": "d2cd5a1b-e44b-465a-963e-dd3c86801045",
+    "title": "Performance Engineer Intern - Gaming",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1741908790,
+    "date_posted": 1741908790,
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-MO-St-Louis/Performance-Engineer-Intern--Gaming---Summer-2025_JR1994617",
+    "locations": [
+      "St. Louis, MO"
+    ],
+    "company_url": "https://simplify.jobs/c/NVIDIA",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "KBR",
+    "id": "63f85fc1-e3e1-46b4-be37-3684352f0c92",
+    "title": "Software Engineering Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1741908536,
+    "date_posted": 1741908536,
+    "url": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Carlsbad-California/Software-Engineering-Intern_R2103496",
+    "locations": [
+      "Carlsbad, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/KBR",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "United Parcel Service (UPS)",
+    "id": "ea30359c-4329-4588-ab60-2e32bbf8aebe",
+    "title": "Engineering Co-Op",
+    "active": true,
+    "terms": [
+      "Summer 2025",
+      "Fall 2025"
+    ],
+    "date_updated": 1741908671,
+    "date_posted": 1741908671,
+    "url": "https://hcmportal.wd5.myworkdayjobs.com/en-US/Search/job/US---OUTERLOOP-BUILDING-5-KYLSE/Engineering-Co-Op_R25006135",
+    "locations": [
+      "United States"
+    ],
+    "company_url": "https://simplify.jobs/c/United-Parcel-Service",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "United Parcel Service (UPS)",
+    "id": "c9825c48-b3fa-4d7f-adb2-0eadd52c7b24",
+    "title": "Engineering Co-Op",
+    "active": true,
+    "terms": [
+      "Summer 2025",
+      "Fall 2025"
+    ],
+    "date_updated": 1741908670,
+    "date_posted": 1741908670,
+    "url": "https://hcmportal.wd5.myworkdayjobs.com/en-US/Search/job/US---SCS-HEBRON-BLDG-K---2741-KYHBR/Engineering-Co-Op-GLD_R25006141",
+    "locations": [
+      "United States"
+    ],
+    "company_url": "https://simplify.jobs/c/United-Parcel-Service",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
