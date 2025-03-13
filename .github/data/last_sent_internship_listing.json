@@ -61703,5 +61703,100 @@
     "company_url": "https://simplify.jobs/c/Optiver",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Optiver",
+    "id": "c972adeb-f5d4-43be-8fa9-6bbd5187d996",
+    "title": "Quantitative Researcher Internship",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1741833429,
+    "date_posted": 1741833429,
+    "url": "https://job-boards.greenhouse.io/optiverprivate/jobs/7660227002",
+    "locations": [
+      "Sydney NSW, Australia"
+    ],
+    "company_url": "https://simplify.jobs/c/Optiver",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Zeiss",
+    "id": "15822ef5-e72b-4081-a59f-704d3017643a",
+    "title": "Internship or Working Student in 3D Computer Vision",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1741833061,
+    "date_posted": 1741833061,
+    "url": "https://zeissgroup.wd3.myworkdayjobs.com/External/job/Oberkochen/Internship-or-Working-Student-in-3D-Computer-Vision_JR_1023225-3",
+    "locations": [
+      "Ansbach, Germany"
+    ],
+    "company_url": "https://simplify.jobs/c/Zeiss",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "FactSet",
+    "id": "b4c36946-5598-4f33-82b1-2abf47bd4826",
+    "title": "Engineering Internship - Back-End Developer",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1741831533,
+    "date_posted": 1741831533,
+    "url": "https://factset.wd1.myworkdayjobs.com/en-US/FactSetCareers/job/France-Paris-32-rue-Blanche/Full-Stack-Developer--Internship-_R25731-2",
+    "locations": [
+      "Paris, France"
+    ],
+    "company_url": "https://simplify.jobs/c/070f3806-d132-4f78-8320-b7048399142c",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Jump Trading",
+    "id": "350bf0b8-23de-45e7-bb89-de733d44026f",
+    "title": "Campus Software Engineer \u2013 Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1741833402,
+    "date_posted": 1741833402,
+    "url": "https://boards.greenhouse.io/embed/job_app?token=6648751",
+    "locations": [
+      "Sydney NSW, Australia"
+    ],
+    "company_url": "https://simplify.jobs/c/Jump-Trading",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Marsh & McLennan",
+    "id": "c8497424-4b9b-43cc-b713-672ac36ac76b",
+    "title": "Oliver Wyman \u2013 Data & Analytics Internship",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1741833409,
+    "date_posted": 1741833409,
+    "url": "https://mmc.wd1.myworkdayjobs.com/en-US/MMC/job/Milan---Broletto/Oliver-Wyman---Data---Analytics-Internship---Italy_R_275566-1",
+    "locations": [
+      "Milan, Metropolitan City of Milan, Italy"
+    ],
+    "company_url": "https://simplify.jobs/c/Marsh-McLennan",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
