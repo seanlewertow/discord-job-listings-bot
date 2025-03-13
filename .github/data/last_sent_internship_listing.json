@@ -61112,5 +61112,24 @@
     "company_url": "https://simplify.jobs/c/BMO",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Hewlett Packard (HP)",
+    "id": "f4673cc5-11b5-4d75-b66c-e9f0a01338db",
+    "title": "Data Analysis Intern - Sales",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1741821686,
+    "date_posted": 1741821686,
+    "url": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Spring-Texas-United-States-of-America/Data-Analysis-Intern---Sales_3148590",
+    "locations": [
+      "Houston, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Hewlett-Packard",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
