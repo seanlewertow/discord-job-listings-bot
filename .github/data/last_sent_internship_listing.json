@@ -61511,5 +61511,102 @@
     "company_url": "https://simplify.jobs/c/Snowflake",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Zeiss",
+    "id": "e88a7f04-9a38-405c-a1ba-411e0d7f4d7c",
+    "title": "Internship in Machine Learning Research",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1741833018,
+    "date_posted": 1741833018,
+    "url": "https://zeissgroup.wd3.myworkdayjobs.com/External/job/Oberkochen/Internship-in-Machine-Learning-Research_JR_1038845-2",
+    "locations": [
+      "Jena, Germany",
+      "Ansbach, Germany"
+    ],
+    "company_url": "https://simplify.jobs/c/Zeiss",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Hewlett Packard Enterprise",
+    "id": "3608cb2a-95b9-45e9-acfc-014723dea167",
+    "title": "Linux Software Engineering Internship",
+    "active": true,
+    "terms": [
+      "Spring 2025"
+    ],
+    "date_updated": 1741832349,
+    "date_posted": 1741832349,
+    "url": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Galway-Galway-Ireland/Linux-Software-Engineering-Internship_1180000",
+    "locations": [
+      "Minna, Inverin, Co. Galway, Ireland"
+    ],
+    "company_url": "https://simplify.jobs/c/Hewlett-Packard-Enterprise",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Glovo",
+    "id": "5b806ee6-01f0-41e4-84e5-bc01a92f7a41",
+    "title": "Data Analyst Intern - Regional Operations",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1741833423,
+    "date_posted": 1741833423,
+    "url": "https://jobs.glovoapp.com/find-your-ride/job/:slug/7460552002/?gh_jid=7460552002",
+    "locations": [
+      "Sant Cugat del Vall\u00e8s, Barcelona, Spain"
+    ],
+    "company_url": "https://simplify.jobs/c/Glovo",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "EDFT",
+    "id": "18ec69e3-debf-4f45-943d-d081112ffdbb",
+    "title": "Intraday Trading Analyst Internship - Systematic",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1741833275,
+    "date_posted": 1741833275,
+    "url": "https://edftrading.wd1.myworkdayjobs.com/en-US/EDFTrading/job/Paris/Intraday-Trading-Analyst-Internship---Systematic_JR1000991",
+    "locations": [
+      "Paris, France"
+    ],
+    "company_url": "https://simplify.jobs/c/c10f5a92-2ad6-4330-87e0-b70f6f89c490",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Baker Hughes",
+    "id": "5c5ca4f4-cf84-423d-9224-ef75d1398a15",
+    "title": "Working Student/Intern - Deep Learning Image Processing",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1741832515,
+    "date_posted": 1741832515,
+    "url": "https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/DE-BY-GARCHING-SCHLEISSHEIMER-STRABE-92/Working-Student-Intern---Deep-Learning-Image-Processing--m-f-d-_R142180",
+    "locations": [
+      "Lengede, Germany",
+      "Munich, Germany"
+    ],
+    "company_url": "https://simplify.jobs/c/Baker-Hughes",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
