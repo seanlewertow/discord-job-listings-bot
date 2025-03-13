@@ -61608,5 +61608,100 @@
     "company_url": "https://simplify.jobs/c/Baker-Hughes",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Squarespace",
+    "id": "af15263b-b51d-4782-836f-fdcfe9f192eb",
+    "title": "Software Engineering Intern Frontend - Javascript",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1741833279,
+    "date_posted": 1741833279,
+    "url": "http://www.squarespace.com/about/careers?gh_jid=6526565",
+    "locations": [
+      "Dublin, Ireland"
+    ],
+    "company_url": "https://simplify.jobs/c/Squarespace",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Lowe's ",
+    "id": "b65df60e-6edf-44fa-8951-1f6bbe7359d7",
+    "title": "DIH Intern-Tech",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1741834361,
+    "date_posted": 1741834361,
+    "url": "https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Bengaluru/DIH-Intern--Tech_JR-01956632",
+    "locations": [
+      "Bengaluru, Karnataka, India"
+    ],
+    "company_url": "https://simplify.jobs/c/Lowes",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Carrier Global",
+    "id": "87dd7299-354f-4d95-b6cf-646031a68a26",
+    "title": "Intern \u2013 Data Science and Analytics",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1741833285,
+    "date_posted": 1741833285,
+    "url": "https://carrier.wd5.myworkdayjobs.com/jobs/job/Capital-Cyberscape-2nd-Floor-Ullahwas-Sector-59-Gurugram-Haryana-122102/Intern--Data-Science-and-Analytics_30175474",
+    "locations": [
+      "Noida, Uttar Pradesh, India"
+    ],
+    "company_url": "https://simplify.jobs/c/Carrier-Global",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "bunch",
+    "id": "c73d56f6-d1e1-42d8-b976-601aef8f14a0",
+    "title": "Product Engineer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1741831678,
+    "date_posted": 1741831678,
+    "url": "https://jobs.ashbyhq.com/bunch/948e8b3d-d225-43c7-9d76-574a7a1ac292/application",
+    "locations": [
+      "Berlin, Germany"
+    ],
+    "company_url": "https://simplify.jobs/c/Bunch",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Optiver",
+    "id": "edacc1cf-3040-4261-ad6a-620ebc0093ea",
+    "title": "Quantitative Trading Internship",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1741833431,
+    "date_posted": 1741833431,
+    "url": "https://job-boards.greenhouse.io/optiverprivate/jobs/7660224002",
+    "locations": [
+      "Sydney NSW, Australia"
+    ],
+    "company_url": "https://simplify.jobs/c/Optiver",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
