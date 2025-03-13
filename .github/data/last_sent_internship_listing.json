@@ -61912,5 +61912,24 @@
     "company_url": "https://simplify.jobs/c/Arvinas",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "date_updated": 1741840054,
+    "url": "https://livenation.wd1.myworkdayjobs.com/TMExternalSite/job/Beverly-Hills-CA-USA/Software-Engineer-Intern_JR-76685",
+    "company_name": "Ticketmaster",
+    "title": "Software Engineer Intern",
+    "locations": [
+      "Beverly Hills, CA, USA"
+    ],
+    "terms": [
+      "Summer 2025"
+    ],
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "source": "GaryZhous",
+    "id": "fc22a906-3df7-475b-aa03-f1a9b10a8d17",
+    "date_posted": 1741840054,
+    "company_url": "",
+    "is_visible": true
   }
 ]
