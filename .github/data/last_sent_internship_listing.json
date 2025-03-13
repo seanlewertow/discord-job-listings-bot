@@ -61798,5 +61798,100 @@
     "company_url": "https://simplify.jobs/c/Marsh-McLennan",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Tower Research Capital",
+    "id": "8de3c8be-8d86-40a7-8004-fef59039890c",
+    "title": "ML Intern 2025",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1741832587,
+    "date_posted": 1741832587,
+    "url": "https://www.tower-research.com/open-positions/?gh_jid=6114125",
+    "locations": [
+      "Noida, Uttar Pradesh, India"
+    ],
+    "company_url": "https://simplify.jobs/c/Tower-Research-Capital",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Autodesk",
+    "id": "9b694ed9-a590-43d8-a5ef-2511c6e3ed45",
+    "title": "Intern \u2013 Software Engineer - Platform Engineering",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1741831939,
+    "date_posted": 1741831939,
+    "url": "https://autodesk.wd1.myworkdayjobs.com/en-US/uni/job/Dublin-IRL/Intern--Software-Engineer_24WD82065",
+    "locations": [
+      "Dublin, Ireland"
+    ],
+    "company_url": "https://simplify.jobs/c/9a5a4634-d168-4118-b172-0c0aae45f2ad",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Intrinsic",
+    "id": "422cd9f8-947f-452b-ac95-f73471ef3744",
+    "title": "Intern in Software Engineering for Perception Experience Joint Calibration",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1741831601,
+    "date_posted": 1741831601,
+    "url": "https://boards.greenhouse.io/intrinsicrobotics/jobs/5410846004",
+    "locations": [
+      "Munich, Germany"
+    ],
+    "company_url": "https://simplify.jobs/c/IntrinsicAI",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Barclays",
+    "id": "579baf38-dc51-4f53-883c-a21bf3156d38",
+    "title": "Sales \u2013 Trading and Structuring Off Cycle Internship Programme 2025",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1741832588,
+    "date_posted": 1741832588,
+    "url": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/The-Medelan-Building-Milan/Sales--Trading-and-Structuring-Off-Cycle-Internship-Programme-2025-Milan_JR-0000014307",
+    "locations": [
+      "Milan, Metropolitan City of Milan, Italy"
+    ],
+    "company_url": "https://simplify.jobs/c/Barclays",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Glovo",
+    "id": "f9dbc814-5e77-49e1-b71b-a8dbeae88985",
+    "title": "Data Internship Program",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1741833432,
+    "date_posted": 1741833432,
+    "url": "https://jobs.glovoapp.com/find-your-ride/job/:slug/7877904002/?gh_jid=7877904002",
+    "locations": [
+      "Sant Cugat del Vall\u00e8s, Barcelona, Spain"
+    ],
+    "company_url": "https://simplify.jobs/c/Glovo",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
