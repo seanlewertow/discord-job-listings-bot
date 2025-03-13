@@ -61893,5 +61893,24 @@
     "company_url": "https://simplify.jobs/c/Glovo",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Arvinas",
+    "id": "a87ed092-d23d-4966-b4fc-971f208f66c8",
+    "title": "2025 Summer Internship - Computational Chemistry & Artificial Intelligence",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1741850125,
+    "date_posted": 1741850125,
+    "url": "https://job-boards.greenhouse.io/arvinas/jobs/6491254003",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/Arvinas",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
