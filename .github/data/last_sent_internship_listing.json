@@ -62009,5 +62009,100 @@
     "company_url": "https://simplify.jobs/c/Kioxia",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "G2",
+    "id": "5e0938cc-ff5e-4661-9b96-a966aebced27",
+    "title": "Ruby on Rails Software Engineer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1741908093,
+    "date_posted": 1741908093,
+    "url": "https://job-boards.greenhouse.io/g2crowd/jobs/6702352",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/G2",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "MRC Global",
+    "id": "e11593ab-b487-4af5-ad0e-d482ca35c97e",
+    "title": "Summer Intern-Data and Analytics",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1741908061,
+    "date_posted": 1741908061,
+    "url": "https://mrcglobal.wd1.myworkdayjobs.com/mrc_global_careers/job/TXHSTN-HQ012A-HQ/Summer-Intern--Data-and-Analytics_JR107054",
+    "locations": [
+      "Houston, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/MRC-Global",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "G2",
+    "id": "166e7437-a2fd-4264-af9a-d65cc32fdd0c",
+    "title": "Data Analytics Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1741908076,
+    "date_posted": 1741908076,
+    "url": "https://job-boards.greenhouse.io/g2crowd/jobs/6702388",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/G2",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Orthofix",
+    "id": "f82bf2f7-b425-4e5e-9ccb-17f9e813463c",
+    "title": "Intern \u2013 Business Intelligence",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1741908016,
+    "date_posted": 1741908016,
+    "url": "https://orthofix.wd1.myworkdayjobs.com/external_careers/job/Carlsbad/Intern---Business-Intelligence_OFX25120",
+    "locations": [
+      "Carlsbad, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Orthofix",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Detroit Lions",
+    "id": "eb8b5f25-b125-4dc6-88a9-a7af708abfbd",
+    "title": "Football Information Summer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1741907846,
+    "date_posted": 1741907846,
+    "url": "https://job-boards.greenhouse.io/detroitlions/jobs/4531603005",
+    "locations": [
+      "Taylor, MI"
+    ],
+    "company_url": "https://simplify.jobs/c/Detroit-Lions",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
