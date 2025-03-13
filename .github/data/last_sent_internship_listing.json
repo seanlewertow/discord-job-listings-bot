@@ -61931,5 +61931,83 @@
     "date_posted": 1741840054,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Dick's Sporting Goods",
+    "id": "46ba5e52-b0c2-49d3-9b20-6f0f363d0271",
+    "title": "Full Stack Software Engineer Intern - Diamond Sports",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1741907820,
+    "date_posted": 1741907820,
+    "url": "https://dickssportinggoods.wd1.myworkdayjobs.com/en-US/DSG/job/06083-GameChanger/Full-Stack-Software-Engineer-Intern--Diamond-Sports_202504394",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/Dicks-Sporting-Goods",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Amazon",
+    "id": "7a79b4af-74aa-4744-8a16-fc5426620194",
+    "title": "Front-End Engineer AWS Intern",
+    "active": true,
+    "terms": [
+      "Spring 2025",
+      "Summer 2025"
+    ],
+    "date_updated": 1741907302,
+    "date_posted": 1741907302,
+    "url": "https://amazon.jobs/en/jobs/2927162/front-end-engineer-aws-intern",
+    "locations": [
+      "Reston, VA",
+      "Denver, CO"
+    ],
+    "company_url": "https://simplify.jobs/c/Amazon",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Kioxia",
+    "id": "29bdf4e7-34b4-429c-a79a-4d8170989d9b",
+    "title": "Operations Data Analyst Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1741907087,
+    "date_posted": 1741907087,
+    "url": "https://jobs.smartrecruiters.com/Kioxia/744000043810681",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Kioxia",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Kioxia",
+    "id": "ee2764ea-61b9-4b57-b768-674388976897",
+    "title": "Memory Business Unit Analyst Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1741907091,
+    "date_posted": 1741907091,
+    "url": "https://jobs.smartrecruiters.com/Kioxia/744000043800375",
+    "locations": [
+      "Irvine, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Kioxia",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
