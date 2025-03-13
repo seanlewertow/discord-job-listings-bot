@@ -61321,5 +61321,100 @@
     "company_url": "https://simplify.jobs/c/Procter-Gamble-Company",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Boston Consulting Group",
+    "id": "3cfac9ec-daf6-46cd-95d0-cbd7f3ffc86b",
+    "title": "Apprenticeship",
+    "active": true,
+    "terms": [
+      "Winter 2025"
+    ],
+    "date_updated": 1741834762,
+    "date_posted": 1741834762,
+    "url": "https://careers.bcg.com/global/en/job/52488",
+    "locations": [
+      "Paris, France"
+    ],
+    "company_url": "https://simplify.jobs/c/Boston-Consulting-Group",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Keysight Technologies, Inc.",
+    "id": "a14bb2ab-2706-46f6-9341-b04af5ff40ea",
+    "title": "Intern \u2013 m/w/d - V2X software development",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1741832795,
+    "date_posted": 1741832795,
+    "url": "https://jobs.keysight.com/jobs/47000?lang=en-us&icims=1",
+    "locations": [
+      "Lengede, Germany"
+    ],
+    "company_url": "https://simplify.jobs/c/Keysight-Technologies-Inc",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Airbus",
+    "id": "933c79db-0e5b-4f5c-9144-d0fa628ff811",
+    "title": "Internship within High-Lift Component Loads - Deployment of Engineering Applications to Web Service Platform",
+    "active": true,
+    "terms": [
+      "Spring 2025"
+    ],
+    "date_updated": 1741834099,
+    "date_posted": 1741834099,
+    "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Bremen-Area/Internship-within-High-Lift-Component-Loads----Deployment-of-Machine-Learning-Applications-to-Web-Service-Platform--d-f-m-_JR10280439",
+    "locations": [
+      "Cloppenburg, Germany"
+    ],
+    "company_url": "https://simplify.jobs/c/Airbus",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Kognitos",
+    "id": "b7296dbd-670a-4eb6-b6e4-dc3e061f1fb3",
+    "title": "Software Engineer \u2013 Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1741832948,
+    "date_posted": 1741832948,
+    "url": "https://jobs.ashbyhq.com/Kognitos/eb45a269-52b5-4160-8ff4-ab78bf594755/application",
+    "locations": [
+      "Bengaluru, Karnataka, India"
+    ],
+    "company_url": "https://simplify.jobs/c/142611da-5149-464d-b83b-10184af37def",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Symphony",
+    "id": "3180469f-2337-46a3-ae83-c6257f856905",
+    "title": "Apprentice - Software Development",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1741832730,
+    "date_posted": 1741832730,
+    "url": "https://symphony.com/company/apply?gh_jid=6464457",
+    "locations": [
+      "Nice, France"
+    ],
+    "company_url": "https://simplify.jobs/c/Symphony-Comm",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
