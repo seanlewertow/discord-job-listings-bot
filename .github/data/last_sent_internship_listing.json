@@ -61416,5 +61416,100 @@
     "company_url": "https://simplify.jobs/c/Symphony-Comm",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "EDFT",
+    "id": "807e4179-9a06-4cf2-894c-52dcd5373be7",
+    "title": "Intraday Trading Analyst Internship",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1741833275,
+    "date_posted": 1741833275,
+    "url": "https://edftrading.wd1.myworkdayjobs.com/en-US/EDFTrading/job/Paris/Intraday-Trading-Analyst-Internship_JR1000992",
+    "locations": [
+      "Paris, France"
+    ],
+    "company_url": "https://simplify.jobs/c/c10f5a92-2ad6-4330-87e0-b70f6f89c490",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "FactSet",
+    "id": "725563f0-bd9a-477f-b070-62b8f37eba96",
+    "title": "Engineering Internship - Front-End Developer",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1741834335,
+    "date_posted": 1741834335,
+    "url": "https://factset.wd1.myworkdayjobs.com/en-US/FactSetCareers/job/France-Paris-32-rue-Blanche/Engineering-Internship---Front-End-Developer_R26292",
+    "locations": [
+      "Paris, France"
+    ],
+    "company_url": "https://simplify.jobs/c/070f3806-d132-4f78-8320-b7048399142c",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Integral Ad Science",
+    "id": "c8ee8aad-d6e8-4e45-858e-4133693dcdbd",
+    "title": "Machine Learning Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1741832810,
+    "date_posted": 1741832810,
+    "url": "https://ats.comparably.com/api/v1/gh/integraladscience/jobs/6531734?gh_jid=6531734",
+    "locations": [
+      "Paris, France"
+    ],
+    "company_url": "https://simplify.jobs/c/Integral-Ad-Science",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Hewlett Packard Enterprise",
+    "id": "6eb4364c-9e7a-46cd-a7c5-47b4886a3207",
+    "title": "Internship - Software Engineering",
+    "active": true,
+    "terms": [
+      "Winter 2025"
+    ],
+    "date_updated": 1741832376,
+    "date_posted": 1741832376,
+    "url": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Galway-Galway-Ireland/Internship---Software-Engineering_1183459",
+    "locations": [
+      "Minna, Inverin, Co. Galway, Ireland"
+    ],
+    "company_url": "https://simplify.jobs/c/Hewlett-Packard-Enterprise",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Snowflake",
+    "id": "1469ee00-6685-4dac-af20-b4ea9b4283d1",
+    "title": "Software Engineer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1741832110,
+    "date_posted": 1741832110,
+    "url": "https://jobs.ashbyhq.com/snowflake/66a9f775-58bb-4d54-8c09-f46c3125eb2b/application",
+    "locations": [
+      "Berlin, Germany"
+    ],
+    "company_url": "https://simplify.jobs/c/Snowflake",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
