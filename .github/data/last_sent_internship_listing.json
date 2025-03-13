@@ -61131,5 +61131,100 @@
     "company_url": "https://simplify.jobs/c/Hewlett-Packard",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "The Trade Desk",
+    "id": "96769f8c-ecef-4a4c-b6f6-b0896cf294f4",
+    "title": "2025 Software Engineering Internship",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1741831773,
+    "date_posted": 1741831773,
+    "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/4665405007",
+    "locations": [
+      "Sydney NSW, Australia"
+    ],
+    "company_url": "https://simplify.jobs/c/281371f9-4ed3-4440-876f-4bbeaa0d50e0",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "IMC Trading",
+    "id": "8eb42de3-7b3c-46aa-a3b3-4bd6bb4b5b65",
+    "title": "Software Engineer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1741832885,
+    "date_posted": 1741832885,
+    "url": "https://boards.eu.greenhouse.io/imc/jobs/4533620101",
+    "locations": [
+      "Sydney NSW, Australia"
+    ],
+    "company_url": "https://simplify.jobs/c/IMC-Trading",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Hewlett Packard (HP)",
+    "id": "5f3184ba-a0fa-4e79-adea-a00911fd221c",
+    "title": "Internship in Data Analysis and Dashboard Development",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1741833980,
+    "date_posted": 1741833980,
+    "url": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Sant-Cugat-del-Valles-Barcelona-Spain/Internship-in-Data-Analysis-and-Dashboard-Development_UNI1854",
+    "locations": [
+      "Sant Cugat del Vall\u00e8s, Barcelona, Spain"
+    ],
+    "company_url": "https://simplify.jobs/c/Hewlett-Packard",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Mistral AI",
+    "id": "680357a8-e441-4b93-b9a9-1ad540d891db",
+    "title": "Applied AI Engineer \u2013 Internship",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1741833940,
+    "date_posted": 1741833940,
+    "url": "https://jobs.lever.co/mistral/881941e1-2741-48e2-8767-12866965fac5/apply",
+    "locations": [
+      "Paris, France"
+    ],
+    "company_url": "https://simplify.jobs/c/Mistral-AI",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Airbus",
+    "id": "d8522230-b026-4a75-9b3a-d3e63cf4facc",
+    "title": "Intern \u2013 d/f/m",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1741834058,
+    "date_posted": 1741834058,
+    "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Hamburg-Area/Intern--d-f-m--for-Digitalization-Projects_JR10286428",
+    "locations": [
+      "Hamburg, Germany"
+    ],
+    "company_url": "https://simplify.jobs/c/Airbus",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
