@@ -62376,5 +62376,24 @@
     "company_url": "https://simplify.jobs/c/Nutanix",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "OpenX",
+    "id": "6e7049d4-fef9-4666-9db4-a99aef236ab6",
+    "title": "Internship - Atlassian",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1741937301,
+    "date_posted": 1741937301,
+    "url": "https://jobs.lever.co/openx/e3456c91-4686-4a39-a5cf-5c15495615bb/apply",
+    "locations": [
+      "LA"
+    ],
+    "company_url": "https://simplify.jobs/c/OpenX",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
