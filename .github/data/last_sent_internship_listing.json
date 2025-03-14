@@ -62337,5 +62337,24 @@
     "company_url": "https://simplify.jobs/c/Rockwell-Automation",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "date_updated": 1741932875,
+    "url": "https://career4.successfactors.com/career?career_ns=job_listing&company=WestJet&navBarLevel=JOB_SEARCH&rcm_site_locale=en_US&career_job_req_id=100335",
+    "company_name": "WestJet",
+    "title": "Student - Software Developer (Co-op)",
+    "locations": [
+      "Calgary, AB"
+    ],
+    "terms": [
+      "Summer 2025"
+    ],
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "source": "GaryZhous",
+    "id": "f839ace1-1865-4004-8561-b8e2fd8eb637",
+    "date_posted": 1741932875,
+    "company_url": "",
+    "is_visible": true
   }
 ]
