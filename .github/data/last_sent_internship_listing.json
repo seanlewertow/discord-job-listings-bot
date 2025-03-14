@@ -62356,5 +62356,25 @@
     "date_posted": 1741932875,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Nutanix",
+    "id": "e9c38907-4654-4721-a4a4-92c5a2eeb7d9",
+    "title": "Software Engineering Intern - C++/Linux/Multi-threading",
+    "active": true,
+    "terms": [
+      "Spring 2025",
+      "Summer 2025"
+    ],
+    "date_updated": 1741936175,
+    "date_posted": 1741936175,
+    "url": "https://jobs.jobvite.com/nutanix/job/oirkufwh?nl=1&nl=1&fr=false",
+    "locations": [
+      "Durham, NC"
+    ],
+    "company_url": "https://simplify.jobs/c/Nutanix",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
