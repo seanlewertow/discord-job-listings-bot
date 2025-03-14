@@ -62490,5 +62490,43 @@
     "company_url": "https://simplify.jobs/c/372c6250-89ed-4b8e-9000-a81fc94184d8",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Semtech",
+    "id": "ce7b1013-191c-4cf0-8912-302912ec760f",
+    "title": "Software Developer \u2013 Co-op - Web/Cloud Application",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1741980741,
+    "date_posted": 1741980741,
+    "url": "https://semtech.wd1.myworkdayjobs.com/SemtechCareers/job/CAN---Richmond-BC/Software-Developer---Web-Cloud-Application--Co-op_REQ2683-1",
+    "locations": [
+      "Richmond, BC, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Semtech",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Arrowstreet Capital",
+    "id": "b9d80ed7-109c-4ed3-ad1e-09ff48119296",
+    "title": "Frameworks Software Engineer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1741980604,
+    "date_posted": 1741980604,
+    "url": "https://arrowstreetcapital.wd5.myworkdayjobs.com/en-US/Arrowstreet/job/Boston/Frameworks-Software-Engineer-Intern--Summer-2025_R1273",
+    "locations": [
+      "Boston, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/Arrowstreet-Capital",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
