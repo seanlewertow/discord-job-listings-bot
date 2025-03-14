@@ -62201,5 +62201,102 @@
     "company_url": "https://simplify.jobs/c/United-Parcel-Service",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Juvare",
+    "id": "755d91d9-35cc-488b-bc62-bb115cd9d18e",
+    "title": "2025 Summer Internship - GIS Engineer",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1741907971,
+    "date_posted": 1741907971,
+    "url": "https://job-boards.greenhouse.io/juvare/jobs/4535239005",
+    "locations": [
+      "Atlanta, GA",
+      "Fort Wayne, IN"
+    ],
+    "company_url": "https://simplify.jobs/c/Juvare",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Critical Mass",
+    "id": "e13303d6-790e-4408-a5d5-e48d98692c22",
+    "title": "Development Intern",
+    "active": true,
+    "terms": [
+      "Spring 2025",
+      "Summer 2025"
+    ],
+    "date_updated": 1741909156,
+    "date_posted": 1741909156,
+    "url": "https://job-boards.greenhouse.io/criticalmass/jobs/6608203",
+    "locations": [
+      "Toronto, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Critical-Mass",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Nokia",
+    "id": "eaa4109b-f2c0-493a-9009-69d10b4226d0",
+    "title": "Software Developer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1741907623,
+    "date_posted": 1741907623,
+    "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/job/17872",
+    "locations": [
+      "Sunnyvale, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Nokia",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Syntronic",
+    "id": "1e17d1bc-44ab-48f9-b976-f05dc6c1cace",
+    "title": "Software Designer \u2013 Co-op/Summer Student",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1741908651,
+    "date_posted": 1741908651,
+    "url": "https://jobs.lever.co/syntronic/672ec9bb-1374-4e8f-ae73-614ae9d88ddf/apply",
+    "locations": [
+      "Kanata, Ottawa, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Syntronic",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Veolia",
+    "id": "385a7135-3345-46d6-889f-8f0f91caf5b1",
+    "title": "Data Analyst Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1741910512,
+    "date_posted": 1741910512,
+    "url": "https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000046988000",
+    "locations": [
+      "Paramus, NJ"
+    ],
+    "company_url": "https://simplify.jobs/c/Veolia",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
