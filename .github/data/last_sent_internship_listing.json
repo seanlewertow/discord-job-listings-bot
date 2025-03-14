@@ -62683,5 +62683,103 @@
     "company_url": "https://simplify.jobs/c/edmentum",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "SpotHero",
+    "id": "aa9d495b-f7ba-42f3-84a3-8356d595324d",
+    "title": "Mobile Engineer Intern - Android",
+    "active": true,
+    "terms": [
+      "Spring 2025",
+      "Summer 2025"
+    ],
+    "date_updated": 1741995067,
+    "date_posted": 1741995067,
+    "url": "https://spothero.com/careers/6698181/?gh_jid=6698181",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/SpotHero",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Guidewire",
+    "id": "ccf4cc2d-e421-4109-aa6a-922f4872c944",
+    "title": "Consultant Developer Intern",
+    "active": true,
+    "terms": [
+      "Spring 2025",
+      "Summer 2025"
+    ],
+    "date_updated": 1741994977,
+    "date_posted": 1741994977,
+    "url": "https://wd5.myworkdaysite.com/en-US/recruiting/guidewire/external/job/Toronto-Office-Canada/Consultant-Developer-Intern_JR_12770-1",
+    "locations": [
+      "Toronto, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Guidewire",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Salesforce",
+    "id": "0fce5f9b-4149-4a14-a754-2044ae8b4567",
+    "title": "Intern - Data Engineer",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1741994902,
+    "date_posted": 1741994902,
+    "url": "https://salesforce.wd12.myworkdayjobs.com/en-us/External_Career_Site/job/Washington---Seattle/Summer-2025-Intern---Data-Engineer_JR287066",
+    "locations": [
+      "Seattle, WA",
+      "SF"
+    ],
+    "company_url": "https://simplify.jobs/c/Salesforce",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Intel",
+    "id": "21e99f7b-6eda-4724-8c02-823df65b892a",
+    "title": "TD Materials Analysis Lab Intern",
+    "active": true,
+    "terms": [
+      "Spring 2025"
+    ],
+    "date_updated": 1741994792,
+    "date_posted": 1741994792,
+    "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/TD-Materials-Analysis-Lab-Intern_JR0273195",
+    "locations": [
+      "Hillsboro, OR"
+    ],
+    "company_url": "https://simplify.jobs/c/Intel",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "SonicWall",
+    "id": "f15aad05-aa66-4783-bf5c-00d7095fed34",
+    "title": "Predictive Maintenance Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1741994674,
+    "date_posted": 1741994674,
+    "url": "https://job-boards.greenhouse.io/sonicwall/jobs/6632727",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/SonicWall",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
