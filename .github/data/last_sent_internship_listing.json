@@ -62298,5 +62298,24 @@
     "company_url": "https://simplify.jobs/c/Veolia",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "NVIDIA",
+    "id": "10a04c81-7b3d-4c8f-b5c1-9680e24c1eba",
+    "title": "Performance Engineering Intern - Deep Learning and HPC",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1741922610,
+    "date_posted": 1741922610,
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Performance-Engineering-Intern--Deep-Learning-and-HPC---Summer-2025_JR1995762",
+    "locations": [
+      "Santa Clara, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/NVIDIA",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
