@@ -62395,5 +62395,100 @@
     "company_url": "https://simplify.jobs/c/OpenX",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Weld County",
+    "id": "71a97a2e-4345-429f-a072-4bfaeb846cdb",
+    "title": "Health Education Data Paid Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1741977999,
+    "date_posted": 1741977999,
+    "url": "https://weldgov.wd5.myworkdayjobs.com/WeldCountyCareers/job/Greeley-CO/Health-Education-Data-Paid-Intern_JR101413",
+    "locations": [
+      "Greeley, CO"
+    ],
+    "company_url": "https://simplify.jobs/c/Weld-County",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Leidos",
+    "id": "c8bb8e21-1445-4528-b07b-c887948b01c6",
+    "title": "Systems Engineering & Agile Intern",
+    "active": true,
+    "terms": [
+      "Spring 2025"
+    ],
+    "date_updated": 1741979591,
+    "date_posted": 1741979591,
+    "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Orlando-FL/Systems-Engineering---Agile-Intern_R-00155542-1",
+    "locations": [
+      "Orlando, FL"
+    ],
+    "company_url": "https://simplify.jobs/c/Leidos",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "RELX",
+    "id": "e3d7e96b-7c9e-4a2b-a6b1-2d7085606892",
+    "title": "Software Engineering Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1741979098,
+    "date_posted": 1741979098,
+    "url": "https://relx.wd3.myworkdayjobs.com/en-US/relx/job/Horsham-PA/Software-Engineering-Intern_R92346-1",
+    "locations": [
+      "Horsham, PA"
+    ],
+    "company_url": "https://simplify.jobs/c/1495091e-1f19-4c30-a48a-5afa4aa5e7dd",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Harris Computer",
+    "id": "d966a844-6484-4ff7-a9c7-78c0519e1eea",
+    "title": "AI / ML Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1741979022,
+    "date_posted": 1741979022,
+    "url": "https://harriscomputer.wd3.myworkdayjobs.com/en-US/1/job/Ontario-Canada/AI---ML-Intern_R0029117-3",
+    "locations": [
+      "Ontario, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/372c6250-89ed-4b8e-9000-a81fc94184d8",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Harris Computer",
+    "id": "62fae04e-0455-413d-a154-5e65f89d2d07",
+    "title": "Software Development Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1741979014,
+    "date_posted": 1741979014,
+    "url": "https://harriscomputer.wd3.myworkdayjobs.com/en-US/1/job/Ontario-Canada/Software-Development-Intern_R0029385-1",
+    "locations": [
+      "Ontario, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/372c6250-89ed-4b8e-9000-a81fc94184d8",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
