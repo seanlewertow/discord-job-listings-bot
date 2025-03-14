@@ -62626,5 +62626,62 @@
     "company_url": "https://simplify.jobs/c/Xometry",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Simons Foundation",
+    "id": "a0321c3b-b735-4a23-bc92-30a5696bc827",
+    "title": "Summer Research Interns - CMB Analysis and Simulation",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1741994025,
+    "date_posted": 1741994025,
+    "url": "https://simonsfoundation.wd1.myworkdayjobs.com/en-US/simonsfoundationcareers/job/162-Fifth-Avenue-New-York-NY/Summer-Research-Interns--CMB-Analysis-and-Simulation_R0001826",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/645bbffd-6910-4c90-b4d5-ec941d975b60",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Figure AI",
+    "id": "a89c0e93-e825-416b-b3cd-a519f8450632",
+    "title": "Robot Safety Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1741993816,
+    "date_posted": 1741993816,
+    "url": "https://job-boards.greenhouse.io/figureai/jobs/4475944006",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/04cbb102-51d9-4ce2-a4d8-38a82f8ea8e5",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "edmentum",
+    "id": "54a3c229-0e11-47f1-acf5-0839e06c5d34",
+    "title": "Business Intelligence Intern",
+    "active": true,
+    "terms": [
+      "Winter 2025"
+    ],
+    "date_updated": 1741993829,
+    "date_posted": 1741993829,
+    "url": "https://job-boards.greenhouse.io/edmentum/jobs/5477139004",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/edmentum",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
