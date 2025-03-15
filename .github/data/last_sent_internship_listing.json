@@ -62820,5 +62820,24 @@
     "company_url": "https://simplify.jobs/c/Hermeus",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Bernhard",
+    "id": "33616b91-0225-4c80-a5c1-e16eac262262",
+    "title": "Utility Analyst Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1742067095,
+    "date_posted": 1742067095,
+    "url": "https://careers-bernhard.icims.com/jobs/6846/job",
+    "locations": [
+      "Little Rock, AR"
+    ],
+    "company_url": "https://simplify.jobs/c/Bernhard",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
