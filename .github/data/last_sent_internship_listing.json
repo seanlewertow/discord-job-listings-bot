@@ -62974,5 +62974,24 @@
     "company_url": "https://simplify.jobs/c/3f74d8b1-5d66-4d3b-b4b2-52ec6c78afc3",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Signifyd",
+    "id": "251c77f5-17b2-49a0-91c3-930635d62507",
+    "title": "Engineering Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1742239380,
+    "date_posted": 1742239380,
+    "url": "https://boards.greenhouse.io/signifyd95/jobs/6716811",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Signifyd",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
