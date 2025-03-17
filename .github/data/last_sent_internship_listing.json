@@ -62993,5 +62993,100 @@
     "company_url": "https://simplify.jobs/c/Signifyd",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Tencent",
+    "id": "bccc9e11-9066-407c-9f9d-ade905f06946",
+    "title": "Timi - Rendering programmer intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1742240230,
+    "date_posted": 1742240230,
+    "url": "https://tencent.wd1.myworkdayjobs.com/en-US/Tencent_Careers/job/Canada-Quebec-Montreal/TiMi-Montreal--Rendering-programmer-intern_R105064-2",
+    "locations": [
+      "Montreal, QC, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Tencent",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Tencent",
+    "id": "602d8cc0-0edc-4461-b3a0-816377c59a76",
+    "title": "Timi-Gameplay programmer intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1742240213,
+    "date_posted": 1742240213,
+    "url": "https://tencent.wd1.myworkdayjobs.com/en-US/Tencent_Careers/job/Canada-Quebec-Montreal/TiMi-Montreal--Gameplay-programmer-intern_R105063-1",
+    "locations": [
+      "Montreal, QC, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Tencent",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "PMG",
+    "id": "9767a6f6-ff53-4bba-b289-e1143cf179d3",
+    "title": "AI & Software Engineering Summer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1742240182,
+    "date_posted": 1742240182,
+    "url": "https://job-boards.greenhouse.io/pmg/jobs/7824900002",
+    "locations": [
+      "Dallas, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/PMG",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "PMG",
+    "id": "bdd714d7-e452-4b57-96ea-7809dd56dcf8",
+    "title": "Data & Analytics Summer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1742240152,
+    "date_posted": 1742240152,
+    "url": "https://job-boards.greenhouse.io/pmg/jobs/7824941002",
+    "locations": [
+      "Dallas, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/PMG",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Pico",
+    "id": "f24ace86-fc63-4419-837a-12df4263eeb6",
+    "title": "C Developer Summer Intern 2025",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1742240138,
+    "date_posted": 1742240138,
+    "url": "https://boards.greenhouse.io/picoquantitativetrading/jobs/4415028006",
+    "locations": [
+      "Burlington, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/Pico",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
