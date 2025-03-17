@@ -62955,5 +62955,24 @@
     "company_url": "https://simplify.jobs/c/Tokio-Marine-Kiln",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "ByteDance",
+    "id": "e6acdef5-28ac-4229-90c9-50c84312d77b",
+    "title": "Software Engineer Intern - 2025 Summer - BS/MS",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1742185180,
+    "date_posted": 1742185180,
+    "url": "https://jobs.bytedance.com/en/position/7481860662668413191/detail",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "company_url": "https://simplify.jobs/c/3f74d8b1-5d66-4d3b-b4b2-52ec6c78afc3",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
