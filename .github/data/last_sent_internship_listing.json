@@ -63088,5 +63088,24 @@
     "company_url": "https://simplify.jobs/c/Pico",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Oshkosh",
+    "id": "5edca159-0184-462b-a300-14f50603f4b1",
+    "title": "Emerging Technology Intern",
+    "active": true,
+    "terms": [
+      "Spring 2025"
+    ],
+    "date_updated": 1742239315,
+    "date_posted": 1742239315,
+    "url": "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Oshkosh-Wisconsin-United-States/Emerging-Technology-Intern_R36433",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/Oshkosh",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
