@@ -63202,5 +63202,24 @@
     "company_url": "https://simplify.jobs/c/Oshkosh",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Samsung",
+    "id": "d82b20fc-4c4d-4ac0-8e80-637d7aebd17f",
+    "title": "Samsung Ads \u2013 Software Engineer Intern - TV Plus",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1742325580,
+    "date_posted": 1742325580,
+    "url": "https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/645-Clyde-Avenue-Mountain-View-CA-USA/Samsung-Ads---Software-Engineer-Intern---TV-Plus_R101692-1",
+    "locations": [
+      "Mountain View, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Samsung",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
