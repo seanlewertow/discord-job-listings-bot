@@ -63221,5 +63221,44 @@
     "company_url": "https://simplify.jobs/c/Samsung",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Addepar",
+    "id": "d34a9b66-9b16-4f4c-ad5f-e5b37fc16116",
+    "title": "Portfolio Data Engineering Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025",
+      "Fall 2025"
+    ],
+    "date_updated": 1742327065,
+    "date_posted": 1742327065,
+    "url": "https://job-boards.greenhouse.io/addepar1/jobs/7897058002",
+    "locations": [
+      "Edinburgh, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Addepar",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "PlusAI",
+    "id": "ba0540eb-3f30-4de3-8ee5-ad7a76bcd8a1",
+    "title": "Simulation Engineer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1742327932,
+    "date_posted": 1742327932,
+    "url": "https://jobs.lever.co/plus-2/f22cbeb8-a291-4e7f-8430-620e6adbdcfa/apply",
+    "locations": [
+      "Santa Clara, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Plus",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
