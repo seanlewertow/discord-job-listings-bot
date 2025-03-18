@@ -63107,5 +63107,100 @@
     "company_url": "https://simplify.jobs/c/Oshkosh",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "World Kinect",
+    "id": "89739c22-bfaf-4cfe-8ff3-1dc65fa2f4a3",
+    "title": "Technology Internship Program",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1742239877,
+    "date_posted": 1742239877,
+    "url": "https://wfscorp.wd5.myworkdayjobs.com/wfscareers/job/MIAMI-FL/Technology-Internship-Program_R21070",
+    "locations": [
+      "Miami, FL"
+    ],
+    "company_url": "https://simplify.jobs/c/World-Kinect",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "United Parcel Service (UPS)",
+    "id": "e269fe36-9752-4dc0-9072-7e08ba1f4c94",
+    "title": "GBS Data Science Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1742241442,
+    "date_posted": 1742241442,
+    "url": "https://hcmportal.wd5.myworkdayjobs.com/en-US/Search/job/US---35-GLENLAKE-BUILDING-GAGLK/GBS-Data-Science-Intern_R25008801",
+    "locations": [
+      "United States"
+    ],
+    "company_url": "https://simplify.jobs/c/United-Parcel-Service",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Mendix",
+    "id": "6a83b4e6-e5bb-40fa-b9bd-d093d5567de2",
+    "title": "Presales Engineer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1742241548,
+    "date_posted": 1742241548,
+    "url": "https://jobs.lever.co/mendix/eee06ea5-7e75-4900-bbc5-25a2d7b45c88/apply",
+    "locations": [
+      "Boston, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/Mendix",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Werfen",
+    "id": "dc620ed7-aa34-4eb2-807f-064098137558",
+    "title": "Data Scientist Co-Op",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1742240358,
+    "date_posted": 1742240358,
+    "url": "https://careers-werfen.icims.com/jobs/8567/job",
+    "locations": [
+      "Bedford, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/Werfen",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Oshkosh",
+    "id": "ecbf1dfa-c865-4539-a456-bfe91d59b922",
+    "title": "Advanced Digital Technology Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1742311640,
+    "date_posted": 1740082861,
+    "url": "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Oshkosh-Wisconsin-United-States/Emerging-Technology-Business-Analyst-Intern_R36254",
+    "locations": [
+      "Oshkosh, WI"
+    ],
+    "company_url": "https://simplify.jobs/c/Oshkosh",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
