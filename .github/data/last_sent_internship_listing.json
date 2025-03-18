@@ -63260,5 +63260,24 @@
     "company_url": "https://simplify.jobs/c/Plus",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Challenge Manufacturing",
+    "id": "b7c1ee40-f82d-457e-bf48-27e0808b32db",
+    "title": "Software Engineer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1742313839,
+    "date_posted": 1742313839,
+    "url": "https://www.challenge-mfg.com/careers/job/?gh_jid=5478576004",
+    "locations": [
+      "Holland, MI"
+    ],
+    "company_url": "https://simplify.jobs/c/Challenge-Manufacturing",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
