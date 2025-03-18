@@ -63298,5 +63298,100 @@
     "company_url": "https://simplify.jobs/c/Ciena",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Epicor",
+    "id": "c772e95f-8ffa-458c-8a6a-4ebe2f59341c",
+    "title": "Intern \u2013 Product Developer",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1742339756,
+    "date_posted": 1742339756,
+    "url": "https://epicorsoftware.wd5.myworkdayjobs.com/epicorjobs/job/US-Bensalem/Intern--Product-Developer_JR101646",
+    "locations": [
+      "Delanco, NJ"
+    ],
+    "company_url": "https://simplify.jobs/c/Epicor",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Decisions",
+    "id": "47cb6a7a-f813-43c0-80ba-a51a65c3bb9c",
+    "title": "Data Analyst Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1742313210,
+    "date_posted": 1742313210,
+    "url": "https://decisions.com/jobs-listing/4681272007?gh_jid=4681272007",
+    "locations": [
+      "Virginia Beach, VA"
+    ],
+    "company_url": "https://simplify.jobs/c/Decisions",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": " PrizePicks",
+    "id": "15be6c6f-615e-497b-9ba9-e6e2dd70bcfe",
+    "title": "Data Science Internship",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1742340591,
+    "date_posted": 1742340591,
+    "url": "http://prizepicks.com/position?gh_jid=6509407003",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/PrizePicks",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Sayari",
+    "id": "68e54300-a6af-436f-9b80-62138de84176",
+    "title": "Machine Learning Engineer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1742340448,
+    "date_posted": 1742340448,
+    "url": "https://jobs.lever.co/sayari/c21c176e-5a1a-4e0d-9a1d-047058787325/apply",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/Sayari",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Boston Dynamics",
+    "id": "d8a767cb-2fd3-44bd-8d45-daaa0206f3f6",
+    "title": "Software Engineering Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1742340412,
+    "date_posted": 1742340412,
+    "url": "https://bostondynamics.wd1.myworkdayjobs.com/Boston_Dynamics/job/Waltham-Office-POST/Software-Engineering-Intern_R1717",
+    "locations": [
+      "Waltham, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/Boston-Dynamics",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
