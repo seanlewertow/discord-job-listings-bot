@@ -63393,5 +63393,26 @@
     "company_url": "https://simplify.jobs/c/Boston-Dynamics",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Adobe",
+    "id": "27aa108c-ba06-443c-83f3-ba5be71fdb88",
+    "title": "2025 Intern - Software Development Engineer",
+    "active": true,
+    "terms": [
+      "Spring 2025",
+      "Summer 2025",
+      "Fall 2025"
+    ],
+    "date_updated": 1742340909,
+    "date_posted": 1742340909,
+    "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/New-York/XMLNAME-2025-Intern---Software-Development-Engineer_R149387",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Adobe",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
