@@ -63279,5 +63279,24 @@
     "company_url": "https://simplify.jobs/c/Challenge-Manufacturing",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Ciena",
+    "id": "c4d339cd-19be-41c5-83d1-1dc446244ed6",
+    "title": "Monitor Data Analyst Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1742325965,
+    "date_posted": 1742325965,
+    "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Monitor-Data-Analyst-Intern_R027389",
+    "locations": [
+      "Ottawa, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Ciena",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
