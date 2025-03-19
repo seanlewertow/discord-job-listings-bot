@@ -63648,5 +63648,24 @@
     "company_url": "https://simplify.jobs/c/656d9cca-8674-4b7c-ad5f-f7298d72e103",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Talkdesk",
+    "id": "48c1abb6-d1b6-4276-8f35-2d746810170c",
+    "title": "Software Engineer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1742384426,
+    "date_posted": 1742384426,
+    "url": "https://job-boards.greenhouse.io/talkdesk2/jobs/6686100",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "company_url": "https://simplify.jobs/c/Talkdesk",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
