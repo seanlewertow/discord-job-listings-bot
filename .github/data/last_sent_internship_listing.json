@@ -63414,5 +63414,100 @@
     "company_url": "https://simplify.jobs/c/Adobe",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Resmed",
+    "id": "61d4d8a8-6293-4976-a0f1-c613c4f857d2",
+    "title": "Software Developer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1742254716,
+    "date_posted": 1742254716,
+    "url": "https://resmed.wd3.myworkdayjobs.com/en-US/ResMed_External_Careers/job/Halifax-Canada/Software-Developer-Intern_JR_039326",
+    "locations": [
+      "Halifax Regional Municipality, NS, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Resmed",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Chime",
+    "id": "92ca5d05-9154-438c-a4d1-a0f94f9b9821",
+    "title": "AI Automation Intern - Eventing Platform",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1742253055,
+    "date_posted": 1742253055,
+    "url": "https://boards.greenhouse.io/chime/jobs/7903864002",
+    "locations": [
+      "SF"
+    ],
+    "company_url": "https://simplify.jobs/c/Chime",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Entera",
+    "id": "7746f9f5-a6c3-46d6-b3f3-28cba720212c",
+    "title": "Full Stack Engineer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1742253403,
+    "date_posted": 1742253403,
+    "url": "https://job-boards.greenhouse.io/entera/jobs/7915790002",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Entera",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Trayt.Health",
+    "id": "80aabdc0-ed1e-4556-806f-3cd1f8392fc5",
+    "title": "Engineering Summer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1742347297,
+    "date_posted": 1741648709,
+    "url": "https://apply.workable.com/trayt-health/j/48D9CED22E/apply",
+    "locations": [
+      "Menlo Park, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Trayt-Health",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "ASML",
+    "id": "a8252167-b408-4e33-8e39-ef8582edb5f5",
+    "title": "Internship - Droplet Position Control",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1742347558,
+    "date_posted": 1741292957,
+    "url": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Diego-CA-USA/Internship---Droplet-Position-Control_J-00313122",
+    "locations": [
+      "San Diego, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/ASML",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
