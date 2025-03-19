@@ -63819,5 +63819,24 @@
     "company_url": "https://simplify.jobs/c/BerkshireGrey",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Takeda",
+    "id": "80bb23d1-1826-4aeb-89b8-bc1e1f408866",
+    "title": "Summer Internship Program: Digital Analyst Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1742414331,
+    "date_posted": 1742414331,
+    "url": "https://takeda.wd3.myworkdayjobs.com/external/job/USA---CA---Thousand-Oaks---Manufacturing/XMLNAME-2025-US-Summer-Internship-Program--Digital-Analyst-Intern_R0139702",
+    "locations": [
+      "Thousand Oaks, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Takeda",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
