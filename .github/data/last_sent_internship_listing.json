@@ -63705,5 +63705,43 @@
     "company_url": "https://simplify.jobs/c/6223a3c8-d5e0-47cb-a64c-2cf512c65e98",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Fresenius Medical Care",
+    "id": "04ccec0e-8fde-43b8-b4cb-27880df6ae7c",
+    "title": "Embedded Software Engineer Co-Op - Pd",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1742416526,
+    "date_posted": 1742416526,
+    "url": "https://freseniusmedicalcare.wd3.myworkdayjobs.com/fme/job/Lawrence-MA-USA/Embedded-Software-Engineer-Co-Op--PD_R0193743",
+    "locations": [
+      "Andover, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/Fresenius",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Northrop Grumman",
+    "id": "2a08d12f-d496-4ceb-b653-92e67839140f",
+    "title": "2025 Software Engineering Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1742416404,
+    "date_posted": 1742416404,
+    "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-New-Mexico-Albuquerque/XMLNAME-2025-Software-Engineering-Intern---Albuquerque--NM-_R10190013",
+    "locations": [
+      "Albuquerque, NM"
+    ],
+    "company_url": "https://simplify.jobs/c/238c95d8-0d6e-4717-b28c-078b16d675d7",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
