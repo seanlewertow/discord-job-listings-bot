@@ -63606,5 +63606,24 @@
     "company_url": "https://simplify.jobs/c/Parsons",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "date_updated": 1742408466,
+    "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/259584",
+    "company_name": "Oracle",
+    "title": "MySQL Heatwave - Software Developer Intern (6 month duration)",
+    "locations": [
+      "Canada"
+    ],
+    "terms": [
+      "Summer 2025"
+    ],
+    "sponsorship": "Offers Sponsorship",
+    "active": false,
+    "source": "GaryZhous",
+    "id": "8ee90dec-9786-4f9c-851e-054925121cb8",
+    "date_posted": 1742408466,
+    "company_url": "",
+    "is_visible": true
   }
 ]
