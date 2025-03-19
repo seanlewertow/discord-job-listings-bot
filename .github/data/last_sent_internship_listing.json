@@ -63567,5 +63567,25 @@
     "company_url": "https://simplify.jobs/c/6a7a42d3-327f-4b48-a7a7-c68f405e3396",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Red Ventures",
+    "id": "10f5203f-b8ff-441c-9074-f50654d317b8",
+    "title": "Data Science Product Manager Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1742400515,
+    "date_posted": 1742400515,
+    "url": "https://www.redventures.com/careers/positions/open?gh_jid=6724180",
+    "locations": [
+      "Fort Mill, SC",
+      "Charlotte, NC"
+    ],
+    "company_url": "https://simplify.jobs/c/Red-Ventures",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
