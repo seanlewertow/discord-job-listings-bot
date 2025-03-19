@@ -63625,5 +63625,28 @@
     "date_posted": 1742408466,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Uline",
+    "id": "ccfde8c6-9541-4fb9-9f2e-5ecb300107a8",
+    "title": "Recruitment Advertising Analytics Internship",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1742383698,
+    "date_posted": 1742383698,
+    "url": "https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/Recruitment-Advertising-Analytics-Internship---Summer-2025_R252451",
+    "locations": [
+      "Waukegan, IL",
+      "Milwaukee, WI",
+      "Pleasant Prairie, WI",
+      "Morton Grove, IL",
+      "Kenosha, WI"
+    ],
+    "company_url": "https://simplify.jobs/c/656d9cca-8674-4b7c-ad5f-f7298d72e103",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
