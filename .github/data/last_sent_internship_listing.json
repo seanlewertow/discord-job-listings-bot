@@ -63509,5 +63509,24 @@
     "company_url": "https://simplify.jobs/c/ASML",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Uhaul",
+    "id": "71f69d3e-84ff-40bc-949d-5b25ab2afd35",
+    "title": "Software Development Intern",
+    "active": true,
+    "terms": [
+      "Winter 2025"
+    ],
+    "date_updated": 1742355024,
+    "date_posted": 1742355024,
+    "url": "https://uhaul.wd1.myworkdayjobs.com/UhaulJobs/job/Phoenix-Arizona/Software-Development-Intern_R214879",
+    "locations": [
+      "Phoenix, AZ"
+    ],
+    "company_url": "https://simplify.jobs/c/Uhaul",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
