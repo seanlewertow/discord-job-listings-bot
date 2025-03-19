@@ -63762,5 +63762,24 @@
     "company_url": "https://simplify.jobs/c/Americas-Electric-Cooperatives",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Alamar Biosciences",
+    "id": "e0e23743-59f0-425c-b9c4-8af615ec8f11",
+    "title": "Software Engineering Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1742412134,
+    "date_posted": 1742412134,
+    "url": "https://boards.greenhouse.io/alamarbiosciences/jobs/5479996004",
+    "locations": [
+      "Fremont, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Alamar-Biosciences",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
