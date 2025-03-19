@@ -63857,5 +63857,63 @@
     "company_url": "https://simplify.jobs/c/PanoAI",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "HARMAN International",
+    "id": "6acf68ac-1616-45ef-a9c2-3c8d7ff32c30",
+    "title": "Summer Intern - Software Developer",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1742426346,
+    "date_posted": 1742426346,
+    "url": "https://harman.wd3.myworkdayjobs.com/HARMAN/job/Novi---Michigan-USA---Cabot-Drive/Summer-Intern---Software-Developer_R-43429-2025",
+    "locations": [
+      "Novi, MI"
+    ],
+    "company_url": "https://simplify.jobs/c/HARMAN-International",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Curtiss-Wright Corporation",
+    "id": "b8c3711a-c4fa-4dda-8303-606ec9cdc4b1",
+    "title": "Software Development Engineer \u2013 Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1742426202,
+    "date_posted": 1742426202,
+    "url": "https://curtisswright.wd1.myworkdayjobs.com/cw_external_career_site/job/US-PA-Berwick-Nuclear/Software-Development-Engineer---Intern_JR8120",
+    "locations": [
+      "Nanticoke, PA"
+    ],
+    "company_url": "https://simplify.jobs/c/Curtiss-Wright",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Constellation Brands",
+    "id": "3fed97b2-9b27-4034-98be-66d061f57c79",
+    "title": "Intern \u2013 Beer Operations Digitalization",
+    "active": true,
+    "terms": [
+      "Spring 2025",
+      "Summer 2025"
+    ],
+    "date_updated": 1742426193,
+    "date_posted": 1742426193,
+    "url": "https://cbrands.wd5.myworkdayjobs.com/en-US/CBI_External_Careers/job/San-Antonio-Texas/Intern--Beer-Operations-Digitalization_R-36191",
+    "locations": [
+      "San Antonio, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Constellation-Brands",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
