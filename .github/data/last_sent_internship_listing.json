@@ -63528,5 +63528,25 @@
     "company_url": "https://simplify.jobs/c/Uhaul",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "F5",
+    "id": "d726c107-4693-4138-931f-0b380f4ba3ba",
+    "title": "Software Engineering Intern - Firmware Development",
+    "active": true,
+    "terms": [
+      "Spring 2025",
+      "Fall 2025"
+    ],
+    "date_updated": 1742346765,
+    "date_posted": 1742325918,
+    "url": "https://ffive.wd5.myworkdayjobs.com/en-US/f5jobs/job/Liberty-Lake/Hardware-Engineering-Intern_RP1032788",
+    "locations": [
+      "Spokane, WA"
+    ],
+    "company_url": "https://simplify.jobs/c/F5",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
