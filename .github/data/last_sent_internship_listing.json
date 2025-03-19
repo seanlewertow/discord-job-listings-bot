@@ -63915,5 +63915,24 @@
     "company_url": "https://simplify.jobs/c/Constellation-Brands",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Global Payments",
+    "id": "c974a6d2-cdeb-4824-9516-85d56a19ab4c",
+    "title": "Data Engineering Excellence Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1742427804,
+    "date_posted": 1742427804,
+    "url": "https://tsys.wd1.myworkdayjobs.com/TSYS/job/Charlotte-North-Carolina-USA/Data-Engineering-Excellence-Intern_R0060253",
+    "locations": [
+      "Charlotte, NC"
+    ],
+    "company_url": "https://simplify.jobs/c/Global-Payments",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
