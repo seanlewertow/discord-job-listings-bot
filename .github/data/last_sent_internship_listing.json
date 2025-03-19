@@ -63838,5 +63838,24 @@
     "company_url": "https://simplify.jobs/c/Takeda",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Pano AI",
+    "id": "e5ad496e-c900-4c77-adbf-bc25755084f6",
+    "title": "Geospatial Data Analyst Internship",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1742425712,
+    "date_posted": 1742425712,
+    "url": "https://jobs.lever.co/pano/bdf57eee-b66b-4f8a-8964-120f9bab2590/apply",
+    "locations": [
+      "SF"
+    ],
+    "company_url": "https://simplify.jobs/c/PanoAI",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
