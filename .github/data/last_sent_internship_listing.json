@@ -63934,5 +63934,43 @@
     "company_url": "https://simplify.jobs/c/Global-Payments",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Leidos",
+    "id": "cfd1c63a-2799-4206-a588-d496ced603ef",
+    "title": "Software Engineer \u2013 Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1742428029,
+    "date_posted": 1742428029,
+    "url": "https://leidos.wd5.myworkdayjobs.com/External/job/San-Diego-CA/Software-Engineer---Intern_R-00155625",
+    "locations": [
+      "San Diego, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Leidos",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Extra Space Storage",
+    "id": "14b1bb11-d5ec-4d9d-aee7-36f0aab749e5",
+    "title": "Data Analytics Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1742427512,
+    "date_posted": 1742427512,
+    "url": "https://extraspace.wd5.myworkdayjobs.com/en-US/ESS_External/job/Salt-Lake-City-UT-United-States/Data-Analytics-Intern_R-66163-1",
+    "locations": [
+      "Salt Lake City, UT"
+    ],
+    "company_url": "https://simplify.jobs/c/5c4aae08-6d00-4b9d-9fb7-66ce40d937d8",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
