@@ -64048,5 +64048,44 @@
     "company_url": "https://simplify.jobs/c/NCR-Voyix",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "S&P Global ",
+    "id": "5b31d53c-7d6d-4047-9b8c-55b809a5d740",
+    "title": "Software Engineer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1742513035,
+    "date_posted": 1742513035,
+    "url": "https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Careers/job/New-York-NY/Software-Engineer-Intern_312255-2",
+    "locations": [
+      "Princeton, NJ",
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/SP-Global",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Barings",
+    "id": "ce0ec50b-73ab-45ca-9420-001f4f8c1340",
+    "title": "Innovation and Data Insights \u2013 Summer Internship",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1742512890,
+    "date_posted": 1742512890,
+    "url": "https://barings.wd1.myworkdayjobs.com/barings/job/London-United-Kingdom/Innovation-and-Data-Insights---Summer-Internship_JR_005710",
+    "locations": [
+      "London, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Barings",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
