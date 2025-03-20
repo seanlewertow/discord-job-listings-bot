@@ -64029,5 +64029,24 @@
     "company_url": "https://simplify.jobs/c/d42ede38-2f11-4520-8b45-e24d2e9c10dd",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "NCR Voyix",
+    "id": "6bdb38c7-b230-4bec-a010-7b4b7c34fb38",
+    "title": "Software Engineer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1742470150,
+    "date_posted": 1742470150,
+    "url": "https://ncr.wd1.myworkdayjobs.com/ext_non_us/job/SCOTLAND-VIRTUAL-GBR/Software-Engineer-Intern_R0150397-4",
+    "locations": [
+      "Scotland, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/NCR-Voyix",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
