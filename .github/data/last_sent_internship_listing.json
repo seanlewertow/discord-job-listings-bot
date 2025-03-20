@@ -64010,5 +64010,24 @@
     "company_url": "https://simplify.jobs/c/Pitney-Bowes",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Dillards",
+    "id": "f08c7487-bf4c-4c4e-bf39-74894ca4fbf2",
+    "title": "Technology Internship",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1742497414,
+    "date_posted": 1742497414,
+    "url": "https://job-boards.greenhouse.io/dillards/jobs/4049221007",
+    "locations": [
+      "Little Rock, AR"
+    ],
+    "company_url": "https://simplify.jobs/c/d42ede38-2f11-4520-8b45-e24d2e9c10dd",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
