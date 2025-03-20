@@ -63972,5 +63972,43 @@
     "company_url": "https://simplify.jobs/c/5c4aae08-6d00-4b9d-9fb7-66ce40d937d8",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Wave Financial",
+    "id": "2d8fd47e-13cb-4fd5-a7d6-facb6cf6a17e",
+    "title": "Software Engineer \u2013 Co-op",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1742445762,
+    "date_posted": 1742445762,
+    "url": "https://jobs.lever.co/waveapps/d8d22781-90eb-4dc6-ac8c-36f24c049d85/apply",
+    "locations": [
+      "Toronto, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/WaveFinancial",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Pitney Bowes",
+    "id": "f0a44c18-534f-4239-a658-a2222411cf4c",
+    "title": "Software Engineering Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1742445325,
+    "date_posted": 1742445325,
+    "url": "https://pitneybowes.wd1.myworkdayjobs.com/pbcareers/job/US-CT-Shelton/Software-Engineering-Intern--onsite-_R19674",
+    "locations": [
+      "Shelton, CT"
+    ],
+    "company_url": "https://simplify.jobs/c/Pitney-Bowes",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
