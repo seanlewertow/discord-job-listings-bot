@@ -64337,5 +64337,82 @@
     "company_url": "https://simplify.jobs/c/BigHatBio",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "RTX",
+    "id": "1bbf6dd5-942d-40c7-88b4-24707ebb35b3",
+    "title": "Digital Technology Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1742583598,
+    "date_posted": 1742583598,
+    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/PW715-Asheville-Site-W-Asheville-Greenfield-Site-TBD---Asheville-NC-28803-USA/Digital-Technology-Intern---Asheville--NC---Onsite_01757959",
+    "locations": [
+      "Asheville, NC"
+    ],
+    "company_url": "https://simplify.jobs/c/RTX",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Delta Dental",
+    "id": "01ee9de6-393a-44db-9127-2af64d6fcd07",
+    "title": "Internship-Application Development",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1742583891,
+    "date_posted": 1742583891,
+    "url": "https://rhsc.wd5.myworkdayjobs.com/delta_dental_of_michigan/job/Okemos-MI/Internship--Application-Development_JR100746",
+    "locations": [
+      "East Lansing, MI"
+    ],
+    "company_url": "https://simplify.jobs/c/Delta-Dental",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Allstate Insurance Company",
+    "id": "51cad306-3490-4320-ae3f-c4c2981a6c05",
+    "title": "Software Engineering Intern",
+    "active": true,
+    "terms": [
+      "Spring 2025",
+      "Summer 2025"
+    ],
+    "date_updated": 1742583767,
+    "date_posted": 1742583767,
+    "url": "https://allstate.wd5.myworkdayjobs.com/allstate_careers/job/USA---NC-Remote/Arity---Software-Engineering-Intern_R5351",
+    "locations": [
+      "North Carolina"
+    ],
+    "company_url": "https://simplify.jobs/c/Allstate-Insurance-Company",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Sylvera",
+    "id": "5c4019af-2daa-4345-9bfe-6b3b0bd5909e",
+    "title": "Carbon Science / Geospatial Intern: Client Facing",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1742574084,
+    "date_posted": 1741121966,
+    "url": "https://jobs.lever.co/sylvera/e96633ab-9900-4ac7-b3bf-7f6e36209671/apply",
+    "locations": [
+      "London, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sylvera",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
