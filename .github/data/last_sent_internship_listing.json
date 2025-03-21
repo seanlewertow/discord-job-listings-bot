@@ -64223,5 +64223,24 @@
     "company_url": "https://simplify.jobs/c/Salesforce",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Veolia",
+    "id": "74bfcb2f-0d90-4ee5-9e06-ef63875462af",
+    "title": "2025 Summer Intern - Laboratory",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1742578192,
+    "date_posted": 1742578192,
+    "url": "https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000049301091",
+    "locations": [
+      "Paramus, NJ"
+    ],
+    "company_url": "https://simplify.jobs/c/Veolia",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
