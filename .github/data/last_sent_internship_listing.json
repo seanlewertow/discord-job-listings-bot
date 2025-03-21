@@ -64184,5 +64184,44 @@
     "date_posted": 1742531900,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Leidos",
+    "id": "654ac625-5431-434e-a287-d61534c07a36",
+    "title": "Machine Learning Intern",
+    "active": true,
+    "terms": [
+      "Spring 2025",
+      "Summer 2025"
+    ],
+    "date_updated": 1742542757,
+    "date_posted": 1742542757,
+    "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Arlington-VA/Machine-Learning-Intern_R-00156045",
+    "locations": [
+      "Arlington, VA"
+    ],
+    "company_url": "https://simplify.jobs/c/Leidos",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Salesforce",
+    "id": "f5e38d96-2fdc-40fb-8aae-55669b263e49",
+    "title": "Intern-AI Software Engineer - Full Stack",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1742542466,
+    "date_posted": 1742542466,
+    "url": "https://salesforce.wd12.myworkdayjobs.com/en-us/External_Career_Site/job/California---Palo-Alto/Summer-2025-Intern--AI-Software-Engineer--Full-Stack-_JR287555",
+    "locations": [
+      "Palo Alto, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Salesforce",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
