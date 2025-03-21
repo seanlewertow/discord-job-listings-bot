@@ -64433,5 +64433,24 @@
     "company_url": "https://simplify.jobs/c/Leidos",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Koppers",
+    "id": "5f751c99-c86f-4be3-9492-4f013b6d95ac",
+    "title": "Data Science Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1742594275,
+    "date_posted": 1742594275,
+    "url": "https://koppers.wd5.myworkdayjobs.com/Koppers/job/Pittsburgh-PA/Data-Science-Intern_REQ02433",
+    "locations": [
+      "Pittsburgh, PA"
+    ],
+    "company_url": "https://simplify.jobs/c/Koppers",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
