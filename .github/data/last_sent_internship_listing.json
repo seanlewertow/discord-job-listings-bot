@@ -64492,5 +64492,44 @@
     "company_url": "https://simplify.jobs/c/Parsons",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Mr. Cooper",
+    "id": "03f33e22-464f-424d-9494-b24f85addbaf",
+    "title": "2025 Summer Intern Program - Machine Learning & Generative AI Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1742598942,
+    "date_posted": 1742598942,
+    "url": "https://nationstar.wd5.myworkdayjobs.com/mrcooper/job/Cypress-Waters---Dallas-TX/XMLNAME-2025-Summer-Intern-Program---Machine-Learning---Generative-AI-Intern--Onsite-DFW_023691",
+    "locations": [
+      "Dallas, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/21c673f4-d5e4-401d-aa12-c91bc6aa44fb",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Ciena",
+    "id": "9612871d-11ba-4b24-870f-563d852867f9",
+    "title": "Software Programmer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1742598711,
+    "date_posted": 1742598711,
+    "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Remote-US/Software-Programmer-Intern--Summer-2025-_R027424",
+    "locations": [
+      "Remote in USA",
+      "Remote in Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Ciena",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
