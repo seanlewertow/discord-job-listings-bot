@@ -64472,5 +64472,25 @@
     "company_url": "https://simplify.jobs/c/62655121-4cb3-4dab-81d2-4abcad089fc6",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Parsons",
+    "id": "fdcd9bc5-23d8-4cd5-b608-981eedb10013",
+    "title": "CNO Engineering Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1742595090,
+    "date_posted": 1742595090,
+    "url": "https://parsons.wd5.myworkdayjobs.com/en-US/search/job/US---VA-Centreville/CNO-Engineering-Intern--Summer-2025-_R165568",
+    "locations": [
+      "Centreville, VA",
+      "Columbia, MD"
+    ],
+    "company_url": "https://simplify.jobs/c/Parsons",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
