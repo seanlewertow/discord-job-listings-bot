@@ -64531,5 +64531,101 @@
     "company_url": "https://simplify.jobs/c/Ciena",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Keysight Technologies, Inc.",
+    "id": "b3a0b93b-2bfb-4018-82c3-d5868830f75b",
+    "title": "IOT Security Researcher Internship",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1742599432,
+    "date_posted": 1742599432,
+    "url": "https://jobs.keysight.com/jobs/47289?lang=en-us&icims=1",
+    "locations": [
+      "Austin, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Keysight-Technologies-Inc",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "ByteDance",
+    "id": "5eaed8e5-cf3d-4b60-9bd4-f55e390dbce4",
+    "title": "Applied Scientist Intern - Computational Modeling & Optimization - System Technologies and Engineering - BS/MS",
+    "active": true,
+    "terms": [
+      "Summer 2025",
+      "Fall 2025"
+    ],
+    "date_updated": 1742598996,
+    "date_posted": 1742598996,
+    "url": "https://jobs.bytedance.com/en/position/7484110575813249298/detail",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/3f74d8b1-5d66-4d3b-b4b2-52ec6c78afc3",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Jones Lang LaSalle (JLL)",
+    "id": "306c6579-18bc-4d17-b96e-157dfc6d75e6",
+    "title": "Indigenous Data Analytics Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1742600569,
+    "date_posted": 1742600569,
+    "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Toronto-ON/Indigenous-Data-Analytics-Intern_REQ416556",
+    "locations": [
+      "Toronto, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Jones-Lang-LaSalle",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Leidos",
+    "id": "78e801c1-dd07-4cd4-857a-e46dc35503c5",
+    "title": "Software Engineer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1742600560,
+    "date_posted": 1742600560,
+    "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Gaithersburg-MD/Software-Engineer-Intern_R-00156114",
+    "locations": [
+      "Gaithersburg, MD"
+    ],
+    "company_url": "https://simplify.jobs/c/Leidos",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "AssetMark",
+    "id": "1ae01b89-eeb4-4947-9f41-c970463f11d2",
+    "title": "Software Engineering Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1742599872,
+    "date_posted": 1742599872,
+    "url": "https://assetmark.wd5.myworkdayjobs.com/en-US/AssetMark_Careers/job/Concord-CA/Software-Engineering-Intern_Req-002995",
+    "locations": [
+      "Concord, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/ec74b780-e6b1-4ed3-b5fc-119cb7606da8",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
