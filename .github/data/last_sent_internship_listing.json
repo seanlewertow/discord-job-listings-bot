@@ -64146,5 +64146,24 @@
     "company_url": "https://simplify.jobs/c/PrizePicks",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Cadence Design Systems",
+    "id": "6947702f-a0ef-46fb-81c8-5d5f1617d50f",
+    "title": "Software Development Internship",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1742513929,
+    "date_posted": 1742513929,
+    "url": "https://cadence.wd1.myworkdayjobs.com/en-US/External_Careers/job/Burlington-MA/Software-Development-Internship--SDA--Summer-2025-_R49173-3",
+    "locations": [
+      "Burlington, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/Cadence-Design-Systems",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
