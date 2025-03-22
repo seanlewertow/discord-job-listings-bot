@@ -64665,5 +64665,24 @@
     "date_posted": 1742617675,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Block",
+    "id": "f61dc041-7e9c-4f29-8478-e90dd3c2ea99",
+    "title": "Data Science Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1742624968,
+    "date_posted": 1742624968,
+    "url": "http://block.xyz/careers/jobs/4593757008?gh_jid=4593757008",
+    "locations": [
+      "Oakland, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Block",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
