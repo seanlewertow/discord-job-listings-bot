@@ -64684,5 +64684,24 @@
     "company_url": "https://simplify.jobs/c/Block",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "B. Braun Medical Inc",
+    "id": "0e9f434e-5db3-4719-88b7-be89f0897afb",
+    "title": "B Braun PA Intern - Data and Analytics",
+    "active": true,
+    "terms": [
+      "Spring 2025"
+    ],
+    "date_updated": 1742666231,
+    "date_posted": 1742666231,
+    "url": "https://bbrauncareers-bbraun.icims.com/jobs/25784/job",
+    "locations": [
+      "Allentown, PA"
+    ],
+    "company_url": "https://simplify.jobs/c/B-Braun-Medical-Inc",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
