@@ -64646,5 +64646,24 @@
     "company_url": "https://simplify.jobs/c/Veolia",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "date_updated": 1742617675,
+    "url": "https://boards.greenhouse.io/soundcloud71/jobs/7924207002",
+    "company_name": "SoundCloud",
+    "title": "Web Software Engineering Intern",
+    "locations": [
+      "Los Angeles, CA"
+    ],
+    "terms": [
+      "Summer 2025"
+    ],
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "source": "GaryZhous",
+    "id": "8378d276-fdde-4531-86f5-c8cefb7af030",
+    "date_posted": 1742617675,
+    "company_url": "",
+    "is_visible": true
   }
 ]
