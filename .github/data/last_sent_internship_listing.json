@@ -64703,5 +64703,24 @@
     "company_url": "https://simplify.jobs/c/B-Braun-Medical-Inc",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "date_updated": 1742762589,
+    "url": "https://careers.spglobal.com/jobs/311436",
+    "company_name": "S&P Global",
+    "title": "Security Engineering Intern (Early Careers)",
+    "locations": [
+      "Toronto, Canada"
+    ],
+    "terms": [
+      "Summer 2025"
+    ],
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "source": "GaryZhous",
+    "id": "dcf8e753-ff36-44a1-8b66-df2927695ba0",
+    "date_posted": 1742762589,
+    "company_url": "",
+    "is_visible": true
   }
 ]
