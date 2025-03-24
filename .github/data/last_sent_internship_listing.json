@@ -64817,5 +64817,24 @@
     "company_url": "https://simplify.jobs/c/Veolia",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Medline",
+    "id": "bf3da47b-a627-4a31-a7be-1e81a7d4ff9f",
+    "title": "Business Analytics Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1742857200,
+    "date_posted": 1742857200,
+    "url": "https://medline.wd5.myworkdayjobs.com/en-US/Medline/job/Northfield-Illinois/Business-Analytics-Intern---Summer-2025_R2406211",
+    "locations": [
+      "Northbrook, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/f22ab711-4900-472d-be8a-7263e99e49fa",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
