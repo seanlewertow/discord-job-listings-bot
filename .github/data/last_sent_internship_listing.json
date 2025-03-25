@@ -65413,5 +65413,43 @@
     "company_url": "https://simplify.jobs/c/01cc059f-be6a-46bf-bf96-9f4a53df2e8d",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Yodlee",
+    "id": "cee4b8fd-1314-41bf-a307-e82ec4214c0e",
+    "title": "Data Science Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1742931879,
+    "date_posted": 1742931879,
+    "url": "https://jobs.jobvite.com/yodlee/job/oSXHvfwL?nl=1&nl=1&fr=false",
+    "locations": [
+      "Raleigh, NC"
+    ],
+    "company_url": "https://simplify.jobs/c/Yodlee",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Lennox International",
+    "id": "26219061-24d6-48d7-9c25-141b365f00eb",
+    "title": "Finance & Sourcing Analytics Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1742931799,
+    "date_posted": 1742931799,
+    "url": "https://uscareers-lennox.icims.com/jobs/47860/job",
+    "locations": [
+      "Richardson, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Lennox-International",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
