@@ -65451,5 +65451,24 @@
     "company_url": "https://simplify.jobs/c/Lennox-International",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Actian",
+    "id": "d55a7340-765c-4242-a8e7-0072a883d727",
+    "title": "Informix Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1742933555,
+    "date_posted": 1742933555,
+    "url": "https://jobs.lever.co/actian/b96166fd-da5e-419d-b284-291e5d50854c/apply",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/actian",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
