@@ -65354,5 +65354,24 @@
     "company_url": "https://simplify.jobs/c/Cloudflare",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "World Kinect",
+    "id": "b7ff1cbc-fa47-436b-a965-1a69e88f9404",
+    "title": "Technology Internship Program",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1742886846,
+    "date_posted": 1742886846,
+    "url": "https://wfscorp.wd5.myworkdayjobs.com/wfscareers/job/MIAMI-FL/Technology-Internship-Program_R21064",
+    "locations": [
+      "Miami, FL"
+    ],
+    "company_url": "https://simplify.jobs/c/World-Kinect",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
