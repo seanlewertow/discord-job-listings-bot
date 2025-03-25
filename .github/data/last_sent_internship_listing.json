@@ -65392,5 +65392,26 @@
     "company_url": "https://simplify.jobs/c/3f74d8b1-5d66-4d3b-b4b2-52ec6c78afc3",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Sarepta",
+    "id": "daabb331-5d7b-4e7c-930f-0ee96ccaefd9",
+    "title": "Business Systems Analyst Co-op",
+    "active": true,
+    "terms": [
+      "Summer 2025",
+      "Fall 2025",
+      "Winter 2026"
+    ],
+    "date_updated": 1742918731,
+    "date_posted": 1742918731,
+    "url": "https://sarepta.wd5.myworkdayjobs.com/en-US/sarepta_external/job/United-States/Business-Systems-Analyst-Co-op_R-02915-1",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/01cc059f-be6a-46bf-bf96-9f4a53df2e8d",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
