@@ -65489,5 +65489,43 @@
     "company_url": "https://simplify.jobs/c/e38ff337-ef4e-42b4-b1fc-e1834b3b603f",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Trimble",
+    "id": "98e8cd50-f996-467e-9211-2fc1661975c3",
+    "title": "Software Development Engineer in Test Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1742936869,
+    "date_posted": 1742936869,
+    "url": "https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/US---CO-Westminster/Software-Development-Engineer-in-Test-Intern_R46897",
+    "locations": [
+      "Westminster, CO"
+    ],
+    "company_url": "https://simplify.jobs/c/Trimble",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Keysight Technologies, Inc.",
+    "id": "be4be629-f501-4f61-9045-c8bc5ebc72f9",
+    "title": "Intern Tech III",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1742937163,
+    "date_posted": 1741908668,
+    "url": "https://jobs.keysight.com/jobs/47119?lang=en-us&icims=1",
+    "locations": [
+      "Santa Rosa, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Keysight-Technologies-Inc",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
