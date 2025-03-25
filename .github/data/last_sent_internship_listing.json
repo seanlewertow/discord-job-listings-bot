@@ -65107,5 +65107,81 @@
     "company_url": "https://simplify.jobs/c/BlackSky",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Capital One",
+    "id": "1b532684-afa6-42d1-b520-4a6df0a66f12",
+    "title": "Intern \u2013 Data Scientist",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1742872236,
+    "date_posted": 1742872236,
+    "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Intern--Data-Scientist--Fall-2025-_R211237",
+    "locations": [
+      "Toronto, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Capital-One",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Cibc",
+    "id": "1cbed046-0fef-4ded-9f06-1912373a7d56",
+    "title": "2026 Corporate Banking Summer Analyst - Trading Credit",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1742873224,
+    "date_posted": 1742873224,
+    "url": "https://cibc.wd3.myworkdayjobs.com/campus/job/New-York-NY/XMLNAME-2026-Corporate-Banking-Summer-Analyst---Trading-Credit_2504615",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Cibc",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Block",
+    "id": "842672e9-91f3-4895-abfa-e057cee5877c",
+    "title": "Data Science Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1742872952,
+    "date_posted": 1742872952,
+    "url": "http://block.xyz/careers/jobs/4596696008?gh_jid=4596696008",
+    "locations": [
+      "Toronto, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Block",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Lumentum",
+    "id": "1ba16af8-1e5f-47b0-b89d-1f6fd91887f4",
+    "title": "Software Development Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1742872856,
+    "date_posted": 1742872856,
+    "url": "https://lumentum.wd5.myworkdayjobs.com/en-US/LITE/job/USA---CA---San-Jose-Ridder/Software-Development-Intern_2025469",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/0985b121-88fd-4402-aea9-c0c55bfbbc99",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
