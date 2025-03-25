@@ -65470,5 +65470,24 @@
     "company_url": "https://simplify.jobs/c/actian",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "ATPCO",
+    "id": "24e10e42-a381-4ce5-9ea7-fb2e7544a307",
+    "title": "Software Engineer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1742934925,
+    "date_posted": 1742934925,
+    "url": "https://jobs.smartrecruiters.com/ATPCO1/744000049886715",
+    "locations": [
+      "Reston, VA"
+    ],
+    "company_url": "https://simplify.jobs/c/e38ff337-ef4e-42b4-b1fc-e1834b3b603f",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
