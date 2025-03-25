@@ -65527,5 +65527,24 @@
     "company_url": "https://simplify.jobs/c/Keysight-Technologies-Inc",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Yodlee",
+    "id": "f125f4be-b98a-441f-9afe-32fd271fb6f8",
+    "title": "Data Science Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1742941577,
+    "date_posted": 1742941577,
+    "url": "https://jobs.jobvite.com/yodlee/job/oXWHvfwP?nl=1&nl=1&fr=false",
+    "locations": [
+      "Raleigh, NC"
+    ],
+    "company_url": "https://simplify.jobs/c/Yodlee",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
