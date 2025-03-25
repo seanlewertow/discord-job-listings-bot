@@ -64836,5 +64836,81 @@
     "company_url": "https://simplify.jobs/c/f22ab711-4900-472d-be8a-7263e99e49fa",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Bloom Energy",
+    "id": "20512dc8-f2a8-4104-8e97-7ef9b6137fa4",
+    "title": "Business Intelligence Reporting Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1741061957,
+    "date_posted": 1741061957,
+    "url": "https://bloomenergy.wd1.myworkdayjobs.com/bloomenergycareers/job/Newark-Delaware/Business-Intelligence-Reporting-Intern---Master-s_JR-19486",
+    "locations": [
+      "Newark, DE"
+    ],
+    "company_url": "https://simplify.jobs/c/Bloom-Energy",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Zeiss",
+    "id": "c73b7a8a-d8da-4f44-8e61-f13f7b2cef31",
+    "title": "Intern-Systems Engineering",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1741918289,
+    "date_posted": 1740212312,
+    "url": "https://zeissgroup.wd3.myworkdayjobs.com/External/job/Dublin-CA/Intern-Systems-Engineering_JR_1007742",
+    "locations": [
+      "Dublin, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Zeiss",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Schonfeld",
+    "id": "06567af3-68b6-450d-84d1-641f3caf8349",
+    "title": "Applied Technology Summer Internship",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1741908803,
+    "date_posted": 1738021537,
+    "url": "https://job-boards.greenhouse.io/schonfeld/jobs/6577169",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Schonfeld",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "ZOLL Medical Corporation",
+    "id": "a75315fd-d033-4d25-bfa1-526099ca2431",
+    "title": "IT Application Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1742001431,
+    "date_posted": 1741793365,
+    "url": "https://zoll.wd5.myworkdayjobs.com/en-US/ZOLLMedicalCorp/job/Pittsburgh-PA/IT-Application-Intern_R12677",
+    "locations": [
+      "Pittsburgh, PA"
+    ],
+    "company_url": "https://simplify.jobs/c/ee618baa-00a6-40a4-a272-ee5c1f9a73dd",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
