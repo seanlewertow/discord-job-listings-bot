@@ -65316,5 +65316,43 @@
     "company_url": "https://simplify.jobs/c/Mercedes-Benz",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "OpenX",
+    "id": "22ad65c6-dd9b-470c-a1f0-7459889af43a",
+    "title": "Internship - Business Intelligence",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1741918416,
+    "date_posted": 1740544706,
+    "url": "https://jobs.lever.co/openx/39e20019-4f97-4cb3-9075-358eec32abf2/apply",
+    "locations": [
+      "LA"
+    ],
+    "company_url": "https://simplify.jobs/c/OpenX",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Cloudflare",
+    "id": "4a5bcfae-866e-4d3f-a311-d3d544a3c767",
+    "title": "Technical Marketing Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1741907288,
+    "date_posted": 1741734594,
+    "url": "https://boards.greenhouse.io/cloudflare/jobs/6670985",
+    "locations": [
+      "Austin, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Cloudflare",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
