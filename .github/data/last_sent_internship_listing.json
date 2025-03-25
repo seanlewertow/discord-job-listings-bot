@@ -65259,5 +65259,62 @@
     "company_url": "https://simplify.jobs/c/3f74d8b1-5d66-4d3b-b4b2-52ec6c78afc3",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Leidos",
+    "id": "cb2f7118-2f8f-4267-ac44-7fe3b0547c3c",
+    "title": "Systems Engineering & Agile Intern",
+    "active": true,
+    "terms": [
+      "Spring 2025"
+    ],
+    "date_updated": 1742874537,
+    "date_posted": 1742874537,
+    "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Orlando-FL/Systems-Engineering---Agile-Intern_R-00156164",
+    "locations": [
+      "Orlando, FL"
+    ],
+    "company_url": "https://simplify.jobs/c/Leidos",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Leidos",
+    "id": "1c417f47-cfa4-4206-9108-5c99cba7449e",
+    "title": "Technical Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1742874532,
+    "date_posted": 1742874532,
+    "url": "https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Technical-Intern_R-00156162",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/Leidos",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Mercedes-Benz",
+    "id": "4aeba60e-9763-4039-9d89-acab9d7d1a1d",
+    "title": "Intern \u2013 Release Engineer",
+    "active": true,
+    "terms": [
+      "Winter 2024"
+    ],
+    "date_updated": 1742329346,
+    "date_posted": 1741635430,
+    "url": "https://jobs.lever.co/MBRDNA/54847dd2-c1ac-463c-9b5f-b0d95428e464/apply",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Mercedes-Benz",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
