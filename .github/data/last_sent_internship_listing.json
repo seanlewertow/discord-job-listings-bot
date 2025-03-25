@@ -65011,5 +65011,101 @@
     "company_url": "https://simplify.jobs/c/f006a158-9398-482e-9a19-a635e79862ae",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "GlobalFoundries",
+    "id": "e3c0e48d-f813-4cf6-bba4-1981a170a7d2",
+    "title": "Frame Design Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1741978012,
+    "date_posted": 1741978012,
+    "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Vermont---Essex-Junction/Frame-Design-Intern--Summer-2025-_JR-2403491",
+    "locations": [
+      "Burlington, VT"
+    ],
+    "company_url": "https://simplify.jobs/c/GlobalFoundries",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Vizient ",
+    "id": "95f82993-bd62-4810-b01f-2d692d26cfe8",
+    "title": "Summer Intern-Corp IT",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1742297679,
+    "date_posted": 1742297679,
+    "url": "https://vizient.wd1.myworkdayjobs.com/Vizient_Careers/job/Chicago-IL-60607/Summer-Intern---Corp-IT_29794R",
+    "locations": [
+      "Centennial, CO",
+      "Chicago, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/85ed65fb-d411-473a-a950-b4d5c8ad7bdf",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "RoviSys",
+    "id": "59cbcf9a-8096-4cae-846f-ca679bc43ce4",
+    "title": "Co-op",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1741908216,
+    "date_posted": 1741735506,
+    "url": "https://careers-rovisys.icims.com/jobs/1753/job",
+    "locations": [
+      "Twinsburg, OH"
+    ],
+    "company_url": "https://simplify.jobs/c/RoviSys",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "RoviSys",
+    "id": "a4e89087-bab1-4c00-97ae-d0727495f79b",
+    "title": "Co-op",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1741908215,
+    "date_posted": 1741735506,
+    "url": "https://careers-rovisys.icims.com/jobs/1754/job",
+    "locations": [
+      "Holly Springs, NC"
+    ],
+    "company_url": "https://simplify.jobs/c/RoviSys",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "BlackSky",
+    "id": "2ae09e6d-52aa-4de3-a8f9-2eed8b9e7c3a",
+    "title": "Geospatial Analysis Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1741908361,
+    "date_posted": 1740097299,
+    "url": "https://boards.greenhouse.io/blacksky/jobs/7856071002",
+    "locations": [
+      "Reston, VA"
+    ],
+    "company_url": "https://simplify.jobs/c/BlackSky",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
