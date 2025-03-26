@@ -65966,5 +65966,24 @@
     "company_url": "https://simplify.jobs/c/Epicor",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Integral Ad Science",
+    "id": "e84ad5f3-bfd1-48f5-b0eb-c5c4b5224f80",
+    "title": "Software Engineering Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1743017382,
+    "date_posted": 1743017382,
+    "url": "https://ats.comparably.com/api/v1/gh/integraladscience/jobs/6745569?gh_jid=6745569",
+    "locations": [
+      "SF"
+    ],
+    "company_url": "https://simplify.jobs/c/Integral-Ad-Science",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
