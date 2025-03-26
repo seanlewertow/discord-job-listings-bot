@@ -65717,5 +65717,24 @@
     "company_url": "https://simplify.jobs/c/Western-Digital",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "date_updated": 1742988002,
+    "url": "https://mercor.com/jobs/list_AAABlTvltX-cEUOy_rpG57z9/",
+    "company_name": "Mercor",
+    "title": "Software Engineering Intern",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "terms": [
+      "Summer 2025"
+    ],
+    "sponsorship": "Does Not Offer Sponsorship",
+    "active": true,
+    "source": "jwstanly",
+    "id": "07dfdc4b-fcdf-4507-bf9b-07b534b08ea7",
+    "date_posted": 1742988002,
+    "company_url": "",
+    "is_visible": true
   }
 ]
