@@ -9832,5 +9832,55 @@
     "company_url": "https://simplify.jobs/c/Jerry",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Western Digital",
+    "id": "375e5b72-c155-4bce-9f71-2a92341e6773",
+    "title": "New College Grad - Software Development Engineering - Apps",
+    "active": true,
+    "date_updated": 1742936758,
+    "date_posted": 1742936758,
+    "url": "https://jobs.smartrecruiters.com/WesternDigital/744000049871275",
+    "locations": [
+      "Irvine, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Western-Digital",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Blue Origin",
+    "id": "870d7692-fbd8-4f17-828c-fb5b7618988d",
+    "title": "Software Development Engineer I \u2013 Early Career 2025 University Grad - Enterprise Technology",
+    "active": true,
+    "date_updated": 1742947703,
+    "date_posted": 1742947703,
+    "url": "https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Seattle-WA/Software-Development-Engineer-I---Enterprise-Technology---Early-Career-2025-University-Grad_R50585",
+    "locations": [
+      "Seattle, WA",
+      "Huntsville, AL"
+    ],
+    "company_url": "https://simplify.jobs/c/Blue-Origin",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Splunk",
+    "id": "48b6fe61-fbcb-4e57-9576-4bf7c8b19a0a",
+    "title": "Fedramp Software Engineer \u2013 Early Career",
+    "active": true,
+    "date_updated": 1742934647,
+    "date_posted": 1742934647,
+    "url": "https://jobs.jobvite.com/splunk-careers/job/ozXHvfws?nl=1&nl=1&fr=false",
+    "locations": [
+      "Colorado",
+      "North Carolina"
+    ],
+    "company_url": "https://simplify.jobs/c/Splunk",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
