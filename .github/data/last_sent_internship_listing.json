@@ -65755,5 +65755,25 @@
     "company_url": "https://simplify.jobs/c/Gen",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Extreme Networks",
+    "id": "f030f8a1-b67d-47a0-9e46-56aeb8e5dbe2",
+    "title": "Intern \u2013 Micro Controller Developer",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1742944165,
+    "date_posted": 1742944165,
+    "url": "https://jobs.lever.co/extremenetworks/174c3177-17f4-43f7-8d55-8284c843f435/apply",
+    "locations": [
+      "Raleigh, NC",
+      "Salem, NH"
+    ],
+    "company_url": "https://simplify.jobs/c/Extreme-Networks",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
