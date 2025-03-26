@@ -65833,5 +65833,24 @@
     "company_url": "https://simplify.jobs/c/Disney",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Illumio",
+    "id": "f74b3fc8-721f-4c06-bd02-cda0f21dd5a9",
+    "title": "Engineering Intern - Architecture",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1743017256,
+    "date_posted": 1743017256,
+    "url": "https://www.illumio.com/company/job-listing?gh_jid=7926625002",
+    "locations": [
+      "Sunnyvale, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Illumio",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
