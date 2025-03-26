@@ -65641,5 +65641,62 @@
     "company_url": "https://simplify.jobs/c/Chime",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Copart",
+    "id": "c100e296-5f5e-4b89-9b53-ce606d2e3eae",
+    "title": "Software Engineering Intern",
+    "active": true,
+    "terms": [
+      "Spring 2025"
+    ],
+    "date_updated": 1742961271,
+    "date_posted": 1742961271,
+    "url": "https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR102141",
+    "locations": [
+      "Dallas, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Copart",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "date_updated": 1742961801,
+    "url": "https://us242.dayforcehcm.com/CandidatePortal/en-US/fleetcor/Posting/View/43245",
+    "company_name": "Corpay",
+    "title": "Software Engineering Intern",
+    "locations": [
+      "Toronto, ON, Canada"
+    ],
+    "terms": [
+      "Summer 2025"
+    ],
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "source": "GaryZhous",
+    "id": "56f36070-5482-477c-9372-20f5e6a315f0",
+    "date_posted": 1742961801,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1742961891,
+    "url": "https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Intern/206685",
+    "company_name": "Electronic Arts (EA)",
+    "title": "Software Engineer Intern",
+    "locations": [
+      "Vancouver, Canada"
+    ],
+    "terms": [
+      "Summer 2025"
+    ],
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "source": "GaryZhous",
+    "id": "201669c4-dec4-4545-9ac9-2234a785a1f8",
+    "date_posted": 1742961891,
+    "company_url": "",
+    "is_visible": true
   }
 ]
