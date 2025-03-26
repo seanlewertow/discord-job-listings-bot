@@ -65852,5 +65852,24 @@
     "company_url": "https://simplify.jobs/c/Illumio",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "PlusAI",
+    "id": "78b59bc0-957f-4997-9660-2deedb3169c4",
+    "title": "Intern-Technical Program Management",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1743018238,
+    "date_posted": 1743018238,
+    "url": "https://jobs.lever.co/plus-2/421504c0-6c62-4ec2-a0f8-4d5c6b31974f/apply",
+    "locations": [
+      "Santa Clara, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Plus",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
