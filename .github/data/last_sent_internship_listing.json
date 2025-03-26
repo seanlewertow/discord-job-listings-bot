@@ -65871,5 +65871,100 @@
     "company_url": "https://simplify.jobs/c/Plus",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Integral Ad Science",
+    "id": "ced93194-d43b-44ec-8d51-c054ebb91270",
+    "title": "Software Engineer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1743017383,
+    "date_posted": 1743017383,
+    "url": "https://ats.comparably.com/api/v1/gh/integraladscience/jobs/6745714?gh_jid=6745714",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Integral-Ad-Science",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Actian",
+    "id": "41ad0f11-0b33-4c89-8d17-8d5e5144ca7c",
+    "title": "Engineering Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1743019384,
+    "date_posted": 1743019384,
+    "url": "https://jobs.lever.co/actian/d7e063da-d994-46bc-b0d1-f001b7e48988/apply",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/actian",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Integral Ad Science",
+    "id": "d20c53c4-3fd6-4cd8-a68b-fad93f67f06d",
+    "title": "Software Engineer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1743017384,
+    "date_posted": 1743017384,
+    "url": "https://ats.comparably.com/api/v1/gh/integraladscience/jobs/6745726?gh_jid=6745726",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Integral-Ad-Science",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Cadence Design Systems",
+    "id": "cf0549c8-0bb8-438b-8071-0c48783b6dbc",
+    "title": "Software Internship - Linux ARM Project",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1743018354,
+    "date_posted": 1743018354,
+    "url": "https://cadence.wd1.myworkdayjobs.com/en-US/External_Careers/job/HOME-MA/Software-Internship--Linux-ARM-Project--Summer-2025-_R49512-2",
+    "locations": [
+      "Massachusetts"
+    ],
+    "company_url": "https://simplify.jobs/c/Cadence-Design-Systems",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Epicor",
+    "id": "6d1d8fdc-c44b-454d-95b6-3275092acacf",
+    "title": "Intern \u2013 Data Telemetry Developer",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1743017093,
+    "date_posted": 1742339753,
+    "url": "https://epicorsoftware.wd5.myworkdayjobs.com/epicorjobs/job/US-Austin-Las-Cimas/Intern---Data-Telemetry-Developer_JR101639",
+    "locations": [
+      "Austin, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Epicor",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
