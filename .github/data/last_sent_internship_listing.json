@@ -65546,5 +65546,100 @@
     "company_url": "https://simplify.jobs/c/Yodlee",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Seurat Technologies",
+    "id": "16ab732d-bdb4-479e-8af0-04ad763c75df",
+    "title": "Application Engineering Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1742948061,
+    "date_posted": 1742948061,
+    "url": "https://job-boards.greenhouse.io/seurat/jobs/4544053005",
+    "locations": [
+      "Burlington, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/Seurat-Technologies",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Curri",
+    "id": "9e7d05cd-a124-4a23-9d79-409e1c511ada",
+    "title": "Software Engineer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1742947958,
+    "date_posted": 1742947958,
+    "url": "https://jobs.lever.co/curri/2615a18f-60a2-41b2-a42b-53ae2703fa21/apply",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/Curri",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Dick's Sporting Goods",
+    "id": "c5ffb5e0-fe3e-485a-aed4-d195bd7a5b20",
+    "title": "Backend Software Engineer Intern - Core Services",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1742947498,
+    "date_posted": 1742947498,
+    "url": "https://dickssportinggoods.wd1.myworkdayjobs.com/en-US/DSG/job/06083-GameChanger/Backend-Software-Engineer-Intern--Core-Services_202505090",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Dicks-Sporting-Goods",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Guidewire",
+    "id": "eeebc367-f2d9-4fa2-97b9-193a6b7e970d",
+    "title": "Data Analyst Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1742949068,
+    "date_posted": 1742949068,
+    "url": "https://wd5.myworkdaysite.com/en-US/recruiting/guidewire/external/job/United-States---Philadelphia-PA/Data-Analyst-Intern_JR_13038",
+    "locations": [
+      "Philadelphia, PA"
+    ],
+    "company_url": "https://simplify.jobs/c/Guidewire",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Chime",
+    "id": "5cf147f2-75be-440e-93d5-3215f484d815",
+    "title": "Data Analytics Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1742948573,
+    "date_posted": 1742948573,
+    "url": "https://boards.greenhouse.io/chime/jobs/7903878002",
+    "locations": [
+      "SF"
+    ],
+    "company_url": "https://simplify.jobs/c/Chime",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
