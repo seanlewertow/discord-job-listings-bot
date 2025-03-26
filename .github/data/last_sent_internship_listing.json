@@ -65775,5 +65775,24 @@
     "company_url": "https://simplify.jobs/c/Extreme-Networks",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "GlobalFoundries",
+    "id": "c86f3fe3-8cb0-40ef-b0ab-4dbdb74a4ceb",
+    "title": "Tapeout Engineering Biz Apps & Data Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1743004116,
+    "date_posted": 1743004116,
+    "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Austin/Tapeout-Engineering-Biz-Apps---Data-Intern--Summer-2025-_JR-2403304",
+    "locations": [
+      "Austin, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/GlobalFoundries",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
