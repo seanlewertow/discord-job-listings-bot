@@ -65736,5 +65736,24 @@
     "date_posted": 1742988002,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Gen",
+    "id": "1598a3c0-7cc4-48cb-85f8-8cc77c7eaff2",
+    "title": "Software Engineering Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1743004705,
+    "date_posted": 1743004705,
+    "url": "https://gen.wd1.myworkdayjobs.com/careers/job/USA---Arizona-Tempe/Software-Engineering-Intern_54109-1",
+    "locations": [
+      "Tempe, AZ"
+    ],
+    "company_url": "https://simplify.jobs/c/Gen",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
