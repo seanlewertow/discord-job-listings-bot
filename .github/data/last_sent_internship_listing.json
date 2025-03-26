@@ -65698,5 +65698,24 @@
     "date_posted": 1742961891,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Western Digital",
+    "id": "9dfaf963-3e54-43f1-af22-fbbe15debd8e",
+    "title": "Summer 2025 Intern - ML & Wafer Defect Inspection",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1742960417,
+    "date_posted": 1742960417,
+    "url": "https://jobs.smartrecruiters.com/WesternDigital/744000049925945",
+    "locations": [
+      "Fremont, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Western-Digital",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
