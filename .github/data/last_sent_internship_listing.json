@@ -66220,5 +66220,43 @@
     "company_url": "https://simplify.jobs/c/Booz-Allen",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Nokia",
+    "id": "51e6a849-f334-41d2-9482-6853f6fe468b",
+    "title": "Software Dev Cloud Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1743107217,
+    "date_posted": 1743107217,
+    "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/job/16720",
+    "locations": [
+      "Naperville, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/Nokia",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Guardian Life",
+    "id": "1eb3ba2f-e944-494a-9799-32c4dbb17f19",
+    "title": "2025 Guardian Summer Intern - Data Science",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1743107251,
+    "date_posted": 1743107251,
+    "url": "https://guardianlife.wd5.myworkdayjobs.com/Guardian-Life-Careers/job/New-York/XMLNAME-2025-Guardian-Life-Summer-Intern--Data-Science_R000104435",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Guardian-Life",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
