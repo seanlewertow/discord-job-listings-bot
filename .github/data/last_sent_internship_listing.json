@@ -66278,5 +66278,101 @@
     "company_url": "https://simplify.jobs/c/Scout-Motors",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "RTX",
+    "id": "c2209106-432a-4cf5-b1c9-c72c4a29ec2f",
+    "title": "Web Software Developer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1743108983,
+    "date_posted": 1743108983,
+    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/HIA32-Cedar-Rapids-IA-400-Collins-Rd-NE---Cedar-Rapids-IA-52498-0505-USA/Web-Software-Developer-Intern--Summer-2025--Onsite-_01715580-1",
+    "locations": [
+      "Cedar Rapids, IA"
+    ],
+    "company_url": "https://simplify.jobs/c/RTX",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Cibc",
+    "id": "221c444c-3af0-4694-ba32-8954aa1b48f0",
+    "title": "Application/Software Developer Co-op",
+    "active": true,
+    "terms": [
+      "Winter 2025",
+      "Spring 2025"
+    ],
+    "date_updated": 1743108872,
+    "date_posted": 1743108872,
+    "url": "https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Application-Software-Developer-Co-op---12-Months_2502191",
+    "locations": [
+      "Toronto, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Cibc",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Eversource Energy",
+    "id": "d5e19f69-62e6-49a1-8696-661cd509474f",
+    "title": "IT Artificial Intelligence \u2013 Intern - AI",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1743108834,
+    "date_posted": 1743108834,
+    "url": "https://eversource.wd1.myworkdayjobs.com/ExternalSite/job/Westwood-MA/XMLNAME-2025-Summer-IT-Artificial-Intelligence--AI--Intern_R-026876",
+    "locations": [
+      "Norwood, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/Eversource-Energy",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Delta Dental",
+    "id": "3e39cc85-8e50-4f58-8acf-fafdd5fdeee2",
+    "title": "Internship - Application Development",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1743108528,
+    "date_posted": 1743108528,
+    "url": "https://rhsc.wd5.myworkdayjobs.com/delta_dental_of_michigan/job/Okemos-MI/Internship---Application-Development_JR100758",
+    "locations": [
+      "East Lansing, MI"
+    ],
+    "company_url": "https://simplify.jobs/c/Delta-Dental",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Applied Materials",
+    "id": "58f236f1-771f-4718-bf0b-b2bf304b1167",
+    "title": "Process Modeling and Optimization Intern - Advanced Degree",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1743108495,
+    "date_posted": 1743108495,
+    "url": "https://amat.wd1.myworkdayjobs.com/en-US/External/job/BoiseID/XMLNAME-2025-Summer-Process-Engineer-Intern--Advanced-Degree-_R2512117-1",
+    "locations": [
+      "Boise, ID"
+    ],
+    "company_url": "https://simplify.jobs/c/Applied-Materials",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
