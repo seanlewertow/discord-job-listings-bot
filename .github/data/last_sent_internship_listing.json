@@ -66064,5 +66064,28 @@
     "company_url": "https://simplify.jobs/c/Northwestern-Mutual",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Tanium",
+    "id": "1195781c-930a-4d9a-a4f7-47afb2fa9080",
+    "title": "Data Scientist Intern",
+    "active": true,
+    "terms": [
+      "Summer 2024",
+      "Fall 2024",
+      "Winter 2025",
+      "Spring 2025",
+      "Summer 2025"
+    ],
+    "date_updated": 1743066205,
+    "date_posted": 1743066205,
+    "url": "https://www.tanium.com/careers/6701221?gh_jid=6701221",
+    "locations": [
+      "Durham, NC"
+    ],
+    "company_url": "https://simplify.jobs/c/Tanium",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
