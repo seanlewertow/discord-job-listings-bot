@@ -66450,5 +66450,24 @@
     "company_url": "https://simplify.jobs/c/Copart",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Cirkul",
+    "id": "4b470b34-3a70-4eae-98d4-47809c9855e4",
+    "title": "Data Engineering Coop",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1743116865,
+    "date_posted": 1743116865,
+    "url": "https://drinkcirkul.com/pages/careers?gh_jid=4690768007",
+    "locations": [
+      "Belmont, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/Cirkul",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
