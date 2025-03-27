@@ -66087,5 +66087,24 @@
     "company_url": "https://simplify.jobs/c/Tanium",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Leidos",
+    "id": "6493912b-614b-4fe3-bf0d-b3d78c71c6aa",
+    "title": "Summer Intern - Defense Digital Engineering Undergrad",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1743067895,
+    "date_posted": 1743067895,
+    "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Reston-VA/Summer-Intern---Defense-Digital-Engineering-Undergrad_R-00156332",
+    "locations": [
+      "Reston, VA"
+    ],
+    "company_url": "https://simplify.jobs/c/Leidos",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
