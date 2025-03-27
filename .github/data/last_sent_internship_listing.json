@@ -66374,5 +66374,62 @@
     "company_url": "https://simplify.jobs/c/Applied-Materials",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "RTX",
+    "id": "094313df-f232-4d1b-8b8c-c0d60e002231",
+    "title": "Software Engineering Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1743110154,
+    "date_posted": 1743110154,
+    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/HOR32-Wilsonville-OR-27300-SW-Parkway---Wilsonville-OR-97070-9215-USA/Software-Engineering-Intern--Summer-2025---Onsite-_01759474",
+    "locations": [
+      "Tualatin, OR"
+    ],
+    "company_url": "https://simplify.jobs/c/RTX",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "ICF",
+    "id": "9e699572-fd8b-4634-bf20-c02137f95927",
+    "title": "Data Science intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1743109819,
+    "date_posted": 1743109819,
+    "url": "https://icf.wd5.myworkdayjobs.com/en-US/ICFExternal_Career_Site/job/London-GB80/Data-Science-intern_R2500853",
+    "locations": [
+      "London, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/750f50d0-c3f8-4334-822f-fb70fa81b529",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "David Zwirner Gallery",
+    "id": "79454b57-aa15-4548-9d7d-b42e790252ea",
+    "title": "Technical Operations Internship",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1743109494,
+    "date_posted": 1743109494,
+    "url": "https://job-boards.greenhouse.io/davidzwirnergallery/jobs/4691146007",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/David-Zwirner-Gallery",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
