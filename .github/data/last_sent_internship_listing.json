@@ -66106,5 +66106,24 @@
     "company_url": "https://simplify.jobs/c/Leidos",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Live Nation Entertainment",
+    "id": "6eaf21ab-5bae-4b4b-9919-404fec70c959",
+    "title": "Software Engineer Intern",
+    "active": true,
+    "terms": [
+      "Spring 2025"
+    ],
+    "date_updated": 1743066507,
+    "date_posted": 1743066507,
+    "url": "https://livenation.wd1.myworkdayjobs.com/en-US/LNExternalSite/job/Work-From-Home---California/Software-Engineer-Intern_JR-77573-3",
+    "locations": [
+      "California"
+    ],
+    "company_url": "https://simplify.jobs/c/Live-Nation-Entertainment",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
