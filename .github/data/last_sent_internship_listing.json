@@ -66125,5 +66125,62 @@
     "company_url": "https://simplify.jobs/c/Live-Nation-Entertainment",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "ByteDance",
+    "id": "d0392b41-76ff-473a-9b8d-d669f5bcef00",
+    "title": "Machine Learning Engineer Intern - Search-Tiktok Recommendation - BS/MS",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1743063805,
+    "date_posted": 1743063805,
+    "url": "https://jobs.bytedance.com/en/position/7485994254700366088/detail",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "company_url": "https://simplify.jobs/c/3f74d8b1-5d66-4d3b-b4b2-52ec6c78afc3",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "ByteDance",
+    "id": "9ba20427-57a6-43e2-a14a-3edabe7ab4d8",
+    "title": "Machine Learning Engineer Intern - Search-Tiktok Recommendation",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1743063805,
+    "date_posted": 1743063805,
+    "url": "https://jobs.bytedance.com/en/position/7397631485198731529/detail",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/3f74d8b1-5d66-4d3b-b4b2-52ec6c78afc3",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "PlusAI",
+    "id": "285d65c8-b718-4853-84d3-4081591c19ed",
+    "title": "Software Engineer Intern-Runtime - Compute Platform",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1743064817,
+    "date_posted": 1743064817,
+    "url": "https://jobs.lever.co/plus-2/3181e5b7-db89-40ac-baa6-3e0cf73a2327/apply",
+    "locations": [
+      "Fremont, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Plus",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
