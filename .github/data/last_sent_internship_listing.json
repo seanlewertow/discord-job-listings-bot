@@ -66182,5 +66182,43 @@
     "company_url": "https://simplify.jobs/c/Plus",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Atlas Energy Solutions",
+    "id": "3f9dbc95-7a1e-4972-96bd-cc8c5970d4ea",
+    "title": "Developer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1743064562,
+    "date_posted": 1743064562,
+    "url": "https://boards.greenhouse.io/atlassand/jobs/7930682002",
+    "locations": [
+      "Austin, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Atlas-Energy-Solutions",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Booz Allen",
+    "id": "165bd7bd-7b50-4db6-ad77-5909f0715d70",
+    "title": "University \u2013 Systems Engineer Intern",
+    "active": true,
+    "terms": [
+      "Spring 2026"
+    ],
+    "date_updated": 1743064877,
+    "date_posted": 1743064877,
+    "url": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/University--Systems-Engineer-Intern_R0217680",
+    "locations": [
+      "McLean, VA"
+    ],
+    "company_url": "https://simplify.jobs/c/Booz-Allen",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
