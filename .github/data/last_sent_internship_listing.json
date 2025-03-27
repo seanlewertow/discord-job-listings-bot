@@ -66004,5 +66004,65 @@
     "company_url": "https://simplify.jobs/c/actian",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Nokia",
+    "id": "d20245f3-0f9b-48cc-af69-3058a954a151",
+    "title": "Software Developer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1743035861,
+    "date_posted": 1743035861,
+    "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/job/18350",
+    "locations": [
+      "Berkeley Heights, NJ"
+    ],
+    "company_url": "https://simplify.jobs/c/Nokia",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Vestwell",
+    "id": "6d27440a-530a-4612-9e5a-625bc6b5eeec",
+    "title": "Intern \u2013 Engineering",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1743035844,
+    "date_posted": 1743035844,
+    "url": "https://job-boards.greenhouse.io/vestwell/jobs/6522967003",
+    "locations": [
+      "King of Prussia, PA",
+      "Austin, TX",
+      "NYC",
+      "Phoenix, AZ"
+    ],
+    "company_url": "https://simplify.jobs/c/Vestwell",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Northwestern Mutual",
+    "id": "140b5cde-70a8-4ba0-aa3b-27006e43acc8",
+    "title": "Analytics Engineering Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1743035849,
+    "date_posted": 1743035849,
+    "url": "https://northwesternmutual.wd5.myworkdayjobs.com/corporate-careers/job/Milwaukee-WI-Corporate/Analytics-Engineering-Intern_JR-42872",
+    "locations": [
+      "Milwaukee, WI"
+    ],
+    "company_url": "https://simplify.jobs/c/Northwestern-Mutual",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
