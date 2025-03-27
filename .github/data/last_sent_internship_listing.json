@@ -66258,5 +66258,25 @@
     "company_url": "https://simplify.jobs/c/Guardian-Life",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Scout Motors",
+    "id": "a20ab783-578a-4a35-b4be-3e3db4109ac2",
+    "title": "Intern \u2013 Production - Plant Launch",
+    "active": true,
+    "terms": [
+      "Spring 2025",
+      "Summer 2025"
+    ],
+    "date_updated": 1743107652,
+    "date_posted": 1743107652,
+    "url": "https://job-boards.greenhouse.io/scoutmotors/jobs/4689710007",
+    "locations": [
+      "Columbia, SC"
+    ],
+    "company_url": "https://simplify.jobs/c/Scout-Motors",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
