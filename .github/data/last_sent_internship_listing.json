@@ -66545,5 +66545,24 @@
     "company_url": "https://simplify.jobs/c/Eversource-Energy",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Intuitive Surgical",
+    "id": "66c375ef-24cc-41f1-9290-e37f841f13ba",
+    "title": "Data Science Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1743196910,
+    "date_posted": 1743196910,
+    "url": "https://jobs.smartrecruiters.com/Intuitive/744000050438061",
+    "locations": [
+      "Sunnyvale, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Intuitive-Surgical",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
