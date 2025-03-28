@@ -66488,5 +66488,24 @@
     "company_url": "https://simplify.jobs/c/IXL-Learning",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "S&P Global ",
+    "id": "4770aa9c-60ac-4c64-bf25-23b6fab84640",
+    "title": "Upstream Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1743188268,
+    "date_posted": 1743188268,
+    "url": "https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Careers/job/US---MD---VIRTUAL/Upstream-Intern--GOLD-_312980",
+    "locations": [
+      "Houston, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/SP-Global",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
