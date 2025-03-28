@@ -66469,5 +66469,24 @@
     "company_url": "https://simplify.jobs/c/Cirkul",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "IXL Learning",
+    "id": "8bf50f56-4829-4a4a-9455-a4085c8b312e",
+    "title": "Software Engineer \u2013 Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1743187672,
+    "date_posted": 1743187672,
+    "url": "https://www.ixl.com/company/jobs?gh_jid=7914131002",
+    "locations": [
+      "Raleigh, NC"
+    ],
+    "company_url": "https://simplify.jobs/c/IXL-Learning",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
