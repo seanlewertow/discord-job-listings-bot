@@ -66507,5 +66507,24 @@
     "company_url": "https://simplify.jobs/c/SP-Global",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Spencer Stuart",
+    "id": "6480ba2b-0c62-4e6e-84cc-f865a7bc8bc9",
+    "title": "Intern \u2013 Data Analysis",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1743192933,
+    "date_posted": 1743192933,
+    "url": "https://spencerstuart.wd5.myworkdayjobs.com/Spencer_Stuart_External_Careers/job/Philadelphia/Intern---Data-Analysis_R4235",
+    "locations": [
+      "Philadelphia, PA"
+    ],
+    "company_url": "https://simplify.jobs/c/Spencer-Stuart",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
