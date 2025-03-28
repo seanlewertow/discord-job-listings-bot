@@ -66526,5 +66526,24 @@
     "company_url": "https://simplify.jobs/c/Spencer-Stuart",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Eversource Energy",
+    "id": "b4596a9b-bf57-4c89-9470-f9c1a4481cb9",
+    "title": "Business Process & Data Analysis Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1743193829,
+    "date_posted": 1743193829,
+    "url": "https://eversource.wd1.myworkdayjobs.com/ExternalSite/job/Hartford-CT/XMLNAME-2025-Summer-Business-Process---Data-Analysis-Intern_R-027045",
+    "locations": [
+      "Hartford, CT"
+    ],
+    "company_url": "https://simplify.jobs/c/Eversource-Energy",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
