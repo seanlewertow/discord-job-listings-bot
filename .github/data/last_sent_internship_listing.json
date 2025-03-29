@@ -66660,5 +66660,43 @@
     "company_url": "https://simplify.jobs/c/3f74d8b1-5d66-4d3b-b4b2-52ec6c78afc3",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Definitive Healthcare",
+    "id": "41d3c7d4-32f0-4f3b-b016-9787f50cac32",
+    "title": "Data Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1743232846,
+    "date_posted": 1743232846,
+    "url": "https://boards.greenhouse.io/definitivehc/jobs/5489192004",
+    "locations": [
+      "Framingham, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/Definitive-Healthcare",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Keysight Technologies, Inc.",
+    "id": "6e7a2e50-9d61-4bb6-bcc2-90e3d922e5e7",
+    "title": "Application Engineering Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1743232752,
+    "date_posted": 1743232752,
+    "url": "https://jobs.keysight.com/jobs/44432?lang=en-us&icims=1",
+    "locations": [
+      "Colorado Springs, CO"
+    ],
+    "company_url": "https://simplify.jobs/c/Keysight-Technologies-Inc",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
