@@ -66698,5 +66698,25 @@
     "company_url": "https://simplify.jobs/c/Keysight-Technologies-Inc",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "ByteDance",
+    "id": "24a645f9-c572-451f-b438-ee47c17721fe",
+    "title": "Software Engineer Intern - CDN/Edge/Traffic Platform - MS",
+    "active": true,
+    "terms": [
+      "Summer 2025",
+      "Fall 2025"
+    ],
+    "date_updated": 1743234743,
+    "date_posted": 1743234743,
+    "url": "https://jobs.bytedance.com/en/position/7486758790307940615/detail",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/3f74d8b1-5d66-4d3b-b4b2-52ec6c78afc3",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
