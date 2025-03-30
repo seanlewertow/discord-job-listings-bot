@@ -66737,5 +66737,43 @@
     "company_url": "https://simplify.jobs/c/Ohio-State-University-Columbus",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "The Home Depot",
+    "id": "0e7c3ed5-0cc8-4a11-bbb6-19ccd172f195",
+    "title": "Orangeworks Software Engineering Internship",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1743318712,
+    "date_posted": 1743318712,
+    "url": "https://homedepot.wd5.myworkdayjobs.com/en-US/CareerDepot/job/GEORGIA---VIRTUAL---GA01/OrangeWorks-Software-Engineering-Internship---Fall-2025_Req141300",
+    "locations": [
+      "Georgia"
+    ],
+    "company_url": "https://simplify.jobs/c/00c1909f-a319-4a12-b75e-478061f3ff68",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "RTX",
+    "id": "9e06cd44-71c1-4775-8907-18e5bbaf213c",
+    "title": "2025 Intern - Raytheon Software Engineer",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1743318534,
+    "date_posted": 1743318534,
+    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA601-Goleta-EW-Bldg-H01-6380-Hollister-Avenue-Building-H01-Goleta-CA-93117-USA/XMLNAME-2025-Intern---Raytheon-Software-Engineer--Onsite-_01759374",
+    "locations": [
+      "Goleta, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/RTX",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
