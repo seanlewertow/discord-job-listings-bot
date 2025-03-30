@@ -66718,5 +66718,24 @@
     "company_url": "https://simplify.jobs/c/3f74d8b1-5d66-4d3b-b4b2-52ec6c78afc3",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Ohio State University - Columbus",
+    "id": "07d6789d-0db1-4689-b55b-5ea15839b97a",
+    "title": "Student Intern - Cancer Program Analytics",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1743316485,
+    "date_posted": 1743316485,
+    "url": "https://osu.wd1.myworkdayjobs.com/OSUCareers/job/Medical-Center-Campus/Student-Intern---Cancer-Program-Analytics_R125616-2",
+    "locations": [
+      "Columbus, OH"
+    ],
+    "company_url": "https://simplify.jobs/c/Ohio-State-University-Columbus",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
