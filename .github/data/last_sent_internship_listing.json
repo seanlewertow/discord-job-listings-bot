@@ -66910,5 +66910,24 @@
     "company_url": "https://simplify.jobs/c/Western-Digital",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Formic",
+    "id": "a7904976-14cd-4d4d-82b0-4964273a512b",
+    "title": "Robotic Internship",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1743444021,
+    "date_posted": 1743315839,
+    "url": "https://job-boards.greenhouse.io/formic/jobs/4554136006",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/Formic",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
