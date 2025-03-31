@@ -66948,5 +66948,24 @@
     "company_url": "https://simplify.jobs/c/Becton-Dickinson",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Alo Yoga",
+    "id": "dcb61a71-b37e-480a-8550-36f40ce9a3c5",
+    "title": "Retail Engineering Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1743454330,
+    "date_posted": 1743454330,
+    "url": "https://job-boards.greenhouse.io/aloyoga/jobs/5490748004",
+    "locations": [
+      "Culver City, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Alo-Yoga",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
