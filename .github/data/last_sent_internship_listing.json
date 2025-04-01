@@ -67101,5 +67101,63 @@
     "company_url": "https://simplify.jobs/c/Age-of-Learning",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "skillz",
+    "id": "3c3e37c6-46ef-4df4-a7b0-9f2025d19609",
+    "title": "Data Engineering Co-Op",
+    "active": true,
+    "terms": [
+      "Summer 2025",
+      "Fall 2025"
+    ],
+    "date_updated": 1743483582,
+    "date_posted": 1743483582,
+    "url": "http://corp.skillz.com/careers-list/?gh_jid=6752646",
+    "locations": [
+      "Las Vegas, NV"
+    ],
+    "company_url": "https://simplify.jobs/c/c955eac9-1026-451b-95fe-582bb7c07c4c",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "date_updated": 1743484693,
+    "url": "https://boards.greenhouse.io/embed/job_app?token=6576405",
+    "company_name": "Flipp",
+    "title": "Associate Software Engineer (12-16 month Internship)",
+    "locations": [
+      "Remote in Canada"
+    ],
+    "terms": [
+      "Summer 2025"
+    ],
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "source": "GaryZhous",
+    "id": "bd2245c4-03fb-496b-ba07-c8d1653e8a7a",
+    "date_posted": 1743484693,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1743484802,
+    "url": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Kitchener-Ontario-Canada/Software-Intern_3149635-1",
+    "company_name": "HP",
+    "title": "Software Intern",
+    "locations": [
+      "Kitchener, Ontario, Canada"
+    ],
+    "terms": [
+      "Summer 2025"
+    ],
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "source": "GaryZhous",
+    "id": "a6207258-757e-43b5-92d0-50f84883bb5b",
+    "date_posted": 1743484802,
+    "company_url": "",
+    "is_visible": true
   }
 ]
