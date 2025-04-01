@@ -67159,5 +67159,45 @@
     "date_posted": 1743484802,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Wood Mackenzie",
+    "id": "248e5b5f-8f20-4ab8-bf4f-aeb626e89011",
+    "title": "Power & Renewables Co-Op",
+    "active": true,
+    "terms": [
+      "Summer 2025",
+      "Fall 2025",
+      "Winter 2026"
+    ],
+    "date_updated": 1743488257,
+    "date_posted": 1743488257,
+    "url": "https://woodmac.wd3.myworkdayjobs.com/woodmaccareers/job/Boston-US/Power---Renewables-Co-Op_JR1828",
+    "locations": [
+      "Boston, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/Wood-Mackenzie",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Leidos",
+    "id": "1e6d1b21-1673-45ea-8c0b-39dbca86b844",
+    "title": "Junior Software Engineer Intern",
+    "active": true,
+    "terms": [
+      "Spring 2025"
+    ],
+    "date_updated": 1743488250,
+    "date_posted": 1743488250,
+    "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Tucson-AZ/Junior-Software-Engineer-Intern_R-00156692-1",
+    "locations": [
+      "Tucson, AZ"
+    ],
+    "company_url": "https://simplify.jobs/c/Leidos",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
