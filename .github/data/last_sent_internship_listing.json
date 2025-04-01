@@ -67218,5 +67218,24 @@
     "company_url": "https://simplify.jobs/c/BorgWarner",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "BorgWarner",
+    "id": "10797d44-c156-4006-b1b1-0d6afd96383f",
+    "title": "Engineering Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1743493173,
+    "date_posted": 1743493173,
+    "url": "https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Auburn-Hills---Michigan---USA/Engineering-Intern_R2025-1323",
+    "locations": [
+      "Auburn Hills, MI"
+    ],
+    "company_url": "https://simplify.jobs/c/BorgWarner",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
