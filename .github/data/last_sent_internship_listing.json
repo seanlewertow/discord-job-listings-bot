@@ -67256,5 +67256,45 @@
     "company_url": "https://simplify.jobs/c/Breeze-Airways",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "ByteDance",
+    "id": "bfe97f73-216e-4b8d-a785-62fab861786e",
+    "title": "Data Scientist Intern - Traffic Infrastructure Global Engineering - BS/MS",
+    "active": true,
+    "terms": [
+      "Summer 2025",
+      "Fall 2025"
+    ],
+    "date_updated": 1743500318,
+    "date_posted": 1743500318,
+    "url": "https://jobs.bytedance.com/en/position/7486769660169521426/detail",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "company_url": "https://simplify.jobs/c/3f74d8b1-5d66-4d3b-b4b2-52ec6c78afc3",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "ByteDance",
+    "id": "f81dc911-8ec1-4099-ad9c-b6388b9c55b1",
+    "title": "Data Scientist Intern - Traffic Infrastructure Global Engineering - BS/MS",
+    "active": true,
+    "terms": [
+      "Summer 2025",
+      "Fall 2025"
+    ],
+    "date_updated": 1743500317,
+    "date_posted": 1743500317,
+    "url": "https://jobs.bytedance.com/en/position/7486768996210804999/detail",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/3f74d8b1-5d66-4d3b-b4b2-52ec6c78afc3",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
