@@ -67006,5 +67006,100 @@
     "company_url": "https://simplify.jobs/c/372c6250-89ed-4b8e-9000-a81fc94184d8",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "RTX",
+    "id": "3a6f9543-28d5-4df3-8383-3ebeb795866b",
+    "title": "Software Engineer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1743477227,
+    "date_posted": 1743477227,
+    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA826-200-Holger-WaySan-Jose-200-Holger-Way---San-Jose-CA-95134-USA/Software-Engineer-Intern---Summer-2025--Onsite-_01759494",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/RTX",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Viatris",
+    "id": "dc2a1fbf-b2e1-4a13-8a9b-6fb86fd74fae",
+    "title": "Intern \u2013 IT Analytics",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1743477013,
+    "date_posted": 1743477013,
+    "url": "https://viatris.wd5.myworkdayjobs.com/External/job/United-States-Remote-Office/Intern--IT-Analytics_R5657765",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/Viatris",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Viatris",
+    "id": "d9bff09c-c7f8-42cf-b410-70a8a01a2371",
+    "title": "Data Operations Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1743477017,
+    "date_posted": 1743477017,
+    "url": "https://viatris.wd5.myworkdayjobs.com/External/job/Hatfield-England-United-Kingdom/Data-Operations-Intern-_R5657766",
+    "locations": [
+      "Welwyn Garden City, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Viatris",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Age of Learning",
+    "id": "cef2e242-8420-45f8-9786-ac6173170e14",
+    "title": "Data Engineering Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1743477773,
+    "date_posted": 1743477773,
+    "url": "https://jobs.lever.co/aofl/98bb5c3b-334d-4665-b0db-87412867838c/apply",
+    "locations": [
+      "Glendale, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Age-of-Learning",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Age of Learning",
+    "id": "426618dc-bccb-4dae-b087-98aef963927a",
+    "title": "Data Science & Analytics Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1743477772,
+    "date_posted": 1743477772,
+    "url": "https://jobs.lever.co/aofl/4aeae542-61b3-45e4-8c48-14e3ec14142f/apply",
+    "locations": [
+      "Glendale, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Age-of-Learning",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
