@@ -67698,5 +67698,63 @@
     "company_url": "https://simplify.jobs/c/Earnin",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Peraton",
+    "id": "cd56dbb5-dd96-4edb-98a2-c329bdb0c803",
+    "title": "Summer 2025 Software Engineer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1743579860,
+    "date_posted": 1743579860,
+    "url": "https://careers-peraton.icims.com/jobs/153963/job",
+    "locations": [
+      "King George County, VA"
+    ],
+    "company_url": "https://simplify.jobs/c/Peraton",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Guidewire",
+    "id": "79421fcf-9514-485e-8ce0-a0222a31f673",
+    "title": "API Engineering Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1743579514,
+    "date_posted": 1743579514,
+    "url": "https://wd5.myworkdaysite.com/en-US/recruiting/guidewire/external/job/United-States---Philadelphia-PA/API-Engineering-Intern_JR_13058",
+    "locations": [
+      "Philadelphia, PA"
+    ],
+    "company_url": "https://simplify.jobs/c/Guidewire",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Golin",
+    "id": "d6c66d42-29df-4edd-a5ea-d4b1e6a326d5",
+    "title": "Golin Analytics Internship Program - June-September",
+    "active": true,
+    "terms": [
+      "Summer 2025",
+      "Fall 2025"
+    ],
+    "date_updated": 1743579509,
+    "date_posted": 1743579509,
+    "url": "https://golin.com/careers/open-positions/?gh_jid=7938393002",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Golin",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
