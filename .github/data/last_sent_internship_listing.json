@@ -67334,5 +67334,24 @@
     "company_url": "https://simplify.jobs/c/Mercedes-Benz",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Royal Bank of Canada",
+    "id": "55beeef2-04ea-41fd-beb5-d3c87a94a2c8",
+    "title": "Relationship Manager Commercial Markets Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1743566014,
+    "date_posted": 1743566014,
+    "url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/ST-JOHNS-Newfoundland-and-Labrador-Canada/Relationship-Manager-Commercial-Markets-Intern_R-0000121246-1",
+    "locations": [
+      "St. John's, NL, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Royal-Bank-Of-Canada",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
