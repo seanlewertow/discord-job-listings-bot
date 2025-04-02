@@ -67315,5 +67315,24 @@
     "company_url": "https://simplify.jobs/c/NVIDIA",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Mercedes-Benz",
+    "id": "c1075dcf-c91e-461a-9b25-dca31a5d7e09",
+    "title": "OBD Certification \u2013 Software Intern",
+    "active": true,
+    "terms": [
+      "Winter 2024"
+    ],
+    "date_updated": 1743553839,
+    "date_posted": 1741306042,
+    "url": "https://jobs.lever.co/MBRDNA/e050f8e4-5275-4f90-bc5f-43713a325648/apply",
+    "locations": [
+      "Southfield, MI"
+    ],
+    "company_url": "https://simplify.jobs/c/Mercedes-Benz",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
