@@ -67856,5 +67856,24 @@
     "company_url": "https://simplify.jobs/c/Intersect-Power",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Leidos",
+    "id": "99cca0cf-bb8a-4dca-b3c2-064e584b2cef",
+    "title": "Systems Integrator and Developer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1743595496,
+    "date_posted": 1743595496,
+    "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Bowie-MD/Systems-Integrator-and-Developer-Intern_R-00156171",
+    "locations": [
+      "Bowie, MD"
+    ],
+    "company_url": "https://simplify.jobs/c/Leidos",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
