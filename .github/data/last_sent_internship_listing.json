@@ -67353,5 +67353,100 @@
     "company_url": "https://simplify.jobs/c/Royal-Bank-Of-Canada",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Nokia",
+    "id": "edaa86cf-7e22-451b-aa51-24b5c2f7661d",
+    "title": "Nokia Ventures Software Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1743575148,
+    "date_posted": 1743575148,
+    "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/job/18955",
+    "locations": [
+      "Berkeley Heights, NJ"
+    ],
+    "company_url": "https://simplify.jobs/c/Nokia",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Vistra",
+    "id": "24f44c16-82d3-4892-9889-d384318bc13a",
+    "title": "Simulator Software Engineering Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1743574994,
+    "date_posted": 1743574994,
+    "url": "https://vst.wd5.myworkdayjobs.com/en-US/vistra_careers/job/Beaver-Valley/Simulator-Software-Engineering-Intern_40012649",
+    "locations": [
+      "Concordville, PA"
+    ],
+    "company_url": "https://simplify.jobs/c/Vistra",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Panasonic Avionics",
+    "id": "f0daead9-6cd1-476b-9d7e-9e0635e5efab",
+    "title": "Computer Engineering Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1743574904,
+    "date_posted": 1743574904,
+    "url": "https://careers.na.panasonic.com/jobs/42140?lang=en-us&icims=1",
+    "locations": [
+      "Hoffman Estates, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/Panasonic-Avionics",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Altamira Technologies",
+    "id": "2b77b7d2-682d-49d8-befa-188c2e9a19b9",
+    "title": "Software Development Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1743574749,
+    "date_posted": 1743574749,
+    "url": "https://jobs.jobvite.com/altamiracorps/job/oCnKvfwY?nl=1&nl=1&fr=false",
+    "locations": [
+      "Augusta, GA"
+    ],
+    "company_url": "https://simplify.jobs/c/Altamira-Technologies",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "OpsLevel",
+    "id": "ccef3149-9a70-48d9-9f66-9dd842c9820d",
+    "title": "Software Engineering Intern \u2013 Co-op Student",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1743574529,
+    "date_posted": 1743574529,
+    "url": "https://jobs.ashbyhq.com/opslevel/2708f26a-00c9-4fdb-91dd-9ee714a17c26/application",
+    "locations": [
+      "Remote in Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/OpsLevel",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
