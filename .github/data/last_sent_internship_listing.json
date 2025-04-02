@@ -67836,5 +67836,25 @@
     "company_url": "https://simplify.jobs/c/FNB-Corporation",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Intersect Power",
+    "id": "5b513f5e-30df-430d-8640-d7c3a8cf6e69",
+    "title": "Data Systems Internship - Market Risk & Analytics",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1743579294,
+    "date_posted": 1743579294,
+    "url": "https://jobs.lever.co/intersectpower/a90881eb-9604-443b-b60f-292cfeb8cde0/apply",
+    "locations": [
+      "Remote in USA",
+      "Remote in Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Intersect-Power",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
