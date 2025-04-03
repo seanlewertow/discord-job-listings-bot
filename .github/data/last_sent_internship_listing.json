@@ -67972,5 +67972,62 @@
     "company_url": "https://simplify.jobs/c/Alo-Yoga",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Ripple",
+    "id": "15fafe26-72e4-49f3-8dd7-1b317076e10f",
+    "title": "Software Engineer Intern",
+    "active": true,
+    "terms": [
+      "Spring 2025"
+    ],
+    "date_updated": 1743663352,
+    "date_posted": 1743663352,
+    "url": "https://ripple.com/careers/all-jobs/job/6657167?gh_jid=6657167",
+    "locations": [
+      "SF"
+    ],
+    "company_url": "https://simplify.jobs/c/Ripple",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Genesys",
+    "id": "0bbd2476-9694-408e-8086-331c10a93be8",
+    "title": "Software Engineer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1743663182,
+    "date_posted": 1743663182,
+    "url": "https://genesys.wd1.myworkdayjobs.com/en-US/Genesys/job/Indianapolis-IN-USA/Software-Engineer-Intern_JR107630-1",
+    "locations": [
+      "Indianapolis, IN"
+    ],
+    "company_url": "https://simplify.jobs/c/a073f454-6408-44aa-87cc-070e67702447",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Genesys",
+    "id": "c40df673-4515-4544-a011-db34afae23f1",
+    "title": "Software Engineer \u2013 Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1743663198,
+    "date_posted": 1743663198,
+    "url": "https://genesys.wd1.myworkdayjobs.com/en-US/Genesys/job/Durham-NC-USA/Software-Engineer--Intern_JR107140-1",
+    "locations": [
+      "Durham, NC"
+    ],
+    "company_url": "https://simplify.jobs/c/a073f454-6408-44aa-87cc-070e67702447",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
