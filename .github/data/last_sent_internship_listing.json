@@ -68219,5 +68219,24 @@
     "company_url": "https://simplify.jobs/c/Peraton",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Insulet Corporation",
+    "id": "540c59c9-0ea7-49fd-930f-9afe89c73695",
+    "title": "Co-op \u2013 Data Analytics Supplier Quality Engineering",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1743673514,
+    "date_posted": 1743575661,
+    "url": "https://insulet.wd5.myworkdayjobs.com/en-US/insuletcareers/job/US---Massachusetts-Acton---Office/Co-op--Supplier-Quality-Engineering--July---December-2025--On-site-_REQ-2025-0080-1",
+    "locations": [
+      "Acton, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/dc2cf0d7-af5f-4a5c-9c42-8fa0bd0ae04d",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
