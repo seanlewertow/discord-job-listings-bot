@@ -67875,5 +67875,102 @@
     "company_url": "https://simplify.jobs/c/Leidos",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Nokia",
+    "id": "7933729b-19e7-4b7d-9933-b351ccfaf62d",
+    "title": "Software Developer Co-op/Intern",
+    "active": true,
+    "terms": [
+      "Spring 2025",
+      "Summer 2025"
+    ],
+    "date_updated": 1743661643,
+    "date_posted": 1743661643,
+    "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/job/18789",
+    "locations": [
+      "Ottawa, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Nokia",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Nokia",
+    "id": "a7184d27-48cf-4fc0-8003-ccf2c78d2988",
+    "title": "Software Developer Co-op/Intern",
+    "active": true,
+    "terms": [
+      "Spring 2025",
+      "Summer 2025"
+    ],
+    "date_updated": 1743661642,
+    "date_posted": 1743661642,
+    "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/job/18788",
+    "locations": [
+      "Ottawa, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Nokia",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Auto Club Enterprises",
+    "id": "25eec338-71bd-4fb4-abdf-b9b3419f017d",
+    "title": "Information Systems Intern - Classic Team",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1743661609,
+    "date_posted": 1743661609,
+    "url": "https://ace.wd5.myworkdayjobs.com/careers/job/Costa-Mesa-CA/Information-Systems-Intern---Classic-Team_JR202527646",
+    "locations": [
+      "Newport Beach, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Auto-Club-Enterprises",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "The Nudge",
+    "id": "c6e88e5f-049e-4943-b369-ec0b5f6d2163",
+    "title": "Software Engineering Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1743661600,
+    "date_posted": 1743661600,
+    "url": "https://jobs.lever.co/TheNudge/0a00466a-78bf-473b-bbbc-616bafae44a2/apply",
+    "locations": [
+      "SF"
+    ],
+    "company_url": "https://simplify.jobs/c/The-Nudge",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Alo Yoga",
+    "id": "2a2991db-26a3-4a16-b75b-d29ecaba251b",
+    "title": "Data Science MS Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1743661157,
+    "date_posted": 1743661157,
+    "url": "https://job-boards.greenhouse.io/aloyoga/jobs/5468121004",
+    "locations": [
+      "Culver City, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Alo-Yoga",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
