@@ -68200,5 +68200,24 @@
     "company_url": "https://simplify.jobs/c/Primerica",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Peraton",
+    "id": "c6525121-51a9-4196-9bb8-3791a7e41f76",
+    "title": "Summer 2025 Software Engineer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1743666659,
+    "date_posted": 1743666659,
+    "url": "https://careers-peraton.icims.com/jobs/155890/job",
+    "locations": [
+      "Santa Clara, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Peraton",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
