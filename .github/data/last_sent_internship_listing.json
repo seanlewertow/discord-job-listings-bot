@@ -68649,5 +68649,26 @@
     "company_url": "https://simplify.jobs/c/Comcast",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Rivian",
+    "id": "72c4221c-1daf-4fa4-b81b-0223bf8cd2ad",
+    "title": "Intern - Computational Methods Development",
+    "active": true,
+    "terms": [
+      "Fall 2025",
+      "Spring 2025",
+      "Summer 2025"
+    ],
+    "date_updated": 1742998572,
+    "date_posted": 1741133896,
+    "url": "https://careers.rivian.com/jobs/22526?lang=en-us&icims=1",
+    "locations": [
+      "Urbana, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/Rivian",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
