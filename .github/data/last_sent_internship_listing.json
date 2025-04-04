@@ -68577,5 +68577,24 @@
     "company_url": "https://simplify.jobs/c/Applied-Materials",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Elevance Health",
+    "id": "307597cc-465a-4359-a4f7-cbca5e199035",
+    "title": "Data Analytics Internship",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1743780053,
+    "date_posted": 1743780053,
+    "url": "https://elevancehealth.wd1.myworkdayjobs.com/en-US/ANT/job/IL-CHICAGO-233-S-WACKER-DR-STE-3700/Data-Analytics-Internship---Summer-2025_JR146821",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/Elevance-Health",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
