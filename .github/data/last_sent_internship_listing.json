@@ -68427,5 +68427,26 @@
     "company_url": "https://simplify.jobs/c/9f8468ab-4066-404d-b30d-b5b9cb967967",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Tatari",
+    "id": "bbe5a4ce-aa9f-42b1-9748-27840234cce4",
+    "title": "Data Science \u2013 Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1743757643,
+    "date_posted": 1743757643,
+    "url": "https://job-boards.greenhouse.io/tatari/jobs/7942418002",
+    "locations": [
+      "SF",
+      "LA",
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Tatari",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
