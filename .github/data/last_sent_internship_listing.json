@@ -68410,5 +68410,22 @@
     "company_url": "https://simplify.jobs/c/Omnidian",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "SWBC",
+    "id": "c5536885-9217-4fac-8d7f-334b37cf1ba3",
+    "title": "Data Analytics Intern",
+    "active": true,
+    "terms": [],
+    "date_updated": 1743756944,
+    "date_posted": 1743756944,
+    "url": "https://swbc.wd1.myworkdayjobs.com/en-US/swbccareers/job/San-Antonio-TX/Data-Analytics-Intern_R0012936-1",
+    "locations": [
+      "San Antonio, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/9f8468ab-4066-404d-b30d-b5b9cb967967",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
