@@ -68448,5 +68448,24 @@
     "company_url": "https://simplify.jobs/c/Tatari",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Actian",
+    "id": "46993919-592d-479c-aebe-2fa099f21fe3",
+    "title": "CX User Analytics Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1743765207,
+    "date_posted": 1743765207,
+    "url": "https://jobs.lever.co/actian/695e83a3-b03f-4b2e-b69d-04ab736fe2f9/apply",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/actian",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
