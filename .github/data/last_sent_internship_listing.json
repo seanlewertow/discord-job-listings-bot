@@ -68596,5 +68596,22 @@
     "company_url": "https://simplify.jobs/c/Elevance-Health",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Nuro",
+    "id": "9faa9a73-cb36-427a-917b-46fa9595ef99",
+    "title": "Mapping & Localization \u2013 Software Engineering Intern",
+    "active": true,
+    "terms": [],
+    "date_updated": 1743787056,
+    "date_posted": 1743787056,
+    "url": "https://nuro.ai/careersitem?gh_jid=6562194",
+    "locations": [
+      "Mountain View, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Nuro",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
