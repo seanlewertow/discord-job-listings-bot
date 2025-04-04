@@ -68391,5 +68391,24 @@
     "company_url": "https://simplify.jobs/c/Alo-Yoga",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Omnidian",
+    "id": "82325902-f649-4416-a818-b60e27580af5",
+    "title": "Software Engineer Internship",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1743752963,
+    "date_posted": 1743752963,
+    "url": "https://jobs.lever.co/omnidian/4d20aa4f-b634-45a0-8c6c-035cf6d87726/apply",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "company_url": "https://simplify.jobs/c/Omnidian",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
