@@ -68467,5 +68467,22 @@
     "company_url": "https://simplify.jobs/c/actian",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Primerica",
+    "id": "3165c5b9-08cd-4bf7-ad15-ce0ff91c59e1",
+    "title": "Software Architect Intern",
+    "active": true,
+    "terms": [],
+    "date_updated": 1743766697,
+    "date_posted": 1743766697,
+    "url": "https://primerica.wd1.myworkdayjobs.com/pri/job/Duluth-GA/Software-Architect-Intern_R-181042025",
+    "locations": [
+      "Duluth, GA"
+    ],
+    "company_url": "https://simplify.jobs/c/Primerica",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
