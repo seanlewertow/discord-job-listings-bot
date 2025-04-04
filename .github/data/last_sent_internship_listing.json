@@ -68332,5 +68332,64 @@
     "company_url": "https://simplify.jobs/c/Smith-Micro-Software",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Ciena",
+    "id": "fec47837-bea6-496a-a2cb-f23924f3a334",
+    "title": "Software Engineer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1743750002,
+    "date_posted": 1743750002,
+    "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Remote-US/Software-Engineer-Intern--Summer-2025-_R027681",
+    "locations": [
+      "Remote in USA",
+      "Remote in Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Ciena",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "CACI",
+    "id": "77ee895a-d70a-4d51-be8c-d3631b6743bc",
+    "title": "Software Development Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1743749659,
+    "date_posted": 1743749659,
+    "url": "https://caci.wd1.myworkdayjobs.com/External/job/US-VA-Chantilly/Software-Development-Intern---Summer-2025_309857-1",
+    "locations": [
+      "Chantilly, VA",
+      "Oklahoma City, OK"
+    ],
+    "company_url": "https://simplify.jobs/c/CACI",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Alo Yoga",
+    "id": "2a99d5f5-a33a-4ae8-831f-1955cd3fd6cc",
+    "title": "Data Engineering Intern",
+    "active": true,
+    "terms": [
+      "Summer 2024"
+    ],
+    "date_updated": 1743749368,
+    "date_posted": 1743749368,
+    "url": "https://job-boards.greenhouse.io/aloyoga/jobs/5468123004",
+    "locations": [
+      "Culver City, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Alo-Yoga",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
