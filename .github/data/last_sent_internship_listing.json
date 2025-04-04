@@ -68613,5 +68613,22 @@
     "company_url": "https://simplify.jobs/c/Nuro",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Qualtrics",
+    "id": "ab0403a4-0ff4-4869-95ec-9e0cff8e00d2",
+    "title": "Field Security - Governance - Risk and Compliance - GRC",
+    "active": true,
+    "terms": [],
+    "date_updated": 1743454813,
+    "date_posted": 1743454813,
+    "url": "https://www.qualtrics.com/careers/us/en/job/6755816?gh_jid=6755816",
+    "locations": [
+      "Provo, UT"
+    ],
+    "company_url": "https://simplify.jobs/c/Qualtrics",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
