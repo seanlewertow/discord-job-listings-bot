@@ -68670,5 +68670,64 @@
     "company_url": "https://simplify.jobs/c/Rivian",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "IMO Health",
+    "id": "325e0f27-5a28-404f-b0b2-2044c075f08c",
+    "title": "Natural Language Processing \u2013 Intern - NLP",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1743813520,
+    "date_posted": 1743813520,
+    "url": "https://jobs.lever.co/imo-online/8c6de04c-c6eb-4205-a307-4db04fc1ea05/apply",
+    "locations": [
+      "Houston, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/IMO-Health",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Splunk",
+    "id": "f7c72ccb-de65-4afc-97af-3fb239b43e4b",
+    "title": "Software Engineer Intern - C++",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1743580697,
+    "date_posted": 1743580697,
+    "url": "https://jobs.jobvite.com/splunk-careers/job/oriKvfwI?nl=1&nl=1&fr=false",
+    "locations": [
+      "London, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Splunk",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Hewlett Packard (HP)",
+    "id": "a68b2b58-9c54-43b3-8611-2bfd1796475a",
+    "title": "Engineering Internship - Imaging and Print",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1741917914,
+    "date_posted": 1725580844,
+    "url": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Corvallis-Oregon-United-States-of-America/Imaging-and-Print-Engineering-Internship_3141398",
+    "locations": [
+      "Boise, ID",
+      "Corvallis, OR",
+      "Vancouver, WA"
+    ],
+    "company_url": "https://simplify.jobs/c/Hewlett-Packard",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
