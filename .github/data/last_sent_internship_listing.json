@@ -68860,5 +68860,81 @@
     "company_url": "https://simplify.jobs/c/Medpace-Inc",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Seurat Technologies",
+    "id": "0beb0a4d-374e-4fb9-bd1d-87ec21433e94",
+    "title": "Data & AI/ML Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1743839969,
+    "date_posted": 1743839969,
+    "url": "https://job-boards.greenhouse.io/seurat/jobs/4549079005",
+    "locations": [
+      "Burlington, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/Seurat-Technologies",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Leidos",
+    "id": "46ed6787-41e0-4771-be49-d481becfc49c",
+    "title": "Software Engineer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1743839539,
+    "date_posted": 1743839539,
+    "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Trenton-NJ/Software-Engineer-Intern_R-00156524",
+    "locations": [
+      "Colorado Springs, CO"
+    ],
+    "company_url": "https://simplify.jobs/c/Leidos",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Centerfield",
+    "id": "cfe76032-ffbd-4daa-9d46-c89f2c100b8e",
+    "title": "Data Engineer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1743839485,
+    "date_posted": 1743839485,
+    "url": "https://jobs.lever.co/centerfield/beb953a2-bb6c-433b-88ed-c720c08780fb/apply",
+    "locations": [
+      "LA"
+    ],
+    "company_url": "https://simplify.jobs/c/Centerfield",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Celonis",
+    "id": "15f397f7-ada5-4e60-a1ab-8e13a80be923",
+    "title": "Services Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1743836353,
+    "date_posted": 1738686616,
+    "url": "https://job-boards.greenhouse.io/celonis/jobs/6334796003?gh_jid=6334796003",
+    "locations": [
+      "Raleigh, NC"
+    ],
+    "company_url": "https://simplify.jobs/c/Celonis",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
