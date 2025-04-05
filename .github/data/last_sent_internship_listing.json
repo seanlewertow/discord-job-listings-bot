@@ -69106,5 +69106,24 @@
     "company_url": "https://simplify.jobs/c/Arrowstreet-Capital",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "NVIDIA",
+    "id": "b7b67f4a-41cf-4f8f-9ffc-7c331dc55c7c",
+    "title": "Technical Marketing Software Engineer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1743850079,
+    "date_posted": 1743850079,
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Technical-Marketing-Software-Engineer-Intern---Summer-2025_JR1990744",
+    "locations": [
+      "Santa Clara, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/NVIDIA",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
