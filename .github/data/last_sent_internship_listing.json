@@ -68841,5 +68841,24 @@
     "company_url": "https://simplify.jobs/c/City-Of-Philadelphia",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Medpace, Inc.",
+    "id": "9af6cb74-2822-4943-95d5-b98c9e8cf2cb",
+    "title": "Software Development Co-Op",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1743836069,
+    "date_posted": 1743836069,
+    "url": "https://careers.medpace.com/jobs/11308?lang=en-us&icims=1",
+    "locations": [
+      "Cincinnati, OH"
+    ],
+    "company_url": "https://simplify.jobs/c/Medpace-Inc",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
