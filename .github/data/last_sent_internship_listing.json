@@ -68748,5 +68748,43 @@
     "company_url": "https://simplify.jobs/c/City-Of-Charlotte",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Applied Materials",
+    "id": "6afa8a6e-3805-48bb-b309-483185cf4aed",
+    "title": "2025 Summer Intern - Data Scientist",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1743407315,
+    "date_posted": 1743407315,
+    "url": "https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/XMLNAME-2025-Summer-Intern---Data-Scientist_R2511680",
+    "locations": [
+      "Santa Clara, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Applied-Materials",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Shield AI",
+    "id": "58d46cc4-d5c9-4395-834f-63695ba6dc64",
+    "title": "Flight Systems Integration Engineering Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1743593615,
+    "date_posted": 1741048049,
+    "url": "https://jobs.lever.co/shieldai/dec50cd3-dd26-471b-bc21-eefb2d94ba8b/apply",
+    "locations": [
+      "Washington, DC"
+    ],
+    "company_url": "https://simplify.jobs/c/Shield-AI",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
