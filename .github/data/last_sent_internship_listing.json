@@ -68992,5 +68992,24 @@
     "company_url": "https://simplify.jobs/c/Procter-Gamble-Company",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Nokia",
+    "id": "a20ac0b7-f489-4752-a723-876700e8bbd6",
+    "title": "Software Design Co-op/Intern",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1743832870,
+    "date_posted": 1743832870,
+    "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/job/19225",
+    "locations": [
+      "Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Nokia",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
