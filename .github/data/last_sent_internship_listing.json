@@ -68786,5 +68786,24 @@
     "company_url": "https://simplify.jobs/c/Shield-AI",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Diligent Corporation",
+    "id": "a69a4953-f6a4-41aa-b096-59cef8fb1b60",
+    "title": "Data Journalist/Data Science Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1743832105,
+    "date_posted": 1743832105,
+    "url": "https://job-boards.greenhouse.io/diligentcorporation/jobs/5479175004",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Diligent-Corporation",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
