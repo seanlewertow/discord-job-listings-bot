@@ -68729,5 +68729,24 @@
     "company_url": "https://simplify.jobs/c/Hewlett-Packard",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "City of Charlotte",
+    "id": "7e5582e0-9f3b-4304-a11d-506389f8a9f5",
+    "title": "GIS Intern",
+    "active": true,
+    "terms": [
+      "Spring 2025"
+    ],
+    "date_updated": 1742872889,
+    "date_posted": 1742872889,
+    "url": "https://charlottenc.wd12.myworkdayjobs.com/citgov/job/CLTW-Brookshire/GIS-Intern_JR101550",
+    "locations": [
+      "Charlotte, NC"
+    ],
+    "company_url": "https://simplify.jobs/c/City-Of-Charlotte",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
