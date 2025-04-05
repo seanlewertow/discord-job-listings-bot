@@ -69030,5 +69030,24 @@
     "company_url": "https://simplify.jobs/c/Leidos",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Moog Inc",
+    "id": "46545539-f9ec-4859-8575-7157687d9cc5",
+    "title": "Intern \u2013 Software Engineering",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1743852726,
+    "date_posted": 1743852726,
+    "url": "https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Arvada-CO/Intern--Software-Engineering_R-24-10286",
+    "locations": [
+      "Wheat Ridge, CO"
+    ],
+    "company_url": "https://simplify.jobs/c/Moog-Inc",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
