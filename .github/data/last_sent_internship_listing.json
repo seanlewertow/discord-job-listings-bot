@@ -68936,5 +68936,61 @@
     "company_url": "https://simplify.jobs/c/Celonis",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Werfen",
+    "id": "4144c97a-a206-4e48-a4af-3ffcc69247d1",
+    "title": "Data Analyst Intern",
+    "active": true,
+    "terms": [],
+    "date_updated": 1743830650,
+    "date_posted": 1743830650,
+    "url": "https://careers-werfen.icims.com/jobs/8263/job",
+    "locations": [
+      "Bedford, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/Werfen",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Ciena",
+    "id": "bdaf23be-7a89-4176-a74a-f8a47f0b88c9",
+    "title": "Software Engineer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1743832439,
+    "date_posted": 1743832439,
+    "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Remote-US/Software-Engineer-Intern--Summer-2025-_R027682",
+    "locations": [
+      "Remote in USA",
+      "Remote in Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Ciena",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Procter & Gamble (P&G)",
+    "id": "dc376080-a94f-4db4-b71f-c4efbef81cea",
+    "title": "Digital Technologies Internship/Co-op",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1743832134,
+    "date_posted": 1743832134,
+    "url": "https://pg.wd5.myworkdayjobs.com/1000/job/TORONTO-GO/Digital-Technologies-Internship-Co-op-Fall-2025---stage-coop-en-technologies-numriques-automne-2025_R000129158",
+    "locations": [
+      "Toronto, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Procter-Gamble-Company",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
