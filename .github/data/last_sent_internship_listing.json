@@ -69125,5 +69125,43 @@
     "company_url": "https://simplify.jobs/c/NVIDIA",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "date_updated": 1743915278,
+    "url": "https://wd1.myworkdaysite.com/recruiting/ssctech/SSCTechnologies/job/Ontario-Toronto/Intern---Technical_R25895",
+    "company_name": "SS&C Technologies",
+    "title": "Intern - Technical",
+    "locations": [
+      "Toronto, Canada"
+    ],
+    "terms": [
+      "Summer 2025"
+    ],
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "source": "GaryZhous",
+    "id": "071a0b2e-052f-4250-9347-d044f0462d62",
+    "date_posted": 1743915278,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1743915338,
+    "url": "https://jobs.canadalife.com/job/London-Co-op-Student-IT-ON/1189460701",
+    "company_name": "Canada Life",
+    "title": "Co-op Student IT",
+    "locations": [
+      "Toronto, ON"
+    ],
+    "terms": [
+      "Summer 2025"
+    ],
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "source": "GaryZhous",
+    "id": "ad3c90ae-564f-47dc-a0d4-42e4384c318a",
+    "date_posted": 1743915338,
+    "company_url": "",
+    "is_visible": true
   }
 ]
