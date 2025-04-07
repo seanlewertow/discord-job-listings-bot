@@ -69412,5 +69412,43 @@
     "date_posted": 1744053797,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "date_updated": 1744053996,
+    "url": "https://jobs.ericsson.com/careers?domain=ericsson.com&query=developer+intern&start=0&location=canada&pid=563121763751096",
+    "company_name": "Ericsson",
+    "title": "Software Developer Intern",
+    "locations": [
+      "Montreal, Quebec, Canada"
+    ],
+    "terms": [
+      "Summer 2025"
+    ],
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "source": "GaryZhous",
+    "id": "41b48c3c-2680-4f85-8b4b-4f84b028e7e6",
+    "date_posted": 1744053996,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1744054087,
+    "url": "https://careers.se.com/jobs/89517",
+    "company_name": "Schneider Electric",
+    "title": "Software co-op",
+    "locations": [
+      "Victoria, Canada"
+    ],
+    "terms": [
+      "Summer 2025"
+    ],
+    "sponsorship": "Does Not Offer Sponsorship",
+    "active": true,
+    "source": "GaryZhous",
+    "id": "2cb7bbf3-dd32-488a-996f-02546272bd66",
+    "date_posted": 1744054087,
+    "company_url": "",
+    "is_visible": true
   }
 ]
