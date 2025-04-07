@@ -69300,5 +69300,24 @@
     "company_url": "https://simplify.jobs/c/American-Cancer-Society",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Altera Corporation",
+    "id": "aa93028f-1074-474f-b58d-8a9a96e2071f",
+    "title": "Software Engineer \u2013 Intern",
+    "active": true,
+    "terms": [
+      "Winter 2024"
+    ],
+    "date_updated": 1744012811,
+    "date_posted": 1744012811,
+    "url": "https://altera.wd1.myworkdayjobs.com/altera/job/Bloor-St-1/Software-Engineer----Intern_R00569",
+    "locations": [
+      "Toronto, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Altera-Corporation",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
