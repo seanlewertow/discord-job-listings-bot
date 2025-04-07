@@ -69220,5 +69220,85 @@
     "company_url": "https://simplify.jobs/c/Fermilab",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "American Cancer Society",
+    "id": "7a4d8379-d085-45a0-82b3-18c979b188d1",
+    "title": "Intern \u2013 BI Analyst",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1744010909,
+    "date_posted": 1744010909,
+    "url": "https://acs.wd5.myworkdayjobs.com/acscareers/job/Atlanta-Georgia/Intern---BI-Analyst_JR1938",
+    "locations": [
+      "Atlanta, GA"
+    ],
+    "company_url": "https://simplify.jobs/c/American-Cancer-Society",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "American Cancer Society",
+    "id": "dc07bc15-bcec-441a-bcd2-198aa96a054a",
+    "title": "Intern \u2013 Data Engineering",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1744010903,
+    "date_posted": 1744010903,
+    "url": "https://acs.wd5.myworkdayjobs.com/acscareers/job/Boston-Massachusetts/Intern--Data-Engineering_JR1936",
+    "locations": [
+      "Boston, MA",
+      "Philadelphia, PA",
+      "Hartford, CT"
+    ],
+    "company_url": "https://simplify.jobs/c/American-Cancer-Society",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "American Cancer Society",
+    "id": "27d77964-47cd-43b5-9c7a-eb0c3499e77b",
+    "title": "ACS CAN Impact Analytics Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1744010904,
+    "date_posted": 1744010904,
+    "url": "https://acs.wd5.myworkdayjobs.com/acscareers/job/NY-Home-Based/ACS-CAN-Impact-Analytics-Intern_JR1958-1",
+    "locations": [
+      "Boston, MA",
+      "LA",
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/American-Cancer-Society",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "American Cancer Society",
+    "id": "5ea78972-4302-40b2-8581-9d32f827bcf6",
+    "title": "Intern \u2013 National Roundtables & Coalitions",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1744010908,
+    "date_posted": 1744010908,
+    "url": "https://acs.wd5.myworkdayjobs.com/acscareers/job/Washington-District-of-Columbia/Intern--National-Roundtables---Coalitions_JR2016",
+    "locations": [
+      "Washington, DC"
+    ],
+    "company_url": "https://simplify.jobs/c/American-Cancer-Society",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
