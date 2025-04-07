@@ -69319,5 +69319,22 @@
     "company_url": "https://simplify.jobs/c/Altera-Corporation",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Primerica",
+    "id": "8578575c-3379-42ac-9265-02fd4ff609e9",
+    "title": "Appdev \u2013 Python Scripting Intern",
+    "active": true,
+    "terms": [],
+    "date_updated": 1744044501,
+    "date_posted": 1744044501,
+    "url": "https://primerica.wd1.myworkdayjobs.com/pri/job/Duluth-GA/AppDev---Python-Scripting-Intern_R-186042025",
+    "locations": [
+      "Duluth, GA"
+    ],
+    "company_url": "https://simplify.jobs/c/Primerica",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
