@@ -69201,5 +69201,24 @@
     "date_posted": 1744000627,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Fermilab",
+    "id": "7f7804b1-6046-43f9-8b84-21e175ed6eed",
+    "title": "Beam Instrumentation Software Engineering Co-op Position",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1744008712,
+    "date_posted": 1744008712,
+    "url": "https://fermilab.wd5.myworkdayjobs.com/FermilabCareers/job/Batavia/Beam-Instrumentation-Software-Engineering-Co-op-Position_R_008485",
+    "locations": [
+      "Batavia, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/Fermilab",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
