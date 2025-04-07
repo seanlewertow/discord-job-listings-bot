@@ -69336,5 +69336,81 @@
     "company_url": "https://simplify.jobs/c/Primerica",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "date_updated": 1744053478,
+    "url": "https://www.shopify.com/careers/engineering-internships-fall-2025-canada_06dec40f-4885-4b5c-bb03-1834abdaa30a",
+    "company_name": "Shopify",
+    "title": "Engineering Internships, Fall 2025 - Canada",
+    "locations": [
+      "Toronto, Canada"
+    ],
+    "terms": [
+      "Fall 2025"
+    ],
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "source": "GaryZhous",
+    "id": "a26b9b57-c723-4eda-851d-84c4999a34ed",
+    "date_posted": 1744053478,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1744053543,
+    "url": "https://altera.wd1.myworkdayjobs.com/Altera/job/Bloor-St-1/Software-Engineer----Intern_R00569",
+    "company_name": "Altera",
+    "title": "Software Engineer - Intern",
+    "locations": [
+      "Toronto, Canada"
+    ],
+    "terms": [
+      "Summer 2025"
+    ],
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "source": "GaryZhous",
+    "id": "2e5ddf40-f715-46ea-8b79-a95e930bd29e",
+    "date_posted": 1744053543,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1744053716,
+    "url": "https://applyboard.wd3.myworkdayjobs.com/ApplyBoardNH/job/Kitchener/Software-Engineering-Internship_JR102760",
+    "company_name": "ApplyBoard",
+    "title": "Software Engineering Internship",
+    "locations": [
+      "Kitchener, Ontario, Canada"
+    ],
+    "terms": [
+      "Summer 2025"
+    ],
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "source": "GaryZhous",
+    "id": "310328b1-e6e5-4303-82e1-03dfbecd3615",
+    "date_posted": 1744053716,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1744053797,
+    "url": "https://www.shopify.com/careers/engineering-internships-fall-2025-usa_a1cdd252-7fb2-4212-863f-367dd5799bc7",
+    "company_name": "Shopify",
+    "title": "Engineering Internships, Fall 2025 - USA",
+    "locations": [
+      "Remote in USA"
+    ],
+    "terms": [
+      "Fall 2025"
+    ],
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "source": "GaryZhous",
+    "id": "4e3a7778-9cbe-49dc-ab96-fb6060733521",
+    "date_posted": 1744053797,
+    "company_url": "",
+    "is_visible": true
   }
 ]
