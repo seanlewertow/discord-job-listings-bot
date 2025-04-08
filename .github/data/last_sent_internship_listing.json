@@ -69932,5 +69932,72 @@
     "company_url": "https://simplify.jobs/c/Primerica",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Uhaul",
+    "id": "6edb2bec-80e2-45f5-850a-7c4a4ad2d422",
+    "title": "Software Development Summer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1744119321,
+    "date_posted": 1744119321,
+    "url": "https://uhaul.wd1.myworkdayjobs.com/UhaulJobs/job/Phoenix-Arizona/Software-Developer-Summer-Intern_R216539",
+    "locations": [
+      "Phoenix, AZ"
+    ],
+    "company_url": "https://simplify.jobs/c/Uhaul",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "KBR",
+    "id": "2db7ec4c-fe17-4fe2-8397-0d0a484bbf96",
+    "title": "National Security Solutions \u2013 Computer Science Internship - Nss",
+    "active": true,
+    "terms": [],
+    "date_updated": 1741917374,
+    "date_posted": 1740529958,
+    "url": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Chantilly-Virginia/National-Security-Solutions--NSS--Computer-Science-Internship_R2095372",
+    "locations": [
+      "King of Prussia, PA",
+      "Colorado Springs, CO",
+      "Chantilly, VA",
+      "Ann Arbor, MI",
+      "Maui, Hawaii",
+      "Columbus, OH",
+      "Beavercreek, OH",
+      "Huntsville, AL"
+    ],
+    "company_url": "https://simplify.jobs/c/KBR",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "KBR",
+    "id": "bd8984ee-bb11-4d73-b6e2-74039ce491c6",
+    "title": "Machine Learning Internship - Nss",
+    "active": true,
+    "terms": [],
+    "date_updated": 1741917923,
+    "date_posted": 1740529956,
+    "url": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Chantilly-Virginia/National-Security-Solutions--NSS--Machine-Learning-Internship_R2095371",
+    "locations": [
+      "King of Prussia, PA",
+      "Colorado Springs, CO",
+      "Chantilly, VA",
+      "Ann Arbor, MI",
+      "Maui, Hawaii",
+      "Columbus, OH",
+      "Beavercreek, OH",
+      "Huntsville, AL"
+    ],
+    "company_url": "https://simplify.jobs/c/KBR",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
