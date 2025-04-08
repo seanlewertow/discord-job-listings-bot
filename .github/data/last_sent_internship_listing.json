@@ -70035,5 +70035,63 @@
     "company_url": "https://simplify.jobs/c/KBR",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Coalition",
+    "id": "4e4423e0-e931-46c8-8e5c-f12e473dea95",
+    "title": "Backend Engineer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1744124137,
+    "date_posted": 1744124137,
+    "url": "https://www.coalitioninc.com/job-posting?gh_jid=4513710005",
+    "locations": [
+      "Remote in USA",
+      "Remote in Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Coalition",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "EnergyHub",
+    "id": "22abeebc-cbed-4b73-8826-04654a8b6d81",
+    "title": "Engineering Intern - Client Connections",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1744124852,
+    "date_posted": 1744124852,
+    "url": "https://job-boards.greenhouse.io/energyhub/jobs/7944582002",
+    "locations": [
+      "Brooklyn, NY"
+    ],
+    "company_url": "https://simplify.jobs/c/EnergyHub",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "CVS Health",
+    "id": "1b0cef96-ad69-4dce-8c1c-8f7ef83665b5",
+    "title": "Innotech Summer Undergraduate Internship 2025 - Aetna Tech - Aetna Medicaid Tech",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1741916427,
+    "date_posted": 1741035955,
+    "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/AZ---Scottsdale/InnoTech-Summer-Undergraduate-Internship-2025---Aetna-Tech---Aetna-Medicaid-Tech_R0520545",
+    "locations": [
+      "Scottsdale, AZ"
+    ],
+    "company_url": "https://simplify.jobs/c/CVS-Health",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
