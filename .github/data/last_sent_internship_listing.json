@@ -69858,5 +69858,43 @@
     "company_url": "https://simplify.jobs/c/Skechers",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Entegris",
+    "id": "5561ab5b-80f1-4b4c-8273-5c86f28c462d",
+    "title": "Data Engineering Co-Op",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1742108831,
+    "date_posted": 1742108831,
+    "url": "https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Aurora-IL/Data-Engineering-Co-Op_REQ-8376",
+    "locations": [
+      "Montgomery, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/Entegris",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Entegris",
+    "id": "8b523b41-c750-4676-ad12-ec83e9ba1500",
+    "title": "Product Engineering Co-Op",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1742108821,
+    "date_posted": 1742108821,
+    "url": "https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Chaska-MN/Product-Engineering-Co-Op_REQ-8366",
+    "locations": [
+      "Chaska, MN"
+    ],
+    "company_url": "https://simplify.jobs/c/Entegris",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
