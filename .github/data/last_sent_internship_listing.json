@@ -69820,5 +69820,43 @@
     "company_url": "https://simplify.jobs/c/Entegris",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "CVS Health",
+    "id": "a9b3aec7-1bc1-4fb2-9278-6bd218b3e6ba",
+    "title": "Data Science Co-op",
+    "active": true,
+    "terms": [
+      "Spring 2025"
+    ],
+    "date_updated": 1744039765,
+    "date_posted": 1744039765,
+    "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/NY---New-York/Data-Science-Co-op_R0553480",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/CVS-Health",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Skechers",
+    "id": "3a4764fb-f8f2-4fc2-8917-f9f16d3a93c9",
+    "title": "Database Engineering Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1742837663,
+    "date_posted": 1742837663,
+    "url": "https://skechers.wd5.myworkdayjobs.com/One-career-site/job/Manhattan-Beach-CA/Database-Engineering-Intern--Summer-2025-_JR115050",
+    "locations": [
+      "El Segundo, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Skechers",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
