@@ -69708,5 +69708,41 @@
     "company_url": "https://simplify.jobs/c/Primerica",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Uhaul",
+    "id": "ee3e7dd1-e9b2-4ca6-9db2-4982e43a413e",
+    "title": "Software Development Summer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1744101182,
+    "date_posted": 1744101182,
+    "url": "https://uhaul.wd1.myworkdayjobs.com/UhaulJobs/job/Phoenix-Arizona/Software-Development-Summer-Intern_R216546",
+    "locations": [
+      "Phoenix, AZ"
+    ],
+    "company_url": "https://simplify.jobs/c/Uhaul",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Uhaul",
+    "id": "a2a2b1f7-989c-4583-93e3-18a7e9b9dd72",
+    "title": "Data Analyst Intern",
+    "active": true,
+    "terms": [],
+    "date_updated": 1744101187,
+    "date_posted": 1744101187,
+    "url": "https://uhaul.wd1.myworkdayjobs.com/UhaulJobs/job/Tempe-Arizona/Data-Analyst-Intern_R216544",
+    "locations": [
+      "Tempe, AZ"
+    ],
+    "company_url": "https://simplify.jobs/c/Uhaul",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
