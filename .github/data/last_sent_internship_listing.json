@@ -69577,5 +69577,100 @@
     "company_url": "https://simplify.jobs/c/SonicWall",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Lennox International",
+    "id": "56fa6427-c146-47f9-8966-14eacc804675",
+    "title": "Software Engineer Co-Op",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1743830871,
+    "date_posted": 1743830871,
+    "url": "https://uscareers-lennox.icims.com/jobs/46847/job",
+    "locations": [
+      "Farmers Branch, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Lennox-International",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Cadence Design Systems",
+    "id": "6edd14ec-bc51-43a8-9a3e-0ae57e678b19",
+    "title": "Software Architect Internship",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1744096512,
+    "date_posted": 1744096512,
+    "url": "https://cadence.wd1.myworkdayjobs.com/en-US/External_Careers/job/AUSTIN/Software-Architect-Internship--Summer-2025-_R49719-2",
+    "locations": [
+      "Austin, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Cadence-Design-Systems",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Hitachi Vantara",
+    "id": "d80844f9-f855-4ced-b0b7-9dc2a033c185",
+    "title": "Intern \u2013 Federal Data Science",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1744096237,
+    "date_posted": 1744096237,
+    "url": "https://www.hitachivantara.com/en-us/company/careers/job-details/7944038002?gh_jid=7944038002",
+    "locations": [
+      "Reston, VA"
+    ],
+    "company_url": "https://simplify.jobs/c/Hitachi-Vantara",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Hitachi Vantara",
+    "id": "48bf8463-fafe-426f-99e9-ab6105df002c",
+    "title": "Intern \u2013 Federal Data Science",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1744096237,
+    "date_posted": 1744096237,
+    "url": "https://www.hitachivantara.com/en-us/company/careers/job-details/7944028002?gh_jid=7944028002",
+    "locations": [
+      "Reston, VA"
+    ],
+    "company_url": "https://simplify.jobs/c/Hitachi-Vantara",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Harris Computer",
+    "id": "b1d165f0-766f-4ce5-9c3e-f9ead1e6baaf",
+    "title": "Co-op Software Developer",
+    "active": true,
+    "terms": [
+      "Spring 2025"
+    ],
+    "date_updated": 1744095871,
+    "date_posted": 1744095871,
+    "url": "https://harriscomputer.wd3.myworkdayjobs.com/en-US/1/job/Burnaby-British-Columbia/Co-op-Software-Developer_R0029706-5",
+    "locations": [
+      "Burnaby, BC, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/372c6250-89ed-4b8e-9000-a81fc94184d8",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
