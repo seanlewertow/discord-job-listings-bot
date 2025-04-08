@@ -70112,5 +70112,49 @@
     "company_url": "https://simplify.jobs/c/Dwolla",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "KBR",
+    "id": "81041a75-f5e3-4eea-bb19-b204a5fb2577",
+    "title": "National Security Solutions \u2013 Image Science Internship - Nss",
+    "active": true,
+    "terms": [],
+    "date_updated": 1742037928,
+    "date_posted": 1742037928,
+    "url": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Chantilly-Virginia/National-Security-Solutions--NSS--Image-Science-Internship_R2095682",
+    "locations": [
+      "King of Prussia, PA",
+      "Colorado Springs, CO",
+      "Chantilly, VA",
+      "Maui, Hawaii",
+      "Columbus, OH",
+      "Beavercreek, OH"
+    ],
+    "company_url": "https://simplify.jobs/c/KBR",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "KBR",
+    "id": "b642944e-4b8b-4c60-ae09-a41ec29f9abf",
+    "title": "National Security Solutions \u2013 Computer Engineering Internship - Nss",
+    "active": true,
+    "terms": [],
+    "date_updated": 1741916066,
+    "date_posted": 1740529960,
+    "url": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Chantilly-Virginia/National-Security-Solutions--NSS--Computer-Engineering-Internship_R2095681",
+    "locations": [
+      "King of Prussia, PA",
+      "Colorado Springs, CO",
+      "Chantilly, VA",
+      "Maui, Hawaii",
+      "Columbus, OH",
+      "Beavercreek, OH"
+    ],
+    "company_url": "https://simplify.jobs/c/KBR",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
