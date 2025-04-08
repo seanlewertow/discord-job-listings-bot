@@ -70156,5 +70156,25 @@
     "company_url": "https://simplify.jobs/c/KBR",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "GCM Grosvenor",
+    "id": "fbe9eee2-24fa-46e2-8da5-3600cc71530c",
+    "title": "HR Data and Analytics Summer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1744094765,
+    "date_posted": 1744094765,
+    "url": "https://job-boards.greenhouse.io/gcmgrosvenor/jobs/6506764003",
+    "locations": [
+      "Chicago, IL",
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/c4659eb7-478d-4b6c-9346-8929e1129552",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
