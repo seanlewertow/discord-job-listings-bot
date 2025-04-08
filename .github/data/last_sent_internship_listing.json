@@ -69782,5 +69782,43 @@
     "company_url": "https://simplify.jobs/c/Entegris",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Royal Bank of Canada",
+    "id": "127a34bb-feab-4de9-838a-17a483ab588b",
+    "title": "Relationship Manager Commercial Markets Intern",
+    "active": true,
+    "terms": [
+      "Spring 2025"
+    ],
+    "date_updated": 1743838920,
+    "date_posted": 1743838920,
+    "url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/BRIDGEWATER-Nova-Scotia-Canada/Relationship-Manager-Commercial-Markets-Intern_R-0000121763",
+    "locations": [
+      "Lunenburg, NS, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Royal-Bank-Of-Canada",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Entegris",
+    "id": "eee94ed7-fb99-4553-a460-1652d707da39",
+    "title": "IT Application Developer Co-Op",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1743351042,
+    "date_posted": 1743351042,
+    "url": "https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Chaska-MN/IT-Application-Developer-Co-Op_REQ-8367",
+    "locations": [
+      "Chaska, MN"
+    ],
+    "company_url": "https://simplify.jobs/c/Entegris",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
