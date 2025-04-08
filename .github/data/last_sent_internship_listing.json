@@ -70195,5 +70195,44 @@
     "company_url": "https://simplify.jobs/c/05712bef-86a0-435b-881e-4807e0d56002",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Nutanix",
+    "id": "5c96b14d-a59b-4d86-9c55-a5f09f73ede7",
+    "title": "Software Engineering Intern - Ndb",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1744134151,
+    "date_posted": 1744134151,
+    "url": "https://jobs.jobvite.com/nutanix/job/o9zlufwh?nl=1&nl=1&fr=false",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Nutanix",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "NVIDIA",
+    "id": "1b543228-2abe-41ad-beea-d080a48ef33f",
+    "title": "Software Engineering Intern - Developer Tools",
+    "active": true,
+    "terms": [],
+    "date_updated": 1744134149,
+    "date_posted": 1744134149,
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/France-Courbevoie/Software-Engineering-Intern--Developer-Tools_JR1996457",
+    "locations": [
+      "Paris, France",
+      "Reading, UK",
+      "Berlin, Germany",
+      "Munich, Germany"
+    ],
+    "company_url": "https://simplify.jobs/c/NVIDIA",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
