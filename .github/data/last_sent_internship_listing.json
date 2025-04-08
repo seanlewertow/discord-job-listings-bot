@@ -69450,5 +69450,41 @@
     "date_posted": 1744054087,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Globalization Partners",
+    "id": "323dc9ab-8580-46ef-88a4-ed8f3b66047c",
+    "title": "AI \u2013 Intern",
+    "active": true,
+    "terms": [],
+    "date_updated": 1744092927,
+    "date_posted": 1744092927,
+    "url": "https://job-boards.greenhouse.io/globalizationpartners/jobs/6529730003",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/Globalization-Partners",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Dusty Robotics",
+    "id": "e73a2f66-31f7-46a2-afe8-6d696337480f",
+    "title": "Software Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1743832023,
+    "date_posted": 1743832023,
+    "url": "https://boards.greenhouse.io/dustyrobotics/jobs/6533357003",
+    "locations": [
+      "Mountain View, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/DustyRobotics",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
