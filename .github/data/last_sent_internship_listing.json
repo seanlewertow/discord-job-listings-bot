@@ -69744,5 +69744,43 @@
     "company_url": "https://simplify.jobs/c/Uhaul",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Snowflake",
+    "id": "d8d3851c-ab56-46a3-a34d-e94c3f69b22c",
+    "title": "Partners Alliances Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1742006931,
+    "date_posted": 1738239346,
+    "url": "https://jobs.ashbyhq.com/snowflake/f88d74e1-c7fc-4907-ab89-57d40bfd525b/application",
+    "locations": [
+      "London, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Snowflake",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Entegris",
+    "id": "7ef88a6e-87ae-4367-8443-7daffb50eeb0",
+    "title": "Data Science Co-Op",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1742108824,
+    "date_posted": 1742108824,
+    "url": "https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Chaska-MN/Data-Science-Co-Op_REQ-8368",
+    "locations": [
+      "Chaska, MN"
+    ],
+    "company_url": "https://simplify.jobs/c/Entegris",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
