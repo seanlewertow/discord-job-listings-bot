@@ -69896,5 +69896,41 @@
     "company_url": "https://simplify.jobs/c/Entegris",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Forbes",
+    "id": "e03e23b3-9272-47ee-bebb-59d4a8f6ac5f",
+    "title": "Business Intelligence/Insights Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1744118768,
+    "date_posted": 1743770031,
+    "url": "https://job-boards.greenhouse.io/forbes/jobs/5485136004",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Forbes",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Primerica",
+    "id": "79dc5da1-6125-43c0-b92c-4e01ce28ee60",
+    "title": "Appdev \u2013 Vuejs Intern",
+    "active": true,
+    "terms": [],
+    "date_updated": 1743766696,
+    "date_posted": 1743766696,
+    "url": "https://primerica.wd1.myworkdayjobs.com/pri/job/Duluth-GA/AppDev---VueJS-Intern_R-180042025",
+    "locations": [
+      "Duluth, GA"
+    ],
+    "company_url": "https://simplify.jobs/c/Primerica",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
