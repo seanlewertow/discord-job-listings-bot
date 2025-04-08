@@ -69672,5 +69672,41 @@
     "company_url": "https://simplify.jobs/c/372c6250-89ed-4b8e-9000-a81fc94184d8",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "NVIDIA",
+    "id": "efddd9b4-ff20-49aa-8127-9d2d8fcf215d",
+    "title": "Deep Learning Compiler Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1744099533,
+    "date_posted": 1744099533,
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Deep-Learning-Compiler-Intern--Summer-2025_JR1990955",
+    "locations": [
+      "Santa Clara, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/NVIDIA",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Primerica",
+    "id": "f901034d-8f4b-42f7-b18c-3142440edd9b",
+    "title": "Data Analyst Intern",
+    "active": true,
+    "terms": [],
+    "date_updated": 1744099436,
+    "date_posted": 1744099436,
+    "url": "https://primerica.wd1.myworkdayjobs.com/pri/job/Duluth-GA/Data-Analyst-Intern_R-193042025",
+    "locations": [
+      "Duluth, GA"
+    ],
+    "company_url": "https://simplify.jobs/c/Primerica",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
