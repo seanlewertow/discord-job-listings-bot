@@ -69999,5 +69999,41 @@
     "company_url": "https://simplify.jobs/c/KBR",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Henry Schein",
+    "id": "6c49cfda-c3f0-4a0d-bc93-a2ba907a5540",
+    "title": "Big Data Summer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1743769426,
+    "date_posted": 1743769426,
+    "url": "https://henryschein.wd1.myworkdayjobs.com/External_Careers/job/New-York---Remote/Big-Data-Summer-Intern_R129407",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Henry-Schein",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "KBR",
+    "id": "f28a8399-7a32-4d82-bfae-0e6fcab82629",
+    "title": "Data Science Intern",
+    "active": true,
+    "terms": [],
+    "date_updated": 1740530480,
+    "date_posted": 1740530480,
+    "url": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Beavercreek-Ohio/Data-Science-Intern_R2101097",
+    "locations": [
+      "Beavercreek, OH"
+    ],
+    "company_url": "https://simplify.jobs/c/KBR",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
