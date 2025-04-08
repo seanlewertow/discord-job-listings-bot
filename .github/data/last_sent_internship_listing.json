@@ -70093,5 +70093,24 @@
     "company_url": "https://simplify.jobs/c/CVS-Health",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Dwolla",
+    "id": "35ea812d-54fd-4b99-9c98-25db9d5ae810",
+    "title": "Software Engineering Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1741917552,
+    "date_posted": 1741735678,
+    "url": "https://jobs.lever.co/dwolla/35eec59a-b89e-4407-9655-68a941910cfe/apply",
+    "locations": [
+      "Des Moines, IA"
+    ],
+    "company_url": "https://simplify.jobs/c/Dwolla",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
