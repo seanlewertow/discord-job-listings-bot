@@ -69486,5 +69486,96 @@
     "company_url": "https://simplify.jobs/c/DustyRobotics",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Articul8",
+    "id": "762e8c11-8679-4c81-89b3-9792cfe1f1a2",
+    "title": "Intern \u2013 Machine Learning Engineer",
+    "active": true,
+    "terms": [],
+    "date_updated": 1744093323,
+    "date_posted": 1744093323,
+    "url": "https://jobs.ashbyhq.com/articul8/20e55a8f-a509-4ab4-b319-ff958112687f/application",
+    "locations": [
+      "Dublin, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Articul8",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Pison",
+    "id": "8e147ac9-5719-46b9-a36d-8b150ea14b01",
+    "title": "Algo Productions Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1744094636,
+    "date_posted": 1744094636,
+    "url": "https://jobs.lever.co/pison/754209d9-773f-406c-9641-5d44aed40f5f/apply",
+    "locations": [
+      "Boston, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/Pison",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "SharkNinja",
+    "id": "569ea598-5a46-4b88-9d2e-ec1e5b370ce0",
+    "title": "Software Engineering Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1741915116,
+    "date_posted": 1738021546,
+    "url": "https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4438274006",
+    "locations": [
+      "Goodlettsville, TN"
+    ],
+    "company_url": "https://simplify.jobs/c/SharkNinja",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Point72",
+    "id": "0720297b-978d-4835-8d59-f2dd555d3005",
+    "title": "2026 Point72 Academy Investment Analyst Summer Internship Program",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1741907976,
+    "date_posted": 1741004102,
+    "url": "https://boards.greenhouse.io/point72/jobs/7885446002",
+    "locations": [
+      "London, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Point72",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "SonicWall",
+    "id": "d73e7358-2e80-49dd-87ea-a61814481ef6",
+    "title": "Data Plane Engineer Intern",
+    "active": true,
+    "terms": [],
+    "date_updated": 1742469830,
+    "date_posted": 1741981262,
+    "url": "https://job-boards.greenhouse.io/sonicwall/jobs/6631686",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/SonicWall",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
