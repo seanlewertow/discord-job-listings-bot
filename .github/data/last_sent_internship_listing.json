@@ -70346,5 +70346,22 @@
     "company_url": "https://simplify.jobs/c/Qualtrics",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "ZOLL Medical Corporation",
+    "id": "47c6b6eb-b915-4a10-96bb-d5b0d1e8afce",
+    "title": "Engineering Co-op - Embedded Software",
+    "active": true,
+    "terms": [],
+    "date_updated": 1744180662,
+    "date_posted": 1744180662,
+    "url": "https://zoll.wd5.myworkdayjobs.com/en-US/ZOLLMedicalCorp/job/Pittsburgh-PA/Engineering-Co-op---Embedded-Software_R15377",
+    "locations": [
+      "Pittsburgh, PA"
+    ],
+    "company_url": "https://simplify.jobs/c/ee618baa-00a6-40a4-a272-ee5c1f9a73dd",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
