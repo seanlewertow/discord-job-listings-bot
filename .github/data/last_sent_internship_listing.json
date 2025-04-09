@@ -70478,5 +70478,24 @@
     "company_url": "https://simplify.jobs/c/Copart",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Boom Supersonic",
+    "id": "c169db85-8f9b-495e-b8b0-f12b057110f3",
+    "title": "Data Science Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1744195365,
+    "date_posted": 1744195365,
+    "url": "https://job-boards.greenhouse.io/boomsupersonic/jobs/5497899004",
+    "locations": [
+      "Centennial, CO"
+    ],
+    "company_url": "https://simplify.jobs/c/Boom-Supersonic",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
