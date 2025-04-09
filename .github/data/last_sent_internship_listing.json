@@ -70461,5 +70461,22 @@
     "company_url": "https://simplify.jobs/c/Booz-Allen",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Copart",
+    "id": "7163cd5c-54a8-4bf2-9cbe-e21bf918fe33",
+    "title": "Software Engineering Intern",
+    "active": true,
+    "terms": [],
+    "date_updated": 1744184298,
+    "date_posted": 1744184298,
+    "url": "https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR102310",
+    "locations": [
+      "Dallas, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Copart",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
