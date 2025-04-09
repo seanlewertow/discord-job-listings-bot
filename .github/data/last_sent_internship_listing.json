@@ -70516,5 +70516,25 @@
     "company_url": "https://simplify.jobs/c/Leidos",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Johnson Matthey",
+    "id": "590b3957-fe50-492e-bd51-0517134d918e",
+    "title": "Internship Program - Operations - Data Science",
+    "active": true,
+    "terms": [
+      "Summer 2025",
+      "Winter 2025"
+    ],
+    "date_updated": 1744226555,
+    "date_posted": 1743453147,
+    "url": "https://matthey.wd3.myworkdayjobs.com/Ext_Career_Site/job/Devon-PA---US/US-Internship-Program--Operations_R-012702",
+    "locations": [
+      "Berwyn, PA"
+    ],
+    "company_url": "https://simplify.jobs/c/Johnson-Matthey",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
