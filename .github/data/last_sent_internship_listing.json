@@ -70536,5 +70536,22 @@
     "company_url": "https://simplify.jobs/c/Johnson-Matthey",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Scaler",
+    "id": "1d4f1f11-02c5-4073-94d2-5707a6c3f934",
+    "title": "Data & Insights Intern",
+    "active": true,
+    "terms": [],
+    "date_updated": 1744228158,
+    "date_posted": 1741634038,
+    "url": "https://jobs.ashbyhq.com/scaler/46be8be3-e285-4254-8209-9516e8b939f1/application",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Scaler",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
