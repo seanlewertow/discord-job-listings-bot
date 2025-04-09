@@ -70572,5 +70572,96 @@
     "company_url": "https://simplify.jobs/c/Onto-Innovation",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Nokia",
+    "id": "f5b80c6b-4bf4-4550-9431-8cd7cccb293a",
+    "title": "Software Designer Co-op/Intern",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1744239796,
+    "date_posted": 1744239796,
+    "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/job/19279",
+    "locations": [
+      "Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Nokia",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Qualtrics",
+    "id": "4e027a7d-bbeb-4f5e-8c59-ecb847b47801",
+    "title": "Software Engineering Intern - Collect Platform",
+    "active": true,
+    "terms": [],
+    "date_updated": 1744239636,
+    "date_posted": 1744239636,
+    "url": "https://www.qualtrics.com/careers/us/en/job/6780079?gh_jid=6780079",
+    "locations": [
+      "Provo, UT"
+    ],
+    "company_url": "https://simplify.jobs/c/Qualtrics",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Bridgewater Associates",
+    "id": "da0a3c5f-37ed-491e-aaa9-cf7e2d266557",
+    "title": "Investment Engineer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1744239410,
+    "date_posted": 1744239410,
+    "url": "https://job-boards.greenhouse.io/bridgewater89/jobs/7950088002",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Bridgewater-Associates",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Allegion",
+    "id": "884f8ddc-74e2-4e74-8b4c-5a9be4dd0a16",
+    "title": "Summer Intern - Firmware Engineer",
+    "active": true,
+    "terms": [
+      "Summer 2024"
+    ],
+    "date_updated": 1744239104,
+    "date_posted": 1744239104,
+    "url": "https://allegion.wd5.myworkdayjobs.com/careers/job/Indianapolis-IN---Hague-Rd/Summer-Intern---Firmware-Engineer--Hague-Road-Technical-Center---Indianapolis--Indiana_JR32259-1",
+    "locations": [
+      "Indianapolis, IN"
+    ],
+    "company_url": "https://simplify.jobs/c/Allegion",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Qlik",
+    "id": "7a699798-e556-4df2-97e6-bb73445ec97f",
+    "title": "Software Engineer Intern",
+    "active": true,
+    "terms": [],
+    "date_updated": 1744240604,
+    "date_posted": 1744240604,
+    "url": "https://jobs.jobvite.com/qlik/job/olhlvfwc?nl=1&nl=1&fr=false",
+    "locations": [
+      "Salt Lake City, UT"
+    ],
+    "company_url": "https://simplify.jobs/c/Qlik",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
