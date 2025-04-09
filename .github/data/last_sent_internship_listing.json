@@ -70329,5 +70329,22 @@
     "date_posted": 1744171381,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Qualtrics",
+    "id": "0ddf509f-b865-41b0-a8fe-26a19d405dd3",
+    "title": "Software Engineering Intern - Collect Platform",
+    "active": true,
+    "terms": [],
+    "date_updated": 1744180049,
+    "date_posted": 1744180049,
+    "url": "https://www.qualtrics.com/careers/us/en/job/6781711?gh_jid=6781711",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "company_url": "https://simplify.jobs/c/Qualtrics",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
