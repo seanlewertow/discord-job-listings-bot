@@ -10590,5 +10590,21 @@
     "company_url": "https://simplify.jobs/c/Airbnb",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "LexisNexis Risk Solutions",
+    "id": "ad9fcc91-8e06-4b6d-94b0-8f70897e6ff1",
+    "title": "Software Engineer I",
+    "active": true,
+    "date_updated": 1744182258,
+    "date_posted": 1744182258,
+    "url": "https://relx.wd3.myworkdayjobs.com/en-US/RiskSolutions/job/Miamisburg-OH/Software-Engineer-I---Miamisburg--OH_R93376",
+    "locations": [
+      "Miamisburg, OH"
+    ],
+    "company_url": "https://simplify.jobs/c/9a8ce602-42f0-4474-9ff5-edf7d8868b76",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
