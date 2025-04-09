@@ -70663,5 +70663,102 @@
     "company_url": "https://simplify.jobs/c/Qlik",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Tesla",
+    "id": "1e203700-afe1-4331-ae85-2b249412d0d9",
+    "title": "Internship - Power Electronics Embedded Software Engineer - Vehicle Firmware",
+    "active": true,
+    "terms": [
+      "Fall 2025",
+      "Winter 2026",
+      "Spring 2026"
+    ],
+    "date_updated": 1744238428,
+    "date_posted": 1744238428,
+    "url": "https://www.tesla.com/careers/search/job/240945",
+    "locations": [
+      "Palo Alto, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Tesla",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Genesys",
+    "id": "3da5bc18-4e35-4bcc-ba05-7b07d5ebcedb",
+    "title": "Software Developer Intern - Month Term",
+    "active": true,
+    "terms": [],
+    "date_updated": 1744241169,
+    "date_posted": 1744241169,
+    "url": "https://genesys.wd1.myworkdayjobs.com/en-US/Genesys/job/Toronto-Flexible/Software-Developer-Intern--12-16-Month-Term-_JR107714-2",
+    "locations": [
+      "Toronto, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/a073f454-6408-44aa-87cc-070e67702447",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Tesla",
+    "id": "5cae205b-e99c-48a1-96a6-f7d2315c1d13",
+    "title": "Internship - Fullstack Software Engineer - Maps & Self-Driving Navigation",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1744238422,
+    "date_posted": 1744238422,
+    "url": "https://www.tesla.com/careers/search/job/240877",
+    "locations": [
+      "Palo Alto, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Tesla",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Tesla",
+    "id": "e3dabe5d-7f96-43f1-a6af-4824c920cd42",
+    "title": "Internship - Backend Software Engineer - Diagnostics",
+    "active": true,
+    "terms": [
+      "Fall 2025",
+      "Winter 2026",
+      "Spring 2026"
+    ],
+    "date_updated": 1744238424,
+    "date_posted": 1744238424,
+    "url": "https://www.tesla.com/careers/search/job/240872",
+    "locations": [
+      "Palo Alto, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Tesla",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Capstone Investment Advisors",
+    "id": "0195b8ad-c3bb-4d85-9b1f-88322aa4955a",
+    "title": "2025 Summer Internship - Quantitative Analyst",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1744238209,
+    "date_posted": 1744238209,
+    "url": "https://job-boards.greenhouse.io/capstoneinvestmentadvisors/jobs/7948765002",
+    "locations": [
+      "Boston, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/CapstoneCo",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
