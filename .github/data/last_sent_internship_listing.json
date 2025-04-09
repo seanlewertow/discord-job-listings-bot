@@ -70363,5 +70363,103 @@
     "company_url": "https://simplify.jobs/c/ee618baa-00a6-40a4-a272-ee5c1f9a73dd",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Proofpoint",
+    "id": "5155b9a1-edda-448d-b049-ee677c9f8bcd",
+    "title": "Software Engineering Intern",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1744181978,
+    "date_posted": 1744181978,
+    "url": "https://proofpoint.wd5.myworkdayjobs.com/en-US/ProofpointCareers/job/Sunnyvale-CA/Software-Engineering-Intern_R12158",
+    "locations": [
+      "Sunnyvale, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/proofpoint",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Pitney Bowes",
+    "id": "61192a09-95f4-40dc-b2ca-a347b2eeaa8b",
+    "title": "Data Science Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1744181842,
+    "date_posted": 1744181842,
+    "url": "https://pitneybowes.wd1.myworkdayjobs.com/pbcareers/job/US-CT-Shelton/Data-Science-Intern--onsite-_R19911",
+    "locations": [
+      "Shelton, CT"
+    ],
+    "company_url": "https://simplify.jobs/c/Pitney-Bowes",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Booz Allen",
+    "id": "3f4b6ba9-6fa8-4b10-b7fd-1cbffdc3aaa7",
+    "title": "University \u2013 Software Developer Intern",
+    "active": true,
+    "terms": [
+      "Spring 2027",
+      "Summer 2027"
+    ],
+    "date_updated": 1744183022,
+    "date_posted": 1744183022,
+    "url": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/University--Software-Developer-Intern_R0218219",
+    "locations": [
+      "McLean, VA"
+    ],
+    "company_url": "https://simplify.jobs/c/Booz-Allen",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Booz Allen",
+    "id": "45db9801-5f84-4abf-84e9-8f31d420505b",
+    "title": "University \u2013 Software Developer Intern",
+    "active": true,
+    "terms": [
+      "Spring 2027",
+      "Summer 2027"
+    ],
+    "date_updated": 1744183026,
+    "date_posted": 1744183026,
+    "url": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/University--Software-Developer-Intern_R0218220",
+    "locations": [
+      "McLean, VA"
+    ],
+    "company_url": "https://simplify.jobs/c/Booz-Allen",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Booz Allen",
+    "id": "91b3b09b-8966-4105-b4ae-232ab12fd5eb",
+    "title": "University \u2013 Software Developer Intern",
+    "active": true,
+    "terms": [
+      "Spring 2027",
+      "Summer 2027"
+    ],
+    "date_updated": 1744183019,
+    "date_posted": 1744183019,
+    "url": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/University--Software-Developer-Intern_R0218214",
+    "locations": [
+      "McLean, VA"
+    ],
+    "company_url": "https://simplify.jobs/c/Booz-Allen",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
