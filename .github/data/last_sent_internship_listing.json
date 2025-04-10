@@ -70988,5 +70988,85 @@
     "company_url": "https://simplify.jobs/c/Socure",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Tesla",
+    "id": "f25595e7-e369-406f-a31a-00b96cb666d9",
+    "title": "Internship - Thermal Systems Embedded Software Engineer - Vehicle Firmware",
+    "active": true,
+    "terms": [
+      "Fall 2025",
+      "Winter 2026",
+      "Spring 2026"
+    ],
+    "date_updated": 1744269008,
+    "date_posted": 1744269008,
+    "url": "https://www.tesla.com/careers/search/job/241078",
+    "locations": [
+      "Palo Alto, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Tesla",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Tesla",
+    "id": "a13222b4-3f16-4363-9ab6-4eed4eb79979",
+    "title": "Internship - Software Controls Engineer - Optimus",
+    "active": true,
+    "terms": [
+      "Fall 2025",
+      "Winter 2026",
+      "Spring 2026"
+    ],
+    "date_updated": 1744269024,
+    "date_posted": 1744269024,
+    "url": "https://www.tesla.com/careers/search/job/241053",
+    "locations": [
+      "Palo Alto, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Tesla",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Tesla",
+    "id": "3da9391a-57bf-47c3-bee1-750e7b9f6dae",
+    "title": "Internship - Reinforcement Learning Engineer - Optimus",
+    "active": true,
+    "terms": [
+      "Fall 2025",
+      "Winter 2026",
+      "Spring 2026"
+    ],
+    "date_updated": 1744269011,
+    "date_posted": 1744269011,
+    "url": "https://www.tesla.com/careers/search/job/241054",
+    "locations": [
+      "Palo Alto, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Tesla",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Radiant",
+    "id": "1ac23ba8-38ef-4df4-a07b-19b92d01790e",
+    "title": "Internship - Software Engineering",
+    "active": true,
+    "terms": [],
+    "date_updated": 1744268949,
+    "date_posted": 1744268949,
+    "url": "https://job-boards.greenhouse.io/radiant/jobs/4552430005",
+    "locations": [
+      "El Segundo, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Radiant",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
