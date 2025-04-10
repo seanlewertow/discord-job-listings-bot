@@ -70893,5 +70893,43 @@
     "company_url": "https://simplify.jobs/c/Illumio",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Bridgewater Associates",
+    "id": "2657eea0-282d-46fe-b882-d8696693245e",
+    "title": "Campus Investment Engineer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1744239409,
+    "date_posted": 1744239409,
+    "url": "https://job-boards.greenhouse.io/bridgewatercampusrecruiting/jobs/7950103002",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Bridgewater-Associates",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "CACI",
+    "id": "040c2038-41a0-4c6a-be20-9b3d977eade0",
+    "title": "Software Development Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1744239501,
+    "date_posted": 1744239501,
+    "url": "https://caci.wd1.myworkdayjobs.com/External/job/US-VA-Ashburn/Software-Development-Intern---Summer-2025_306222-1",
+    "locations": [
+      "Ashburn, VA"
+    ],
+    "company_url": "https://simplify.jobs/c/CACI",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
