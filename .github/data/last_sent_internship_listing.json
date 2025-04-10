@@ -71144,5 +71144,22 @@
     "company_url": "https://simplify.jobs/c/NVIDIA",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "PlusAI",
+    "id": "f81c0ac9-af0c-43ad-b65c-60e8771cb221",
+    "title": "Software Engineer Intern-Runtime Visualization",
+    "active": true,
+    "terms": [],
+    "date_updated": 1744272034,
+    "date_posted": 1744272034,
+    "url": "https://jobs.lever.co/plus-2/2f8a5411-b1b7-4724-8830-94f972e85f98/apply",
+    "locations": [
+      "Santa Clara, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Plus",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
