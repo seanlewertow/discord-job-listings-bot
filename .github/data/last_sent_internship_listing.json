@@ -71235,5 +71235,41 @@
     "company_url": "https://simplify.jobs/c/proofpoint",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "LiveRamp",
+    "id": "7bd70dab-61b4-433b-a397-855958886504",
+    "title": "Software Engineer Co-Op",
+    "active": true,
+    "terms": [],
+    "date_updated": 1744304414,
+    "date_posted": 1744304414,
+    "url": "https://liveramp.wd5.myworkdayjobs.com/en-US/LiveRampCareers/job/San-Francisco/Software-Engineer-Co-Op_JR011292-1",
+    "locations": [
+      "SF"
+    ],
+    "company_url": "https://simplify.jobs/c/LiveRamp",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "MoneyLion",
+    "id": "0451d922-e010-4047-bcc8-ccb1dcab2bc4",
+    "title": "Data Science Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1744304157,
+    "date_posted": 1744304157,
+    "url": "https://www.moneylion.com/careers-apply?gh_jid=5497807004",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/MoneyLion",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
