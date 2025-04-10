@@ -71068,5 +71068,24 @@
     "company_url": "https://simplify.jobs/c/Radiant",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Glean",
+    "id": "46fc0949-5b79-464a-9040-0b48a59c3cf0",
+    "title": "Software Engineer Intern - Design Systems - Summer",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1744269570,
+    "date_posted": 1744269570,
+    "url": "https://job-boards.greenhouse.io/gleanwork/jobs/4552477005",
+    "locations": [
+      "Palo Alto, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Glean",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
