@@ -71161,5 +71161,22 @@
     "company_url": "https://simplify.jobs/c/Plus",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "KBR",
+    "id": "c704fd74-d96a-4c4e-8d32-3dab8303a647",
+    "title": "FIU/KBR Internship",
+    "active": true,
+    "terms": [],
+    "date_updated": 1744273587,
+    "date_posted": 1744273587,
+    "url": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Orange-Park-Florida/FIU-KBR-Internship-Program_R2103722",
+    "locations": [
+      "Orange Park, FL"
+    ],
+    "company_url": "https://simplify.jobs/c/KBR",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
