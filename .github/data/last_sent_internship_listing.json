@@ -70856,5 +70856,42 @@
     "company_url": "https://simplify.jobs/c/Moog-Inc",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "ASM Global",
+    "id": "edefacf9-57ce-4750-adc0-76eca4534416",
+    "title": "Business Analytics Intern",
+    "active": true,
+    "terms": [],
+    "date_updated": 1744247972,
+    "date_posted": 1744247972,
+    "url": "https://asmglobal.wd1.myworkdayjobs.com/careers/job/Wake-Forest-University---Winston-Salem-NC/Business-Analytics-Intern_R100112313",
+    "locations": [
+      "Winston-Salem, NC"
+    ],
+    "company_url": "https://simplify.jobs/c/ASM-Global",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Illumio",
+    "id": "1066a6a2-7641-48db-89fd-7073e3b52fff",
+    "title": "Core Policy/Data Platform Intern",
+    "active": true,
+    "terms": [
+      "Spring 2025",
+      "Summer 2025"
+    ],
+    "date_updated": 1744246994,
+    "date_posted": 1736438968,
+    "url": "https://www.illumio.com/company/job-listing?gh_jid=7801449002",
+    "locations": [
+      "Sunnyvale, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Illumio",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
