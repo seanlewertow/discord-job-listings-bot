@@ -71087,5 +71087,62 @@
     "company_url": "https://simplify.jobs/c/Glean",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "NVIDIA",
+    "id": "6b87f3a7-e5f8-4d55-9d80-42d7cf0b450f",
+    "title": "DGX Cloud Platform Software Engineer Intern",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1744270479,
+    "date_posted": 1744270479,
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-CA-Santa-Clara/DGX-Cloud-Platform-Software-Engineer-Intern--Summer-2025_JR1994801",
+    "locations": [
+      "Santa Clara, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/NVIDIA",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "NVIDIA",
+    "id": "c1fb330e-7d59-45ae-92f6-39a8a301c6b0",
+    "title": "Software Intern - Server Firmware Manageability",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1744270467,
+    "date_posted": 1744270467,
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Software-Intern--Server-Firmware-Manageability---Summer-2025_JR1989482",
+    "locations": [
+      "Santa Clara, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/NVIDIA",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "NVIDIA",
+    "id": "353fee2f-8d8f-42a6-a385-a4f6f7bbaa8f",
+    "title": "Software Engineering Intern - NGC Data Platform",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1744270464,
+    "date_posted": 1744270464,
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Software-Engineering-Intern--NGC-Data-Platform---Fall-2025_JR1990285",
+    "locations": [
+      "Santa Clara, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/NVIDIA",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
