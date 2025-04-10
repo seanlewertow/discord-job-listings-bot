@@ -70950,5 +70950,43 @@
     "company_url": "https://simplify.jobs/c/Alo-Yoga",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Socure",
+    "id": "0922473c-105a-4e93-9759-7098f96d34a3",
+    "title": "Data Science Intern - DI",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1744267887,
+    "date_posted": 1744267887,
+    "url": "https://socure.wd1.myworkdayjobs.com/en-US/SocureCareers/job/Remote---USA/Data-Science-Intern---DI_JR512",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/Socure",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Socure",
+    "id": "173ee118-bbc1-4812-bf33-0b4d55a7d292",
+    "title": "Data Science Intern - Fpf",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1744267866,
+    "date_posted": 1744267866,
+    "url": "https://socure.wd1.myworkdayjobs.com/en-US/SocureCareers/job/Remote---USA/Data-Science-Intern_JR510",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/Socure",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
