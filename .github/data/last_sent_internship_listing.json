@@ -71197,5 +71197,43 @@
     "company_url": "https://simplify.jobs/c/ad82fc6f-2c63-4173-8dcd-2209d5a97368",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "thyssenkrupp",
+    "id": "82e18d58-a40d-461a-b814-ed3b6f0b378f",
+    "title": "Data Analytics Intern - Business Solutions Group",
+    "active": true,
+    "terms": [],
+    "date_updated": 1744300940,
+    "date_posted": 1744300940,
+    "url": "https://thyssenkruppmaterialsna.wd12.myworkdayjobs.com/1/job/Southfield-Michigan-USA/Data-Analytics-Intern---Business-Solutions-Group_JR102729",
+    "locations": [
+      "Southfield, MI"
+    ],
+    "company_url": "https://simplify.jobs/c/Thyssenkrupp",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Proofpoint",
+    "id": "e2e051d9-605d-4f77-987e-641e59bf754c",
+    "title": "Software Engineering Intern - Machine Learning",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1744301129,
+    "date_posted": 1744301129,
+    "url": "https://proofpoint.wd5.myworkdayjobs.com/en-US/ProofpointCareers/job/Sunnyvale-CA/Software-Engineering-Intern--Machine-Learning_R12174",
+    "locations": [
+      "Pittsburgh, PA",
+      "Draper, UT",
+      "Sunnyvale, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/proofpoint",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
