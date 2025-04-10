@@ -70760,5 +70760,101 @@
     "company_url": "https://simplify.jobs/c/CapstoneCo",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Tesla",
+    "id": "92713a0b-26e8-4a14-b480-7fb8aa10ae01",
+    "title": "Internship - System Software Engineer - System Software",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1744244347,
+    "date_posted": 1744244347,
+    "url": "https://www.tesla.com/careers/search/job/238218",
+    "locations": [
+      "Palo Alto, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Tesla",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Artisan Partners",
+    "id": "3a14d4fc-ae4d-40fd-a473-615a9a52e069",
+    "title": "Software Developer Intern - Trading & Trade Operations Applications",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1744245894,
+    "date_posted": 1744245894,
+    "url": "https://www.artisanpartners.com/careers/career-opportunities.html?gh_jid=6790014",
+    "locations": [
+      "Milwaukee, WI"
+    ],
+    "company_url": "https://simplify.jobs/c/Artisan-Partners",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Leidos",
+    "id": "2e9e409a-c0aa-49a7-8a09-83b0e47f26ef",
+    "title": "Innovation & Automation Software Development Intern",
+    "active": true,
+    "terms": [
+      "Spring 2025"
+    ],
+    "date_updated": 1744245831,
+    "date_posted": 1744245831,
+    "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Reston-VA/Innovation---Automation-Software-Development-Intern_R-00157217",
+    "locations": [
+      "Reston, VA"
+    ],
+    "company_url": "https://simplify.jobs/c/Leidos",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Trimble",
+    "id": "d4c94525-b747-4fa3-8dbb-e743e727a6c7",
+    "title": "Software Engineer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1744246152,
+    "date_posted": 1744246152,
+    "url": "https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/UK---Leeds-Tekla/Software-Engineer-Intern_R48508",
+    "locations": [
+      "Leeds, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Trimble",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Moog Inc",
+    "id": "0503b1bc-4ef7-45d5-8f54-a5c05165d56b",
+    "title": "Intern \u2013 Software Engineering",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1744246159,
+    "date_posted": 1744246159,
+    "url": "https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Intern--Software-Engineering_R-25-11658",
+    "locations": [
+      "Cheektowaga, NY",
+      "Buffalo, NY"
+    ],
+    "company_url": "https://simplify.jobs/c/Moog-Inc",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
