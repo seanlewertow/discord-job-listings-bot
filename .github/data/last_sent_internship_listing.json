@@ -70931,5 +70931,24 @@
     "company_url": "https://simplify.jobs/c/CACI",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Alo Yoga",
+    "id": "2fff27a3-530e-4ffe-8809-624841eb4d5c",
+    "title": "Software Engineering \u2013 HRIS Intern",
+    "active": true,
+    "terms": [
+      "Summer 2024"
+    ],
+    "date_updated": 1744265897,
+    "date_posted": 1744265897,
+    "url": "https://boards.greenhouse.io/aloyoga/jobs/5499692004",
+    "locations": [
+      "Culver City, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Alo-Yoga",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
