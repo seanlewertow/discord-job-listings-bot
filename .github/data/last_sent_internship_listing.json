@@ -71477,5 +71477,41 @@
     "company_url": "https://simplify.jobs/c/GP-Fund-Solutions",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Mill",
+    "id": "f2ef3744-4d37-4dbb-8c27-944d59ac5066",
+    "title": "Firmware Engineering Intern",
+    "active": true,
+    "terms": [],
+    "date_updated": 1744355338,
+    "date_posted": 1744355338,
+    "url": "https://job-boards.greenhouse.io/mill/jobs/4552862005",
+    "locations": [
+      "San Bruno, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/1b1d6494-c3a4-4700-94ca-f6de41fb4693",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "TabaPay",
+    "id": "02d2d0ce-95dc-451e-bcae-84aa7341c91f",
+    "title": "Python Engineer Summer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1744355264,
+    "date_posted": 1744355264,
+    "url": "https://tabapay.com/careers.html?gh_jid=4555063006",
+    "locations": [
+      "Palo Alto, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/TabaPay",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
