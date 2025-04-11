@@ -71271,5 +71271,24 @@
     "company_url": "https://simplify.jobs/c/MoneyLion",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "date_updated": 1744346210,
+    "url": "https://job-boards.greenhouse.io/sentry/jobs/6793872/",
+    "company_name": "Sentry",
+    "title": "Software Engineer, Intern (Fall 2025)",
+    "locations": [
+      "Toronto, Canada"
+    ],
+    "terms": [
+      "Fall 2025"
+    ],
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "source": "GaryZhous",
+    "id": "879333a4-f61b-46d1-8902-39f4dbf0de10",
+    "date_posted": 1744346210,
+    "company_url": "",
+    "is_visible": true
   }
 ]
