@@ -71290,5 +71290,101 @@
     "date_posted": 1744346210,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Alo Yoga",
+    "id": "71008e50-31e5-48a4-85d5-3288247661f5",
+    "title": "Business Systems Engineering Intern",
+    "active": true,
+    "terms": [
+      "Summer 2024"
+    ],
+    "date_updated": 1744352327,
+    "date_posted": 1744352327,
+    "url": "https://boards.greenhouse.io/aloyoga/jobs/5500720004",
+    "locations": [
+      "Culver City, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Alo-Yoga",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "ByteDance",
+    "id": "38fd1355-b788-437a-a469-1a3fab3d5086",
+    "title": "Software Engineer Intern - AIGC Platform - Monetization GenAI",
+    "active": true,
+    "terms": [
+      "Summer 2025",
+      "Fall 2025"
+    ],
+    "date_updated": 1744352953,
+    "date_posted": 1744352953,
+    "url": "https://jobs.bytedance.com/en/position/7491779899817412882/detail",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/3f74d8b1-5d66-4d3b-b4b2-52ec6c78afc3",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "ServiceNow",
+    "id": "80dd5fb8-d073-44ff-8e67-96a2abf3614a",
+    "title": "Intern \u2013 Associate Software Engineer",
+    "active": true,
+    "terms": [
+      "Spring 2026"
+    ],
+    "date_updated": 1744352803,
+    "date_posted": 1744352803,
+    "url": "https://jobs.smartrecruiters.com/ServiceNow/744000053195651",
+    "locations": [
+      "Santa Clara, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/ServiceNow",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Nokia",
+    "id": "ea8de79b-7f71-4bc6-85fa-36c64c89922c",
+    "title": "Software Designer Co-op/Intern",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1744352661,
+    "date_posted": 1744352661,
+    "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/job/19491",
+    "locations": [
+      "Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Nokia",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Nokia",
+    "id": "834e7cf2-7b51-48d8-b109-5e730071653f",
+    "title": "UI Web Developer Co-op/Intern",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1744352654,
+    "date_posted": 1744352654,
+    "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/job/19495",
+    "locations": [
+      "Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Nokia",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
