@@ -71386,5 +71386,96 @@
     "company_url": "https://simplify.jobs/c/Nokia",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Veolia",
+    "id": "5196b209-29c9-4566-9011-3ad4bcf21bfd",
+    "title": "Junior Drupal Development Intern",
+    "active": true,
+    "terms": [],
+    "date_updated": 1744353735,
+    "date_posted": 1744353735,
+    "url": "https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000053148205",
+    "locations": [
+      "Paramus, NJ"
+    ],
+    "company_url": "https://simplify.jobs/c/Veolia",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Veolia",
+    "id": "054bc721-6a12-4742-a185-d9b3c184ae25",
+    "title": "Junior Java Development Intern",
+    "active": true,
+    "terms": [],
+    "date_updated": 1744353719,
+    "date_posted": 1744353719,
+    "url": "https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000053145599",
+    "locations": [
+      "Paramus, NJ"
+    ],
+    "company_url": "https://simplify.jobs/c/Veolia",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Veolia",
+    "id": "93b0f04f-1a34-4ffa-af75-13f3e4f0fc18",
+    "title": "GIS Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1744353705,
+    "date_posted": 1744353705,
+    "url": "https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000053171795",
+    "locations": [
+      "Moonachie, NJ"
+    ],
+    "company_url": "https://simplify.jobs/c/Veolia",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Veolia",
+    "id": "389188e8-5fe2-47a4-9332-ba4d90f906bb",
+    "title": "GIS Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1744353704,
+    "date_posted": 1744353704,
+    "url": "https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000053171855",
+    "locations": [
+      "Saddle Brook, NJ"
+    ],
+    "company_url": "https://simplify.jobs/c/Veolia",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "GP Fund Solutions",
+    "id": "43957c29-69b6-42ca-8675-bc9727747d16",
+    "title": "Data Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1744353574,
+    "date_posted": 1744353574,
+    "url": "https://gpfs.breezy.hr/p/fcb4b86d62b4/apply",
+    "locations": [
+      "Latham, NY"
+    ],
+    "company_url": "https://simplify.jobs/c/GP-Fund-Solutions",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
