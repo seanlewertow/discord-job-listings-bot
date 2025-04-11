@@ -71607,5 +71607,45 @@
     "company_url": "https://simplify.jobs/c/Lightcast",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Leidos",
+    "id": "5ac90468-a1cd-4cb9-9dd4-90356a85df96",
+    "title": "Software Development Intern",
+    "active": true,
+    "terms": [
+      "Spring 2025"
+    ],
+    "date_updated": 1744357801,
+    "date_posted": 1744357801,
+    "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Long-Beach-MS/Software-Development-Intern_R-00157221",
+    "locations": [
+      "Long Beach, MS"
+    ],
+    "company_url": "https://simplify.jobs/c/Leidos",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Tesla",
+    "id": "e583993f-0961-4e36-88ac-cf55fa5ba121",
+    "title": "Internship - Embedded Software Engineer - Keys & Authentication",
+    "active": true,
+    "terms": [
+      "Fall 2025",
+      "Winter 2026",
+      "Spring 2026"
+    ],
+    "date_updated": 1744355624,
+    "date_posted": 1744355624,
+    "url": "https://www.tesla.com/careers/search/job/240869",
+    "locations": [
+      "Palo Alto, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Tesla",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
