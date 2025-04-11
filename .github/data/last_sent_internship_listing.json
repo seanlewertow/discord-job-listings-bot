@@ -71590,5 +71590,22 @@
     "company_url": "https://simplify.jobs/c/Sentry",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Lightcast",
+    "id": "1871e448-1bfe-4775-9b40-1e95b7fc3753",
+    "title": "Engineering Intern",
+    "active": true,
+    "terms": [],
+    "date_updated": 1744360184,
+    "date_posted": 1744265815,
+    "url": "https://jobs.lever.co/economicmodeling/8e1865e0-0e9a-4e86-a86a-f98266f1b1a8/apply",
+    "locations": [
+      "Moscow, ID"
+    ],
+    "company_url": "https://simplify.jobs/c/Lightcast",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
