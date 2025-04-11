@@ -71513,5 +71513,82 @@
     "company_url": "https://simplify.jobs/c/TabaPay",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "MoneyLion",
+    "id": "bd83f946-0ab4-4874-89ac-73e80c9d2646",
+    "title": "Backend Java Engineering Intern",
+    "active": true,
+    "terms": [
+      "Summer 2024",
+      "Summer 2025"
+    ],
+    "date_updated": 1744356631,
+    "date_posted": 1744356631,
+    "url": "https://www.moneylion.com/careers-apply?gh_jid=5497867004",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/MoneyLion",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "MoneyLion",
+    "id": "0b9752e1-d5f2-4ad6-afd9-ff6ebfdd579a",
+    "title": "Product Analytics Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1744356641,
+    "date_posted": 1744356641,
+    "url": "https://www.moneylion.com/careers-apply?gh_jid=5497781004",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/MoneyLion",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "NVIDIA",
+    "id": "e57948cf-89e9-439b-973e-eb4fcfecdd10",
+    "title": "Deep Learning Server Software Intern - Dgx",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1744356551,
+    "date_posted": 1744356551,
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Deep-Learning-Server-Software-Intern--DGX---Summer-2025_JR1989683",
+    "locations": [
+      "Santa Clara, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/NVIDIA",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Sentry",
+    "id": "aeb88c0c-80c6-4c6f-9187-61577688b313",
+    "title": "Software Engineer \u2013 Intern",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1744356496,
+    "date_posted": 1744356496,
+    "url": "https://job-boards.greenhouse.io/sentry/jobs/6793872",
+    "locations": [
+      "Toronto, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Sentry",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
