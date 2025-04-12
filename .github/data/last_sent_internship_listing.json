@@ -71647,5 +71647,24 @@
     "company_url": "https://simplify.jobs/c/Tesla",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "date_updated": 1744432908,
+    "url": "https://careersen-mackenzieinvestments.icims.com/jobs/5509/fall-intern%2c-technology-engineering/job",
+    "company_name": "Mackenzie Investments",
+    "title": "Fall Intern, Technology Engineering",
+    "locations": [
+      "Toronto, Canada"
+    ],
+    "terms": [
+      "Fall 2025"
+    ],
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "source": "GaryZhous",
+    "id": "0a65f39f-f22c-4d04-9d6b-fe7ca7740202",
+    "date_posted": 1744432908,
+    "company_url": "",
+    "is_visible": true
   }
 ]
