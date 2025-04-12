@@ -71964,5 +71964,81 @@
     "company_url": "https://simplify.jobs/c/Leidos",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "S&P Global ",
+    "id": "90049ac1-e290-430d-bdd3-6de15a0f7326",
+    "title": "RPA/ GenAI summer intern",
+    "active": true,
+    "terms": [
+      "Summer 2024"
+    ],
+    "date_updated": 1744464684,
+    "date_posted": 1744464684,
+    "url": "https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Careers/job/New-York-NY/RPA--GenAI-summer-intern_313689-1",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/SP-Global",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Skechers",
+    "id": "6484b914-00b0-4a91-830a-1e3fe3f1e589",
+    "title": "Data Analyst Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1744466991,
+    "date_posted": 1744466991,
+    "url": "https://skechers.wd5.myworkdayjobs.com/One-career-site/job/Manhattan-Beach-CA/Data-Analyst-Intern--Summer-2025-_JR113456",
+    "locations": [
+      "El Segundo, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Skechers",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Cibc",
+    "id": "4d1fdf7d-c0f1-4dea-98c9-7f9f6db02b70",
+    "title": "2026 Sales & Trading Summer Analyst",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1744466790,
+    "date_posted": 1744466790,
+    "url": "https://cibc.wd3.myworkdayjobs.com/campus/job/New-York-NY/XMLNAME-2026-Sales---Trading-Summer-Analyst_2501721",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Cibc",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Assurant",
+    "id": "25cc85bb-85df-4221-9175-e0f2df08e843",
+    "title": "Data Analytics Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1744462512,
+    "date_posted": 1744462512,
+    "url": "https://assurant.wd1.myworkdayjobs.com/en-US/Assurant_Careers/job/Lewisville/Data-Analytics-Intern_R-108328",
+    "locations": [
+      "Lewisville, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Assurant",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
