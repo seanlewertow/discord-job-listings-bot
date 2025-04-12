@@ -71816,5 +71816,26 @@
     "company_url": "https://simplify.jobs/c/ed21637c-52d8-41c5-a2a2-2591ed07ef22",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Tesla",
+    "id": "c09d6c06-d1d8-42d4-a0f5-6afa3f779d4c",
+    "title": "Internship - Embedded Software Engineer - Air Suspension & Adaptive Damping",
+    "active": true,
+    "terms": [
+      "Fall 2025",
+      "Winter 2026",
+      "Spring 2026"
+    ],
+    "date_updated": 1744441697,
+    "date_posted": 1744441697,
+    "url": "https://www.tesla.com/careers/search/job/241155",
+    "locations": [
+      "Palo Alto, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Tesla",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
