@@ -71890,5 +71890,22 @@
     "company_url": "https://simplify.jobs/c/AMERICAN-SYSTEMS",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Franklin Templeton",
+    "id": "3f09ece9-07ae-4802-9a27-63f8b1909900",
+    "title": "OSAM Research Intern",
+    "active": true,
+    "terms": [],
+    "date_updated": 1744451289,
+    "date_posted": 1743454539,
+    "url": "https://franklintempleton.wd5.myworkdayjobs.com/invitation-only/job/Stamford-Connecticut-United-States-of-America/OSAM-Research---Undergrad-Intern_862271",
+    "locations": [
+      "Stamford, CT"
+    ],
+    "company_url": "https://simplify.jobs/c/Franklin-Templeton",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
