@@ -71907,5 +71907,43 @@
     "company_url": "https://simplify.jobs/c/Franklin-Templeton",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "USAA",
+    "id": "831d02b4-3e00-47fa-91e4-c9f8df5e6f2c",
+    "title": "Data Analyst Intern - Bank Analytics",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1744465872,
+    "date_posted": 1744465872,
+    "url": "https://usaa.wd1.myworkdayjobs.com/en-US/USAAJOBSWD/job/Plano-Legacy/Data-Analyst-Intern---Bank-Analytics_R0108690",
+    "locations": [
+      "Plano, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/664e9aa2-3c0e-4e96-9048-739e08b37a63",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "RTX",
+    "id": "3a270119-c742-4007-8ed7-5ecf12e5eb05",
+    "title": "2025 Intern \u2013 Supply Chain Data Analytics Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1744465794,
+    "date_posted": 1744465794,
+    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/MA101-Andover-MA-350-Lowell-St-Essex-350-Lowell-Street-Essex-Andover-MA-01810-USA/XMLNAME-2025-Intern---Supply-Chain-Data-Analytics-Intern---Onsite_01762367",
+    "locations": [
+      "Andover, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/RTX",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
