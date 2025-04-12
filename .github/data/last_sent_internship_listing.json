@@ -71945,5 +71945,24 @@
     "company_url": "https://simplify.jobs/c/RTX",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Leidos",
+    "id": "76383b0c-442a-4a3b-80b2-dbed9499305f",
+    "title": "Software Developer Summer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1744469906,
+    "date_posted": 1744469906,
+    "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Software-Developer-Summer-Intern_R-00157444",
+    "locations": [
+      "Huntsville, AL"
+    ],
+    "company_url": "https://simplify.jobs/c/Leidos",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
