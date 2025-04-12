@@ -71666,5 +71666,102 @@
     "date_posted": 1744432908,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Strava",
+    "id": "eede2f94-e064-4bd2-9410-d5979fb9c349",
+    "title": "Software Engineering Intern - Android",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1744439191,
+    "date_posted": 1744439191,
+    "url": "https://job-boards.greenhouse.io/strava/jobs/6764937",
+    "locations": [
+      "SF"
+    ],
+    "company_url": "https://simplify.jobs/c/Strava",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Strava",
+    "id": "781d4a0e-916a-4128-b5f1-83b7771f3090",
+    "title": "Software Engineering Intern - Web",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1744439191,
+    "date_posted": 1744439191,
+    "url": "https://job-boards.greenhouse.io/strava/jobs/6764965",
+    "locations": [
+      "SF"
+    ],
+    "company_url": "https://simplify.jobs/c/Strava",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Nokia",
+    "id": "37f5c549-390e-4613-b9c6-166cd62f7617",
+    "title": "SW Tools Development Co-op/Intern",
+    "active": true,
+    "terms": [
+      "Fall 2025",
+      "Winter 2025"
+    ],
+    "date_updated": 1744438862,
+    "date_posted": 1744438862,
+    "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/job/19305",
+    "locations": [
+      "Remote in Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Nokia",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Nokia",
+    "id": "86a88727-7566-4fd8-907c-c4b2feb4a77f",
+    "title": "Customer Applications Eng Co-op/Intern",
+    "active": true,
+    "terms": [
+      "Fall 2025",
+      "Winter 2025"
+    ],
+    "date_updated": 1744438863,
+    "date_posted": 1744438863,
+    "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/job/18855",
+    "locations": [
+      "Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Nokia",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Auctane",
+    "id": "fa5f8fd0-44cb-4e25-bfad-5f806f67bd15",
+    "title": "Data Engineering Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1744438769,
+    "date_posted": 1744438769,
+    "url": "https://job-boards.greenhouse.io/auctane/jobs/6541156003",
+    "locations": [
+      "Austin, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Auctane",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
