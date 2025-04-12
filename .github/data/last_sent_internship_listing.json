@@ -71763,5 +71763,24 @@
     "company_url": "https://simplify.jobs/c/Auctane",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Scale AI",
+    "id": "f56fa945-fa86-40ee-99bf-6ac7bde48751",
+    "title": "Technical Advisor Intern - GenAI",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1744440191,
+    "date_posted": 1744440191,
+    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4553274005",
+    "locations": [
+      "SF"
+    ],
+    "company_url": "https://simplify.jobs/c/Scale-AI",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
