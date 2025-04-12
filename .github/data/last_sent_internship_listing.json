@@ -71837,5 +71837,24 @@
     "company_url": "https://simplify.jobs/c/Tesla",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Nutanix",
+    "id": "1882f145-dfd5-4a5a-b53a-f69e5eadfb14",
+    "title": "Software Engineering Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1744442761,
+    "date_posted": 1744442761,
+    "url": "https://jobs.jobvite.com/nutanix/job/oMHPvfwx?nl=1&nl=1&fr=false",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Nutanix",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
