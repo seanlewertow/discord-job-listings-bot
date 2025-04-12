@@ -71856,5 +71856,39 @@
     "company_url": "https://simplify.jobs/c/Nutanix",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Mercedes-Benz",
+    "id": "42063800-375b-4e0f-80f7-9ac4525bc50a",
+    "title": "Intern \u2013 Machine Learning",
+    "active": true,
+    "terms": [],
+    "date_updated": 1744443922,
+    "date_posted": 1744443922,
+    "url": "https://jobs.lever.co/MBRDNA/dcea36e5-fac4-4771-9fa2-a3b57213ec69/apply",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Mercedes-Benz",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "AMERICAN SYSTEMS",
+    "id": "a4e1edbd-9569-4783-bc00-184828d17c6a",
+    "title": "Business Technology Intern",
+    "active": true,
+    "terms": [],
+    "date_updated": 1744443564,
+    "date_posted": 1744443564,
+    "url": "https://careers-americansystems.icims.com/jobs/2423/job",
+    "locations": [
+      "United States"
+    ],
+    "company_url": "https://simplify.jobs/c/AMERICAN-SYSTEMS",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
