@@ -72059,5 +72059,24 @@
     "date_posted": 1744522545,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Atomic Semi",
+    "id": "b595adfe-7a2e-439f-95d5-5fe49ca7312a",
+    "title": "Embedded Software Engineering Intern",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1744524876,
+    "date_posted": 1744524876,
+    "url": "https://jobs.ashbyhq.com/atomicsemi/25580bcb-f36f-4342-97a6-b814a3359b8f/application",
+    "locations": [
+      "SF"
+    ],
+    "company_url": "https://simplify.jobs/c/Atomic-Semi",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
