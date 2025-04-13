@@ -72040,5 +72040,24 @@
     "company_url": "https://simplify.jobs/c/Assurant",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "date_updated": 1744522545,
+    "url": "https://careers.siemens-healthineers.com/global/en/job/R-20844/Application-Software-Developer-Intern",
+    "company_name": "Siemens Healthineers",
+    "title": "Application Software Developer Intern",
+    "locations": [
+      "Ottawa, Ontario, Canada"
+    ],
+    "terms": [
+      "Summer 2025"
+    ],
+    "sponsorship": "Does Not Offer Sponsorship",
+    "active": true,
+    "source": "GaryZhous",
+    "id": "ce40e955-b562-417b-9bf8-63a2950a1904",
+    "date_posted": 1744522545,
+    "company_url": "",
+    "is_visible": true
   }
 ]
