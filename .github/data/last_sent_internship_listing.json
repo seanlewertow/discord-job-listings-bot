@@ -72135,5 +72135,22 @@
     "date_posted": 1744603571,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Austal USA",
+    "id": "96d4c575-8876-4ebf-908e-aa4b2e8d8d8f",
+    "title": "AI Data Science Intern",
+    "active": true,
+    "terms": [],
+    "date_updated": 1744614179,
+    "date_posted": 1744614179,
+    "url": "https://austalusa.wd1.myworkdayjobs.com/austal/job/Charlottesville/AI-Data-Science-Intern_R0010200",
+    "locations": [
+      "Charlottesville, VA"
+    ],
+    "company_url": "https://simplify.jobs/c/Austal-USA",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
