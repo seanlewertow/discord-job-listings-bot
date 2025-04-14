@@ -72152,5 +72152,42 @@
     "company_url": "https://simplify.jobs/c/Austal-USA",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Fortra",
+    "id": "94f830d8-b3e8-4706-b100-cca96dae75f6",
+    "title": "Software Engineer Intern - Javascript and React",
+    "active": true,
+    "terms": [],
+    "date_updated": 1744649333,
+    "date_posted": 1744642113,
+    "url": "https://job-boards.greenhouse.io/fortra/jobs/4558575006",
+    "locations": [
+      "Eden Prairie, MN"
+    ],
+    "company_url": "https://simplify.jobs/c/Fortra",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "North Atlantic Industries",
+    "id": "d4227cd8-1f10-47e3-8249-0a8c30988bb6",
+    "title": "Intern-Full Stack Software Engineer",
+    "active": true,
+    "terms": [
+      "Summer 2025",
+      "Spring 2025"
+    ],
+    "date_updated": 1744642715,
+    "date_posted": 1744642715,
+    "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/3066521",
+    "locations": [
+      "Long Island, New York"
+    ],
+    "company_url": "https://simplify.jobs/c/North-Atlantic-Industries",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
