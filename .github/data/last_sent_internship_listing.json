@@ -72078,5 +72078,43 @@
     "company_url": "https://simplify.jobs/c/Atomic-Semi",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "date_updated": 1744599987,
+    "url": "https://bostonscientific.eightfold.ai/careers/job/563602800879512",
+    "company_name": "Boston Scientific",
+    "title": "Software Development Intern",
+    "locations": [
+      "Montreal, Canada"
+    ],
+    "terms": [
+      "Summer 2025"
+    ],
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "source": "GaryZhous",
+    "id": "eae84d51-71d4-42c0-97c6-eeb952b1e004",
+    "date_posted": 1744599987,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1744600177,
+    "url": "https://ro.careers.tsmc.com/job/Ottawa-Summer-2025-CADSoftware-Intern-%286591%29-ON/1061927366",
+    "company_name": "TSMC",
+    "title": "Summer 2025 - CAD/Software Intern",
+    "locations": [
+      "Ottawa, Ontario, Canada"
+    ],
+    "terms": [
+      "Summer 2025"
+    ],
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "source": "GaryZhous",
+    "id": "54750fa3-897e-4cfd-9818-db1645bc5135",
+    "date_posted": 1744600177,
+    "company_url": "",
+    "is_visible": true
   }
 ]
