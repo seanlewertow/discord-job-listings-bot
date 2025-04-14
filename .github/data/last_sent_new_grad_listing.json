@@ -10845,5 +10845,21 @@
     "company_url": "https://simplify.jobs/c/Comcast",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Higher Logic",
+    "id": "c20df765-03a0-44a7-9fa7-fb321467b655",
+    "title": "Junior Software Developer",
+    "active": true,
+    "date_updated": 1744644738,
+    "date_posted": 1744644738,
+    "url": "https://job-boards.greenhouse.io/higherlogic/jobs/6519591003",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/Higher-Logic",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
