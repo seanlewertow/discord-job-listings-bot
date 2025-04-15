@@ -72354,5 +72354,96 @@
     "company_url": "https://simplify.jobs/c/Qualcomm",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Tesla",
+    "id": "c0556aa4-2f87-4b0a-9052-bd89d366c0fb",
+    "title": "Internship - Fullstack C++ Engineer - Vehicle User Interface",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1744703326,
+    "date_posted": 1744703326,
+    "url": "https://www.tesla.com/careers/search/job/241088",
+    "locations": [
+      "Palo Alto, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Tesla",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Tesla",
+    "id": "ddd4470d-b2ac-41d9-9873-f99daa5f26c7",
+    "title": "Internship - Fullstack Engineer - Build Infrastructure",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1744703256,
+    "date_posted": 1744703256,
+    "url": "https://www.tesla.com/careers/search/job/241268",
+    "locations": [
+      "Palo Alto, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Tesla",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Tesla",
+    "id": "34c09ddd-6f95-4304-808b-0aaf5d7536f7",
+    "title": "Internship - Data Engineer - Fleet Analytics",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1744703255,
+    "date_posted": 1744703255,
+    "url": "https://www.tesla.com/careers/search/job/241391",
+    "locations": [
+      "Palo Alto, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Tesla",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Tencent",
+    "id": "c60f94ed-8d10-4db9-9a64-6571ec5c95c8",
+    "title": "Applied Machine Learning Intern",
+    "active": true,
+    "terms": [],
+    "date_updated": 1744703193,
+    "date_posted": 1744703193,
+    "url": "https://tencent.wd1.myworkdayjobs.com/en-US/Tencent_Careers/job/US-California-Palo-Alto/Applied-Machine-Learning-Intern_R105214",
+    "locations": [
+      "Palo Alto, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Tencent",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Syntax",
+    "id": "f0ee9284-b198-4212-a7fb-5d8647586a12",
+    "title": "Data Analyst Intern",
+    "active": true,
+    "terms": [],
+    "date_updated": 1744703042,
+    "date_posted": 1744703042,
+    "url": "https://jobs.lever.co/syntax/bc133c8a-1452-4442-a793-be9250ef02d7/apply",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/SyntaxData",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
