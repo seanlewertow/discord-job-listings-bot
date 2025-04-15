@@ -72464,5 +72464,22 @@
     "company_url": "https://simplify.jobs/c/Trimble",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Onto Innovation",
+    "id": "89b462e2-6238-4fd7-91ac-52389c891976",
+    "title": "Computer Science Intern",
+    "active": true,
+    "terms": [],
+    "date_updated": 1744704986,
+    "date_posted": 1744704986,
+    "url": "https://onto.wd1.myworkdayjobs.com/onto_careers/job/Milpitas-CA/Computer-Science-Intern_R-4506",
+    "locations": [
+      "Milpitas, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Onto-Innovation",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
