@@ -72500,5 +72500,25 @@
     "company_url": "https://simplify.jobs/c/Tesla",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Tesla",
+    "id": "a75d07a1-ae74-4151-bd59-997e94a309a0",
+    "title": "Internship - Fullstack Engineer - Applications Engineering",
+    "active": true,
+    "terms": [
+      "Fall 2025",
+      "Spring 2025"
+    ],
+    "date_updated": 1744703331,
+    "date_posted": 1744703331,
+    "url": "https://www.tesla.com/careers/search/job/241258",
+    "locations": [
+      "Fremont, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Tesla",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
