@@ -72189,5 +72189,24 @@
     "company_url": "https://simplify.jobs/c/North-Atlantic-Industries",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "date_updated": 1744689835,
+    "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/19351",
+    "company_name": "Nokia",
+    "title": "Web Developer Co-op/Intern",
+    "locations": [
+      "Kanata, Ontario, Canada"
+    ],
+    "terms": [
+      "Fall 2025"
+    ],
+    "sponsorship": "Does Not Offer Sponsorship",
+    "active": true,
+    "source": "GaryZhous",
+    "id": "cf25187c-226b-4fdb-9604-0ae6f345fd7f",
+    "date_posted": 1744689835,
+    "company_url": "",
+    "is_visible": true
   }
 ]
