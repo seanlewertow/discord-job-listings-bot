@@ -72445,5 +72445,24 @@
     "company_url": "https://simplify.jobs/c/SyntaxData",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Trimble",
+    "id": "69e15b10-2220-4951-9b7a-4cf9d020448d",
+    "title": "Sales Analytics Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1744703996,
+    "date_posted": 1744703996,
+    "url": "https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/US---CO-Westminster/Sales-Analytics-Intern_R49570",
+    "locations": [
+      "Westminster, CO"
+    ],
+    "company_url": "https://simplify.jobs/c/Trimble",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
