@@ -72261,5 +72261,98 @@
     "company_url": "https://simplify.jobs/c/Western-Digital",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Rocket Lawyer",
+    "id": "56f9062a-a336-4c93-84b8-48249b0b11cc",
+    "title": "Software Engineering Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1744700016,
+    "date_posted": 1744700016,
+    "url": "https://job-boards.greenhouse.io/rocketlawyer/jobs/4593260008",
+    "locations": [
+      "Salt Lake City, UT"
+    ],
+    "company_url": "https://simplify.jobs/c/Rocket-Lawyer",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Rocket Lawyer",
+    "id": "3dcf7546-63a4-44c3-903d-2a8f5bf6c0b1",
+    "title": "Software Engineering Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1744700014,
+    "date_posted": 1744700014,
+    "url": "https://job-boards.greenhouse.io/rocketlawyer/jobs/4593263008",
+    "locations": [
+      "North Carolina"
+    ],
+    "company_url": "https://simplify.jobs/c/Rocket-Lawyer",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Rocket Lawyer",
+    "id": "c6aa16a1-6dfe-40b4-bd07-0b3e12153882",
+    "title": "AI/ML Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1744700000,
+    "date_posted": 1744700000,
+    "url": "https://job-boards.greenhouse.io/rocketlawyer/jobs/4593270008",
+    "locations": [
+      "Salt Lake City, UT"
+    ],
+    "company_url": "https://simplify.jobs/c/Rocket-Lawyer",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Rocket Lawyer",
+    "id": "6f65e11e-d0a0-4e0c-9e5c-0f32e0341251",
+    "title": "AI/ML Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1744699997,
+    "date_posted": 1744699997,
+    "url": "https://job-boards.greenhouse.io/rocketlawyer/jobs/4582609008",
+    "locations": [
+      "Colorado"
+    ],
+    "company_url": "https://simplify.jobs/c/Rocket-Lawyer",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Qualcomm",
+    "id": "efc02534-46d2-4693-9e8b-945e82e7da52",
+    "title": "FY25 Intern \u2013 Intern - IT Software Developer - Interim Intern",
+    "active": true,
+    "terms": [],
+    "date_updated": 1744700743,
+    "date_posted": 1744700743,
+    "url": "https://qualcomm.eightfold.ai/careers/job/446702547370",
+    "locations": [
+      "Cambridge, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Qualcomm",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
