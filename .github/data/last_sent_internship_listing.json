@@ -72208,5 +72208,39 @@
     "date_posted": 1744689835,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Ubisoft",
+    "id": "b7fc8f2a-c35e-4e16-b6fb-8fd7e0b6c4ac",
+    "title": "Junior Data Analyst / Intern",
+    "active": true,
+    "terms": [],
+    "date_updated": 1744697804,
+    "date_posted": 1744697804,
+    "url": "https://jobs.smartrecruiters.com/Ubisoft2/744000053671306",
+    "locations": [
+      "Newcastle upon Tyne, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Ubisoft",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "ATPCO",
+    "id": "45ed58d4-e9e8-4ff2-8668-388ac397943c",
+    "title": "Software Engineer Intern",
+    "active": true,
+    "terms": [],
+    "date_updated": 1744698465,
+    "date_posted": 1744698465,
+    "url": "https://jobs.smartrecruiters.com/ATPCO1/744000053729091",
+    "locations": [
+      "Reston, VA"
+    ],
+    "company_url": "https://simplify.jobs/c/e38ff337-ef4e-42b4-b1fc-e1834b3b603f",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
