@@ -72242,5 +72242,24 @@
     "company_url": "https://simplify.jobs/c/e38ff337-ef4e-42b4-b1fc-e1834b3b603f",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Western Digital",
+    "id": "31751ebc-4acc-4ac3-bc1f-ace0364284b3",
+    "title": "Summer 2025 Intern - Failure Analysis Engineering",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1744698947,
+    "date_posted": 1744698947,
+    "url": "https://jobs.smartrecruiters.com/WesternDigital/744000053727625",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Western-Digital",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
