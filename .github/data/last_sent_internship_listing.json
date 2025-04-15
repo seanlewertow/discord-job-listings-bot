@@ -72575,5 +72575,24 @@
     "company_url": "https://simplify.jobs/c/Rocket-Lawyer",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Rocket Lawyer",
+    "id": "80bbf1da-d95e-4c0e-8c04-b6ef2372a6eb",
+    "title": "AI/ML Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1744699995,
+    "date_posted": 1744699995,
+    "url": "https://job-boards.greenhouse.io/rocketlawyer/jobs/4593271008",
+    "locations": [
+      "Arizona"
+    ],
+    "company_url": "https://simplify.jobs/c/Rocket-Lawyer",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
