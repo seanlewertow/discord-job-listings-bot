@@ -72838,5 +72838,77 @@
     "company_url": "https://simplify.jobs/c/c955eac9-1026-451b-95fe-582bb7c07c4c",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Rocket Lab USA",
+    "id": "8fbe4bde-afec-439e-8db8-e5cdc4a30060",
+    "title": "Software Intern Fall 2025",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1744791259,
+    "date_posted": 1744791259,
+    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/6542613003",
+    "locations": [
+      "Toronto, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Rocket-Lab-USA",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Snowflake",
+    "id": "4422a987-53d7-430c-a4ce-2c664b04b3e3",
+    "title": "Marketing Operations Technology & Automation Intern",
+    "active": true,
+    "terms": [],
+    "date_updated": 1744791325,
+    "date_posted": 1744791325,
+    "url": "https://jobs.ashbyhq.com/snowflake/72dea92d-5aa7-4b98-8308-02b15e841a4d/application",
+    "locations": [
+      "Menlo Park, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Snowflake",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Nutanix",
+    "id": "023b6651-427d-4e78-a1fa-f840e3d3a74c",
+    "title": "Software Engineering Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1744790841,
+    "date_posted": 1744790841,
+    "url": "https://jobs.jobvite.com/nutanix/job/oKOQvfwD?nl=1&nl=1&fr=false",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Nutanix",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "EnergyHub",
+    "id": "eced043e-7b43-45bb-91b0-5a3dbcae4887",
+    "title": "Data Engineering Intern",
+    "active": true,
+    "terms": [],
+    "date_updated": 1744792045,
+    "date_posted": 1744792045,
+    "url": "https://job-boards.greenhouse.io/energyhub/jobs/7944580002",
+    "locations": [
+      "Brooklyn, NY"
+    ],
+    "company_url": "https://simplify.jobs/c/EnergyHub",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
