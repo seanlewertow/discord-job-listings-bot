@@ -73079,5 +73079,24 @@
     "company_url": "https://simplify.jobs/c/Glassdoor",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Glassdoor",
+    "id": "2918100b-53a3-4091-9861-a9d95ff18c51",
+    "title": "Mobile Software Engineer in Test Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1744810486,
+    "date_posted": 1744810486,
+    "url": "https://job-boards.greenhouse.io/glassdoor/jobs/7958963002",
+    "locations": [
+      "SF"
+    ],
+    "company_url": "https://simplify.jobs/c/Glassdoor",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
