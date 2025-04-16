@@ -73134,5 +73134,26 @@
     "company_url": "https://simplify.jobs/c/ExpeditionTech",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Cox",
+    "id": "fde7fbb0-a83b-4007-b634-2d0f75d494a9",
+    "title": "Data Engineering Co-Op",
+    "active": true,
+    "terms": [
+      "Fall 2025",
+      "Summer 2026",
+      "Spring 2027"
+    ],
+    "date_updated": 1744821028,
+    "date_posted": 1744821028,
+    "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Data-Engineering-Co-op--Summer-2025_R202455663",
+    "locations": [
+      "Atlanta, GA"
+    ],
+    "company_url": "https://simplify.jobs/c/Cox",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
