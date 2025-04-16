@@ -72781,5 +72781,42 @@
     "company_url": "https://simplify.jobs/c/cba19b9c-c87b-4670-905f-598655ed2801",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "United Parcel Service (UPS)",
+    "id": "d9b7c2ac-fa75-4c3c-b8e3-b18670dd44a2",
+    "title": "ISM Co-op",
+    "active": true,
+    "terms": [],
+    "date_updated": 1744788311,
+    "date_posted": 1744788311,
+    "url": "https://hcmportal.wd5.myworkdayjobs.com/en-US/Search/job/US---IS-PARSIPPANY-NJPRS/ISM-Co-op_R25007859",
+    "locations": [
+      "Parsippany-Troy Hills, NJ"
+    ],
+    "company_url": "https://simplify.jobs/c/United-Parcel-Service",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Booz Allen",
+    "id": "3f84030b-2714-4092-a5ba-f4f70a7d79dd",
+    "title": "Software Engineer Intern",
+    "active": true,
+    "terms": [
+      "Spring 2027",
+      "Summer 2027"
+    ],
+    "date_updated": 1744788333,
+    "date_posted": 1744788333,
+    "url": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Rome-NY/Software-Engineer-Intern_R0218595",
+    "locations": [
+      "Rome, NY"
+    ],
+    "company_url": "https://simplify.jobs/c/Booz-Allen",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
