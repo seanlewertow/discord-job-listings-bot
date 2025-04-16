@@ -72671,5 +72671,41 @@
     "date_posted": 1744778157,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "source": "Simplify",
+    "company_name": "BorgWarner",
+    "id": "738e468c-bfd5-4b83-a99d-1e75f3256057",
+    "title": "Data Science Intern - Summer",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1744783836,
+    "date_posted": 1744783836,
+    "url": "https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Auburn-Hills---Michigan---USA/Data-Science-Intern--Summer-_R2025-1497-1",
+    "locations": [
+      "Auburn Hills, MI"
+    ],
+    "company_url": "https://simplify.jobs/c/BorgWarner",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Marvell",
+    "id": "b3915074-3c3a-461f-a1c3-f76f19000f68",
+    "title": "Software / Firmware Intern",
+    "active": true,
+    "terms": [],
+    "date_updated": 1744784776,
+    "date_posted": 1744784776,
+    "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Toronto-Canada/Software---Firmware-Intern---Bachelor-s-Degree_2500897",
+    "locations": [
+      "Toronto, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/80961b05-9ed3-462d-aef9-4b418c7fb796",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
