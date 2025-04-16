@@ -72910,5 +72910,83 @@
     "company_url": "https://simplify.jobs/c/EnergyHub",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Tesla",
+    "id": "b715a5f4-55bc-4396-991c-c35370de9776",
+    "title": "Internship - Embedded Software Engineer - Audio Systems",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1744792275,
+    "date_posted": 1744792275,
+    "url": "https://www.tesla.com/careers/search/job/241446",
+    "locations": [
+      "Palo Alto, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Tesla",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Tesla",
+    "id": "6a75e607-2de5-4674-853f-a37bef3d06f9",
+    "title": "Internship - Software Engineer - Linux Update Systems",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1744792287,
+    "date_posted": 1744792287,
+    "url": "https://www.tesla.com/careers/search/job/241442",
+    "locations": [
+      "Palo Alto, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Tesla",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Tesla",
+    "id": "841b46b0-763d-4a04-a7e3-c1722273799f",
+    "title": "Internship - Data Engineer - System Software",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1744792272,
+    "date_posted": 1744792272,
+    "url": "https://www.tesla.com/careers/search/job/241444",
+    "locations": [
+      "Bellevue, WA"
+    ],
+    "company_url": "https://simplify.jobs/c/Tesla",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Tesla",
+    "id": "ab9d4517-d91f-4423-b541-97affd49eba6",
+    "title": "Internship - Software Engineer Opticaster - Energy Engineering",
+    "active": true,
+    "terms": [
+      "Fall 2025",
+      "Winter 2026",
+      "Spring 2026"
+    ],
+    "date_updated": 1744792325,
+    "date_posted": 1744792325,
+    "url": "https://www.tesla.com/careers/search/job/241406",
+    "locations": [
+      "Palo Alto, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Tesla",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
