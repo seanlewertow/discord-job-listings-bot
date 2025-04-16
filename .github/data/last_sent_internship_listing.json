@@ -73098,5 +73098,41 @@
     "company_url": "https://simplify.jobs/c/Glassdoor",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Omnicell",
+    "id": "b5d901ba-12ed-4927-8712-a6c478d8f6a5",
+    "title": "Intern \u2013 Data Science",
+    "active": true,
+    "terms": [],
+    "date_updated": 1744824572,
+    "date_posted": 1744824572,
+    "url": "https://elrj.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/search/jobs/job/4091",
+    "locations": [
+      "Milpitas, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Omnicell",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Expedition Technology",
+    "id": "75d8654a-b81c-4a02-8dfd-c2bc5c8fe0ae",
+    "title": "Internship in Deep Learning and Computer Vision",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1744824204,
+    "date_posted": 1744824204,
+    "url": "https://www.exptechinc.com/careers/?gh_jid=4709390007",
+    "locations": [
+      "Reston, VA"
+    ],
+    "company_url": "https://simplify.jobs/c/ExpeditionTech",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
