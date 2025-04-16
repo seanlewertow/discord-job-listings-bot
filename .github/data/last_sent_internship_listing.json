@@ -72818,5 +72818,25 @@
     "company_url": "https://simplify.jobs/c/Booz-Allen",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "skillz",
+    "id": "5d05ad9b-dc37-433c-80bd-37e36dfe1ad4",
+    "title": "Full Stack Software Engineering Co-Op",
+    "active": true,
+    "terms": [
+      "Summer 2025",
+      "Fall 2025"
+    ],
+    "date_updated": 1744789199,
+    "date_posted": 1744789199,
+    "url": "http://corp.skillz.com/careers-list/?gh_jid=6808528",
+    "locations": [
+      "Las Vegas, NV"
+    ],
+    "company_url": "https://simplify.jobs/c/c955eac9-1026-451b-95fe-582bb7c07c4c",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
