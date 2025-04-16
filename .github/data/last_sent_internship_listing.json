@@ -73060,5 +73060,24 @@
     "company_url": "https://simplify.jobs/c/Cboe",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Glassdoor",
+    "id": "707ec615-4165-4075-8255-a49437bb4b02",
+    "title": "Mobile Software Engineer in Test Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1744809108,
+    "date_posted": 1744809108,
+    "url": "https://job-boards.greenhouse.io/glassdoor/jobs/7958968002",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/Glassdoor",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
