@@ -73379,5 +73379,41 @@
     "company_url": "https://simplify.jobs/c/Sylvera",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Magna",
+    "id": "2000c3e6-7a28-49e9-8006-f41e5ce2c226",
+    "title": "Industry Intern",
+    "active": true,
+    "terms": [],
+    "date_updated": 1744914504,
+    "date_posted": 1744914504,
+    "url": "https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Victor-Iowa-US/XMLNAME-40-Intern_R00178295",
+    "locations": [
+      "Coralville, IA"
+    ],
+    "company_url": "https://simplify.jobs/c/Magna",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Air Company",
+    "id": "8e3e54b1-4cac-4c54-9b30-40055d1919e7",
+    "title": "Engineering Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1744915341,
+    "date_posted": 1744915341,
+    "url": "https://job-boards.greenhouse.io/aircompany/jobs/4551844005",
+    "locations": [
+      "Brooklyn, NY"
+    ],
+    "company_url": "https://simplify.jobs/c/Air-Company",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
