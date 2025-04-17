@@ -73245,5 +73245,24 @@
     "company_url": "https://simplify.jobs/c/DigiCert",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "LogicGate",
+    "id": "7d11b687-2cfa-4ef7-9493-2da2f69b59ca",
+    "title": "Software Engineer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1744876922,
+    "date_posted": 1744876922,
+    "url": "https://job-boards.greenhouse.io/logicgate/jobs/4554724005",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/c71b16ad-8dcb-404f-9ddf-b70e9f4d82fd",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
