@@ -73415,5 +73415,26 @@
     "company_url": "https://simplify.jobs/c/Air-Company",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Tesla",
+    "id": "26f650ef-5400-44d5-ac29-f161b2d339ac",
+    "title": "Internship - Crash Safety Embedded Software Engineer - Vehicle Firmware",
+    "active": true,
+    "terms": [
+      "Fall 2025",
+      "Winter 2026",
+      "Spring 2026"
+    ],
+    "date_updated": 1744918262,
+    "date_posted": 1744918262,
+    "url": "https://www.tesla.com/careers/search/job/241074",
+    "locations": [
+      "Palo Alto, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Tesla",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
