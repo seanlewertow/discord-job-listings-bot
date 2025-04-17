@@ -73302,5 +73302,24 @@
     "company_url": "https://simplify.jobs/c/Tesla",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Oklahoma State Government",
+    "id": "13fc2988-6e32-40e1-ac31-d948d90ed9a1",
+    "title": "Web Developer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1744899088,
+    "date_posted": 1744899088,
+    "url": "https://okgov.wd1.myworkdayjobs.com/en-US/okgovjobs/job/Oklahoma-County/Web-Developer-Intern---Summer-2025-at-Oklahoma-Tourism---Recreation-Department_JR44216-1",
+    "locations": [
+      "Oklahoma City, OK"
+    ],
+    "company_url": "https://simplify.jobs/c/64ce727c-9639-4c6e-8e91-f052ad136fa4",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
