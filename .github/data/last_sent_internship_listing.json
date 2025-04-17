@@ -73341,5 +73341,24 @@
     "company_url": "https://simplify.jobs/c/Tesla",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Baxter International",
+    "id": "db3d1619-d348-4d1c-a115-e7f1aebc9747",
+    "title": "2025 Summer Intern - Devops Software Engineer",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1744911655,
+    "date_posted": 1744911655,
+    "url": "https://baxter.wd1.myworkdayjobs.com/en-US/baxter/job/Raleigh-North-Carolina/XMLNAME-2025-Summer-Intern---DevOps-Software-Engineer_JR-169268-1",
+    "locations": [
+      "Raleigh, NC"
+    ],
+    "company_url": "https://simplify.jobs/c/Baxter-International",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
