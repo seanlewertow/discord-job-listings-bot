@@ -73228,5 +73228,22 @@
     "company_url": "https://simplify.jobs/c/Veolia",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "DigiCert",
+    "id": "52167ba8-a3d6-4803-8b9a-6db84de93101",
+    "title": "Software Developer Intern",
+    "active": true,
+    "terms": [],
+    "date_updated": 1744875086,
+    "date_posted": 1744875086,
+    "url": "https://www.digicert.com/careers/?gh_jid=7953798002",
+    "locations": [
+      "Sunnyvale, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/DigiCert",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
