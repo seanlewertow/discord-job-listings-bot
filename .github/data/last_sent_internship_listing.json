@@ -73360,5 +73360,24 @@
     "company_url": "https://simplify.jobs/c/Baxter-International",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Sylvera",
+    "id": "f542294f-1f7d-415d-8919-c35d8a4f977f",
+    "title": "Graduate Carbon Analyst Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1744913641,
+    "date_posted": 1744913641,
+    "url": "https://jobs.lever.co/sylvera/e1df352f-8389-43ca-abac-8968a22e9494/apply",
+    "locations": [
+      "London, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sylvera",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
