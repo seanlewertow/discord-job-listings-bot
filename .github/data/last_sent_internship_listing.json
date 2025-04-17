@@ -73264,5 +73264,22 @@
     "company_url": "https://simplify.jobs/c/c71b16ad-8dcb-404f-9ddf-b70e9f4d82fd",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Conductor",
+    "id": "8854998c-cb7b-4aab-bb95-fd5d4464479a",
+    "title": "AI Engineer Intern",
+    "active": true,
+    "terms": [],
+    "date_updated": 1744878988,
+    "date_posted": 1744878988,
+    "url": "https://job-boards.greenhouse.io/conductor/jobs/6813479",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Conductor",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
