@@ -73155,5 +73155,25 @@
     "company_url": "https://simplify.jobs/c/Cox",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Stronghold Investment Management",
+    "id": "5c71e144-3be4-43c1-a127-c88bf3300019",
+    "title": "Software Engineering Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025",
+      "Fall 2025"
+    ],
+    "date_updated": 1744872271,
+    "date_posted": 1744872271,
+    "url": "https://job-boards.greenhouse.io/strongholdim/jobs/4710351007",
+    "locations": [
+      "Dallas, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Stronghold-Investment-Management",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
