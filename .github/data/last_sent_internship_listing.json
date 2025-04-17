@@ -73281,5 +73281,26 @@
     "company_url": "https://simplify.jobs/c/Conductor",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Tesla",
+    "id": "6bec6ee3-84c5-4679-89a9-5ab7a2653a93",
+    "title": "Internship - Integration Platforms Software Developer - Vehicle Firmware",
+    "active": true,
+    "terms": [
+      "Fall 2025",
+      "Winter 2026",
+      "Spring 2026"
+    ],
+    "date_updated": 1744883111,
+    "date_posted": 1744883111,
+    "url": "https://www.tesla.com/careers/search/job/241436",
+    "locations": [
+      "Palo Alto, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Tesla",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
