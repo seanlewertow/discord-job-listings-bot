@@ -73321,5 +73321,25 @@
     "company_url": "https://simplify.jobs/c/64ce727c-9639-4c6e-8e91-f052ad136fa4",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Tesla",
+    "id": "b4460823-a326-41d8-adf6-453b7cb884f2",
+    "title": "Internship - Product Engineer - Applications Engineering",
+    "active": true,
+    "terms": [
+      "Fall 2025",
+      "Spring 2026"
+    ],
+    "date_updated": 1744900664,
+    "date_posted": 1744900664,
+    "url": "https://www.tesla.com/careers/search/job/241551",
+    "locations": [
+      "Fremont, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Tesla",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
