@@ -73489,5 +73489,39 @@
     "company_url": "https://simplify.jobs/c/Veolia",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Pebble",
+    "id": "a9de73b6-b8a4-488b-b66f-6389fdd6672c",
+    "title": "Data Analytics Internship",
+    "active": true,
+    "terms": [],
+    "date_updated": 1744964153,
+    "date_posted": 1744964153,
+    "url": "https://job-boards.greenhouse.io/pebblelife/jobs/4712125007",
+    "locations": [
+      "Fremont, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Pebble",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Sila Nanotechnologies",
+    "id": "548f4c42-9c8a-45d3-accc-4073d220f0e2",
+    "title": "Component R&D \u2013 Battery Modeling Team Internship",
+    "active": true,
+    "terms": [],
+    "date_updated": 1744963762,
+    "date_posted": 1744963762,
+    "url": "https://silanano.com/job-application/6817256/?gh_jid=6817256",
+    "locations": [
+      "Alameda, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/SilaNano",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
