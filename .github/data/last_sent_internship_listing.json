@@ -73523,5 +73523,22 @@
     "company_url": "https://simplify.jobs/c/SilaNano",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Airbus",
+    "id": "174b11c5-ab86-4240-acfe-94632a3d04ae",
+    "title": "Long-Term Internship - Data Analytics",
+    "active": true,
+    "terms": [],
+    "date_updated": 1745003796,
+    "date_posted": 1745003796,
+    "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Wichita-KS/Long-Term-Internship---Data-Analytics_JR10324298",
+    "locations": [
+      "Wichita, KS"
+    ],
+    "company_url": "https://simplify.jobs/c/Airbus",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
