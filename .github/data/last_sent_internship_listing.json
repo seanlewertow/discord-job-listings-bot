@@ -73436,5 +73436,22 @@
     "company_url": "https://simplify.jobs/c/Tesla",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "WeaveGrid",
+    "id": "655b9d31-5afc-4b9c-ab20-8d7d4ecc6aee",
+    "title": "Software Engineer Intern",
+    "active": true,
+    "terms": [],
+    "date_updated": 1744957569,
+    "date_posted": 1744957569,
+    "url": "https://job-boards.greenhouse.io/weavegrid/jobs/5508189004",
+    "locations": [
+      "SF"
+    ],
+    "company_url": "https://simplify.jobs/c/WeaveGrid",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
