@@ -73595,5 +73595,43 @@
     "date_posted": 1745029184,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "date_updated": 1745035292,
+    "url": "https://www.pgcareers.com/global/en/job/R000129158/Digital-Technologies-Internship-Co-op-Fall-2025---stage-coop-en-technologies-num%25C3%25A9riques-automne-2025",
+    "company_name": "Procter & Gamble",
+    "title": "Digital Technologies Internship/Co-op Fall 2025",
+    "locations": [
+      "TORONTO, Ontario, Canada"
+    ],
+    "terms": [
+      "Fall 2025"
+    ],
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "source": "GaryZhous",
+    "id": "68f944a9-d742-42f2-ae47-deffc9813159",
+    "date_posted": 1745035292,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1745035406,
+    "url": "https://jobs.sap.com/job/Toronto-SAP-iXp-Intern-Product-Support-ON-M5K-1B7/1188581301",
+    "company_name": "SAP",
+    "title": "SAP iXp Intern - Product Support",
+    "locations": [
+      "Toronto, ON, Canada"
+    ],
+    "terms": [
+      "Summer 2025"
+    ],
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "source": "GaryZhous",
+    "id": "eef1465d-043e-4ae9-b882-42f2c5fc8c79",
+    "date_posted": 1745035406,
+    "company_url": "",
+    "is_visible": true
   }
 ]
