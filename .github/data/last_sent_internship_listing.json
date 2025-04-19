@@ -73724,5 +73724,24 @@
     "company_url": "https://simplify.jobs/c/NVIDIA",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Baxter International",
+    "id": "ce52c408-b65b-48af-98b9-a68537b044a1",
+    "title": "Intern - Software Engineer",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1745072461,
+    "date_posted": 1745072461,
+    "url": "https://baxter.wd1.myworkdayjobs.com/en-US/baxter/job/Raleigh-North-Carolina/XMLNAME-2025-Summer-Intern---Software-Engineer_JR-169273-1",
+    "locations": [
+      "Raleigh, NC"
+    ],
+    "company_url": "https://simplify.jobs/c/Baxter-International",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
