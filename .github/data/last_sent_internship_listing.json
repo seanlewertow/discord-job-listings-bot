@@ -73705,5 +73705,24 @@
     "company_url": "https://simplify.jobs/c/Ankura-Consulting-Group",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "NVIDIA",
+    "id": "a6ab922b-78fd-40bd-b556-e6db6be67e35",
+    "title": "Software Engineering Intern - Distributed Scientific Computing Libraries",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1745081829,
+    "date_posted": 1745081829,
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Software-Engineering-Intern--Distributed-Scientific-Computing-Libraries---Fall-2025_JR1996387",
+    "locations": [
+      "Santa Clara, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/NVIDIA",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
