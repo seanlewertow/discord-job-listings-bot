@@ -73633,5 +73633,24 @@
     "date_posted": 1745035406,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Kalderos",
+    "id": "23a9ede1-319b-4a8e-8ded-54d188f5540b",
+    "title": "Data Engineering Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1745048096,
+    "date_posted": 1745048096,
+    "url": "https://www.kalderos.com/company/job-board/?gh_jid=6548373003",
+    "locations": [
+      "Boston, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/Kalderos",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
