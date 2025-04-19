@@ -73686,5 +73686,24 @@
     "company_url": "https://simplify.jobs/c/Delta-Dental",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Ankura Consulting Group",
+    "id": "d4e00a1e-2dcb-4060-b9c4-cf57c2bedd65",
+    "title": "University Intern - Ankura.AI Labs",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1745079739,
+    "date_posted": 1745079739,
+    "url": "https://ankura.wd5.myworkdayjobs.com/ankura/job/Virginia/University-Intern---AnkuraAI-Labs_R104031",
+    "locations": [
+      "Virginia"
+    ],
+    "company_url": "https://simplify.jobs/c/Ankura-Consulting-Group",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
