@@ -73576,5 +73576,24 @@
     "company_url": "https://simplify.jobs/c/Leidos",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "date_updated": 1745029184,
+    "url": "https://jobs.jobvite.com/spectralogic/job/oMOSvfwH",
+    "company_name": "Spectra Logic",
+    "title": "Intern - Software",
+    "locations": [
+      "Boulder, CO"
+    ],
+    "terms": [
+      "Summer 2025"
+    ],
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "source": "GaryZhous",
+    "id": "aa91696e-895d-4751-8785-63f07eecb8f5",
+    "date_posted": 1745029184,
+    "company_url": "",
+    "is_visible": true
   }
 ]
