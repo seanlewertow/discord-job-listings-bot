@@ -73652,5 +73652,39 @@
     "company_url": "https://simplify.jobs/c/Kalderos",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "HarbourVest",
+    "id": "56ec64bc-3f81-4b31-a237-c2c3790b17f0",
+    "title": "Portfolio Analytics Intern",
+    "active": true,
+    "terms": [],
+    "date_updated": 1745078429,
+    "date_posted": 1745078429,
+    "url": "https://harbourvest.wd5.myworkdayjobs.com/hvp/job/Boston/Portfolio-Analytics-Intern_R1838",
+    "locations": [
+      "Boston, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/HarbourVest",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Delta Dental",
+    "id": "223d5577-b82f-41bb-adc0-15c4a9def857",
+    "title": "Internship - Data Science",
+    "active": true,
+    "terms": [],
+    "date_updated": 1745077944,
+    "date_posted": 1745077944,
+    "url": "https://rhsc.wd5.myworkdayjobs.com/delta_dental_of_michigan/job/Okemos-MI/Internship---Data-Science_JR100789",
+    "locations": [
+      "East Lansing, MI"
+    ],
+    "company_url": "https://simplify.jobs/c/Delta-Dental",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
