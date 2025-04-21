@@ -73796,5 +73796,59 @@
     "company_url": "https://simplify.jobs/c/UrsaMajor",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Moog Inc",
+    "id": "c2f73359-370f-46f5-aa08-af0dbf2c118a",
+    "title": "Intern \u2013 Software Engineering",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1745262937,
+    "date_posted": 1745262937,
+    "url": "https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Intern--Software-Engineering_R-25-11659",
+    "locations": [
+      "Cheektowaga, NY",
+      "Buffalo, NY"
+    ],
+    "company_url": "https://simplify.jobs/c/Moog-Inc",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "American Axle & Manufacturing",
+    "id": "99dc65fc-e7b5-4ded-98c8-aa000309754f",
+    "title": "Product Engineering Co-Op",
+    "active": true,
+    "terms": [],
+    "date_updated": 1745247001,
+    "date_posted": 1745247001,
+    "url": "https://aampower.wd1.myworkdayjobs.com/aam-career-site/job/Three-Rivers-MI/Product-Engineering-Co-Op_JREQ-215169",
+    "locations": [
+      "Portage, MI"
+    ],
+    "company_url": "https://simplify.jobs/c/American-Axle-And-Manufacturing",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Applied Materials",
+    "id": "5b2b7e4b-253f-4fd7-997f-3b9786f16e60",
+    "title": "Intern \u2013 Data Science",
+    "active": true,
+    "terms": [],
+    "date_updated": 1745262459,
+    "date_posted": 1745262459,
+    "url": "https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/Intern---Data-Science_R2513244",
+    "locations": [
+      "Santa Clara, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Applied-Materials",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
