@@ -73850,5 +73850,61 @@
     "company_url": "https://simplify.jobs/c/Applied-Materials",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "OptionMetrics",
+    "id": "1572c3dc-12b7-4162-8da5-9d785b0b94c4",
+    "title": "Quant Analyst Internship",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1745270789,
+    "date_posted": 1745270789,
+    "url": "https://jobs.lever.co/optionmetrics/af534731-0d44-4057-b902-9169b060d4f6/apply",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/OptionMetrics",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "AeroVironment",
+    "id": "6bf674e5-43b0-4131-8faf-bfcf79db6ca2",
+    "title": "Software Engineering Intern",
+    "active": true,
+    "terms": [],
+    "date_updated": 1745270748,
+    "date_posted": 1745270748,
+    "url": "https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Arlington-VA/Software-Engineering-Intern_5463",
+    "locations": [
+      "Arlington, VA"
+    ],
+    "company_url": "https://simplify.jobs/c/AeroVironment",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Nokia",
+    "id": "18f07f8b-3b29-4b88-be1f-dcf7aa54af89",
+    "title": "Software Development Coop",
+    "active": true,
+    "terms": [
+      "Fall 2025",
+      "Winter 2025"
+    ],
+    "date_updated": 1745270407,
+    "date_posted": 1745270407,
+    "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/19758",
+    "locations": [
+      "Sunnyvale, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Nokia",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
