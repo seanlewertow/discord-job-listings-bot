@@ -73906,5 +73906,22 @@
     "company_url": "https://simplify.jobs/c/Nokia",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Foley & Lardner LLP",
+    "id": "ed13684f-9fc0-48a1-bb23-baa5fe06aab7",
+    "title": "Data Science Development Intern",
+    "active": true,
+    "terms": [],
+    "date_updated": 1745271377,
+    "date_posted": 1745271377,
+    "url": "https://careers-foley.icims.com/jobs/3289/job",
+    "locations": [
+      "Milwaukee, WI"
+    ],
+    "company_url": "https://simplify.jobs/c/Foley",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
