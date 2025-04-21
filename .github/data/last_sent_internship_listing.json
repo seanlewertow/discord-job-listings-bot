@@ -73779,5 +73779,22 @@
     "company_url": "https://simplify.jobs/c/Alliance-Laundry-Systems",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Ursa Major",
+    "id": "97615dff-dda5-4006-ac88-b6d59fb83973",
+    "title": "Avionics Embedded Software Intern",
+    "active": true,
+    "terms": [],
+    "date_updated": 1745260109,
+    "date_posted": 1745260109,
+    "url": "https://www.ursamajor.com/careers/4555862005?gh_jid=4555862005",
+    "locations": [
+      "Loveland, CO"
+    ],
+    "company_url": "https://simplify.jobs/c/UrsaMajor",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
