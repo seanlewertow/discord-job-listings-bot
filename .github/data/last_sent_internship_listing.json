@@ -73762,5 +73762,22 @@
     "date_posted": 1745121685,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Alliance Laundry Systems",
+    "id": "1e31e4b8-688d-4af9-9146-2e018b47e65a",
+    "title": "IT Development Intern",
+    "active": true,
+    "terms": [],
+    "date_updated": 1745251280,
+    "date_posted": 1745251280,
+    "url": "https://uscareeropenings-alliancelaundry.icims.com/jobs/4611/job",
+    "locations": [
+      "Wisconsin"
+    ],
+    "company_url": "https://simplify.jobs/c/Alliance-Laundry-Systems",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
