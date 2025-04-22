@@ -74256,5 +74256,22 @@
     "company_url": "https://simplify.jobs/c/3f74d8b1-5d66-4d3b-b4b2-52ec6c78afc3",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Soda Health",
+    "id": "ddec5b8e-4633-41ae-a875-8a82f896d0f7",
+    "title": "Undergraduate Internship",
+    "active": true,
+    "terms": [],
+    "date_updated": 1745360147,
+    "date_posted": 1745360147,
+    "url": "https://job-boards.greenhouse.io/sodahealth/jobs/4560518006",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/Soda-Health",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
