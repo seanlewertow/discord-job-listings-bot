@@ -73981,5 +73981,62 @@
     "company_url": "https://simplify.jobs/c/Cibc",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Hermeus",
+    "id": "ec0af5cf-9cc7-4333-8b80-0d569623d9b0",
+    "title": "Flight Software Engineer \u2013 Intern - Comms",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1745294185,
+    "date_posted": 1745294185,
+    "url": "https://jobs.lever.co/hermeus/6b2a6231-67e1-47a5-931c-bd36bc97fc7e/apply",
+    "locations": [
+      "Atlanta, GA"
+    ],
+    "company_url": "https://simplify.jobs/c/Hermeus",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Otis",
+    "id": "b88b60f1-4710-4adf-9b54-456f6cd9f38e",
+    "title": "Product Data Management Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1745294032,
+    "date_posted": 1745294032,
+    "url": "https://otis.wd5.myworkdayjobs.com/en-US/REC_Ext_Gateway/job/OT541-TFP---Florence-SC-1500-Otis-Way-Florence-SC-29501-USA/Product-Data-Management-Intern_20129104",
+    "locations": [
+      "Florence, SC"
+    ],
+    "company_url": "https://simplify.jobs/c/Otis",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Moog Inc",
+    "id": "9bb089ec-ed3c-4f03-80b2-e5aaef63b2b4",
+    "title": "Intern \u2013 IT Computer Science",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1745294013,
+    "date_posted": 1745294013,
+    "url": "https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Blacksburg-VA/Intern--IT-Computer-Science_R-25-11767",
+    "locations": [
+      "Blacksburg, VA"
+    ],
+    "company_url": "https://simplify.jobs/c/Moog-Inc",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
