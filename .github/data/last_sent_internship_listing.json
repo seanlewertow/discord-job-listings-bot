@@ -74292,5 +74292,62 @@
     "company_url": "https://simplify.jobs/c/Red-Horse-Corp",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Parsons",
+    "id": "60856255-2c79-4efa-b63a-b1d1f9398ba2",
+    "title": "Software Engineer Internship Summer 2025",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1745362909,
+    "date_posted": 1745362909,
+    "url": "https://parsons.wd5.myworkdayjobs.com/en-US/search/job/US---VA-Centreville/Software-Engineer-Internship-Summer-2025_R166645",
+    "locations": [
+      "Centreville, VA"
+    ],
+    "company_url": "https://simplify.jobs/c/Parsons",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "GlobalFoundries",
+    "id": "50765889-878c-4d24-8839-d123a9d1dc54",
+    "title": "End Markets Intern - Aerospace & Defense",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1745362522,
+    "date_posted": 1745362522,
+    "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---California---Santa-Clara/End-Markets-Intern--Aerospace---Defense--Summer-2025-_JR-2403092",
+    "locations": [
+      "Santa Clara, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/GlobalFoundries",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "CACI",
+    "id": "f0939446-091e-41a6-b299-79633d81ddcd",
+    "title": "Software Engineering Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1745362184,
+    "date_posted": 1745362184,
+    "url": "https://caci.wd1.myworkdayjobs.com/External/job/Remote-Any-State/Software-Engineering-Intern---Summer-2025_310716-1",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/CACI",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
