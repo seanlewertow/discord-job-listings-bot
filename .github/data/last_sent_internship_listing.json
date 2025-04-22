@@ -73942,5 +73942,44 @@
     "company_url": "https://simplify.jobs/c/Carrier-Global",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Kyndryl Holdings",
+    "id": "065ab976-e874-474d-b812-655d88728379",
+    "title": "Intern - Tech Developer & Engineering",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1745292574,
+    "date_posted": 1745292574,
+    "url": "https://kyndryl.wd5.myworkdayjobs.com/KyndrylEarlyCareers/job/VA-USA/US-Intern---Tech-Developer---Engineering_R-31935-1",
+    "locations": [
+      "Richmond, VA",
+      "Phoenix, AZ"
+    ],
+    "company_url": "https://simplify.jobs/c/Kyndryl-Holdings",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Cibc",
+    "id": "1542296c-4e51-4a80-8d25-5fd6d57f2a1e",
+    "title": "2026 Sales & Trading Summer Analyst",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1745293308,
+    "date_posted": 1745293308,
+    "url": "https://cibc.wd3.myworkdayjobs.com/campus/job/Chicago-IL/XMLNAME-2026-Sales---Trading-Summer-Analyst--Chicago-_2504606",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/Cibc",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
