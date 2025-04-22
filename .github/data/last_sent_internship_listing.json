@@ -74273,5 +74273,24 @@
     "company_url": "https://simplify.jobs/c/Soda-Health",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Red Horse Corp",
+    "id": "f2dd1264-2802-4324-8fe9-30d735456be7",
+    "title": "Summer Intern - Software Developer",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1745361107,
+    "date_posted": 1745361107,
+    "url": "https://jobs.lever.co/redhorsecorp/eb64725d-8a87-474b-897c-1763d4dad779/apply",
+    "locations": [
+      "Gainesville, VA"
+    ],
+    "company_url": "https://simplify.jobs/c/Red-Horse-Corp",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
