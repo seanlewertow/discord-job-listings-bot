@@ -74038,5 +74038,26 @@
     "company_url": "https://simplify.jobs/c/Moog-Inc",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "SharkNinja",
+    "id": "bcc835a0-2ad8-41a7-97cf-c7534742f235",
+    "title": "Mobile App Developer Co-op",
+    "active": true,
+    "terms": [
+      "Summer 2025",
+      "Fall 2025",
+      "Winter 2025"
+    ],
+    "date_updated": 1745294772,
+    "date_posted": 1745294772,
+    "url": "https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4560764006",
+    "locations": [
+      "Needham, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/SharkNinja",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
