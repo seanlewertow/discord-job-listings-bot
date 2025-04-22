@@ -74059,5 +74059,43 @@
     "company_url": "https://simplify.jobs/c/SharkNinja",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Leidos",
+    "id": "7cd1c007-ac09-4f23-b732-dd7f2dc8659d",
+    "title": "Software Development Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1745298372,
+    "date_posted": 1745298372,
+    "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Orlando-FL/XMLNAME--Software-Development-Intern_R-00157822",
+    "locations": [
+      "Orlando, FL"
+    ],
+    "company_url": "https://simplify.jobs/c/Leidos",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "NVIDIA",
+    "id": "eaf0cc87-83d9-41a2-ba49-3c2a9e42c006",
+    "title": "Software Engineering Intern - Rack Management-Engineering",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1745298330,
+    "date_posted": 1745298330,
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Software-Engineering-Intern--Rack-Management-Engineering---Summer-2025_JR1990090-1",
+    "locations": [
+      "Santa Clara, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/NVIDIA",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
