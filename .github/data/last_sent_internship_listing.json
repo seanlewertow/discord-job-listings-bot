@@ -74156,5 +74156,45 @@
     "company_url": "https://simplify.jobs/c/Influential",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "NVIDIA",
+    "id": "1337e51d-a085-49f0-80f4-9110f74a3f3a",
+    "title": "Shoreline Backend Engineering Intern",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1745305050,
+    "date_posted": 1745305050,
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Shoreline-Backend-Engineering-Intern---Fall-2025_JR1996691",
+    "locations": [
+      "Santa Clara, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/NVIDIA",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Tesla",
+    "id": "88167140-ff6c-4015-be29-5155f403656a",
+    "title": "Internship - Factory Firmware Embedded Software Engineer - Vehicle Software",
+    "active": true,
+    "terms": [
+      "Fall 2025",
+      "Winter 2025",
+      "Spring 2026"
+    ],
+    "date_updated": 1745305703,
+    "date_posted": 1745305703,
+    "url": "https://www.tesla.com/careers/search/job/241653",
+    "locations": [
+      "Palo Alto, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Tesla",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
