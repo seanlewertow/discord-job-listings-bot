@@ -74615,5 +74615,24 @@
     "company_url": "https://simplify.jobs/c/IJM",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Vantage Data Centers",
+    "id": "ee8ffabc-1b57-451d-a375-1397162afab8",
+    "title": "Summer Internship - Energy Solutions Researcher",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1745420680,
+    "date_posted": 1745420680,
+    "url": "https://vantagedc.wd1.myworkdayjobs.com/en-US/Vantage/job/London-England/Summer-Internship---Energy-Solutions-Researcher_R18106",
+    "locations": [
+      "London, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/62df3370-bf7b-46b7-8619-e32dcd7d3fb3",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
