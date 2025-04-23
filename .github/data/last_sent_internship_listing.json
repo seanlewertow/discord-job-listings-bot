@@ -74676,5 +74676,41 @@
     "company_url": "https://simplify.jobs/c/0985b121-88fd-4402-aea9-c0c55bfbbc99",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Teledyne",
+    "id": "07f55fc4-63c3-4789-a072-bf99a65475ee",
+    "title": "Software Engineering Intern",
+    "active": true,
+    "terms": [],
+    "date_updated": 1745425852,
+    "date_posted": 1745425852,
+    "url": "https://flir.wd1.myworkdayjobs.com/en-US/flircareers/job/US---Orlando-FL/Software-Engineering-Intern_REQ29338",
+    "locations": [
+      "Orlando, FL"
+    ],
+    "company_url": "https://simplify.jobs/c/199b3c43-379a-408c-a6a8-980e79183038",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Einride",
+    "id": "ee701a77-e57a-4187-b3e2-0582ef467ba3",
+    "title": "Einride Summer Internship 2025",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1745426779,
+    "date_posted": 1745426779,
+    "url": "https://jobs.lever.co/einride/32454963-8c6b-46cd-b388-5184d18482c8/apply",
+    "locations": [
+      "Austin, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Einride",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
