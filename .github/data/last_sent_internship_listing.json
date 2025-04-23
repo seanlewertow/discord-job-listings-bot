@@ -74556,5 +74556,24 @@
     "company_url": "https://simplify.jobs/c/Tesla",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Zeiss",
+    "id": "385c334b-17ab-41a2-9f37-d56860ab74e1",
+    "title": "Advanced Development & Design Research Intern Detectors",
+    "active": true,
+    "terms": [
+      "Spring 2025"
+    ],
+    "date_updated": 1745402738,
+    "date_posted": 1744241549,
+    "url": "https://zeissgroup.wd3.myworkdayjobs.com/External/job/Dublin-CA/ADD-Research-Intern-Detectors_JR_1040759-1",
+    "locations": [
+      "Dublin, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Zeiss",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
