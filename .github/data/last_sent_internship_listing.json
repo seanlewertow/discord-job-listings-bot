@@ -74516,5 +74516,45 @@
     "company_url": "https://simplify.jobs/c/IJM",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Synthego",
+    "id": "5c0788b7-1667-43e9-8c36-09c494b91862",
+    "title": "Software Engineering Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1745381930,
+    "date_posted": 1745381930,
+    "url": "https://jobs.lever.co/synthego/72b132dd-74ba-4092-a1a7-a176d4951c54/apply",
+    "locations": [
+      "San Carlos, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Synthego",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Tesla",
+    "id": "ba0be119-29f3-47b4-80dc-cd565f8e8bbf",
+    "title": "Internship - Backend Engineer - Cell Manufacturing Software",
+    "active": true,
+    "terms": [
+      "Fall 2025",
+      "Winter 2026",
+      "Spring 2026"
+    ],
+    "date_updated": 1745383129,
+    "date_posted": 1745383129,
+    "url": "https://www.tesla.com/careers/search/job/241784",
+    "locations": [
+      "Fremont, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Tesla",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
