@@ -74770,5 +74770,24 @@
     "company_url": "https://simplify.jobs/c/Leidos",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "SPS Commerce",
+    "id": "468c2989-07c6-425c-abf0-c14cbcb0fde3",
+    "title": "Software Engineer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1745450804,
+    "date_posted": 1745450804,
+    "url": "https://careers-spscommerce.icims.com/jobs/9512/job",
+    "locations": [
+      "Rogers, AR"
+    ],
+    "company_url": "https://simplify.jobs/c/SPS-Commerce",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
