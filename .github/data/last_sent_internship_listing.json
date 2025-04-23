@@ -74751,5 +74751,24 @@
     "company_url": "https://simplify.jobs/c/Waabi",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Leidos",
+    "id": "60f64adb-d212-457e-a256-0a16802b048e",
+    "title": "Software Engineering Intern",
+    "active": true,
+    "terms": [
+      "Spring 2025"
+    ],
+    "date_updated": 1745448874,
+    "date_posted": 1745448874,
+    "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Software-Engineering-Intern_R-00157784",
+    "locations": [
+      "Huntsville, AL"
+    ],
+    "company_url": "https://simplify.jobs/c/Leidos",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
