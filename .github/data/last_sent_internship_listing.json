@@ -74595,5 +74595,25 @@
     "company_url": "https://simplify.jobs/c/Moog-Inc",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "IJM",
+    "id": "f34c829f-78b9-441b-9f8d-207961a32efc",
+    "title": "Data Science Intern",
+    "active": true,
+    "terms": [
+      "Fall 2025",
+      "Winter 2025"
+    ],
+    "date_updated": 1745370279,
+    "date_posted": 1745370279,
+    "url": "https://ijm.wd5.myworkdayjobs.com/careers-ijm/job/District-of-Columbia---Remote/Data-Science-Intern---Fall-2025_R-01846",
+    "locations": [
+      "Washington, DC"
+    ],
+    "company_url": "https://simplify.jobs/c/IJM",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
