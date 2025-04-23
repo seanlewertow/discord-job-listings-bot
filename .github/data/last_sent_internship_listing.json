@@ -74575,5 +74575,25 @@
     "company_url": "https://simplify.jobs/c/Zeiss",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Moog Inc",
+    "id": "ddcdce72-c654-47c7-9cf2-d00dab1021e5",
+    "title": "Intern \u2013 Product Engineering",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1745362258,
+    "date_posted": 1745362258,
+    "url": "https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Intern--Product-Engineering_R-25-11790",
+    "locations": [
+      "Boston, NY",
+      "Buffalo, NY"
+    ],
+    "company_url": "https://simplify.jobs/c/Moog-Inc",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
