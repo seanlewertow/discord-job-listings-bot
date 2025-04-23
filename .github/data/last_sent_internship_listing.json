@@ -74387,5 +74387,95 @@
     "company_url": "https://simplify.jobs/c/HARMAN-International",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "IJM",
+    "id": "4981864d-bf87-46a3-a4bf-55cf7e548317",
+    "title": "Data & Insights Intern",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1745370289,
+    "date_posted": 1745370289,
+    "url": "https://ijm.wd5.myworkdayjobs.com/careers-ijm/job/District-of-Columbia---Remote/Data---Insights-Intern---Fall-2025_R-01857",
+    "locations": [
+      "Washington, DC",
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/IJM",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Conductor",
+    "id": "24c2ca06-bf92-499e-bc21-e640735ebc8d",
+    "title": "AI Engineer Summer Intern",
+    "active": true,
+    "terms": [],
+    "date_updated": 1745371963,
+    "date_posted": 1745371963,
+    "url": "https://job-boards.greenhouse.io/conductor/jobs/6813500",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Conductor",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Carrier Global",
+    "id": "f09194e3-b064-47d5-8b0c-797fbceb03fd",
+    "title": "Software Engineer Intern-Summer",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1745372437,
+    "date_posted": 1745372437,
+    "url": "https://carrier.wd5.myworkdayjobs.com/jobs/job/CAI22-Carrier---Indianapolis-30-S-Meridian-St-Suite-500---Indianapolis-IN-46204-USA/Software-Engineer-Intern--Summer_30164327-1",
+    "locations": [
+      "Indianapolis, IN"
+    ],
+    "company_url": "https://simplify.jobs/c/Carrier-Global",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Keysight Technologies, Inc.",
+    "id": "1ac4c1a5-dbf4-46bd-ab8d-83c96a64de99",
+    "title": "R&D SW Internship",
+    "active": true,
+    "terms": [],
+    "date_updated": 1745375608,
+    "date_posted": 1745375608,
+    "url": "https://jobs.keysight.com/jobs/47585?lang=en-us&icims=1",
+    "locations": [
+      "Santa Rosa, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Keysight-Technologies-Inc",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "OCC",
+    "id": "dc399d6c-89fe-4791-9d11-0cfb2aa011f5",
+    "title": "IT Risk Summer Intern",
+    "active": true,
+    "terms": [],
+    "date_updated": 1745374873,
+    "date_posted": 1745374873,
+    "url": "https://theocc.wd5.myworkdayjobs.com/careers/job/Dallas-TX/IT-Risk-Summer-Intern_REQ-3954",
+    "locations": [
+      "Dallas, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/OptionsClearingCorporation",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
