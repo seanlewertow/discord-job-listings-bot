@@ -74888,5 +74888,102 @@
     "company_url": "https://simplify.jobs/c/Auto-Club-Enterprises",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "RTX",
+    "id": "ffbae6c4-b29e-4d6b-8f2a-da898a6d9aad",
+    "title": "2025 Intern - Digital - Product Lifecycle Management",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1745458143,
+    "date_posted": 1745458143,
+    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/AZ862-3360-Hemisphere-Loop-Bldg-M10-3360-East-Hemisphere-Loop-Building-M10-Tucson-AZ-85706-USA/XMLNAME-2025-Intern----Digital---Product-Lifecycle-Management---Onsite--Multi-Location-_01764251",
+    "locations": [
+      "Tucson, AZ"
+    ],
+    "company_url": "https://simplify.jobs/c/RTX",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "TripleRing",
+    "id": "06b6d63d-c42c-4701-ad4c-c4886be24531",
+    "title": "Data Scientist Intern",
+    "active": true,
+    "terms": [],
+    "date_updated": 1745459006,
+    "date_posted": 1745459006,
+    "url": "https://www.tripleringtech.com/careers?gh_jid=4554473005",
+    "locations": [
+      "Boston, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/TripleRing",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Tesla",
+    "id": "eebcebf3-e450-4f0f-8a92-7cdf38133dc8",
+    "title": "Internship - Firmware Engineer - New Programs Engineering",
+    "active": true,
+    "terms": [
+      "Fall 2025",
+      "Winter 2026",
+      "Spring 2026"
+    ],
+    "date_updated": 1745458738,
+    "date_posted": 1745458738,
+    "url": "https://www.tesla.com/careers/search/job/241586",
+    "locations": [
+      "Fremont, CA",
+      "West Athens, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Tesla",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Mercedes-Benz",
+    "id": "933ae394-1268-4977-81d6-f8db7c2c36be",
+    "title": "Speech AI Intern - Speech Product Development",
+    "active": true,
+    "terms": [
+      "Summer 2025",
+      "Fall 2025"
+    ],
+    "date_updated": 1745458612,
+    "date_posted": 1745458612,
+    "url": "https://jobs.lever.co/MBRDNA/0b032398-0602-433f-9db6-48a77b029a92/apply",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Mercedes-Benz",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Veolia",
+    "id": "68d84b4a-ebe4-4661-bb94-b658682b6ba6",
+    "title": "New Business Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1745448243,
+    "date_posted": 1745448243,
+    "url": "https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000055378125",
+    "locations": [
+      "Moonachie, NJ"
+    ],
+    "company_url": "https://simplify.jobs/c/Veolia",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
