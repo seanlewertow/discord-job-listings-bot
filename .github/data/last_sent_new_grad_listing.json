@@ -11377,5 +11377,37 @@
     "company_url": "https://simplify.jobs/c/Leidos",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "CACI",
+    "id": "8f32dd67-120d-4650-9670-e86065ecbf08",
+    "title": "Fullstack Web Application Software Engineer \u2013 Entry Level",
+    "active": true,
+    "date_updated": 1745454925,
+    "date_posted": 1745454925,
+    "url": "https://caci.wd1.myworkdayjobs.com/External/job/US-NY-Rome/Fullstack-Web-Application-Software-Engineer---Entry-Level_310885-1",
+    "locations": [
+      "Rome, NY"
+    ],
+    "company_url": "https://simplify.jobs/c/CACI",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Aurora Innovation",
+    "id": "e62b6fa5-8e78-4b9b-9f39-9c1c3b065305",
+    "title": "Software Engineer I",
+    "active": true,
+    "date_updated": 1745455534,
+    "date_posted": 1745455534,
+    "url": "https://aurora.tech/jobs/7940570002?gh_jid=7940570002",
+    "locations": [
+      "Lafayette, CO"
+    ],
+    "company_url": "https://simplify.jobs/c/Aurora-Innovation",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
