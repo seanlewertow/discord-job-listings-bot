@@ -75004,5 +75004,22 @@
     "date_posted": 1745467556,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Epirus",
+    "id": "da7c51cd-b543-44c7-9147-4b11a59560df",
+    "title": "Internship-Systems",
+    "active": true,
+    "terms": [],
+    "date_updated": 1745469367,
+    "date_posted": 1745469367,
+    "url": "https://www.epirusinc.com/open-roles?gh_jid=5494214004",
+    "locations": [
+      "Carson, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Epirus",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
