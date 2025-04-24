@@ -75201,5 +75201,24 @@
     "company_url": "https://simplify.jobs/c/9f8468ab-4066-404d-b30d-b5b9cb967967",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Leidos",
+    "id": "1ac29674-d52e-42dd-8baf-787ccaf241a4",
+    "title": "Technical Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1745526489,
+    "date_posted": 1745526489,
+    "url": "https://leidos.wd5.myworkdayjobs.com/External/job/8739-Ellicott-City-MD-Home-Office/Technical-Intern_R-00157687",
+    "locations": [
+      "Ellicott City, MD"
+    ],
+    "company_url": "https://simplify.jobs/c/Leidos",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
