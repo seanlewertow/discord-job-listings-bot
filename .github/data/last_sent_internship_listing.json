@@ -75184,5 +75184,22 @@
     "company_url": "https://simplify.jobs/c/ConnectWise",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "SWBC",
+    "id": "350750f5-5231-4d66-a632-b2c84f0a9405",
+    "title": "Software Engineering Intern",
+    "active": true,
+    "terms": [],
+    "date_updated": 1745523199,
+    "date_posted": 1745523199,
+    "url": "https://swbc.wd1.myworkdayjobs.com/en-US/swbccareers/job/San-Antonio-TX/Software-Engineering-Intern_R0013061-2",
+    "locations": [
+      "San Antonio, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/9f8468ab-4066-404d-b30d-b5b9cb967967",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
