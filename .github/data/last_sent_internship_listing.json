@@ -75021,5 +75021,24 @@
     "company_url": "https://simplify.jobs/c/Epirus",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Motorola",
+    "id": "014eab26-d084-43f1-bc26-2c334ae01057",
+    "title": "Software Engineering Co-Op",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1745489950,
+    "date_posted": 1745489950,
+    "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Allen-TX-TX139/Software-Engineering-Co-Op---Summer-2025_R54758",
+    "locations": [
+      "Allen, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/MotorolaSolutions",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
