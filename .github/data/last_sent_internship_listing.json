@@ -75220,5 +75220,22 @@
     "company_url": "https://simplify.jobs/c/Leidos",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "KBR",
+    "id": "d91ddf61-a490-4dfa-8324-c12ffc4fe0a2",
+    "title": "Intern for Total Operational Weather Readiness-Satellites - Towr-S",
+    "active": true,
+    "terms": [],
+    "date_updated": 1745533453,
+    "date_posted": 1745533453,
+    "url": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Silver-Spring-Maryland/Intern-for-Total-Operational-Weather-Readiness-Satellites--TOWR-S-_R2105558",
+    "locations": [
+      "Silver Spring, MD"
+    ],
+    "company_url": "https://simplify.jobs/c/KBR",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
