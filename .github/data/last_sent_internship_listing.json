@@ -75237,5 +75237,22 @@
     "company_url": "https://simplify.jobs/c/KBR",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "PROCEPT BioRobotics",
+    "id": "346b6e73-b841-42d0-bbcb-6e7c60e93552",
+    "title": "Supply Chain Data Analyst Intern",
+    "active": true,
+    "terms": [],
+    "date_updated": 1745537588,
+    "date_posted": 1745537588,
+    "url": "https://jobs.lever.co/procept-biorobotics/3c85b7fb-a62e-4d9a-ad6f-19d6684b73a6/apply",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/ProceptBioRobotics",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
