@@ -75254,5 +75254,79 @@
     "company_url": "https://simplify.jobs/c/ProceptBioRobotics",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Lucid Motors",
+    "id": "ff4ef8a1-f1ca-4422-896d-0ff7b8adf3dc",
+    "title": "Intern \u2013 Talent Acquisition Data Analyst",
+    "active": true,
+    "terms": [],
+    "date_updated": 1745539065,
+    "date_posted": 1745539065,
+    "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/4718121007",
+    "locations": [
+      "Newark, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Lucid-Motors",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "US Foods",
+    "id": "2278561a-7c44-43bc-8a19-7c122548ec06",
+    "title": "Intern \u2013 Data Engineer",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1745540697,
+    "date_posted": 1745540697,
+    "url": "https://usfoods.wd1.myworkdayjobs.com/usfoodscareersExternal/job/Rosemont-IL/Intern---Data-Engineer--Hybrid--Onsite---Remote-_R266962",
+    "locations": [
+      "Norridge, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/US-Foods",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Badger Meter",
+    "id": "f283603e-91c0-46e1-8c2a-a42c5190ea94",
+    "title": "Software Engineering Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1745540583,
+    "date_posted": 1745540583,
+    "url": "https://badgermeter.wd5.myworkdayjobs.com/US_CareerSite/job/Los-Gatos-CA/Software-Engineering-Intern_3505",
+    "locations": [
+      "Los Gatos, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Badger-Meter",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "C&S Wholesale Grocers",
+    "id": "b9eaf433-9987-4763-ba0c-b32d2113d047",
+    "title": "Data Science Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1745542346,
+    "date_posted": 1745542346,
+    "url": "https://cswg.wd1.myworkdayjobs.com/cs_careers/job/Edison-NJ/Data-Science-Intern---June-2025_R-262114",
+    "locations": [
+      "Edison, NJ"
+    ],
+    "company_url": "https://simplify.jobs/c/CS-Wholesale-Grocers",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
