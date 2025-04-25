@@ -75460,5 +75460,22 @@
     "company_url": "https://simplify.jobs/c/Cigna-Group",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Energy Recovery",
+    "id": "babd576a-1c7c-468f-8081-1b4fece0924f",
+    "title": "Data Analytics Intern",
+    "active": true,
+    "terms": [],
+    "date_updated": 1745616451,
+    "date_posted": 1745616451,
+    "url": "https://jobs.lever.co/energyrecovery/138f0888-b180-4bc5-ab80-3c244c3b9e8e/apply",
+    "locations": [
+      "San Leandro, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Energy-Recovery",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
