@@ -75347,5 +75347,24 @@
     "company_url": "https://simplify.jobs/c/Parsons",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "date_updated": 1745553628,
+    "url": "https://lumentum.wd5.myworkdayjobs.com/LITE/job/Canada---Ottawa-Bill-Leathem/Embedded-Software-Engineer-Co-op-Intern_2025715-1",
+    "company_name": "Lumentum",
+    "title": "Embedded Software Engineer Co-op/Intern",
+    "locations": [
+      "Ottawa, Ontario, Canada"
+    ],
+    "terms": [
+      "Fall 2025"
+    ],
+    "sponsorship": "Does Not Offer Sponsorship",
+    "active": true,
+    "source": "GaryZhous",
+    "id": "94476c90-6c19-4769-ba94-999fca430417",
+    "date_posted": 1745553628,
+    "company_url": "",
+    "is_visible": true
   }
 ]
