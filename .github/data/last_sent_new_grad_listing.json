@@ -11458,5 +11458,53 @@
     "company_url": "https://simplify.jobs/c/3d3125df-3bbc-48fc-993c-8e2d0db65649",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Chewy",
+    "id": "d826bed1-eae3-48f5-ae2d-e529038c0886",
+    "title": "Data Engineer I",
+    "active": true,
+    "date_updated": 1745540752,
+    "date_posted": 1745540752,
+    "url": "https://boards.greenhouse.io/embed/job_app?token=6821292",
+    "locations": [
+      "Plantation, FL"
+    ],
+    "company_url": "https://simplify.jobs/c/Chewy",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Chewy",
+    "id": "26fd1f94-bc62-46f4-a1e0-a3523e722709",
+    "title": "Data Engineer I",
+    "active": true,
+    "date_updated": 1745540409,
+    "date_posted": 1745540409,
+    "url": "https://boards.greenhouse.io/embed/job_app?token=6818854",
+    "locations": [
+      "Bellevue, WA"
+    ],
+    "company_url": "https://simplify.jobs/c/Chewy",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Medtronic",
+    "id": "0753ef9e-a89a-4dbb-9155-d4428a16bd31",
+    "title": "Software Engineer I",
+    "active": true,
+    "date_updated": 1745541152,
+    "date_posted": 1745541152,
+    "url": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Los-Angeles-California-United-States-of-America/Software-Engineer-I_R28604-1",
+    "locations": [
+      "LA"
+    ],
+    "company_url": "https://simplify.jobs/c/Medtronic",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
