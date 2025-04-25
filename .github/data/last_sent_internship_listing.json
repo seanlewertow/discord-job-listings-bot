@@ -75494,5 +75494,39 @@
     "company_url": "https://simplify.jobs/c/Business-Wire",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Blockhouse",
+    "id": "512d43a3-9115-4ddd-8ddb-df29faa3e6e2",
+    "title": "Quantitative Research Internship",
+    "active": true,
+    "terms": [],
+    "date_updated": 1745622661,
+    "date_posted": 1745622661,
+    "url": "https://jobs.ashbyhq.com/blockhouse/313c320d-fbdf-44d0-a6b7-3a8e2017b98a/application",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Blockhouse",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Blockhouse",
+    "id": "ccc28b7d-2f8f-4c9f-b659-83639d00636a",
+    "title": "Quantitative Research Internship",
+    "active": true,
+    "terms": [],
+    "date_updated": 1745622671,
+    "date_posted": 1745622671,
+    "url": "https://jobs.ashbyhq.com/blockhouse/490a553f-243b-4835-8382-e8101bab15cf/application",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Blockhouse",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
