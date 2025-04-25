@@ -75328,5 +75328,24 @@
     "company_url": "https://simplify.jobs/c/CS-Wholesale-Grocers",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Parsons",
+    "id": "dd2d6dfe-67c7-4984-8a29-5ef07184de0d",
+    "title": "Software Developer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1745549618,
+    "date_posted": 1745549618,
+    "url": "https://parsons.wd5.myworkdayjobs.com/en-US/search/job/US---VA-Centreville/Software-Developer-Intern-Summer-2025_R158141",
+    "locations": [
+      "Centreville, VA"
+    ],
+    "company_url": "https://simplify.jobs/c/Parsons",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
