@@ -75424,5 +75424,22 @@
     "company_url": "https://simplify.jobs/c/Gen",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Flock Safety",
+    "id": "03065df9-d376-4664-b12b-ed2cca97526c",
+    "title": "Software Engineer \u2013 Intern",
+    "active": true,
+    "terms": [],
+    "date_updated": 1745604319,
+    "date_posted": 1745604319,
+    "url": "https://jobs.ashbyhq.com/Flock%20Safety/e134f9b9-4546-42f8-9872-b5220a52947d/application",
+    "locations": [
+      "Atlanta, GA"
+    ],
+    "company_url": "https://simplify.jobs/c/FlockSafety",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
