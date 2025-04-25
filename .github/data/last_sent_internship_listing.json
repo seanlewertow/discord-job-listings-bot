@@ -75405,5 +75405,24 @@
     "company_url": "https://simplify.jobs/c/NVIDIA",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Gen",
+    "id": "4581d416-f939-416f-894e-36c52c948062",
+    "title": "Software Development Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1745596781,
+    "date_posted": 1745596781,
+    "url": "https://gen.wd1.myworkdayjobs.com/careers/job/USA---Arizona-Tempe/Software-Development-Intern_54250-1",
+    "locations": [
+      "Tempe, AZ"
+    ],
+    "company_url": "https://simplify.jobs/c/Gen",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
