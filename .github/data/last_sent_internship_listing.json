@@ -75619,5 +75619,22 @@
     "company_url": "https://simplify.jobs/c/NVIDIA",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Accompany Health",
+    "id": "298560fa-c15c-4e4e-8b91-be0d96957ba2",
+    "title": "Software Engineering Intern",
+    "active": true,
+    "terms": [],
+    "date_updated": 1745639277,
+    "date_posted": 1745639277,
+    "url": "https://jobs.lever.co/AccompanyHealth/0575e95b-ff19-4a99-826e-571d7e6d499f/apply",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/AccompanyHealth",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
