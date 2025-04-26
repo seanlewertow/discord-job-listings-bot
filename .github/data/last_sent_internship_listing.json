@@ -75562,5 +75562,24 @@
     "company_url": "https://simplify.jobs/c/NICE",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "KLA",
+    "id": "14f6b9c6-1f5f-417c-b5ea-67923565afb6",
+    "title": "Applications Development Engineering Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1745625362,
+    "date_posted": 1745625362,
+    "url": "https://kla.wd1.myworkdayjobs.com/en-US/Search/job/Austin-TX/Applications-Development-Engineering-Intern---Summer-2025_2529296-1",
+    "locations": [
+      "Austin, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/KLA",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
