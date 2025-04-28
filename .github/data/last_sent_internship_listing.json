@@ -75832,5 +75832,24 @@
     "company_url": "https://simplify.jobs/c/Tesla",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "RTX",
+    "id": "d1fc9a41-b242-4f7a-bdd4-ef7caec3ca8c",
+    "title": "Software Engineer Intern - Raytheon Fellowship Program",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1745879806,
+    "date_posted": 1745879806,
+    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CO106-16470-East-Hughes-DriveAurora-16470-East-Hughes-Drive-Building-S77-Aurora-CO-80011-USA/XMLNAME-2025-Intern---Raytheon-Fellowship-Program---Software-Engineer-Intern--On-site-_01763673",
+    "locations": [
+      "Aurora, CO"
+    ],
+    "company_url": "https://simplify.jobs/c/RTX",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
