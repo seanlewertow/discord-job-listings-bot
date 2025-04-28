@@ -75815,5 +75815,22 @@
     "company_url": "https://simplify.jobs/c/Leidos",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Tesla",
+    "id": "090ebc4e-fb1d-46f2-9ddc-c3991bbf5c33",
+    "title": "Internship - Data Analyst - Supply Chain",
+    "active": true,
+    "terms": [],
+    "date_updated": 1745879371,
+    "date_posted": 1745879371,
+    "url": "https://www.tesla.com/careers/search/job/240190",
+    "locations": [
+      "Fremont, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Tesla",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
