@@ -76053,5 +76053,102 @@
     "company_url": "https://simplify.jobs/c/Salesforce",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Nokia",
+    "id": "111ea7e3-e4ef-4798-8c3f-de02a0915558",
+    "title": "Next-Gen AI Co-op/Intern",
+    "active": true,
+    "terms": [
+      "Fall 2025",
+      "Winter 2025"
+    ],
+    "date_updated": 1745957008,
+    "date_posted": 1745957008,
+    "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/20178",
+    "locations": [
+      "Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Nokia",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Nokia",
+    "id": "f57a88aa-a514-4a23-9592-1c594f159740",
+    "title": "Next-Gen AI Co-op/Intern",
+    "active": true,
+    "terms": [
+      "Fall 2025",
+      "Winter 2025"
+    ],
+    "date_updated": 1745957008,
+    "date_posted": 1745957008,
+    "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/20180",
+    "locations": [
+      "Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Nokia",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "BlueCross BlueShied of Tennessee",
+    "id": "9a007194-038f-4d2e-8fff-6f7f12292dbe",
+    "title": "Provider Data Reporting Intern",
+    "active": true,
+    "terms": [],
+    "date_updated": 1745957000,
+    "date_posted": 1745957000,
+    "url": "https://bcbst.wd1.myworkdayjobs.com/external/job/USA-TN-Chattanooga-Remote/Provider-Data-Reporting-Intern_R-45583",
+    "locations": [
+      "Chattanooga, TN"
+    ],
+    "company_url": "https://simplify.jobs/c/BlueCross-Blueshied-Of-Tennessee",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Nokia",
+    "id": "2f39188b-ccc2-4894-8f6f-c4c2c140ea92",
+    "title": "Analytics/Next-Gen AI Co-op/Intern",
+    "active": true,
+    "terms": [
+      "Fall 2025",
+      "Winter 2025"
+    ],
+    "date_updated": 1745957004,
+    "date_posted": 1745957004,
+    "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/20172",
+    "locations": [
+      "Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Nokia",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Adobe",
+    "id": "559bdfee-3f5f-44c2-8e77-67ae03b81a9c",
+    "title": "2025 Intern - Software Engineer",
+    "active": true,
+    "terms": [
+      "Summer 2025",
+      "Fall 2025"
+    ],
+    "date_updated": 1745957658,
+    "date_posted": 1745957658,
+    "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/New-York/XMLNAME-2025-Intern---Software-Engineer_R148783",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Adobe",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
