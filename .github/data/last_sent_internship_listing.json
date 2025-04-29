@@ -76008,5 +76008,22 @@
     "company_url": "https://simplify.jobs/c/Tesla",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Westlake",
+    "id": "df4e03bd-16b4-4135-94e6-70cc886c412c",
+    "title": "Data Science Intern",
+    "active": true,
+    "terms": [],
+    "date_updated": 1745885226,
+    "date_posted": 1745885226,
+    "url": "https://westlake.wd1.myworkdayjobs.com/westlake/job/US---Houston-TX/Data-Science-Intern_R29156",
+    "locations": [
+      "Houston, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Westlake",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
