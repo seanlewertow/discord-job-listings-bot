@@ -76244,5 +76244,25 @@
     "company_url": "https://simplify.jobs/c/Leidos",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Intuitive Surgical",
+    "id": "7b80fd65-531d-4dcf-a4fc-6d4ae4394da1",
+    "title": "Software Engineering Co-op",
+    "active": true,
+    "terms": [
+      "Summer 2025",
+      "Fall 2025"
+    ],
+    "date_updated": 1745965556,
+    "date_posted": 1745965556,
+    "url": "https://jobs.smartrecruiters.com/Intuitive/744000056483405",
+    "locations": [
+      "Durham, NC"
+    ],
+    "company_url": "https://simplify.jobs/c/Intuitive-Surgical",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
