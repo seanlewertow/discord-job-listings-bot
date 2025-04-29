@@ -75911,5 +75911,41 @@
     "company_url": "https://simplify.jobs/c/Ciena",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Koppers",
+    "id": "a4436ea5-e45f-49ae-903e-93ec20de4943",
+    "title": "Business Analytics Intern",
+    "active": true,
+    "terms": [],
+    "date_updated": 1745885023,
+    "date_posted": 1745885023,
+    "url": "https://koppers.wd5.myworkdayjobs.com/Koppers/job/Pittsburgh-PA/Business-Analytics-Intern_REQ02481",
+    "locations": [
+      "Pittsburgh, PA"
+    ],
+    "company_url": "https://simplify.jobs/c/Koppers",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Uhaul",
+    "id": "d30e2d4f-c914-40ec-9bfa-9d73853fe0eb",
+    "title": "Database Administrator Summer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1745886888,
+    "date_posted": 1745886888,
+    "url": "https://uhaul.wd1.myworkdayjobs.com/UhaulJobs/job/Phoenix-Arizona/Database-Administrator-Summer-Intern_R218241",
+    "locations": [
+      "Phoenix, AZ"
+    ],
+    "company_url": "https://simplify.jobs/c/Uhaul",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
