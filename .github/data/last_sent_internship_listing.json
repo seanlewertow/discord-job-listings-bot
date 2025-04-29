@@ -75987,5 +75987,26 @@
     "company_url": "https://simplify.jobs/c/Tesla",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Tesla",
+    "id": "e5aba06d-7e55-42b3-8f93-d8e4e984246b",
+    "title": "Internship - Fullstack Engineer - Optimus Tooling",
+    "active": true,
+    "terms": [
+      "Fall 2025",
+      "Winter 2026",
+      "Spring 2026"
+    ],
+    "date_updated": 1745907872,
+    "date_posted": 1745907872,
+    "url": "https://www.tesla.com/careers/search/job/242190",
+    "locations": [
+      "Palo Alto, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Tesla",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
