@@ -76340,5 +76340,22 @@
     "company_url": "https://simplify.jobs/c/Nokia",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Nuro",
+    "id": "e4de563c-248f-44fa-b117-4011123b930a",
+    "title": "Systems Engineering Intern",
+    "active": true,
+    "terms": [],
+    "date_updated": 1745969779,
+    "date_posted": 1745969779,
+    "url": "https://nuro.ai/careersitem?gh_jid=6848464",
+    "locations": [
+      "Mountain View, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Nuro",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
