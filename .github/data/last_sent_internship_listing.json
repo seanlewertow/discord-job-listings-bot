@@ -76543,5 +76543,22 @@
     "company_url": "https://simplify.jobs/c/Rocket-Lab-USA",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Businessolver",
+    "id": "0799c405-f3c2-49e4-92d5-f1a26b876572",
+    "title": "Business Intelligence Internship",
+    "active": true,
+    "terms": [],
+    "date_updated": 1746044509,
+    "date_posted": 1746044509,
+    "url": "https://www.businessolver.com/careers/openings/?gh_jid=6825605",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/Businessolver",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
