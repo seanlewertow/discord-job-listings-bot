@@ -76594,5 +76594,24 @@
     "company_url": "https://simplify.jobs/c/199b3c43-379a-408c-a6a8-980e79183038",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Salesforce",
+    "id": "9e5f075a-9b8a-4747-974b-c5e03a608bd4",
+    "title": "Intern - Competitive Intelligence Analyst",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1746055869,
+    "date_posted": 1746055869,
+    "url": "https://salesforce.wd12.myworkdayjobs.com/en-us/External_Career_Site/job/California---San-Francisco/Summer-2025-Intern---Competitive-Intelligence-Analyst_JR292979-1",
+    "locations": [
+      "SF"
+    ],
+    "company_url": "https://simplify.jobs/c/Salesforce",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
