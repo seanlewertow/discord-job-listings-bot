@@ -76524,5 +76524,24 @@
     "company_url": "https://simplify.jobs/c/Highspot",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Rocket Lab USA",
+    "id": "966b3ec7-23d1-4bac-951c-e1bc89a8836c",
+    "title": "Flight Software Intern",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1746039761,
+    "date_posted": 1746039761,
+    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/6546477003",
+    "locations": [
+      "Long Beach, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Rocket-Lab-USA",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
