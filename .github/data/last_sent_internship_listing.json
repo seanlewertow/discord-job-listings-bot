@@ -76467,5 +76467,26 @@
     "date_posted": 1745980873,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Tesla",
+    "id": "f06a44a4-ede3-4cee-b468-21cd16ade2a6",
+    "title": "Internship - Fullstack Software Engineer - Machine Learning Platform - AI Infrastructure",
+    "active": true,
+    "terms": [
+      "Fall 2025",
+      "Winter 2026",
+      "Spring 2026"
+    ],
+    "date_updated": 1745994030,
+    "date_posted": 1745994030,
+    "url": "https://www.tesla.com/careers/search/job/242174",
+    "locations": [
+      "Palo Alto, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Tesla",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
