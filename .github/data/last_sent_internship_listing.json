@@ -76357,5 +76357,62 @@
     "company_url": "https://simplify.jobs/c/Nuro",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Ciena",
+    "id": "47edf0e7-77b3-4304-89b7-fb8113564b7f",
+    "title": "Data Scientist Intern",
+    "active": true,
+    "terms": [],
+    "date_updated": 1745970597,
+    "date_posted": 1745970597,
+    "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Remote-US/Data-Scientist-Intern_R027795",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/Ciena",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Brunswick",
+    "id": "bdee494a-dcde-46c4-a4d1-15064d68aeab",
+    "title": "Computer Graphics Software Developer Intern",
+    "active": true,
+    "terms": [
+      "Spring 2025",
+      "Summer 2025",
+      "Fall 2025"
+    ],
+    "date_updated": 1745971597,
+    "date_posted": 1745971597,
+    "url": "https://brunswick.wd1.myworkdayjobs.com/en-US/search/job/Champaign-IL/Computer-Graphics-Software-Developer-Intern_JR-046195",
+    "locations": [
+      "Urbana, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/a93a0fb2-e10a-434c-a88c-a639748677a4",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "NVIDIA",
+    "id": "0b91451d-e841-42ed-a6e2-d89f52169a98",
+    "title": "Software Engineering Intern - GenAI",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1745973597,
+    "date_posted": 1745973597,
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-CA-Remote/Software-Engineering-Intern--GenAI---Fall-2025_JR1993478",
+    "locations": [
+      "Santa Clara, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/NVIDIA",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
