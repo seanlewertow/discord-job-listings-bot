@@ -76488,5 +76488,24 @@
     "company_url": "https://simplify.jobs/c/Tesla",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "DeepIntent",
+    "id": "28bf94ed-aece-44f3-9c5e-c662c61c07f2",
+    "title": "AI Engineering Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1746038640,
+    "date_posted": 1746038640,
+    "url": "https://job-boards.greenhouse.io/deepintent/jobs/5530250004",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/DeepIntent",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
