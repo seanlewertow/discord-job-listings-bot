@@ -76577,5 +76577,22 @@
     "company_url": "https://simplify.jobs/c/Uhaul",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Teledyne",
+    "id": "39d1b951-4a5d-481c-bb23-a2d8e05d0efe",
+    "title": "Data Scientist \u2013 Intern",
+    "active": true,
+    "terms": [],
+    "date_updated": 1746054979,
+    "date_posted": 1746054979,
+    "url": "https://flir.wd1.myworkdayjobs.com/en-US/flircareers/job/US---Huntsville-AL/Data-Scientist--Intern-_REQ29321",
+    "locations": [
+      "Huntsville, AL"
+    ],
+    "company_url": "https://simplify.jobs/c/199b3c43-379a-408c-a6a8-980e79183038",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
