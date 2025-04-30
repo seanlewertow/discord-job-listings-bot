@@ -76414,5 +76414,58 @@
     "company_url": "https://simplify.jobs/c/NVIDIA",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Verana Health",
+    "id": "0c07b493-36cf-4ca5-8650-341b01cb18ab",
+    "title": "Data Engineer Co-Op",
+    "active": true,
+    "terms": [],
+    "date_updated": 1745955235,
+    "date_posted": 1745955235,
+    "url": "https://job-boards.greenhouse.io/veranahealth/jobs/7975863002",
+    "locations": [
+      "SF"
+    ],
+    "company_url": "https://simplify.jobs/c/VeranaHealth",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Articul8",
+    "id": "db1d37fd-45b2-4523-89e5-b4506f0352a0",
+    "title": "Intern \u2013 Software Engineer",
+    "active": true,
+    "terms": [],
+    "date_updated": 1745979506,
+    "date_posted": 1745979506,
+    "url": "https://jobs.ashbyhq.com/articul8/229af139-7ceb-4f27-9bb2-f9bd96df03b2/application",
+    "locations": [
+      "Dublin, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Articul8",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "date_updated": 1745980873,
+    "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/20304",
+    "company_name": "Nokia",
+    "title": "Incubation Developer Student",
+    "locations": [
+      "Ottawa, Ontario, Canada"
+    ],
+    "terms": [
+      "Summer 2025"
+    ],
+    "sponsorship": "Does Not Offer Sponsorship",
+    "active": true,
+    "source": "GaryZhous",
+    "id": "fd7d8eef-343e-44bd-8a5d-6a5c409b4e77",
+    "date_posted": 1745980873,
+    "company_url": "",
+    "is_visible": true
   }
 ]
