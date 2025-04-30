@@ -76560,5 +76560,22 @@
     "company_url": "https://simplify.jobs/c/Businessolver",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Uhaul",
+    "id": "82a28d12-63f8-4f73-9d19-f3015a2c2215",
+    "title": "SQL Data Analyst Intern",
+    "active": true,
+    "terms": [],
+    "date_updated": 1746047108,
+    "date_posted": 1746047108,
+    "url": "https://uhaul.wd1.myworkdayjobs.com/UhaulJobs/job/Tempe-Arizona/SQL-Data-Analyst-Intern_R218345",
+    "locations": [
+      "Tempe, AZ"
+    ],
+    "company_url": "https://simplify.jobs/c/Uhaul",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
