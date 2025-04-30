@@ -76507,5 +76507,22 @@
     "company_url": "https://simplify.jobs/c/DeepIntent",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Highspot",
+    "id": "f680f7d7-b055-437a-b454-e64f4987d2f5",
+    "title": "Associate Engineer Internship",
+    "active": true,
+    "terms": [],
+    "date_updated": 1746039174,
+    "date_posted": 1746039174,
+    "url": "https://jobs.lever.co/highspot/3cd0d0b8-d281-44c8-92b6-20714a3d47e6/apply",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "company_url": "https://simplify.jobs/c/Highspot",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
