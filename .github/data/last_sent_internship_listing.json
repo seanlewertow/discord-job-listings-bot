@@ -76765,5 +76765,24 @@
     "company_url": "https://simplify.jobs/c/Leidos",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "AAA Club Alliance",
+    "id": "61572e24-deb8-40ba-801e-b056849d89bb",
+    "title": "Data Analyst Intern",
+    "active": true,
+    "terms": [
+      "Summer 2024"
+    ],
+    "date_updated": 1746132789,
+    "date_posted": 1746132789,
+    "url": "https://aaamidatlantic.wd5.myworkdayjobs.com/aaamidatlantic/job/Cincinnati-OH---Central-Parkway-Job-Posting/Data-Analyst-Intern_39012",
+    "locations": [
+      "Cincinnati, OH"
+    ],
+    "company_url": "https://simplify.jobs/c/AAA-Club-Alliance",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
