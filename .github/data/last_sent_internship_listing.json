@@ -76746,5 +76746,24 @@
     "company_url": "https://simplify.jobs/c/9a5a4634-d168-4118-b172-0c0aae45f2ad",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Leidos",
+    "id": "6cb10bc4-7258-4ac0-8964-36e4d6bbd4b7",
+    "title": "Software Specialist Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1746127034,
+    "date_posted": 1746127034,
+    "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Edgewood-MD/Software-Specialist-Intern_R-00158257",
+    "locations": [
+      "Gunpowder, MD"
+    ],
+    "company_url": "https://simplify.jobs/c/Leidos",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
