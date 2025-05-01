@@ -76673,5 +76673,22 @@
     "company_url": "https://simplify.jobs/c/Tesla",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "American Axle & Manufacturing",
+    "id": "3b1775c2-f21c-4262-a51e-b1e5d11c61a4",
+    "title": "Product Engineering Co-Op",
+    "active": true,
+    "terms": [],
+    "date_updated": 1746080177,
+    "date_posted": 1746080177,
+    "url": "https://aampower.wd1.myworkdayjobs.com/aam-career-site/job/Detroit-MI/Product-Engineering-Co-Op_JREQ-216016",
+    "locations": [
+      "Detroit, MI"
+    ],
+    "company_url": "https://simplify.jobs/c/American-Axle-And-Manufacturing",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
