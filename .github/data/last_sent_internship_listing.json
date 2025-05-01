@@ -76710,5 +76710,24 @@
     "company_url": "https://simplify.jobs/c/Tesla",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "company_name": "Tyson Foods",
+    "id": "e872c532-ddc5-4d42-8d5f-2c2a1dd09976",
+    "title": "Tech@Tyson Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1746056392,
+    "date_posted": 1746056392,
+    "url": "https://tysonfoods.wd5.myworkdayjobs.com/TSN/job/Tyson-Emma---Springdale-Arkansas/Tech-Tyson-Intern_R0390802-2",
+    "locations": [
+      "Springdale, AR"
+    ],
+    "company_url": "https://simplify.jobs/c/Tyson-Foods",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
