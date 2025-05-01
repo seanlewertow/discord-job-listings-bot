@@ -76784,5 +76784,104 @@
     "company_url": "https://simplify.jobs/c/AAA-Club-Alliance",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Qualcomm",
+    "id": "7910919b-f1ab-4340-8b70-9fc3cafe1391",
+    "title": "Hardware \u2013 Engineering Internship - CPU - Gpu - SoC - Digital Design - DV",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1743537494,
+    "date_posted": 1739320019,
+    "url": "https://qualcomm.eightfold.ai/careers/job/446701027652",
+    "locations": [
+      "Austin, TX",
+      "Raleigh, NC",
+      "Santa Clara, CA",
+      "Boxborough, MA",
+      "Boulder, CO",
+      "San Diego, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Qualcomm",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Plexus",
+    "id": "26f65a8b-d882-4f41-8b05-1349653cdc2e",
+    "title": "Intern \u2013 Hardware Engineer",
+    "active": true,
+    "terms": [
+      "Spring 2026"
+    ],
+    "date_updated": 1741914879,
+    "date_posted": 1738358444,
+    "url": "https://plexus.wd5.myworkdayjobs.com/en-US/Plexus_Careers/job/Raleigh-NC/Intern---Hardware-Engineer--Spring-2026-_R031614",
+    "locations": [
+      "Raleigh, NC"
+    ],
+    "company_url": "https://simplify.jobs/c/Plexus",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Jump Trading",
+    "id": "02564592-0ea0-4d89-bf4a-0154575653f8",
+    "title": "Campus FPGA Engineer \u2013 Intern",
+    "active": true,
+    "terms": [],
+    "date_updated": 1741909223,
+    "date_posted": 1723218041,
+    "url": "https://boards.greenhouse.io/embed/job_app?token=6165578",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/Jump-Trading",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "American Axle & Manufacturing",
+    "id": "bc2254ff-ea70-46b6-a78b-e0dc49f19a69",
+    "title": "Data Analyst College Co-op",
+    "active": true,
+    "terms": [],
+    "date_updated": 1746137802,
+    "date_posted": 1746137802,
+    "url": "https://aampower.wd1.myworkdayjobs.com/aam-career-site/job/Detroit-MI/Data-Analyst-College-Co-op_JREQ-215871",
+    "locations": [
+      "Detroit, MI"
+    ],
+    "company_url": "https://simplify.jobs/c/American-Axle-And-Manufacturing",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Kioxia",
+    "id": "646caa41-92f8-48b4-b809-0cd64e85b0ec",
+    "title": "Technical Product Marketing Intern",
+    "active": true,
+    "terms": [],
+    "date_updated": 1746137247,
+    "date_posted": 1746137247,
+    "url": "https://jobs.smartrecruiters.com/Kioxia/744000057059979",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Kioxia",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
