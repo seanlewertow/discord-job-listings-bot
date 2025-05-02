@@ -76903,5 +76903,46 @@
     "company_url": "https://simplify.jobs/c/CACI",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Signify",
+    "id": "d3317055-b991-4853-9ca9-0727d9c4ca0a",
+    "title": "Software Development Programmer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025",
+      "Fall 2025"
+    ],
+    "date_updated": 1746143924,
+    "date_posted": 1746143924,
+    "url": "https://lighting.wd3.myworkdayjobs.com/jobs-and-careers/job/Langley/Software-Development-Programmer-Intern_358395",
+    "locations": [
+      "Langley, BC, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Signify",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Leidos",
+    "id": "c72feeef-f417-4e54-99c2-8ae5e789c696",
+    "title": "Computer Science Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1746144975,
+    "date_posted": 1746144975,
+    "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Alexandria-VA/Computer-Science-Intern_R-00158534",
+    "locations": [
+      "Alexandria, VA"
+    ],
+    "company_url": "https://simplify.jobs/c/Leidos",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
