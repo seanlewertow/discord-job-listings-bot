@@ -77039,5 +77039,83 @@
     "company_url": "https://simplify.jobs/c/Fifth-Third-Bank",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "United Parcel Service (UPS)",
+    "id": "76bda405-4e07-4ea5-bec1-03c52b7443ed",
+    "title": "ISM Co-op",
+    "active": true,
+    "terms": [],
+    "date_updated": 1746225896,
+    "date_posted": 1746225896,
+    "url": "https://hcmportal.wd5.myworkdayjobs.com/en-US/Search/job/US---AIR-GROUP-BUILDING-KYARP/ISM-Co-op_R25013967",
+    "locations": [
+      "United States"
+    ],
+    "company_url": "https://simplify.jobs/c/United-Parcel-Service",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Skyryse",
+    "id": "ceaf98fe-31a9-41f5-a259-4a7f6e010348",
+    "title": "Software Engineer Intern - AI",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1746225812,
+    "date_posted": 1746225812,
+    "url": "https://job-boards.greenhouse.io/skyryse/jobs/6856157",
+    "locations": [
+      "El Segundo, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Skyryse",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Rocket Lawyer",
+    "id": "f18d78b3-ed72-4b87-a89a-fee2d8f19128",
+    "title": "Data Science Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1746225633,
+    "date_posted": 1746225633,
+    "url": "https://job-boards.greenhouse.io/rocketlawyer/jobs/4670341008",
+    "locations": [
+      "Remote in UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Rocket-Lawyer",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Hewlett Packard (HP)",
+    "id": "2484c73e-67dc-494a-974e-9265861f9c29",
+    "title": "Digital and Transformation Software Internship",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1746225308,
+    "date_posted": 1746225308,
+    "url": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Spring-Texas-United-States-of-America/Digital-and-Transformation-Software-Internship_3141294-1",
+    "locations": [
+      "Spring, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Hewlett-Packard",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
