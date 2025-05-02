@@ -77117,5 +77117,23 @@
     "company_url": "https://simplify.jobs/c/Hewlett-Packard",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Blend",
+    "id": "559352b1-da05-4bb2-9689-d206a285c512",
+    "title": "Data Analyst Intern",
+    "active": true,
+    "terms": [],
+    "date_updated": 1746226098,
+    "date_posted": 1746226098,
+    "url": "https://job-boards.greenhouse.io/blend/jobs/5531449004",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/Blend",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
