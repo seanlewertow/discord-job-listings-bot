@@ -77135,5 +77135,65 @@
     "company_url": "https://simplify.jobs/c/Blend",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "C&S Wholesale Grocers",
+    "id": "549bac53-685d-4bd4-960f-3b5e2f820a45",
+    "title": "Data Analyst Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1746228529,
+    "date_posted": 1746228529,
+    "url": "https://cswg.wd1.myworkdayjobs.com/cs_careers/job/Edison-NJ/Data-Analyst-Intern_R-262192",
+    "locations": [
+      "Edison, NJ"
+    ],
+    "company_url": "https://simplify.jobs/c/CS-Wholesale-Grocers",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Kepler Communications",
+    "id": "d9492ebf-1e30-4059-afa5-733eb337acfd",
+    "title": "Hardware Test Engineering Intern",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1746227885,
+    "date_posted": 1746227885,
+    "url": "https://jobs.lever.co/kepler/f12cb07a-a0e0-4b05-840b-518a7bd2b342/apply",
+    "locations": [
+      "Toronto, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Kepler-Communications",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Kepler Communications",
+    "id": "f50837a3-b771-488a-a12c-c5073bf4abbf",
+    "title": "Software Engineering Intern",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1746227879,
+    "date_posted": 1746227879,
+    "url": "https://jobs.lever.co/kepler/691851cc-b625-4f02-859a-9f46a0101cf4/apply",
+    "locations": [
+      "Toronto, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Kepler-Communications",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
