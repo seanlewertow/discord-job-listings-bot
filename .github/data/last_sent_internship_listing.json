@@ -77001,5 +77001,25 @@
     "company_url": "https://simplify.jobs/c/Trimble",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Splunk",
+    "id": "9007b196-a92a-4037-b7a0-fdeb373b1fd2",
+    "title": "Security Data Scientist Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1746213382,
+    "date_posted": 1746213382,
+    "url": "https://jobs.jobvite.com/splunk-careers/job/oxCZvfwn?nl=1&nl=1&fr=false",
+    "locations": [
+      "Boulder, CO"
+    ],
+    "company_url": "https://simplify.jobs/c/Splunk",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
