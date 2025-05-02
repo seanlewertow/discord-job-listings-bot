@@ -77195,5 +77195,26 @@
     "company_url": "https://simplify.jobs/c/Kepler-Communications",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Moog Inc",
+    "id": "a47a5f5a-a4b6-465c-8c07-9a9557d864cb",
+    "title": "Intern \u2013 Artificial Intelligence",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1746228917,
+    "date_posted": 1746228917,
+    "url": "https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Intern--Artificial-Intelligence_R-25-10058",
+    "locations": [
+      "Boston, NY",
+      "Buffalo, NY"
+    ],
+    "company_url": "https://simplify.jobs/c/Moog-Inc",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
