@@ -76983,5 +76983,23 @@
     "company_url": "https://simplify.jobs/c/Keysight-Technologies-Inc",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Trimble",
+    "id": "197f4497-4f43-41a8-aa6c-65ae359b6f82",
+    "title": "Component Engineering Intern",
+    "active": true,
+    "terms": [],
+    "date_updated": 1746203781,
+    "date_posted": 1746203781,
+    "url": "https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/US---OH-Dayton/Component-Engineering-Intern_R49774",
+    "locations": [
+      "Dayton, OH"
+    ],
+    "company_url": "https://simplify.jobs/c/Trimble",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
