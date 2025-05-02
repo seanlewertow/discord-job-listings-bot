@@ -76965,5 +76965,23 @@
     "company_url": "https://simplify.jobs/c/Nokia",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Keysight Technologies, Inc.",
+    "id": "86dceb86-9e4c-4f6b-bf45-bb7cc64473f6",
+    "title": "R&D Hardware Engineering Internship",
+    "active": true,
+    "terms": [],
+    "date_updated": 1746154585,
+    "date_posted": 1746154585,
+    "url": "https://jobs.keysight.com/jobs/47422?lang=en-us&icims=1",
+    "locations": [
+      "Santa Rosa, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Keysight-Technologies-Inc",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
