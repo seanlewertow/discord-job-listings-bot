@@ -77270,5 +77270,23 @@
     "company_url": "https://simplify.jobs/c/American-University",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "GeoComply",
+    "id": "f753a614-455e-4eb3-b985-2c8dd8de35ce",
+    "title": "Data Scientist Intern",
+    "active": true,
+    "terms": [],
+    "date_updated": 1746236935,
+    "date_posted": 1746236935,
+    "url": "https://jobs.lever.co/geocomply-2/b18983f1-bd98-49cb-a150-3277e6f03bf0/apply",
+    "locations": [
+      "Vancouver, BC, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/GeoComply",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
