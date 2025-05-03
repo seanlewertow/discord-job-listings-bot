@@ -77216,5 +77216,59 @@
     "company_url": "https://simplify.jobs/c/Moog-Inc",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Xylem",
+    "id": "b2bc12f7-64b3-4066-b91b-5e6a339951e0",
+    "title": "Intern \u2013 Data Science - Digital Business",
+    "active": true,
+    "terms": [],
+    "date_updated": 1746229965,
+    "date_posted": 1746229965,
+    "url": "https://xylem.wd5.myworkdayjobs.com/en-US/xylem-careers/job/Pittsburgh-Pennsylvania-Office/Intern---Data-Science--Digital-Business_R41675",
+    "locations": [
+      "Pittsburgh, PA"
+    ],
+    "company_url": "https://simplify.jobs/c/Xylem",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Conductor",
+    "id": "0712dba2-1aad-416b-9704-5b5dc4bc1757",
+    "title": "AI Engineering Intern",
+    "active": true,
+    "terms": [],
+    "date_updated": 1746229939,
+    "date_posted": 1746229939,
+    "url": "https://job-boards.greenhouse.io/conductor/jobs/6859221",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Conductor",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "American University",
+    "id": "a953bc45-1f10-499d-b1cf-c53cb22adcdd",
+    "title": "Workday Technology Intern-Data Conversion - Student",
+    "active": true,
+    "terms": [],
+    "date_updated": 1746230683,
+    "date_posted": 1746230683,
+    "url": "https://american.wd1.myworkdayjobs.com/au/job/Spring-Valley-Campus-Washington-DC/Workday-Technology-Intern--Data-Conversion--Student-_R2532-1",
+    "locations": [
+      "Washington, DC"
+    ],
+    "company_url": "https://simplify.jobs/c/American-University",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
