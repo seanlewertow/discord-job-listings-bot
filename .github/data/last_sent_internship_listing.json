@@ -77288,5 +77288,24 @@
     "company_url": "https://simplify.jobs/c/GeoComply",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "date_updated": 1746245878,
+    "url": "https://cgi.njoyn.com/corp/xweb/xweb.asp?clid=21001&page=jobdetails&jobid=J0425-1278&BRID=1207113&SBDID=943",
+    "company_name": "CGI",
+    "title": "Fall 2025 Co-op: WiSE Junior AI Analyst (8 months)",
+    "locations": [
+      "Toronto, Ontario, Canada"
+    ],
+    "terms": [
+      "Fall 2025"
+    ],
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "source": "GaryZhous",
+    "id": "ec6a63ce-48ed-4a13-a06b-daab40e85d24",
+    "date_posted": 1746245878,
+    "company_url": "",
+    "is_visible": true
   }
 ]
