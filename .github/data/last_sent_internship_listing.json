@@ -77327,5 +77327,24 @@
     "company_url": "https://simplify.jobs/c/Verkada",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "date_updated": 1746331389,
+    "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/20099",
+    "company_name": "Nokia",
+    "title": "Full Stack Dev Cloud and ML Student",
+    "locations": [
+      "Katana, Ontario, Canada"
+    ],
+    "terms": [
+      "Fall 2025"
+    ],
+    "sponsorship": "Does Not Offer Sponsorship",
+    "active": true,
+    "source": "GaryZhous",
+    "id": "1d263875-64b1-48a0-8d49-6d6d5fdc4dab",
+    "date_posted": 1746331389,
+    "company_url": "",
+    "is_visible": true
   }
 ]
