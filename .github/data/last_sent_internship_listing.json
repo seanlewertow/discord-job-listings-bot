@@ -77382,5 +77382,23 @@
     "company_url": "https://simplify.jobs/c/f36d80a6-23f4-416c-bd74-b85753adb3b7",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Unisys",
+    "id": "7dbb3cee-67bc-4a70-a44e-f7fe074afe3d",
+    "title": "Software Engineer",
+    "active": true,
+    "terms": [],
+    "date_updated": 1746394509,
+    "date_posted": 1746394509,
+    "url": "https://unisys.wd5.myworkdayjobs.com/en-US/External/job/Blue-Bell-PA-United-States-of-America/Software-Engineer-Drexel-Co-op_REQ565137",
+    "locations": [
+      "Ambler, PA"
+    ],
+    "company_url": "https://simplify.jobs/c/f36d80a6-23f4-416c-bd74-b85753adb3b7",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
