@@ -77439,5 +77439,23 @@
     "company_url": "https://simplify.jobs/c/Ontario-Teachers-Pension-Plan",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "PDI Technologies",
+    "id": "1ba09c06-0983-44d5-abd3-6aeef80895cf",
+    "title": "Software Engineer Intern",
+    "active": true,
+    "terms": [],
+    "date_updated": 1746466499,
+    "date_posted": 1746466499,
+    "url": "https://jobs.lever.co/pditechnologies/cf75e730-84c7-4d43-85a8-ccb6e613b008/apply",
+    "locations": [
+      "Alpharetta, GA"
+    ],
+    "company_url": "https://simplify.jobs/c/c202599e-d952-4aab-a921-e4ecf64a1dea",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
