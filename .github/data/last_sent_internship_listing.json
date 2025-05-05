@@ -77477,5 +77477,83 @@
     "company_url": "https://simplify.jobs/c/Capital-One",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Aledade",
+    "id": "f0827bfc-550c-4c6f-98f1-4d4ea72bdf96",
+    "title": "Internship - AI Analyst",
+    "active": true,
+    "terms": [],
+    "date_updated": 1746471694,
+    "date_posted": 1746471694,
+    "url": "https://jobs.lever.co/aledade/297fadfd-8563-4cfa-9b59-7645e4c2fbb2/apply",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/Aledade",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Capital One",
+    "id": "80553404-d37d-44b8-ae64-2f5c443b3500",
+    "title": "Intern \u2013 Backend Software Engineer",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1746456531,
+    "date_posted": 1746456531,
+    "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Intern--Backend-Software-Engineer---Team-Canusa-Street---Fall-2025_R215346",
+    "locations": [
+      "Toronto, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Capital-One",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Capital One",
+    "id": "6201ffc1-3189-45dc-a44b-7c3c8b214dc6",
+    "title": "Intern \u2013 Backend Software Engineer - Team Arcus",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1746456530,
+    "date_posted": 1746456530,
+    "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Intern--Backend-Software-Engineer---Team-Arcus---Fall-2025_R215514",
+    "locations": [
+      "Toronto, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Capital-One",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Capital One",
+    "id": "043a1716-ccbc-4525-9cfb-c68cc026148d",
+    "title": "Intern \u2013 IOS Software Engineer - Team Capital One Travel",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1746456530,
+    "date_posted": 1746456530,
+    "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Intern--iOS-Software-Engineer---Team-Capital-One-Travel---Fall-2025_R215356",
+    "locations": [
+      "Toronto, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Capital-One",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
