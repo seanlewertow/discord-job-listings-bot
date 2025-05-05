@@ -77755,5 +77755,25 @@
     "company_url": "https://simplify.jobs/c/Leidos",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Western Digital",
+    "id": "47a1f9a4-8c0c-4e2a-a9da-51d671c56120",
+    "title": "Summer 2025 Intern - Applications Engineering",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1746483444,
+    "date_posted": 1746483444,
+    "url": "https://jobs.smartrecruiters.com/WesternDigital/744000057639220",
+    "locations": [
+      "Fremont, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Western-Digital",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
