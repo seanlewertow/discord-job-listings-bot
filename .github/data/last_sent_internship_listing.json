@@ -77795,5 +77795,44 @@
     "company_url": "https://simplify.jobs/c/Activision-Blizzard",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Tesla",
+    "id": "fcfdddd1-c695-43b4-aecc-b62faa50f107",
+    "title": "Internship - Fullstack Engineer - Infrastructure Engineering",
+    "active": true,
+    "terms": [
+      "Fall 2025",
+      "Spring 2026"
+    ],
+    "date_updated": 1746487090,
+    "date_posted": 1746487090,
+    "url": "https://www.tesla.com/careers/search/job/242326",
+    "locations": [
+      "Fremont, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Tesla",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Bridgewater Associates",
+    "id": "890627b8-5826-4197-a822-73b580bed8fa",
+    "title": "Campus Investment Engineer Intern",
+    "active": true,
+    "terms": [],
+    "date_updated": 1746486909,
+    "date_posted": 1746486909,
+    "url": "https://job-boards.greenhouse.io/bridgewater89/jobs/7950099002",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Bridgewater-Associates",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
