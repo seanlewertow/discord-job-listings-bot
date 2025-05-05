@@ -77735,5 +77735,25 @@
     "company_url": "https://simplify.jobs/c/Super",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Leidos",
+    "id": "f3aa84ce-e3f1-4558-81ad-e8854ad77b45",
+    "title": "Software Engineer Intern",
+    "active": true,
+    "terms": [
+      "Spring 2025"
+    ],
+    "date_updated": 1746479053,
+    "date_posted": 1746479053,
+    "url": "https://leidos.wd5.myworkdayjobs.com/External/job/St-Petersburg-FL/Software-Engineer-Intern_R-00158666",
+    "locations": [
+      "St. Petersburg, FL"
+    ],
+    "company_url": "https://simplify.jobs/c/Leidos",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
