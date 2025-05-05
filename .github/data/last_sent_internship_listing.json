@@ -77775,5 +77775,25 @@
     "company_url": "https://simplify.jobs/c/Western-Digital",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Activision-Blizzard",
+    "id": "325307a3-6c7a-4e53-93bd-5afd5ace092d",
+    "title": "Machine Learning Security Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1746484761,
+    "date_posted": 1746484761,
+    "url": "https://activision.wd1.myworkdayjobs.com/External/job/Sherman-Oaks/Machine-Learning-Security-Intern_R024774-1",
+    "locations": [
+      "Sherman Oaks, LA"
+    ],
+    "company_url": "https://simplify.jobs/c/Activision-Blizzard",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
