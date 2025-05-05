@@ -11870,5 +11870,22 @@
     "company_url": "https://simplify.jobs/c/Yodlee",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Blue Yonder",
+    "id": "7e5f5538-fe3c-43bd-819e-780c0d07c2b6",
+    "title": "Software Engineer 1 - Python",
+    "active": true,
+    "date_updated": 1746487605,
+    "date_posted": 1746487605,
+    "url": "https://jda.wd5.myworkdayjobs.com/en-US/JDA_Careers/job/Dallas/Software-Engineer-1--Python-_250681-1",
+    "locations": [
+      "Dallas, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/db6baf80-a321-4d20-ac07-6a38a44b5a05",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
