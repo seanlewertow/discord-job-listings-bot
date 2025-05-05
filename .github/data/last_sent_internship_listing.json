@@ -77834,5 +77834,63 @@
     "company_url": "https://simplify.jobs/c/Bridgewater-Associates",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Cognito Therapeutics",
+    "id": "05501935-7a30-4673-aaf2-abdc2cf64e8c",
+    "title": "AI Solutions Intern",
+    "active": true,
+    "terms": [],
+    "date_updated": 1746487991,
+    "date_posted": 1746487991,
+    "url": "https://job-boards.greenhouse.io/cognitotherapeutics/jobs/4565095006",
+    "locations": [
+      "Cambridge, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/4b35c3db-827b-4165-9087-46cd60a53959",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Capital One",
+    "id": "5574a5f2-05e6-4848-9df0-c1b66d660c27",
+    "title": "Intern \u2013 Data Analytics Engineering",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1746487958,
+    "date_posted": 1746487958,
+    "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Intern--Data-Analytics-Engineering---Fall-2025_R215757",
+    "locations": [
+      "Toronto, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Capital-One",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Verkada",
+    "id": "9441c8b9-6a9a-45d2-ab82-1705d77fd1c5",
+    "title": "Software Engineering Intern - Backend",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1746487483,
+    "date_posted": 1746487483,
+    "url": "https://job-boards.greenhouse.io/verkada/jobs/4726446007",
+    "locations": [
+      "San Mateo, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Verkada",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
