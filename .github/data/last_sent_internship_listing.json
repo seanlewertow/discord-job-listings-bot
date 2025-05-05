@@ -77677,5 +77677,43 @@
     "company_url": "https://simplify.jobs/c/Nokia",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "TD Bank",
+    "id": "4f66d7db-dbf0-4d23-849c-ae6c203e8e3a",
+    "title": "Global Markets Intern/Co-op - Fx - FI & Precious Metals Distribution",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1746474179,
+    "date_posted": 1746474179,
+    "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Global-Markets-Intern-Co-op---FX--FI---Precious-Metals-Distribution--Fall-2025-_R_1418689",
+    "locations": [
+      "Toronto, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/TD-Bank",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "GeoComply",
+    "id": "cce162be-73fa-408a-b7a3-ae7c1f2c7298",
+    "title": "Data Scientist Intern",
+    "active": true,
+    "terms": [],
+    "date_updated": 1746473822,
+    "date_posted": 1746473822,
+    "url": "https://jobs.lever.co/geocomply-2/f99c826c-8a04-4384-b773-3bb97f900097/apply",
+    "locations": [
+      "Toronto, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/GeoComply",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
