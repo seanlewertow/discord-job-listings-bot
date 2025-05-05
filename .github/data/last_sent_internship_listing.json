@@ -77400,5 +77400,24 @@
     "company_url": "https://simplify.jobs/c/f36d80a6-23f4-416c-bd74-b85753adb3b7",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "date_updated": 1746424134,
+    "url": "https://jobs.bombardier.com/job/Dorval-Intern-in-Information-Technology-%28Summer-2025%29-Qu%C3%A9b-H4S-2A3/1165981501",
+    "company_name": "Bombardier",
+    "title": "Intern in Information Technology (Summer 2025)",
+    "locations": [
+      "Dorval, Qu\u00e9bec, Canada"
+    ],
+    "terms": [
+      "Summer 2025"
+    ],
+    "sponsorship": "Does Not Offer Sponsorship",
+    "active": true,
+    "source": "GaryZhous",
+    "id": "887de1e1-cf59-4470-8319-ff0d6c46a3c8",
+    "date_posted": 1746424134,
+    "company_url": "",
+    "is_visible": true
   }
 ]
