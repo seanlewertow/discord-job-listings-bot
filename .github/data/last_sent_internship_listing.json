@@ -77892,5 +77892,43 @@
     "company_url": "https://simplify.jobs/c/Verkada",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "TD Bank",
+    "id": "883ae211-ea5c-4c5b-b415-1ba08cc20d7f",
+    "title": "Certification Intern/Co-op",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1746489601,
+    "date_posted": 1746489601,
+    "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Mississauga-Ontario/Certification-Intern-Co-op_R_1418330-1",
+    "locations": [
+      "Mississauga, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/TD-Bank",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Carbon",
+    "id": "b30f4ff3-918d-4438-a9c9-7c536aa33adb",
+    "title": "Application Engineering Intern",
+    "active": true,
+    "terms": [],
+    "date_updated": 1746491809,
+    "date_posted": 1746491809,
+    "url": "https://job-boards.greenhouse.io/carbon/jobs/4711778007",
+    "locations": [
+      "San Carlos, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Carbon",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
