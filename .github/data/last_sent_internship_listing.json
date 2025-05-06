@@ -78150,5 +78150,25 @@
     "company_url": "https://simplify.jobs/c/SSC",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "SS&C",
+    "id": "3a4bbff8-98df-47fb-86af-952129b22d78",
+    "title": "Summer Intern - Machine Learning",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1746562969,
+    "date_posted": 1746562969,
+    "url": "https://wd1.myworkdaysite.com/recruiting/ssctech/SSCTechnologies/job/London-UK/Summer-Intern--Machine-Learning_R33446",
+    "locations": [
+      "London, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/SSC",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
