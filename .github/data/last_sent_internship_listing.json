@@ -77930,5 +77930,45 @@
     "company_url": "https://simplify.jobs/c/Carbon",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "date_updated": 1746504154,
+    "url": "https://jobs.lever.co/super-com/18fc9851-ccfe-4782-9c5c-559f0d26c73f/apply?lever-source=LinkedIn&source=LinkedIn",
+    "company_name": "Super.com",
+    "title": "Software Engineering Intern (12 Months)",
+    "locations": [
+      "Canada",
+      "Remote"
+    ],
+    "terms": [
+      "Fall 2025"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "source": "karimaljundi",
+    "id": "9f7853ed-2afd-4bdd-84a8-13a60ec60d99",
+    "date_posted": 1746504154,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1746504199,
+    "url": "https://careers.intactfc.com/ca/en/job/IFCOUSR146749INTACTINSURANCEENCA/IT-Strategy-Intern-4-months-Internship-Coop-Fall-2025",
+    "company_name": "Intact",
+    "title": "IT Strategy Intern",
+    "locations": [
+      "Montr\u00e9al, Quebec, Canada",
+      "Toronto, Ontario, Canada"
+    ],
+    "terms": [
+      "Fall 2025"
+    ],
+    "sponsorship": "Does Not Offer Sponsorship",
+    "active": true,
+    "source": "GaryZhous",
+    "id": "d487a168-c321-4c1d-b858-1899c5fc190f",
+    "date_posted": 1746504199,
+    "company_url": "",
+    "is_visible": true
   }
 ]
