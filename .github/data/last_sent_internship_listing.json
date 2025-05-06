@@ -77970,5 +77970,27 @@
     "date_posted": 1746504199,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Tesla",
+    "id": "9b974122-efaa-4ab5-9efa-b6cda929fac4",
+    "title": "Internship - Embedded Systems Software Engineer - AI Platforms",
+    "active": true,
+    "terms": [
+      "Fall 2025",
+      "Winter 2026",
+      "Spring 2026"
+    ],
+    "date_updated": 1746487078,
+    "date_posted": 1746487078,
+    "url": "https://www.tesla.com/careers/search/job/242440",
+    "locations": [
+      "Palo Alto, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Tesla",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
