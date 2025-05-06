@@ -78112,5 +78112,43 @@
     "company_url": "https://simplify.jobs/c/e955406a-7989-4ed8-aff1-01032b96e141",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "American Electric Power",
+    "id": "055ac22c-965f-48fa-8641-b21668ac815b",
+    "title": "Load Research \u2013 Intern",
+    "active": true,
+    "terms": [],
+    "date_updated": 1746562502,
+    "date_posted": 1746562502,
+    "url": "https://aep.wd1.myworkdayjobs.com/AEPCareerSite/job/Columbus-OH/Load-Research---Intern_R8592",
+    "locations": [
+      "Columbus, OH"
+    ],
+    "company_url": "https://simplify.jobs/c/American-Electric-Power",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "SS&C",
+    "id": "a64fe5db-e9d4-4463-92e1-6338175c4589",
+    "title": "Summer Intern - Machine Learning",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1746562291,
+    "date_posted": 1746562291,
+    "url": "https://wd1.myworkdaysite.com/recruiting/ssctech/SSCTechnologies/job/London-UK/Summer-Intern--Machine-Learning_R33447",
+    "locations": [
+      "London, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/SSC",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
