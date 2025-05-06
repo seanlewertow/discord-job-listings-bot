@@ -78012,5 +78012,26 @@
     "company_url": "https://simplify.jobs/c/Nokia",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Formlabs",
+    "id": "06a26793-67b1-43e9-8a00-cd93a37230c5",
+    "title": "Hardware Systems Engineering Intern",
+    "active": true,
+    "terms": [
+      "Fall 2025",
+      "Summer 2025"
+    ],
+    "date_updated": 1746554925,
+    "date_posted": 1746554925,
+    "url": "https://careers.formlabs.com/job/6830753/apply/?gh_jid=6830753",
+    "locations": [
+      "Cambridge, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/Formlabs",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
