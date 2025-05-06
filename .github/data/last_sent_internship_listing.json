@@ -78033,5 +78033,64 @@
     "company_url": "https://simplify.jobs/c/Formlabs",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Blue Yonder",
+    "id": "44e7512a-e7ce-4795-b102-e40c808db06b",
+    "title": "Network Trading Partner Growth Intern \u2013 Sales Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1746555647,
+    "date_posted": 1746555647,
+    "url": "https://jda.wd5.myworkdayjobs.com/en-US/JDA_Careers/job/Dallas/Network-Trading-Partner-Growth-Intern--Sales-Intern-_251779-1",
+    "locations": [
+      "Dallas, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/db6baf80-a321-4d20-ac07-6a38a44b5a05",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "GeoComply",
+    "id": "669a0773-ee6b-4ec4-ad3c-ddf4f6254706",
+    "title": "ML Data Scientist Intern",
+    "active": true,
+    "terms": [],
+    "date_updated": 1746557228,
+    "date_posted": 1746557228,
+    "url": "https://jobs.lever.co/geocomply-2/b8346b64-ade4-4d4a-af46-0a35c295bdfe/apply",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "company_url": "https://simplify.jobs/c/GeoComply",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "NimbleRx",
+    "id": "3546d9fb-2ff3-4d85-869a-75c46e69666d",
+    "title": "Software Engineer Intern",
+    "active": true,
+    "terms": [
+      "Fall 2025",
+      "Winter 2025"
+    ],
+    "date_updated": 1746557199,
+    "date_posted": 1746557199,
+    "url": "https://jobs.lever.co/nimblerx/58e71e79-f977-4311-894d-f77e5fe88dce/apply",
+    "locations": [
+      "San Carlos, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/NimbleRx",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
