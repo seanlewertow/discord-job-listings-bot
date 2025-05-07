@@ -78350,5 +78350,25 @@
     "company_url": "https://simplify.jobs/c/6a7a42d3-327f-4b48-a7a7-c68f405e3396",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "MRI Software",
+    "id": "4790ca08-9ac5-4a4c-ba43-23980bc87e6e",
+    "title": "Summer 2025 Intern - Accounting Data Management",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1746646842,
+    "date_posted": 1746646842,
+    "url": "https://mrisoftware.wd501.myworkdayjobs.com/External_CareerSite/job/US-Remote/Summer-2025-Intern---Accounting-Data-Management_R-105078",
+    "locations": [
+      "Atlanta, GA"
+    ],
+    "company_url": "https://simplify.jobs/c/MRI-Software",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
