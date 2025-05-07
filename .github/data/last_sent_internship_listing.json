@@ -78370,5 +78370,25 @@
     "company_url": "https://simplify.jobs/c/MRI-Software",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "TransUnion",
+    "id": "06d573b8-0261-46fd-9d42-5a668196fa74",
+    "title": "Identity Analytics Internship",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1746649845,
+    "date_posted": 1746649845,
+    "url": "https://transunion.wd5.myworkdayjobs.com/en-US/TransUnion/job/Chicago-Illinois/Identity-Analytics-Internship---Summer-2025_19034961",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/00cf2cf8-458d-4e49-8d00-a1a897d7294a",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
