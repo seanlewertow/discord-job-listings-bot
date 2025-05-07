@@ -78390,5 +78390,23 @@
     "company_url": "https://simplify.jobs/c/00cf2cf8-458d-4e49-8d00-a1a897d7294a",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Nuro",
+    "id": "38de9e0e-3227-45c3-9f8e-3eb912ae5b2d",
+    "title": "Software Engineer \u2013 Intern - Performance",
+    "active": true,
+    "terms": [],
+    "date_updated": 1746650101,
+    "date_posted": 1746650101,
+    "url": "https://nuro.ai/careersitem?gh_jid=6867897",
+    "locations": [
+      "Mountain View, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Nuro",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
