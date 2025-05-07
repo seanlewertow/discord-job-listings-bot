@@ -78170,5 +78170,24 @@
     "company_url": "https://simplify.jobs/c/SSC",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "date_updated": 1746594058,
+    "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/19305",
+    "company_name": "Nokia",
+    "title": "SW Tools Development Co-op/Intern",
+    "locations": [
+      "Katana, Ontario, Canada"
+    ],
+    "terms": [
+      "Fall 2025"
+    ],
+    "sponsorship": "Does Not Offer Sponsorship",
+    "active": true,
+    "source": "GaryZhous",
+    "id": "b284edeb-6476-4d83-b66b-392a141ce884",
+    "date_posted": 1746594058,
+    "company_url": "",
+    "is_visible": true
   }
 ]
