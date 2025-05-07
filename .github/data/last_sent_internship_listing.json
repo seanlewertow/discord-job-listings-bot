@@ -78189,5 +78189,105 @@
     "date_posted": 1746594058,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Invoice Cloud",
+    "id": "b92a39fc-d1dd-44f6-9a5c-e28e52ceb53b",
+    "title": "Data Analyst Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1746623819,
+    "date_posted": 1746052723,
+    "url": "http://invoicecloud.net/careers/open-positions?gh_jid=6561354003",
+    "locations": [
+      "Boston, MA",
+      "Quincy, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/Invoice-Cloud",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "NVIDIA",
+    "id": "3d528fad-bfcf-45b1-918a-b6416f3c45c6",
+    "title": "Software Engineering Intern - Solutions Engineering AV",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1746585344,
+    "date_posted": 1746585344,
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Software-Engineering-Intern--Solutions-Engineering-AV---Fall-2025_JR1997131-1",
+    "locations": [
+      "Santa Clara, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/NVIDIA",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Fresenius Medical Care",
+    "id": "471df0a2-0c33-4b47-bbb7-c235351e6b0a",
+    "title": "Machine Learning Analytics Summer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1746576645,
+    "date_posted": 1746576645,
+    "url": "https://freseniusmedicalcare.wd3.myworkdayjobs.com/fme/job/Lawrence-MA-USA/Machine-Learning-Analytics-Summer-Intern_R0204365-1",
+    "locations": [
+      "Andover, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/Fresenius",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Ciena",
+    "id": "26c37137-6d91-4cf0-bc9a-9c6432de9112",
+    "title": "Wavelogic Modem HW Engineering Co-op",
+    "active": true,
+    "terms": [
+      "Fall 2025",
+      "Winter 2025"
+    ],
+    "date_updated": 1746575792,
+    "date_posted": 1746575792,
+    "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Wavelogic-Modem-HW-Engineering-Co-op--Fall-2025-_R027890",
+    "locations": [
+      "Ottawa, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Ciena",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Cadence Design Systems",
+    "id": "fd680140-afdb-426d-81de-6164c2f2ff40",
+    "title": "Finance Transformation: Data & Analytics Intern",
+    "active": true,
+    "terms": [],
+    "date_updated": 1746575702,
+    "date_posted": 1746575702,
+    "url": "https://cadence.wd1.myworkdayjobs.com/en-US/External_Careers/job/SAN-JOSE/Finance-Transformation--Data---Analytics-Intern_R50166-2",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Cadence-Design-Systems",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
