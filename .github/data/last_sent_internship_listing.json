@@ -78601,5 +78601,69 @@
     "company_url": "https://simplify.jobs/c/Elekta",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "nVent",
+    "id": "4fc4a1f8-c966-4545-8314-ca6877785188",
+    "title": "Summer Software Engineering Co-op",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1746667346,
+    "date_posted": 1746667346,
+    "url": "https://nvent.wd5.myworkdayjobs.com/en-US/nVent/job/Solon-OH-US/Summer-Software-Engineering-Co-op_R17359",
+    "locations": [
+      "Solon, OH"
+    ],
+    "company_url": "https://simplify.jobs/c/bfdacd80-1593-4655-8b3a-da62394b5fff",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Tesla",
+    "id": "36c766d7-51b7-4d96-b98c-22c50173a09b",
+    "title": "Internship - Performance Modeling Engineer - Dojo",
+    "active": true,
+    "terms": [
+      "Fall 2025",
+      "Winter 2026",
+      "Spring 2026"
+    ],
+    "date_updated": 1746670243,
+    "date_posted": 1746670243,
+    "url": "https://www.tesla.com/careers/search/job/242661",
+    "locations": [
+      "Palo Alto, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Tesla",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Tesla",
+    "id": "d17e6541-07ae-4f9f-8f7c-043ea6956c85",
+    "title": "Internship - Software Machine Learning Engineer - Reliability Energy Engineering",
+    "active": true,
+    "terms": [
+      "Fall 2025",
+      "Winter 2026",
+      "Spring 2026"
+    ],
+    "date_updated": 1746670236,
+    "date_posted": 1746670236,
+    "url": "https://www.tesla.com/careers/search/job/242665",
+    "locations": [
+      "Palo Alto, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Tesla",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
