@@ -78785,5 +78785,25 @@
     "company_url": "https://simplify.jobs/c/Tencent",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Cadence Design Systems",
+    "id": "2476d9a9-405d-479b-8810-5a453f066c2a",
+    "title": "Software Engineering Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1746689488,
+    "date_posted": 1746689488,
+    "url": "https://cadence.wd1.myworkdayjobs.com/en-US/External_Careers/job/AUSTIN/Software-Engineering-Intern--Summer-2025-_R49944-1",
+    "locations": [
+      "Austin, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Cadence-Design-Systems",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
