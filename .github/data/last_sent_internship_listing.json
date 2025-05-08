@@ -78906,5 +78906,26 @@
     "company_url": "https://simplify.jobs/c/Formlabs",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Tesla",
+    "id": "867e5f48-3b0f-40c6-a385-73eef7399bb1",
+    "title": "Internship - Fullstack Engineer - Design Technology",
+    "active": true,
+    "terms": [
+      "Summer 2025",
+      "Fall 2025"
+    ],
+    "date_updated": 1746743073,
+    "date_posted": 1746743073,
+    "url": "https://www.tesla.com/careers/search/job/236327",
+    "locations": [
+      "Palo Alto, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Tesla",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
