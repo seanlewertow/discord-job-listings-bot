@@ -78805,5 +78805,23 @@
     "company_url": "https://simplify.jobs/c/Cadence-Design-Systems",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Neuralink",
+    "id": "ff0f892b-1c03-4107-a4cf-5c53b1b53595",
+    "title": "Software Engineer Intern - Implant",
+    "active": true,
+    "terms": [],
+    "date_updated": 1746685497,
+    "date_posted": 1746685497,
+    "url": "https://boards.greenhouse.io/neuralink/jobs/6569018003",
+    "locations": [
+      "Fremont, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Neuralink",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
