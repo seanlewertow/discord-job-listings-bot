@@ -78843,5 +78843,68 @@
     "company_url": "https://simplify.jobs/c/acb6271e-e26a-401d-befe-547f56e287b5",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Tesla",
+    "id": "3a1a52b9-4b84-448f-b06e-40a05167514f",
+    "title": "Internship - Hardware Design Engineer - Silicon Development",
+    "active": true,
+    "terms": [
+      "Summer 2025",
+      "Fall 2025",
+      "Winter 2026",
+      "Spring 2026"
+    ],
+    "date_updated": 1746742762,
+    "date_posted": 1746742762,
+    "url": "https://www.tesla.com/careers/search/job/242482",
+    "locations": [
+      "Palo Alto, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Tesla",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Aquatic Capital Management",
+    "id": "0b2f6b9a-ea9b-4d56-ad80-54c295ac5b1b",
+    "title": "Quantitative Researcher \u2013 Intern",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1746742590,
+    "date_posted": 1746742590,
+    "url": "https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/7985726002",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/Aquatic-Capital-Management",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Formlabs",
+    "id": "76ce9e44-de61-4ccf-8eb5-6bb40aabfed8",
+    "title": "Hardware Systems Engineering Intern",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1746742555,
+    "date_posted": 1746742555,
+    "url": "https://careers.formlabs.com/job/6830690/apply/?gh_jid=6830690",
+    "locations": [
+      "Cambridge, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/Formlabs",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
