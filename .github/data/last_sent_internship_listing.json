@@ -78502,5 +78502,104 @@
     "company_url": "https://simplify.jobs/c/Copart",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "ChargePoint",
+    "id": "0c69a1d3-c8c7-4255-bd07-a7c138bc815b",
+    "title": "Software Engineering \u2013 Intern",
+    "active": true,
+    "terms": [],
+    "date_updated": 1746666206,
+    "date_posted": 1746666206,
+    "url": "https://www.chargepoint.com/about/opportunities/job/?gh_jid=7979608002",
+    "locations": [
+      "Los Gatos, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/ChargePoint",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Manulife",
+    "id": "120a1006-53f2-46aa-a6a8-afdefe038b23",
+    "title": "Data Governance Analyst Co-op",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1746665621,
+    "date_posted": 1746665621,
+    "url": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_AdminJobs/job/Toronto-Ontario/Data-Governance-Analyst-Co-op---Fall-2025_JR25050378",
+    "locations": [
+      "Toronto, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/acb6271e-e26a-401d-befe-547f56e287b5",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Manulife",
+    "id": "13042b2c-8ad6-4f8d-b894-9e3e062972bd",
+    "title": "Backend Developer Co-op",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1746665616,
+    "date_posted": 1746665616,
+    "url": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_AdminJobs/job/Waterloo-Ontario/Backend-Developer-Co-op---Fall-2025_JR25050376",
+    "locations": [
+      "Kitchener, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/acb6271e-e26a-401d-befe-547f56e287b5",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Leidos",
+    "id": "84ac4272-d4a2-4412-b5d8-7d00ba25607a",
+    "title": "Software Engineer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1746666748,
+    "date_posted": 1746666748,
+    "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Trenton-NJ/Software-Engineer-Intern_R-00158927",
+    "locations": [
+      "Colorado Springs, CO"
+    ],
+    "company_url": "https://simplify.jobs/c/Leidos",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Elekta",
+    "id": "78caa94e-4405-471a-9f77-3a558a0cca35",
+    "title": "Software Development Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025",
+      "Fall 2025"
+    ],
+    "date_updated": 1746650436,
+    "date_posted": 1746650436,
+    "url": "https://elekta.wd3.myworkdayjobs.com/Elekta_Careers/job/San-Jose/Software-Development-Intern--San-Jose--CA_R2024-2430",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Elekta",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
