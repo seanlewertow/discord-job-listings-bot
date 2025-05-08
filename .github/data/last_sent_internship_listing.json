@@ -78945,5 +78945,25 @@
     "company_url": "https://simplify.jobs/c/StackAdapt",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Later",
+    "id": "51782ea9-26cd-46a6-b0b5-56b6faca29e2",
+    "title": "Data Analyst Co-op",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1746746358,
+    "date_posted": 1746746358,
+    "url": "https://job-boards.greenhouse.io/later/jobs/7989112002",
+    "locations": [
+      "Vancouver, BC, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Later",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
