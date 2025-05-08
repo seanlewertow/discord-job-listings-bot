@@ -78823,5 +78823,25 @@
     "company_url": "https://simplify.jobs/c/Neuralink",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Manulife",
+    "id": "b5938dcf-e2ba-4e6b-ac44-28f8b5275f02",
+    "title": "Business Intelligence Analyst Co-op",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1746661764,
+    "date_posted": 1746661764,
+    "url": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_AdminJobs/job/Waterloo-Ontario/Business-Intelligence-Analyst-Co-op---Fall-2025_JR25050371",
+    "locations": [
+      "Kitchener, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/acb6271e-e26a-401d-befe-547f56e287b5",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
