@@ -78665,5 +78665,23 @@
     "company_url": "https://simplify.jobs/c/Tesla",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Neuralink",
+    "id": "a2dfea15-9579-4b72-97ab-b4d45941a3b8",
+    "title": "Software Engineer Intern - Implant",
+    "active": true,
+    "terms": [],
+    "date_updated": 1746685496,
+    "date_posted": 1746685496,
+    "url": "https://boards.greenhouse.io/neuralink/jobs/6569020003",
+    "locations": [
+      "Austin, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Neuralink",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
