@@ -78927,5 +78927,23 @@
     "company_url": "https://simplify.jobs/c/Tesla",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "StackAdapt",
+    "id": "d835eb22-2972-40eb-be2f-8de3c377407b",
+    "title": "Data Analyst",
+    "active": true,
+    "terms": [],
+    "date_updated": 1746744046,
+    "date_posted": 1746744046,
+    "url": "https://jobs.lever.co/stackadapt/62f59dd6-8766-4fee-9615-f26895c1852a/apply",
+    "locations": [
+      "Remote in Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/StackAdapt",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
