@@ -79383,5 +79383,23 @@
     "company_url": "https://simplify.jobs/c/Western-Digital",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "American Axle & Manufacturing",
+    "id": "da485715-c6b7-455e-92c6-8e12cadfd06a",
+    "title": "Financial Data Analyst College Co-Op",
+    "active": true,
+    "terms": [],
+    "date_updated": 1746830845,
+    "date_posted": 1746830845,
+    "url": "https://aampower.wd1.myworkdayjobs.com/aam-career-site/job/Detroit-MI/Financial-Data-Analyst-College-Co-Op_JREQ-216100",
+    "locations": [
+      "Detroit, MI"
+    ],
+    "company_url": "https://simplify.jobs/c/American-Axle-And-Manufacturing",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
