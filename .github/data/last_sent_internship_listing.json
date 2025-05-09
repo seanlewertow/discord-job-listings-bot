@@ -79228,5 +79228,25 @@
     "company_url": "https://simplify.jobs/c/KLA",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Aquatic Capital Management",
+    "id": "8ca58bb2-6dc6-432a-8426-251da4b35751",
+    "title": "Software Engineer \u2013 Intern",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1746818650,
+    "date_posted": 1746818650,
+    "url": "https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/7990895002",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/Aquatic-Capital-Management",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
