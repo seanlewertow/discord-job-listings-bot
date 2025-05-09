@@ -79210,5 +79210,23 @@
     "company_url": "https://simplify.jobs/c/Comcast",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "KLA",
+    "id": "992c8507-0923-4172-a130-b10407c0d425",
+    "title": "Artificial Intelligence Intern",
+    "active": true,
+    "terms": [],
+    "date_updated": 1746784632,
+    "date_posted": 1746660637,
+    "url": "https://kla.wd1.myworkdayjobs.com/en-US/Search/job/Milpitas-CA/Artificial-Intelligence-Intern_2529387-2",
+    "locations": [
+      "Milpitas, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/KLA",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
