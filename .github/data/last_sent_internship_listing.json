@@ -79125,5 +79125,90 @@
     "company_url": "https://simplify.jobs/c/Tesla",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Comcast",
+    "id": "ae23abdf-db11-4483-8781-c6c37ee35486",
+    "title": "Data Architecture and Engineering Co-op",
+    "active": true,
+    "terms": [
+      "Fall 2025",
+      "Spring 2026"
+    ],
+    "date_updated": 1746775245,
+    "date_posted": 1746775245,
+    "url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1701-John-F-Kennedy-Blvd/Comcast-Global-Audit-Data-Solutions---Data-Architecture-and-Engineering-Co-op_R411080",
+    "locations": [
+      "Philadelphia, PA"
+    ],
+    "company_url": "https://simplify.jobs/c/Comcast",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Comcast",
+    "id": "582c895d-911e-47f7-9d06-2b16bc9a1f43",
+    "title": "Comcast Impact and Inclusion Analytics Co-op",
+    "active": true,
+    "terms": [
+      "Fall 2025",
+      "Spring 2026"
+    ],
+    "date_updated": 1746775259,
+    "date_posted": 1746775259,
+    "url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1701-John-F-Kennedy-Blvd/Comcast-Impact-and-Inclusion-Analytics-Co-op_R411110",
+    "locations": [
+      "Philadelphia, PA"
+    ],
+    "company_url": "https://simplify.jobs/c/Comcast",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Comcast",
+    "id": "51e09e3f-17c5-4f51-99fb-3751d7a6a1c0",
+    "title": "Data Architecture and Engineering Co-op",
+    "active": true,
+    "terms": [
+      "Fall 2025",
+      "Spring 2026"
+    ],
+    "date_updated": 1746775249,
+    "date_posted": 1746775249,
+    "url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1701-John-F-Kennedy-Blvd/Comcast-Global-Audit-Data-Solutions---Data-Architecture-and-Engineering-Co-op_R411077",
+    "locations": [
+      "Philadelphia, PA"
+    ],
+    "company_url": "https://simplify.jobs/c/Comcast",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Comcast",
+    "id": "1c891014-9a4c-4701-b98f-1a4e30b2693c",
+    "title": "Comcast Software Engineering Co-op",
+    "active": true,
+    "terms": [
+      "Fall 2025",
+      "Winter 2026",
+      "Spring 2026"
+    ],
+    "date_updated": 1746775248,
+    "date_posted": 1746775248,
+    "url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1800-Arch-St/Comcast-Software-Engineering-Co-op_R410966",
+    "locations": [
+      "Philadelphia, PA"
+    ],
+    "company_url": "https://simplify.jobs/c/Comcast",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
