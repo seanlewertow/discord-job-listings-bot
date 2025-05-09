@@ -79248,5 +79248,26 @@
     "company_url": "https://simplify.jobs/c/Aquatic-Capital-Management",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Nokia",
+    "id": "740a26ac-ced3-4d48-90b0-463d9fbf34a8",
+    "title": "Hardware Development Co-Op",
+    "active": true,
+    "terms": [
+      "Fall 2025",
+      "Winter 2025"
+    ],
+    "date_updated": 1746819633,
+    "date_posted": 1746819633,
+    "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/20045",
+    "locations": [
+      "Berkeley Heights, NJ"
+    ],
+    "company_url": "https://simplify.jobs/c/Nokia",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
