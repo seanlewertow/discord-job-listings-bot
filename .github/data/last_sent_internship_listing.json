@@ -79363,5 +79363,25 @@
     "company_url": "https://simplify.jobs/c/Lowes",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Western Digital",
+    "id": "9e48cae9-755b-4f06-81a1-447657165558",
+    "title": "Servo Firmware Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1746828725,
+    "date_posted": 1746828725,
+    "url": "https://jobs.smartrecruiters.com/WesternDigital/744000058636185",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Western-Digital",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
