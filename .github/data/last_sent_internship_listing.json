@@ -79081,5 +79081,26 @@
     "company_url": "https://simplify.jobs/c/Nokia",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Activision-Blizzard",
+    "id": "b614c210-3b53-4a02-aaf7-e01855ac9ed5",
+    "title": "Engineering Co-Op",
+    "active": true,
+    "terms": [
+      "Fall 2025",
+      "Winter 2026"
+    ],
+    "date_updated": 1746756292,
+    "date_posted": 1746756292,
+    "url": "https://activision.wd1.myworkdayjobs.com/External/job/Portland/Engineering-Co-Op---Central-Technology---Portland--ME_R025288-1",
+    "locations": [
+      "Portland, ME"
+    ],
+    "company_url": "https://simplify.jobs/c/Activision-Blizzard",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
