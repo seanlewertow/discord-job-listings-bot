@@ -78985,5 +78985,101 @@
     "company_url": "https://simplify.jobs/c/e7d8f975-ac2f-4a71-9604-f1ec300eb8e5",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "KION",
+    "id": "be47dfe7-172a-4e66-97b5-f3e354c46286",
+    "title": "Software Engineer Intern/Co-Op",
+    "active": true,
+    "terms": [],
+    "date_updated": 1746735656,
+    "date_posted": 1746735656,
+    "url": "https://kiongroup.wd3.myworkdayjobs.com/en-US/KION_SCS/job/Grand-Rapids-MI-United-States/Software-Engineer-Intern-Co-Op_JR-0075932",
+    "locations": [
+      "Grand Rapids, MI",
+      "Atlanta, GA"
+    ],
+    "company_url": "https://simplify.jobs/c/e7d8f975-ac2f-4a71-9604-f1ec300eb8e5",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Pison",
+    "id": "1e4f9199-f2a1-426e-9ada-6141e6d73a46",
+    "title": "ML/Algo Data Science Intern",
+    "active": true,
+    "terms": [],
+    "date_updated": 1746733884,
+    "date_posted": 1746733884,
+    "url": "https://jobs.lever.co/pison/5dbb6f63-ea02-4c76-9169-59d94f3a9c85/apply",
+    "locations": [
+      "Boston, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/PisonTech",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Exact Sciences",
+    "id": "b6d7c825-6966-4d69-9c44-bf6f54a4a254",
+    "title": "PO Marketing Analytics Intern",
+    "active": true,
+    "terms": [],
+    "date_updated": 1746732666,
+    "date_posted": 1746732666,
+    "url": "https://exactsciences.wd1.myworkdayjobs.com/Exact_Sciences/job/US---CA---San-Diego/PO-Marketing-Analytics-Intern_R24-7099",
+    "locations": [
+      "San Diego, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Exact-Sciences",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Lumentum",
+    "id": "d7a9b45f-79d0-40f3-a507-73be684862e2",
+    "title": "Embedded Software Engineer Co-op/Intern",
+    "active": true,
+    "terms": [
+      "Fall 2025",
+      "Spring 2026"
+    ],
+    "date_updated": 1746733784,
+    "date_posted": 1746733784,
+    "url": "https://lumentum.wd5.myworkdayjobs.com/en-US/LITE/job/Canada---Ottawa-Bill-Leathem/Embedded-Software-Engineer-Co-op-Intern_2025747",
+    "locations": [
+      "Ottawa, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/0985b121-88fd-4402-aea9-c0c55bfbbc99",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Nokia",
+    "id": "18a02e9d-e037-481e-b726-d6cdef4d9425",
+    "title": "Session Border Controller R&D Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1746730734,
+    "date_posted": 1746730734,
+    "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/20681",
+    "locations": [
+      "Naperville, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/Nokia",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
