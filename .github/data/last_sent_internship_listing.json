@@ -79102,5 +79102,28 @@
     "company_url": "https://simplify.jobs/c/Activision-Blizzard",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Tesla",
+    "id": "18b47e8d-cdc6-4e71-a484-8c97cd467149",
+    "title": "Internship - ML Performance Software Engineer - Dojo",
+    "active": true,
+    "terms": [
+      "Summer 2025",
+      "Fall 2025",
+      "Winter 2026",
+      "Spring 2026"
+    ],
+    "date_updated": 1746771431,
+    "date_posted": 1746771431,
+    "url": "https://www.tesla.com/careers/search/job/242741",
+    "locations": [
+      "Palo Alto, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Tesla",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
