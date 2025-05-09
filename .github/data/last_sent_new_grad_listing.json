@@ -12023,5 +12023,39 @@
     "company_url": "https://simplify.jobs/c/Cadence-Design-Systems",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "RTX",
+    "id": "e301f303-51bf-4f05-ad53-0e2acb8aec77",
+    "title": "Embedded Cybersecurity Software Engineer I",
+    "active": true,
+    "date_updated": 1746737744,
+    "date_posted": 1746737744,
+    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/HIA32-Cedar-Rapids-IA-400-Collins-Rd-NE---Cedar-Rapids-IA-52498-0505-USA/Embedded-Cybersecurity-Software-Engineer-I--Onsite-_01767038",
+    "locations": [
+      "Cedar Rapids, IA"
+    ],
+    "company_url": "https://simplify.jobs/c/RTX",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Amentum",
+    "id": "81381128-7fa7-4edc-888e-63057efd025b",
+    "title": "Entry Level Software Developer",
+    "active": true,
+    "date_updated": 1746731824,
+    "date_posted": 1746731824,
+    "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/Entry-Level-Software-Developer_R0138996",
+    "locations": [
+      "Dahlgren, VA"
+    ],
+    "company_url": "https://simplify.jobs/c/4310804e-f9a0-44e7-b26f-51ecd2a9237d",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
