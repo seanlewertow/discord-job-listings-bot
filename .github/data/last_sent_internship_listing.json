@@ -79496,5 +79496,25 @@
     "company_url": "https://simplify.jobs/c/Robinhood",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Leidos",
+    "id": "d6a5c972-927f-4cf0-8442-d9518af88ce2",
+    "title": "Software Engineering Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1746839635,
+    "date_posted": 1746839635,
+    "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Arlington-VA/Software-Engineering-Intern_R-00159046",
+    "locations": [
+      "Arlington, VA"
+    ],
+    "company_url": "https://simplify.jobs/c/Leidos",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
