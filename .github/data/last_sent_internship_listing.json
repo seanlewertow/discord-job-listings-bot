@@ -79401,5 +79401,23 @@
     "company_url": "https://simplify.jobs/c/American-Axle-And-Manufacturing",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Commure",
+    "id": "347065aa-15f4-4573-a2c6-71e3dd129d1f",
+    "title": "Software Engineering Intern - Rcm Core",
+    "active": true,
+    "terms": [],
+    "date_updated": 1746846561,
+    "date_posted": 1746846561,
+    "url": "https://jobs.ashbyhq.com/Commure-Athelas/b48a9b63-c86d-4ddb-8212-32d598bdbecd/application",
+    "locations": [
+      "Mountain View, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Commure",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
