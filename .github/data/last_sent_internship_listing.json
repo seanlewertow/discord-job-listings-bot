@@ -79419,5 +79419,82 @@
     "company_url": "https://simplify.jobs/c/Commure",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Altera Corporation",
+    "id": "3fc3816e-8f1a-4523-8ca2-36c0e6b4b104",
+    "title": "FPGA IP Software Development Engineer-Intern",
+    "active": true,
+    "terms": [],
+    "date_updated": 1746833673,
+    "date_posted": 1746833673,
+    "url": "https://altera.wd1.myworkdayjobs.com/altera/job/California-United-States-Remote/FPGA-IP-Software-Development-Engineer-Intern_R00764",
+    "locations": [
+      "California"
+    ],
+    "company_url": "https://simplify.jobs/c/Altera-Corporation",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Lightcast",
+    "id": "6aef88a5-5ce7-4e67-958a-7747d93b9dac",
+    "title": "Software Engineering Intern",
+    "active": true,
+    "terms": [],
+    "date_updated": 1746833108,
+    "date_posted": 1746833108,
+    "url": "https://jobs.lever.co/economicmodeling/4d61f491-69d0-498c-891f-7833b0f09368/apply",
+    "locations": [
+      "Moscow, ID"
+    ],
+    "company_url": "https://simplify.jobs/c/Lightcast",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Activision-Blizzard",
+    "id": "9d2af5f7-3875-4228-8e42-009a484801c6",
+    "title": "2025 Summer Internships - AI Engineering - Infinity Ward",
+    "active": true,
+    "terms": [
+      "Summer 2025",
+      "Fall 2025"
+    ],
+    "date_updated": 1746833141,
+    "date_posted": 1746833141,
+    "url": "https://activision.wd1.myworkdayjobs.com/External/job/Woodland-Hills/XMLNAME-2025-US-Summer-Internships---AI-Engineering---Infinity-Ward_R025309",
+    "locations": [
+      "Canoga Park, LA"
+    ],
+    "company_url": "https://simplify.jobs/c/Activision-Blizzard",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Robinhood",
+    "id": "1755cada-9e4f-49ef-823d-82b93fe9be4e",
+    "title": "Software Developer Intern/Co-op - Backend",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1746822525,
+    "date_posted": 1746822525,
+    "url": "https://boards.greenhouse.io/robinhood/jobs/6860546",
+    "locations": [
+      "Toronto, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Robinhood",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
