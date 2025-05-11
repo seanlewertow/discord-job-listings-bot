@@ -79535,5 +79535,68 @@
     "date_posted": 1746936163,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Snowflake",
+    "id": "5dda7456-42fc-4491-bb92-951c209d5305",
+    "title": "Software Engineer Intern - Infrastructure Automation",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1746988695,
+    "date_posted": 1746988695,
+    "url": "https://jobs.ashbyhq.com/snowflake/f823b018-3c74-4496-87af-a64824ea577c/application",
+    "locations": [
+      "Menlo Park, CA",
+      "Bellevue, WA"
+    ],
+    "company_url": "https://simplify.jobs/c/Snowflake",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Snowflake",
+    "id": "d0eac7e8-168e-442f-8e5c-9aa2435cb12a",
+    "title": "Software Engineer Intern - Database Engineering",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1746988694,
+    "date_posted": 1746988694,
+    "url": "https://jobs.ashbyhq.com/snowflake/7833663e-efb0-4530-b658-b9139ee48753/application",
+    "locations": [
+      "Menlo Park, CA",
+      "Bellevue, WA"
+    ],
+    "company_url": "https://simplify.jobs/c/Snowflake",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Snowflake",
+    "id": "8908bc7c-845d-4be9-a818-9d1707be4465",
+    "title": "Software Engineer Intern - Core Engineering",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1746988692,
+    "date_posted": 1746988692,
+    "url": "https://jobs.ashbyhq.com/snowflake/d606671f-ab0c-4305-b901-cdd4e66dea76/application",
+    "locations": [
+      "Menlo Park, CA",
+      "Bellevue, WA"
+    ],
+    "company_url": "https://simplify.jobs/c/Snowflake",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
