@@ -79516,5 +79516,24 @@
     "company_url": "https://simplify.jobs/c/Leidos",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "date_updated": 1746936163,
+    "url": "https://entrust.wd1.myworkdayjobs.com/EntrustCareers/job/Canada---Ottawa/XMLNAME--Intern---Software-Development----8-months---Hybrid-Ottawa_R003484",
+    "company_name": "Entrust",
+    "title": "Intern \u2013 Software Development",
+    "locations": [
+      "Ottawa, Ontario, Canada"
+    ],
+    "terms": [
+      "Fall 2025"
+    ],
+    "sponsorship": "Does Not Offer Sponsorship",
+    "active": true,
+    "source": "GaryZhous",
+    "id": "3d9a8e8b-9036-48f5-ab94-ee151b4728d9",
+    "date_posted": 1746936163,
+    "company_url": "",
+    "is_visible": true
   }
 ]
