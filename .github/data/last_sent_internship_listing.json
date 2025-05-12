@@ -79617,5 +79617,44 @@
     "date_posted": 1747025392,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Lucid Motors",
+    "id": "ca3b30cf-6a3d-42c5-8b39-03c59fe0fcd1",
+    "title": "Fleet Operations Analytics Intern",
+    "active": true,
+    "terms": [],
+    "date_updated": 1747084579,
+    "date_posted": 1747084579,
+    "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/4732575007",
+    "locations": [
+      "Saratoga County, NY"
+    ],
+    "company_url": "https://simplify.jobs/c/Lucid-Motors",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Nokia",
+    "id": "d2a18477-34b8-4a56-b349-fc552f0345dd",
+    "title": "Special Projects Software Dev Coop",
+    "active": true,
+    "terms": [
+      "Fall 2025",
+      "Winter 2025"
+    ],
+    "date_updated": 1747084473,
+    "date_posted": 1747084473,
+    "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/20430",
+    "locations": [
+      "Naperville, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/Nokia",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
