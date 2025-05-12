@@ -79832,5 +79832,23 @@
     "company_url": "https://simplify.jobs/c/SP-Global",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "FGS Global",
+    "id": "fe3d02da-b60c-44aa-80a0-485ed2ca549b",
+    "title": "Intern \u2013 Data Science",
+    "active": true,
+    "terms": [],
+    "date_updated": 1747093175,
+    "date_posted": 1747093175,
+    "url": "https://job-boards.greenhouse.io/fgsglobal/jobs/4733009007",
+    "locations": [
+      "Washington, DC"
+    ],
+    "company_url": "https://simplify.jobs/c/FGS-Global",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
