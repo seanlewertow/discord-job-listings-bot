@@ -79814,5 +79814,23 @@
     "company_url": "https://simplify.jobs/c/Badger-Meter",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "S&P Global ",
+    "id": "6b632614-f5fe-4802-9c4a-911f3ab78256",
+    "title": "Software Engineer Intern",
+    "active": true,
+    "terms": [],
+    "date_updated": 1747090567,
+    "date_posted": 1747090567,
+    "url": "https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Careers/job/New-York-NY/Software-Engineer-Intern_315811-1",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/SP-Global",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
