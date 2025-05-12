@@ -79776,5 +79776,43 @@
     "company_url": "https://simplify.jobs/c/Cibc",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Badger Meter",
+    "id": "b5486b82-5af1-4e28-84eb-553c1f5cac8c",
+    "title": "Software Engineering Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1747089924,
+    "date_posted": 1747089924,
+    "url": "https://badgermeter.wd5.myworkdayjobs.com/US_CareerSite/job/US----CA---Escondido-Facility/Software-Engineering-Intern_3856",
+    "locations": [
+      "Escondido, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Badger-Meter",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Badger Meter",
+    "id": "6c4acb3a-89a3-4c0e-9b33-aa7f01af16ff",
+    "title": "Software Engineering Intern",
+    "active": true,
+    "terms": [],
+    "date_updated": 1747089923,
+    "date_posted": 1747089923,
+    "url": "https://badgermeter.wd5.myworkdayjobs.com/US_CareerSite/job/US---FL---Melbourne-Facility/Software-Engineering-Intern_3855",
+    "locations": [
+      "Melbourne, FL"
+    ],
+    "company_url": "https://simplify.jobs/c/Badger-Meter",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
