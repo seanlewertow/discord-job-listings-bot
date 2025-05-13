@@ -12232,5 +12232,22 @@
     "company_url": "https://simplify.jobs/c/Jerry",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Chewy",
+    "id": "21adeb8b-b57d-4177-85e7-4102ac65a349",
+    "title": "Software Engineer I",
+    "active": true,
+    "date_updated": 1747155009,
+    "date_posted": 1747155009,
+    "url": "https://boards.greenhouse.io/embed/job_app?token=6862212",
+    "locations": [
+      "Boston, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/Chewy",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
