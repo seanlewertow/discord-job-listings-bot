@@ -79987,5 +79987,23 @@
     "company_url": "https://simplify.jobs/c/Cibc",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Ripple",
+    "id": "f091d113-33fe-40d2-ab2e-880b8c7a42b2",
+    "title": "Software Engineer Intern - Custody",
+    "active": true,
+    "terms": [],
+    "date_updated": 1747169247,
+    "date_posted": 1747169247,
+    "url": "https://ripple.com/careers/all-jobs/job/6858576?gh_jid=6858576",
+    "locations": [
+      "SF"
+    ],
+    "company_url": "https://simplify.jobs/c/Ripple",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
