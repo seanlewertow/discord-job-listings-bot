@@ -79850,5 +79850,25 @@
     "company_url": "https://simplify.jobs/c/FGS-Global",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Cibc",
+    "id": "d273b330-9d39-49a3-b375-a4c4937012bc",
+    "title": "Software Developer Co-op",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1747094165,
+    "date_posted": 1747094165,
+    "url": "https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Software-Developer-Co-op_2511381",
+    "locations": [
+      "Toronto, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Cibc",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
