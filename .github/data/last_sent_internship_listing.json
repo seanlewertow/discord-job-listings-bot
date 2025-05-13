@@ -79889,5 +79889,103 @@
     "date_posted": 1747104015,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Ciena",
+    "id": "471d9b67-bcac-4b4b-896f-df6139930c67",
+    "title": "NPI Product Engineer Coop",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1747155971,
+    "date_posted": 1747155971,
+    "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Montreal/NPI-Product-Engineer-Coop--Summer-2025-_R027926",
+    "locations": [
+      "Montreal, QC, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Ciena",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Intel",
+    "id": "9d84c0fd-d1d7-4ef3-af6e-593b60e4c516",
+    "title": "Discrete Graphics Validation Internship",
+    "active": true,
+    "terms": [],
+    "date_updated": 1747097944,
+    "date_posted": 1747097944,
+    "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/Canada-Toronto/Discrete-Graphics-Validation-Internship_JR0274076",
+    "locations": [
+      "Toronto, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Intel",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Cibc",
+    "id": "f15359fa-b701-49d1-a79b-589ac88c3082",
+    "title": "Application/Software Developer Co-op - Personal Banking - Simplii & Direct Investing Technology",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1747097447,
+    "date_posted": 1747097447,
+    "url": "https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Application-Software-Developer-Co-op---Personal-Banking--Simplii---Direct-Investing-Technology_2511348",
+    "locations": [
+      "Toronto, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Cibc",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Cibc",
+    "id": "0b626d73-f595-40ea-b3f9-a789080545c7",
+    "title": "Production Application Support Co-op - Capital Markets Technology",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1747107417,
+    "date_posted": 1747107417,
+    "url": "https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Production-Application-Support-Co-op---Capital-Markets-Technology_2511388",
+    "locations": [
+      "Toronto, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Cibc",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Cibc",
+    "id": "e9846664-7d77-4a6f-882d-9678a92dd8ca",
+    "title": "Data Scientist Co-op - Enterprise Technology and Business Management",
+    "active": true,
+    "terms": [
+      "Spring 2025"
+    ],
+    "date_updated": 1747107411,
+    "date_posted": 1747107411,
+    "url": "https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Data-Scientist-Co-op---Enterprise-Technology-and-Business-Management_2511395",
+    "locations": [
+      "Toronto, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Cibc",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
