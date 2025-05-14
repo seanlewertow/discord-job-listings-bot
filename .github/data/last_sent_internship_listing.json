@@ -80167,5 +80167,46 @@
     "company_url": "https://simplify.jobs/c/Franklin-Templeton",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Weis Markets",
+    "id": "8932ea55-574a-4b2d-85a7-dc675ae330c9",
+    "title": "Merchandising Analytics Intern",
+    "active": true,
+    "terms": [
+      "N/A"
+    ],
+    "date_updated": 1747237960,
+    "date_posted": 1747237960,
+    "url": "https://weis.wd1.myworkdayjobs.com/careers/job/251---Sunbury-PA/Merchandising-Analytics-Intern_JR27768",
+    "locations": [
+      "Selinsgrove, PA"
+    ],
+    "company_url": "https://simplify.jobs/c/Weis-Markets",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Moog Inc",
+    "id": "16bd9acf-691a-42f5-841d-bd662ea36faa",
+    "title": "Intern \u2013 Product Engineering",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1747238933,
+    "date_posted": 1747238933,
+    "url": "https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Intern--Product-Engineering_R-25-12067",
+    "locations": [
+      "Boston, NY",
+      "Buffalo, NY"
+    ],
+    "company_url": "https://simplify.jobs/c/Moog-Inc",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
