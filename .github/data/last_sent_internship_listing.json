@@ -80208,5 +80208,25 @@
     "company_url": "https://simplify.jobs/c/Moog-Inc",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "The Joint Commission",
+    "id": "69057b14-77c5-4622-b0d7-97993f0b5143",
+    "title": "Software Development Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1747242788,
+    "date_posted": 1747242788,
+    "url": "https://careers-jointcommission.icims.com/jobs/6823/job",
+    "locations": [
+      "Lombard, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/The-Joint-Commission",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
