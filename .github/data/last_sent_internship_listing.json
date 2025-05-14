@@ -80228,5 +80228,45 @@
     "company_url": "https://simplify.jobs/c/The-Joint-Commission",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Cibc",
+    "id": "d5c7f4a3-a3f7-43a3-86e4-523c694d16e1",
+    "title": "Software Developer Co-op",
+    "active": true,
+    "terms": [
+      "N/A"
+    ],
+    "date_updated": 1747245019,
+    "date_posted": 1747245019,
+    "url": "https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Software-Developer-Co-op_2511514",
+    "locations": [
+      "Toronto, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Cibc",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Cibc",
+    "id": "c73bb065-6740-418b-87bc-5e1095edabba",
+    "title": "Systems and Process Analyst Co-op",
+    "active": true,
+    "terms": [
+      "N/A"
+    ],
+    "date_updated": 1747245012,
+    "date_posted": 1747245012,
+    "url": "https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Systems-and-Process-Analyst-Co-op_2511583",
+    "locations": [
+      "Toronto, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Cibc",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
