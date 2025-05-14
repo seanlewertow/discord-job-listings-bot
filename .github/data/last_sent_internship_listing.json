@@ -80310,5 +80310,26 @@
     "company_url": "https://simplify.jobs/c/Braze",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Marathon Petroleum",
+    "id": "3f8ab7cf-6061-45f7-972a-99a70c41f253",
+    "title": "Intern/Co-op - Gathering and Processing Measurement Data Support",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1747261195,
+    "date_posted": 1747261195,
+    "url": "https://mpc.wd1.myworkdayjobs.com/en-US/MPCCareers/job/San-Antonio-Texas/Intern-Co-op---Gathering-and-Processing-Measurement-Data-Support--Fall-2025-_00016826",
+    "locations": [
+      "San Antonio, TX",
+      "Denver, CO"
+    ],
+    "company_url": "https://simplify.jobs/c/Marathon-Petroleum",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
