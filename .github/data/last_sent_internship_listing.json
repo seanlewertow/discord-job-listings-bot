@@ -80371,5 +80371,25 @@
     "company_url": "https://simplify.jobs/c/SentinelOne",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Cibc",
+    "id": "7bfe7822-eb47-40a5-8106-72ad51aae638",
+    "title": "Analytics Co-Op",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1747264373,
+    "date_posted": 1747264373,
+    "url": "https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Simplii-Financial--Analytics-Fall-2025-Co-Op--8-Months-_2511608",
+    "locations": [
+      "Toronto, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Cibc",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
