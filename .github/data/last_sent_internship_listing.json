@@ -80146,5 +80146,26 @@
     "company_url": "https://simplify.jobs/c/Sony-Pictures-Imageworks",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Franklin Templeton",
+    "id": "120c3367-837f-4159-b843-1cab33d23c90",
+    "title": "FTT Digital Technology \u2013 Undergrad Intern - AI",
+    "active": true,
+    "terms": [
+      "N/A"
+    ],
+    "date_updated": 1747196941,
+    "date_posted": 1747196941,
+    "url": "https://franklintempleton.wd5.myworkdayjobs.com/invitation-only/job/San-Ramon-California-United-States-of-America/FTT-Digital-Technology---AI---Undergrad-Intern_862681",
+    "locations": [
+      "San Ramon, CA",
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Franklin-Templeton",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
