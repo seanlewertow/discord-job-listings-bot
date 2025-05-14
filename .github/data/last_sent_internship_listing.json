@@ -80026,5 +80026,105 @@
     "company_url": "https://simplify.jobs/c/RTX",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Uber",
+    "id": "6b50b53a-2202-4f0b-a885-d574b9fb4f5c",
+    "title": "Software Engineer Internship",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1747185667,
+    "date_posted": 1747185667,
+    "url": "https://university-uber.icims.com/jobs/143882/job",
+    "locations": [
+      "SF"
+    ],
+    "company_url": "https://simplify.jobs/c/Uber",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Intel",
+    "id": "7cf7d1f4-0fa9-41c9-b5e1-78ee0a09f4a0",
+    "title": "ASIC Implementation Co-op",
+    "active": true,
+    "terms": [
+      "N/A"
+    ],
+    "date_updated": 1747186715,
+    "date_posted": 1747186715,
+    "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/Virtual-Canada/ASIC-Implementation-Co-op_JR0275612",
+    "locations": [
+      "Remote in Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Intel",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "LeanTaaS",
+    "id": "e1af1b6b-0216-4387-863a-81fc327ba0eb",
+    "title": "Information Systems Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1747187774,
+    "date_posted": 1747187774,
+    "url": "https://jobs.lever.co/leantaas/aacef552-26fc-4e9b-bf05-0468682c8b9c/apply",
+    "locations": [
+      "Santa Clara, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/LeanTaaS",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "HARMAN International",
+    "id": "9993b836-a027-4c94-b418-57026c46836d",
+    "title": "Summer Intern - Software Engineer",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1747188939,
+    "date_posted": 1747188939,
+    "url": "https://harman.wd3.myworkdayjobs.com/HARMAN/job/Richardson---Texas-USA/Summer-Intern---Software-Engineer_R-45005-2025-1",
+    "locations": [
+      "Richardson, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/HARMAN-International",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Johnson Brothers Liquor Company",
+    "id": "5a621c1d-7381-4933-a65e-6fe526175b93",
+    "title": "Data Mapping & Process Analyst Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1747189258,
+    "date_posted": 1747189258,
+    "url": "https://johnsonbrothers.wd5.myworkdayjobs.com/johnsonbrothers/job/St-Paul-MN/Data-Mapping---Process-Analyst-Intern_R-250429-645-1",
+    "locations": [
+      "St Paul, MN"
+    ],
+    "company_url": "https://simplify.jobs/c/Johnson-Brothers-Liquor-Company",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
