@@ -80268,5 +80268,47 @@
     "company_url": "https://simplify.jobs/c/Cibc",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Ciena",
+    "id": "8b66467c-d77d-40fc-a7be-3e6757c307c1",
+    "title": "Hardware Design Co-Op",
+    "active": true,
+    "terms": [
+      "Fall 2025",
+      "Winter 2025"
+    ],
+    "date_updated": 1747247059,
+    "date_posted": 1747247059,
+    "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Hardware-Design-Co-Op--Sept-2025-_R027961",
+    "locations": [
+      "Ottawa, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Ciena",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Braze",
+    "id": "4bc301ad-139f-40c9-b973-8f32bb064ae1",
+    "title": "Growth Engineering Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025",
+      "Fall 2025"
+    ],
+    "date_updated": 1747246904,
+    "date_posted": 1747246904,
+    "url": "https://boards.greenhouse.io/braze/jobs/6887583",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Braze",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
