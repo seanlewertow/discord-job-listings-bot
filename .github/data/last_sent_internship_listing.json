@@ -80126,5 +80126,25 @@
     "company_url": "https://simplify.jobs/c/Johnson-Brothers-Liquor-Company",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Sony Pictures Imageworks",
+    "id": "eaefad4f-6e23-44a5-b71f-f2e5e65865fd",
+    "title": "Software Engineer \u2013 Co-op",
+    "active": true,
+    "terms": [
+      "N/A"
+    ],
+    "date_updated": 1747194295,
+    "date_posted": 1747194295,
+    "url": "https://job-boards.greenhouse.io/sonypicturesimageworks/jobs/6575157003",
+    "locations": [
+      "Vancouver, BC, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Sony-Pictures-Imageworks",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
