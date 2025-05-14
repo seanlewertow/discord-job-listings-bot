@@ -80331,5 +80331,45 @@
     "company_url": "https://simplify.jobs/c/Marathon-Petroleum",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Manulife",
+    "id": "7446da85-9c9f-4ab9-8dba-b24eb8a02fc0",
+    "title": "Business Intelligence Analyst Co-op",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1747262707,
+    "date_posted": 1747262707,
+    "url": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_AdminJobs/job/Waterloo-Ontario/Business-Intelligence-Analyst-Co-op---Fall-Winter-2025--8-Months-_JR25050909",
+    "locations": [
+      "Kitchener, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/acb6271e-e26a-401d-befe-547f56e287b5",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "SentinelOne",
+    "id": "51445576-fb3d-44a0-96ea-90b92c7aafc3",
+    "title": "TA Data Analyst Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1747262628,
+    "date_posted": 1747262628,
+    "url": "https://www.sentinelone.com/jobs/6571632003?gh_jid=6571632003",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/SentinelOne",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
