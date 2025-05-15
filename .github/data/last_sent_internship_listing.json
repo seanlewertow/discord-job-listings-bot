@@ -80432,5 +80432,46 @@
     "company_url": "https://simplify.jobs/c/SP-Global",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Brex",
+    "id": "81d7ccda-dfee-4208-92db-ed4f57441699",
+    "title": "Software Engineer \u2013 Intern",
+    "active": true,
+    "terms": [
+      "Fall 2025",
+      "Winter 2025"
+    ],
+    "date_updated": 1747273333,
+    "date_posted": 1747273333,
+    "url": "https://www.brex.com/careers/7985666002?gh_jid=7985666002",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Brex",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "ChargePoint",
+    "id": "562b87c3-5f3e-4aec-972f-03419f369bdd",
+    "title": "Software Engineering \u2013 Intern",
+    "active": true,
+    "terms": [
+      "N/A"
+    ],
+    "date_updated": 1747276545,
+    "date_posted": 1747276545,
+    "url": "https://www.chargepoint.com/about/opportunities/job/?gh_jid=7979604002",
+    "locations": [
+      "Los Gatos, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/ChargePoint",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
