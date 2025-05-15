@@ -80534,5 +80534,26 @@
     "company_url": "https://simplify.jobs/c/Alice-L-Walton-School-Of-Medicine",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Amgen",
+    "id": "ce4bd948-2c14-46f1-a057-d5875bcd7e9a",
+    "title": "Undergraduate / Graduate Co-op Student - Software Engineer - Large Molecule Discovery - Technology",
+    "active": true,
+    "terms": [
+      "Fall 2025",
+      "Spring 2026"
+    ],
+    "date_updated": 1747328724,
+    "date_posted": 1747328724,
+    "url": "https://amgen.wd1.myworkdayjobs.com/careers/job/Canada---Burnaby/Undergraduate---Graduate-Co-op-Student---Software-Engineer---Large-Molecule-Discovery---Technology_R-215434",
+    "locations": [
+      "Burnaby, BC, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Amgen",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
