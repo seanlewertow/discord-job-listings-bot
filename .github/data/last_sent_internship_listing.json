@@ -80473,5 +80473,24 @@
     "company_url": "https://simplify.jobs/c/ChargePoint",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "date_updated": 1747281975,
+    "url": "https://careers-cadent.icims.com/jobs/1186/backend-engineer-intern/job",
+    "company_name": "Cadent",
+    "title": "Backend Engineer Intern",
+    "locations": [
+      "New York, NY"
+    ],
+    "terms": [
+      "Fall 2025"
+    ],
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "source": "GaryZhous",
+    "id": "8ec93f77-38f3-4159-89c4-8e6aa8e83ddb",
+    "date_posted": 1747281975,
+    "company_url": "",
+    "is_visible": true
   }
 ]
