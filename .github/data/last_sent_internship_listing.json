@@ -80391,5 +80391,46 @@
     "company_url": "https://simplify.jobs/c/Cibc",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Northrop Grumman",
+    "id": "e0eeb656-fb7d-420c-bb78-b8a74e1af9b1",
+    "title": "2025 Software Engineer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1747266654,
+    "date_posted": 1747266654,
+    "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Virginia-Falls-Church/XMLNAME-2025-Software-Engineer-Intern---Remote-or-Falls-Church-VA_R10195423",
+    "locations": [
+      "Remote in USA",
+      "Arlington, VA"
+    ],
+    "company_url": "https://simplify.jobs/c/238c95d8-0d6e-4717-b28c-078b16d675d7",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "S&P Global ",
+    "id": "0ff0a682-e2bb-48c4-96ff-e9105bed3836",
+    "title": "Full Stack Developer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1747267579,
+    "date_posted": 1747267579,
+    "url": "https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Careers/job/New-York-NY/Full-Stack-Developer-Intern_316055-1",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/SP-Global",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
