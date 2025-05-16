@@ -80716,5 +80716,48 @@
     "company_url": "https://simplify.jobs/c/Bloom-Energy",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Caribou Financial",
+    "id": "0d8b822f-41da-4d36-982b-c08eeb9f6e9f",
+    "title": "Data Science Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1747360020,
+    "date_posted": 1747360020,
+    "url": "https://job-boards.greenhouse.io/caribou/jobs/6571559003",
+    "locations": [
+      "SF",
+      "Chicago, IL",
+      "Denver, CO"
+    ],
+    "company_url": "https://simplify.jobs/c/43633ba6-edf5-4998-bd88-8b2ebcf8542e",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "NVIDIA",
+    "id": "0ab38358-eb77-44ef-b7b4-25370409a428",
+    "title": "Camera Systems Software Engineering Intern",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1747363449,
+    "date_posted": 1747363449,
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-TX-Austin/Camera-Systems-Software-Engineering-Intern---Fall-2025_JR1993696",
+    "locations": [
+      "Austin, TX",
+      "Santa Clara, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/NVIDIA",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
