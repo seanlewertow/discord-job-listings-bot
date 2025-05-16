@@ -80839,5 +80839,26 @@
     "company_url": "https://simplify.jobs/c/ASML",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "RTX",
+    "id": "a70cb287-d1a0-41fb-a71f-7b8a9ea0fc15",
+    "title": "Stage Automne-Support aux projets Donn\u00e9es Clients / Internship Fall-Support to Customer Master",
+    "active": true,
+    "terms": [
+      "Fall 2025",
+      "Winter 2025"
+    ],
+    "date_updated": 1747326987,
+    "date_posted": 1747326987,
+    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/LOC13052-1000-Boul-Marie-VictorinLongueuilQuebecJ4G-1A1Canada/Stage-Automne-Support-aux-projets-Donnes-Clients---Internship-Fall-Support-to-Customer-Master-Data-projects_01767963",
+    "locations": [
+      "Longueuil, QC, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/RTX",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
