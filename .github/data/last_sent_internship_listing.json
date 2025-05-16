@@ -80819,5 +80819,25 @@
     "company_url": "https://simplify.jobs/c/NVIDIA",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "ASML",
+    "id": "35f9ac51-46c7-45d2-b581-8b9ad7b859a6",
+    "title": "Internship - Data Science and Image Processing",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1747325980,
+    "date_posted": 1747325980,
+    "url": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/Wilton-CT-USA/Internship---Data-Science-and-Image-Processing_J-00307994",
+    "locations": [
+      "Wilton, CT"
+    ],
+    "company_url": "https://simplify.jobs/c/ASML",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
