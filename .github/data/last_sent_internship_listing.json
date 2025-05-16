@@ -80860,5 +80860,25 @@
     "company_url": "https://simplify.jobs/c/RTX",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Keyrock",
+    "id": "51b82aae-157e-4d8c-8bf0-9f67c492f675",
+    "title": "Trading Operations Specialist",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1747324001,
+    "date_posted": 1747324001,
+    "url": "https://jobs.ashbyhq.com/keyrock/ed332b4c-81cb-4065-8d31-196e8687c2a0/application",
+    "locations": [
+      "London, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Keyrock",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
