@@ -80960,5 +80960,46 @@
     "company_url": "https://simplify.jobs/c/Ciena",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "ConnectWise",
+    "id": "600a9cfc-a6eb-44c1-b1d6-1f0332d812bc",
+    "title": "Data Analytics Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1747424427,
+    "date_posted": 1747424427,
+    "url": "https://job-boards.greenhouse.io/connectwise/jobs/4511943005",
+    "locations": [
+      "Tampa, FL"
+    ],
+    "company_url": "https://simplify.jobs/c/ConnectWise",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "RTX",
+    "id": "dc94a419-8585-49e8-b7c8-816d37dfa23e",
+    "title": "Stage \u2013 Gestion de projets et d\u00e9veloppement d'outils d'analyse en qualit\u00e9 - Quality Project management and data analysis tool development",
+    "active": true,
+    "terms": [
+      "Fall 2025",
+      "Winter 2025"
+    ],
+    "date_updated": 1747424147,
+    "date_posted": 1747424147,
+    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/LOC13052-1000-Boul-Marie-VictorinLongueuilQuebecJ4G-1A1Canada/Stage---Automne-2025---Gestion-de-projets-et-dveloppement-d-outils-d-analyse-en-qualit---Internship---Fall-2025---Quality-Project-management-and-data-analysis-tool-development_01766979",
+    "locations": [
+      "Longueuil, QC, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/RTX",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
