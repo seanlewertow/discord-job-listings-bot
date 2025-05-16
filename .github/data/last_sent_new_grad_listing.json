@@ -12473,5 +12473,23 @@
     "company_url": "https://simplify.jobs/c/CACI",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Marqeta",
+    "id": "5415dfde-d4c9-4bc8-a0b4-98767647b837",
+    "title": "Software Engineer I - Transaction Engine Foundation",
+    "active": true,
+    "date_updated": 1747437835,
+    "date_posted": 1747437835,
+    "url": "https://job-boards.greenhouse.io/marqeta/jobs/6832149",
+    "locations": [
+      "Toronto, ON, Canada",
+      "Vancouver, BC, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Marqeta",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
