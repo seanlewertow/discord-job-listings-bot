@@ -81001,5 +81001,25 @@
     "company_url": "https://simplify.jobs/c/RTX",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Bank of Montreal",
+    "id": "6ebec920-a6c8-4cca-900f-5733cbd93e5e",
+    "title": "Analyst \u2013 Co-op/Internship - People Analytics",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1747438592,
+    "date_posted": 1747438592,
+    "url": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Analyst--People-Analytics---Fall-2025--Co-op-Internship----4-Months_R250013180",
+    "locations": [
+      "Toronto, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/BMO",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
