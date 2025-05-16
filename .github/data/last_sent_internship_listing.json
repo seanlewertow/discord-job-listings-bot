@@ -80656,5 +80656,65 @@
     "company_url": "https://simplify.jobs/c/Cibc",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "S&P Global ",
+    "id": "5959704a-920a-4913-a38b-2e016c8d2136",
+    "title": "AI Product Analyst Intern - Early Careers",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1747354820,
+    "date_posted": 1747354820,
+    "url": "https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Careers/job/Princeton-NJ/AI-Product-Analyst-Intern--Early-Careers-_309872-1",
+    "locations": [
+      "Princeton, NJ"
+    ],
+    "company_url": "https://simplify.jobs/c/SP-Global",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Bloom Energy",
+    "id": "9dc33f72-a361-4e75-9458-27d6f576b6d3",
+    "title": "Business Data Analyst Intern - Indirect Commodity",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1747358817,
+    "date_posted": 1747358817,
+    "url": "https://bloomenergy.wd1.myworkdayjobs.com/bloomenergycareers/job/San-Jose-California/Business-Data-Analyst-Intern----Indirect-Commodity_JR-19760",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Bloom-Energy",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Bloom Energy",
+    "id": "4e884648-83b5-49c6-bfd8-e0de54356e26",
+    "title": "Business Data Science Intern - Indirect Commodity & Purchasing",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1747358822,
+    "date_posted": 1747358822,
+    "url": "https://bloomenergy.wd1.myworkdayjobs.com/bloomenergycareers/job/San-Jose-California/Business-Data-Science-Intern---Indirect-Commodity---Purchasing_JR-19757",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Bloom-Energy",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
