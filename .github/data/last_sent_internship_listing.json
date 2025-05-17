@@ -81021,5 +81021,65 @@
     "company_url": "https://simplify.jobs/c/BMO",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "NVIDIA",
+    "id": "8b897957-ab38-426a-b656-6ebaa6f51deb",
+    "title": "Compute Systems Software Intern",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1747440675,
+    "date_posted": 1747440675,
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Compute-Systems-Software-Intern---Fall-2025_JR1997349",
+    "locations": [
+      "Santa Clara, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/NVIDIA",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "NVIDIA",
+    "id": "60b1539d-576c-483b-8305-b360b7fcfaf2",
+    "title": "Software Engineer \u2013 Fleet Health Instrumentation Intern",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1747440465,
+    "date_posted": 1747440465,
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Software-Engineer--Fleet-Health-Instrumentation-Intern---Fall-2025_JR1997488",
+    "locations": [
+      "Santa Clara, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/NVIDIA",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "NVIDIA",
+    "id": "52dcd048-8054-4e36-a696-e7689169c9c0",
+    "title": "Deep Learning Server Software Intern - Dgx",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1747440462,
+    "date_posted": 1747440462,
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Deep-Learning-Server-Software-Intern--DGX---Fall-2025_JR1990592",
+    "locations": [
+      "Santa Clara, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/NVIDIA",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
