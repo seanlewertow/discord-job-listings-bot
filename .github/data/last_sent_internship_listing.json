@@ -81143,5 +81143,65 @@
     "company_url": "https://simplify.jobs/c/NVIDIA",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "NVIDIA",
+    "id": "709e0beb-1d4e-43f7-a5f1-2362be53075d",
+    "title": "Vulkan Driver Performance Intern",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1747450812,
+    "date_posted": 1747450812,
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Vulkan-Driver-Performance-Intern---Fall-2025_JR1996994",
+    "locations": [
+      "Santa Clara, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/NVIDIA",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Commure",
+    "id": "a763cc2d-d131-4a38-aa97-1a74b032ce73",
+    "title": "Software Engineering Intern - Integrations",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1747449544,
+    "date_posted": 1747449544,
+    "url": "https://jobs.ashbyhq.com/Commure-Athelas/9e061037-6cb3-423e-9f90-3cd29f90829c/application",
+    "locations": [
+      "Mountain View, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Commure",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "AppLovin",
+    "id": "25853a9a-8b6d-4846-ac95-cc1965956a2b",
+    "title": "Backend Software Engineering Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1747449527,
+    "date_posted": 1747449527,
+    "url": "https://boards.greenhouse.io/applovin/jobs/4568800006",
+    "locations": [
+      "Toronto, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/AppLovin",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
