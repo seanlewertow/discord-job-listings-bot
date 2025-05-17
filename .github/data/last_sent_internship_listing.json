@@ -81081,5 +81081,47 @@
     "company_url": "https://simplify.jobs/c/NVIDIA",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Envoy",
+    "id": "0d017010-c888-4a87-b43d-3b1d2d5abc6b",
+    "title": "Data Analyst Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025",
+      "Fall 2025",
+      "Winter 2025"
+    ],
+    "date_updated": 1747446952,
+    "date_posted": 1747446952,
+    "url": "https://job-boards.greenhouse.io/envoy/jobs/7959334002",
+    "locations": [
+      "SF"
+    ],
+    "company_url": "https://simplify.jobs/c/Envoy",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "RTX",
+    "id": "21ed4bd6-474c-45f7-99ef-766bb81d5473",
+    "title": "Stage \u2013 Science des donn\u00e9es et Analytique d\u2019affaires / Internship - Data Science and Business Analytics",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1747437106,
+    "date_posted": 1747437106,
+    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/LOC13052-1000-Boul-Marie-VictorinLongueuilQuebecJ4G-1A1Canada/Stage---Automne-2025---Science-des-donnes-et-Analytique-d-affaires---Internship---Fall-2025---Data-Science-and-Business-Analytics_01768200",
+    "locations": [
+      "Longueuil, QC, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/RTX",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
