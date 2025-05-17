@@ -81123,5 +81123,25 @@
     "company_url": "https://simplify.jobs/c/RTX",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "NVIDIA",
+    "id": "4223e23c-1766-4f6f-a307-912f29f279bf",
+    "title": "System Software Intern - Power Management",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1747450819,
+    "date_posted": 1747450819,
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-CA-Santa-Clara/System-Software-Intern--Power-Management---Fall-2025_JR1991268",
+    "locations": [
+      "Santa Clara, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/NVIDIA",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
