@@ -81203,5 +81203,25 @@
     "company_url": "https://simplify.jobs/c/AppLovin",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "FOX",
+    "id": "817544e3-8e5a-434f-b199-daaac9a40815",
+    "title": "Fall 2025 FOX News Media Internship Program - Data Analytics",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1747639013,
+    "date_posted": 1747639013,
+    "url": "https://fox.wd1.myworkdayjobs.com/Domestic/job/New-York-New-York-USA/Fall-2025-FOX-News-Media-Internship-Program---Data-Analytics---New-York_R50028891",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Fox",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
