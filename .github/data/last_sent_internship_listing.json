@@ -81343,5 +81343,26 @@
     "company_url": "https://simplify.jobs/c/Fox",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Bloom Energy",
+    "id": "58f3f1bd-0812-4b70-be51-72b9023d0c7a",
+    "title": "Advanced Process Controls Intern",
+    "active": true,
+    "terms": [
+      "Winter 2024",
+      "Summer 2026"
+    ],
+    "date_updated": 1747693329,
+    "date_posted": 1747693329,
+    "url": "https://bloomenergy.wd1.myworkdayjobs.com/bloomenergycareers/job/San-Jose-California/Advanced-Process-Controls-Intern_JR-19738",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Bloom-Energy",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
