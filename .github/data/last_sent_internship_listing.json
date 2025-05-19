@@ -81283,5 +81283,65 @@
     "company_url": "https://simplify.jobs/c/Nextiva",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Ames Construction",
+    "id": "384740df-d429-408e-b667-c1238b8b31f0",
+    "title": "Data Analyst Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1747673531,
+    "date_posted": 1747673531,
+    "url": "https://amesconstruction.wd12.myworkdayjobs.com/ames/job/Burnsville-MN/Data-Analyst-Intern_JR1466",
+    "locations": [
+      "Burnsville, MN"
+    ],
+    "company_url": "https://simplify.jobs/c/Ames-Construction",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Transcarent",
+    "id": "48a02491-cfce-46e2-b53b-900e9ebe5015",
+    "title": "Data Engineering Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1747671038,
+    "date_posted": 1747671038,
+    "url": "https://boards.greenhouse.io/transcarent/jobs/5543472004",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "company_url": "https://simplify.jobs/c/Transcarent",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "FOX",
+    "id": "948359c4-4373-42f8-96b1-ed76f929329e",
+    "title": "Fall 2025 FOX Tech Internship Program",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1747673469,
+    "date_posted": 1747673469,
+    "url": "https://fox.wd1.myworkdayjobs.com/Domestic/job/USA---AZ---Tempe---2010-E-Centennial-Cir/Fall-2025-FOX-Tech-Internship-Program--Tempe--AZ_R50028841",
+    "locations": [
+      "Tempe, AZ"
+    ],
+    "company_url": "https://simplify.jobs/c/Fox",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
