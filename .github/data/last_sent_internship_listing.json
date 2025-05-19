@@ -81263,5 +81263,25 @@
     "company_url": "https://simplify.jobs/c/Leidos",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Nextiva",
+    "id": "9ec67b14-277d-4125-bf7b-d1618e3cd0fc",
+    "title": "Marketing Intern - LLM Optimization - AI SEO / GEO",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1747682122,
+    "date_posted": 1747682122,
+    "url": "https://www.nextiva.com/company/careers-listing?gh_jid=8002493002",
+    "locations": [
+      "Scottsdale, AZ"
+    ],
+    "company_url": "https://simplify.jobs/c/Nextiva",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
