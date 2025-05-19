@@ -81424,5 +81424,25 @@
     "company_url": "https://simplify.jobs/c/MaxarTech",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Nextracker",
+    "id": "44b1d424-e7f6-46e7-8efd-2d07e1791734",
+    "title": "Software Engineer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1747698390,
+    "date_posted": 1747698390,
+    "url": "https://nextracker.wd5.myworkdayjobs.com/nextracker_careers/job/Fremont-North-Bldg-California---USA/Software-Engineer-Intern_NX-1870",
+    "locations": [
+      "Fremont, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Nextracker",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
