@@ -81404,5 +81404,25 @@
     "company_url": "https://simplify.jobs/c/Lennar-Corporation",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Maxar Technologies",
+    "id": "25795b92-6cd0-4228-8a66-3598427e678e",
+    "title": "Intern \u2013 Software Developer - Test Focus",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1747695633,
+    "date_posted": 1747695633,
+    "url": "https://maxar.wd1.myworkdayjobs.com/maxar/job/Westminster-CO/Intern---Software-Developer--Test-Focus-_R22140",
+    "locations": [
+      "Westminster, CO"
+    ],
+    "company_url": "https://simplify.jobs/c/MaxarTech",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
