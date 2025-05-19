@@ -81364,5 +81364,45 @@
     "company_url": "https://simplify.jobs/c/Bloom-Energy",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Lennar Corporation",
+    "id": "3682fa8a-7082-4290-9127-cfb558b0f3f7",
+    "title": "Software Engineering Internship",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1747694538,
+    "date_posted": 1747694538,
+    "url": "https://lennar.wd1.myworkdayjobs.com/Lennar_Jobs/job/Harrisburg-PA---Virtual/Software-Engineering-Internship_R25_0000002463",
+    "locations": [
+      "Harrisburg, PA"
+    ],
+    "company_url": "https://simplify.jobs/c/Lennar-Corporation",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Lennar Corporation",
+    "id": "0ace7295-7e1a-49c5-810f-b62532e9133f",
+    "title": "Software Engineering Internship",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1747694534,
+    "date_posted": 1747694534,
+    "url": "https://lennar.wd1.myworkdayjobs.com/Lennar_Jobs/job/Sacramento-CA---Virtual/Software-Engineering-Internship_R25_0000002468",
+    "locations": [
+      "Sacramento, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Lennar-Corporation",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
