@@ -81570,5 +81570,26 @@
     "company_url": "https://simplify.jobs/c/be06ebc5-6942-48ad-b691-821e84f30f2b",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Snowflake",
+    "id": "b342a409-8748-4065-80bb-9318db8bf153",
+    "title": "Software Engineer Intern - Infrastructure Automation",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1747779496,
+    "date_posted": 1747779496,
+    "url": "https://jobs.ashbyhq.com/snowflake/5e9fc6ab-5043-4309-ad9c-0ced8cda7160/application",
+    "locations": [
+      "Menlo Park, CA",
+      "Bellevue, WA"
+    ],
+    "company_url": "https://simplify.jobs/c/Snowflake",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
