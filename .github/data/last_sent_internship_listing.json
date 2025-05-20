@@ -81591,5 +81591,25 @@
     "company_url": "https://simplify.jobs/c/Snowflake",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "American Electric Power",
+    "id": "77c20a3b-15b4-48f1-bdfd-ad357f3b3211",
+    "title": "Tech & Security Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1747781145,
+    "date_posted": 1747781145,
+    "url": "https://aep.wd1.myworkdayjobs.com/AEPCareerSite/job/Columbus-OH/Tech---Security-Intern_R8909",
+    "locations": [
+      "Columbus, OH"
+    ],
+    "company_url": "https://simplify.jobs/c/American-Electric-Power",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
