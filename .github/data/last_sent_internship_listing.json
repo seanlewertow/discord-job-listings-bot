@@ -81550,5 +81550,25 @@
     "company_url": "https://simplify.jobs/c/Qualtrics",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Intermountain Healthcare",
+    "id": "3fce120d-9f77-4e82-9469-08289d9e4264",
+    "title": "Data Analytics Summer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1747756797,
+    "date_posted": 1747756797,
+    "url": "https://imh.wd5.myworkdayjobs.com/en-US/IntermountainCareers/job/Key-Bank-Tower/Data-Analytics-Summer-Intern_R140584",
+    "locations": [
+      "Salt Lake City, UT"
+    ],
+    "company_url": "https://simplify.jobs/c/be06ebc5-6942-48ad-b691-821e84f30f2b",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
