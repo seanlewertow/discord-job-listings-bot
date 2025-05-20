@@ -81510,5 +81510,45 @@
     "company_url": "https://simplify.jobs/c/KBR",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Commure",
+    "id": "2e1a315d-3b18-4668-b6ec-9ea32a15dd58",
+    "title": "Software Engineering Intern-EHR",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1747767520,
+    "date_posted": 1747767520,
+    "url": "https://jobs.ashbyhq.com/Commure-Athelas/00eb6b02-3f86-4896-8e06-17df8c10fc8f/application",
+    "locations": [
+      "Mountain View, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Commure",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Qualtrics",
+    "id": "7429e56a-0a98-4cc8-97fc-2f18c877b735",
+    "title": "People Data Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1747767458,
+    "date_posted": 1747767458,
+    "url": "https://www.qualtrics.com/careers/us/en/job/6892645?gh_jid=6892645",
+    "locations": [
+      "Provo, UT"
+    ],
+    "company_url": "https://simplify.jobs/c/Qualtrics",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
