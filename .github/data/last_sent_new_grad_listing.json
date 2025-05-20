@@ -12543,5 +12543,91 @@
     "company_url": "https://simplify.jobs/c/Qualtrics",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Qualtrics",
+    "id": "7e9050f6-f6bf-472b-92ab-403c2006db12",
+    "title": "Software Development Engineer I - Customer Experience",
+    "active": true,
+    "date_updated": 1747698840,
+    "date_posted": 1747698840,
+    "url": "https://www.qualtrics.com/careers/us/en/job/6889008?gh_jid=6889008",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "company_url": "https://simplify.jobs/c/Qualtrics",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Jerry",
+    "id": "3c5e6c73-b394-459f-88ac-3bd2d8b1ab69",
+    "title": "Software Engineer I",
+    "active": true,
+    "date_updated": 1747699801,
+    "date_posted": 1747699801,
+    "url": "https://jobs.ashbyhq.com/Jerry/75040926-e7b5-464e-b837-60fbe77fa8a7/application",
+    "locations": [
+      "Toronto, ON, Canada",
+      "Greater Toronto Area, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Jerry",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Nordson",
+    "id": "a5e95be0-c6e3-41b1-ab2e-7e272394e79a",
+    "title": "Software Engineer I",
+    "active": true,
+    "date_updated": 1747699318,
+    "date_posted": 1747699318,
+    "url": "https://nordsonhcm.wd5.myworkdayjobs.com/en-US/nordsoncareers/job/USA---California---Carlsbad/Software-Engineer-I_REQ46133",
+    "locations": [
+      "Carlsbad, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/4a6d9a5a-25c4-4585-a0d2-0a1947c56003",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Jerry",
+    "id": "b7b42fdb-0cdf-423a-810c-aab27650fcd2",
+    "title": "Software Engineer I",
+    "active": true,
+    "date_updated": 1747701000,
+    "date_posted": 1747701000,
+    "url": "https://jobs.ashbyhq.com/Jerry/7c6f4247-f17f-4edf-9cd3-099d2263cb3a/application",
+    "locations": [
+      "SF"
+    ],
+    "company_url": "https://simplify.jobs/c/Jerry",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Medtronic",
+    "id": "ad6135de-d78b-42d7-8c7c-e1ae4e9ff086",
+    "title": "Software Engineer I - Neuro",
+    "active": true,
+    "date_updated": 1747702435,
+    "date_posted": 1747702435,
+    "url": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Minneapolis-Minnesota-United-States-of-America/Software-Engineer-I---Neuro_R31645-1",
+    "locations": [
+      "Minneapolis, MN"
+    ],
+    "company_url": "https://simplify.jobs/c/Medtronic",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
