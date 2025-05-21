@@ -81611,5 +81611,25 @@
     "company_url": "https://simplify.jobs/c/American-Electric-Power",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Copart",
+    "id": "078e6609-ddf3-47cd-ab2c-b223179e14b8",
+    "title": "Data Analytics Engineer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1747786528,
+    "date_posted": 1747786528,
+    "url": "https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Data-Analytics-Engineer-Intern_JR103050",
+    "locations": [
+      "Dallas, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Copart",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
