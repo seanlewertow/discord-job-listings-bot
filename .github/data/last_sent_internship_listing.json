@@ -81693,5 +81693,25 @@
     "company_url": "https://simplify.jobs/c/Nokia",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Pinterest",
+    "id": "cff03a38-09fd-45cc-9503-4ee4db0736c4",
+    "title": "Software Engineering Intern 2025",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1747869964,
+    "date_posted": 1747869964,
+    "url": "https://www.pinterestcareers.com/job-form?gh_jid=6868494",
+    "locations": [
+      "Toronto, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Pinterest",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
