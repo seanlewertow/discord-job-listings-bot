@@ -81631,5 +81631,25 @@
     "company_url": "https://simplify.jobs/c/Copart",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "World Surf League",
+    "id": "1cf60aac-f093-4edc-9d14-1642b6ab9a9a",
+    "title": "Intern \u2013 Digital",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1747797111,
+    "date_posted": 1747797111,
+    "url": "https://boards.greenhouse.io/worldsurfleague/jobs/8006391002",
+    "locations": [
+      "El Segundo, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/WorldSurfLeague",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
