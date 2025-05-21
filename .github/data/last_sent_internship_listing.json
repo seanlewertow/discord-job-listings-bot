@@ -81713,5 +81713,45 @@
     "company_url": "https://simplify.jobs/c/Pinterest",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Tinder",
+    "id": "8f446db2-c0f4-42b2-a41e-dcbd26681b66",
+    "title": "Android Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1747871334,
+    "date_posted": 1747871334,
+    "url": "https://jobs.lever.co/matchgroup/2971cc7c-31f9-4b1f-b57c-f3026916bd9c/apply",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/08ae8fc4-92fa-44db-9eef-7919ae60c2e6",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Wealthsimple",
+    "id": "41aec6b9-601d-41d8-8361-bd4474d0ccd7",
+    "title": "Intern \u2013 Data Science",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1747871028,
+    "date_posted": 1747871028,
+    "url": "https://jobs.lever.co/wealthsimple/ffa3d20b-084a-4a33-9b07-da7efd488ccd/apply",
+    "locations": [
+      "Toronto, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Wealthsimple",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
