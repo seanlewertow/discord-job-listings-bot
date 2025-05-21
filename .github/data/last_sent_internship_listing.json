@@ -81651,5 +81651,47 @@
     "company_url": "https://simplify.jobs/c/WorldSurfLeague",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Nokia",
+    "id": "0dc31f1f-ee5e-4297-bb1f-171b7a12e0b0",
+    "title": "Engineering Lab Technician Co-op/Intern",
+    "active": true,
+    "terms": [
+      "Fall 2025",
+      "Winter 2025"
+    ],
+    "date_updated": 1747837580,
+    "date_posted": 1747837580,
+    "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/20017",
+    "locations": [
+      "Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Nokia",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Nokia",
+    "id": "108d85b6-6e1f-4ccb-ab24-fa7f55043c45",
+    "title": "Software Developer Co-op/Intern",
+    "active": true,
+    "terms": [
+      "Fall 2025",
+      "Winter 2025"
+    ],
+    "date_updated": 1747837574,
+    "date_posted": 1747837574,
+    "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/20451",
+    "locations": [
+      "Ottawa, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Nokia",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
