@@ -82016,5 +82016,26 @@
     "company_url": "https://simplify.jobs/c/CSL",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Fractal",
+    "id": "91faad6a-4a8d-412e-bd8f-f8d5027c5843",
+    "title": "Data & AI Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1747926513,
+    "date_posted": 1747926513,
+    "url": "https://fractal.wd1.myworkdayjobs.com/en-US/Careers/job/California/Data---AI-Intern_SR-32362",
+    "locations": [
+      "SF",
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Fractal",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
