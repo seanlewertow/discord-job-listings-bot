@@ -81833,5 +81833,47 @@
     "company_url": "https://simplify.jobs/c/Wealthsimple",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "ByteDance",
+    "id": "1370609f-94b6-47cf-bdba-63cdfb8801f3",
+    "title": "Frontend Software Engineer Intern - Product RD and Infrastructure-Global E-Commerce Content - BS/MS",
+    "active": true,
+    "terms": [
+      "Summer 2025",
+      "Fall 2025"
+    ],
+    "date_updated": 1747898180,
+    "date_posted": 1747898180,
+    "url": "https://jobs.bytedance.com/en/position/7506998463540857095/detail",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "company_url": "https://simplify.jobs/c/3f74d8b1-5d66-4d3b-b4b2-52ec6c78afc3",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "ByteDance",
+    "id": "190aa9ea-f702-40d4-8ab8-0a3ecc7b8be0",
+    "title": "Frontend Software Engineer Intern - Product RD and Infrastructure-Global E-Commerce Seller Business - BS/MS",
+    "active": true,
+    "terms": [
+      "Summer 2025",
+      "Fall 2025"
+    ],
+    "date_updated": 1747898179,
+    "date_posted": 1747898179,
+    "url": "https://jobs.bytedance.com/en/position/7507007343654504712/detail",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/3f74d8b1-5d66-4d3b-b4b2-52ec6c78afc3",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
