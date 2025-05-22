@@ -81916,5 +81916,25 @@
     "company_url": "https://simplify.jobs/c/2899ea2e-f1cb-4ba2-aebd-2e61c21eef95",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "LabCorp",
+    "id": "9fdf0c1b-610d-46cc-a592-188c7d165e6e",
+    "title": "Business Intelligence Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1747931133,
+    "date_posted": 1747931133,
+    "url": "https://labcorp.wd1.myworkdayjobs.com/external/job/Durham-NC/Business-Intelligence-Intern_2516321",
+    "locations": [
+      "Durham, NC"
+    ],
+    "company_url": "https://simplify.jobs/c/LabCorp",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
