@@ -82037,5 +82037,25 @@
     "company_url": "https://simplify.jobs/c/Fractal",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "CSL",
+    "id": "f61a8255-c063-44cf-b346-e13298f28bc9",
+    "title": "Development Engineer in Test Co-op",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1747928671,
+    "date_posted": 1747928671,
+    "url": "https://csl.wd1.myworkdayjobs.com/CSL_External/job/Americas-US-PA-King-of-Prussia-CSL-Behring/Development-Engineer-in-Test-Co-op_R-253173",
+    "locations": [
+      "King of Prussia, PA"
+    ],
+    "company_url": "https://simplify.jobs/c/CSL",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
