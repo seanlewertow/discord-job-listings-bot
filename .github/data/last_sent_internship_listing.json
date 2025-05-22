@@ -81753,5 +81753,45 @@
     "company_url": "https://simplify.jobs/c/Wealthsimple",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Jabil",
+    "id": "ad248954-91de-4d4c-9722-be6beede4020",
+    "title": "Software Developer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1747871920,
+    "date_posted": 1747871920,
+    "url": "https://jabil.wd5.myworkdayjobs.com/en-US/Jabil_Careers/job/Remote---USA/Software-Developer-Intern_J2415460",
+    "locations": [
+      "Boise, ID"
+    ],
+    "company_url": "https://simplify.jobs/c/051f591a-22c2-4254-aec5-c3ee7c82b288",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Bank of Montreal",
+    "id": "8781fd4d-c5a7-461d-933f-e3a59efdb0ba",
+    "title": "Software Developer \u2013 Co-op/Internship",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1747872305,
+    "date_posted": 1747872305,
+    "url": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Software-Developer--Fall-2025--Co-op-Internship----12-months_R250013521-2",
+    "locations": [
+      "Toronto, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/BMO",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
