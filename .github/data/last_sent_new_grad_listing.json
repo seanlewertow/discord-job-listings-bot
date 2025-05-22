@@ -12749,5 +12749,40 @@
     "company_url": "https://simplify.jobs/c/Remitly",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Fifth Third Bank",
+    "id": "fc1c7b41-5706-427f-9329-264a6363cdb8",
+    "title": "Data Engineer I - Finance IT",
+    "active": true,
+    "date_updated": 1747866916,
+    "date_posted": 1747866916,
+    "url": "https://fifththird.wd5.myworkdayjobs.com/en-US/53careers/job/Cincinnati-OH/Data-Engineer-I---Finance-IT_R58869",
+    "locations": [
+      "Cincinnati, OH"
+    ],
+    "company_url": "https://simplify.jobs/c/Fifth-Third-Bank",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Horace Mann",
+    "id": "27e12951-0983-4cf8-bff6-4905fca75e26",
+    "title": "Software Engineer I",
+    "active": true,
+    "date_updated": 1747871272,
+    "date_posted": 1747871272,
+    "url": "https://job-boards.greenhouse.io/horacemannservicecorporation/jobs/5545426004",
+    "locations": [
+      "Springfield, IL",
+      "Addison, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Horace-Mann",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
