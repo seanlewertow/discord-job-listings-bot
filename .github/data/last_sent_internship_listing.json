@@ -81896,5 +81896,25 @@
     "company_url": "https://simplify.jobs/c/3f74d8b1-5d66-4d3b-b4b2-52ec6c78afc3",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "QuinStreet",
+    "id": "2116cc68-792b-4116-9fff-9dd36aca1488",
+    "title": "Full Stack Engineering Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1747930675,
+    "date_posted": 1747930675,
+    "url": "https://www.quinstreet.com/careers/?gh_jid=6891914",
+    "locations": [
+      "San Mateo, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/2899ea2e-f1cb-4ba2-aebd-2e61c21eef95",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
