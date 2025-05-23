@@ -12801,5 +12801,39 @@
     "company_url": "https://simplify.jobs/c/TD-Bank",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "KBR",
+    "id": "daed6fc4-9bea-424a-aa82-5a932f35c1ae",
+    "title": "Early Career Full Stack Software Engineer",
+    "active": true,
+    "date_updated": 1747959049,
+    "date_posted": 1747959049,
+    "url": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Moffett-Field-California/Full-Stack-Software-Engineer_R2106782",
+    "locations": [
+      "Mountain View, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/KBR",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Chewy",
+    "id": "0d2693bd-ae50-4bd9-9458-9495c19b8c9d",
+    "title": "Software Engineer I",
+    "active": true,
+    "date_updated": 1747960433,
+    "date_posted": 1747960433,
+    "url": "https://boards.greenhouse.io/embed/job_app?token=6897739",
+    "locations": [
+      "Bellevue, WA"
+    ],
+    "company_url": "https://simplify.jobs/c/Chewy",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
