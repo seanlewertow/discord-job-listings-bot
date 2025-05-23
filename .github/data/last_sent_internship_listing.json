@@ -82140,5 +82140,25 @@
     "company_url": "https://simplify.jobs/c/3f74d8b1-5d66-4d3b-b4b2-52ec6c78afc3",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Ntrepid Corporation",
+    "id": "c86b4736-0586-4ede-8f22-2e22aa5f4f6f",
+    "title": "Product Analyst Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1748017541,
+    "date_posted": 1748017541,
+    "url": "https://careers-ntrepidcorp.icims.com/jobs/1801/job",
+    "locations": [
+      "Reston, VA"
+    ],
+    "company_url": "https://simplify.jobs/c/Ntrepid-Corporation",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
