@@ -82078,5 +82078,25 @@
     "company_url": "https://simplify.jobs/c/OpenAI",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Fortra",
+    "id": "61f09a6d-081d-4f09-a3ad-32db646fbc1e",
+    "title": "Software Development Intern - Python and Linux",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1747958240,
+    "date_posted": 1747958240,
+    "url": "https://job-boards.greenhouse.io/fortra/jobs/4570629006",
+    "locations": [
+      "United States"
+    ],
+    "company_url": "https://simplify.jobs/c/Fortra",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
