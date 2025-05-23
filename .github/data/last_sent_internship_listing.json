@@ -82160,5 +82160,25 @@
     "company_url": "https://simplify.jobs/c/Ntrepid-Corporation",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Skydio",
+    "id": "20c372e3-f497-4d47-ba47-ebc0c3f25753",
+    "title": "People Operations Software Engineer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1748030928,
+    "date_posted": 1748030928,
+    "url": "https://www.skydio.com/jobs/6585180003?gh_jid=6585180003",
+    "locations": [
+      "San Mateo, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Skydio",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
