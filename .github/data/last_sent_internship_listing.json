@@ -82342,5 +82342,25 @@
     "company_url": "https://simplify.jobs/c/RTX",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "NVIDIA",
+    "id": "b1f8c941-1cfb-4ca2-97b8-caa8d2d4fbe5",
+    "title": "Backend Compiler Engineer Intern",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1748050624,
+    "date_posted": 1748050624,
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Backend-Compiler-Engineer-Intern---Fall-2025_JR1997903",
+    "locations": [
+      "Santa Clara, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/NVIDIA",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
