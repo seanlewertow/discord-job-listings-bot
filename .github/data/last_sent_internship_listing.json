@@ -82503,5 +82503,65 @@
     "company_url": "https://simplify.jobs/c/Cubic",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Unlikely AI",
+    "id": "3750fba1-bb69-4778-8c91-4b85e31c8263",
+    "title": "Software Engineering Internship",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1748384142,
+    "date_posted": 1748384142,
+    "url": "https://jobs.lever.co/unlikely/3572f2af-d7de-466a-bcb6-bbbac92860ec/apply",
+    "locations": [
+      "London, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/UnlikelyAI",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Unlikely AI",
+    "id": "71c144c6-0f8c-40e2-b084-0e34fb72bb12",
+    "title": "Machine Learning Engineering Internship",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1748384139,
+    "date_posted": 1748384139,
+    "url": "https://jobs.lever.co/unlikely/24deb831-4b0a-4245-8fcf-bd1d6ab04f4c/apply",
+    "locations": [
+      "London, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/UnlikelyAI",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "ATPCO",
+    "id": "035a57c0-ccc8-4b71-b1df-c5dfe92e8882",
+    "title": "Software Engineer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1748385055,
+    "date_posted": 1748385055,
+    "url": "https://jobs.smartrecruiters.com/ATPCO1/744000061710798",
+    "locations": [
+      "Reston, VA"
+    ],
+    "company_url": "https://simplify.jobs/c/e38ff337-ef4e-42b4-b1fc-e1834b3b603f",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
