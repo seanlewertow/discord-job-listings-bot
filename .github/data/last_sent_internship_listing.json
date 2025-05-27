@@ -82403,5 +82403,25 @@
     "company_url": "https://simplify.jobs/c/RTX",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Plusgrade",
+    "id": "bcc6fb7a-aaf0-4271-941d-654369d18111",
+    "title": "Int\u00e9grateur Web \u2013 Intern - Stagiaire/Web Integrator",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1748314161,
+    "date_posted": 1748314161,
+    "url": "https://jobs.lever.co/plusgrade/31363920-778e-473f-a472-2c2fe3f7053c/apply",
+    "locations": [
+      "Montreal, QC, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Plusgrade",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
