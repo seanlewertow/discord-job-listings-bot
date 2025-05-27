@@ -82463,5 +82463,25 @@
     "company_url": "https://simplify.jobs/c/BorgWarner",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Autodesk",
+    "id": "89f4e327-ca74-43cb-8e77-eba47f545b6b",
+    "title": "Software Developer Intern",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1748375886,
+    "date_posted": 1748375886,
+    "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Montreal-QC-CAN/Stagiaire-dveloppement-de-logiciels--Software-Developer-Intern_25WD89017-1",
+    "locations": [
+      "Montreal, QC, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Autodesk",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
