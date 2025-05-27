@@ -82483,5 +82483,25 @@
     "company_url": "https://simplify.jobs/c/Autodesk",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Cubic",
+    "id": "4d76bbca-fcb4-4808-9995-ab12f14a5853",
+    "title": "Innovation Intern AI",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1748378091,
+    "date_posted": 1748378091,
+    "url": "https://cubic.wd1.myworkdayjobs.com/cubic_global_careers/job/Salfords-Surrey/Innovation-Intern-AI_REQ_44533",
+    "locations": [
+      "Crawley, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Cubic",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
