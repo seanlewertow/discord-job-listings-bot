@@ -82684,5 +82684,25 @@
     "company_url": "https://simplify.jobs/c/193f6761-cde2-449c-982a-25101abe1d9f",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Samsung",
+    "id": "f265daa1-f51c-4ceb-ac9a-64f4ab2bab20",
+    "title": "Intern \u2013 Data Engineer",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1748403916,
+    "date_posted": 1748403916,
+    "url": "https://job-boards.greenhouse.io/samsungsemiconductor/jobs/6590420003",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Samsung",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
