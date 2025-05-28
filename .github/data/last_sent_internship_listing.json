@@ -82563,5 +82563,106 @@
     "company_url": "https://simplify.jobs/c/e38ff337-ef4e-42b4-b1fc-e1834b3b603f",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "HARMAN International",
+    "id": "e664d999-4516-4f78-8340-09d6d733a438",
+    "title": "Summer Intern - AI/ML Engineer",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1748394267,
+    "date_posted": 1748394267,
+    "url": "https://harman.wd3.myworkdayjobs.com/HARMAN/job/Bellevue---Washington-USA/Summer-Intern---AI-ML-Engineer_R-44864-2025",
+    "locations": [
+      "Bellevue, WA"
+    ],
+    "company_url": "https://simplify.jobs/c/HARMAN-International",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Nokia",
+    "id": "b603873b-1e73-4033-9c5d-72e707e58901",
+    "title": "Deepfield Software Engineer Co-op",
+    "active": true,
+    "terms": [
+      "Fall 2025",
+      "Winter 2025"
+    ],
+    "date_updated": 1748393811,
+    "date_posted": 1748393811,
+    "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/21345",
+    "locations": [
+      "Ann Arbor, MI"
+    ],
+    "company_url": "https://simplify.jobs/c/Nokia",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Proofpoint",
+    "id": "f8ac6b4d-e8ed-462c-b913-9f294b32f1bd",
+    "title": "Marketing Performance & Analytics Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1748393758,
+    "date_posted": 1748393758,
+    "url": "https://proofpoint.wd5.myworkdayjobs.com/en-US/ProofpointCareers/job/Sunnyvale-CA/Marketing-Performance---Analytics-Intern_R12386",
+    "locations": [
+      "Sunnyvale, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/proofpoint",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Motive",
+    "id": "0ac6040d-cca1-48d6-9aee-5f1c50a04d8d",
+    "title": "Embedded Engineer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1748394610,
+    "date_posted": 1748394610,
+    "url": "https://job-boards.greenhouse.io/gomotive/jobs/7994952002",
+    "locations": [
+      "Buffalo, NY"
+    ],
+    "company_url": "https://simplify.jobs/c/Motive",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "RTX",
+    "id": "499782f3-7d5e-40ab-9990-8ab75f5be7df",
+    "title": "Services de pi\u00e8ces de rechange / Internship - Analyste de donn\u00e9es - Data Analyst - Spare Parts Services",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1748396218,
+    "date_posted": 1748396218,
+    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/LOC13052-1000-Boul-Marie-VictorinLongueuilQuebecJ4G-1A1Canada/Stage-Automne-2025---Analyste-de-donnes--Services-de-pices-de-rechange---Internship-Fall-2025---Data-Analyst--Spare-Parts-Services_01768843",
+    "locations": [
+      "Longueuil, QC, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/RTX",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
