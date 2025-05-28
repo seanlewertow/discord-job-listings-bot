@@ -82664,5 +82664,25 @@
     "company_url": "https://simplify.jobs/c/RTX",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "SprintRay",
+    "id": "7e10f3a8-b6b7-4617-bd1f-e92b8e81f9a1",
+    "title": "Software Development Engineer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1748397705,
+    "date_posted": 1748397705,
+    "url": "https://job-boards.greenhouse.io/sprintray/jobs/4553553006",
+    "locations": [
+      "LA"
+    ],
+    "company_url": "https://simplify.jobs/c/193f6761-cde2-449c-982a-25101abe1d9f",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
