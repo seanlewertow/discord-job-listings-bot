@@ -82785,5 +82785,25 @@
     "company_url": "https://simplify.jobs/c/Cibc",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Curtiss-Wright Corporation",
+    "id": "5ee710f4-1e45-463a-beda-176caab6bd71",
+    "title": "Database Creation Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1748469038,
+    "date_posted": 1748469038,
+    "url": "https://curtisswright.wd1.myworkdayjobs.com/cw_external_career_site/job/US-NY-East-Farmingdale-TR/Database-Creation-Intern_JR8875-1",
+    "locations": [
+      "Plainview, NY"
+    ],
+    "company_url": "https://simplify.jobs/c/Curtiss-Wright",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
