@@ -82805,5 +82805,25 @@
     "company_url": "https://simplify.jobs/c/Curtiss-Wright",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "JMA Wireless",
+    "id": "a34c9e05-9941-4fa8-b34f-f04f07915816",
+    "title": "Intern \u2013 Data and Analytics",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1748476084,
+    "date_posted": 1748476084,
+    "url": "https://jobs.lever.co/jmawireless/7ad212ea-c0dd-4565-b691-ed8a8b6344ee/apply",
+    "locations": [
+      "Syracuse, NY"
+    ],
+    "company_url": "https://simplify.jobs/c/JMA-Wireless",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
