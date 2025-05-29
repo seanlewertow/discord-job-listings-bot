@@ -82951,5 +82951,26 @@
     "company_url": "https://simplify.jobs/c/Cibc",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "LiveRamp",
+    "id": "07331610-c980-4c31-b0d7-38ebf7c15cb7",
+    "title": "Software Engineer \u2013 Co-op - Clean Rooms",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1748539805,
+    "date_posted": 1748539805,
+    "url": "https://liveramp.wd5.myworkdayjobs.com/en-US/LiveRampCareers/job/San-Francisco/Software-Engineer--Co-op---Clean-Rooms_JR011637",
+    "locations": [
+      "SF",
+      "Little Rock, AR"
+    ],
+    "company_url": "https://simplify.jobs/c/LiveRamp",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
