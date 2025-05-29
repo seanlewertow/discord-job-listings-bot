@@ -82891,5 +82891,25 @@
     "company_url": "https://simplify.jobs/c/Nextracker",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Bombora",
+    "id": "18be1d80-6f2c-4cc3-846b-223ba1e2b889",
+    "title": "Business Intelligence Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1748492171,
+    "date_posted": 1748492171,
+    "url": "https://bombora.com/about/bombora-careers?gh_jid=8015606002",
+    "locations": [
+      "Reno, NV"
+    ],
+    "company_url": "https://simplify.jobs/c/Bombora",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
