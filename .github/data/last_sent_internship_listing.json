@@ -82972,5 +82972,65 @@
     "company_url": "https://simplify.jobs/c/LiveRamp",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Howard University",
+    "id": "cf3fa252-591e-4512-bce0-eeb9980fe948",
+    "title": "DDOT Intern-6",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1748544614,
+    "date_posted": 1748537412,
+    "url": "https://howard.wd1.myworkdayjobs.com/HU/job/Downing-Hall-College-of-Engineering/DDOT-Intern-6_JR107055-2",
+    "locations": [
+      "Washington, DC"
+    ],
+    "company_url": "https://simplify.jobs/c/Howard-University",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Howard University",
+    "id": "9f0cb8fe-6787-4afa-b598-8842fe1ce392",
+    "title": "DDOT Intern-9",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1748537417,
+    "date_posted": 1748537417,
+    "url": "https://howard.wd1.myworkdayjobs.com/HU/job/Downing-Hall-College-of-Engineering/DDOT-Intern-9_JR107059-1",
+    "locations": [
+      "Washington, DC"
+    ],
+    "company_url": "https://simplify.jobs/c/Howard-University",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "IKO",
+    "id": "34b638ec-fbe9-4373-873b-21a3fd0027fa",
+    "title": "BI Developer Co-Op",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1748539463,
+    "date_posted": 1748539463,
+    "url": "https://iko.wd3.myworkdayjobs.com/IKO_Careers/job/Mississauga-ON/BI-Developer-Co-Op_REQ-10856",
+    "locations": [
+      "Mississauga, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/IKO",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
