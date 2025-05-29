@@ -82825,5 +82825,71 @@
     "company_url": "https://simplify.jobs/c/JMA-Wireless",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Samsung",
+    "id": "48f60e89-b041-4da7-9421-ff81282130b3",
+    "title": "Applied AI Engineer \u2013 Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1748481419,
+    "date_posted": 1748481419,
+    "url": "https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/645-Clyde-Avenue-Mountain-View-CA-USA/Applied-AI-Engineer--Intern_R104533",
+    "locations": [
+      "Mountain View, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Samsung",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Boston Consulting Group",
+    "id": "a6728b9c-aa5b-4b52-a197-7a4d715d6d1d",
+    "title": "Female Talent Internship - BCG Platinion",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1748481985,
+    "date_posted": 1748481985,
+    "url": "https://careers.bcg.com/global/en/job/695",
+    "locations": [
+      "Wenden, Germany",
+      "Hamburg, Germany",
+      "Neukirchen-Vluyn, Germany",
+      "Frankfurt, Germany",
+      "Stuttgart, Germany",
+      "Berlin, Germany",
+      "Munich, Germany"
+    ],
+    "company_url": "https://simplify.jobs/c/Boston-Consulting-Group",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Nextracker",
+    "id": "80a863d2-12e4-4cf3-b405-f5680d3b419b",
+    "title": "AI Software Engineering Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1748484787,
+    "date_posted": 1748484787,
+    "url": "https://nextracker.wd5.myworkdayjobs.com/nextracker_careers/job/Fremont-South-Bldg-California---USA/AI-Software-Engineering-Intern_NX-1912",
+    "locations": [
+      "Fremont, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Nextracker",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
