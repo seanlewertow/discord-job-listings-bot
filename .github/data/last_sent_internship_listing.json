@@ -83132,5 +83132,25 @@
     "company_url": "https://simplify.jobs/c/Howard-University",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Howard University",
+    "id": "01789cd2-1dab-4cdc-82db-ab3655f5182b",
+    "title": "DDOT Intern-3",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1748537428,
+    "date_posted": 1748537428,
+    "url": "https://howard.wd1.myworkdayjobs.com/HU/job/Downing-Hall-College-of-Engineering/DDOT-Intern-3_JR107051-1",
+    "locations": [
+      "Washington, DC"
+    ],
+    "company_url": "https://simplify.jobs/c/Howard-University",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
