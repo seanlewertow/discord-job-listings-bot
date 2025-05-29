@@ -82911,5 +82911,24 @@
     "company_url": "https://simplify.jobs/c/Bombora",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "date_updated": 1748494960,
+    "url": "https://job-boards.greenhouse.io/wurljobs/jobs/4454109006?gh_src=5874d0446us",
+    "company_name": "Wurl",
+    "title": "Full Stack Software Engineer Intern",
+    "locations": [
+      "Remote in United States"
+    ],
+    "terms": [
+      "Fall 2025"
+    ],
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "source": "GaryZhous",
+    "id": "a6816326-091b-4e8c-a9e6-2d6a7ebe31d9",
+    "date_posted": 1748494960,
+    "company_url": "",
+    "is_visible": true
   }
 ]
