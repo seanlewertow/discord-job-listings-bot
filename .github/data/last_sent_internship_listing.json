@@ -83152,5 +83152,46 @@
     "company_url": "https://simplify.jobs/c/Howard-University",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Sysco",
+    "id": "093a212b-1407-40e0-a2b2-cab1355d864a",
+    "title": "Functional Analyst Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1748568291,
+    "date_posted": 1748568291,
+    "url": "https://wd5.myworkdaysite.com/recruiting/sysco/syscocareers/job/Sysco-Corporate/Functional-Analyst-Intern_R202044",
+    "locations": [
+      "Houston, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Sysco",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "St. Jude Children's Research Hospital",
+    "id": "166bd487-a42e-466b-a608-4beb446ff4da",
+    "title": "Intern \u2013 Data Science",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1748570099,
+    "date_posted": 1748570099,
+    "url": "https://alsacstjude.wd1.myworkdayjobs.com/careersalsacstjude/job/Memphis-TN/Intern---Data-Science---Memphis--TN-or-Remote-_R0009812",
+    "locations": [
+      "Remote in USA",
+      "Memphis, TN"
+    ],
+    "company_url": "https://simplify.jobs/c/St-Jude-Childrens-Research-Hospital",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
