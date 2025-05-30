@@ -83193,5 +83193,66 @@
     "company_url": "https://simplify.jobs/c/St-Jude-Childrens-Research-Hospital",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Bank of Montreal",
+    "id": "ade73e38-88e9-4fee-9ca2-aed463b668b7",
+    "title": "Data Analytics and Reporting \u2013 Co-op/Internship",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1748572045,
+    "date_posted": 1748572045,
+    "url": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Data-Analytics-and-Reporting---Fall-2025--Co-op-Internship----4-Months_R250014092",
+    "locations": [
+      "Toronto, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/BMO",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Comscore",
+    "id": "697a53d6-e1da-4715-a6f4-2e5410905615",
+    "title": "Software Engineer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1748571831,
+    "date_posted": 1748571831,
+    "url": "https://comscore.wd5.myworkdayjobs.com/en-US/External/job/VA---Reston/Software-Engineer-Intern_REQ1461",
+    "locations": [
+      "Remote in USA",
+      "Reston, VA"
+    ],
+    "company_url": "https://simplify.jobs/c/35c46844-c46b-40a6-9ed6-25a554223d8b",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "NVIDIA",
+    "id": "0c6dfff3-0234-4e98-a564-54d2ace49051",
+    "title": "Networking Software Intern",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1748573304,
+    "date_posted": 1748573304,
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Networking-Software-Intern--Fall--2025_JR1998188",
+    "locations": [
+      "Santa Clara, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/NVIDIA",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
