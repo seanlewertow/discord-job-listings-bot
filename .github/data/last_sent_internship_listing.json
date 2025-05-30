@@ -83293,5 +83293,28 @@
     "company_url": "https://simplify.jobs/c/Inmar-Intelligence",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Amazon",
+    "id": "fb514be0-d8f4-42b6-9782-4cd8ccb0a51f",
+    "title": "SDE Intern - Summer",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1748635168,
+    "date_posted": 1748635168,
+    "url": "https://amazon.jobs/en/jobs/2996393/sde-intern-summer",
+    "locations": [
+      "Palo Alto, CA",
+      "Seattle, WA",
+      "Redmond, WA",
+      "Bellevue, WA"
+    ],
+    "company_url": "https://simplify.jobs/c/Amazon",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
