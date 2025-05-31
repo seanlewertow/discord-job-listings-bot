@@ -83456,5 +83456,25 @@
     "company_url": "https://simplify.jobs/c/General-Motors",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "HeyGen",
+    "id": "c1b50b62-a034-444a-8294-d02e8b74ebce",
+    "title": "Growth Automation Intern - Community",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1748659196,
+    "date_posted": 1748659196,
+    "url": "https://job-boards.greenhouse.io/heygen/jobs/4748402007",
+    "locations": [
+      "SF"
+    ],
+    "company_url": "https://simplify.jobs/c/HeyGen",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
