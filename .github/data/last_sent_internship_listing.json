@@ -83356,5 +83356,65 @@
     "company_url": "https://simplify.jobs/c/Inmar-Intelligence",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Energy Recovery",
+    "id": "2c1fbad7-6bd9-48e1-866d-aff16376e1b0",
+    "title": "Mechanical Engineering Intern - Product Engineering",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1748653027,
+    "date_posted": 1748653027,
+    "url": "https://jobs.lever.co/energyrecovery/d60543e8-f18b-45da-b826-2a57c94071c3/apply",
+    "locations": [
+      "San Leandro, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Energy-Recovery",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Scout AI",
+    "id": "acd41f3e-a666-4733-81a8-71fc1edc9611",
+    "title": "AI Engineer Intern - Fury Team",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1748654250,
+    "date_posted": 1748654250,
+    "url": "https://job-boards.greenhouse.io/scoutai/jobs/4742787008",
+    "locations": [
+      "Sunnyvale, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Scout-AI",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Scout AI",
+    "id": "6effc68e-ae06-46c8-8639-03a124d2dcf6",
+    "title": "AI Engineer Intern - Fury Team",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1748654249,
+    "date_posted": 1748654249,
+    "url": "https://job-boards.greenhouse.io/scoutai/jobs/4742812008",
+    "locations": [
+      "Sunnyvale, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Scout-AI",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
