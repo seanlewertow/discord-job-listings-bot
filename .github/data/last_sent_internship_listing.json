@@ -83617,5 +83617,43 @@
     "company_url": "https://simplify.jobs/c/Splunk",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "date_updated": 1748897489,
+    "url": "https://www.thirdlayer.inc/careers/ai-engineer",
+    "company_name": "Dex (YC W25)",
+    "title": "AI Engineer Intern",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "terms": [
+      "Summer 2025"
+    ],
+    "sponsorship": "U.S. Citizenship is Required",
+    "active": true,
+    "source": "harley-zhang",
+    "id": "f4143266-0194-4974-9af0-0296a8d78289",
+    "date_posted": 1748897489,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1748897553,
+    "url": "https://www.thirdlayer.inc/careers/software-engineer",
+    "company_name": "Dex (YC W25)",
+    "title": "Full-Stack Engineer Intern",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "terms": [
+      "Summer 2025"
+    ],
+    "sponsorship": "U.S. Citizenship is Required",
+    "active": true,
+    "source": "harley-zhang",
+    "id": "fc1168c0-f292-4f62-aa70-0fea7dfcf383",
+    "date_posted": 1748897553,
+    "company_url": "",
+    "is_visible": true
   }
 ]
