@@ -83596,5 +83596,26 @@
     "company_url": "https://simplify.jobs/c/Splunk",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Splunk",
+    "id": "e153ff2c-592e-4a34-b71f-8315968e8eb8",
+    "title": "Software Engineer Intern - Backend/Full-stack",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1748894448,
+    "date_posted": 1748894448,
+    "url": "https://jobs.jobvite.com/splunk-careers/job/o7n7vfwQ?nl=1&nl=1&fr=false",
+    "locations": [
+      "Colorado",
+      "North Carolina"
+    ],
+    "company_url": "https://simplify.jobs/c/Splunk",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
