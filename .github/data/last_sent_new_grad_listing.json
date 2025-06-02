@@ -13326,5 +13326,39 @@
     "company_url": "https://simplify.jobs/c/Jerry",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Jerry",
+    "id": "e9f8bb59-dad9-4b95-89cd-7734a5e13f56",
+    "title": "Software Engineer I",
+    "active": true,
+    "date_updated": 1748894912,
+    "date_posted": 1748894912,
+    "url": "https://jobs.ashbyhq.com/Jerry/9b0f472a-e1a2-484b-af4b-53134df3e39d/application",
+    "locations": [
+      "SF"
+    ],
+    "company_url": "https://simplify.jobs/c/Jerry",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "TD Bank",
+    "id": "92a61f68-3b0b-4e8f-b27e-dc0f1236982b",
+    "title": "Machine Learning Engineer I",
+    "active": true,
+    "date_updated": 1748896122,
+    "date_posted": 1748896122,
+    "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Machine-Learning-Engineer-I_R_1422262-1",
+    "locations": [
+      "Toronto, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/TD-Bank",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
