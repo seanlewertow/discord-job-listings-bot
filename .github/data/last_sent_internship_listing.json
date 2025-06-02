@@ -83535,5 +83535,25 @@
     "date_posted": 1748841670,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "LiveRamp",
+    "id": "b7d2e5a0-5c5d-4ca7-b2db-59d9366661d1",
+    "title": "Co-Op \u2013 Software Engineering",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1748888421,
+    "date_posted": 1748888421,
+    "url": "https://liveramp.wd5.myworkdayjobs.com/en-US/LiveRampCareers/job/San-Francisco/Co-Op--Software-Engineering_JR011627",
+    "locations": [
+      "SF"
+    ],
+    "company_url": "https://simplify.jobs/c/LiveRamp",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
