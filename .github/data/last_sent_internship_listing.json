@@ -83555,5 +83555,25 @@
     "company_url": "https://simplify.jobs/c/LiveRamp",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Rockwell Automation",
+    "id": "a2c75ed4-c93b-4293-a5b3-471049fe24ab",
+    "title": "Software Test & Developer Experience Co-op",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1748891436,
+    "date_posted": 1748891436,
+    "url": "https://rockwellautomation.wd1.myworkdayjobs.com/en-US/External_Rockwell_Automation/job/Kitchener-Ontario-Canada/Software-Test---Developer-Experience-Co-op_R25-4345",
+    "locations": [
+      "Kitchener, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Rockwell-Automation",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
