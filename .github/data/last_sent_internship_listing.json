@@ -83516,5 +83516,24 @@
     "company_url": "https://simplify.jobs/c/Blue-Origin",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "date_updated": 1748841670,
+    "url": "https://jobs.ericsson.com/careers/job/563121764413390?domain=ericsson.com",
+    "company_name": "Ericsson",
+    "title": "WebDeveloper Intern",
+    "locations": [
+      "Montreal,Quebec,Canada"
+    ],
+    "terms": [
+      "Fall 2025"
+    ],
+    "sponsorship": "Does Not Offer Sponsorship",
+    "active": true,
+    "source": "GaryZhous",
+    "id": "6be9981a-007e-46f6-a3e2-7daecd6621f4",
+    "date_posted": 1748841670,
+    "company_url": "",
+    "is_visible": true
   }
 ]
