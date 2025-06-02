@@ -13392,5 +13392,22 @@
     "date_posted": 1748897902,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "CACI",
+    "id": "b93502c9-30b8-4122-adc8-57b52d142df9",
+    "title": "Junior Software Developer",
+    "active": true,
+    "date_updated": 1748901307,
+    "date_posted": 1748901307,
+    "url": "https://caci.wd1.myworkdayjobs.com/External/job/US-VA-Sterling/Junior-Software-Developer--TS-SCI-with-Poly_308758-1",
+    "locations": [
+      "Dulles, VA"
+    ],
+    "company_url": "https://simplify.jobs/c/CACI",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
