@@ -83575,5 +83575,26 @@
     "company_url": "https://simplify.jobs/c/Rockwell-Automation",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Splunk",
+    "id": "02a12f0e-4200-428b-ad15-035565fad706",
+    "title": "Software Engineer Co-Op - Backend/Full-stack",
+    "active": true,
+    "terms": [
+      "Fall 2025",
+      "Winter 2025"
+    ],
+    "date_updated": 1748893394,
+    "date_posted": 1748893394,
+    "url": "https://jobs.jobvite.com/splunk-careers/job/otG8vfww?nl=1&nl=1&fr=false",
+    "locations": [
+      "Remote in Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Splunk",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
