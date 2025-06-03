@@ -83695,5 +83695,25 @@
     "company_url": "https://simplify.jobs/c/Penumbra-Inc",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Altera Corporation",
+    "id": "7a46a8b1-0a80-49c6-b7d0-34326997c375",
+    "title": "Data Analytics Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1748914337,
+    "date_posted": 1748914337,
+    "url": "https://altera.wd1.myworkdayjobs.com/altera/job/San-Jose/Data-Analytics-Intern_R00870",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Altera-Corporation",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
