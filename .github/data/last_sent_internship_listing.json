@@ -83755,5 +83755,26 @@
     "company_url": "https://simplify.jobs/c/MotorolaSolutions",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "EVgo",
+    "id": "dbd7effd-d8bf-4459-aa78-a8a3a71ecd8e",
+    "title": "Intern \u2013 Hardware Compliance",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1748921058,
+    "date_posted": 1748921058,
+    "url": "https://jobs.jobvite.com/evgo/job/oxuewfwv?nl=1&nl=1&fr=false",
+    "locations": [
+      "LA",
+      "El Segundo, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/EVgo",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
