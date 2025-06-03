@@ -83776,5 +83776,25 @@
     "company_url": "https://simplify.jobs/c/EVgo",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "ATPCO",
+    "id": "76a231af-3c07-4dcb-bfe8-f308a7ebde0a",
+    "title": "Software Engineer Internship",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1748964399,
+    "date_posted": 1748964399,
+    "url": "https://jobs.smartrecruiters.com/ATPCO1/744000063086968",
+    "locations": [
+      "Reston, VA"
+    ],
+    "company_url": "https://simplify.jobs/c/e38ff337-ef4e-42b4-b1fc-e1834b3b603f",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
