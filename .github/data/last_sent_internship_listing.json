@@ -83796,5 +83796,27 @@
     "company_url": "https://simplify.jobs/c/e38ff337-ef4e-42b4-b1fc-e1834b3b603f",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "KION",
+    "id": "f8cc8580-bb12-475a-940c-1fb79a41a605",
+    "title": "Software Consultant Intern/Co-op",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1748984834,
+    "date_posted": 1748984834,
+    "url": "https://kiongroup.wd3.myworkdayjobs.com/en-US/KION_SCS/job/Grand-Rapids-MI-United-States/Software-Consultant-Intern-Co-op_JR-0076003",
+    "locations": [
+      "Grand Rapids, MI",
+      "Dallas, TX",
+      "Atlanta, GA"
+    ],
+    "company_url": "https://simplify.jobs/c/e7d8f975-ac2f-4a71-9604-f1ec300eb8e5",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
