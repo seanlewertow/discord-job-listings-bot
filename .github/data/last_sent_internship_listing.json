@@ -83715,5 +83715,45 @@
     "company_url": "https://simplify.jobs/c/Altera-Corporation",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Leidos",
+    "id": "22d034d8-713c-429f-bda1-2f2a651ff1d0",
+    "title": "Software Development Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1748915997,
+    "date_posted": 1748915997,
+    "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Orlando-FL/Software-Development-Intern_R-00160197",
+    "locations": [
+      "Orlando, FL"
+    ],
+    "company_url": "https://simplify.jobs/c/Leidos",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Motorola",
+    "id": "be3f6940-32b8-4b6b-95dd-1e0a79f09fbc",
+    "title": "Software Developer \u2013 Embedded Appliances Co-Op",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1748916745,
+    "date_posted": 1748916745,
+    "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Vancouver-Canada/Software-Developer--Embedded-Appliances-Co-Op_R55445",
+    "locations": [
+      "Vancouver, BC, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/MotorolaSolutions",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
