@@ -83941,5 +83941,25 @@
     "company_url": "https://simplify.jobs/c/TransMarket-Group",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Envista",
+    "id": "5056b313-06b8-4dbd-845f-a7d6333b24c1",
+    "title": "R&D Data Scientist Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1749013527,
+    "date_posted": 1749013527,
+    "url": "https://envista.wd1.myworkdayjobs.com/en-US/envistacareers/job/United-States-of-America--California--Brea/R-D-Data-Scientist-Intern_R5023208",
+    "locations": [
+      "Brea, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/c9b225d7-42b2-484d-8b87-07460b8496fb",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
