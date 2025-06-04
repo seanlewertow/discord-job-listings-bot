@@ -83880,5 +83880,45 @@
     "company_url": "https://simplify.jobs/c/db6baf80-a321-4d20-ac07-6a38a44b5a05",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Trimble",
+    "id": "a0e20265-4388-4929-9b6c-38858e0554b7",
+    "title": "Software Engineering Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1749004218,
+    "date_posted": 1749004218,
+    "url": "https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/US---OR-Lake-Oswego/Software-Engineering-Intern_R49686",
+    "locations": [
+      "Portland, OR"
+    ],
+    "company_url": "https://simplify.jobs/c/Trimble",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Kabam",
+    "id": "12aad2ba-176f-4115-8e62-1ad5f89c9b91",
+    "title": "Backend Software Engineer Co-op",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1749005027,
+    "date_posted": 1749005027,
+    "url": "https://jobs.lever.co/kabam/221155bc-928a-42e1-be9e-0b32d3137fbf/apply",
+    "locations": [
+      "Vancouver, BC, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Kabam",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
