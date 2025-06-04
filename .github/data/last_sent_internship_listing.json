@@ -83859,5 +83859,26 @@
     "company_url": "https://simplify.jobs/c/General-Motors",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Blue Yonder",
+    "id": "3ab823fd-9f9e-4da1-903b-09ba9bd659ee",
+    "title": "Software Engineering Internship",
+    "active": true,
+    "terms": [
+      "Summer 2025",
+      "Fall 2025"
+    ],
+    "date_updated": 1748994910,
+    "date_posted": 1748994910,
+    "url": "https://jda.wd5.myworkdayjobs.com/en-US/JDA_Careers/job/Dallas/Software-Engineering-Internship-_243608-1",
+    "locations": [
+      "Dallas, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/db6baf80-a321-4d20-ac07-6a38a44b5a05",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
