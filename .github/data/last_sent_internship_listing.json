@@ -83981,5 +83981,25 @@
     "company_url": "https://simplify.jobs/c/TransMarket-Group",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "ASML",
+    "id": "cbdf0a7e-972e-4770-a990-a667d32260c0",
+    "title": "Co-op \u2013 Internship - Feature Detection and Data Science",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1749067511,
+    "date_posted": 1749067511,
+    "url": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/Wilton-CT-USA/Fall-2025-Co-op---Feature-Detection-and-Data-Science--Internship--_J-00321843",
+    "locations": [
+      "Wilton, CT"
+    ],
+    "company_url": "https://simplify.jobs/c/ASML",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
