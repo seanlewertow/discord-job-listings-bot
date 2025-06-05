@@ -84083,5 +84083,45 @@
     "company_url": "https://simplify.jobs/c/Kion-Group",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Becton Dickinson",
+    "id": "bb9163f0-b044-4a13-9e96-7bd5cdb6116c",
+    "title": "Software Vision Engineer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1749092214,
+    "date_posted": 1749092214,
+    "url": "https://bdx.wd1.myworkdayjobs.com/EXTERNAL_CAREER_SITE_USA/job/USA-NC---Durham---Roche-Drive/Software-Vision-Engineer-Intern_R-517300-1",
+    "locations": [
+      "Durham, NC"
+    ],
+    "company_url": "https://simplify.jobs/c/Becton-Dickinson",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Ciena",
+    "id": "8c15e863-9761-4fd7-8e3d-8a6d45e2a524",
+    "title": "Wavelogic Software Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1749092049,
+    "date_posted": 1749092049,
+    "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Atlanta/WaveLogic-Software-Intern_R027872",
+    "locations": [
+      "Atlanta, GA"
+    ],
+    "company_url": "https://simplify.jobs/c/Ciena",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
