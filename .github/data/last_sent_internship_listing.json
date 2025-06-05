@@ -84123,5 +84123,25 @@
     "company_url": "https://simplify.jobs/c/Ciena",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Microchip Technology",
+    "id": "eee355b4-e14b-4d4d-b563-c5ad23611e2c",
+    "title": "Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1749098885,
+    "date_posted": 1749098885,
+    "url": "https://wd5.myworkdaysite.com/en-US/recruiting/microchiphr/External/job/CA---San-Jose---3870-N-First-St/Intern_R562-25-1",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Microchip-Technology",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
