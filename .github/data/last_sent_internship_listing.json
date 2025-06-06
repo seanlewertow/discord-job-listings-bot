@@ -84263,5 +84263,25 @@
     "company_url": "https://simplify.jobs/c/Rockwell-Automation",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "NVIDIA",
+    "id": "4569e658-7b05-4a2f-b1f3-836f396982de",
+    "title": "Software Engineering Intern - LLM NIM Engineering",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1749185759,
+    "date_posted": 1749185759,
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Software-Engineering-Intern--LLM-NIM-Engineering---Fall-2025_JR1990733",
+    "locations": [
+      "Santa Clara, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/NVIDIA",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
