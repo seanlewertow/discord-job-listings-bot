@@ -84486,5 +84486,25 @@
     "company_url": "https://simplify.jobs/c/0c3af1a9-1c35-4995-b55c-a026ff35f29c",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "GP Fund Solutions",
+    "id": "8b3619dc-cdc6-4060-99e7-df43e180b380",
+    "title": "Data Intern",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1749317526,
+    "date_posted": 1748914688,
+    "url": "https://gpfs.breezy.hr/p/9e9b53db75d7/apply",
+    "locations": [
+      "Latham, NY"
+    ],
+    "company_url": "https://simplify.jobs/c/GP-Fund-Solutions",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
