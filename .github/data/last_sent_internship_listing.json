@@ -84404,5 +84404,65 @@
     "company_url": "https://simplify.jobs/c/American-Financial-Group",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Madhive",
+    "id": "26ee84d3-0c47-417d-95e5-80fa2164a00a",
+    "title": "Data Analyst Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1749265188,
+    "date_posted": 1749265188,
+    "url": "https://jobs.ashbyhq.com/madhive/68452aa3-5ca8-4da5-8fcf-9d11be700e66/application",
+    "locations": [
+      "Mountain View, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Madhive",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "United Parcel Service (UPS)",
+    "id": "8d574959-501d-4917-9a26-884149db7bda",
+    "title": "Ism Co-Op",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1749265727,
+    "date_posted": 1749265727,
+    "url": "https://hcmportal.wd5.myworkdayjobs.com/en-US/Search/job/US---IS-PARSIPPANY-NJPRS/ISM-Co-Op_R25015025",
+    "locations": [
+      "Parsippany-Troy Hills, NJ"
+    ],
+    "company_url": "https://simplify.jobs/c/United-Parcel-Service",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "United Parcel Service (UPS)",
+    "id": "97c78a04-9659-4c0b-98c7-070b2fb5335b",
+    "title": "ISM Co-op",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1749265709,
+    "date_posted": 1749265709,
+    "url": "https://hcmportal.wd5.myworkdayjobs.com/en-US/Search/job/US---IS-PARSIPPANY-NJPRS/ISM-Co-op_R25015026",
+    "locations": [
+      "Parsippany-Troy Hills, NJ"
+    ],
+    "company_url": "https://simplify.jobs/c/United-Parcel-Service",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
