@@ -84464,5 +84464,27 @@
     "company_url": "https://simplify.jobs/c/United-Parcel-Service",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Safari AI",
+    "id": "f9b45ac2-0f18-468b-a004-3d7a1a946a6b",
+    "title": "8 Month CV/ML Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025",
+      "Spring 2026"
+    ],
+    "date_updated": 1749268403,
+    "date_posted": 1749268403,
+    "url": "https://job-boards.greenhouse.io/safariai/jobs/4149405007",
+    "locations": [
+      "Washington, DC",
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/0c3af1a9-1c35-4995-b55c-a026ff35f29c",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
