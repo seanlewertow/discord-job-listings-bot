@@ -84506,5 +84506,25 @@
     "company_url": "https://simplify.jobs/c/GP-Fund-Solutions",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Drivetrain",
+    "id": "610a68f2-345d-41ee-bb7b-fb32dbefc456",
+    "title": "Engineering Intern - Gen AI for FP&a Platform",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1749427271,
+    "date_posted": 1749427271,
+    "url": "https://jobs.lever.co/drivetrain/7266784e-530b-4eb5-a61b-b09557f6e98d/apply",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/Drivetrain",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
