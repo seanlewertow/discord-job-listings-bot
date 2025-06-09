@@ -13788,5 +13788,53 @@
     "company_url": "https://simplify.jobs/c/Chewy",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "date_updated": 1749489255,
+    "url": "https://jobs.ashbyhq.com/n1/73724fe2-9a93-4a60-b349-4fd3d2efa94a",
+    "company_name": "N1",
+    "title": "New Grad Software Engineer (Full Stack)",
+    "locations": [
+      "New York"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "source": "Orazej",
+    "id": "0466e15a-b254-4e00-adeb-31680d73f854",
+    "date_posted": 1749489255,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1749489273,
+    "url": "https://jobs.ashbyhq.com/n1/a3e25c84-0846-454a-b2fc-a356c2a713bd",
+    "company_name": "N1",
+    "title": "New Grad Software Engineer (Backend Rust)",
+    "locations": [
+      "New York"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "source": "Orazej",
+    "id": "7bdb9743-578d-4529-923d-f9a1418092c0",
+    "date_posted": 1749489273,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1749489300,
+    "url": "https://jobs.ashbyhq.com/n1/99a78724-a7eb-4801-9e75-cf4465950567",
+    "company_name": "N1",
+    "title": "Software Engineer (Backend Rust)",
+    "locations": [
+      "New York City"
+    ],
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "source": "dfucius",
+    "id": "e13d5b72-9c33-4ce0-8428-80e020bfe5dc",
+    "date_posted": 1749489300,
+    "company_url": "",
+    "is_visible": true
   }
 ]
