@@ -84546,5 +84546,108 @@
     "company_url": "https://simplify.jobs/c/WorldQuant",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Caterpillar Inc.",
+    "id": "189ca38d-7a57-4de8-8dc1-1c99abf4b886",
+    "title": "Stagiaire en conception de logiciels/Software Designer Intern",
+    "active": true,
+    "terms": [
+      "Fall 2025",
+      "Winter 2025"
+    ],
+    "date_updated": 1749545036,
+    "date_posted": 1749545036,
+    "url": "https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Laval-Quebec/Stagiaire-en-conception-de-logiciels-Software-Designer-Intern_R0000308673",
+    "locations": [
+      "Laval, QC, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Caterpillar-Inc",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Cibc",
+    "id": "7da7fb12-a0da-422e-8ef0-50a5727ba6c1",
+    "title": "Quantitative Analyst - Pension Investment Management",
+    "active": true,
+    "terms": [
+      "Fall 2025",
+      "Winter 2025"
+    ],
+    "date_updated": 1749526571,
+    "date_posted": 1749526571,
+    "url": "https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Quantitative-Analyst--Pension-Investment-Management--Fall-2025-Co-Op-_2513753",
+    "locations": [
+      "Toronto, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Cibc",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "84.51 Degrees",
+    "id": "9e102733-6e80-40f3-831f-4022ad7667e7",
+    "title": "Agile Delivery \u2013 Co-op Program",
+    "active": true,
+    "terms": [
+      "Summer 2025",
+      "Fall 2025"
+    ],
+    "date_updated": 1749517092,
+    "date_posted": 1749517092,
+    "url": "https://job-boards.greenhouse.io/8451university/jobs/8028712002",
+    "locations": [
+      "Cincinnati, OH"
+    ],
+    "company_url": "https://simplify.jobs/c/84-51",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "84.51 Degrees",
+    "id": "1741605d-c69c-4d72-8dd5-1ebcc23c70ef",
+    "title": "Software Engineer \u2013 Co-op Program",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1749517089,
+    "date_posted": 1749517089,
+    "url": "https://job-boards.greenhouse.io/8451university/jobs/8028856002",
+    "locations": [
+      "Cincinnati, OH"
+    ],
+    "company_url": "https://simplify.jobs/c/84-51",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "ATPCO",
+    "id": "6be97c1c-8cee-4d2e-abcb-fc7c8d56fdc7",
+    "title": "Platform Capability Engineering Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1749594363,
+    "date_posted": 1749594363,
+    "url": "https://jobs.smartrecruiters.com/ATPCO1/744000064390815",
+    "locations": [
+      "Reston, VA"
+    ],
+    "company_url": "https://simplify.jobs/c/e38ff337-ef4e-42b4-b1fc-e1834b3b603f",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
