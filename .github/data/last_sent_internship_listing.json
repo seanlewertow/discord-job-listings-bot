@@ -84649,5 +84649,25 @@
     "company_url": "https://simplify.jobs/c/e38ff337-ef4e-42b4-b1fc-e1834b3b603f",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Booz Allen",
+    "id": "79cc3d09-db6b-4700-b963-0ec6ff0cd863",
+    "title": "University \u2013 Systems Engineer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1749596051,
+    "date_posted": 1749596051,
+    "url": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Lexington-MA/University--Systems-Engineer-Intern_R0220867",
+    "locations": [
+      "Lexington, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/Booz-Allen",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
