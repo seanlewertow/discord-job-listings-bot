@@ -84669,5 +84669,25 @@
     "company_url": "https://simplify.jobs/c/Booz-Allen",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "The Standard",
+    "id": "60f8fadd-db14-47a0-856d-52b2cd2c0291",
+    "title": "AI Engineering Engineer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1749598004,
+    "date_posted": 1749598004,
+    "url": "https://standard.wd1.myworkdayjobs.com/en-US/Search/job/Remote-USA/AI-Engineering-Engineer-Intern_REQ005730",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/ed75a625-1c49-4b0c-8ed2-74eb1262137d",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
