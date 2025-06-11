@@ -84729,5 +84729,45 @@
     "company_url": "https://simplify.jobs/c/Tulip-Interfaces",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "AES",
+    "id": "9bd9e918-41bd-48d8-8bc8-cef9d17ba1aa",
+    "title": "Advanced Analytics and Visualization Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1749603779,
+    "date_posted": 1749603779,
+    "url": "https://aes.wd1.myworkdayjobs.com/AES_US/job/US-Louisville-CO/Advanced-Analytics-and-Visualization-Intern_R1060482-1",
+    "locations": [
+      "Lafayette, CO"
+    ],
+    "company_url": "https://simplify.jobs/c/AES",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Capital One",
+    "id": "375ab227-8362-4cb7-9a0d-a675e86f8fbc",
+    "title": "Intern \u2013 Data Scientist",
+    "active": true,
+    "terms": [
+      "Winter 2026"
+    ],
+    "date_updated": 1749605366,
+    "date_posted": 1749605366,
+    "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Intern--Data-Scientist--Winter-2026-_R218557",
+    "locations": [
+      "Toronto, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Capital-One",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
