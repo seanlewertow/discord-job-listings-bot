@@ -84689,5 +84689,45 @@
     "company_url": "https://simplify.jobs/c/ed75a625-1c49-4b0c-8ed2-74eb1262137d",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Nextracker",
+    "id": "4b556378-9c85-4adf-985d-4b2cb977e4cc",
+    "title": "Front-end Software Developer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1749601034,
+    "date_posted": 1749601034,
+    "url": "https://nextracker.wd5.myworkdayjobs.com/nextracker_careers/job/Fremont-North-Bldg-California---USA/Front-end-Software-Developer-Intern_NX-2025",
+    "locations": [
+      "Fremont, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Nextracker",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Tulip Interfaces",
+    "id": "25591c29-de18-4a7b-989f-dc30f95dd2ae",
+    "title": "AI / Automation Engineering Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1749602716,
+    "date_posted": 1749602716,
+    "url": "https://tulip.co/careers/job-posting/?gh_jid=6583630003",
+    "locations": [
+      "Cambridge, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/Tulip-Interfaces",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
