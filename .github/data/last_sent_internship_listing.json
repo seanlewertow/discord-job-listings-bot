@@ -84769,5 +84769,24 @@
     "company_url": "https://simplify.jobs/c/Capital-One",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "date_updated": 1749614655,
+    "url": "https://jobs.bombardier.com/job/Dorval-Intern%2C-Programmer-%28Fall-2025%29-Qu%C3%A9b-H4S-1Y9/1212251301",
+    "company_name": "Bombardier",
+    "title": "Intern, Programmer",
+    "locations": [
+      "Dorval, Qu\u00e9bec, Canada"
+    ],
+    "terms": [
+      "Fall 2025"
+    ],
+    "sponsorship": "Does Not Offer Sponsorship",
+    "active": true,
+    "source": "GaryZhous",
+    "id": "b50f4695-ca31-4a4b-b26b-6710666f8da4",
+    "date_posted": 1749614655,
+    "company_url": "",
+    "is_visible": true
   }
 ]
