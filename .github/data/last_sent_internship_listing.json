@@ -84888,5 +84888,26 @@
     "company_url": "https://simplify.jobs/c/Signify",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Nokia",
+    "id": "4c42a6cc-7ab2-4c36-ad18-20884856da75",
+    "title": "Embedded C/C++ Software Dev Intern",
+    "active": true,
+    "terms": [
+      "Fall 2025",
+      "Winter 2025"
+    ],
+    "date_updated": 1749697210,
+    "date_posted": 1749697210,
+    "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/21612",
+    "locations": [
+      "Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Nokia",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
