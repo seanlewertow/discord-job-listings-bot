@@ -85030,5 +85030,25 @@
     "company_url": "https://simplify.jobs/c/GE-Aerospace",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Activision-Blizzard",
+    "id": "dc450ad1-3e69-4a11-9ef8-dd0c7b363a69",
+    "title": "Software Development Co-op",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1749693512,
+    "date_posted": 1749693512,
+    "url": "https://activision.wd1.myworkdayjobs.com/External/job/Vancouver/Software-Development-Co-op_R025492",
+    "locations": [
+      "Vancouver, BC, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Activision-Blizzard",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
