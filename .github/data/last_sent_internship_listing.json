@@ -84808,5 +84808,85 @@
     "company_url": "https://simplify.jobs/c/TD-Bank",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Activision-Blizzard",
+    "id": "1aed8473-cf4e-4d3e-9775-d42f0c190434",
+    "title": "Software Development Co-op",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1749693512,
+    "date_posted": 1749693512,
+    "url": "https://activision.wd1.myworkdayjobs.com/External/job/Vancouver---Activision---Demonware/Software-Development-Co-op_R025483",
+    "locations": [
+      "Vancouver, BC, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Activision-Blizzard",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Root",
+    "id": "2b8464e3-94f3-47ff-8980-fe23b610544d",
+    "title": "Data Mining and Research Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1749694035,
+    "date_posted": 1749694035,
+    "url": "https://joinroot.wd1.myworkdayjobs.com/joinroot/job/HQ---US---Columbus/Data-Mining-and-Research-Intern_JR101899",
+    "locations": [
+      "Columbus, OH"
+    ],
+    "company_url": "https://simplify.jobs/c/Root",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "RTX",
+    "id": "db09e4bf-e5b7-40fa-999a-4173f1f27773",
+    "title": "Co-Op: Computer Science Project",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1749695250,
+    "date_posted": 1749695250,
+    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/PW108-Springdale-AR-275-E-Robinson-Avenue-Springdale-AR-72764-USA/Co-Op--Computer-Science-Project--Onsite-_01771588",
+    "locations": [
+      "Springdale, AR"
+    ],
+    "company_url": "https://simplify.jobs/c/RTX",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Signify",
+    "id": "e171bec3-c3a6-4130-871b-aa6532fc5f69",
+    "title": "Firmware Development Engineering Intern",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1749695198,
+    "date_posted": 1749695198,
+    "url": "https://lighting.wd3.myworkdayjobs.com/jobs-and-careers/job/Atlanta/Firmware-Development-Engineering-Intern---Fall-2025_359265",
+    "locations": [
+      "Atlanta, GA"
+    ],
+    "company_url": "https://simplify.jobs/c/Signify",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
