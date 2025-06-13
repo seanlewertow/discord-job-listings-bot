@@ -85113,5 +85113,45 @@
     "company_url": "https://simplify.jobs/c/Freudenberg-Group",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "American Red Cross",
+    "id": "d35e3d6e-81eb-4ff0-af8d-573e6f205728",
+    "title": "Intern \u2013 Innovation - IT",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1749784280,
+    "date_posted": 1749784280,
+    "url": "https://americanredcross.wd1.myworkdayjobs.com/american_red_cross_careers/job/Statewide-VA/Intern---Innovation--IT-_RC81766",
+    "locations": [
+      "Virginia"
+    ],
+    "company_url": "https://simplify.jobs/c/American-Red-Cross",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "JPI",
+    "id": "9cda8fa4-46fb-4f87-8397-3e9f5d9f85d0",
+    "title": "Digital Workflows Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1749785578,
+    "date_posted": 1749785578,
+    "url": "https://jpi.wd1.myworkdayjobs.com/jpicareers/job/Dallas-Office/Digital-Workflows-Intern_JR100993",
+    "locations": [
+      "Dallas, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/JPI",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
