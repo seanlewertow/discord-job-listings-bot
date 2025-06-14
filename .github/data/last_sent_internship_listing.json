@@ -85313,5 +85313,26 @@
     "company_url": "https://simplify.jobs/c/Global-Relay",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Hootsuite",
+    "id": "5c1956c7-7c56-4d30-9881-59df7ae1c592",
+    "title": "Co-op/Intern - Data Engineering",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1749875442,
+    "date_posted": 1749875442,
+    "url": "https://careers.hootsuite.com/job/?gh_jid=6983217",
+    "locations": [
+      "Toronto, ON, Canada",
+      "Vancouver, BC, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Hootsuite",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
