@@ -85354,5 +85354,25 @@
     "company_url": "https://simplify.jobs/c/Global-Relay",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Global Relay",
+    "id": "fb73e8b8-9b1a-40c9-af66-c8d7a9b5547b",
+    "title": "Software Development Engineer in Test \u2013 Co-op - Sdet",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1749883739,
+    "date_posted": 1749883739,
+    "url": "https://www.globalrelay.com/careers/jobs?gh_jid=5565487004",
+    "locations": [
+      "Halifax Regional Municipality, NS, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Global-Relay",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
