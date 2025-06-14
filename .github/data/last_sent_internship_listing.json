@@ -85334,5 +85334,25 @@
     "company_url": "https://simplify.jobs/c/Hootsuite",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Global Relay",
+    "id": "d9c18efc-327b-4b42-b326-af44cae5ba7d",
+    "title": "Co-op Java Developer",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1749882437,
+    "date_posted": 1749882437,
+    "url": "https://www.globalrelay.com/careers/jobs?gh_jid=5565491004",
+    "locations": [
+      "Vancouver, BC, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Global-Relay",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
