@@ -85435,5 +85435,25 @@
     "company_url": "https://simplify.jobs/c/Faraday-Future",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "ERM",
+    "id": "6501f314-c784-479e-a82c-29587719c7fa",
+    "title": "Market Research Intern \u2013 Internship Program",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1750160546,
+    "date_posted": 1740385026,
+    "url": "https://erm.wd3.myworkdayjobs.com/ERM_Careers/job/Knoxville-Shelton-Group/Technician--Internship-Program--Internship-_R00023359",
+    "locations": [
+      "Knoxville, TN"
+    ],
+    "company_url": "https://simplify.jobs/c/ERM",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
