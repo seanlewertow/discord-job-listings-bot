@@ -85415,5 +85415,25 @@
     "company_url": "https://simplify.jobs/c/Baxter-International",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Faraday Future",
+    "id": "62341841-58c7-428c-9f92-9e820568ed9f",
+    "title": "Intern \u2013 Data Analyst",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1750131646,
+    "date_posted": 1750131646,
+    "url": "https://job-boards.greenhouse.io/faradayfuture/jobs/6608356003",
+    "locations": [
+      "West Athens, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Faraday-Future",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
