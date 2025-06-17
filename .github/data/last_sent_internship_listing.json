@@ -85455,5 +85455,26 @@
     "company_url": "https://simplify.jobs/c/ERM",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Western Digital",
+    "id": "b14b632a-0bdd-4b18-92ba-ff887c70021b",
+    "title": "Software Engineering Co-Op",
+    "active": true,
+    "terms": [
+      "Winter 2026",
+      "Summer 2026"
+    ],
+    "date_updated": 1750199288,
+    "date_posted": 1750199288,
+    "url": "https://jobs.smartrecruiters.com/WesternDigital/744000065804310",
+    "locations": [
+      "Rochester, MN"
+    ],
+    "company_url": "https://simplify.jobs/c/Western-Digital",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
