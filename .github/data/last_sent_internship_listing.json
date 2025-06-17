@@ -85476,5 +85476,43 @@
     "company_url": "https://simplify.jobs/c/Western-Digital",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "date_updated": 1750204444,
+    "url": "https://jobs.ashbyhq.com/n1/8db1135d-40bc-4e6c-ac64-a5e11fc8d1a4",
+    "company_name": "N1",
+    "title": "Software Engineer Intern [Backend, Rust]",
+    "locations": [
+      "New York"
+    ],
+    "terms": [
+      "Summer 2025"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "source": "Orazej",
+    "id": "73394687-0e49-4c91-b6ac-a051ce2c79f6",
+    "date_posted": 1750204444,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1750204481,
+    "url": "https://jobs.ashbyhq.com/a37/98b9fa73-1a6d-4aca-b1e0-67bb078f0265",
+    "company_name": "a37",
+    "title": "Member of Technical Staff Intern",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "terms": [
+      "Fall 2025"
+    ],
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "source": "brianlzhou",
+    "id": "fe8ba0c7-d7e9-4ee0-ae84-1516c4047978",
+    "date_posted": 1750204481,
+    "company_url": "",
+    "is_visible": true
   }
 ]
