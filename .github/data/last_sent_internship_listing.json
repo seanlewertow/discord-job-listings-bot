@@ -85533,5 +85533,25 @@
     "date_posted": 1750205091,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Harbinger Motors",
+    "id": "cb963914-a193-401f-810d-68081ab37382",
+    "title": "Intern \u2013 Production Data Analytics",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1750215830,
+    "date_posted": 1750215830,
+    "url": "https://job-boards.greenhouse.io/harbingermotors/jobs/4767345007",
+    "locations": [
+      "Westminster, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Harbinger-Motors",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
