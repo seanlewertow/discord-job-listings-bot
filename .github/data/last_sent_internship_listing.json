@@ -85613,5 +85613,25 @@
     "company_url": "https://simplify.jobs/c/Daniel-J-Edelman-Holdings",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Motorola",
+    "id": "b17e9db7-e022-4727-9b49-b51a53f768b8",
+    "title": "Localization Software Developer \u2013 Co-Op",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1750199022,
+    "date_posted": 1750199022,
+    "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Vancouver-Canada/Localization-Software-Developer--Co-Op_R55773",
+    "locations": [
+      "Vancouver, BC, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/MotorolaSolutions",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
