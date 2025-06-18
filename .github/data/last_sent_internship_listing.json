@@ -85673,5 +85673,25 @@
     "company_url": "https://simplify.jobs/c/Ciena",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "EUNA Solutions",
+    "id": "de022074-ecd5-4796-90ae-be0a39bdb803",
+    "title": "Software Developer Co-Op - Procurement",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1750289691,
+    "date_posted": 1750289691,
+    "url": "https://euna.bamboohr.com/careers/362/",
+    "locations": [
+      "Oakville, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/86636c38-0e05-4ec1-b699-ea03e743f151",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
