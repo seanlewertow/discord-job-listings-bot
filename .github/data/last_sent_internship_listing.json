@@ -85633,5 +85633,25 @@
     "company_url": "https://simplify.jobs/c/MotorolaSolutions",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "NVIDIA",
+    "id": "d041b5a5-abe1-43a7-9924-c04bd6fcb63f",
+    "title": "Technical Marketing Engineer Intern - AI Platform Software",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1750275804,
+    "date_posted": 1750275804,
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Technical-Marketing-Engineer-Intern--AI-Platform-Software---Fall-2025_JR1998853",
+    "locations": [
+      "Santa Clara, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/NVIDIA",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
