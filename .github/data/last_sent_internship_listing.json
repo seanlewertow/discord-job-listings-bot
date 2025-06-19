@@ -85735,5 +85735,25 @@
     "company_url": "https://simplify.jobs/c/Bits",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Democratic National Committee",
+    "id": "f3b07658-3f4a-4bb6-8bc4-344b57987f95",
+    "title": "DNC Technology Internship",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1750303223,
+    "date_posted": 1750303223,
+    "url": "https://jobs.lever.co/dnc/66748d1f-3dda-4913-99eb-d4acf37f787c/apply",
+    "locations": [
+      "Washington, DC"
+    ],
+    "company_url": "https://simplify.jobs/c/DNC",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
