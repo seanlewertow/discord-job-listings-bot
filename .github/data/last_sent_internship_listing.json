@@ -85693,5 +85693,27 @@
     "company_url": "https://simplify.jobs/c/86636c38-0e05-4ec1-b699-ea03e743f151",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "NVIDIA",
+    "id": "989ddaf0-0d34-495c-b706-294d4343d165",
+    "title": "Compiler Engineering Intern - GPU Compute and CUDA",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1750291629,
+    "date_posted": 1750291629,
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Compiler-Engineering-Intern--GPU-Compute-and-CUDA---Fall-2025_JR1998919",
+    "locations": [
+      "Austin, TX",
+      "Redmond, WA",
+      "Santa Clara, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/NVIDIA",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
