@@ -85778,5 +85778,35 @@
     "company_url": "https://simplify.jobs/c/BorgWarner",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Amazon",
+    "id": "753c4120-5b70-4adf-8e9a-7b1b2892215e",
+    "title": "Software Development Engineer Apprentice",
+    "active": true,
+    "terms": [
+      "Summer 2023",
+      "Fall 2023",
+      "Summer 2024",
+      "Fall 2024",
+      "Summer 2025",
+      "Fall 2025"
+    ],
+    "date_updated": 1745416329,
+    "date_posted": 1732681062,
+    "url": "https://amazon.jobs/en/jobs/2841037/software-development-engineer-apprentice-aws-opportunity-for-veterans",
+    "locations": [
+      "Boston, MA",
+      "Seattle, WA",
+      "Arlington, VA",
+      "NYC",
+      "Bellevue, WA",
+      "Cupertino, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Amazon",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
