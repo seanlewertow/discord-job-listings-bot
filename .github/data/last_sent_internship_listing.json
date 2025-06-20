@@ -85969,5 +85969,66 @@
     "company_url": "https://simplify.jobs/c/051f591a-22c2-4254-aec5-c3ee7c82b288",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Amentum",
+    "id": "4cdbe908-45c5-4224-9880-5e7cf77956c9",
+    "title": "Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1750459498,
+    "date_posted": 1750459498,
+    "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-MD-Aberdeen-Proving-Ground/Intern_R0140943",
+    "locations": [
+      "Aberdeen, MD"
+    ],
+    "company_url": "https://simplify.jobs/c/4310804e-f9a0-44e7-b26f-51ecd2a9237d",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Formstack",
+    "id": "956a72b2-14a0-4e9b-b3fa-19486c6734f8",
+    "title": "AI Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1750459404,
+    "date_posted": 1750459404,
+    "url": "https://jobs.lever.co/formstack/4c2cbe26-5948-4686-95a4-8f7145d7d2a8/apply",
+    "locations": [
+      "SF",
+      "Denver, CO"
+    ],
+    "company_url": "https://simplify.jobs/c/Formstack",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Konrad Group",
+    "id": "6edde419-ebe5-443f-a8f4-22493112af20",
+    "title": "Software Developer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1750459340,
+    "date_posted": 1750459340,
+    "url": "https://boards.greenhouse.io/embed/job_app?token=6616787003",
+    "locations": [
+      "Toronto, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Konrad-Group",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
