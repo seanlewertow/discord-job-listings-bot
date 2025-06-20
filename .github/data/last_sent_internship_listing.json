@@ -85888,5 +85888,26 @@
     "company_url": "https://simplify.jobs/c/Bill-Dot-Com",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Weber Shandwick",
+    "id": "986a9beb-fbed-4491-930b-2d13ec403e4e",
+    "title": "AI & Analytics Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025",
+      "Fall 2025"
+    ],
+    "date_updated": 1750432715,
+    "date_posted": 1750432715,
+    "url": "https://www.webershandwick.com/work-at-weber/careers/?gh_jid=8040062002",
+    "locations": [
+      "Washington, DC"
+    ],
+    "company_url": "https://simplify.jobs/c/Weber-Shandwick",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
