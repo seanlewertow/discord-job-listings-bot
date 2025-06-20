@@ -85949,5 +85949,25 @@
     "company_url": "https://simplify.jobs/c/Medpace-Inc",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Jabil",
+    "id": "cd56994e-5bb4-495d-b73a-e412b65f3c93",
+    "title": "Data Analytics Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1750438260,
+    "date_posted": 1750438260,
+    "url": "https://jabil.wd5.myworkdayjobs.com/en-US/Jabil_Careers/job/Lexington-KY/Data-Analytics-Intern_J2419123",
+    "locations": [
+      "Lexington, KY"
+    ],
+    "company_url": "https://simplify.jobs/c/051f591a-22c2-4254-aec5-c3ee7c82b288",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
