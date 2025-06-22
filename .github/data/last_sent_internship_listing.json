@@ -86070,5 +86070,24 @@
     "company_url": "https://simplify.jobs/c/Medpace-Inc",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "date_updated": 1750558409,
+    "url": "https://nakisa.com/career-opportunities/?gh_jid=4590663101",
+    "company_name": "Nakisa",
+    "title": "Software Developer Intern",
+    "locations": [
+      "Montreal, Quebec, Canada"
+    ],
+    "terms": [
+      "Fall 2025"
+    ],
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "source": "GaryZhous",
+    "id": "59029780-d67d-4195-97b4-87c8323d4df6",
+    "date_posted": 1750558409,
+    "company_url": "",
+    "is_visible": true
   }
 ]
