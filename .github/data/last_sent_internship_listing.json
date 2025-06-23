@@ -86109,5 +86109,45 @@
     "company_url": "https://simplify.jobs/c/Equinox",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Celonis",
+    "id": "e143d061-c6d8-4d79-8e8d-89128632ae0b",
+    "title": "Intern Software Engineer",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1750675289,
+    "date_posted": 1750675289,
+    "url": "https://job-boards.greenhouse.io/celonis/jobs/6611889003?gh_jid=6611889003",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Celonis",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Sentry",
+    "id": "c413b274-a237-452e-9b03-30437c15c996",
+    "title": "Software Engineer \u2013 Intern",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1750675082,
+    "date_posted": 1750675082,
+    "url": "https://jobs.ashbyhq.com/sentry/199f9e4a-9e24-4880-aa12-5c3040bcfd5b/application",
+    "locations": [
+      "Toronto, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Sentry",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
