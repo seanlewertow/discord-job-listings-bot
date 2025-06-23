@@ -86089,5 +86089,25 @@
     "date_posted": 1750558409,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Equinox",
+    "id": "2c60ebc9-a273-4171-8cad-a6b408fab229",
+    "title": "Software Engineering Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1750670212,
+    "date_posted": 1750670212,
+    "url": "https://jobs.smartrecruiters.com/Equinox/744000064738437",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Equinox",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
