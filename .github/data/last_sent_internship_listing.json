@@ -86169,5 +86169,25 @@
     "company_url": "https://simplify.jobs/c/Target",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Sensata",
+    "id": "2d55b0c5-b733-42e8-a3b0-12bcdfd6fe55",
+    "title": "Intern MSD Placement",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1750719219,
+    "date_posted": 1750719219,
+    "url": "https://sensata.wd1.myworkdayjobs.com/en-US/Sensata-Careers/job/Newtownabbey-United-Kingdom/Intern-MSD-Placement_IRC95486",
+    "locations": [
+      "Belfast, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/sensata-tech",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
