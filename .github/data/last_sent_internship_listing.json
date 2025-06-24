@@ -86232,5 +86232,25 @@
     "company_url": "https://simplify.jobs/c/97147200-3153-41b3-bbb0-5de4d7b4a48f",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "NVIDIA",
+    "id": "fc3232b0-3afe-4958-ad5b-88b32fb7ed0f",
+    "title": "Software Engineering Intern - Embedded Systems",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1750803162,
+    "date_posted": 1750803162,
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Software-Engineering-Intern--Embedded-Systems---Fall-2025_JR1999184",
+    "locations": [
+      "Santa Clara, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/NVIDIA",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
