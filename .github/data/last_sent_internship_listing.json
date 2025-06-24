@@ -86252,5 +86252,65 @@
     "company_url": "https://simplify.jobs/c/NVIDIA",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "NXP Semiconductors",
+    "id": "a69ed4cc-79fe-4997-8d07-6ee6cb3a3ffe",
+    "title": "IC Design Verification Engineer \u2013 Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1750804879,
+    "date_posted": 1750804879,
+    "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Kanata/IC-Design-Verification-Engineer--Intern_R-10058775",
+    "locations": [
+      "Kanata, Ottawa, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/91edf47c-f010-430e-8558-5c1fbb365984",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "NXP Semiconductors",
+    "id": "15bf7fec-a332-4ac0-859b-572ac5a78f3f",
+    "title": "Software Engineering Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1750804879,
+    "date_posted": 1750804879,
+    "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Kanata/Software-Engineering-Intern_R-10058774",
+    "locations": [
+      "Ottawa, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/91edf47c-f010-430e-8558-5c1fbb365984",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "NXP Semiconductors",
+    "id": "bd158862-b8a1-4cc9-a6dd-3185c66cb5f3",
+    "title": "Digital Logic Design Engineering student",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1750804890,
+    "date_posted": 1750804890,
+    "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Kanata/Digital-Logic-Design-Engineering-student--COOP-Intern-_R-10058779",
+    "locations": [
+      "Ottawa, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/91edf47c-f010-430e-8558-5c1fbb365984",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
