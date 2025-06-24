@@ -86212,5 +86212,25 @@
     "company_url": "https://simplify.jobs/c/KBR",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Neuberger Berman",
+    "id": "69ee3238-eb2a-4a7c-a29b-3ec0ff70dee2",
+    "title": "Intern \u2013 Technology",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1750759290,
+    "date_posted": 1750759290,
+    "url": "https://nb.wd1.myworkdayjobs.com/en-US/NBCareers/job/London/Intern_R0010928",
+    "locations": [
+      "London, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/97147200-3153-41b3-bbb0-5de4d7b4a48f",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
