@@ -86332,5 +86332,109 @@
     "company_url": "https://simplify.jobs/c/Mercedes-Benz",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Teledyne",
+    "id": "ee092cd6-fe15-4c7e-96d0-4f21a8ecb942",
+    "title": "Sdet \u2013 Co-op",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1750783358,
+    "date_posted": 1750783358,
+    "url": "https://flir.wd1.myworkdayjobs.com/en-US/flircareers/job/Canada---Richmond-BC/SDET--Co-op_REQ29299",
+    "locations": [
+      "Richmond, BC, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/199b3c43-379a-408c-a6a8-980e79183038",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Teledyne",
+    "id": "ce985d6c-2510-4960-b4f7-37f22769e002",
+    "title": "Sdet \u2013 Co-op",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1750783358,
+    "date_posted": 1750783358,
+    "url": "https://flir.wd1.myworkdayjobs.com/en-US/flircareers/job/Canada---Richmond-BC/SDET--Co-op_REQ29301",
+    "locations": [
+      "Richmond, BC, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/199b3c43-379a-408c-a6a8-980e79183038",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Teledyne",
+    "id": "55792b63-1879-4792-b9f0-3950515ca814",
+    "title": "Sdet \u2013 Co-op",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1750783358,
+    "date_posted": 1750783358,
+    "url": "https://flir.wd1.myworkdayjobs.com/en-US/flircareers/job/Canada---Richmond-BC/SDET--Co-op_REQ29305-1",
+    "locations": [
+      "Richmond, BC, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/199b3c43-379a-408c-a6a8-980e79183038",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "LiveRamp",
+    "id": "89b8ffb6-8d7c-4900-8706-96cfae17748d",
+    "title": "Co-op \u2013 Data Science",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1750780356,
+    "date_posted": 1750780356,
+    "url": "https://liveramp.wd5.myworkdayjobs.com/en-US/LiveRampCareers/job/San-Francisco/Co-op--Data-Science_JR011667",
+    "locations": [
+      "Seattle, WA",
+      "SF",
+      "Little Rock, AR",
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/LiveRamp",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Lake Michigan Credit Union",
+    "id": "075a3256-c169-4ec2-8cf6-5ae0dd39129f",
+    "title": "Retail Intern",
+    "active": true,
+    "terms": [
+      "Fall 2025",
+      "Winter 2025"
+    ],
+    "date_updated": 1750779040,
+    "date_posted": 1750779040,
+    "url": "https://lmcu.wd5.myworkdayjobs.com/lmcucareersite/job/Tampa-FL/Retail-Intern---Central-FL_REQ-2025-5800",
+    "locations": [
+      "Tampa, FL"
+    ],
+    "company_url": "https://simplify.jobs/c/Lake-Michigan-Credit-Union",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
