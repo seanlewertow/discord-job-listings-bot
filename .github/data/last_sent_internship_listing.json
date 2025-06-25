@@ -86312,5 +86312,25 @@
     "company_url": "https://simplify.jobs/c/91edf47c-f010-430e-8558-5c1fbb365984",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Mercedes-Benz",
+    "id": "b3e5a9c8-5692-44c5-9363-7b413b530683",
+    "title": "Software Developer \u2013 AIX Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1750814070,
+    "date_posted": 1750814070,
+    "url": "https://jobs.lever.co/MBRDNA/e987dc81-f177-4b4a-b605-670d8b68d00e/apply",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Mercedes-Benz",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
