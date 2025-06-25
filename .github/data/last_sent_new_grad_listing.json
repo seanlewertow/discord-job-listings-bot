@@ -14816,5 +14816,22 @@
     "company_url": "https://simplify.jobs/c/Guidewire",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Chewy",
+    "id": "0ff73278-936e-4b1b-887e-58e6abb11ee3",
+    "title": "Software Engineer I",
+    "active": true,
+    "date_updated": 1750812825,
+    "date_posted": 1750782599,
+    "url": "https://boards.greenhouse.io/embed/job_app?token=6988045",
+    "locations": [
+      "Boston, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/Chewy",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
