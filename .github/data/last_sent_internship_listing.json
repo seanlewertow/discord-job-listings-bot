@@ -86659,5 +86659,25 @@
     "company_url": "https://simplify.jobs/c/Copart",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "ShyftLabs",
+    "id": "a113c3f0-cd41-4da1-80b9-ca7291d12918",
+    "title": "Software Developer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1750977583,
+    "date_posted": 1750977583,
+    "url": "https://jobs.lever.co/shyftlabs/b214311a-cd95-48f4-a291-52a76c112427/apply",
+    "locations": [
+      "Toronto, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/ShyftLabs",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
