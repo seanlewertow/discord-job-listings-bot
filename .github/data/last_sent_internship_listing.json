@@ -86436,5 +86436,66 @@
     "company_url": "https://simplify.jobs/c/Lake-Michigan-Credit-Union",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Intel",
+    "id": "c952ebdc-f100-4c84-ab5d-d92d5d2a15e1",
+    "title": "Discrete Graphics Validation Internship",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1750881288,
+    "date_posted": 1750881288,
+    "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/Canada-Toronto/Discrete-Graphics-Validation-Internship_JR0275985",
+    "locations": [
+      "Toronto, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Intel",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "NVIDIA",
+    "id": "c9c16ae8-003e-46ef-b527-f022f6e50a3d",
+    "title": "Geforce Technical Marketing Intern",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1750904025,
+    "date_posted": 1750904025,
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-CA-Santa-Clara/GeForce-Technical-Marketing-Intern---Fall-2025_JR1997652",
+    "locations": [
+      "Santa Clara, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/NVIDIA",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Veolia",
+    "id": "8e74b0e0-0692-4369-bb48-0b0a83ee7c16",
+    "title": "Intern \u2013 Data Scientist",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1750883301,
+    "date_posted": 1750883301,
+    "url": "https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000067009941",
+    "locations": [
+      "Hopkins, MN",
+      "Pittsburgh, PA"
+    ],
+    "company_url": "https://simplify.jobs/c/Veolia",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
