@@ -86537,5 +86537,26 @@
     "company_url": "https://simplify.jobs/c/Rootly",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "J. D. Heiskell & Companies",
+    "id": "bcc9dea0-3ce1-4d4e-8176-d5075d7e6069",
+    "title": "Export Trading Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025",
+      "Winter 2025"
+    ],
+    "date_updated": 1750953696,
+    "date_posted": 1750953696,
+    "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/3373032",
+    "locations": [
+      "Des Moines, IA"
+    ],
+    "company_url": "https://simplify.jobs/c/JD-Heiskell-And-Companies",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
