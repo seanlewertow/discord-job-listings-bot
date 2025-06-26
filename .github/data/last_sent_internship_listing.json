@@ -86517,5 +86517,25 @@
     "company_url": "https://simplify.jobs/c/NVIDIA",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Rootly",
+    "id": "f9d1ddab-5dac-4594-9d42-6fc7b44f3926",
+    "title": "Product Engineer Co-op",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1750924323,
+    "date_posted": 1750924323,
+    "url": "https://rootly.com/careers?4774249007&gh_jid=4774249007",
+    "locations": [
+      "Toronto, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Rootly",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
