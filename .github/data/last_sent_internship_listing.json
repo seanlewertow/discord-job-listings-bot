@@ -86679,5 +86679,48 @@
     "company_url": "https://simplify.jobs/c/ShyftLabs",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Booz Allen",
+    "id": "65fb58e9-e6fb-4b6f-8ad4-24d663589b90",
+    "title": "University \u2013 Systems Engineer Intern",
+    "active": true,
+    "terms": [
+      "Winter 2025",
+      "Spring 2026"
+    ],
+    "date_updated": 1750981362,
+    "date_posted": 1750981362,
+    "url": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fayetteville-NC/University--Systems-Engineer-Intern_R0221551",
+    "locations": [
+      "Fayetteville, NC"
+    ],
+    "company_url": "https://simplify.jobs/c/Booz-Allen",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Nokia",
+    "id": "5c3dbc69-bcd9-4260-bdfb-77e0a1417a44",
+    "title": "Firmware Development Co-op",
+    "active": true,
+    "terms": [
+      "Summer 2025",
+      "Winter 2025"
+    ],
+    "date_updated": 1750981039,
+    "date_posted": 1750981039,
+    "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/22272",
+    "locations": [
+      "Remote in USA",
+      "Sunnyvale, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Nokia",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
