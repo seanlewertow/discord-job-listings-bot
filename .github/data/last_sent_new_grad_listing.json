@@ -15039,5 +15039,57 @@
     "company_url": "https://simplify.jobs/c/RTX",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Plusgrade",
+    "id": "793856dc-03bb-4726-af22-eb74bb565bb0",
+    "title": "Junior Software Developer / D\u00e9veloppeur logiciel junior",
+    "active": true,
+    "date_updated": 1751066724,
+    "date_posted": 1751066724,
+    "url": "https://jobs.lever.co/plusgrade/9c9728f3-031d-4df5-b3a3-f060e338f684/apply",
+    "locations": [
+      "Montreal, QC, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Plusgrade",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Jerry",
+    "id": "d862d01e-68b9-42cf-944e-3f9d20b53e1d",
+    "title": "Software Engineer I",
+    "active": true,
+    "date_updated": 1751066571,
+    "date_posted": 1751066571,
+    "url": "https://jobs.ashbyhq.com/Jerry/28faa3d6-ef77-4a80-83f1-4104087b391f/application",
+    "locations": [
+      "SF"
+    ],
+    "company_url": "https://simplify.jobs/c/Jerry",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Jerry",
+    "id": "5502e169-2db9-41e6-96a6-38faa48d73b4",
+    "title": "Software Engineer I",
+    "active": true,
+    "date_updated": 1751066571,
+    "date_posted": 1751066571,
+    "url": "https://jobs.ashbyhq.com/Jerry/fc7c1a2d-ad09-411c-afdc-36d7329ec3d6/application",
+    "locations": [
+      "Toronto, ON, Canada",
+      "Greater Toronto Area, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Jerry",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
