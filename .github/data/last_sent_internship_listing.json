@@ -86722,5 +86722,45 @@
     "company_url": "https://simplify.jobs/c/Nokia",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Auto Club Enterprises",
+    "id": "869150be-3a6d-40e8-ba52-7a248b250fbe",
+    "title": "Computer Science Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1750987700,
+    "date_posted": 1750987700,
+    "url": "https://ace.wd5.myworkdayjobs.com/careers/job/Coppell-TX-Remote/Computer-Science-Intern---Hybrid_JR202530294",
+    "locations": [
+      "Coppell, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Auto-Club-Enterprises",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Motorola",
+    "id": "2b02a608-ae8b-45e5-a224-5baee594dfc6",
+    "title": "Audio Software Engineer Co-Op",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1750991234,
+    "date_posted": 1750991234,
+    "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Plantation-FL/Audio-Software-Engineer-Co-Op--Fall-2025-_R55185",
+    "locations": [
+      "Plantation, FL"
+    ],
+    "company_url": "https://simplify.jobs/c/MotorolaSolutions",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
