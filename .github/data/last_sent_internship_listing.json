@@ -86823,5 +86823,25 @@
     "company_url": "https://simplify.jobs/c/Ithaka",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "ByteDance",
+    "id": "bc6ec38d-0e59-4761-9bd6-9bb2bba2ca8c",
+    "title": "Multilingual Data Intern - Speech",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1751066823,
+    "date_posted": 1751066823,
+    "url": "https://jobs.bytedance.com/en/position/7520464007472793874/detail",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/3f74d8b1-5d66-4d3b-b4b2-52ec6c78afc3",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
