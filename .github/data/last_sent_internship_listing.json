@@ -86762,5 +86762,26 @@
     "company_url": "https://simplify.jobs/c/MotorolaSolutions",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Harris Computer",
+    "id": "ac739ea1-278a-4ba5-ac40-a6c84a0565d0",
+    "title": "Co-op Data Integration Developer",
+    "active": true,
+    "terms": [
+      "Summer 2025",
+      "Winter 2026"
+    ],
+    "date_updated": 1750976586,
+    "date_posted": 1750976586,
+    "url": "https://harriscomputer.wd3.myworkdayjobs.com/en-US/1/job/Burnaby-British-Columbia/Co-op-Data-Integration-Developer_R0030605",
+    "locations": [
+      "Burnaby, BC, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/372c6250-89ed-4b8e-9000-a81fc94184d8",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
