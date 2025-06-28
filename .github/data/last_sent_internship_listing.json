@@ -86863,5 +86863,46 @@
     "company_url": "https://simplify.jobs/c/Ciena",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Autodesk",
+    "id": "174fcbf1-a27d-414e-9ae7-3f510af30546",
+    "title": "Intern \u2013 Software Developer/ Stagiaire en d\u00e9veloppement logiciels",
+    "active": true,
+    "terms": [
+      "Fall 2025",
+      "Winter 2025"
+    ],
+    "date_updated": 1751074042,
+    "date_posted": 1751074042,
+    "url": "https://autodesk.wd1.myworkdayjobs.com/en-US/uni/job/Montreal-QC-CAN/Intern--Software-Developer--Stagiaire-en-dveloppement-logiciels_25WD89784-1",
+    "locations": [
+      "Montreal, QC, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/9a5a4634-d168-4118-b172-0c0aae45f2ad",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Airbus",
+    "id": "e87f370c-7488-4fed-a53a-704c3f81b0af",
+    "title": "Internship - Software Engineering",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1751078513,
+    "date_posted": 1751078513,
+    "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Bingen-WA/Internship---Software-Engineering_JR10338562",
+    "locations": [
+      "The Dalles, OR"
+    ],
+    "company_url": "https://simplify.jobs/c/Airbus",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
