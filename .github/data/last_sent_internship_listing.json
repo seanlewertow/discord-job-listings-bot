@@ -86904,5 +86904,25 @@
     "company_url": "https://simplify.jobs/c/Airbus",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "TabaPay",
+    "id": "244d9bb1-e065-40bf-8e13-85ae5a4e319c",
+    "title": "Data Analyst \u2013 Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1751121295,
+    "date_posted": 1747185127,
+    "url": "https://tabapay.com/careers.html?gh_jid=4567718006",
+    "locations": [
+      "Palo Alto, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/TabaPay",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
