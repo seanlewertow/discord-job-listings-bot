@@ -86944,5 +86944,25 @@
     "company_url": "https://simplify.jobs/c/Copart",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "AQR Capital Management",
+    "id": "68d2753c-5981-4e79-b199-46c3a0769c20",
+    "title": "Portfolio Implementation \u2013 Trading and Portfolio Finance Summer Analyst",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1751322686,
+    "date_posted": 1751322686,
+    "url": "https://careers.aqr.com/jobs?gh_jid=7022101&gh_jid=7022101",
+    "locations": [
+      "Greenwich, CT"
+    ],
+    "company_url": "https://simplify.jobs/c/AQR-Capital-Management",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
