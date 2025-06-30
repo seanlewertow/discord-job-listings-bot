@@ -86964,5 +86964,25 @@
     "company_url": "https://simplify.jobs/c/AQR-Capital-Management",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Cloudflare",
+    "id": "73e8c1fc-1570-4e1e-9b65-2809522ca5cb",
+    "title": "Data Analytics Intern",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1751323123,
+    "date_posted": 1751323123,
+    "url": "https://boards.greenhouse.io/cloudflare/jobs/7001678",
+    "locations": [
+      "Austin, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Cloudflare",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
