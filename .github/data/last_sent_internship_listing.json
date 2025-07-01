@@ -87063,5 +87063,25 @@
     "company_url": "https://simplify.jobs/c/Boston-Consulting-Group",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Photon",
+    "id": "ccccf704-6e34-425e-91e9-8c440cf17bc2",
+    "title": "Data & AI/GenAI Intern",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1751384962,
+    "date_posted": 1751384962,
+    "url": "https://fa-ertb-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/jobs/job/22319",
+    "locations": [
+      "Dallas, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Photon",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
