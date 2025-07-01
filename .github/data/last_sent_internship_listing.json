@@ -87043,5 +87043,25 @@
     "company_url": "https://simplify.jobs/c/be06ebc5-6942-48ad-b691-821e84f30f2b",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Boston Consulting Group",
+    "id": "502917c2-1890-4d56-9c5c-ac941efd78f2",
+    "title": "Data Scientist \u2013 Internship - Bcg X",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1751363473,
+    "date_posted": 1740183844,
+    "url": "https://careers.bcg.com/global/en/job/52455",
+    "locations": [
+      "London, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Boston-Consulting-Group",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
