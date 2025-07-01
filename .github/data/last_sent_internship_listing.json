@@ -87224,5 +87224,65 @@
     "company_url": "https://simplify.jobs/c/Palantir",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "IMC Trading",
+    "id": "474c034c-cd47-45e2-b198-16e369a72b43",
+    "title": "Software Engineer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1751410418,
+    "date_posted": 1751410418,
+    "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4580810101",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/IMC-Trading",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "IMC Trading",
+    "id": "6d2c19bd-5399-4a49-9aab-a4739ec8b1fd",
+    "title": "Quantitative Research Intern - BS/MS",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1751410406,
+    "date_posted": 1751410406,
+    "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4580808101",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/IMC-Trading",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "IMC Trading",
+    "id": "58423c76-0d80-435f-b226-e29ee7fa5bf1",
+    "title": "Quantitative Trader Intern",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1751410404,
+    "date_posted": 1751410404,
+    "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4580757101",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/IMC-Trading",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
