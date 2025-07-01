@@ -86984,5 +86984,25 @@
     "company_url": "https://simplify.jobs/c/Cloudflare",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "NVIDIA",
+    "id": "f72948bc-7bce-4d19-8254-6441ae710738",
+    "title": "Applied AI Research Engineering Intern",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1751332286,
+    "date_posted": 1751332286,
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Applied-AI-Research-Engineering-Intern---Fall-2025_JR1994353-1",
+    "locations": [
+      "Santa Clara, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/NVIDIA",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
