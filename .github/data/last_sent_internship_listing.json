@@ -87004,5 +87004,24 @@
     "company_url": "https://simplify.jobs/c/NVIDIA",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "date_updated": 1751336913,
+    "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Montreal-QC-CAN/Intern--Software-Developer--Stagiaire-en-dveloppement-logiciels_25WD89784",
+    "company_name": "Autodesk",
+    "title": "Intern, Software Developer",
+    "locations": [
+      "Montreal, Quebec, Canada"
+    ],
+    "terms": [
+      "Fall 2025"
+    ],
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "source": "GaryZhous",
+    "id": "f85f1657-3d74-42d5-baae-51504f16a958",
+    "date_posted": 1751336913,
+    "company_url": "",
+    "is_visible": true
   }
 ]
