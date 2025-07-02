@@ -87405,5 +87405,25 @@
     "company_url": "https://simplify.jobs/c/Nokia",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Baker Hughes",
+    "id": "4441032c-502a-491b-a4e9-ae5bdc5a3f39",
+    "title": "Data Analyst Apprentice",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1751455384,
+    "date_posted": 1750783628,
+    "url": "https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/GB-NU-CRAMLINGTON-ATLEY-WAY-NORTH-NELSON-INDUSTRIAL-ESTATE/Data-Analyst-Apprentice_R150612-1",
+    "locations": [
+      "Newcastle upon Tyne, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Baker-Hughes",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
