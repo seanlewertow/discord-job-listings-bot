@@ -87445,5 +87445,45 @@
     "company_url": "https://simplify.jobs/c/Altera-Corporation",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Autodesk",
+    "id": "72c96fbc-f8cd-4977-9bf9-93929c6e2ac8",
+    "title": "Intern \u2013 Software Developer/ Stagiaire en d\u00e9veloppement logiciels",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1751494892,
+    "date_posted": 1751494892,
+    "url": "https://autodesk.wd1.myworkdayjobs.com/en-US/uni/job/Montreal-QC-CAN/Intern--Software-Developer--Stagiaire-en-dveloppement-logiciels_25WD89817",
+    "locations": [
+      "Montreal, QC, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/9a5a4634-d168-4118-b172-0c0aae45f2ad",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Autodesk",
+    "id": "0bb01ae4-945e-4186-8ae4-50d75040979b",
+    "title": "Intern \u2013 Software Developer",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1751494890,
+    "date_posted": 1751494890,
+    "url": "https://autodesk.wd1.myworkdayjobs.com/en-US/uni/job/Montreal-QC-CAN/Intern--Software-Developer_25WD89837-2",
+    "locations": [
+      "Montreal, QC, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/9a5a4634-d168-4118-b172-0c0aae45f2ad",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
