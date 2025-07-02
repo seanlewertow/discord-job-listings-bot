@@ -87284,5 +87284,105 @@
     "company_url": "https://simplify.jobs/c/IMC-Trading",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Optiver",
+    "id": "67fab9f0-d34b-435f-8628-b12ac686e5bf",
+    "title": "Software Engineer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1751413872,
+    "date_posted": 1751413872,
+    "url": "https://optiver.com/working-at-optiver/career-opportunities/7973726002/?gh_jid=7973726002",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/Optiver",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Optiver",
+    "id": "698028cf-ad57-4094-a53f-fb81d4de84dd",
+    "title": "Quantitative Research Intern",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1751413848,
+    "date_posted": 1751413848,
+    "url": "https://optiver.com/working-at-optiver/career-opportunities/8033071002/?gh_jid=8033071002",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/Optiver",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Optiver",
+    "id": "2a8f1824-8b7c-4491-88fb-60819e4ec7a9",
+    "title": "Software Engineer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1751413871,
+    "date_posted": 1751413871,
+    "url": "https://optiver.com/working-at-optiver/career-opportunities/7973725002/?gh_jid=7973725002",
+    "locations": [
+      "Austin, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Optiver",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Optiver",
+    "id": "6cbfb9d7-2cb3-4bea-b7fc-9fb098768854",
+    "title": "Quantitative Research Intern",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1751413850,
+    "date_posted": 1751413850,
+    "url": "https://optiver.com/working-at-optiver/career-opportunities/7967593002/?gh_jid=7967593002",
+    "locations": [
+      "Austin, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Optiver",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Optiver",
+    "id": "2a1f8c37-115f-45dd-88d6-8d6be5708688",
+    "title": "Quantitative Trader Intern - Summer 2026",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1751413847,
+    "date_posted": 1751413847,
+    "url": "https://optiver.com/working-at-optiver/career-opportunities/7832160002/?gh_jid=7832160002",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/Optiver",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
