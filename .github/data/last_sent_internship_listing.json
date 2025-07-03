@@ -87485,5 +87485,25 @@
     "company_url": "https://simplify.jobs/c/9a5a4634-d168-4118-b172-0c0aae45f2ad",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Exact Sciences",
+    "id": "235b89d0-c8e2-4c95-9f0d-a99a2d763a39",
+    "title": "Data Science Internship",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1751568261,
+    "date_posted": 1751568261,
+    "url": "https://exactsciences.wd1.myworkdayjobs.com/Exact_Sciences/job/US---WI---Madison/Data-Science-Internship_R25-10166",
+    "locations": [
+      "Madison, WI"
+    ],
+    "company_url": "https://simplify.jobs/c/Exact-Sciences",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
