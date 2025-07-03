@@ -87545,5 +87545,27 @@
     "company_url": "https://simplify.jobs/c/EVgo",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "date_updated": 1751577637,
+    "url": "https://www.citadel.com/careers/details/software-engineer-intern-us/",
+    "company_name": "Citadel",
+    "title": "Software Engineer Intern",
+    "locations": [
+      "Miami, FL",
+      "Chicago, IL",
+      "New York, NY"
+    ],
+    "terms": [
+      "Summer 2026",
+      "Fall 2025"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "source": "samyakjain-1",
+    "id": "4de80cf2-26de-45b4-9402-7aba6d75f267",
+    "date_posted": 1751577264,
+    "company_url": "",
+    "is_visible": true
   }
 ]
