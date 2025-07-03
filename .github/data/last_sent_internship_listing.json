@@ -87525,5 +87525,25 @@
     "company_url": "https://simplify.jobs/c/Hearst",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "EVgo",
+    "id": "24b1fd12-a786-4d02-a61c-fbe07beec087",
+    "title": "Intern \u2013 Hardware Compliance",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1751574839,
+    "date_posted": 1751574839,
+    "url": "https://jobs.jobvite.com/evgo/job/oHMtwfwc?nl=1&nl=1&fr=false",
+    "locations": [
+      "El Segundo, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/EVgo",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
