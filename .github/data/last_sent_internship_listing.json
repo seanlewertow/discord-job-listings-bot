@@ -87587,5 +87587,45 @@
     "company_url": "https://simplify.jobs/c/Lendbuzz",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Sutter Health",
+    "id": "2de4067b-8a73-4bd1-bfa3-c4f731119599",
+    "title": "Data Analytics & AI Intern",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1751586744,
+    "date_posted": 1751586744,
+    "url": "https://wd1.myworkdaysite.com/recruiting/sutterhealth/SH/job/Sacramento/Data-Analytics---AI-Intern_R-105618",
+    "locations": [
+      "Sacramento, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Sutter-Health",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Genesis Therapeutics",
+    "id": "e1cbd2ba-9d78-48ba-8352-2e1ee615cdc5",
+    "title": "ML Research Intern - BS/MS",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1751587894,
+    "date_posted": 1751587894,
+    "url": "https://jobs.lever.co/genesistherapeutics/1d5735dd-285d-4d24-aa01-67072c41395f/apply",
+    "locations": [
+      "Burlingame, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Genesis-Thera",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
