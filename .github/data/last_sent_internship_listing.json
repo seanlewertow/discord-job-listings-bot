@@ -87648,5 +87648,25 @@
     "company_url": "https://simplify.jobs/c/3f74d8b1-5d66-4d3b-b4b2-52ec6c78afc3",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Midmark ",
+    "id": "e45b7992-b7ef-4846-b4ff-ecf6b47e5de3",
+    "title": "Firmware Engineering Co-op",
+    "active": true,
+    "terms": [
+      "Spring 2026"
+    ],
+    "date_updated": 1751623133,
+    "date_posted": 1751623133,
+    "url": "https://hcor.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs/job/3288",
+    "locations": [
+      "Vandalia, OH"
+    ],
+    "company_url": "https://simplify.jobs/c/Midmark",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
