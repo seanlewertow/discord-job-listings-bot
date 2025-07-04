@@ -87627,5 +87627,26 @@
     "company_url": "https://simplify.jobs/c/Genesis-Thera",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "ByteDance",
+    "id": "e5d09b9b-d149-4b31-b702-af8c1b5f952f",
+    "title": "Backend Software Engineer Intern - Product RD and Infrastructure-Global E-Commerce Content",
+    "active": true,
+    "terms": [
+      "Summer 2025",
+      "Fall 2025"
+    ],
+    "date_updated": 1751596980,
+    "date_posted": 1751596980,
+    "url": "https://jobs.bytedance.com/en/position/7522742153819670792/detail",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/3f74d8b1-5d66-4d3b-b4b2-52ec6c78afc3",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
