@@ -87750,5 +87750,27 @@
     "company_url": "https://simplify.jobs/c/Capital-One",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "DRW",
+    "id": "ef6506d6-93a9-4318-b4e7-06d8ddccb512",
+    "title": "Software Developer Intern",
+    "active": true,
+    "terms": [
+      "Winter 2026",
+      "Spring 2027",
+      "Summer 2027"
+    ],
+    "date_updated": 1751906418,
+    "date_posted": 1751906418,
+    "url": "https://job-boards.greenhouse.io/drweng/jobs/6926715",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/DRW",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
