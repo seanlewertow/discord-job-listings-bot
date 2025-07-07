@@ -87729,5 +87729,26 @@
     "company_url": "https://simplify.jobs/c/Ontario-Teachers-Pension-Plan",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Capital One",
+    "id": "76f74da0-105c-49ee-b1b4-5a933864556e",
+    "title": "Product Development Internship Program",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1751903281,
+    "date_posted": 1751903281,
+    "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Product-Development-Internship-Program---Summer-2026_R219617-1",
+    "locations": [
+      "Plano, TX",
+      "McLean, VA"
+    ],
+    "company_url": "https://simplify.jobs/c/Capital-One",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
