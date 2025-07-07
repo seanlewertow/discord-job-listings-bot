@@ -87792,5 +87792,25 @@
     "company_url": "https://simplify.jobs/c/Ciena",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Brevian",
+    "id": "6fecfd03-e904-40de-a8ac-01b155f911de",
+    "title": "Software Engineering Intern",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1751927638,
+    "date_posted": 1751927638,
+    "url": "https://ats.rippling.com/brevian-careers/jobs/0c7d22e5-4522-47e6-8f98-69a64c9ab484",
+    "locations": [
+      "Sunnyvale, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Brevian",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
