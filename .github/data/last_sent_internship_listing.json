@@ -88018,5 +88018,25 @@
     "company_url": "https://simplify.jobs/c/Konrad-Group",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "AI Fund",
+    "id": "81d8a59b-a98f-450e-97f9-ceab7705fd6d",
+    "title": "Full-Stack Engineer Intern",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1752017239,
+    "date_posted": 1752017239,
+    "url": "https://jobs.lever.co/AIFund/08af7df2-3085-4d7b-ad74-10767e2d93db/apply",
+    "locations": [
+      "SF"
+    ],
+    "company_url": "https://simplify.jobs/c/AI-Fund",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
