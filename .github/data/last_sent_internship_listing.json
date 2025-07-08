@@ -87998,5 +87998,25 @@
     "company_url": "https://simplify.jobs/c/Isono-Health",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Konrad Group",
+    "id": "65b98a97-b4aa-4f2e-9ba3-fbee621f7d49",
+    "title": "Software Developer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1751990375,
+    "date_posted": 1751990375,
+    "url": "https://boards.greenhouse.io/embed/job_app?token=6642169003",
+    "locations": [
+      "Toronto, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Konrad-Group",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
