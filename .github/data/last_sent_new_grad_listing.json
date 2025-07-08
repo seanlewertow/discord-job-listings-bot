@@ -15595,5 +15595,89 @@
     "date_posted": 1751932230,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "date_updated": 1751932303,
+    "url": "https://jobs.careers.microsoft.com/global/en/job/1835563/",
+    "company_name": "Microsoft",
+    "title": "Software Engineer - Security",
+    "locations": [
+      "Redmond, WA"
+    ],
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "source": "AshkanArabim",
+    "id": "fffde5fe-9c59-4944-833e-1c28d393094a",
+    "date_posted": 1751932303,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1751932331,
+    "url": "https://jobs.careers.microsoft.com/global/en/job/1835559/",
+    "company_name": "Microsoft",
+    "title": "Software Engineer - Fullstack",
+    "locations": [
+      "Redmond, WA"
+    ],
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "source": "AshkanArabim",
+    "id": "8e88b373-b28e-4e6f-891b-ee3270feea4e",
+    "date_posted": 1751932331,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Meta",
+    "id": "0d446e91-2f00-4e93-b32c-fa4ddb9426e6",
+    "title": "Software Engineer \u2013 University Grad - Research Infrastructure",
+    "active": true,
+    "date_updated": 1751932205,
+    "date_posted": 1751932205,
+    "url": "https://www.metacareers.com/jobs/23968798566082979",
+    "locations": [
+      "Burlingame, CA",
+      "Redmond, WA"
+    ],
+    "company_url": "https://simplify.jobs/c/Meta",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "date_updated": 1751933435,
+    "url": "https://jobs.careers.microsoft.com/global/en/job/1835564/",
+    "company_name": "Microsoft",
+    "title": "Software Engineer - Systems",
+    "locations": [
+      "Redmond, WA"
+    ],
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "source": "AshkanArabim",
+    "id": "bbec85ce-e198-4fb0-af7f-3b414645eae2",
+    "date_posted": 1751933435,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Chewy",
+    "id": "f7a0c536-7ba2-4d0b-ab43-13a883f5c3e3",
+    "title": "Software Engineer I",
+    "active": true,
+    "date_updated": 1751932903,
+    "date_posted": 1751932903,
+    "url": "https://boards.greenhouse.io/embed/job_app?token=6983872",
+    "locations": [
+      "Boston, MA",
+      "Fort Lauderdale, FL"
+    ],
+    "company_url": "https://simplify.jobs/c/Chewy",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
