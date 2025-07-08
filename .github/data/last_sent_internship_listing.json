@@ -87853,5 +87853,110 @@
     "date_posted": 1751931942,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Comcast",
+    "id": "33ff25a9-0363-4486-acfd-48422c94be84",
+    "title": "ERP Internship: Rising Senior Technology",
+    "active": true,
+    "terms": [
+      "Spring 2026",
+      "Summer 2026"
+    ],
+    "date_updated": 1751932403,
+    "date_posted": 1751932403,
+    "url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1701-John-F-Kennedy-Blvd/ERP-Internship--Rising-Senior-Technology_R415530",
+    "locations": [
+      "Orlando, FL",
+      "Philadelphia, PA",
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Comcast",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "DRW",
+    "id": "d740f4b4-4274-4cf3-9193-c76fe352438c",
+    "title": "Quantitative Trading Analyst Intern",
+    "active": true,
+    "terms": [
+      "Summer 2027"
+    ],
+    "date_updated": 1751932276,
+    "date_posted": 1751932276,
+    "url": "https://job-boards.greenhouse.io/drweng/jobs/6871278",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/DRW",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "DRW",
+    "id": "df125ad8-4990-4698-aedf-db4655c2251c",
+    "title": "Quantitative Research Intern",
+    "active": true,
+    "terms": [
+      "Winter 2026",
+      "Spring 2027",
+      "Summer 2027"
+    ],
+    "date_updated": 1751932271,
+    "date_posted": 1751932271,
+    "url": "https://job-boards.greenhouse.io/drweng/jobs/6898521",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/DRW",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Mosaic",
+    "id": "add58d0d-03e1-4be9-b1b3-8157951776ea",
+    "title": "Data Analyst Co-op/Intern",
+    "active": true,
+    "terms": [
+      "Winter 2026",
+      "Spring 2026"
+    ],
+    "date_updated": 1751932239,
+    "date_posted": 1751932239,
+    "url": "https://mosaic.wd5.myworkdayjobs.com/mosaic/job/US---Tampa-FL-Lithia-area/Data-Analyst-Co-op-Intern---Spring-2026_59735",
+    "locations": [
+      "Brandon, FL"
+    ],
+    "company_url": "https://simplify.jobs/c/Mosaic",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "date_updated": 1751933358,
+    "url": "https://job-boards.greenhouse.io/scm/jobs/721888",
+    "company_name": "Stevens Capital Management LP",
+    "title": "Developer Intern",
+    "locations": [
+      "Radnor, PA"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "source": "insikizi23",
+    "id": "9d7203a2-50a3-4c8f-8cf7-ef6b524f43ef",
+    "date_posted": 1751933358,
+    "company_url": "",
+    "is_visible": true
   }
 ]
