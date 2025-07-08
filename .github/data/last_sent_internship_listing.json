@@ -88038,5 +88038,25 @@
     "company_url": "https://simplify.jobs/c/AI-Fund",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Teledyne",
+    "id": "c52ebf0d-ea73-466c-b7b8-0eb651c0c4ac",
+    "title": "Summer Intern - Software Engineer",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1752018531,
+    "date_posted": 1752018531,
+    "url": "https://flir.wd1.myworkdayjobs.com/en-US/flircareers/job/US---Elgin-IL/Summer-Intern---Software-Engineer_REQ30137",
+    "locations": [
+      "Elgin, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/199b3c43-379a-408c-a6a8-980e79183038",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
