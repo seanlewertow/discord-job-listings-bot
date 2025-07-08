@@ -87978,5 +87978,25 @@
     "company_url": "https://simplify.jobs/c/McKinney",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "iSono Health",
+    "id": "11e59e53-7009-4f00-9efa-175b35ee840f",
+    "title": "Software Engineering Intern (Internship)",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1751927942,
+    "date_posted": 1751927942,
+    "url": "https://ats.rippling.com/isonohealth/jobs/67372c25-f4fb-4d38-8aae-6df5d74e5467",
+    "locations": [
+      "San Bruno, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Isono-Health",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
