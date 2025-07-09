@@ -88098,5 +88098,25 @@
     "company_url": "https://simplify.jobs/c/IPG-DXTRA",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Ciena",
+    "id": "ab843abc-edeb-45eb-90e0-c9cbc09a6bf9",
+    "title": "Software Co-op Student - Liquid Spectrum Applications",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1752079584,
+    "date_posted": 1752079584,
+    "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Software-Co-op-Student---Liquid-Spectrum-Applications--Fall-2025-_R028405",
+    "locations": [
+      "Ottawa, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Ciena",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
