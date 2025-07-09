@@ -88058,5 +88058,25 @@
     "company_url": "https://simplify.jobs/c/199b3c43-379a-408c-a6a8-980e79183038",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Lamb Weston",
+    "id": "0832f3cd-0410-4623-bf21-f0ad4a5e13c0",
+    "title": "Lamb Weston Summer Internship Program",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1752019551,
+    "date_posted": 1752019551,
+    "url": "https://lambweston.wd1.myworkdayjobs.com/lamb_external/job/Kennewick-WA-USA-Kennewick-Office/Annual-Summer-Intern-Program--2023-_Req-230467",
+    "locations": [
+      "Kennewick, WA"
+    ],
+    "company_url": "https://simplify.jobs/c/Lamb-Weston",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
