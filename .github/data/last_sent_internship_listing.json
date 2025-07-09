@@ -88078,5 +88078,25 @@
     "company_url": "https://simplify.jobs/c/Lamb-Weston",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "IPG DXTRA",
+    "id": "27c4c5c3-1337-433a-8e86-8bcdf2c57345",
+    "title": "Media Analytics Intern",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1752075934,
+    "date_posted": 1752075934,
+    "url": "https://job-boards.greenhouse.io/dxacirca/jobs/8065408002",
+    "locations": [
+      "Washington, DC"
+    ],
+    "company_url": "https://simplify.jobs/c/IPG-DXTRA",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
