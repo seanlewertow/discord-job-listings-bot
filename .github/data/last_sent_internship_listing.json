@@ -88455,5 +88455,43 @@
     "date_posted": 1752139394,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "date_updated": 1752139891,
+    "url": "https://lifeattiktok.com/search/7486556064496240904",
+    "company_name": "TikTok",
+    "title": "Software Engineer Intern (MSP)",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "terms": [
+      "Summer 2025"
+    ],
+    "sponsorship": "Does Not Offer Sponsorship",
+    "active": true,
+    "source": "AlmondCroffle",
+    "id": "f5369412-94a0-42c6-bb58-971a2ca8564e",
+    "date_posted": 1752139891,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1752140336,
+    "url": "https://lifeattiktok.com/search/7482049544311851271",
+    "company_name": "TikTok",
+    "title": "Software Engineer Intern (MSP)",
+    "locations": [
+      "San Jose, California"
+    ],
+    "terms": [
+      "Summer 2025"
+    ],
+    "sponsorship": "Does Not Offer Sponsorship",
+    "active": true,
+    "source": "AlmondCroffle",
+    "id": "cc3f8d40-4f2d-4fbf-9dcf-b7a993f2ba53",
+    "date_posted": 1752140336,
+    "company_url": "",
+    "is_visible": true
   }
 ]
