@@ -88656,5 +88656,25 @@
     "company_url": "https://simplify.jobs/c/f006a158-9398-482e-9a19-a635e79862ae",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Altera Corporation",
+    "id": "2cacb2ef-372d-4678-a272-55b9883ce113",
+    "title": "Software Engineer \u2013 Intern",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1752191042,
+    "date_posted": 1752191042,
+    "url": "https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/Software-Engineer----Intern_R00901",
+    "locations": [
+      "Toronto, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Altera-Corporation",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
