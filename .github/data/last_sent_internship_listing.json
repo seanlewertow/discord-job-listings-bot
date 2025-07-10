@@ -88378,5 +88378,43 @@
     "company_url": "https://simplify.jobs/c/Cooper-Companies",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "date_updated": 1752137497,
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineering-Intern--Robot-Learning-Platform---Fall-2025_JR1995734",
+    "company_name": "NVIDIA",
+    "title": "Software Engineering Intern - Robot Learning Platform",
+    "locations": [
+      "Santa Clara, CA"
+    ],
+    "terms": [
+      "Fall 2025"
+    ],
+    "sponsorship": "Does Not Offer Sponsorship",
+    "active": true,
+    "source": "AlmondCroffle",
+    "id": "83e384ae-fc76-43d3-9937-d7c8653f3713",
+    "date_posted": 1752137497,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1752137672,
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/System-Software-Engineering-Intern--GPU-Server---Fall-2025_JR1991278",
+    "company_name": "NVIDIA",
+    "title": "System Software Engineering Intern, GPU Server",
+    "locations": [
+      "Santa Clara, CA"
+    ],
+    "terms": [
+      "Fall 2025"
+    ],
+    "sponsorship": "Does Not Offer Sponsorship",
+    "active": true,
+    "source": "AlmondCroffle",
+    "id": "08e875c0-37d9-4c14-a517-8edfc0c8c4a4",
+    "date_posted": 1752137672,
+    "company_url": "",
+    "is_visible": true
   }
 ]
