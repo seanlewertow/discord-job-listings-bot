@@ -88176,5 +88176,107 @@
     "company_url": "https://simplify.jobs/c/Palantir",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Weber Shandwick",
+    "id": "0076f7ea-3093-4781-9e14-5c59176f719d",
+    "title": "Media Analytics Intern",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1752105550,
+    "date_posted": 1752105550,
+    "url": "https://www.webershandwick.com/work-at-weber/careers/?gh_jid=8065407002",
+    "locations": [
+      "Washington, DC"
+    ],
+    "company_url": "https://simplify.jobs/c/Weber-Shandwick",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Hello Fresh",
+    "id": "c8ba022c-aec8-402c-b5d5-ce9685b7a004",
+    "title": "Intern \u2013 Executive Analytics & Tools",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1752106576,
+    "date_posted": 1752106576,
+    "url": "https://careers.hellofresh.com/global/en/job/7060357?gh_jid=7060357",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Hello-Fresh",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Rippling",
+    "id": "7158b1cd-23bd-4fcf-8501-5f95f0963d36",
+    "title": "Software Engineer Intern",
+    "active": true,
+    "terms": [
+      "Winter 2026"
+    ],
+    "date_updated": 1752107647,
+    "date_posted": 1752107647,
+    "url": "https://ats.rippling.com/rippling/jobs/203e0cac-0e30-4603-8087-f764e8c3f85c",
+    "locations": [
+      "SF",
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Rippling",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Rippling",
+    "id": "3d40df7f-0692-4e9b-a273-74728052bf81",
+    "title": "Frontend/Full Stack Software Engineer Intern",
+    "active": true,
+    "terms": [
+      "Winter 2026"
+    ],
+    "date_updated": 1752107498,
+    "date_posted": 1752107498,
+    "url": "https://ats.rippling.com/rippling/jobs/3fd9615a-d0c7-458c-a0fc-5d9d7f0ce77c",
+    "locations": [
+      "SF",
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Rippling",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Navy Federal",
+    "id": "f8cb6e4a-f1e7-4676-8e59-951d84e1bfac",
+    "title": "Intern \u2013 Year Round - Microsoft Power Platform Program Services",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1752106897,
+    "date_posted": 1752106897,
+    "url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/jobs/job/25623",
+    "locations": [
+      "Vienna, VA"
+    ],
+    "company_url": "https://simplify.jobs/c/Navy-Federal",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
