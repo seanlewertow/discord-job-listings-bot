@@ -88358,5 +88358,25 @@
     "company_url": "https://simplify.jobs/c/Wurl",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Cooper Companies",
+    "id": "53a30fa4-73c3-4b50-86e0-87185b63cfe9",
+    "title": "Software Engineer Intern - Saap",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1752106067,
+    "date_posted": 1752106067,
+    "url": "https://hcjy.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/7981",
+    "locations": [
+      "Bridgeport, CT"
+    ],
+    "company_url": "https://simplify.jobs/c/Cooper-Companies",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
