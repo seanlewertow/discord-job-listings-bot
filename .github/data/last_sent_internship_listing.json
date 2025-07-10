@@ -88416,5 +88416,44 @@
     "date_posted": 1752137672,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "date_updated": 1752137950,
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Robotics-Software-Intern--Sim2Real-Deployment---Fall-2025_JR1998912",
+    "company_name": "NVIDIA",
+    "title": "Robotics Software Intern - Sim2Real Deployment",
+    "locations": [
+      "Santa Clara, CA"
+    ],
+    "terms": [
+      "Fall 2025"
+    ],
+    "sponsorship": "Does Not Offer Sponsorship",
+    "active": true,
+    "source": "AlmondCroffle",
+    "id": "77902452-0e2b-47dd-8fca-362b8d214de2",
+    "date_posted": 1752137950,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1752139394,
+    "url": "https://jobs.ashbyhq.com/ramp/0f1c331d-21b6-44fb-a326-5357d6e30188",
+    "company_name": "Ramp",
+    "title": "Software Engineer Internship | iOS",
+    "locations": [
+      "New York City, NY",
+      "San Francisco, CA"
+    ],
+    "terms": [
+      "Fall 2025"
+    ],
+    "sponsorship": "Does Not Offer Sponsorship",
+    "active": true,
+    "source": "AlmondCroffle",
+    "id": "ec631329-50ef-458e-94be-87ad6775ab49",
+    "date_posted": 1752139394,
+    "company_url": "",
+    "is_visible": true
   }
 ]
