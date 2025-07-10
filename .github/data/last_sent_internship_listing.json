@@ -88278,5 +88278,85 @@
     "company_url": "https://simplify.jobs/c/Navy-Federal",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "NorthAB, LLC",
+    "id": "217aabfe-36e7-4e28-adcd-c2fe55a7219b",
+    "title": "Product Engineering Intern/Co-Op",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1752110366,
+    "date_posted": 1752110366,
+    "url": "https://nabancard.wd1.myworkdayjobs.com/en-US/nab/job/US---Remote/Product-Engineering-Intern-Co-Op_JR101360",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/26c711e0-92c4-46e2-b6c9-4299b6efe90b",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Amcor",
+    "id": "1b57440b-0c53-4152-a016-b47606fa7a2a",
+    "title": "Business Intelligence Intern",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1752110030,
+    "date_posted": 1752110030,
+    "url": "https://amcor.wd5.myworkdayjobs.com/amcor_external_career_site/job/AF-Oshkosh-Division-Head-Office-WI/Business-Intelligence-Intern_REQ_80854",
+    "locations": [
+      "Oshkosh, WI"
+    ],
+    "company_url": "https://simplify.jobs/c/Amcor",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Moog Inc",
+    "id": "0d92def8-6e17-4dfa-b5fc-31acbbd2485f",
+    "title": "Intern \u2013 Software Engineer",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1752111318,
+    "date_posted": 1752111318,
+    "url": "https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Santa-Barbara-CA/Intern--Software-Engineer_R-25-12888",
+    "locations": [
+      "Santa Barbara, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Moog-Inc",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Wurl",
+    "id": "911f40b9-f027-4128-9e35-e6cc08ec56ee",
+    "title": "Data Engineer Intern",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1752113642,
+    "date_posted": 1752113642,
+    "url": "https://job-boards.greenhouse.io/wurljobs/jobs/4570159006",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/Wurl",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
