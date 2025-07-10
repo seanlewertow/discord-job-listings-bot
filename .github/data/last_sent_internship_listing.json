@@ -88572,5 +88572,68 @@
     "date_posted": 1752185665,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Altera Digital Health",
+    "id": "29af7a44-1534-4d8c-826f-4fd8c391161a",
+    "title": "Intern \u2013 Operational Innovation & Digital Solutions",
+    "active": true,
+    "terms": [
+      "Summer 2025",
+      "Fall 2025"
+    ],
+    "date_updated": 1752187400,
+    "date_posted": 1752187400,
+    "url": "https://job-boards.greenhouse.io/alteradigitalhealth/jobs/4785180007",
+    "locations": [
+      "Raleigh, NC",
+      "Chicago, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/Altera-Digital-Health",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Altera Digital Health",
+    "id": "1030159f-0fa3-4cab-b158-cb74139e0fa2",
+    "title": "Intern \u2013 Operational Innovation & Digital Solutions",
+    "active": true,
+    "terms": [
+      "Summer 2025",
+      "Fall 2025"
+    ],
+    "date_updated": 1752187399,
+    "date_posted": 1752187399,
+    "url": "https://job-boards.greenhouse.io/alteradigitalhealth/jobs/4770616007",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/Altera-Digital-Health",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Aquatic Capital Management",
+    "id": "965f3fb9-0610-4a6f-9e82-0a09f0c07c3a",
+    "title": "AI/LLM Automation Intern",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1752187117,
+    "date_posted": 1752187117,
+    "url": "https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8071545002",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/Aquatic-Capital-Management",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
