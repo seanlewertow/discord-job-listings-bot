@@ -88533,5 +88533,25 @@
     "company_url": "https://simplify.jobs/c/Audax-Group",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "ExodusPoint",
+    "id": "c8a165ab-f25d-4201-8479-5e3036447639",
+    "title": "Artificial Intelligence Intern",
+    "active": true,
+    "terms": [
+      "Winter 2026"
+    ],
+    "date_updated": 1752162941,
+    "date_posted": 1752162941,
+    "url": "https://job-boards.greenhouse.io/exoduspoint/jobs/8070584002",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/ExodusPoint",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
