@@ -88780,5 +88780,25 @@
     "company_url": "https://simplify.jobs/c/Citadel-Securities",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Live Nation Entertainment",
+    "id": "b8c55504-664c-4575-83d1-b2ac50115a75",
+    "title": "Software Engineering Intern",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1752204798,
+    "date_posted": 1752204798,
+    "url": "https://livenation.wd1.myworkdayjobs.com/en-US/LNExternalSite/job/Work-From-Home---California/Software-Engineering-Intern_JR-81523",
+    "locations": [
+      "California"
+    ],
+    "company_url": "https://simplify.jobs/c/Live-Nation-Entertainment",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
