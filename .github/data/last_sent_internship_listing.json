@@ -88676,5 +88676,109 @@
     "company_url": "https://simplify.jobs/c/Altera-Corporation",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Tower Research Capital",
+    "id": "af6d9dca-b7a3-41bf-8aa1-c0ef7d83707a",
+    "title": "Quantitative Trader Intern",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1752191638,
+    "date_posted": 1752191638,
+    "url": "https://www.tower-research.com/open-positions/?gh_jid=7062358",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Tower-Research-Capital",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Citadel",
+    "id": "c2dcf460-4447-4356-89b3-714d402716a0",
+    "title": "Launch Intern",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1752196373,
+    "date_posted": 1752196373,
+    "url": "https://www.citadel.com/careers/details/launch-intern-us/",
+    "locations": [
+      "Miami, FL",
+      "Chicago, IL",
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Citadel",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Citadel Securities",
+    "id": "b977109a-8e8c-4173-a584-460e709a733f",
+    "title": "Quantitative Research Analyst Intern - BS/MS",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1752196368,
+    "date_posted": 1752196368,
+    "url": "https://www.citadelsecurities.com/careers/details/quantitative-research-analyst-intern-bs-ms-europe/",
+    "locations": [
+      "London, UK",
+      "Paris, France"
+    ],
+    "company_url": "https://simplify.jobs/c/Citadel-Securities",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Citadel",
+    "id": "3781fd12-0d4b-4e6f-a890-013b3381c856",
+    "title": "Quantitative Research Analyst Intern - BS/MS",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1752196367,
+    "date_posted": 1752196367,
+    "url": "https://www.citadel.com/careers/details/quantitative-research-analyst-intern-bs-ms-europe/",
+    "locations": [
+      "London, UK",
+      "Paris, France"
+    ],
+    "company_url": "https://simplify.jobs/c/Citadel",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Citadel Securities",
+    "id": "16352480-c9f0-45d4-9945-7ce4aba872fd",
+    "title": "Credit & Rates Rotational Trading Intern",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1752196390,
+    "date_posted": 1752196390,
+    "url": "https://www.citadelsecurities.com/careers/details/credit-rates-rotational-trading-intern-us/",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Citadel-Securities",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
