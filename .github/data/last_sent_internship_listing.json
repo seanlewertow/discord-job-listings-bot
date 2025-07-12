@@ -89003,5 +89003,45 @@
     "company_url": "https://simplify.jobs/c/Tower-Research-Capital",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Magna",
+    "id": "942b4383-c408-4291-b7bd-eb32e9e97cac",
+    "title": "Data Science & Analytics WCM Co-op Student",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1752271674,
+    "date_posted": 1752271674,
+    "url": "https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Brampton-Ontario-CA/Data-Science---Analytics-WCM-Co-op-Student_R00199621",
+    "locations": [
+      "Brampton, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Magna",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Fullscript",
+    "id": "17297b33-3c3a-4843-ae91-5aaefe314533",
+    "title": "Co-op/Intern Ruby Engineer",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1752275855,
+    "date_posted": 1752275855,
+    "url": "https://jobs.lever.co/fullscript/540882fa-e211-41c5-a3e0-2873f6e40cfb/apply",
+    "locations": [
+      "Ottawa, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/FullScript",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
