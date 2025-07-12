@@ -88860,5 +88860,67 @@
     "company_url": "https://simplify.jobs/c/9a5a4634-d168-4118-b172-0c0aae45f2ad",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Zeiss",
+    "id": "63cc4d2d-7397-4d65-af7b-a442760b16ff",
+    "title": "Software Engineering Intern",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1752278319,
+    "date_posted": 1752278319,
+    "url": "https://zeissgroup.wd3.myworkdayjobs.com/External/job/Dublin-CA/Software-Engineering-Intern_JR_1042752",
+    "locations": [
+      "Dublin, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Zeiss",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Booz Allen",
+    "id": "cd929e1b-b53a-41da-bb0e-978fa0a580e8",
+    "title": "University \u2013 Systems Engineer Intern",
+    "active": true,
+    "terms": [
+      "Winter 2025",
+      "Summer 2026"
+    ],
+    "date_updated": 1752277837,
+    "date_posted": 1752277837,
+    "url": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fayetteville-NC/University--Systems-Engineer-Intern_R0222302",
+    "locations": [
+      "Fayetteville, NC"
+    ],
+    "company_url": "https://simplify.jobs/c/Booz-Allen",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Sanofi",
+    "id": "4f2d3d82-a4c9-4616-9b13-13964ec80c5c",
+    "title": "Co-op-Intern - Msat - Data Science - Process Modeling",
+    "active": true,
+    "terms": [
+      "Winter 2026",
+      "Spring 2026"
+    ],
+    "date_updated": 1752280603,
+    "date_posted": 1752280603,
+    "url": "https://sanofi.wd3.myworkdayjobs.com/en-US/SanofiCareers/job/Framingham-MA/Winter--Spring-2026-Co-op-Intern---MSAT---Data-Science---Process-Modeling_R2803105",
+    "locations": [
+      "Cambridge, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/Sanofi",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
