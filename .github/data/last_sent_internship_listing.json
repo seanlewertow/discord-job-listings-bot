@@ -89259,5 +89259,47 @@
     "company_url": "https://simplify.jobs/c/DRW",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "WGU",
+    "id": "efe3becb-c2ec-489d-9115-aa9b091adefa",
+    "title": "Associate Software Engineer Intern",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1752525939,
+    "date_posted": 1752525939,
+    "url": "https://wgu.wd5.myworkdayjobs.com/en-US/External/job/Salt-Lake-City-Office/Associate-Software-Engineer-Intern_JR-022297",
+    "locations": [
+      "Salt Lake City, UT"
+    ],
+    "company_url": "https://simplify.jobs/c/e05ef31f-f120-4063-adad-2b2fdde995cb",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "DRW",
+    "id": "c7343fde-2dbc-478d-a4b2-9a1ab06f3b52",
+    "title": "Software Developer Intern",
+    "active": true,
+    "terms": [
+      "Winter 2026",
+      "Spring 2027",
+      "Summer 2027"
+    ],
+    "date_updated": 1752525551,
+    "date_posted": 1752525551,
+    "url": "https://job-boards.greenhouse.io/drweng/jobs/6987115",
+    "locations": [
+      "London, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/DRW",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
