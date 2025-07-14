@@ -89215,5 +89215,49 @@
     "company_url": "https://simplify.jobs/c/Bot-Auto",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "DRW",
+    "id": "1b59a6da-b31e-43cb-b8db-6b27bed2e95b",
+    "title": "Quantitative Research Intern",
+    "active": true,
+    "terms": [
+      "Winter 2026",
+      "Winter 2027",
+      "Spring 2027",
+      "Summer 2027"
+    ],
+    "date_updated": 1752524915,
+    "date_posted": 1752524915,
+    "url": "https://job-boards.greenhouse.io/drweng/jobs/6987105",
+    "locations": [
+      "London, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/DRW",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "DRW",
+    "id": "a280fb88-977f-40b2-8db5-33676938c4b7",
+    "title": "CAMPUS RY26 Quantitative Trading Analyst Intern",
+    "active": true,
+    "terms": [
+      "Winter 2026",
+      "Summer 2027"
+    ],
+    "date_updated": 1752524554,
+    "date_posted": 1752524554,
+    "url": "https://job-boards.greenhouse.io/drweng/jobs/6899911",
+    "locations": [
+      "London, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/DRW",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
