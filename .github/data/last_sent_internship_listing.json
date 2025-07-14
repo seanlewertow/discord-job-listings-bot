@@ -89195,5 +89195,25 @@
     "company_url": "https://simplify.jobs/c/BitGo",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Bot Auto",
+    "id": "10bbc2fa-793d-42f9-9480-37170b3af54d",
+    "title": "Full Stack Engineering Intern",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1752476895,
+    "date_posted": 1752476895,
+    "url": "https://job-boards.greenhouse.io/botauto/jobs/4797571008",
+    "locations": [
+      "Houston, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Bot-Auto",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
