@@ -89153,5 +89153,27 @@
     "company_url": "https://simplify.jobs/c/372c6250-89ed-4b8e-9000-a81fc94184d8",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Caterpillar Inc.",
+    "id": "598fd8eb-41e5-46a3-8c9c-754ae20faa07",
+    "title": "2026 Summer Corporate Intern - Digital and Analytics",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1752474311,
+    "date_posted": 1752474311,
+    "url": "https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Chicago-Illinois/XMLNAME-2026-Summer-Corporate-Intern---Digital-and-Analytics_R0000313300",
+    "locations": [
+      "Peoria, IL",
+      "Chicago, IL",
+      "Irving, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Caterpillar-Inc",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
