@@ -89321,5 +89321,25 @@
     "company_url": "https://simplify.jobs/c/TD-Bank",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Curve Dental",
+    "id": "03f5eb46-608f-42b5-868d-d643e5598b1f",
+    "title": "Software Development Intern (Temporary)",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1752535042,
+    "date_posted": 1752535042,
+    "url": "https://ats.rippling.com/curve-dental/jobs/b7f7de31-9b57-4235-b8f9-fe19dfabaf14",
+    "locations": [
+      "Calgary, AB, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Curve-Dental",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
