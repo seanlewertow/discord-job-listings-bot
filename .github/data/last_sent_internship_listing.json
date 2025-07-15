@@ -89506,5 +89506,25 @@
     "company_url": "https://simplify.jobs/c/Occidental-Petroleum",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Live Nation Entertainment",
+    "id": "2423b44d-ac5b-4ceb-a773-24532a6cd601",
+    "title": "Nosql Team Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1752550895,
+    "date_posted": 1752550895,
+    "url": "https://livenation.wd1.myworkdayjobs.com/en-US/LNExternalSite/job/Beverly-Hills-CA-USA/NoSQL-Team-Intern_JR-76287-1",
+    "locations": [
+      "Culver City, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Live-Nation-Entertainment",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
