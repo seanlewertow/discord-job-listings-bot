@@ -89341,5 +89341,105 @@
     "company_url": "https://simplify.jobs/c/Curve-Dental",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Akuna Capital",
+    "id": "2156c922-ba8a-4f27-bd2a-50aaab6dfc8c",
+    "title": "Hardware Engineer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1752518400,
+    "date_posted": 1752518400,
+    "url": "https://www.akunacapital.com/job-details?gh_jid=6945855",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/Akuna-Capital",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Akuna Capital",
+    "id": "533c5cbc-2c31-4f95-b3ee-c79ed5b904ce",
+    "title": "Software Engineer Intern - Python",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1752518405,
+    "date_posted": 1752518405,
+    "url": "https://www.akunacapital.com/job-details?gh_jid=7055471",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/Akuna-Capital",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Akuna Capital",
+    "id": "9f4cdfd7-56ef-48ca-9ae9-100399041c1e",
+    "title": "Software Engineer Intern - C++",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1752518407,
+    "date_posted": 1752518407,
+    "url": "https://www.akunacapital.com/job-details?gh_jid=6996427",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/Akuna-Capital",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Akuna Capital",
+    "id": "c0492323-352f-4760-bf7c-5c301e1b6b72",
+    "title": "Software Engineer Intern - C# .NET Desktop",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1752518400,
+    "date_posted": 1752518400,
+    "url": "https://www.akunacapital.com/job-details?gh_jid=7060377",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/Akuna-Capital",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Akuna Capital",
+    "id": "08d72057-2262-4940-ab32-648dcc930353",
+    "title": "Quantitative Research Intern",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1752518401,
+    "date_posted": 1752518401,
+    "url": "https://www.akunacapital.com/job-details?gh_jid=7055793",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/Akuna-Capital",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
