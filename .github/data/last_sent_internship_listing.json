@@ -89526,5 +89526,24 @@
     "company_url": "https://simplify.jobs/c/Live-Nation-Entertainment",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "date_updated": 1752558239,
+    "url": "https://interac.wd3.myworkdayjobs.com/Interac/job/Toronto/Software-Development-Intern--e-Transfer-_REQ-1870",
+    "company_name": "Interac",
+    "title": "Software Development Intern (e-Transfer)",
+    "locations": [
+      "Toronto, Ontario, Canada"
+    ],
+    "terms": [
+      "Fall 2025"
+    ],
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "source": "GaryZhous",
+    "id": "3eba7b3a-5f7d-4127-9629-675724975dab",
+    "date_posted": 1752558239,
+    "company_url": "",
+    "is_visible": true
   }
 ]
