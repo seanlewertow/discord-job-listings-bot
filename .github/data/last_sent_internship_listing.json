@@ -89629,5 +89629,26 @@
     "company_url": "https://simplify.jobs/c/Nissan-Global",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Capital One",
+    "id": "50c69c72-2547-465e-8e07-643c6cff1247",
+    "title": "Data Analyst Intern",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1752594418,
+    "date_posted": 1752594418,
+    "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Data-Analyst-Intern---Summer-2026_R218614-1",
+    "locations": [
+      "McLean, VA",
+      "Richmond, VA"
+    ],
+    "company_url": "https://simplify.jobs/c/Capital-One",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
