@@ -89650,5 +89650,85 @@
     "company_url": "https://simplify.jobs/c/Capital-One",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Integra FEC",
+    "id": "4294f84d-72ea-4305-9184-fb401c89700b",
+    "title": "Fall \u2013 Data Scientist Intern - PhD",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1752594661,
+    "date_posted": 1752594661,
+    "url": "https://job-boards.greenhouse.io/integra/jobs/4522522008",
+    "locations": [
+      "Austin, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Integra-FEC",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Integra FEC",
+    "id": "c50a2a65-255b-4e7f-b3a7-c823855372d6",
+    "title": "Fall \u2013 Data Analyst Intern",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1752594662,
+    "date_posted": 1752594662,
+    "url": "https://job-boards.greenhouse.io/integrainterns/jobs/4522500008",
+    "locations": [
+      "Austin, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Integra-FEC",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Integra FEC",
+    "id": "b9b7b539-ad69-4201-847f-6dfc32c09e67",
+    "title": "Fall \u2013 Data Scientist Intern - PhD",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1752594662,
+    "date_posted": 1752594662,
+    "url": "https://job-boards.greenhouse.io/integrainterns/jobs/4580605008",
+    "locations": [
+      "Austin, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Integra-FEC",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Integra FEC",
+    "id": "cc7f3be6-0c1d-4d28-9284-af55f27b3a1b",
+    "title": "Fall \u2013 Data Analyst Intern",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1752594661,
+    "date_posted": 1752594661,
+    "url": "https://job-boards.greenhouse.io/integra/jobs/4522499008",
+    "locations": [
+      "Austin, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Integra-FEC",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
