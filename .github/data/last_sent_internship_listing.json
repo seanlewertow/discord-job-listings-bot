@@ -89545,5 +89545,89 @@
     "date_posted": 1752558239,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Geotab",
+    "id": "2eb982ee-9ac1-4246-a93b-fdd920748148",
+    "title": "Software Developer Intern",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1752593395,
+    "date_posted": 1752593395,
+    "url": "https://job-boards.greenhouse.io/internshiplist2000/jobs/4575184008",
+    "locations": [
+      "Toronto, ON, Canada",
+      "Oakville, ON, Canada",
+      "Kitchener, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Geotab",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Geotab",
+    "id": "6832ab76-ef30-46ff-863c-78bf6f03b1d0",
+    "title": "Data Analyst Intern - Data Operations",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1752593395,
+    "date_posted": 1752593395,
+    "url": "https://job-boards.greenhouse.io/internshiplist2000/jobs/4615491008",
+    "locations": [
+      "Toronto, ON, Canada",
+      "Oakville, ON, Canada",
+      "Kitchener, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Geotab",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Geotab",
+    "id": "c6e38bc7-daae-4ab6-9728-3b51745a9025",
+    "title": "Software Development Intern - IO Mobile App Platform",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1752593387,
+    "date_posted": 1752593387,
+    "url": "https://job-boards.greenhouse.io/internshiplist2000/jobs/4628085008",
+    "locations": [
+      "Oakville, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Geotab",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Nissan Global",
+    "id": "67e55ea9-7dc1-4129-854b-083feca47415",
+    "title": "Data Scientist Degree Apprentice",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1752593260,
+    "date_posted": 1752593260,
+    "url": "https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Cranfield/Data-Scientist-Degree-Apprentice_R00193334",
+    "locations": [
+      "Bedfordshire, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Nissan-Global",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
