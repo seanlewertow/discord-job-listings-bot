@@ -89871,5 +89871,62 @@
     "date_posted": 1752702164,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "date_updated": 1752702806,
+    "url": "https://job-boards.greenhouse.io/fiveringsllc/jobs/4563183008",
+    "company_name": "Five Rings",
+    "title": "Quantitative Researcher",
+    "locations": [
+      "New York"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "source": "AlmondCroffle",
+    "id": "4c4becae-fb14-4899-ae14-43884b3de6ec",
+    "date_posted": 1752702806,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1752702892,
+    "url": "https://job-boards.greenhouse.io/fiveringsllc/jobs/4613451008",
+    "company_name": "Five Rings",
+    "title": "Quantitative Trader",
+    "locations": [
+      "New York"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "source": "AlmondCroffle",
+    "id": "99061796-1d4c-49b3-bccf-b652043edb95",
+    "date_posted": 1752702892,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1752703034,
+    "url": "https://job-boards.greenhouse.io/fiveringsllc/jobs/4806713008",
+    "company_name": "Five Rings",
+    "title": "Software Developer",
+    "locations": [
+      "New York"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "source": "AlmondCroffle",
+    "id": "a3ede5ec-a866-47e7-a243-533274b64baa",
+    "date_posted": 1752703034,
+    "company_url": "",
+    "is_visible": true
   }
 ]
