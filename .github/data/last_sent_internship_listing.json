@@ -89791,5 +89791,25 @@
     "date_posted": 1752620872,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Citadel",
+    "id": "71e539ff-f839-4f08-8c0f-0c7a934bbf05",
+    "title": "Sector Data Analyst \u2013 Intern",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1752682057,
+    "date_posted": 1752682057,
+    "url": "https://www.citadel.com/careers/details/sector-data-analyst-intern-europe/",
+    "locations": [
+      "London, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Citadel",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
