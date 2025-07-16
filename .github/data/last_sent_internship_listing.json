@@ -89811,5 +89811,25 @@
     "company_url": "https://simplify.jobs/c/Citadel",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "ATPCO",
+    "id": "601ab90d-c0b2-4c34-aba9-5d9aeb94ac47",
+    "title": "Software Engineer Intern - Fall",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1752692139,
+    "date_posted": 1752692139,
+    "url": "https://jobs.smartrecruiters.com/ATPCO1/744000071086725",
+    "locations": [
+      "Reston, VA"
+    ],
+    "company_url": "https://simplify.jobs/c/e38ff337-ef4e-42b4-b1fc-e1834b3b603f",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
