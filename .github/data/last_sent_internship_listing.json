@@ -89928,5 +89928,103 @@
     "date_posted": 1752703034,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "date_updated": 1752704054,
+    "url": "https://job-boards.greenhouse.io/ctccampusboard/jobs/4545359005",
+    "company_name": "CTC",
+    "title": "Software Engineer",
+    "locations": [
+      "Chicago, IL",
+      "New York, NY"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "source": "AlmondCroffle",
+    "id": "0be08fdc-a2cb-47b8-a985-e15e6ce34b7d",
+    "date_posted": 1752704054,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1752704192,
+    "url": "https://careers.caterpillar.com/en/jobs/r0000313300/2026-summer-corporate-intern-digital-and-analytics",
+    "company_name": "Caterpillar",
+    "title": "Digital and Analytics",
+    "locations": [
+      "Chicago, IL",
+      "Peoria, IL",
+      "Irving, TX"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "source": "AlmondCroffle",
+    "id": "9172ef4a-5b49-4c4a-8994-cf56ecfd5921",
+    "date_posted": 1752704192,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1752704767,
+    "url": "https://akunacapital.com/job-details?gh_jid=6996427",
+    "company_name": "Akuna Capital",
+    "title": "Software Engineer C++",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "source": "AlmondCroffle",
+    "id": "7a76ed8c-250a-427c-8492-d6fc7ef8997e",
+    "date_posted": 1752704297,
+    "company_url": "",
+    "is_visible": false
+  },
+  {
+    "date_updated": 1752704375,
+    "url": "https://akunacapital.com/job-details?gh_jid=7055793",
+    "company_name": "Akuna Capital",
+    "title": "Quantitative Research",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "source": "AlmondCroffle",
+    "id": "a8f8bb7e-1150-4205-8081-6d0609cc0ec5",
+    "date_posted": 1752704375,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1752704493,
+    "url": "https://careers.twosigma.com/careers/JobDetail/New-York-New-York-United-States-Quantitative-Researcher-Internship-2026-Summer/13257",
+    "company_name": "Two Sigma",
+    "title": "Quantitative Researcher",
+    "locations": [
+      "New York, NY"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "source": "AlmondCroffle",
+    "id": "afa81220-95fd-42b5-887d-22c6d1cf80e8",
+    "date_posted": 1752704493,
+    "company_url": "",
+    "is_visible": true
   }
 ]
