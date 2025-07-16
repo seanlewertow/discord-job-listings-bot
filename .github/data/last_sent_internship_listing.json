@@ -90026,5 +90026,25 @@
     "date_posted": 1752704493,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "NXP Semiconductors",
+    "id": "1ac16bab-f736-430d-bfd9-0d18a7e50da6",
+    "title": "Semiconductor Packaging Engineering Intern",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1752706510,
+    "date_posted": 1752706510,
+    "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/Semiconductor-Packaging-Engineering-Intern---Fall-2025_R-10059102",
+    "locations": [
+      "Austin, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/91edf47c-f010-430e-8558-5c1fbb365984",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
