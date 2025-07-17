@@ -90106,5 +90106,25 @@
     "company_url": "https://simplify.jobs/c/d63c7c19-9e10-40da-84e9-383bb65dbe55",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Optiver",
+    "id": "b0e9ecde-edb9-4d18-a010-544b56b16851",
+    "title": "Trading Operations Analyst Intern",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1752780690,
+    "date_posted": 1752780690,
+    "url": "https://optiver.com/working-at-optiver/career-opportunities/8078284002/?gh_jid=8078284002",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/Optiver",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
