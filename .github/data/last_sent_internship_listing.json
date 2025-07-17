@@ -90046,5 +90046,25 @@
     "company_url": "https://simplify.jobs/c/91edf47c-f010-430e-8558-5c1fbb365984",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Neuralink",
+    "id": "ca10b950-dafb-4ebf-b140-a175ce765fc3",
+    "title": "Robot Optics Intern",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1752706412,
+    "date_posted": 1747261993,
+    "url": "https://boards.greenhouse.io/neuralink/jobs/6576326003",
+    "locations": [
+      "Fremont, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Neuralink",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
