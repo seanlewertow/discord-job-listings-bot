@@ -90148,5 +90148,25 @@
     "company_url": "https://simplify.jobs/c/Procter-Gamble-Company",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "CrucialLogics",
+    "id": "30afcb1f-8682-4fb1-94b8-d73d1eae3d78",
+    "title": "Intern Associate Consultant - Microsoft AI Solutions",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1752793498,
+    "date_posted": 1752793498,
+    "url": "https://ats.rippling.com/cruciallogics/jobs/da995c92-0158-4064-9990-a3f22bec110b",
+    "locations": [
+      "Remote in Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/CrucialLogics",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
