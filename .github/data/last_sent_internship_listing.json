@@ -90126,5 +90126,27 @@
     "company_url": "https://simplify.jobs/c/Optiver",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Procter & Gamble (P&G)",
+    "id": "7df12e4e-2c4c-4e11-90a0-4d3269000aba",
+    "title": "2026 STEM BOLD Internship & Scholarship",
+    "active": true,
+    "terms": [
+      "Spring 2027",
+      "Fall 2026",
+      "Fall 2027"
+    ],
+    "date_updated": 1752791463,
+    "date_posted": 1752791463,
+    "url": "https://pg.wd5.myworkdayjobs.com/1000/job/CINCINNATI-GENERAL-OFFICES/XMLNAME-2026-STEM-BOLD-Internship---Scholarship_R000135727",
+    "locations": [
+      "Cincinnati, OH"
+    ],
+    "company_url": "https://simplify.jobs/c/Procter-Gamble-Company",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
