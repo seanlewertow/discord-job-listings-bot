@@ -16252,5 +16252,90 @@
     "company_url": "https://simplify.jobs/c/c202599e-d952-4aab-a921-e4ecf64a1dea",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "mthree",
+    "id": "c6221e18-360d-4969-9587-61b5f393cb69",
+    "title": "Junior Software Engineer",
+    "active": true,
+    "date_updated": 1752776883,
+    "date_posted": 1752776883,
+    "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4374540006",
+    "locations": [
+      "United States"
+    ],
+    "company_url": "https://simplify.jobs/c/Mthree",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "mthree",
+    "id": "8e605126-d8c5-4084-8805-fc85144d1971",
+    "title": "D\u00e9veloppeur g\u00e9nie logiciel / Junior Software Developer",
+    "active": true,
+    "date_updated": 1752776846,
+    "date_posted": 1752776846,
+    "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4374534006",
+    "locations": [
+      "Montreal, QC, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Mthree",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "mthree",
+    "id": "6931ddd0-e0c0-44b6-94a1-60f7f7e4eda9",
+    "title": "D\u00e9veloppeur g\u00e9nie logiciel / Junior Software Developer",
+    "active": true,
+    "date_updated": 1752776845,
+    "date_posted": 1752776845,
+    "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4374391006",
+    "locations": [
+      "Montreal, QC, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Mthree",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "mthree",
+    "id": "b9796ce2-492e-4261-81ce-451a1728f732",
+    "title": "D\u00e9veloppeur g\u00e9nie logiciel / Junior Software Developer",
+    "active": true,
+    "date_updated": 1752776843,
+    "date_posted": 1752776843,
+    "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4374767006",
+    "locations": [
+      "Montreal, QC, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Mthree",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Caterpillar Inc.",
+    "id": "34e53753-6e8f-4100-b6de-79df339cae27",
+    "title": "Aftermarket Data Engineer I - Cat Digital",
+    "active": true,
+    "date_updated": 1752776156,
+    "date_posted": 1752776156,
+    "url": "https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Chicago-Illinois/Aftermarket-Data-Engineer-I--Cat-Digital_R0000315183",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/Caterpillar-Inc",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
