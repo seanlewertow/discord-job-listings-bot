@@ -90066,5 +90066,45 @@
     "company_url": "https://simplify.jobs/c/Neuralink",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "American Axle & Manufacturing",
+    "id": "1d6bdb23-cbfb-4de1-b070-944b63b3ad9a",
+    "title": "Controls Application Engineering Co-op",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1752704421,
+    "date_posted": 1752704421,
+    "url": "https://aampower.wd1.myworkdayjobs.com/aam-career-site/job/Detroit-MI/Controls-Application-Engineering-Co-op_JREQ-217346",
+    "locations": [
+      "Detroit, MI"
+    ],
+    "company_url": "https://simplify.jobs/c/American-Axle-And-Manufacturing",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Lactalis",
+    "id": "29d95b44-7fe1-4b45-a48f-6035bb8f33c3",
+    "title": "Digital Assets Intern",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1752705845,
+    "date_posted": 1752705845,
+    "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/3420129",
+    "locations": [
+      "Buffalo, NY"
+    ],
+    "company_url": "https://simplify.jobs/c/d63c7c19-9e10-40da-84e9-383bb65dbe55",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
