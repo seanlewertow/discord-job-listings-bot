@@ -90228,5 +90228,25 @@
     "company_url": "https://simplify.jobs/c/Intel",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "QuantCo",
+    "id": "6ae9f4e5-6bce-420b-b285-17a33a0d6355",
+    "title": "Data Science Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1752879172,
+    "date_posted": 1752879172,
+    "url": "https://jobs.lever.co/quantco-/09da5ced-a2fc-4cf1-9013-c177bb673e02/apply",
+    "locations": [
+      "United States"
+    ],
+    "company_url": "https://simplify.jobs/c/QuantCo",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
