@@ -90534,5 +90534,28 @@
     "company_url": "https://simplify.jobs/c/Five-Rings",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Wells Fargo",
+    "id": "b33274f6-acab-4bf6-9237-e62c8ad81770",
+    "title": "2026 Analytics and Data Summer Internship - Early Careers",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1753141354,
+    "date_posted": 1753141354,
+    "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/CHARLOTTE-NC/XMLNAME-2026-Analytics-and-Data-Summer-Internship---Early-Careers_R-475778",
+    "locations": [
+      "Des Moines, IA",
+      "Dallas, TX",
+      "Charlotte, NC",
+      "Minneapolis, MN"
+    ],
+    "company_url": "https://simplify.jobs/c/Wells-Fargo",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
