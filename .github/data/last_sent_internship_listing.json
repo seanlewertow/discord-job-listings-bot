@@ -90514,5 +90514,25 @@
     "company_url": "https://simplify.jobs/c/Warner-Bros",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Five Rings Capital",
+    "id": "1c9ad46a-3060-4def-9979-2154b31b7e19",
+    "title": "Summer Intern - Quantitative Research Analyst",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1753140023,
+    "date_posted": 1753140023,
+    "url": "https://job-boards.greenhouse.io/fiveringsllc/jobs/4563192008",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Five-Rings",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
