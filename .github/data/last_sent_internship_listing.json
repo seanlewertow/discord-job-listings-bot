@@ -90557,5 +90557,116 @@
     "company_url": "https://simplify.jobs/c/Wells-Fargo",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Wells Fargo",
+    "id": "556191e3-8d71-4017-b725-d0fa4bc80939",
+    "title": "2025 Emerging Talent Apprentice - Lgcc",
+    "active": true,
+    "terms": [
+      "Fall 2025",
+      "Spring 2026",
+      "Summer 2026"
+    ],
+    "date_updated": 1753113460,
+    "date_posted": 1753113460,
+    "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/NEW-YORK-NY/XMLNAME-2025-Emerging-Talent-Apprentice---LGCC_R-475686-1",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Wells-Fargo",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Wells Fargo",
+    "id": "ffe51158-461e-4569-ba8e-006aa3653f36",
+    "title": "Technology Summer Internship - Early Careers - Software Engineer",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1753113466,
+    "date_posted": 1753113466,
+    "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/CHARLOTTE-NC/XMLNAME-2026-Technology-Summer-Internship---Early-Careers--Software-Engineer-_R-474982",
+    "locations": [
+      "Iselin, Woodbridge Township, NJ",
+      "Charlotte, NC",
+      "St. Louis, MO",
+      "Phoenix, AZ",
+      "Chandler, AZ",
+      "Irving, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Wells-Fargo",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Nikkiso",
+    "id": "3562bd11-e289-44da-89b3-1cef60cf0737",
+    "title": "Data Analytics Intern",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1753118323,
+    "date_posted": 1753118323,
+    "url": "https://careers-nikkiso.icims.com/jobs/3493/job",
+    "locations": [
+      "Cypress, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Nikkiso",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Walleye Capital",
+    "id": "46895a50-4c9a-41cc-aa44-fe8c9aa4abe4",
+    "title": "Investment Data Science Intern",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1753118207,
+    "date_posted": 1753118207,
+    "url": "https://job-boards.greenhouse.io/walleyecapital-external-internships/jobs/4565271006",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Walleye-Capital",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "The Trade Desk",
+    "id": "04aad1de-def9-41e3-9baa-8215982fe10d",
+    "title": "2026 Software Engineering Internship",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1753147307,
+    "date_posted": 1753147307,
+    "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/4787577007",
+    "locations": [
+      "Irvine, CA",
+      "NYC",
+      "Bellevue, WA",
+      "Denver, CO",
+      "Boulder, CO"
+    ],
+    "company_url": "https://simplify.jobs/c/281371f9-4ed3-4440-876f-4bbeaa0d50e0",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
