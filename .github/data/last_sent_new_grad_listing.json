@@ -16457,5 +16457,57 @@
     "company_url": "https://simplify.jobs/c/Jerry",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Jerry",
+    "id": "6425ba3a-ef45-4548-8563-d4735b6d3cd1",
+    "title": "Software Engineer I",
+    "active": true,
+    "date_updated": 1753141551,
+    "date_posted": 1753141551,
+    "url": "https://jobs.ashbyhq.com/Jerry/2dd7d70d-7794-4662-b0a9-48900db8d26c/application",
+    "locations": [
+      "Toronto, ON, Canada",
+      "Greater Toronto Area, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Jerry",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Coalition",
+    "id": "b70c7334-2f4e-43c5-b676-e430713cbd61",
+    "title": "Software Engineer I",
+    "active": true,
+    "date_updated": 1753113665,
+    "date_posted": 1753113665,
+    "url": "https://www.coalitioninc.com/job-posting?gh_jid=4560711005",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/Coalition",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Coalition",
+    "id": "b8410e88-84d1-4aea-9b97-aea36b0a5fdd",
+    "title": "Software Engineer I",
+    "active": true,
+    "date_updated": 1753113312,
+    "date_posted": 1753113312,
+    "url": "https://www.coalitioninc.com/job-posting?gh_jid=4560712005",
+    "locations": [
+      "Remote in Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Coalition",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
