@@ -90726,5 +90726,66 @@
     "company_url": "https://simplify.jobs/c/Veolia",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Asana",
+    "id": "a93d91a8-8a68-4d90-834a-29be89f49104",
+    "title": "Software Engineer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2027"
+    ],
+    "date_updated": 1753227968,
+    "date_posted": 1753227968,
+    "url": "https://www.asana.com/jobs/apply/7078075?gh_jid=7078075",
+    "locations": [
+      "Vancouver, BC, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Asana",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Asana",
+    "id": "2bb9bcfa-613f-4dfa-aeea-6182e412f02a",
+    "title": "Software Engineer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2027"
+    ],
+    "date_updated": 1753227962,
+    "date_posted": 1753227962,
+    "url": "https://www.asana.com/jobs/apply/7078082?gh_jid=7078082",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Asana",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "McKesson",
+    "id": "839bdd2c-1074-4967-973f-0d0ff562e9ce",
+    "title": "Software Development Intern",
+    "active": true,
+    "terms": [
+      "Fall 2025",
+      "Winter 2025"
+    ],
+    "date_updated": 1753227836,
+    "date_posted": 1753227836,
+    "url": "https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/CAN-ON-Mississauga/Software-Development-Intern---Fall-2025_JR0133412-1",
+    "locations": [
+      "Mississauga, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/McKesson",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
