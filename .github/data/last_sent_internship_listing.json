@@ -90687,5 +90687,24 @@
     "date_posted": 1753167130,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "date_updated": 1753177953,
+    "url": "https://careers.kearneyco.com/jobs/4822?lang=en-us",
+    "company_name": "Kearney&Co",
+    "title": "Data Analytics Internship",
+    "locations": [
+      "Alexandria, VA"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "sponsorship": "U.S. Citizenship is Required",
+    "active": true,
+    "source": "r-zemam",
+    "id": "8cc151ea-ae04-43a3-9026-1dc72a2bcf38",
+    "date_posted": 1753177953,
+    "company_url": "",
+    "is_visible": true
   }
 ]
