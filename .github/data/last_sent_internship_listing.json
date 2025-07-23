@@ -90868,5 +90868,26 @@
     "company_url": "https://simplify.jobs/c/Intel",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "RTX",
+    "id": "245c8ebf-1af2-42e6-93b0-07e3797dde29",
+    "title": "Stage \u2013 Transformation num\u00e9rique des op\u00e9rations / Internship - Digital Transformation of Operations",
+    "active": true,
+    "terms": [
+      "Fall 2025",
+      "Winter 2025"
+    ],
+    "date_updated": 1753266688,
+    "date_posted": 1752891299,
+    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/LOC13052-1000-Boul-Marie-VictorinLongueuilQuebecJ4G-1A1Canada/Internship-Fall_01780876",
+    "locations": [
+      "Longueuil, QC, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/RTX",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
