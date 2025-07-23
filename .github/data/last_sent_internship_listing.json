@@ -90848,5 +90848,25 @@
     "company_url": "https://simplify.jobs/c/UNFPA",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Intel",
+    "id": "e71da27b-9b79-4c94-bbc3-6bbcf17e8fab",
+    "title": "System Simulation Engineering Co-op",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1753252270,
+    "date_posted": 1753252270,
+    "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/Virtual-Canada/System-Simulation-Engineering-Co-op_JR0275615",
+    "locations": [
+      "Remote in Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Intel",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
