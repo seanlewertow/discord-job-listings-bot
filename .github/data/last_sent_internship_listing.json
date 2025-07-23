@@ -90787,5 +90787,66 @@
     "company_url": "https://simplify.jobs/c/McKesson",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Asana",
+    "id": "c09d8413-12d6-4d9d-8548-d7107f1a3990",
+    "title": "Software Engineer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2027"
+    ],
+    "date_updated": 1753228731,
+    "date_posted": 1753228731,
+    "url": "https://www.asana.com/jobs/apply/7078079?gh_jid=7078079",
+    "locations": [
+      "SF"
+    ],
+    "company_url": "https://simplify.jobs/c/Asana",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Manulife",
+    "id": "8dcf4e03-2759-4c92-9c2e-f8bb5bbdf346",
+    "title": "Agentic AI Developer Intern",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1753195299,
+    "date_posted": 1753195299,
+    "url": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_AdminJobs/job/Toronto-Ontario/Agentic-AI-Developer-Intern_JR25071102",
+    "locations": [
+      "Toronto, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/acb6271e-e26a-401d-befe-547f56e287b5",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "UNFPA",
+    "id": "d1335828-6000-4c1c-acd0-f5556b572763",
+    "title": "Geospatial Sciences Internship",
+    "active": true,
+    "terms": [
+      "Fall 2025",
+      "Winter 2026"
+    ],
+    "date_updated": 1753193489,
+    "date_posted": 1753193489,
+    "url": "https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2003/jobs/job/27996",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/UNFPA",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
