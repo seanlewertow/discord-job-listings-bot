@@ -91068,5 +91068,25 @@
     "company_url": "https://simplify.jobs/c/CompScience",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Definity Financial",
+    "id": "c7b25112-cf8f-4396-aec9-11a1e4eadb48",
+    "title": "Risk Services Analyst",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1753409989,
+    "date_posted": 1753409989,
+    "url": "https://hdks.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs/job/8374",
+    "locations": [
+      "Kitchener, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Definity-Financial",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
