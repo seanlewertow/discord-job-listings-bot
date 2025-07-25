@@ -91027,5 +91027,26 @@
     "company_url": "https://simplify.jobs/c/Fizz-Social",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "GE Aerospace",
+    "id": "ea019bd3-3a85-4f49-b027-cd92cd78fd28",
+    "title": "Digital Technology Intern",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1753418974,
+    "date_posted": 1753418974,
+    "url": "https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Evendale/Digital-Technology-Intern---US---Summer-2026_R5002160-1",
+    "locations": [
+      "Livonia, MI",
+      "Cincinnati, OH"
+    ],
+    "company_url": "https://simplify.jobs/c/GE-Aerospace",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
