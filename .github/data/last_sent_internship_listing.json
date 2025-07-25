@@ -90987,5 +90987,45 @@
     "company_url": "https://simplify.jobs/c/Signify",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Chainlink Labs",
+    "id": "781f484d-eb88-40fb-9276-bcf4b9d5fe6c",
+    "title": "Research Internship",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1753418703,
+    "date_posted": 1753418703,
+    "url": "https://jobs.ashbyhq.com/chainlink-labs/203f6551-100f-42a5-90a6-3bb29e58a9f6/application",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/Chainlink-Labs",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Fizz",
+    "id": "2b9c6225-2cfa-4dea-8b2b-d48dbf13661a",
+    "title": "Software Engineering Intern",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1753418233,
+    "date_posted": 1753418233,
+    "url": "https://jobs.ashbyhq.com/fizz/6ba63204-10ab-47d4-a991-259091d82053/application",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Fizz-Social",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
