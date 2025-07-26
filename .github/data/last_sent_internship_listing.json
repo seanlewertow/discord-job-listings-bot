@@ -91268,5 +91268,25 @@
     "company_url": "https://simplify.jobs/c/PrizePicks",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Sony Pictures Entertainment",
+    "id": "bb0b208c-cddf-4c3b-9d0c-35871ac62017",
+    "title": "Systems & Data Analytics Intern",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1753569312,
+    "date_posted": 1753569312,
+    "url": "https://spe.wd1.myworkdayjobs.com/en-US/SonyPicturesEntertainment/job/Culver-City-California/Systems---Data-Analytics-Intern--US-TV-Production---Fall-2025_JR108232",
+    "locations": [
+      "Culver City, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/cba19b9c-c87b-4670-905f-598655ed2801",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
