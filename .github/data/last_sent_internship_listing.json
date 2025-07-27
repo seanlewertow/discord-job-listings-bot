@@ -91288,5 +91288,66 @@
     "company_url": "https://simplify.jobs/c/cba19b9c-c87b-4670-905f-598655ed2801",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Blockhouse",
+    "id": "a54ed89d-22a5-4e70-a329-1f4c976443e4",
+    "title": "Quantitative Research Internship",
+    "active": true,
+    "terms": [
+      "Fall 2023",
+      "Winter 2023"
+    ],
+    "date_updated": 1753389566,
+    "date_posted": 1753312635,
+    "url": "https://jobs.ashbyhq.com/blockhouse/c14ed20e-e1fc-41ca-9a36-7c21c1bed9b8/application",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Blockhouse",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "United Parcel Service (UPS)",
+    "id": "6d4e59b1-765c-4c09-9833-47d5c3bc7922",
+    "title": "Engineering Co-Op",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1753412639,
+    "date_posted": 1753412639,
+    "url": "https://hcmportal.wd5.myworkdayjobs.com/en-US/Search/job/US---MIRA-LOMA-OPERATIONS-CAMRL/Solutions-Engineering-Co-Op_R25007890-1",
+    "locations": [
+      "Mira Loma, Jurupa Valley, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/United-Parcel-Service",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Eight Sleep",
+    "id": "f661f3e1-e3bd-4e3b-921a-87a50652d0be",
+    "title": "Hardware Support & Test Intern",
+    "active": true,
+    "terms": [
+      "Fall 2023"
+    ],
+    "date_updated": 1753581271,
+    "date_posted": 1753581271,
+    "url": "https://jobs.ashbyhq.com/eightsleep/86959a9a-44a5-401d-8009-f9a691acefee/application",
+    "locations": [
+      "SF"
+    ],
+    "company_url": "https://simplify.jobs/c/Eight-Sleep",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
