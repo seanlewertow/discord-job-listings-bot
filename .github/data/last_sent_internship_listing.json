@@ -91349,5 +91349,107 @@
     "company_url": "https://simplify.jobs/c/Eight-Sleep",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Peter Millar",
+    "id": "3cd5f864-6b2d-4434-8798-0af875742623",
+    "title": "Special Markets Intern",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1753314535,
+    "date_posted": 1753314535,
+    "url": "https://petermillarllc.wd12.myworkdayjobs.com/PMI/job/Research-Triangle-Park-NC/Special-Markets-Intern_JR100406",
+    "locations": [
+      "Research Triangle, Durham, NC"
+    ],
+    "company_url": "https://simplify.jobs/c/Peter-Millar",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Morningstar",
+    "id": "52e7f9c6-6d83-4e41-b5d2-0b69e7820638",
+    "title": "Intern",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1753412508,
+    "date_posted": 1753412508,
+    "url": "https://morningstar.wd5.myworkdayjobs.com/Americas/job/London/Intern_AP-22645146",
+    "locations": [
+      "London, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Morningstar",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Blockhouse",
+    "id": "c83bc117-7f93-4416-b994-ac0f460a74e5",
+    "title": "Quantitative Developer Internship",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1753412556,
+    "date_posted": 1753412556,
+    "url": "https://jobs.ashbyhq.com/blockhouse/6d7d9c01-5524-4ecd-854c-0dce64cc4696/application",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Blockhouse",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "GE Aerospace",
+    "id": "5aa10fb5-3d39-408c-9311-932f526d394d",
+    "title": "Digital Technology Co-op",
+    "active": true,
+    "terms": [
+      "Spring 2026"
+    ],
+    "date_updated": 1753413607,
+    "date_posted": 1753413607,
+    "url": "https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Evendale/Digital-Technology-Co-op---US---Spring-2026_R5002161-1",
+    "locations": [
+      "Livonia, MI",
+      "Cincinnati, OH"
+    ],
+    "company_url": "https://simplify.jobs/c/GE-Aerospace",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "GE Aerospace",
+    "id": "c85290c7-5fdf-40ed-b7f7-4c14438a1317",
+    "title": "Digital Technology Co-op",
+    "active": true,
+    "terms": [
+      "Fall 2026"
+    ],
+    "date_updated": 1753413601,
+    "date_posted": 1753413601,
+    "url": "https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Evendale/Digital-Technology-Co-op---US---Fall-2026_R5002162-1",
+    "locations": [
+      "Livonia, MI",
+      "Cincinnati, OH"
+    ],
+    "company_url": "https://simplify.jobs/c/GE-Aerospace",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
