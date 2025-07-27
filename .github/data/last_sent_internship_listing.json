@@ -91451,5 +91451,48 @@
     "company_url": "https://simplify.jobs/c/GE-Aerospace",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Virtu Financial",
+    "id": "537506fa-8161-4592-bc12-3148cee4cb76",
+    "title": "Internship - Quantitative Trading",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1753324262,
+    "date_posted": 1753324262,
+    "url": "https://job-boards.greenhouse.io/virtu/jobs/7848562002",
+    "locations": [
+      "Austin, TX",
+      "Chicago, IL",
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Virtu-Financial",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Virtu Financial",
+    "id": "e7e7311b-f4f9-4904-a2aa-c7381e1c41da",
+    "title": "Internship - Software Engineer",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1753324260,
+    "date_posted": 1753324260,
+    "url": "https://job-boards.greenhouse.io/virtu/jobs/7848570002",
+    "locations": [
+      "Austin, TX",
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Virtu-Financial",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
