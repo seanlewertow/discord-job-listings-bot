@@ -91578,5 +91578,46 @@
     "date_posted": 1753724203,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "NXP Semiconductors",
+    "id": "e0d07aa8-10d6-41ba-ac9d-be52f1a304ad",
+    "title": "Digital Verification Intern",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1753742800,
+    "date_posted": 1753742800,
+    "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Chandler-Office/Digital-Verification-Intern---Fall-2025_R-10059450",
+    "locations": [
+      "Chandler, AZ"
+    ],
+    "company_url": "https://simplify.jobs/c/91edf47c-f010-430e-8558-5c1fbb365984",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Blockhouse",
+    "id": "55c10134-f464-473a-97a6-4347e9faec26",
+    "title": "Crypto Quantitative Developer Internship",
+    "active": true,
+    "terms": [
+      "Fall 2023",
+      "Winter 2023"
+    ],
+    "date_updated": 1753743158,
+    "date_posted": 1753743158,
+    "url": "https://jobs.ashbyhq.com/blockhouse/551532d5-adc3-49a2-8bef-c94817bc5b84/application",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Blockhouse",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
