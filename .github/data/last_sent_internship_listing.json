@@ -91534,5 +91534,49 @@
     "company_url": "https://simplify.jobs/c/Ciena",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "date_updated": 1753724191,
+    "url": "https://jobs.lever.co/Arcade/1c849dd0-e3b5-4f73-bb56-1dc159ec6820",
+    "company_name": "Arcade",
+    "title": "Research Engineer Intern, Applied AI",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "terms": [
+      "Fall 2025",
+      "Winter 2026",
+      "Spring 2026",
+      "Summer 2026"
+    ],
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "source": "aajain2",
+    "id": "2f94c67b-d250-453c-aec1-6a72456ecb0e",
+    "date_posted": 1753724191,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1753724203,
+    "url": "https://jobs.lever.co/Arcade/07c31ffc-8333-4819-bde3-e2fd4272ad86",
+    "company_name": "Arcade",
+    "title": "Software Engineering Intern",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "terms": [
+      "Fall 2025",
+      "Summer 2026",
+      "Winter 2026",
+      "Spring 2026"
+    ],
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "source": "aajain2",
+    "id": "cfae5044-39c8-4291-8cbb-532effc2c6fe",
+    "date_posted": 1753724203,
+    "company_url": "",
+    "is_visible": true
   }
 ]
