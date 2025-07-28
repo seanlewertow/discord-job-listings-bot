@@ -91514,5 +91514,25 @@
     "company_url": "https://simplify.jobs/c/KeyCorp",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Ciena",
+    "id": "2cd5d5fc-61c2-42ad-b056-79b99fa3a9f0",
+    "title": "Embedded Software Engineer \u2013 Co-op",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1753721722,
+    "date_posted": 1753721722,
+    "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Embedded-Software-Engineer---Co-op--Fall-2025---4-16-Months-_R028495",
+    "locations": [
+      "Ottawa, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Ciena",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
