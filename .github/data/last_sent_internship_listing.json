@@ -91494,5 +91494,25 @@
     "company_url": "https://simplify.jobs/c/Virtu-Financial",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "KeyCorp",
+    "id": "83360f53-a0e3-4a8a-90b3-6441c1c75013",
+    "title": "2026 Summer Analytics and Quantitative Modeling Internship",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1753719818,
+    "date_posted": 1753719818,
+    "url": "https://keybank.wd5.myworkdayjobs.com/external_career_site/job/Cleveland-OH/XMLNAME-2026-Summer-Analytics-and-Quantitative-Modeling-Internship---Cleveland_R-33875",
+    "locations": [
+      "Cleveland, OH"
+    ],
+    "company_url": "https://simplify.jobs/c/KeyCorp",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
