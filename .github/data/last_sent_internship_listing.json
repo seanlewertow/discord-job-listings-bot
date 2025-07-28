@@ -91619,5 +91619,87 @@
     "company_url": "https://simplify.jobs/c/Blockhouse",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Asana",
+    "id": "1d2f4592-790c-4de8-871b-49d3e29be22e",
+    "title": "Data Science Intern",
+    "active": true,
+    "terms": [
+      "Winter 2026",
+      "Summer 2027"
+    ],
+    "date_updated": 1753745698,
+    "date_posted": 1753745698,
+    "url": "https://www.asana.com/jobs/apply/7078192?gh_jid=7078192",
+    "locations": [
+      "Vancouver, BC, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Asana",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Asana",
+    "id": "f4358b93-2379-4e15-9ddf-ebd87e229e56",
+    "title": "Data Science Intern",
+    "active": true,
+    "terms": [
+      "Winter 2026",
+      "Summer 2027"
+    ],
+    "date_updated": 1753745692,
+    "date_posted": 1753745692,
+    "url": "https://www.asana.com/jobs/apply/7078152?gh_jid=7078152",
+    "locations": [
+      "SF"
+    ],
+    "company_url": "https://simplify.jobs/c/Asana",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Hudson River Trading",
+    "id": "e961b830-9cec-45ea-8007-4a01b4ce8128",
+    "title": "Software Engineering Internship",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1753745538,
+    "date_posted": 1753745538,
+    "url": "https://www.hudsonrivertrading.com/careers/job/?gh_jid=6998786",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Hudson-River-Trading",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Hudson River Trading",
+    "id": "9ba23c17-8fb9-4971-9c69-ff7db55428ab",
+    "title": "Algorithm Development \u2013 Internship - Quant Research",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1753745521,
+    "date_posted": 1753745521,
+    "url": "https://www.hudsonrivertrading.com/careers/job/?gh_jid=6998811",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Hudson-River-Trading",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
