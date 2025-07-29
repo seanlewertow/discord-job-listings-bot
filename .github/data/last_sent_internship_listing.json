@@ -91977,5 +91977,47 @@
     "company_url": "https://simplify.jobs/c/Unify-Gtm",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Harmonic",
+    "id": "e8076d17-2280-4fa5-bed9-f5047d2de260",
+    "title": "Software Engineer Intern - Summer",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1753815260,
+    "date_posted": 1753815260,
+    "url": "https://job-boards.greenhouse.io/harmonic/jobs/4591178005",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/HarmonicAI",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Truist",
+    "id": "7074846a-4bbe-4274-883a-7c52fe779fa8",
+    "title": "Intern Conversion - Credit Sales & Trading Analyst Program",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1753815096,
+    "date_posted": 1753815096,
+    "url": "https://truist.wd1.myworkdayjobs.com/en-US/Careers/job/Atlanta-GA/XMLNAME-2026-Truist-Securities---Credit-Sales---Trading-Analyst-Program--Intern-Conversion-_R0105083",
+    "locations": [
+      "Charlotte, NC",
+      "NYC",
+      "Atlanta, GA"
+    ],
+    "company_url": "https://simplify.jobs/c/Truist",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
