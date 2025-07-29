@@ -91880,5 +91880,24 @@
     "date_posted": 1753798997,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "date_updated": 1753800498,
+    "url": "https://copart.wd12.myworkdayjobs.com/en-US/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR103688",
+    "company_name": "Copart",
+    "title": "Software Engineering Intern",
+    "locations": [
+      "Dallas, TX"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "source": "AlmondCroffle",
+    "id": "1d121ea9-1c36-4ed3-92b8-53ec2b8f7b92",
+    "date_posted": 1753800498,
+    "company_url": "",
+    "is_visible": true
   }
 ]
