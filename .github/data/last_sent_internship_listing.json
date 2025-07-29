@@ -91701,5 +91701,107 @@
     "company_url": "https://simplify.jobs/c/Hudson-River-Trading",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Lynk",
+    "id": "dfcb48e7-381f-4da6-aae8-8a10cb50f316",
+    "title": "Summer Intern - Telecommunications",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1753754621,
+    "date_posted": 1753754621,
+    "url": "https://jobs.ashbyhq.com/Lynk/c7f7e208-f784-4970-980b-9a0c7b0e8ec7/application",
+    "locations": [
+      "Washington, DC"
+    ],
+    "company_url": "https://simplify.jobs/c/Lynk",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Castleton Commodities International",
+    "id": "95f8fa32-d4e4-4fb1-8e84-8ce6f9db2f21",
+    "title": "GenAI Internship",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1753754639,
+    "date_posted": 1753754639,
+    "url": "https://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/job/Houston-TX/GenAI-Internship--Summer-2026-_R1102",
+    "locations": [
+      "Houston, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Castleton-Commodities-International",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Lynk",
+    "id": "3645e780-ebd4-46d8-83c0-6809c351c341",
+    "title": "Software Engineering Intern",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1753754615,
+    "date_posted": 1753754615,
+    "url": "https://jobs.ashbyhq.com/Lynk/45674c74-be04-41ac-94d0-dfa83e3fe210/application",
+    "locations": [
+      "Washington, DC"
+    ],
+    "company_url": "https://simplify.jobs/c/Lynk",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Castleton Commodities International",
+    "id": "9a200a59-9f48-4cd6-af23-76f0323a6a23",
+    "title": "Data Science Machine Learning Internship",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1753754633,
+    "date_posted": 1753754633,
+    "url": "https://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/job/Stamford-CT/Data-Science-Machine-Learning-Internship--Summer-2026-_R1103",
+    "locations": [
+      "Houston, TX",
+      "Stamford, CT",
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Castleton-Commodities-International",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Castleton Commodities International",
+    "id": "c6271d6e-63b9-4b56-81f1-1bdc7ed5143e",
+    "title": "Data Engineering Internship",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1753754631,
+    "date_posted": 1753754631,
+    "url": "https://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/job/London-UK/Data-Engineering-Internship--Summer-2026-_R1127",
+    "locations": [
+      "London, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Castleton-Commodities-International",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
