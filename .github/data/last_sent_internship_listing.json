@@ -91823,5 +91823,24 @@
     "company_url": "https://simplify.jobs/c/SoloPulse",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "date_updated": 1753794282,
+    "url": "https://job-boards.greenhouse.io/tellius/jobs/4801983007",
+    "company_name": "Tellius",
+    "title": "AI Engineering Intern",
+    "locations": [
+      "Remote"
+    ],
+    "terms": [
+      "Fall 2025"
+    ],
+    "sponsorship": "Does Not Offer Sponsorship",
+    "active": true,
+    "source": "maevetellius",
+    "id": "a68a7eb6-6843-4470-9a78-2f594b44b9f2",
+    "date_posted": 1753794282,
+    "company_url": "",
+    "is_visible": true
   }
 ]
