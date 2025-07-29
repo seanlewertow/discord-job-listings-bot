@@ -92039,5 +92039,104 @@
     "company_url": "https://simplify.jobs/c/Hewlett-Packard",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Gimlet Labs",
+    "id": "8154f734-12f7-4652-a99d-d28d1ac14d60",
+    "title": "Software Engineer \u2013 Intern",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1753831189,
+    "date_posted": 1753831189,
+    "url": "https://jobs.ashbyhq.com/gimlet/23e10dd6-e7c5-43f0-b14e-54ab999fccd9/application",
+    "locations": [
+      "SF"
+    ],
+    "company_url": "https://simplify.jobs/c/Gimlet-Labs",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Fable",
+    "id": "f5fa501e-e474-417b-8138-03f9c5a8e002",
+    "title": "Software Engineering Intern",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1753831061,
+    "date_posted": 1753831061,
+    "url": "https://jobs.ashbyhq.com/fable/3fd04c23-a63d-4b40-bfae-feafaa478caf/application",
+    "locations": [
+      "SF"
+    ],
+    "company_url": "https://simplify.jobs/c/Fable",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Allium",
+    "id": "8f826dc7-fbfb-49d7-b008-d17d4fd1a790",
+    "title": "Engineering Intern - Internal Platform",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1753831049,
+    "date_posted": 1753831049,
+    "url": "https://jobs.ashbyhq.com/allium/0071bb2f-9fcf-430b-87d5-26a8f4001e2d/application",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Allium",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Globus Medical",
+    "id": "97f40342-4b82-4bae-b1d4-e95c5ab11c37",
+    "title": "Software Engineer Co-op",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1753831333,
+    "date_posted": 1753831333,
+    "url": "https://globusmedical.wd5.myworkdayjobs.com/GMED_Careers/job/Audubon-PA/Software-Engineer-Co-op_JR103892",
+    "locations": [
+      "King of Prussia, PA"
+    ],
+    "company_url": "https://simplify.jobs/c/Globus-Medical",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "date_updated": 1753832237,
+    "url": "https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Cleveland-OH/XMLNAME-2026-Summer-Analytics-and-Quantitative-Modeling-Internship---Cleveland_R-33875",
+    "company_name": "Keybank",
+    "title": "2026 Summer Analytics and Quantitative Modeling Internship",
+    "locations": [
+      "Cleveland, Ohi"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "sponsorship": "Does Not Offer Sponsorship",
+    "active": true,
+    "source": "polinavishnev",
+    "id": "3b18d185-a436-4a4a-be2a-377f73684b0b",
+    "date_posted": 1753832237,
+    "company_url": "",
+    "is_visible": true
   }
 ]
