@@ -91842,5 +91842,43 @@
     "date_posted": 1753794282,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "date_updated": 1753797508,
+    "url": "https://gnw.wd1.myworkdayjobs.com/en-US/GNW/job/Richmond%2C-Virginia/Genworth-IT-Development-Program-Intern---Summer-2026_REQ-250327?workerSubType=7fa6841689a6106a8c0af76995631b08",
+    "company_name": "Genworth",
+    "title": "IT Development Program Intern",
+    "locations": [
+      "Richmond, VA"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "sponsorship": "Does Not Offer Sponsorship",
+    "active": true,
+    "source": "AlmondCroffle",
+    "id": "8be12d6b-c211-43e9-ac5e-031fa7bb122b",
+    "date_posted": 1753797508,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1753798997,
+    "url": "https://jobs.lever.co/AIFund/08af7df2-3085-4d7b-ad74-10767e2d93db",
+    "company_name": "AI Fund",
+    "title": "Full-Stack Engineer Intern",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "sponsorship": "Does Not Offer Sponsorship",
+    "active": true,
+    "source": "AlmondCroffle",
+    "id": "1dad2d7b-bd5c-4d6b-be7d-afa82377587a",
+    "date_posted": 1753798997,
+    "company_url": "",
+    "is_visible": true
   }
 ]
