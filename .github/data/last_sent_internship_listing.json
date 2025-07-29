@@ -92019,5 +92019,25 @@
     "company_url": "https://simplify.jobs/c/Truist",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Hewlett Packard (HP)",
+    "id": "1b55e4c6-d1d8-4f1d-afbc-52357b131ae9",
+    "title": "Software Developer Internship",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1753829797,
+    "date_posted": 1753829797,
+    "url": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Spring-Texas-United-States-of-America/Software-Developer-Internship_3153304-1",
+    "locations": [
+      "Spring, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Hewlett-Packard",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
