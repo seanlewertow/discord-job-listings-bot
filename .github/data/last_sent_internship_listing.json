@@ -91956,5 +91956,26 @@
     "date_posted": 1753801436,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Unify",
+    "id": "2d772373-731b-42c2-b337-f023cbd360d4",
+    "title": "Software Engineering Intern",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1753814037,
+    "date_posted": 1753814037,
+    "url": "https://jobs.ashbyhq.com/unify/95113ca1-4f4a-4435-8636-5758ce0d155e/application",
+    "locations": [
+      "SF",
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Unify-Gtm",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
