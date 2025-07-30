@@ -92573,5 +92573,112 @@
     "date_posted": 1753898058,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "date_updated": 1753902751,
+    "url": "https://tencent.wd1.myworkdayjobs.com/en-US/Tencent_Careers/job/US-California-Palo-Alto/Cloud-Media-Services-Intern_R105781",
+    "company_name": "Tencent",
+    "title": "Cloud Media Services Intern",
+    "locations": [
+      "Palo Alto, CA"
+    ],
+    "terms": [
+      "Spring 2026",
+      "Winter 2026",
+      "Winter 2025",
+      "Fall 2025",
+      "Summer 2025",
+      "Summer 2026"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "source": "AlmondCroffle",
+    "id": "b55257a3-502c-431c-baaf-849281bbefee",
+    "date_posted": 1753902751,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1753902847,
+    "url": "https://kbr.wd5.myworkdayjobs.com/en-US/KBR_Careers/job/Sioux-Falls-South-Dakota/Software-Engineer-Intern_R2109933",
+    "company_name": "KBR",
+    "title": "Software Engineer Intern",
+    "locations": [
+      "Sioux Falls, SD"
+    ],
+    "terms": [
+      "Spring 2026",
+      "Winter 2026",
+      "Winter 2025",
+      "Fall 2025",
+      "Summer 2025",
+      "Summer 2026"
+    ],
+    "sponsorship": "Does Not Offer Sponsorship",
+    "active": true,
+    "source": "AlmondCroffle",
+    "id": "3e14edb5-cec3-4f0c-8a3d-e17d388fa666",
+    "date_posted": 1753902847,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1753903073,
+    "url": "https://www.bmwgroup.jobs/us/en/jobfinder/job-description-copy.161921.html",
+    "company_name": "BMW Group",
+    "title": "Product Development - Telematics & ConnectedDrive Services",
+    "locations": [
+      "Woodcliff Lake, NJ"
+    ],
+    "terms": [
+      "Fall 2025"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "source": "AlmondCroffle",
+    "id": "91d6b9ac-c324-4427-8c22-2700eb41266d",
+    "date_posted": 1753903073,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1753903161,
+    "url": "https://selinc.wd1.myworkdayjobs.com/en-US/SEL/job/Washington---Pullman/Software-Application-Engineer-Intern_2025-17664",
+    "company_name": "SEL",
+    "title": "Software Application Engineer Intern",
+    "locations": [
+      "Pullman, WA"
+    ],
+    "terms": [
+      "Summer 2025",
+      "Summer 2026"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "source": "AlmondCroffle",
+    "id": "52806a00-c046-4f0e-b4c3-05edf119d7d0",
+    "date_posted": 1753903161,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1753903246,
+    "url": "https://jobs.ashbyhq.com/method/f86acf81-857c-454d-a508-8289163ad6eb",
+    "company_name": "Method",
+    "title": "Software Engineer Intern",
+    "locations": [
+      "Austin, TX",
+      "New York, NY"
+    ],
+    "terms": [
+      "Fall 2025"
+    ],
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "source": "AlmondCroffle",
+    "id": "b3d93de4-d3d7-4875-9624-204cfc856735",
+    "date_posted": 1753903246,
+    "company_url": "",
+    "is_visible": true
   }
 ]
