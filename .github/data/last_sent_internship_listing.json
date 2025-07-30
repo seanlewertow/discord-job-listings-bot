@@ -92511,5 +92511,29 @@
     "date_posted": 1753888981,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "date_updated": 1753895888,
+    "url": "https://jobs.ashbyhq.com/allium/5d697ce5-b820-45c0-a101-86a05e1fb15e",
+    "company_name": "Allium",
+    "title": "Engineering Intern - AI",
+    "locations": [
+      "New York"
+    ],
+    "terms": [
+      "Summer 2026",
+      "Summer 2025",
+      "Fall 2025",
+      "Winter 2025",
+      "Winter 2026",
+      "Spring 2026"
+    ],
+    "sponsorship": "Does Not Offer Sponsorship",
+    "active": true,
+    "source": "AlmondCroffle",
+    "id": "d1ae8439-77a5-4545-a92d-a994cfe2603a",
+    "date_posted": 1753895888,
+    "company_url": "",
+    "is_visible": true
   }
 ]
