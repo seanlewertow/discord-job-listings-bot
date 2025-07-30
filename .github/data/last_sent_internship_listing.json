@@ -92281,5 +92281,29 @@
     "company_url": "https://simplify.jobs/c/281371f9-4ed3-4440-876f-4bbeaa0d50e0",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "date_updated": 1753885793,
+    "url": "https://www.squarepoint-capital.com/open-opportunities?id=243853",
+    "company_name": "Squarepoint",
+    "title": "Intern Quant Researcher",
+    "locations": [
+      "New York"
+    ],
+    "terms": [
+      "Summer 2026",
+      "Summer 2025",
+      "Fall 2025",
+      "Winter 2025",
+      "Winter 2026",
+      "Spring 2026"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "source": "AlmondCroffle",
+    "id": "90b18f30-a2fb-4d61-9c01-ebce10eeca83",
+    "date_posted": 1753885793,
+    "company_url": "",
+    "is_visible": true
   }
 ]
