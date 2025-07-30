@@ -92718,5 +92718,67 @@
     "date_posted": 1753903472,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Crowdstrike",
+    "id": "c25d8bdf-7ebf-4d8f-8763-f93229200038",
+    "title": "Frontend Engineer Intern",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1753913937,
+    "date_posted": 1753913937,
+    "url": "https://crowdstrike.wd5.myworkdayjobs.com/en-us/crowdstrikecareers/job/USA---Remote/Frontend-Engineer-Intern---Fall-2025--Remote--CAN-_R24199",
+    "locations": [
+      "Remote in USA",
+      "Remote in Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Crowdstrike",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Baseten",
+    "id": "513fb75b-6101-4a0f-96ad-e809fb8e0916",
+    "title": "Software Engineering Intern",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1753914653,
+    "date_posted": 1753914653,
+    "url": "https://jobs.ashbyhq.com/baseten/4e6757f3-74c0-4d3d-9b0b-eb56ab561c37/application",
+    "locations": [
+      "SF",
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Baseten",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "HarbourVest",
+    "id": "bcf459e6-8c48-4c98-8acc-7425e5de6630",
+    "title": "Portfolio Analytics Intern",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1753914550,
+    "date_posted": 1753914550,
+    "url": "https://harbourvest.wd5.myworkdayjobs.com/hvp/job/Boston/Portfolio-Analytics-Intern_R1920",
+    "locations": [
+      "Boston, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/HarbourVest",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
