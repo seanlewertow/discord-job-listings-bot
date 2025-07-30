@@ -92305,5 +92305,72 @@
     "date_posted": 1753885793,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "date_updated": 1753886304,
+    "url": "https://careers.aqr.com/jobs/open-positions/greenwich-ct/2026-portfolio-implementation-trading-and-portfolio-finance-summer-analyst/7022101?gh_jid=7022101#/",
+    "company_name": "AQR",
+    "title": "Portfolio Implementation, Trading and Portfolio Finance Summer Analyst",
+    "locations": [
+      "Greenwich, CT"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "source": "AlmondCroffle",
+    "id": "ad243775-06bb-4d21-b6f9-6becc1b35bfd",
+    "date_posted": 1753886304,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1753886466,
+    "url": "https://job-boards.greenhouse.io/neuralink/jobs/6648992003",
+    "company_name": "Neuralink",
+    "title": "Firmware Engineer Intern",
+    "locations": [
+      "Fremont, CA"
+    ],
+    "terms": [
+      "Spring 2026",
+      "Winter 2026",
+      "Winter 2025",
+      "Fall 2025",
+      "Summer 2025",
+      "Summer 2026"
+    ],
+    "sponsorship": "Does Not Offer Sponsorship",
+    "active": true,
+    "source": "AlmondCroffle",
+    "id": "773146b6-5594-40a6-bf71-81966afced00",
+    "date_posted": 1753886466,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1753887047,
+    "url": "https://globusmedical.wd5.myworkdayjobs.com/en-US/gmed_careers/job/Audubon-PA/Software-Engineer-Co-op_JR103892",
+    "company_name": "Globus Medical",
+    "title": "Software Engineer Co-op",
+    "locations": [
+      "Audubon, PA"
+    ],
+    "terms": [
+      "Spring 2026",
+      "Winter 2026",
+      "Winter 2025",
+      "Fall 2025",
+      "Summer 2025",
+      "Summer 2026"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "source": "AlmondCroffle",
+    "id": "d5a96687-d8f3-41ba-b29c-a693238eb9f5",
+    "date_posted": 1753887047,
+    "company_url": "",
+    "is_visible": true
   }
 ]
