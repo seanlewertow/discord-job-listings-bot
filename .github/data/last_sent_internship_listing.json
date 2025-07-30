@@ -92201,5 +92201,65 @@
     "company_url": "https://simplify.jobs/c/Asana",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Hitachi",
+    "id": "7eba3b00-8e3f-4b55-87be-233c620da9fe",
+    "title": "Research Internship - AI Agents for Industrial Applications",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1753833505,
+    "date_posted": 1753833505,
+    "url": "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Santa-Clara-California-United-States/Research-Internship---AI-Agents-for-Industrial-Applications_R0100758",
+    "locations": [
+      "Santa Clara, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Hitachi",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Hitachi",
+    "id": "7ee9d6a2-e989-4e8a-a909-abbe99192cb5",
+    "title": "Research Internship - Deep Learning & LLM-Based Solutions for Industrial Applications",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1753833490,
+    "date_posted": 1753833490,
+    "url": "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Santa-Clara-California-United-States/Research-Internship---Deep-Learning---LLM-Based-Solutions-for-Industrial-Applications_R0100515",
+    "locations": [
+      "Santa Clara, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Hitachi",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Hitachi",
+    "id": "e0b379ae-6f9e-4a68-9c7a-7ed4f2b45cb1",
+    "title": "Applied Research Internship - RL for Industrial Controls Applications",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1753833494,
+    "date_posted": 1753833494,
+    "url": "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Santa-Clara-California-United-States/Applied-Research-Internship---RL-for-Industrial-Controls-Applications_R0100513",
+    "locations": [
+      "Santa Clara, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Hitachi",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
