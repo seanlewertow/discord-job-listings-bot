@@ -92535,5 +92535,43 @@
     "date_posted": 1753895888,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "date_updated": 1753897997,
+    "url": "https://asana.com/jobs/apply/7078152?gh_jid=7078152",
+    "company_name": "Asana",
+    "title": "Data Science Intern",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "source": "polinavishnev",
+    "id": "81e07779-67eb-4cc6-b58d-38fd96a0f54e",
+    "date_posted": 1753897997,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1753898058,
+    "url": "https://asana.com/jobs/apply/7078192?gh_jid=7078192",
+    "company_name": "Asana",
+    "title": "Data Science Intern",
+    "locations": [
+      "Vancouver, Canada"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "source": "polinavishnev",
+    "id": "2106be07-d00e-471c-82e2-941a6a192557",
+    "date_posted": 1753898058,
+    "company_url": "",
+    "is_visible": true
   }
 ]
