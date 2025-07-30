@@ -92680,5 +92680,43 @@
     "date_posted": 1753903246,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "date_updated": 1753903350,
+    "url": "https://careers.leonardodrs.com/job/Melbourne-Fall-2025-Software-Engineering-Intern-%28MLB%2C-FL%29-FL-32935/1308605900",
+    "company_name": "Leonardo DRS",
+    "title": "Software Engineering Intern",
+    "locations": [
+      "Melbourne, FL"
+    ],
+    "terms": [
+      "Fall 2025"
+    ],
+    "sponsorship": "U.S. Citizenship is Required",
+    "active": true,
+    "source": "AlmondCroffle",
+    "id": "fedfb83b-a53e-46a7-818d-eae47d1e8084",
+    "date_posted": 1753903350,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1753903472,
+    "url": "https://www.peaknano.com/careers/software-engineer-intern-spring-26",
+    "company_name": "Peak Nano",
+    "title": "Software Engineer Intern",
+    "locations": [
+      "Macedonia, OH"
+    ],
+    "terms": [
+      "Spring 2026"
+    ],
+    "sponsorship": "U.S. Citizenship is Required",
+    "active": true,
+    "source": "AlmondCroffle",
+    "id": "41e6a8b5-f4e7-49ce-937d-8c7982659c8d",
+    "date_posted": 1753903472,
+    "company_url": "",
+    "is_visible": true
   }
 ]
