@@ -17022,5 +17022,37 @@
     "date_posted": 1753898131,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "date_updated": 1753901043,
+    "url": "https://careers-lmi.icims.com/jobs/12942/junior-data-analyst---ts-sci-required/job",
+    "company_name": "LMI",
+    "title": "Junior Data Analyst - TS/SCI Required",
+    "locations": [
+      "Washington DC"
+    ],
+    "sponsorship": "Does Not Offer Sponsorship",
+    "active": true,
+    "source": "AlmondCroffle",
+    "id": "96761fd4-0cef-4998-a9b2-f26d93b789da",
+    "date_posted": 1753901043,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1753901163,
+    "url": "https://townsquareignite.com/careers/?gh_jid=7093124#job-openings",
+    "company_name": "Townsquare Ignite",
+    "title": "Junior Data Analyst",
+    "locations": [
+      "Purchase, NY"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "source": "AlmondCroffle",
+    "id": "1ede91e9-bf84-408f-9f8d-78a9a7cfddde",
+    "date_posted": 1753901163,
+    "company_url": "",
+    "is_visible": true
   }
 ]
