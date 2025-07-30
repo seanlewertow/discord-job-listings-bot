@@ -92372,5 +92372,120 @@
     "date_posted": 1753887047,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "date_updated": 1753887172,
+    "url": "https://catalent.wd1.myworkdayjobs.com/en-US/External/job/Emeryville-CA/AI-Operations-Project-Internship_0090310",
+    "company_name": "Catalent",
+    "title": "AI Operations Project",
+    "locations": [
+      "Emeryville, CA"
+    ],
+    "terms": [
+      "Spring 2026",
+      "Winter 2025",
+      "Winter 2026",
+      "Fall 2025",
+      "Summer 2025",
+      "Summer 2026"
+    ],
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "source": "AlmondCroffle",
+    "id": "3cb99435-ac73-4695-8b97-b2d73cd99471",
+    "date_posted": 1753887172,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1753887303,
+    "url": "https://hitachi.wd1.myworkdayjobs.com/en-US/hitachi/job/Santa-Clara-California-United-States/Research-Internship---AI-Agents-for-Industrial-Applications_R0100758",
+    "company_name": "Hitachi",
+    "title": "Research Internship \u2013 AI Agents for Industrial Applications",
+    "locations": [
+      "Santa Clara, CA"
+    ],
+    "terms": [
+      "Summer 2026",
+      "Summer 2025",
+      "Fall 2025",
+      "Winter 2025",
+      "Winter 2026",
+      "Spring 2026"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "source": "AlmondCroffle",
+    "id": "54d0ba18-9fe4-4769-b007-76a7b16069e0",
+    "date_posted": 1753887303,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1753887407,
+    "url": "https://jobs.ashbyhq.com/realitydefender/39bb3911-38f3-4db6-9537-0ec90bfb7440",
+    "company_name": "Reality Defender",
+    "title": "Computer Vision Intern",
+    "locations": [
+      "Global Remote"
+    ],
+    "terms": [
+      "Spring 2026",
+      "Winter 2026",
+      "Winter 2025",
+      "Fall 2025",
+      "Summer 2025",
+      "Summer 2026"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "source": "AlmondCroffle",
+    "id": "34eaa388-6447-48c0-8fcf-2f78b8163555",
+    "date_posted": 1753887407,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1753887979,
+    "url": "https://careers-heart.icims.com/jobs/16131/intern%2c-data-science-remote/job",
+    "company_name": "American Heart Association",
+    "title": "Intern, Data Science",
+    "locations": [
+      "Remote"
+    ],
+    "terms": [
+      "Summer 2026",
+      "Summer 2025",
+      "Fall 2025",
+      "Winter 2025",
+      "Winter 2026",
+      "Spring 2026"
+    ],
+    "sponsorship": "Does Not Offer Sponsorship",
+    "active": true,
+    "source": "AlmondCroffle",
+    "id": "2d152a19-6776-4d9b-a84b-e9ec4caaa257",
+    "date_posted": 1753887979,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1753888107,
+    "url": "https://careers.l3harris.com/en/job/-/-/4832/84133135648",
+    "company_name": "L3Harris Technologies",
+    "title": "Software Engineer Intern",
+    "locations": [
+      "Tulsa, OK"
+    ],
+    "terms": [
+      "Fall 2025"
+    ],
+    "sponsorship": "Does Not Offer Sponsorship",
+    "active": true,
+    "source": "AlmondCroffle",
+    "id": "adb7f02f-04dc-490a-8bd5-4f2e51713d9e",
+    "date_posted": 1753888107,
+    "company_url": "",
+    "is_visible": true
   }
 ]
