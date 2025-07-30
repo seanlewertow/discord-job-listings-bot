@@ -92820,5 +92820,25 @@
     "company_url": "https://simplify.jobs/c/Microchip-Technology",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "FGS Global",
+    "id": "86878f63-163d-404e-bb3d-ddadee7605fa",
+    "title": "IT Intern \u2013 CRM & Data Analytics",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1753918944,
+    "date_posted": 1753918944,
+    "url": "https://job-boards.greenhouse.io/fgsglobal/jobs/4805848007",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/FGS-Global",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
