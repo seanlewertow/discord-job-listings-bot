@@ -92780,5 +92780,45 @@
     "company_url": "https://simplify.jobs/c/HarbourVest",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Microchip Technology",
+    "id": "be8b60a3-a50d-4a68-b13b-31ddf6a50e32",
+    "title": "Intern-Engineering - Data Analyst",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1753917773,
+    "date_posted": 1753917773,
+    "url": "https://wd5.myworkdaysite.com/en-US/recruiting/microchiphr/External/job/AZ---Chandler/Intern--Engineering--Data-Analyst-_R1100-25",
+    "locations": [
+      "Chandler, AZ"
+    ],
+    "company_url": "https://simplify.jobs/c/Microchip-Technology",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Microchip Technology",
+    "id": "555cee32-8a3c-42f4-80fb-0cabe87ef3bd",
+    "title": "Intern-Engineering - Data Analyst",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1753917771,
+    "date_posted": 1753917771,
+    "url": "https://wd5.myworkdaysite.com/en-US/recruiting/microchiphr/External/job/AZ---Chandler/Intern--Engineering--Data-Analyst-_R1091-25",
+    "locations": [
+      "Chandler, AZ"
+    ],
+    "company_url": "https://simplify.jobs/c/Microchip-Technology",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
