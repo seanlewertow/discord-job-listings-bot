@@ -92487,5 +92487,29 @@
     "date_posted": 1753888107,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "date_updated": 1753888981,
+    "url": "https://komatsu.jobs/job/Embedded-Controls-Software-Intern/31088-en_US",
+    "company_name": "Komatsu",
+    "title": "Embedded Controls Software Intern",
+    "locations": [
+      "Warrendale, PA"
+    ],
+    "terms": [
+      "Spring 2026",
+      "Winter 2026",
+      "Winter 2025",
+      "Fall 2025",
+      "Summer 2025",
+      "Summer 2026"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "source": "AlmondCroffle",
+    "id": "b8798162-16f0-43aa-82b3-e6cd55d2aac1",
+    "date_posted": 1753888981,
+    "company_url": "",
+    "is_visible": true
   }
 ]
