@@ -92880,5 +92880,68 @@
     "company_url": "https://simplify.jobs/c/AbbVie",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "AECOM",
+    "id": "9d726641-4bfa-459c-b64d-fe62b6c31bb7",
+    "title": "Data Management Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025",
+      "Fall 2025"
+    ],
+    "date_updated": 1753923275,
+    "date_posted": 1753923275,
+    "url": "https://jobs.smartrecruiters.com/AECOM2/744000073609797",
+    "locations": [
+      "Oakland, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/AECOM",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "AECOM",
+    "id": "f3f95eb6-b37f-4b71-b1d1-017ea01d16c9",
+    "title": "Data Management Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025",
+      "Fall 2025"
+    ],
+    "date_updated": 1753923273,
+    "date_posted": 1753923273,
+    "url": "https://jobs.smartrecruiters.com/AECOM2/744000073609410",
+    "locations": [
+      "Salt Lake City, UT"
+    ],
+    "company_url": "https://simplify.jobs/c/AECOM",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "AECOM",
+    "id": "6f018744-2fdf-4b38-bbab-b334c1e51a18",
+    "title": "Data Management Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025",
+      "Fall 2025"
+    ],
+    "date_updated": 1753923260,
+    "date_posted": 1753923260,
+    "url": "https://jobs.smartrecruiters.com/AECOM2/744000073610595",
+    "locations": [
+      "LA"
+    ],
+    "company_url": "https://simplify.jobs/c/AECOM",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
