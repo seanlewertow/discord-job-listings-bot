@@ -92840,5 +92840,45 @@
     "company_url": "https://simplify.jobs/c/FGS-Global",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "CACI",
+    "id": "5ee98427-9639-4bd1-aab3-77bf5b44bcaf",
+    "title": "Software Development Intern",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1753919868,
+    "date_posted": 1753919868,
+    "url": "https://caci.wd1.myworkdayjobs.com/External/job/US-VA-Sterling/Software-Development-Intern---Summer-2026_315321-1",
+    "locations": [
+      "Dulles, VA"
+    ],
+    "company_url": "https://simplify.jobs/c/CACI",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "AbbVie",
+    "id": "cae188bf-ce85-4b79-8028-954730fbaca8",
+    "title": "Business Technology Solutions Intern",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1753922165,
+    "date_posted": 1753922165,
+    "url": "https://jobs.smartrecruiters.com/AbbVie/3743990008860976",
+    "locations": [
+      "Waukegan, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/AbbVie",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
