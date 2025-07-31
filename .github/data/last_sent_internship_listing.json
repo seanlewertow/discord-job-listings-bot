@@ -92986,5 +92986,25 @@
     "company_url": "https://simplify.jobs/c/t-rowe-price",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "DataVisor",
+    "id": "0c963e33-ad50-4d13-a647-6fa3fcee563f",
+    "title": "Software Engineer - 3 Months",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1753810802,
+    "date_posted": 1753810802,
+    "url": "https://apply.workable.com/datavisor-jobs/j/8C50D4D8CC/apply",
+    "locations": [
+      "Mountain View, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/DataVisor",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
