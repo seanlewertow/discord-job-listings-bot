@@ -17191,5 +17191,57 @@
     "company_url": "https://simplify.jobs/c/Chewy",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Uber",
+    "id": "f555971a-35b5-4db5-a78a-8ef74219acc1",
+    "title": "Software Engineer I - Platforms",
+    "active": true,
+    "date_updated": 1753919699,
+    "date_posted": 1753919699,
+    "url": "https://www.uber.com/global/en/careers/list/145880/",
+    "locations": [
+      "SF",
+      "Sunnyvale, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Uber",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Chewy",
+    "id": "befdd2ad-c6df-458e-b0e0-ee8c8e1137fa",
+    "title": "Software Engineer I",
+    "active": true,
+    "date_updated": 1753919144,
+    "date_posted": 1753919144,
+    "url": "https://boards.greenhouse.io/embed/job_app?token=7096822",
+    "locations": [
+      "Bellevue, WA"
+    ],
+    "company_url": "https://simplify.jobs/c/Chewy",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Leidos",
+    "id": "2807c62b-1f19-4c36-ad32-40967e3edbd7",
+    "title": "Junior Software Engineer",
+    "active": true,
+    "date_updated": 1753920113,
+    "date_posted": 1753920113,
+    "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Gaithersburg-MD/Junior-Software-Engineer_R-00163540",
+    "locations": [
+      "Gaithersburg, MD"
+    ],
+    "company_url": "https://simplify.jobs/c/Leidos",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
