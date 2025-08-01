@@ -93149,5 +93149,25 @@
     "company_url": "https://simplify.jobs/c/Medtronic",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "PennState University",
+    "id": "9b3a298c-8894-407e-bb7b-b72434713c39",
+    "title": "Embedded Systems and Hardware Co-Op",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1754055979,
+    "date_posted": 1754055979,
+    "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Warminster-PA/Embedded-Systems-and-Hardware-Co-Op_REQ_0000066566-2",
+    "locations": [
+      "Horsham, PA"
+    ],
+    "company_url": "https://simplify.jobs/c/Penn-State",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
