@@ -93577,5 +93577,27 @@
     "company_url": "https://simplify.jobs/c/Otis",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "PennState University",
+    "id": "6dd1a9b0-0256-45ec-944a-7a3019907002",
+    "title": "Computer Programming Research and Development Intern",
+    "active": true,
+    "terms": [
+      "Spring 2025",
+      "Summer 2025",
+      "Fall 2025"
+    ],
+    "date_updated": 1754055928,
+    "date_posted": 1754055928,
+    "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Computer-Programming-Research-and-Development-Intern_REQ_0000065066-1",
+    "locations": [
+      "State College, PA"
+    ],
+    "company_url": "https://simplify.jobs/c/Penn-State",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
