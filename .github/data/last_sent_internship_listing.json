@@ -93891,5 +93891,65 @@
     "company_url": "https://simplify.jobs/c/Vanguard",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Altruist",
+    "id": "22721d36-928b-4365-99da-95e8ac1ab96d",
+    "title": "Software Engineering Intern",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1754089499,
+    "date_posted": 1754089499,
+    "url": "https://altruist.com/join-altruist/5601815004?gh_jid=5601815004",
+    "locations": [
+      "LA"
+    ],
+    "company_url": "https://simplify.jobs/c/fd33cc05-7479-4979-9bc3-fcf69310e14d",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "IMC Trading",
+    "id": "b8f50981-87c4-4480-83a1-025b71e1b9ed",
+    "title": "Hardware Engineer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1754088869,
+    "date_posted": 1754088869,
+    "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4580809101",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/IMC-Trading",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "CSC",
+    "id": "3143b7b0-344a-456c-b0ff-4194e5f284de",
+    "title": "Data Reporting and Analysis Intern",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1754088730,
+    "date_posted": 1754088730,
+    "url": "https://hczw.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/jobs/job/13192",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/CSC",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
