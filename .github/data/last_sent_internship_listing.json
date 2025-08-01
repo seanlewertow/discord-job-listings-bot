@@ -93599,5 +93599,47 @@
     "company_url": "https://simplify.jobs/c/Penn-State",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Otis",
+    "id": "fc5686b0-c829-4dfa-b045-deaf05e76adc",
+    "title": "Software Engineering Intern",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1754058574,
+    "date_posted": 1754058574,
+    "url": "https://otis.wd5.myworkdayjobs.com/en-US/REC_Ext_Gateway/job/OT494-5FS---Farmington-CT-5-Farm-Springs-Farmington-CT-06032-USA/Software-Engineering-Intern_20140058",
+    "locations": [
+      "Farmington, CT"
+    ],
+    "company_url": "https://simplify.jobs/c/Otis",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "PennState University",
+    "id": "aed32cf0-efc1-4370-be34-e08e7c8cfb66",
+    "title": "Agile Methods Management Intern",
+    "active": true,
+    "terms": [
+      "Fall 2025",
+      "Spring 2025",
+      "Summer 2025"
+    ],
+    "date_updated": 1754055945,
+    "date_posted": 1754055945,
+    "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Agile-Methods-Management-Intern_REQ_0000058000-1",
+    "locations": [
+      "State College, PA"
+    ],
+    "company_url": "https://simplify.jobs/c/Penn-State",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
