@@ -93127,5 +93127,27 @@
     "company_url": "https://simplify.jobs/c/Wealth",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Medtronic",
+    "id": "65cba1ba-e064-47df-85a7-e8ae7fa2d2d3",
+    "title": "Software Engineering Intern",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1754034217,
+    "date_posted": 1754034217,
+    "url": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/North-Haven-Connecticut-United-States-of-America/Software-Engineering-Intern---Summer-2026_R40546-1",
+    "locations": [
+      "North Haven, CT",
+      "Lafayette, CO",
+      "Minneapolis, MN"
+    ],
+    "company_url": "https://simplify.jobs/c/Medtronic",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
