@@ -93310,5 +93310,108 @@
     "company_url": "https://simplify.jobs/c/Sony",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Jonas Software",
+    "id": "a72e5801-dc21-4894-aeff-a01d5784addd",
+    "title": "Jonas Summer Internship - Various Departments",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1754075870,
+    "date_posted": 1754075870,
+    "url": "https://talentmanagementsolution.wd3.myworkdayjobs.com/JonasSoftwareUSA/job/Jonas-Summer-Internship---Various-Departments_R45900-1",
+    "locations": [
+      "Remote in USA",
+      "Remote in Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Jonas-Software",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Jonas Software",
+    "id": "411e8cea-27b0-4290-9f65-d18525057b9f",
+    "title": "Jonas Fall Internship - Various Departments",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1754075870,
+    "date_posted": 1754075870,
+    "url": "https://talentmanagementsolution.wd3.myworkdayjobs.com/JonasSoftwareUSA/job/Jonas-Fall-Internship---Various-Departments_R45877-1",
+    "locations": [
+      "Remote in USA",
+      "Remote in Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Jonas-Software",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Sentry",
+    "id": "823e32b0-6595-4bd2-976e-3c96f7e84efd",
+    "title": "Software Engineer \u2013 Intern",
+    "active": true,
+    "terms": [
+      "Fall 2026"
+    ],
+    "date_updated": 1754075664,
+    "date_posted": 1754075664,
+    "url": "https://jobs.ashbyhq.com/sentry/d2e3391f-9401-410a-b8a6-de3bf5f762b7/application",
+    "locations": [
+      "Toronto, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Sentry",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Sentry",
+    "id": "cf9be438-4a73-473c-a82a-f0b9cb571a84",
+    "title": "Software Engineer \u2013 Intern",
+    "active": true,
+    "terms": [
+      "Spring 2026"
+    ],
+    "date_updated": 1754075665,
+    "date_posted": 1754075665,
+    "url": "https://jobs.ashbyhq.com/sentry/a5ce699d-b1a8-4b93-9217-33d16d77ccd6/application",
+    "locations": [
+      "SF"
+    ],
+    "company_url": "https://simplify.jobs/c/Sentry",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Truist",
+    "id": "78150de8-57b9-4b15-9825-57c0422748cb",
+    "title": "Leadership Development Program - Technology and Innovation Track",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1754075605,
+    "date_posted": 1754075605,
+    "url": "https://truist.wd1.myworkdayjobs.com/en-US/Careers/job/Charlotte-NC/XMLNAME-2026-Leadership-Development-Program---Technology-and-Innovation-Track--Full-Time-LDP-Intern-Conversion-_R0105153-1",
+    "locations": [
+      "Charlotte, NC",
+      "Atlanta, GA"
+    ],
+    "company_url": "https://simplify.jobs/c/Truist",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
