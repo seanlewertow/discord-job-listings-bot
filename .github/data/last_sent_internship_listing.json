@@ -93454,5 +93454,25 @@
     "company_url": "https://simplify.jobs/c/Truist",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "ByteDance",
+    "id": "e0a535f5-af94-4bd1-857b-d90b51b54e2c",
+    "title": "Backend Software Engineer Intern - Global E-Commerce",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1754061178,
+    "date_posted": 1754061178,
+    "url": "https://jobs.bytedance.com/en/position/7532668388906256658/detail",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "company_url": "https://simplify.jobs/c/ByteDance",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
