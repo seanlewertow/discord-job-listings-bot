@@ -93413,5 +93413,46 @@
     "company_url": "https://simplify.jobs/c/Truist",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "CACI",
+    "id": "2184839b-c1f0-4dce-b0d3-d250d99aef17",
+    "title": "Summer 2025 Internships - Msu",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1754076489,
+    "date_posted": 1754076489,
+    "url": "https://caci.wd1.myworkdayjobs.com/External/job/US-VA-Sterling/Summer-2025-Internships---MSU_310284",
+    "locations": [
+      "Dulles, VA"
+    ],
+    "company_url": "https://simplify.jobs/c/CACI",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Truist",
+    "id": "b35a6fc8-9d17-47b0-9442-a8c2d1da0c62",
+    "title": "Technology and Innovation Internship",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1754076340,
+    "date_posted": 1754076340,
+    "url": "https://truist.wd1.myworkdayjobs.com/en-US/Careers/job/Charlotte-NC/XMLNAME-2026-Technology-and-Innovation-Internship--LDP-Intern-Conversion-_R0105154-1",
+    "locations": [
+      "Charlotte, NC",
+      "Atlanta, GA"
+    ],
+    "company_url": "https://simplify.jobs/c/Truist",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
