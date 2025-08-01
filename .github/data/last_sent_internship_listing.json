@@ -93641,5 +93641,107 @@
     "company_url": "https://simplify.jobs/c/Penn-State",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Nokia",
+    "id": "b3bc92a2-8c8d-4ef2-a6aa-f5b0a9656c96",
+    "title": "Software Dev AI/ML Co-op",
+    "active": true,
+    "terms": [
+      "Fall 2025",
+      "Winter 2025"
+    ],
+    "date_updated": 1754002831,
+    "date_posted": 1754002831,
+    "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/22882",
+    "locations": [
+      "Naperville, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/Nokia",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Palantir",
+    "id": "b087999c-e99d-4ecb-bb33-4b37e4be0a5e",
+    "title": "Software Engineer \u2013 Internship - Production Infrastructure",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1754055699,
+    "date_posted": 1754055699,
+    "url": "https://jobs.lever.co/palantir/bc5c4098-07d5-49ed-a398-a27e6191aa30/apply",
+    "locations": [
+      "London, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Palantir",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "PennState University",
+    "id": "749e1c58-7fba-43b1-b44c-f82ec21546ae",
+    "title": "Navigation \u2013 And Controls Co-Op - Estimation",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1754055962,
+    "date_posted": 1754055962,
+    "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Warminster-PA/Navigation--Estimation--and-Controls-Co-Op_REQ_0000066565-1",
+    "locations": [
+      "Horsham, PA"
+    ],
+    "company_url": "https://simplify.jobs/c/Penn-State",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "DotDash Meredith",
+    "id": "acb8c9a5-09d5-4a77-9d59-725ff8b89efb",
+    "title": "Software Developer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2026",
+      "Spring 2026"
+    ],
+    "date_updated": 1753989430,
+    "date_posted": 1753989430,
+    "url": "https://meredith.wd5.myworkdayjobs.com/en-US/EXT/job/Alberta-CAN-Remote/Software-Developer-Intern_JR14724",
+    "locations": [
+      "Alberta, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/DotDash-Meredith",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Hudl",
+    "id": "26f248b0-f4d4-422a-92d1-ffeef39806be",
+    "title": "Marketing Analytics Intern",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1753999699,
+    "date_posted": 1753999699,
+    "url": "https://job-boards.greenhouse.io/hudl/jobs/7116298",
+    "locations": [
+      "Lincoln, NE"
+    ],
+    "company_url": "https://simplify.jobs/c/Hudl",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
