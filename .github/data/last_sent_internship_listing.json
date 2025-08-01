@@ -93743,5 +93743,111 @@
     "company_url": "https://simplify.jobs/c/Hudl",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Jump Trading",
+    "id": "d2b759b7-e0f7-48ec-9dc9-1ae840067950",
+    "title": "Campus Software Engineer \u2013 Intern",
+    "active": true,
+    "terms": [
+      "Winter 2025",
+      "Spring 2025",
+      "Fall 2025"
+    ],
+    "date_updated": 1754087086,
+    "date_posted": 1754087086,
+    "url": "https://boards.greenhouse.io/embed/job_app?token=6946008",
+    "locations": [
+      "London, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Jump-Trading",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Jump Trading",
+    "id": "b32c6f61-f7a1-467d-b08e-3bb78a3dce30",
+    "title": "Campus ASIC Engineer \u2013 Intern",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1754087082,
+    "date_posted": 1754087082,
+    "url": "https://boards.greenhouse.io/embed/job_app?token=6959818",
+    "locations": [
+      "Bristol, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Jump-Trading",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Jump Trading",
+    "id": "14b8c2af-a3a6-4902-bcf1-68dd3e6aad38",
+    "title": "Campus FPGA Engineer \u2013 Intern",
+    "active": true,
+    "terms": [
+      "Winter 2025",
+      "Spring 2025",
+      "Fall 2025"
+    ],
+    "date_updated": 1754087085,
+    "date_posted": 1754087085,
+    "url": "https://boards.greenhouse.io/embed/job_app?token=6959800",
+    "locations": [
+      "London, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Jump-Trading",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Jump Trading",
+    "id": "10510165-4d53-41ff-9ed2-ed11d197bb20",
+    "title": "Campus UI Software Engineer \u2013 Intern",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1754087088,
+    "date_posted": 1754087088,
+    "url": "https://boards.greenhouse.io/embed/job_app?token=6959808",
+    "locations": [
+      "London, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Jump-Trading",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Jump Trading",
+    "id": "00edbd61-2c1c-45db-bcf5-242ee5b5718c",
+    "title": "Campus Data Engineer \u2013 Intern",
+    "active": true,
+    "terms": [
+      "Winter 2025",
+      "Spring 2025",
+      "Fall 2025"
+    ],
+    "date_updated": 1754087082,
+    "date_posted": 1754087082,
+    "url": "https://boards.greenhouse.io/embed/job_app?token=7124377",
+    "locations": [
+      "London, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Jump-Trading",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
