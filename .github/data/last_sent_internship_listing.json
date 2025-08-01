@@ -93189,5 +93189,25 @@
     "company_url": "https://simplify.jobs/c/ByteDance",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "ByteDance",
+    "id": "082ca7b9-5288-4b74-98f7-b5c17bef229f",
+    "title": "Software Development Engineer in Test Intern - Global E-Commerce",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1754062868,
+    "date_posted": 1754062868,
+    "url": "https://jobs.bytedance.com/en/position/7533346574367377672/detail",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "company_url": "https://simplify.jobs/c/ByteDance",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
