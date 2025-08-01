@@ -93849,5 +93849,47 @@
     "company_url": "https://simplify.jobs/c/Jump-Trading",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Contoro",
+    "id": "4242a2c5-0ba9-4566-9b73-c66efc1770ad",
+    "title": "Software Engineer Intern - Cloud Platform and Analytics",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1754088368,
+    "date_posted": 1754088368,
+    "url": "https://jobs.ashbyhq.com/contoro/30a3c92c-b8a3-437f-9af3-1ec057538bb5/application",
+    "locations": [
+      "Austin, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Contoro",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Vanguard",
+    "id": "32de91ea-8464-46ae-ad58-76366978ddef",
+    "title": "IT Co-Op",
+    "active": true,
+    "terms": [
+      "Fall 2025",
+      "Winter 2025"
+    ],
+    "date_updated": 1754087848,
+    "date_posted": 1754087848,
+    "url": "https://vanguard.wd5.myworkdayjobs.com/en-US/contractors_restricted/job/Malvern-PA/Fall-Winter-2025-IT-Co-Op_167905-1",
+    "locations": [
+      "Malvern, PA",
+      "Charlotte, NC"
+    ],
+    "company_url": "https://simplify.jobs/c/Vanguard",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
