@@ -93514,5 +93514,68 @@
     "company_url": "https://simplify.jobs/c/Jump-Trading",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Palantir",
+    "id": "1db08df4-23e3-427d-b70e-dab6dd910782",
+    "title": "Software Engineer \u2013 Internship - Infrastructure",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1754055704,
+    "date_posted": 1754055704,
+    "url": "https://jobs.lever.co/palantir/fd3603a9-7016-45c6-9c8d-04c9279ab85e/apply",
+    "locations": [
+      "London, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Palantir",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "PennState University",
+    "id": "a7141d7b-1a29-4ce4-9635-9412583c6a96",
+    "title": "AI/ML Research and Development Intern",
+    "active": true,
+    "terms": [
+      "Fall 2025",
+      "Spring 2025",
+      "Summer 2025"
+    ],
+    "date_updated": 1754055962,
+    "date_posted": 1754055962,
+    "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/AI-ML-Research-and-Development-Intern_REQ_0000064471-1",
+    "locations": [
+      "State College, PA",
+      "Reston, VA"
+    ],
+    "company_url": "https://simplify.jobs/c/Penn-State",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Otis",
+    "id": "0dde2b0d-74e5-4394-8832-154407fa73ed",
+    "title": "Software Engineering Intern",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1754058574,
+    "date_posted": 1754058574,
+    "url": "https://otis.wd5.myworkdayjobs.com/en-US/REC_Ext_Gateway/job/OT494-5FS---Farmington-CT-5-Farm-Springs-Farmington-CT-06032-USA/Software-Engineering-Intern_20140057",
+    "locations": [
+      "Farmington, CT"
+    ],
+    "company_url": "https://simplify.jobs/c/Otis",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
