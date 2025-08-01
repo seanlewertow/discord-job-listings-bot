@@ -93169,5 +93169,25 @@
     "company_url": "https://simplify.jobs/c/Penn-State",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "ByteDance",
+    "id": "6ab6835f-e402-420e-b119-a7c369286ab4",
+    "title": "Frontend Software Engineer Intern - Global E-Commerce",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1754062321,
+    "date_posted": 1754062321,
+    "url": "https://jobs.bytedance.com/en/position/7533346008655825159/detail",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "company_url": "https://simplify.jobs/c/ByteDance",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
