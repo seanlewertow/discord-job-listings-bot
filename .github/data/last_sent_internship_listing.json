@@ -93951,5 +93951,106 @@
     "company_url": "https://simplify.jobs/c/CSC",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "M&T Bank",
+    "id": "9551aba3-b479-4be7-ac1c-b13c55c7e694",
+    "title": "Technology Internship Program",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1753991394,
+    "date_posted": 1753991394,
+    "url": "https://mtb.wd5.myworkdayjobs.com/Campus/job/Buffalo-NY/XMLNAME-2026-Technology-Internship-Program_R72035",
+    "locations": [
+      "Buffalo, NY"
+    ],
+    "company_url": "https://simplify.jobs/c/M-And-T-Bank",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Magnet Forensics",
+    "id": "36318218-be65-4bfa-8388-3059e57e2812",
+    "title": "Software Developer Co-op",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1753709091,
+    "date_posted": 1753709091,
+    "url": "https://jobs.lever.co/magnetforensics/8e0e7fc8-c676-48d5-981e-361ca36e7ac4/apply",
+    "locations": [
+      "Ottawa, ON, Canada",
+      "Kitchener, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Magnet-Forensics",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "DataVisor",
+    "id": "2a6e2d03-c02a-45f6-88ca-9dfc04c63a7c",
+    "title": "Software Engineer Co-Op Internship Fall 2025",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1753810809,
+    "date_posted": 1753810809,
+    "url": "https://apply.workable.com/datavisor-jobs/j/9D69808D1A/apply",
+    "locations": [
+      "Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/DataVisor",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "PIP Labs",
+    "id": "21a768af-44e6-4166-81bc-924935050640",
+    "title": "Engineering Intern - App Team",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1753717078,
+    "date_posted": 1753717078,
+    "url": "https://jobs.lever.co/piplabs/175d9c4e-5994-431e-bb59-3d0cf0aba42d/apply",
+    "locations": [
+      "SF"
+    ],
+    "company_url": "https://simplify.jobs/c/PIP-Labs",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Stax",
+    "id": "c55b74b5-fb2e-4dd6-a742-8a2a98658a58",
+    "title": "Software Engineer Internship",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1753717685,
+    "date_posted": 1753717685,
+    "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/3442794",
+    "locations": [
+      "Orem, UT"
+    ],
+    "company_url": "https://simplify.jobs/c/cc710af5-f21c-4b74-b377-d3b394b7b124",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
