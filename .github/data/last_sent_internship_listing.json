@@ -94052,5 +94052,53 @@
     "company_url": "https://simplify.jobs/c/cc710af5-f21c-4b74-b377-d3b394b7b124",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Altruist",
+    "id": "6d2aa9ac-ebaf-4c30-85d5-72c8bc871493",
+    "title": "Software Engineering Intern",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1754102255,
+    "date_posted": 1754102255,
+    "url": "https://altruist.com/join-altruist/5601833004?gh_jid=5601833004",
+    "locations": [
+      "SF"
+    ],
+    "company_url": "https://simplify.jobs/c/fd33cc05-7479-4979-9bc3-fcf69310e14d",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "JP Morgan Chase",
+    "id": "37af576e-0c5f-4966-b3b6-497946729e4d",
+    "title": "2025 Code for Good Hackathon \u2013 Summer Internship - Software Engineer Program",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1754103505,
+    "date_posted": 1754103505,
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/requisitions/job/210648143",
+    "locations": [
+      "Palo Alto, CA",
+      "Houston, TX",
+      "Austin, TX",
+      "Tampa, FL",
+      "Plano, TX",
+      "Chicago, IL",
+      "Columbus, OH",
+      "NYC",
+      "Wilmington, DE"
+    ],
+    "company_url": "https://simplify.jobs/c/JP-Morgan-Chase",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
