@@ -94121,5 +94121,26 @@
     "company_url": "https://simplify.jobs/c/Nokia",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "date_updated": 1754330783,
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Technology-Internship-Program---Summer-2026_R218710-1",
+    "company_name": "Capital One",
+    "title": "Technology Internship Program - Summer 2026",
+    "locations": [
+      "McLean, VA",
+      "Richmond, VA",
+      "Plano, TX"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "sponsorship": "Does Not Offer Sponsorship",
+    "active": true,
+    "source": "hamim23z",
+    "id": "8cbfccf6-8a38-46e4-9bfc-540dfef9f371",
+    "date_posted": 1754330783,
+    "company_url": "",
+    "is_visible": true
   }
 ]
