@@ -94182,5 +94182,25 @@
     "company_url": "https://simplify.jobs/c/US-Bank",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Rockwell Automation",
+    "id": "c3f5016e-69ca-46fb-92b8-73f66b983257",
+    "title": "Co-op \u2013 Firmware Engineering",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1754347367,
+    "date_posted": 1754347367,
+    "url": "https://rockwellautomation.wd1.myworkdayjobs.com/en-US/External_Rockwell_Automation/job/Cambridge-Ontario-Canada/Co-op--Firmware-Engineering_R25-6419-1",
+    "locations": [
+      "Cambridge, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Rockwell-Automation",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
