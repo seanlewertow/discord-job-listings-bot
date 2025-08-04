@@ -94142,5 +94142,45 @@
     "date_posted": 1754330783,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Figure AI",
+    "id": "ac59c3ae-5e3c-4bda-8430-cb6498abf63c",
+    "title": "Developer Productivity Intern",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1754345553,
+    "date_posted": 1754345553,
+    "url": "https://job-boards.greenhouse.io/figureai/jobs/4589908006",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/04cbb102-51d9-4ce2-a4d8-38a82f8ea8e5",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "U.S. Bank",
+    "id": "036fbedd-299d-4b1b-b760-4e3aeb1164a9",
+    "title": "Capital Markets Summer Intern-Investment Grade Sales & Trading",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1754346472,
+    "date_posted": 1754346472,
+    "url": "https://usbank.wd1.myworkdayjobs.com/en-US/US_Bank_Careers/job/Charlotte-NC/XMLNAME-2026-Capital-Markets-Summer-Intern--Investment-Grade-Sales---Trading_2025-0018375",
+    "locations": [
+      "Charlotte, NC"
+    ],
+    "company_url": "https://simplify.jobs/c/US-Bank",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
