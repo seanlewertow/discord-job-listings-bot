@@ -94222,5 +94222,25 @@
     "company_url": "https://simplify.jobs/c/fd33cc05-7479-4979-9bc3-fcf69310e14d",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Altruist",
+    "id": "f8299fab-9315-499b-a534-8e33f55e02ff",
+    "title": "Quantitative Engineering Intern",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1754348643,
+    "date_posted": 1754348643,
+    "url": "https://altruist.com/join-altruist/5601829004?gh_jid=5601829004",
+    "locations": [
+      "SF"
+    ],
+    "company_url": "https://simplify.jobs/c/fd33cc05-7479-4979-9bc3-fcf69310e14d",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
