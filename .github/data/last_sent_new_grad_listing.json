@@ -17785,5 +17785,22 @@
     "date_posted": 1754344367,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Zoro",
+    "id": "e825cd57-2482-4e89-b28a-901424d7269b",
+    "title": "Software Engineer I - Release Platform",
+    "active": true,
+    "date_updated": 1754351086,
+    "date_posted": 1754351086,
+    "url": "https://zoro.com/careers/jobs?gh_jid=4589860006",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/Zoro",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
