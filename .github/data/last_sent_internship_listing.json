@@ -94202,5 +94202,25 @@
     "company_url": "https://simplify.jobs/c/Rockwell-Automation",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Altruist",
+    "id": "9de70e7d-a843-4ce3-91a4-2fe8688bc1c3",
+    "title": "Quantitative Engineering Intern",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1754348643,
+    "date_posted": 1754348643,
+    "url": "https://altruist.com/join-altruist/5601805004?gh_jid=5601805004",
+    "locations": [
+      "LA"
+    ],
+    "company_url": "https://simplify.jobs/c/fd33cc05-7479-4979-9bc3-fcf69310e14d",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
