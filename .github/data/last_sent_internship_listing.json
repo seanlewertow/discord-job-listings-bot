@@ -94544,5 +94544,66 @@
     "company_url": "https://simplify.jobs/c/MotorolaSolutions",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Palantir",
+    "id": "bd5985bd-7c09-4dfe-b27f-46d6f0d3418a",
+    "title": "Forward Deployed Software Engineer \u2013 Internship - Commercial",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1754429794,
+    "date_posted": 1754429794,
+    "url": "https://jobs.lever.co/palantir/599b1907-aba1-4303-837b-66e69a521636/apply",
+    "locations": [
+      "London, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Palantir",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Chicago Trading Company",
+    "id": "51309188-7d62-41e9-9fbe-d02b155f9d0d",
+    "title": "Quant Trading Internship",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1754431442,
+    "date_posted": 1754431442,
+    "url": "https://job-boards.greenhouse.io/chicagotradingcampus/jobs/4593774005",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/ChicagoTradingCo",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Chicago Trading Company",
+    "id": "0f074937-3479-4ab1-8ba6-5f30386603ee",
+    "title": "Software Engineering Internship",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1754431449,
+    "date_posted": 1754431449,
+    "url": "https://job-boards.greenhouse.io/chicagotradingcampus/jobs/4593772005",
+    "locations": [
+      "Chicago, IL",
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/ChicagoTradingCo",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
