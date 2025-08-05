@@ -94524,5 +94524,25 @@
     "company_url": "https://simplify.jobs/c/ByteDance",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Motorola",
+    "id": "212dc499-a662-4704-9d3b-ac2080f5586a",
+    "title": "Software Engineer Intern",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1754413489,
+    "date_posted": 1754413489,
+    "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Edinburgh-UK-ZUK129/Software-Engineer-Intern_R56319",
+    "locations": [
+      "Edinburgh, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/MotorolaSolutions",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
