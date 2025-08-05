@@ -94242,5 +94242,116 @@
     "company_url": "https://simplify.jobs/c/fd33cc05-7479-4979-9bc3-fcf69310e14d",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "date_updated": 1754360928,
+    "url": "https://jobs.ashbyhq.com/baseten/4e6757f3-74c0-4d3d-9b0b-eb56ab561c37",
+    "company_name": "Baseten",
+    "title": "Software Engineering Intern",
+    "locations": [
+      "New York, NY",
+      "San Francisco, CA"
+    ],
+    "terms": [
+      "Spring 2026",
+      "Winter 2026",
+      "Winter 2025",
+      "Fall 2025",
+      "Summer 2025",
+      "Summer 2026"
+    ],
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "source": "AlmondCroffle",
+    "id": "f0f2ef0d-a3cb-4c08-8af4-fbc26cb9fa85",
+    "date_posted": 1754360928,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1754361386,
+    "url": "https://job-boards.greenhouse.io/applovin/jobs/4552288006?gh_jid=4552288006",
+    "company_name": "AppLovin",
+    "title": "Software Engineer Intern",
+    "locations": [
+      "Remote"
+    ],
+    "terms": [
+      "Spring 2026",
+      "Winter 2026",
+      "Winter 2025",
+      "Fall 2025",
+      "Summer 2025",
+      "Summer 2026"
+    ],
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "source": "AlmondCroffle",
+    "id": "15d2967a-2539-49a5-8d33-c4b4b7f4ba45",
+    "date_posted": 1754361386,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1754363934,
+    "url": "https://lifeattiktok.com/search/7533029779479791890",
+    "company_name": "TikTok",
+    "title": "Software Engineer Intern (TikTok-Intelligent Creation - Generative AI and Graphics)",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "source": "AlmondCroffle",
+    "id": "fa685806-ffb4-4ba9-b315-0dc6c8156373",
+    "date_posted": 1754363934,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1754363985,
+    "url": "https://lifeattiktok.com/search/7533388869200333074",
+    "company_name": "TikTok",
+    "title": "Software Engineer Intern (Data Ecosystem)",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "source": "AlmondCroffle",
+    "id": "a6928d63-b64c-444f-a90a-2c02a6ddc690",
+    "date_posted": 1754363985,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1754364082,
+    "url": "https://job-boards.greenhouse.io/marqueeig1/jobs/8102318002",
+    "company_name": "Marquee Insurance Group",
+    "title": "Software Engineer Intern",
+    "locations": [
+      "Charleston, SC"
+    ],
+    "terms": [
+      "Spring 2026",
+      "Winter 2026",
+      "Winter 2025",
+      "Fall 2025",
+      "Summer 2025",
+      "Summer 2026"
+    ],
+    "sponsorship": "Does Not Offer Sponsorship",
+    "active": true,
+    "source": "AlmondCroffle",
+    "id": "0c7f2a11-c68d-44d4-9ed2-231b2201c4b1",
+    "date_posted": 1754364082,
+    "company_url": "",
+    "is_visible": true
   }
 ]
