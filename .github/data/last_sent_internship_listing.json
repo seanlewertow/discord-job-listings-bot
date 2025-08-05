@@ -94605,5 +94605,25 @@
     "company_url": "https://simplify.jobs/c/ChicagoTradingCo",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Peraton",
+    "id": "2c978ac6-354b-433b-85b1-97e6cd13fb55",
+    "title": "Summer 2026 University Internship Pipeline",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1754432063,
+    "date_posted": 1754432063,
+    "url": "https://careers-peraton.icims.com/jobs/158530/job",
+    "locations": [
+      "Reston, VA"
+    ],
+    "company_url": "https://simplify.jobs/c/Peraton",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
