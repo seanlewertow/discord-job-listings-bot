@@ -94764,5 +94764,25 @@
     "company_url": "https://simplify.jobs/c/BNY",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "ByteDance",
+    "id": "28443410-8587-45ee-93eb-e6a3250f2e60",
+    "title": "Software Development Engineer in Test Intern - Global E-Commerce",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1754456986,
+    "date_posted": 1754456986,
+    "url": "https://jobs.bytedance.com/en/position/7533352137058011399/detail",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/ByteDance",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
