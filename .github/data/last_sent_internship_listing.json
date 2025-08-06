@@ -94784,5 +94784,25 @@
     "company_url": "https://simplify.jobs/c/ByteDance",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Veolia",
+    "id": "f2ba6db2-80ad-47a4-82de-1bdf9a542b6d",
+    "title": "Data Science Intern",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1754434276,
+    "date_posted": 1754434276,
+    "url": "https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000074628375",
+    "locations": [
+      "Boston, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/Veolia",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
