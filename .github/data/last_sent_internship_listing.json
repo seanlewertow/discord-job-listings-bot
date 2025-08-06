@@ -94666,5 +94666,39 @@
     "company_url": "https://simplify.jobs/c/Alliaxis",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Medtronic",
+    "id": "805ac1da-8344-4d6e-a9c3-a460012b5898",
+    "title": "Engineering Intern Summer 2026",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1754443736,
+    "date_posted": 1754443736,
+    "url": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Minneapolis-Minnesota-United-States-of-America/Engineering-Intern-Summer-2026---Candidates-Attending-2025-SHPE-National-Convention_R41073-1",
+    "locations": [
+      "Boston, MA",
+      "Orange, CA",
+      "Santa Rosa, CA",
+      "Irvine, CA",
+      "Santa Clara, CA",
+      "Tempe, AZ",
+      "Ann Arbor, MI",
+      "Memphis, TN",
+      "Fort Worth, TX",
+      "North Haven, CT",
+      "Lafayette, CO",
+      "Minneapolis, MN",
+      "Newton, MA",
+      "Jacksonville, FL",
+      "Boulder, CO"
+    ],
+    "company_url": "https://simplify.jobs/c/Medtronic",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
