@@ -94625,5 +94625,46 @@
     "company_url": "https://simplify.jobs/c/Peraton",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Moog Inc",
+    "id": "f64afbd4-decb-48c2-843c-156da8aeee65",
+    "title": "Intern \u2013 Artificial Intelligence",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1754437877,
+    "date_posted": 1754437877,
+    "url": "https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Intern--Artificial-Intelligence_R-25-13375",
+    "locations": [
+      "Boston, NY",
+      "Buffalo, NY"
+    ],
+    "company_url": "https://simplify.jobs/c/Moog-Inc",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Alliaxis",
+    "id": "9186b9ce-15bc-4f7f-8581-953ff5f5e67b",
+    "title": "Manufacturing Excellence Co-op Student",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1754440664,
+    "date_posted": 1754440664,
+    "url": "https://aliaxis.wd3.myworkdayjobs.com/aliaxis/job/CA---Oakville-3---Office/Manufacturing-Excellence-Co-op-Student_R-52959-1",
+    "locations": [
+      "Oakville, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Alliaxis",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
