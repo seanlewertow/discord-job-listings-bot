@@ -94842,5 +94842,24 @@
     "date_posted": 1754500959,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "date_updated": 1754505435,
+    "url": "https://jobs.ashbyhq.com/gimlet/23e10dd6-e7c5-43f0-b14e-54ab999fccd9",
+    "company_name": "Gimlet Labs",
+    "title": "Software Engineer - Intern",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "source": "AlmondCroffle",
+    "id": "cbbaa1ac-f761-4ffa-a4bc-707d8e6ef385",
+    "date_posted": 1754505435,
+    "company_url": "",
+    "is_visible": true
   }
 ]
