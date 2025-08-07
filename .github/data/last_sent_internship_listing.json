@@ -95890,5 +95890,47 @@
     "company_url": "https://simplify.jobs/c/Jump-Trading",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Ramp",
+    "id": "6b976321-b3f1-4529-bee1-b8c1d3ed433e",
+    "title": "Software Engineer Internship - IOS",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1754606442,
+    "date_posted": 1754606442,
+    "url": "https://jobs.ashbyhq.com/ramp/8c155b55-3e7e-48a8-ac98-f988a2b6f4da/application",
+    "locations": [
+      "SF",
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Ramp",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Ramp",
+    "id": "673559f4-3da3-4a62-9726-bee7fcf9a3c7",
+    "title": "Software Engineer Internship - Android",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1754606441,
+    "date_posted": 1754606441,
+    "url": "https://jobs.ashbyhq.com/ramp/67fadb77-43d8-4449-954b-d4cf2c6d3b8b/application",
+    "locations": [
+      "SF",
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Ramp",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
