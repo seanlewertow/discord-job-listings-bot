@@ -95005,5 +95005,65 @@
     "date_posted": 1754543314,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Jump Trading",
+    "id": "6fdace5c-6ca0-411d-a5fa-170c4212dd45",
+    "title": "Campus UI Software Engineer \u2013 Intern",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1754545792,
+    "date_posted": 1754545792,
+    "url": "https://boards.greenhouse.io/embed/job_app?token=7125381",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/Jump-Trading",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Roblox",
+    "id": "526e258c-ede0-4d6f-b82d-564217c9707c",
+    "title": "Software Engineer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1754545569,
+    "date_posted": 1754545569,
+    "url": "https://careers.roblox.com/jobs/7114765?gh_jid=7114765",
+    "locations": [
+      "San Mateo, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Roblox",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Wurl",
+    "id": "dc49de1f-c56b-4912-92a6-d240db6835c1",
+    "title": "Software Engineer Intern",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1754545547,
+    "date_posted": 1754545547,
+    "url": "https://job-boards.greenhouse.io/wurljobs/jobs/4552288006",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/Wurl",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
