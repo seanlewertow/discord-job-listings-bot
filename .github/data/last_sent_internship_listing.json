@@ -95447,5 +95447,45 @@
     "company_url": "https://simplify.jobs/c/TikTok",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "TikTok",
+    "id": "68dcbaba-eb3e-4777-a533-89191abfbb44",
+    "title": "Software Development Engineer in Test Intern - Tiktok-Growth",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1754582759,
+    "date_posted": 1754582759,
+    "url": "https://lifeattiktok.com/search/7533135081482324231",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/TikTok",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "TikTok",
+    "id": "a786835d-c5d4-4a8e-87bb-0dda464edc80",
+    "title": "Backend Software Engineer Intern - Tiktok-Growth-Innovative Growth - 2026 Summer - BS/MS",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1754580618,
+    "date_posted": 1754580618,
+    "url": "https://lifeattiktok.com/search/7532750976021973256",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/TikTok",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
