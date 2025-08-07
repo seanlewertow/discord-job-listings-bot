@@ -95065,5 +95065,106 @@
     "company_url": "https://simplify.jobs/c/Wurl",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Wabtec",
+    "id": "df374bf3-f271-48b5-8451-81b30a306ddb",
+    "title": "Part-time Co-op",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1754548249,
+    "date_posted": 1754548249,
+    "url": "https://wabtec.wd1.myworkdayjobs.com/en-US/wabtec_careers/job/Fort-Worth-TX/Part-time-Fall-2025-Co-op_R0101047",
+    "locations": [
+      "Pittsburgh, PA",
+      "Fort Worth, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/fafa7828-221b-4c03-8031-f534d09caac1",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "ByteDance",
+    "id": "f9c3682d-25e0-42b3-aeb8-ae98854876fe",
+    "title": "Software Engineer Intern - Payment Network - Global Payment",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1754547807,
+    "date_posted": 1754547807,
+    "url": "https://jobs.bytedance.com/en/position/7533369475380070663/detail",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "company_url": "https://simplify.jobs/c/ByteDance",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Jump Trading",
+    "id": "7893ae36-4fcf-4ff9-8f3b-593b393a5ba9",
+    "title": "Campus Software Engineer \u2013 Intern",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1754549018,
+    "date_posted": 1754549018,
+    "url": "https://boards.greenhouse.io/embed/job_app?token=7124769",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/Jump-Trading",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Otis",
+    "id": "e18f467d-ae15-442d-b239-6eb0d2604b1d",
+    "title": "Model-Based Design Algorithm Engineer Intern",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1754548960,
+    "date_posted": 1754548960,
+    "url": "https://otis.wd5.myworkdayjobs.com/en-US/REC_Ext_Gateway/job/OT556-Farmington-Hills-34705-West-12-Mile-Rd-MI-48331-USA/Model-Based-Design-Algorithm-Engineer-Intern_20140445",
+    "locations": [
+      "Southfield, MI"
+    ],
+    "company_url": "https://simplify.jobs/c/Otis",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Jump Trading",
+    "id": "75484706-7428-413f-965c-0440ead8978d",
+    "title": "Campus Data Engineer \u2013 Intern",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1754548768,
+    "date_posted": 1754548768,
+    "url": "https://boards.greenhouse.io/embed/job_app?token=7125399",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/Jump-Trading",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
