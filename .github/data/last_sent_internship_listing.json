@@ -95809,5 +95809,86 @@
     "company_url": "https://simplify.jobs/c/TikTok",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Confluent",
+    "id": "de7eb449-6fc8-484d-bede-8f69ae747534",
+    "title": "Confluent Software Engineering Intern",
+    "active": true,
+    "terms": [
+      "Winter 2026",
+      "Summer 2027"
+    ],
+    "date_updated": 1754605769,
+    "date_posted": 1754605769,
+    "url": "https://jobs.ashbyhq.com/confluent/095d92fe-7534-4f49-a846-b63ca229731b/application",
+    "locations": [
+      "London, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Confluent",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Confluent",
+    "id": "8947eda0-17f0-40fb-99fa-eddae05ad61a",
+    "title": "2026 Confluent Software Engineering Intern Opportunity",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1754605779,
+    "date_posted": 1754605779,
+    "url": "https://jobs.ashbyhq.com/confluent/d9ebd50b-967e-4f35-8ebd-f0ce2705136a/application",
+    "locations": [
+      "Austin, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Confluent",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Confluent",
+    "id": "86d6b780-11da-4609-b072-9bcd6f464fda",
+    "title": "2026 Confluent Software Engineering Intern Opportunity",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1754605769,
+    "date_posted": 1754605769,
+    "url": "https://jobs.ashbyhq.com/confluent/974fa008-7174-4e6f-a89c-8c6cce70ae7e/application",
+    "locations": [
+      "Toronto, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Confluent",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Jump Trading",
+    "id": "f83c9ced-2fd8-4b9c-b88a-df8059cb1387",
+    "title": "Campus Quantitative Trader \u2013 Intern",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1754605563,
+    "date_posted": 1754605563,
+    "url": "https://boards.greenhouse.io/embed/job_app?token=7142372",
+    "locations": [
+      "London, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Jump-Trading",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
