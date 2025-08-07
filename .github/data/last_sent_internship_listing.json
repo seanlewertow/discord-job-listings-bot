@@ -95367,5 +95367,25 @@
     "company_url": "https://simplify.jobs/c/TikTok",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "TikTok",
+    "id": "e4a1dec1-6384-4c57-bbae-d21f3902bfed",
+    "title": "Software Engineer Intern - Recommendation Infrastructure",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1754577313,
+    "date_posted": 1754577313,
+    "url": "https://lifeattiktok.com/search/7533035030336538887",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/TikTok",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
