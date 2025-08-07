@@ -18264,5 +18264,29 @@
     "company_url": "https://simplify.jobs/c/Trexquant",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Blue Origin",
+    "id": "f37865a3-2377-4049-a582-75c3fc52d4b2",
+    "title": "Intern Conversion: \u2013 Early Career - Avionics Software Engineer I",
+    "active": true,
+    "date_updated": 1754610266,
+    "date_posted": 1754610266,
+    "url": "https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Seattle-WA/Intern-Conversion---Early-Career--Avionics-Software-Engineer-I_R54003",
+    "locations": [
+      "Seattle, WA",
+      "Washington, DC",
+      "LA",
+      "Cape Canaveral, FL",
+      "Phoenix, AZ",
+      "Denver, CO",
+      "Huntsville, AL",
+      "Van Horn, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Blue-Origin",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
