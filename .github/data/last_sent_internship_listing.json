@@ -95932,5 +95932,25 @@
     "company_url": "https://simplify.jobs/c/Ramp",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Manulife",
+    "id": "a8a4d2f7-edcd-40bc-922c-5e4a3de69c66",
+    "title": "Reporting & Analytics Analyst \u2013 Global Operations Risk & Control Co-op",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1754607211,
+    "date_posted": 1754607211,
+    "url": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_AdminJobs/job/Toronto-Ontario/Reporting---Analytics-Analyst--Global-Operations-Risk---Control-Co-op_JR25080365",
+    "locations": [
+      "Toronto, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/acb6271e-e26a-401d-befe-547f56e287b5",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
