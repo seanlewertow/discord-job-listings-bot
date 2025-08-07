@@ -95547,5 +95547,107 @@
     "company_url": "https://simplify.jobs/c/TikTok",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "TikTok",
+    "id": "ee35cb24-d8bf-41d7-881e-48ebd011cddc",
+    "title": "Frontend Engineer Intern - Tiktok-Pgc - BS/MS",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1754587122,
+    "date_posted": 1754587122,
+    "url": "https://lifeattiktok.com/search/7533095458232584466",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/TikTok",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "TikTok",
+    "id": "a98716d0-1a11-46aa-8405-a3bd382945db",
+    "title": "Data Scientist Intern - E-commerce Governance Algorithms - BS/MS",
+    "active": true,
+    "terms": [
+      "Summer 2025",
+      "Fall 2025"
+    ],
+    "date_updated": 1754587123,
+    "date_posted": 1754587123,
+    "url": "https://lifeattiktok.com/search/7397455103747836210",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "company_url": "https://simplify.jobs/c/TikTok",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "TikTok",
+    "id": "f97d5112-4d44-4d70-99fc-ae9bca3a3f3d",
+    "title": "Frontend Engineer Intern - Tiktok-Search-Client",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1754587120,
+    "date_posted": 1754587120,
+    "url": "https://lifeattiktok.com/search/7533783305126365448",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/TikTok",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "TikTok",
+    "id": "c3bf7441-29b9-4a6d-a6bf-4282eb67e697",
+    "title": "Data Engineer Intern - E-commerce",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1754587105,
+    "date_posted": 1754587105,
+    "url": "https://lifeattiktok.com/search/7534818364393654535",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "company_url": "https://simplify.jobs/c/TikTok",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "TikTok",
+    "id": "1d911c19-b885-4882-8d83-25a72a50e653",
+    "title": "Machine Learning Engineer Intern - Tiktok-Engine and Tools-3D graphics - 2026 Start - PhD",
+    "active": true,
+    "terms": [
+      "Spring 2026",
+      "Summer 2026"
+    ],
+    "date_updated": 1754587128,
+    "date_posted": 1754587128,
+    "url": "https://lifeattiktok.com/search/7532735339883710728",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/TikTok",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
