@@ -94923,5 +94923,68 @@
     "date_posted": 1754528171,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "date_updated": 1754541165,
+    "url": "https://jobs.ashbyhq.com/confluent/d9ebd50b-967e-4f35-8ebd-f0ce2705136a",
+    "company_name": "Confluent",
+    "title": "Software Engineering Intern",
+    "locations": [
+      "Austin, TX"
+    ],
+    "terms": [
+      "Spring 2026",
+      "Winter 2026",
+      "Winter 2025",
+      "Fall 2025",
+      "Summer 2025",
+      "Summer 2026"
+    ],
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "source": "AlmondCroffle",
+    "id": "bf8470b1-93c2-48a9-aa09-782423815cbb",
+    "date_posted": 1754541165,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1754541336,
+    "url": "https://job-boards.greenhouse.io/figureai/jobs/4590429006",
+    "company_name": "Figure",
+    "title": "Firmware Engineer Intern",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "terms": [
+      "Fall 2025"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "source": "AlmondCroffle",
+    "id": "2d1a6338-2e35-4a8e-a5ae-a5c133acf387",
+    "date_posted": 1754541336,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Sun Life",
+    "id": "c50ebc9c-7897-4b8b-b752-549a304b94f5",
+    "title": "Digital Analytics Intern",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1754541717,
+    "date_posted": 1754541717,
+    "url": "https://sunlife.wd3.myworkdayjobs.com/en-US/Campus/job/Toronto-Ontario/Digital-Analytics-Intern--Summer-2026-_JR00114466",
+    "locations": [
+      "Toronto, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Sun-Life",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
