@@ -95769,5 +95769,45 @@
     "company_url": "https://simplify.jobs/c/TikTok",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "TikTok",
+    "id": "238bfcec-42a1-494c-902c-67cf488d9005",
+    "title": "Software Engineer Intern - Ads Infra",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1754587730,
+    "date_posted": 1754587730,
+    "url": "https://lifeattiktok.com/search/7473342040157194514",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/TikTok",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "TikTok",
+    "id": "193fc4e6-659b-47ef-a4e3-7c2df938dc1c",
+    "title": "Software Engineer Intern - Data Arch - Shorttext Rec - BS/MS",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1754583146,
+    "date_posted": 1754583146,
+    "url": "https://lifeattiktok.com/search/7535250563514059016",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/TikTok",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
