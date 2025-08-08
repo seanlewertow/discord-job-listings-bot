@@ -96177,5 +96177,26 @@
     "company_url": "https://simplify.jobs/c/Dell-Technologies",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Dell Technologies",
+    "id": "d8febde7-8223-4ce5-9483-e1a44005c713",
+    "title": "Dell ISG Software Engineering Intern",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1754625057,
+    "date_posted": 1754625057,
+    "url": "https://dell.wd1.myworkdayjobs.com/External/job/Hopkinton-Massachusetts-United-States/Dell-ISG-Software-Engineering-Intern_R275421-1",
+    "locations": [
+      "Round Rock, TX",
+      "Westborough, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/Dell-Technologies",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
