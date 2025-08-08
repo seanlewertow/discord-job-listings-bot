@@ -18373,5 +18373,70 @@
     "company_url": "https://simplify.jobs/c/Boston-Scientific",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "date_updated": 1754642042,
+    "url": "https://amgen.wd1.myworkdayjobs.com/en-US/Careers/job/US---California---Thousand-Oaks/Junior-Software-Engineer_R-222252",
+    "company_name": "Amgen",
+    "title": "Junior Software Engineer",
+    "locations": [
+      "Thousand Oaks, CA",
+      "Tampa, FL"
+    ],
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "source": "AlmondCroffle",
+    "id": "669bff20-bc17-4752-acc8-b2297819b6ae",
+    "date_posted": 1754642042,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1754642138,
+    "url": "http://isu.wd1.myworkdayjobs.com/en-US/IowaStateJobs/job/Remote---Iowa/Software-Developer-I---AI-Developer_R17481",
+    "company_name": "Iowa State University",
+    "title": "Software Developer I - AI Developer",
+    "locations": [
+      "Remote, IA"
+    ],
+    "sponsorship": "Does Not Offer Sponsorship",
+    "active": true,
+    "source": "AlmondCroffle",
+    "id": "b2c3b509-3077-4e43-8818-395c67f30753",
+    "date_posted": 1754642138,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1754642261,
+    "url": "https://maxar.wd1.myworkdayjobs.com/en-US/Maxar/job/Herndon-VA/Forward-Deployed-Software-Engineer-I_R22647-1",
+    "company_name": "Maxar",
+    "title": "Forward Deployed Software Engineer I",
+    "locations": [
+      "Herndon, VA"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "source": "AlmondCroffle",
+    "id": "07e3733c-260c-4dc2-8ea5-de5cdcaba9cc",
+    "date_posted": 1754642261,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1754642341,
+    "url": "https://careers.oracle.com/en/sites/jobsearch/job/304100",
+    "company_name": "Oracle",
+    "title": "Undergrad Software Engineer",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "sponsorship": "Does Not Offer Sponsorship",
+    "active": true,
+    "source": "AlmondCroffle",
+    "id": "d6ed9b5f-f43b-410d-862c-1efe7b31e131",
+    "date_posted": 1754642341,
+    "company_url": "",
+    "is_visible": true
   }
 ]
