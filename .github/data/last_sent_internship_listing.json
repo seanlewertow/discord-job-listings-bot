@@ -96155,5 +96155,27 @@
     "company_url": "https://simplify.jobs/c/TikTok",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Dell Technologies",
+    "id": "d7201f8d-9bbe-4f64-b1be-08b5fb17579b",
+    "title": "Dell ISG Hardware Engineering Undergraduate Intern",
+    "active": true,
+    "terms": [
+      "Winter 2026",
+      "Spring 2027"
+    ],
+    "date_updated": 1754625057,
+    "date_posted": 1754625057,
+    "url": "https://dell.wd1.myworkdayjobs.com/External/job/Round-Rock-Texas-United-States/Dell-ISG-Hardware-Engineering-Undergraduate-Intern_R275422-1",
+    "locations": [
+      "Round Rock, TX",
+      "Westborough, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/Dell-Technologies",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
