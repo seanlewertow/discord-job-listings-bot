@@ -96295,5 +96295,24 @@
     "date_posted": 1754641765,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "date_updated": 1754642532,
+    "url": "https://dow.wd1.myworkdayjobs.com/en-US/ExternalCareers/job/Kankakee-IL-USA/Data-Engineer-Internship-Spring-2026-at-the-Dow-Delivery-Center-at-UIUC--Champaign--IL-_R2061990",
+    "company_name": "Dow",
+    "title": "Data Engineer Internship",
+    "locations": [
+      "Kankakee, IL"
+    ],
+    "terms": [
+      "Spring 2026"
+    ],
+    "sponsorship": "Does Not Offer Sponsorship",
+    "active": true,
+    "source": "AlmondCroffle",
+    "id": "24c1973d-7482-4b76-8e75-a23ef19f1ddd",
+    "date_posted": 1754642532,
+    "company_url": "",
+    "is_visible": true
   }
 ]
