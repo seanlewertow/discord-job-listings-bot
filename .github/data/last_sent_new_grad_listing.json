@@ -18486,5 +18486,53 @@
     "date_posted": 1754642937,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "date_updated": 1754649625,
+    "url": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25024266",
+    "company_name": "Emerson",
+    "title": "Embedded Software Engineer",
+    "locations": [
+      "Shakopee, MN"
+    ],
+    "sponsorship": "Does Not Offer Sponsorship",
+    "active": true,
+    "source": "AlmondCroffle",
+    "id": "736ff7fd-9859-482b-b73b-e3b5ffd38452",
+    "date_posted": 1754649625,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1754649712,
+    "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/3477495",
+    "company_name": "Detroit Defense",
+    "title": "Software Test Engineer",
+    "locations": [
+      "Troy, MI"
+    ],
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "source": "AlmondCroffle",
+    "id": "c970b2d3-4e10-414c-8ef1-849d778e5262",
+    "date_posted": 1754649712,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1754649789,
+    "url": "https://job-boards.greenhouse.io/cooksys/jobs/4872299008",
+    "company_name": "Cook Systems",
+    "title": "Software Developer",
+    "locations": [
+      "Nashville, TN"
+    ],
+    "sponsorship": "Does Not Offer Sponsorship",
+    "active": true,
+    "source": "AlmondCroffle",
+    "id": "84ea0eef-b51b-47f6-b7d9-800f3cfb2a0f",
+    "date_posted": 1754649789,
+    "company_url": "",
+    "is_visible": true
   }
 ]
