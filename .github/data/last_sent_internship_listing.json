@@ -96432,5 +96432,29 @@
     "date_posted": 1754664637,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "date_updated": 1754675762,
+    "url": "https://www.tesla.com/careers/search/job/247659",
+    "company_name": "Tesla",
+    "title": "Machine Learning Engineer, Model Optimization & Deployment, Optimus",
+    "locations": [
+      "Palo Alto, CA"
+    ],
+    "terms": [
+      "Summer 2026",
+      "Fall 2025",
+      "Summer 2025",
+      "Winter 2025",
+      "Winter 2026",
+      "Spring 2026"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "source": "AlmondCroffle",
+    "id": "896c4b0a-56e1-4bc7-aeab-6b3b06fb9835",
+    "date_posted": 1754675762,
+    "company_url": "",
+    "is_visible": true
   }
 ]
