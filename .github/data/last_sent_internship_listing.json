@@ -96198,5 +96198,102 @@
     "company_url": "https://simplify.jobs/c/Dell-Technologies",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "date_updated": 1754641088,
+    "url": "https://careers.confluent.io/jobs/job/66fb00d4-6988-48c2-81a3-f3d397dd2c2a",
+    "company_name": "Confluent",
+    "title": "Cloud Infrastructure Engineer Intern",
+    "locations": [
+      "Remote, United Kingdom"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "source": "Aparna-Rajesh",
+    "id": "5d43c056-4132-4f0d-b3c8-4937dc52a311",
+    "date_posted": 1754641088,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1754641158,
+    "url": "https://careers.confluent.io/jobs/job/974fa008-7174-4e6f-a89c-8c6cce70ae7e",
+    "company_name": "Confluent",
+    "title": "Confluent Software Engineering Intern",
+    "locations": [
+      "Toronto, Canada"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "source": "Aparna-Rajesh",
+    "id": "0d184a3a-096c-4cb5-8d63-97e011fa04ac",
+    "date_posted": 1754641158,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1754641197,
+    "url": "https://careers.confluent.io/jobs/job/095d92fe-7534-4f49-a846-b63ca229731b",
+    "company_name": "Confluent",
+    "title": "Software Engineering Intern",
+    "locations": [
+      "Remote, London"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "source": "Aparna-Rajesh",
+    "id": "417bc8bf-397c-415a-9f30-ebe7d2007e4e",
+    "date_posted": 1754641197,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1754641504,
+    "url": "https://xantium.com/careers/interns_2026/",
+    "company_name": "Xantium",
+    "title": "Quantitative Developer",
+    "locations": [
+      "New York, NY",
+      "London, UK"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "sponsorship": "Does Not Offer Sponsorship",
+    "active": true,
+    "source": "Jacoblevy1999",
+    "id": "4042e060-9e80-4d3c-ac52-7d36428ac488",
+    "date_posted": 1754641489,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1754641846,
+    "url": "https://job-boards.greenhouse.io/xantium/jobs/7094436",
+    "company_name": "Xantium",
+    "title": "Quantitative Developer",
+    "locations": [
+      "New York, NY",
+      "London, UK"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "sponsorship": "Does Not Offer Sponsorship",
+    "active": true,
+    "source": "AlmondCroffle",
+    "id": "28633d41-9afb-4ed3-b8dc-e92c7c5025ff",
+    "date_posted": 1754641765,
+    "company_url": "",
+    "is_visible": true
   }
 ]
