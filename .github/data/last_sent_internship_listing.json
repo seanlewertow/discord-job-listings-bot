@@ -95952,5 +95952,108 @@
     "company_url": "https://simplify.jobs/c/acb6271e-e26a-401d-befe-547f56e287b5",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Intuit",
+    "id": "e3119991-3859-4734-936c-1cc1c8296582",
+    "title": "Software Developer Co-op",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1754611840,
+    "date_posted": 1754611840,
+    "url": "https://jobs.intuit.com/job/toronto/software-developer-co-op-fall-2025/27595/82936409280",
+    "locations": [
+      "Toronto, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Intuit",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Intuit",
+    "id": "09f7e50b-2449-4e7e-8eb4-6a125a224464",
+    "title": "Mobile Software Developer Co-op",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1754611837,
+    "date_posted": 1754611837,
+    "url": "https://jobs.intuit.com/job/toronto/mobile-software-developer-co-op-4-months/27595/82954044144",
+    "locations": [
+      "Toronto, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Intuit",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "ConocoPhillips",
+    "id": "91933386-a7d0-4948-8805-be44737f7c17",
+    "title": "Intern \u2013 Land GIS Analyst",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1754614784,
+    "date_posted": 1754614784,
+    "url": "https://conocophillips.wd1.myworkdayjobs.com/External/job/Houston-TX/Intern--Land-GIS-Analyst-2026_REQ-005138",
+    "locations": [
+      "Midland, TX",
+      "Houston, TX",
+      "Bartlesville, OK"
+    ],
+    "company_url": "https://simplify.jobs/c/ConocoPhillips",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "ConocoPhillips",
+    "id": "364cc17f-e247-44bc-a2be-c9f6fb91e0a7",
+    "title": "Intern \u2013 Land Administration GIS",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1754614786,
+    "date_posted": 1754614786,
+    "url": "https://conocophillips.wd1.myworkdayjobs.com/External/job/Bartlesville-OK/Intern--Land-Administration-GIS-2026_REQ-005151",
+    "locations": [
+      "Bartlesville, OK"
+    ],
+    "company_url": "https://simplify.jobs/c/ConocoPhillips",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Intellistack",
+    "id": "56fff996-d51d-4446-82cd-3489a318d443",
+    "title": "AI Intern",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1754614445,
+    "date_posted": 1754614445,
+    "url": "https://jobs.ashbyhq.com/Intellistack/0b5662ad-85ac-4d15-a291-f66b396d6c68/application",
+    "locations": [
+      "SF",
+      "Denver, CO"
+    ],
+    "company_url": "https://simplify.jobs/c/Intellistack",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
