@@ -96407,5 +96407,30 @@
     "date_posted": 1754650657,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "date_updated": 1754664637,
+    "url": "https://job-boards.greenhouse.io/xantium/jobs/7104184",
+    "company_name": "Xantium",
+    "title": "Quantitative Researcher Intern",
+    "locations": [
+      "New York, NY",
+      "London, UK"
+    ],
+    "terms": [
+      "Summer 2026",
+      "Summer 2025",
+      "Fall 2025",
+      "Winter 2025",
+      "Winter 2026",
+      "Spring 2026"
+    ],
+    "sponsorship": "Does Not Offer Sponsorship",
+    "active": true,
+    "source": "AlmondCroffle",
+    "id": "0522e3ec-6b99-440c-b7d3-ac4d05720a6b",
+    "date_posted": 1754664637,
+    "company_url": "",
+    "is_visible": true
   }
 ]
