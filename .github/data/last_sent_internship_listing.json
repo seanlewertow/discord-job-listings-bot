@@ -96803,5 +96803,29 @@
     "company_url": "https://simplify.jobs/c/TikTok",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "date_updated": 1754746797,
+    "url": "https://careers.confluent.io/jobs/job/d9ebd50b-967e-4f35-8ebd-f0ce2705136a",
+    "company_name": "Cofluent",
+    "title": "Software Engineering Intern",
+    "locations": [
+      "Austin, Texas",
+      "Remote"
+    ],
+    "terms": [
+      "Winter 2026",
+      "Spring 2026",
+      "Fall 2025",
+      "Summer 2025",
+      "Summer 2026"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "source": "Aparna-Rajesh",
+    "id": "d9cc6bea-6ab5-4e36-a9c0-874801025833",
+    "date_posted": 1754746731,
+    "company_url": "",
+    "is_visible": true
   }
 ]
