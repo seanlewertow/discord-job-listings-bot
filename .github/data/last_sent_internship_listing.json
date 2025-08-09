@@ -96827,5 +96827,26 @@
     "date_posted": 1754746731,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Formlabs",
+    "id": "73f16b05-3c54-4e3d-8fa5-a72c93e3900a",
+    "title": "Hardware Systems Engineering Intern",
+    "active": true,
+    "terms": [
+      "Winter 2026",
+      "Spring 2026"
+    ],
+    "date_updated": 1754752777,
+    "date_posted": 1753741017,
+    "url": "https://careers.formlabs.com/job/7095214/apply/?gh_jid=7095214",
+    "locations": [
+      "Cambridge, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/Formlabs",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
