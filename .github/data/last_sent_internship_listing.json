@@ -96563,5 +96563,105 @@
     "company_url": "https://simplify.jobs/c/372c6250-89ed-4b8e-9000-a81fc94184d8",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "United Parcel Service (UPS)",
+    "id": "025a1866-9b08-422d-9dbe-9f224b1bbb41",
+    "title": "ISM Co-op",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1754706063,
+    "date_posted": 1754706063,
+    "url": "https://hcmportal.wd5.myworkdayjobs.com/en-US/Search/job/US---IS-PARSIPPANY-NJPRS/ISM-Co-op_R25028993",
+    "locations": [
+      "Parsippany-Troy Hills, NJ"
+    ],
+    "company_url": "https://simplify.jobs/c/United-Parcel-Service",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Belvedere Trading",
+    "id": "71cf7b01-0bb3-4b71-bbef-50a29e75910d",
+    "title": "Software Engineer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1754707552,
+    "date_posted": 1754707552,
+    "url": "https://jobs.lever.co/belvederetrading/eddfd030-1b27-46db-9ef6-5b65e1e2484c/apply",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/Belvedere-Trading",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Belvedere Trading",
+    "id": "1233ad35-102c-4555-8b84-1296f57eecbc",
+    "title": "Quantitative Trading Intern",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1754707551,
+    "date_posted": 1754707551,
+    "url": "https://jobs.lever.co/belvederetrading/ec52b73e-54b8-4f87-909d-a74cb288dc4d/apply",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/Belvedere-Trading",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "PNC Financial Services",
+    "id": "6db494bb-d721-494b-88f4-44282fcf2bc2",
+    "title": "Data Analytics Undergraduate Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1754708305,
+    "date_posted": 1754708305,
+    "url": "https://pnc.wd5.myworkdayjobs.com/External/job/PA---Pittsburgh-15222/Data-Analytics-Undergraduate-Intern_R196750",
+    "locations": [
+      "Pittsburgh, PA"
+    ],
+    "company_url": "https://simplify.jobs/c/PNC-Financial-Services",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Samsung",
+    "id": "7ab88450-5b0b-412a-8c11-59c63ef5e1bc",
+    "title": "Summer Internship",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1754707932,
+    "date_posted": 1754707932,
+    "url": "https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/12100-Samsung-Blvd-Austin-TX-USA/XMLNAME-2026-Summer-Internship_R107280",
+    "locations": [
+      "Austin, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Samsung",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
