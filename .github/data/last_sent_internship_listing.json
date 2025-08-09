@@ -96703,5 +96703,45 @@
     "company_url": "https://simplify.jobs/c/GlobalFoundries",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Nextiva",
+    "id": "ca9aa085-672f-467f-afe9-1ea438a7d115",
+    "title": "AI Engineer Intern - Go-to-Market - Part-time",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1754711135,
+    "date_posted": 1754711135,
+    "url": "https://www.nextiva.com/company/careers-listing?gh_jid=8106564002",
+    "locations": [
+      "Scottsdale, AZ"
+    ],
+    "company_url": "https://simplify.jobs/c/Nextiva",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "WGU",
+    "id": "ae7b9acb-3d87-46c2-a4ea-cad85161e2d7",
+    "title": "Intern \u2013 Technical",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1754712386,
+    "date_posted": 1754712386,
+    "url": "https://wgu.wd5.myworkdayjobs.com/en-US/External/job/Salt-Lake-City-Office/Intern---Technical_JR-022518",
+    "locations": [
+      "Salt Lake City, UT"
+    ],
+    "company_url": "https://simplify.jobs/c/e05ef31f-f120-4063-adad-2b2fdde995cb",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
