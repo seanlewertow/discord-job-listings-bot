@@ -19064,5 +19064,37 @@
     "date_posted": 1754991338,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "date_updated": 1755006927,
+    "url": "https://ssctech.wd1.myworkdayjobs.com/en-US/ssctechnologies/job/Union-NJ/Junior-AI-Assisted-Software-Engineer_R36039",
+    "company_name": "SS&C",
+    "title": "Junior AI-Assisted Software Engineer",
+    "locations": [
+      "Union, NJ"
+    ],
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "source": "AlmondCroffle",
+    "id": "0a1235f1-ce89-40a8-a94d-f053e58c9904",
+    "date_posted": 1755006927,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1755007024,
+    "url": "https://cat.wd5.myworkdayjobs.com/en-US/solarturbines/job/San-Diego-California/Entry-Level-Controls---Software-Test-Engineer_R0000318546",
+    "company_name": "Solar Turbines",
+    "title": "Entry Level Controls & Software Test Engineer",
+    "locations": [
+      "San Diego, CA"
+    ],
+    "sponsorship": "Does Not Offer Sponsorship",
+    "active": true,
+    "source": "AlmondCroffle",
+    "id": "9c770eb9-1372-4a9c-acbd-8585aa18053a",
+    "date_posted": 1755007024,
+    "company_url": "",
+    "is_visible": true
   }
 ]
