@@ -97306,5 +97306,25 @@
     "company_url": "https://simplify.jobs/c/RESPEC",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Xylem",
+    "id": "3cfd22a3-7aac-4e87-9e19-2701bbbf0aef",
+    "title": "Data Engineer Intern",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1755027666,
+    "date_posted": 1755027666,
+    "url": "https://xylem.wd5.myworkdayjobs.com/en-US/xylem-careers/job/Mississauga/Data-Engineer-Intern_R43581",
+    "locations": [
+      "Mississauga, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Xylem",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
