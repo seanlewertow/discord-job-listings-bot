@@ -19249,5 +19249,69 @@
     "company_url": "https://simplify.jobs/c/Broadcom-Limited",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "date_updated": 1755035602,
+    "url": "https://university-uber.icims.com/jobs/147250/job",
+    "company_name": "Uber",
+    "title": "Graduate 2025 Software Engineer I, US",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "source": "polinavishnev",
+    "id": "7147fcb0-68ba-4a67-949f-44ce269b1ac4",
+    "date_posted": 1755035602,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1755035689,
+    "url": "https://job-boards.greenhouse.io/appliedintuition/jobs/4592027005",
+    "company_name": "Applied Intuition",
+    "title": "Embedded Software Engineer - New Grad",
+    "locations": [
+      "Mountain View, CA"
+    ],
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "source": "polinavishnev",
+    "id": "3827b11f-faee-43e0-b92d-1fd2d3a75784",
+    "date_posted": 1755035689,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1755035710,
+    "url": "https://job-boards.greenhouse.io/appliedintuition/jobs/4489211005",
+    "company_name": "Applied Intuition",
+    "title": "Research Scientist - New Grad",
+    "locations": [
+      "Mountain View, CA"
+    ],
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "source": "polinavishnev",
+    "id": "6a32d638-3914-427f-affa-a38322e94088",
+    "date_posted": 1755035710,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1755035727,
+    "url": "https://job-boards.greenhouse.io/appliedintuition/jobs/4592025005",
+    "company_name": "Applied Intuition",
+    "title": "Software Engineer - New Grad",
+    "locations": [
+      "Mountain View, CA"
+    ],
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "source": "polinavishnev",
+    "id": "e40e216e-8125-49f7-9366-c7bb719bb4a1",
+    "date_posted": 1755035727,
+    "company_url": "",
+    "is_visible": true
   }
 ]
