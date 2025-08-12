@@ -19096,5 +19096,87 @@
     "date_posted": 1755007024,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "date_updated": 1755007781,
+    "url": "https://barclays.wd3.myworkdayjobs.com/en-US/external_career_site_barclays/job/745-7th-Avenue-New-York/Quantitative-Analytics-Associate-Graduate-Program-2026-New-York_JR-0000060403",
+    "company_name": "Barclays",
+    "title": "Quantitative Analytics Associate Graduate Program",
+    "locations": [
+      "Manhattan, NY"
+    ],
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "source": "AlmondCroffle",
+    "id": "b669da89-d679-4fa2-a593-4eca3f5ac63e",
+    "date_posted": 1755007781,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1755008007,
+    "url": "https://homedepot.wd5.myworkdayjobs.com/en-US/careerdepot/job/STORE-SUPPORT-CENTER-ATLANTA---9090/Associate-Data-Scientist---MET_Req153698-1",
+    "company_name": "The Home Depot",
+    "title": "Associate Data Scientist - MET",
+    "locations": [
+      "Atlanta, GA"
+    ],
+    "sponsorship": "Does Not Offer Sponsorship",
+    "active": true,
+    "source": "AlmondCroffle",
+    "id": "c43d97a6-1158-467e-b694-79c6de8b35f1",
+    "date_posted": 1755008007,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1755008070,
+    "url": "https://apply.workable.com/scitec/j/45B1B9BA15/",
+    "company_name": "SciTec",
+    "title": "Associate / Staff Mission Data Analyst",
+    "locations": [
+      "Boulder, CO"
+    ],
+    "sponsorship": "U.S. Citizenship is Required",
+    "active": true,
+    "source": "AlmondCroffle",
+    "id": "1541d447-9fbe-4d31-97e2-1cd93adb98d4",
+    "date_posted": 1755008070,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Prosidian Consulting",
+    "id": "847cf082-1f75-43bb-9b76-0943ab77d698",
+    "title": "ITSM IT Security Engineer I",
+    "active": true,
+    "date_updated": 1755007381,
+    "date_posted": 1755007381,
+    "url": "https://jobs.smartrecruiters.com/prosidianconsulting/743999691677974",
+    "locations": [
+      "Washington, DC"
+    ],
+    "company_url": "https://simplify.jobs/c/ProSidian-Consulting",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "date_updated": 1755008257,
+    "url": "https://amainc.wd12.myworkdayjobs.com/en-US/ama_careers/job/Hampton-VA/AI-ML-Research-Associate_R-100359",
+    "company_name": "Analytical Mechanics Associates",
+    "title": "AI/ML Research Associate",
+    "locations": [
+      "Hampton, VA",
+      "Remote"
+    ],
+    "sponsorship": "U.S. Citizenship is Required",
+    "active": true,
+    "source": "AlmondCroffle",
+    "id": "7062f9fd-9d7c-44a4-bdef-bd2966e22a61",
+    "date_posted": 1755008257,
+    "company_url": "",
+    "is_visible": true
   }
 ]
