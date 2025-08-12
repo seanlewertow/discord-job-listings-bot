@@ -97091,5 +97091,26 @@
     "date_posted": 1754990373,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Blizzard Entertainment",
+    "id": "19386311-1ca8-4bba-83eb-fcb40c8fe75b",
+    "title": "Graphics Engineering Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025",
+      "Fall 2025"
+    ],
+    "date_updated": 1755001032,
+    "date_posted": 1755001032,
+    "url": "https://activision.wd1.myworkdayjobs.com/Blizzard_External_Careers/job/Irvine---Blizzard---Blizzard-Way/Graphics-Engineering-Intern_R025849",
+    "locations": [
+      "Irvine, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Blizzard-Entertainment",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
