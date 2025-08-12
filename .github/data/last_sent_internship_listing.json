@@ -97112,5 +97112,25 @@
     "company_url": "https://simplify.jobs/c/Blizzard-Entertainment",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Citadel Securities",
+    "id": "1a44500b-c841-4121-ad65-9ed0746573db",
+    "title": "Software Engineer \u2013 Intern",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1755002960,
+    "date_posted": 1755002960,
+    "url": "https://www.citadelsecurities.com/careers/details/software-engineer-intern-europe/",
+    "locations": [
+      "London, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Citadel-Securities",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
