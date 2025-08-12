@@ -97286,5 +97286,25 @@
     "company_url": "https://simplify.jobs/c/KBR",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "RESPEC",
+    "id": "acfedfcf-7ac4-41b9-928a-b9eac0724b0e",
+    "title": "Student Software Engineering Intern",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1755021484,
+    "date_posted": 1755021484,
+    "url": "https://jobs.smartrecruiters.com/RESPECInc/744000012676985",
+    "locations": [
+      "Albuquerque, NM"
+    ],
+    "company_url": "https://simplify.jobs/c/RESPEC",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
