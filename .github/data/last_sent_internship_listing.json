@@ -97366,5 +97366,70 @@
     "company_url": "https://simplify.jobs/c/Cotiviti",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Radiant",
+    "id": "85fc699f-b0bb-47b1-9967-ec53e94deac1",
+    "title": "Internship - Software Engineering",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1755033315,
+    "date_posted": 1755033315,
+    "url": "https://job-boards.greenhouse.io/radiant/jobs/4591921005",
+    "locations": [
+      "El Segundo, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Radiant",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Capital One",
+    "id": "2d64ad09-45f3-41ed-83d4-34d2bc305a9d",
+    "title": "Former Discover Intern - Data Analyst Associate",
+    "active": true,
+    "terms": [
+      "Winter 2026",
+      "Summer 2026"
+    ],
+    "date_updated": 1755032839,
+    "date_posted": 1755032839,
+    "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Former-Discover-Intern--Data-Analyst-Associate---2026_R221876-1",
+    "locations": [
+      "McLean, VA",
+      "Richmond, VA"
+    ],
+    "company_url": "https://simplify.jobs/c/Capital-One",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Capital One",
+    "id": "a2f002eb-5013-4a4b-9fb4-3401655cd29c",
+    "title": "Former Discover Intern - Technology Development Program Associate",
+    "active": true,
+    "terms": [
+      "Winter 2026",
+      "Summer 2026"
+    ],
+    "date_updated": 1755032827,
+    "date_posted": 1755032827,
+    "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Former-Discover-Intern--Technology-Development-Program-Associate---February-2026_R221902-1",
+    "locations": [
+      "Plano, TX",
+      "McLean, VA",
+      "Richmond, VA"
+    ],
+    "company_url": "https://simplify.jobs/c/Capital-One",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
