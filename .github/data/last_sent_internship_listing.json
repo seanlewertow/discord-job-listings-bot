@@ -97218,5 +97218,29 @@
     "date_posted": 1755007550,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "date_updated": 1755014015,
+    "url": "https://job-boards.greenhouse.io/andurilindustries/jobs/4807506007?gh_jid=4807506007&gh_src=",
+    "company_name": "Anduril Industries",
+    "title": "Software Engineer Intern",
+    "locations": [
+      "Atlanta, GA",
+      "Boston, MA",
+      "Costa Mesa, CA",
+      "Irvine, CA",
+      "Reston, VA",
+      "Seattle, WA"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "sponsorship": "Does Not Offer Sponsorship",
+    "active": true,
+    "source": "AlmondCroffle",
+    "id": "8fce1537-f55c-48c6-926a-8c34b58e10ce",
+    "date_posted": 1755014015,
+    "company_url": "",
+    "is_visible": true
   }
 ]
