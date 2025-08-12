@@ -97346,5 +97346,25 @@
     "company_url": "https://simplify.jobs/c/ByteDance",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Cotiviti",
+    "id": "3d0a232d-9aa7-4e00-a5f3-9b83b0e5dc21",
+    "title": "Intern \u2013 Technology Research Assistant/Analyst",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1755030150,
+    "date_posted": 1755030150,
+    "url": "https://careers-cotiviti.icims.com/jobs/16226/job",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/Cotiviti",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
