@@ -97132,5 +97132,91 @@
     "company_url": "https://simplify.jobs/c/Citadel-Securities",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "date_updated": 1755007169,
+    "url": "https://www.databricks.com/company/careers/university-recruiting/data-science-intern-2026-start-6866538002?gh_jid=6866538002",
+    "company_name": "Databricks",
+    "title": "Data Science Intern",
+    "locations": [
+      "Mountain View, CA",
+      "San Francisco, CA"
+    ],
+    "terms": [
+      "Summer 2026",
+      "Spring 2026",
+      "Winter 2026"
+    ],
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "source": "AlmondCroffle",
+    "id": "e55c7b8e-c0cf-4693-b3ec-b426279d2557",
+    "date_posted": 1755007169,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1755007340,
+    "url": "https://job-boards.greenhouse.io/motional/jobs/6670062003",
+    "company_name": "Motional AD",
+    "title": "Machine Learning Internship, Behaviors Research",
+    "locations": [
+      "Boston, MA",
+      "Pittsburgh, PA",
+      "Remote in USA"
+    ],
+    "terms": [
+      "Spring 2026",
+      "Winter 2026",
+      "Winter 2025",
+      "Fall 2025",
+      "Summer 2025",
+      "Summer 2026"
+    ],
+    "sponsorship": "Does Not Offer Sponsorship",
+    "active": true,
+    "source": "AlmondCroffle",
+    "id": "f4749e2f-6d78-4b72-b123-d21eeb3e36a1",
+    "date_posted": 1755007340,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1755007425,
+    "url": "https://job-boards.greenhouse.io/kodiak/jobs/4006045009",
+    "company_name": "Kodiak Robotics",
+    "title": "Artificial Intelligence/Machine Learning",
+    "locations": [
+      "Mountain View, CA"
+    ],
+    "terms": [
+      "Winter 2026"
+    ],
+    "sponsorship": "U.S. Citizenship is Required",
+    "active": true,
+    "source": "AlmondCroffle",
+    "id": "e9b4d4e5-52d5-42b6-be42-c8fc0f39be94",
+    "date_posted": 1755007425,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1755007550,
+    "url": "https://job-boards.greenhouse.io/samsungresearchamericainternship/jobs/8067679002",
+    "company_name": "Samsung",
+    "title": "NLP",
+    "locations": [
+      "Mountain View, CA"
+    ],
+    "terms": [
+      "Fall 2025"
+    ],
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "source": "AlmondCroffle",
+    "id": "38bddc63-a4eb-4a49-8ce2-a768807f2650",
+    "date_posted": 1755007550,
+    "company_url": "",
+    "is_visible": true
   }
 ]
