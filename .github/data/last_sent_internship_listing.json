@@ -96910,5 +96910,46 @@
     "company_url": "https://simplify.jobs/c/Capital-One",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "HNTB",
+    "id": "d9271d06-8ee9-41ec-8e10-3e9cae792197",
+    "title": "Toll Technology Intern",
+    "active": true,
+    "terms": [
+      "Fall 2025",
+      "Spring 2026"
+    ],
+    "date_updated": 1754978780,
+    "date_posted": 1754978780,
+    "url": "https://hntb.wd5.myworkdayjobs.com/HNTB_Careers/job/Ocoee-FL-FTE-Turnpike-Headquarters/Toll-Technology-Intern---Fall-2025-and-Spring-2026_R-26609-2",
+    "locations": [
+      "Winter Garden, FL"
+    ],
+    "company_url": "https://simplify.jobs/c/HNTB",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Forrester",
+    "id": "0e9f97ab-9a3b-4966-84f3-ce98c6beac33",
+    "title": "Intern \u2013 Salesforce",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1754978713,
+    "date_posted": 1754978713,
+    "url": "https://forrester.wd501.myworkdayjobs.com/careers/job/Cambridge-MA/Intern---Salesforce_R-101186",
+    "locations": [
+      "Cambridge, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/Forrester",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
