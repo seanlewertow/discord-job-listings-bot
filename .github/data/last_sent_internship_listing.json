@@ -97326,5 +97326,25 @@
     "company_url": "https://simplify.jobs/c/Xylem",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "ByteDance",
+    "id": "ccd9f420-e266-4129-8725-492d70b95d5d",
+    "title": "3D Avatar Research and Development Intern - PICO Perception",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1755029021,
+    "date_posted": 1755029021,
+    "url": "https://jobs.bytedance.com/en/position/7535957617782147336/detail",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/ByteDance",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
