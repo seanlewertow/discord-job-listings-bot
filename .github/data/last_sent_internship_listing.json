@@ -96888,5 +96888,27 @@
     "date_posted": 1754929475,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Capital One",
+    "id": "f3e90278-9a1e-48a7-aca8-0572d97968c0",
+    "title": "Former Discover Intern - Technology Development Program Associate",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1754972005,
+    "date_posted": 1754972005,
+    "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Former-Discover-Intern--Technology-Development-Program-Associate---August-2026_R221899-1",
+    "locations": [
+      "Plano, TX",
+      "McLean, VA",
+      "Richmond, VA"
+    ],
+    "company_url": "https://simplify.jobs/c/Capital-One",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
