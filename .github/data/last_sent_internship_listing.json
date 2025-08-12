@@ -96951,5 +96951,45 @@
     "company_url": "https://simplify.jobs/c/Forrester",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "GE Appliances",
+    "id": "276fca10-5c8d-4a4f-9b01-170901106898",
+    "title": "Digital Technology Intern",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1754985258,
+    "date_posted": 1754985258,
+    "url": "https://haier.wd3.myworkdayjobs.com/GE_Appliances/job/USA-Decatur-AL/Digital-Technology-Intern_REQ-23268-1",
+    "locations": [
+      "Decatur, AL"
+    ],
+    "company_url": "https://simplify.jobs/c/GE-Appliances",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "NBCUniversal",
+    "id": "bb764a46-d2b4-494f-9c39-9021e1c09ff9",
+    "title": "Data Analytics Intern - Academic Year",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1754985131,
+    "date_posted": 1754985131,
+    "url": "https://jobs.smartrecruiters.com/NBCUniversal3/744000073817555",
+    "locations": [
+      "Needham, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/NBCUniversal",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
