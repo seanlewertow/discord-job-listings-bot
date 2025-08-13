@@ -97553,5 +97553,30 @@
     "date_posted": 1755052640,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Anduril",
+    "id": "aed30efe-b239-427b-a4d7-c01c27ba05c2",
+    "title": "Software Engineer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1755050668,
+    "date_posted": 1755050668,
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/4807506007",
+    "locations": [
+      "Boston, MA",
+      "Seattle, WA",
+      "Newport Beach, CA",
+      "Irvine, CA",
+      "Reston, VA",
+      "Atlanta, GA"
+    ],
+    "company_url": "https://simplify.jobs/c/Anduril",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
