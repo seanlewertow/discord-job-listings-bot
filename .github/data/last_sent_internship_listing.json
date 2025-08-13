@@ -97722,5 +97722,25 @@
     "company_url": "https://simplify.jobs/c/281371f9-4ed3-4440-876f-4bbeaa0d50e0",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Citadel",
+    "id": "1ea0ca0e-e61d-4b8d-92fd-4a97c6ba9d82",
+    "title": "Software Engineer \u2013 Intern",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1755117174,
+    "date_posted": 1755117174,
+    "url": "https://www.citadel.com/careers/details/software-engineer-intern-europe/",
+    "locations": [
+      "London, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Citadel",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
