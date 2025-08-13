@@ -97431,5 +97431,25 @@
     "company_url": "https://simplify.jobs/c/Capital-One",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "date_updated": 1755045050,
+    "url": "https://www.shopify.com/careers/usa-engineering-internships-summer-2026-usa_b2dbdf1e-ab44-46ed-9a11-69a1a1e4b20c?fbclid=PAZXh0bgNhZW0CMTEAAacZmDKBbpt6Eic3DYCTf372rK812Efp_FC9Sle8J1TgYhTmQa52d0muxM0Vtg_aem_NgJJWd_yRRfgPncN8pXvNw",
+    "company_name": "Shopify",
+    "title": "Engineering Internship",
+    "locations": [
+      "New York, New York",
+      "Bellevue, Washington"
+    ],
+    "terms": [
+      "Spring 2026"
+    ],
+    "sponsorship": "Does Not Offer Sponsorship",
+    "active": true,
+    "source": "aaditghai",
+    "id": "1a908f90-d94a-4df2-91ec-f245e007600b",
+    "date_posted": 1755045050,
+    "company_url": "",
+    "is_visible": true
   }
 ]
