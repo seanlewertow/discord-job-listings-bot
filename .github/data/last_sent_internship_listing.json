@@ -97578,5 +97578,25 @@
     "company_url": "https://simplify.jobs/c/Anduril",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "TikTok",
+    "id": "f553c9db-3713-4057-af64-1d08966b7ed4",
+    "title": "Software Engineer Intern - Capital Platform",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1755047954,
+    "date_posted": 1755047954,
+    "url": "https://lifeattiktok.com/search/7534536157456058632",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/TikTok",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
