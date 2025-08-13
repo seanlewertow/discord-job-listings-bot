@@ -97661,5 +97661,66 @@
     "company_url": "https://simplify.jobs/c/Tower-Research-Capital",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": " CCC Intelligent Solutions",
+    "id": "1d03240a-7916-421b-b354-cd16f85f6ed5",
+    "title": "AI Enablement Intern",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1755113501,
+    "date_posted": 1755113501,
+    "url": "https://cccis.wd1.myworkdayjobs.com/broadbean_external/job/Chicago-Green-St-IL/AI-Enablement-Intern_0014102",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/CCC-Intelligent-Solutions",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Citadel",
+    "id": "78885859-7ae3-42cc-a2db-f5d8aff6bfc7",
+    "title": "Investment & Trading \u2013 Intern",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1755113465,
+    "date_posted": 1755113465,
+    "url": "https://www.citadel.com/careers/details/investment-trading-intern-europe/",
+    "locations": [
+      "London, UK",
+      "Paris, France"
+    ],
+    "company_url": "https://simplify.jobs/c/Citadel",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "The Trade Desk",
+    "id": "dec4fd9e-09b9-487f-9890-d5445f7be779",
+    "title": "2026 Data Science Internship",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1755112908,
+    "date_posted": 1755112908,
+    "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/4793185007",
+    "locations": [
+      "London, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/281371f9-4ed3-4440-876f-4bbeaa0d50e0",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
