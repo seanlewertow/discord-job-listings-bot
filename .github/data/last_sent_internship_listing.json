@@ -97451,5 +97451,107 @@
     "date_posted": 1755045050,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "date_updated": 1755051648,
+    "url": "https://wf.wd1.myworkdayjobs.com/en-US/wellsfargojobs/job/CHARLOTTE-NC/XMLNAME-2026-Quantitative-Analytics-Summer-Internship-Risk-Analytics-and-Decision-Science--PhD----Early-Careers_R-481497",
+    "company_name": "Wells Fargo",
+    "title": "Risk Analytics and Decision Science (PhD)",
+    "locations": [
+      "Charlotte, NC"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "source": "AlmondCroffle",
+    "id": "c4151955-badc-42b2-8fbc-76f0b05ba65a",
+    "date_posted": 1755051125,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1755051509,
+    "url": "https://www.shopify.com/careers/usa-engineering-internships-summer-2026-usa_b2dbdf1e-ab44-46ed-9a11-69a1a1e4b20c?keyword=intern",
+    "company_name": "Shopify",
+    "title": "USA Engineering Internships",
+    "locations": [
+      "Remote in USA"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "sponsorship": "Does Not Offer Sponsorship",
+    "active": true,
+    "source": "PranavMarneni",
+    "id": "45a3af04-962c-480e-aa2e-0da6eaf26ed2",
+    "date_posted": 1755051209,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1755051720,
+    "url": "https://wf.wd1.myworkdayjobs.com/en-US/wellsfargojobs/job/CHARLOTTE-NC/XMLNAME-2026-Quantitative-Analytics-Summer-Internship-Risk-Analytics-and-Decision-Science--Masters----Early-Careers_R-481505",
+    "company_name": "Wells Fargo",
+    "title": "Internship Risk Analytics and Decision Science (Masters)",
+    "locations": [
+      "Charlotte, NC"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "source": "AlmondCroffle",
+    "id": "7835f72f-3f79-4aa9-b766-377a740be6f4",
+    "date_posted": 1755051720,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Nokia",
+    "id": "a6fc5f38-1fa8-4f07-b8ad-d03b96d9cee9",
+    "title": "Database Software Developer Co-op",
+    "active": true,
+    "terms": [
+      "Fall 2025",
+      "Winter 2025"
+    ],
+    "date_updated": 1755031467,
+    "date_posted": 1755031467,
+    "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/23202",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/Nokia",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "date_updated": 1755052640,
+    "url": "https://kbr.wd5.myworkdayjobs.com/en-US/KBR_Careers/job/Moffett-Field-California/Software-Firmware-Development-Intern_R2110543",
+    "company_name": "KBR",
+    "title": "Software/Firmware Development Intern",
+    "locations": [
+      "Moffett Field, CA"
+    ],
+    "terms": [
+      "Spring 2026",
+      "Winter 2026",
+      "Winter 2025",
+      "Fall 2025",
+      "Summer 2025",
+      "Summer 2026"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "source": "AlmondCroffle",
+    "id": "84dd66c2-902f-451e-bd5d-8842f06b8fa6",
+    "date_posted": 1755052640,
+    "company_url": "",
+    "is_visible": true
   }
 ]
