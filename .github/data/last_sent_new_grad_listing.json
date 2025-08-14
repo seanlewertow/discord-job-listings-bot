@@ -19494,5 +19494,62 @@
     "date_posted": 1755168445,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "date_updated": 1755168795,
+    "url": "https://ats.rippling.com/en-CA/rippling/jobs/393b2982-14b0-4715-b6ea-a83353e95e12",
+    "company_name": "Rippling",
+    "title": "Software Engineer - Spend Growth",
+    "locations": [
+      "New York, NY"
+    ],
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "source": "AlmondCroffle",
+    "id": "2199e28d-668b-4f20-bc5a-695ed9f27647",
+    "date_posted": 1755168795,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1755168924,
+    "url": "https://www.metacareers.com/jobs/8187200048015588",
+    "company_name": "Meta",
+    "title": "Software Engineer (University Grad)",
+    "locations": [
+      "Sunnyvale, CA",
+      "Bellevue, WA",
+      "Menlo Park, CA",
+      "Seattle, WA",
+      "Burlingame, CA",
+      "Washington, DC",
+      "Boston, MA",
+      "New York, NY",
+      "San Francisco, CA"
+    ],
+    "sponsorship": "Does Not Offer Sponsorship",
+    "active": true,
+    "source": "AlmondCroffle",
+    "id": "4057dcc2-fc6b-4dd5-b8f4-d667a603a058",
+    "date_posted": 1755168924,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1755169079,
+    "url": "https://www.jumptrading.com/careers/7141658/?gh_jid=7141658",
+    "company_name": "Jump Trading",
+    "title": "Campus AI Researcher (Full-Time)",
+    "locations": [
+      "Chicago, IL",
+      "New York, NY"
+    ],
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "source": "AlmondCroffle",
+    "id": "9db01451-6509-4ceb-876c-362f00d3e76b",
+    "date_posted": 1755169079,
+    "company_url": "",
+    "is_visible": true
   }
 ]
