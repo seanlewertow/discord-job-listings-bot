@@ -98325,5 +98325,25 @@
     "company_url": "https://simplify.jobs/c/KeyCorp",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Draper",
+    "id": "03401322-87dd-48d6-811c-4baf37dd0a2e",
+    "title": "Data Analysis Intern",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1755188238,
+    "date_posted": 1755188238,
+    "url": "https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Data-Analysis-Intern_JR001649",
+    "locations": [
+      "Cambridge, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/Draper",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
