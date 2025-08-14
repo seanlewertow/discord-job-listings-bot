@@ -98285,5 +98285,45 @@
     "company_url": "https://simplify.jobs/c/WW-Grainger",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "KeyCorp",
+    "id": "d7c27e55-5d95-4a37-9112-7d2e20e52e4f",
+    "title": "2026 Summer Key's Technology \u2013 Internship - Operations & Services - Data Track",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1755182699,
+    "date_posted": 1755182699,
+    "url": "https://keybank.wd5.myworkdayjobs.com/external_career_site/job/Brooklyn-OH/XMLNAME-2026-Summer-Key-s-Technology--Operations---Services--Data-Track--Internship---Cleveland_R-33880",
+    "locations": [
+      "Brooklyn, OH"
+    ],
+    "company_url": "https://simplify.jobs/c/KeyCorp",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "KeyCorp",
+    "id": "b898c057-356e-473d-902b-7a385c7281c9",
+    "title": "2026 Summer Key's Technology \u2013 Internship - Operations & Services - Technology Track",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1755182691,
+    "date_posted": 1755182691,
+    "url": "https://keybank.wd5.myworkdayjobs.com/external_career_site/job/Brooklyn-OH/XMLNAME-2026-Summer-Key-s-Technology--Operations---Services--Technology-Track--Internship---Cleveland_R-33877",
+    "locations": [
+      "Brooklyn, OH"
+    ],
+    "company_url": "https://simplify.jobs/c/KeyCorp",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
