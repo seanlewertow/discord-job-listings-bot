@@ -97902,5 +97902,24 @@
     "company_url": "https://simplify.jobs/c/37e0cd83-539e-4474-a63a-abc8ce7b4694",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "date_updated": 1755155751,
+    "url": "https://jobs.careers.microsoft.com/global/en/job/1860947",
+    "company_name": "Microsoft",
+    "title": "Software Engineering Intern",
+    "locations": [
+      "Redmond, WA"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "source": "Ibrahim-t39",
+    "id": "fd67a8ae-43fa-492a-bc2a-ef78e3442409",
+    "date_posted": 1755155751,
+    "company_url": "",
+    "is_visible": true
   }
 ]
