@@ -98205,5 +98205,85 @@
     "date_posted": 1755169376,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "W.W. Grainger",
+    "id": "eb6d1b50-8f9a-416d-8844-94ac41192728",
+    "title": "Data Science Apprentice",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1755171914,
+    "date_posted": 1755171914,
+    "url": "https://jobs.grainger.com/job/LAKE-FOREST-Data-Science-Apprentice-(Summer-2026)-IL-60045-5202/1315740400/?ats=successfactors",
+    "locations": [
+      "Highland Park, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/WW-Grainger",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "W.W. Grainger",
+    "id": "8724872d-b788-422e-abb7-bc0ffb1eec54",
+    "title": "GTG Intern - Analyst",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1755171829,
+    "date_posted": 1755171829,
+    "url": "https://jobs.grainger.com/job/CHICAGO-GTG-Intern-Analyst-IL-60661-4555/1316068000/?ats=successfactors",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/WW-Grainger",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "W.W. Grainger",
+    "id": "85b92c21-5915-47f0-bc98-dd24b91f0bfb",
+    "title": "Data Science Intern",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1755171779,
+    "date_posted": 1755171779,
+    "url": "https://jobs.grainger.com/job/LAKE-FOREST-Data-Science-Intern-(Summer-2026)-IL-60045-5202/1315732800/?ats=successfactors",
+    "locations": [
+      "Highland Park, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/WW-Grainger",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "W.W. Grainger",
+    "id": "2468b606-f34c-4162-a2ae-52a22c7c3cc2",
+    "title": "GTG Intern - Software Engineer",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1755171525,
+    "date_posted": 1755171525,
+    "url": "https://jobs.grainger.com/job/CHICAGO-GTG-Intern-Software-Engineer-IL-60661-4555/1316063500/?ats=successfactors",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/WW-Grainger",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
