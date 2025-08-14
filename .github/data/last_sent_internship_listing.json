@@ -97862,5 +97862,25 @@
     "company_url": "https://simplify.jobs/c/3f188829-d8f5-44a4-aa08-07856114fe30",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "insightsoftware",
+    "id": "e1fb60fb-25e2-4b31-ac25-3bbd657d0316",
+    "title": "Data & Analytics Intern",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1755146914,
+    "date_posted": 1755146914,
+    "url": "https://jobs.smartrecruiters.com/Insightsoftware/744000062500486",
+    "locations": [
+      "Raleigh, NC"
+    ],
+    "company_url": "https://simplify.jobs/c/Insightsoftware",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
