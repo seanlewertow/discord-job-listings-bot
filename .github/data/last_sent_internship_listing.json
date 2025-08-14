@@ -97921,5 +97921,26 @@
     "date_posted": 1755155751,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Stoneridge",
+    "id": "753e359c-7c68-4a7c-a013-8479caed144a",
+    "title": "Business Analytics Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025",
+      "Fall 2025"
+    ],
+    "date_updated": 1755159142,
+    "date_posted": 1755159142,
+    "url": "https://stoneridge.wd5.myworkdayjobs.com/careers/job/Novi-MI/Stoneridge-Impact-Program-Intern_JR101043",
+    "locations": [
+      "Novi, MI"
+    ],
+    "company_url": "https://simplify.jobs/c/e52e17c7-c352-40d3-85c1-94d7be1df9e7",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
