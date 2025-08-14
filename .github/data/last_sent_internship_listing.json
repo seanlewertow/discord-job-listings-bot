@@ -97882,5 +97882,25 @@
     "company_url": "https://simplify.jobs/c/Insightsoftware",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Regal Rexnord",
+    "id": "8e5afc51-e33d-4302-8aeb-102811b40f6d",
+    "title": "Application Engineer Co-op",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1755149115,
+    "date_posted": 1755149115,
+    "url": "https://regalrexnord.wd1.myworkdayjobs.com/careers/job/Tipp-City-Ohio-United-States/Application-Engineer-Co-op_R25_04012",
+    "locations": [
+      "Vandalia, OH"
+    ],
+    "company_url": "https://simplify.jobs/c/37e0cd83-539e-4474-a63a-abc8ce7b4694",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
