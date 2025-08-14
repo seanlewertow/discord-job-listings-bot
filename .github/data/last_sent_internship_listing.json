@@ -97842,5 +97842,25 @@
     "company_url": "https://simplify.jobs/c/Kodiak-Robotics",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Nelnet",
+    "id": "b98d72ab-224e-4b09-a98c-8075d615fdad",
+    "title": "Intern \u2013 Software Engineer",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1755145746,
+    "date_posted": 1755145746,
+    "url": "https://nelnet.wd1.myworkdayjobs.com/mynelnet/job/Lincoln-NE/Intern---Software-Engineer_R21509",
+    "locations": [
+      "Lincoln, NE"
+    ],
+    "company_url": "https://simplify.jobs/c/3f188829-d8f5-44a4-aa08-07856114fe30",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
