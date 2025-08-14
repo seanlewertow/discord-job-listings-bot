@@ -98157,5 +98157,53 @@
     "date_posted": 1755168311,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "date_updated": 1755169190,
+    "url": "https://www.jumptrading.com/careers/7141699/?gh_jid=7141699",
+    "company_name": "Jump Trading",
+    "title": "Campus AI Researcher (Intern)",
+    "locations": [
+      "Chicago, IL",
+      "New York, NY"
+    ],
+    "terms": [
+      "Spring 2026",
+      "Winter 2026",
+      "Winter 2025",
+      "Fall 2025",
+      "Summer 2026"
+    ],
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "source": "AlmondCroffle",
+    "id": "bd019fd0-d553-4104-99db-ccd9a77311e4",
+    "date_posted": 1755169190,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1755169376,
+    "url": "https://www.jumptrading.com/careers/6916776/?gh_jid=6916776",
+    "company_name": "Jump Trading",
+    "title": "Campus ML Engineer (Intern)",
+    "locations": [
+      "Chicago, IL",
+      "New York, NY"
+    ],
+    "terms": [
+      "Spring 2026",
+      "Winter 2026",
+      "Winter 2025",
+      "Fall 2025",
+      "Summer 2026"
+    ],
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "source": "AlmondCroffle",
+    "id": "2acb692f-50fe-4fd1-9c2d-8351b722c37d",
+    "date_posted": 1755169376,
+    "company_url": "",
+    "is_visible": true
   }
 ]
