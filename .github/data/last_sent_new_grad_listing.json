@@ -19644,5 +19644,85 @@
     "date_posted": 1755170484,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "date_updated": 1755170921,
+    "url": "https://careers-sev1tech.icims.com/jobs/9092/software-developer---entry-level/job",
+    "company_name": "Sev1Tech",
+    "title": "Software Developer - Entry Level",
+    "locations": [
+      "Fort Sill, OK"
+    ],
+    "sponsorship": "U.S. Citizenship is Required",
+    "active": true,
+    "source": "AlmondCroffle",
+    "id": "c4fb508a-96f2-497a-a116-33572aa2d59f",
+    "date_posted": 1755170921,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1755170963,
+    "url": "https://job-boards.greenhouse.io/foliahealth/jobs/4013590009",
+    "company_name": "Folia Health",
+    "title": "Junior Software Engineer",
+    "locations": [
+      "Boston, MA"
+    ],
+    "sponsorship": "Does Not Offer Sponsorship",
+    "active": true,
+    "source": "AlmondCroffle",
+    "id": "cb5df03b-06f2-4f6c-8486-1df25a8269e2",
+    "date_posted": 1755170963,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1755171076,
+    "url": "https://peak6group.wd1.myworkdayjobs.com/en-US/apexfintechsolutions/job/Austin-TX/Software-Engineer-I--ALDP-_JR103414-1",
+    "company_name": "Apex",
+    "title": "Software Engineer I (ALDP)",
+    "locations": [
+      "Austin, TX"
+    ],
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "source": "AlmondCroffle",
+    "id": "4929aa5d-6718-4db5-ad67-943ed00e9fa8",
+    "date_posted": 1755171076,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1755171153,
+    "url": "https://keybank.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Cleveland-OH/XMLNAME-2026-Analytics-and-Quantitative-Modeling-Rotational-Analyst-Program---Cleveland_R-33876-1",
+    "company_name": "KeyBank",
+    "title": "Analytics and Quantitative Modeling Rotational Analyst Program",
+    "locations": [
+      "Cleveland, OH"
+    ],
+    "sponsorship": "Does Not Offer Sponsorship",
+    "active": true,
+    "source": "AlmondCroffle",
+    "id": "c461ce0a-a2d3-4e57-9e11-d44f17791af0",
+    "date_posted": 1755171153,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1755171219,
+    "url": "https://matic.com/careers/?gh_jid=5585225004",
+    "company_name": "Matic",
+    "title": "Data Analyst (entry-level)",
+    "locations": [
+      "Columbus, OH"
+    ],
+    "sponsorship": "Does Not Offer Sponsorship",
+    "active": true,
+    "source": "AlmondCroffle",
+    "id": "c78dabe2-7976-4f40-8688-02419728c90d",
+    "date_posted": 1755171219,
+    "company_url": "",
+    "is_visible": true
   }
 ]
