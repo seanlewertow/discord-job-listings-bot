@@ -98050,5 +98050,112 @@
     "date_posted": 1755166896,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "date_updated": 1755167694,
+    "url": "https://halma.wd3.myworkdayjobs.com/en-US/halma/job/Rochester/Software-Engineering-Co-op_JR25_000871",
+    "company_name": "Ocean Optics",
+    "title": "Software Engineering Co-op",
+    "locations": [
+      "Rochester, NY"
+    ],
+    "terms": [
+      "Spring 2026",
+      "Winter 2026",
+      "Winter 2025",
+      "Fall 2025",
+      "Summer 2025"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "source": "AlmondCroffle",
+    "id": "6262d9ea-74a7-4f1b-9808-0f793754f7f2",
+    "date_posted": 1755167694,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1755167776,
+    "url": "https://job-boards.greenhouse.io/pdtpartners/jobs/7073180",
+    "company_name": "PDT Partners",
+    "title": "Software Engineering Internship",
+    "locations": [
+      "New York, NY"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "source": "AlmondCroffle",
+    "id": "b7077af9-122c-4af7-92ea-d23344684ddb",
+    "date_posted": 1755167776,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1755167935,
+    "url": "https://ncino.wd5.myworkdayjobs.com/en-US/nCinoCareers/job/US---Utah---Lehi/Part-time-Software-Engineer-Intern_R5724",
+    "company_name": "nCino",
+    "title": "Part-time Software Engineer Intern",
+    "locations": [
+      "Lehi, UT"
+    ],
+    "terms": [
+      "Fall 2025"
+    ],
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "source": "AlmondCroffle",
+    "id": "c7c62fd7-1e37-4330-a500-08cecc1f0ee1",
+    "date_posted": 1755167935,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1755168209,
+    "url": "https://gdmissionsystems.com/careers/intern-engineer-ft-wayne-in-usa-2025-66946-opportunity",
+    "company_name": "General Dynamics",
+    "title": "Intern Engineer",
+    "locations": [
+      "Fort Wayne, IN"
+    ],
+    "terms": [
+      "Spring 2026",
+      "Winter 2026",
+      "Winter 2025",
+      "Fall 2025",
+      "Summer 2026"
+    ],
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "source": "AlmondCroffle",
+    "id": "7f91410f-24f0-4287-bcd9-74fca28fce4d",
+    "date_posted": 1755168209,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1755168311,
+    "url": "https://job-boards.eu.greenhouse.io/nice/jobs/4654114101?gh_jid=4654114101",
+    "company_name": "NiCE",
+    "title": "AI Solutions Intern",
+    "locations": [
+      "Atlanta, GA"
+    ],
+    "terms": [
+      "Spring 2026",
+      "Winter 2026",
+      "Winter 2025",
+      "Fall 2025",
+      "Summer 2026"
+    ],
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "source": "AlmondCroffle",
+    "id": "a03759ad-6326-43a2-9b9e-1b1a4207bd8a",
+    "date_posted": 1755168311,
+    "company_url": "",
+    "is_visible": true
   }
 ]
