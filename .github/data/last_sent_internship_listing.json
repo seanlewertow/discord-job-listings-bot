@@ -99027,5 +99027,46 @@
     "company_url": "https://simplify.jobs/c/ByteDance",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Flowserve",
+    "id": "3668b3a9-c496-4f6a-bfeb-286e6e1e9524",
+    "title": "Application Engineer COOP",
+    "active": true,
+    "terms": [
+      "Winter 2026",
+      "Summer 2026"
+    ],
+    "date_updated": 1755285293,
+    "date_posted": 1755285293,
+    "url": "https://flowserve.wd1.myworkdayjobs.com/applied/job/Pasadena-Texas-US/On-Site-Application-Engineer-COOP_R-15896",
+    "locations": [
+      "South Houston, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Flowserve",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "NXP Semiconductors",
+    "id": "51a27002-0cc8-4eb9-bfb3-d69fa784ab95",
+    "title": "Data Science / Structured Problem Solving Intern",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1755293189,
+    "date_posted": 1755293189,
+    "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/Data-Science---Structured-Problem-Solving-Intern---Fall-2025_R-10059789",
+    "locations": [
+      "Austin, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/91edf47c-f010-430e-8558-5c1fbb365984",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
