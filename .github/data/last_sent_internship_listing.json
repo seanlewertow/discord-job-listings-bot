@@ -99088,5 +99088,105 @@
     "company_url": "https://simplify.jobs/c/ByteDance",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "TransPerfect",
+    "id": "e35c0971-3e34-4c02-8104-7ab6d256de17",
+    "title": "Software Engineer Intern",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1755295902,
+    "date_posted": 1755295902,
+    "url": "https://transperfect.wd5.myworkdayjobs.com/transperfect/job/US-New-York-NY-1250-Broadway/Software-Engineer-Intern_R2025-242116",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/TransPerfect",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "ByteDance",
+    "id": "a1c7885d-70c0-4181-8237-3b20443307f3",
+    "title": "Software Engineer Intern - AI Platform",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1755296256,
+    "date_posted": 1755296256,
+    "url": "https://jobs.bytedance.com/en/position/7537377558908963090/detail",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/ByteDance",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Sonic Healthcare USA",
+    "id": "98fdfc6f-a02a-4eb5-8321-6251bc50c9a1",
+    "title": "Cache Software Development Intern",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1755296303,
+    "date_posted": 1755296303,
+    "url": "https://shusa.wd5.myworkdayjobs.com/External/job/Dallas-TX/Cache-Software-Development_REQ-033017",
+    "locations": [
+      "Dallas, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Sonic-Healthcare-USA",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Mill",
+    "id": "07d56369-bb63-4dda-8706-342d24480c3d",
+    "title": "Firmware Engineering Intern",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1755295601,
+    "date_posted": 1755295601,
+    "url": "https://job-boards.greenhouse.io/mill/jobs/4597024005",
+    "locations": [
+      "San Bruno, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Mill",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "GlobalFoundries",
+    "id": "52bb8c17-2aeb-442e-b288-5bd5f71fd3de",
+    "title": "Process & Data Engineering Intern",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1755296732,
+    "date_posted": 1755296732,
+    "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Process---Data-Engineering-Intern--Summer-2026-_JR-2503107",
+    "locations": [
+      "Malta, NY"
+    ],
+    "company_url": "https://simplify.jobs/c/GlobalFoundries",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
