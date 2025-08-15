@@ -99068,5 +99068,25 @@
     "company_url": "https://simplify.jobs/c/91edf47c-f010-430e-8558-5c1fbb365984",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "ByteDance",
+    "id": "a8e74e82-891f-4ce9-9759-3376c8dea0b6",
+    "title": "Software Development Engineer Intern - Network Automation",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1755293755,
+    "date_posted": 1755293755,
+    "url": "https://jobs.bytedance.com/en/position/7537152240618195208/detail",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/ByteDance",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
