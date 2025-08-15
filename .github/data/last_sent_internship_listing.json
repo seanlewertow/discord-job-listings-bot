@@ -98926,5 +98926,106 @@
     "company_url": "https://simplify.jobs/c/6239df36-c310-4d81-9f43-abc34b0fc63e",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Ontario Teachers' Pension Plan",
+    "id": "137cbc5a-c7cf-4ecb-b1d4-39bee26e6365",
+    "title": "Intern \u2013 Product & Data Engineering",
+    "active": true,
+    "terms": [
+      "Summer 2026",
+      "Summer 2027"
+    ],
+    "date_updated": 1755289642,
+    "date_posted": 1755289642,
+    "url": "https://otppb.wd3.myworkdayjobs.com/OntarioTeachers_Careers/job/Toronto-Canada/Intern---Product---Data-Engineering--May-2026---16-months-_6581",
+    "locations": [
+      "Toronto, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Ontario-Teachers-Pension-Plan",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "GlobalFoundries",
+    "id": "dab37c8a-b85b-43a1-8756-6f237583bdc2",
+    "title": "Software Engineering Intern",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1755290999,
+    "date_posted": 1755290999,
+    "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Software-Engineering-Intern--Summer-2026-_JR-2502857",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/GlobalFoundries",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Ontario Teachers' Pension Plan",
+    "id": "b5d61b47-93ad-4171-8802-269f7e64aa00",
+    "title": "Intern \u2013 Investments - Total Fund Management - Global Trading",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1755289732,
+    "date_posted": 1755289732,
+    "url": "https://otppb.wd3.myworkdayjobs.com/OntarioTeachers_Careers/job/Toronto-Canada/Intern---Investments--Total-Fund-Management--Global-Trading--Summer-2026---4-Month-Contract-_6562",
+    "locations": [
+      "Toronto, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Ontario-Teachers-Pension-Plan",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "ByteDance",
+    "id": "8d2d3d28-6b4c-4a8d-a48f-d49ad620a133",
+    "title": "Software Engineer Intern - Nosql Databases",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1755289239,
+    "date_posted": 1755289239,
+    "url": "https://jobs.bytedance.com/en/position/7535878806051473671/detail",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/ByteDance",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "ByteDance",
+    "id": "0cea3673-3f7d-4725-8596-4d2f9be71d02",
+    "title": "Network Software Development Engineer Intern - Network Observation",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1755289248,
+    "date_posted": 1755289248,
+    "url": "https://jobs.bytedance.com/en/position/7537153828938352914/detail",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/ByteDance",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
