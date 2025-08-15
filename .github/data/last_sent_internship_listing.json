@@ -98724,5 +98724,45 @@
     "date_posted": 1755265165,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "BlackEdge Capital",
+    "id": "3dde963f-a642-4bcc-88a5-22c9b473b23c",
+    "title": "Quantitative Trader Intern",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1755285248,
+    "date_posted": 1755285248,
+    "url": "https://job-boards.greenhouse.io/blackedgecapital/jobs/4590418005",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/BlackEdge-Capital",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Schweitzer Engineering Laboratories",
+    "id": "6d96aa80-fe21-4029-a47a-a8d594fb3f62",
+    "title": "Software Engineer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1755285171,
+    "date_posted": 1755285171,
+    "url": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Software-Engineer-Intern_2025-17674",
+    "locations": [
+      "Moscow, ID"
+    ],
+    "company_url": "https://simplify.jobs/c/SEL",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
