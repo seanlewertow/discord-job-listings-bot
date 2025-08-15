@@ -99289,5 +99289,26 @@
     "company_url": "https://simplify.jobs/c/Nuro",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Prosidian Consulting",
+    "id": "dcb43b20-f4ea-42c4-8b16-e25c67d6321b",
+    "title": "Apprenticeship Data Analyst",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1755299327,
+    "date_posted": 1755299327,
+    "url": "https://jobs.smartrecruiters.com/prosidianconsulting/743999686536316",
+    "locations": [
+      "Washington, DC",
+      "Charlotte, NC"
+    ],
+    "company_url": "https://simplify.jobs/c/ProSidian-Consulting",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
