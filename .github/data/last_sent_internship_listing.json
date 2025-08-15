@@ -98454,5 +98454,105 @@
     "company_url": "https://simplify.jobs/c/Notion",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "ABB",
+    "id": "6655f32f-2a2a-4bd8-aa1e-1daa45c364dd",
+    "title": "Data Scientist & AI Intern",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1755220583,
+    "date_posted": 1755220583,
+    "url": "https://abb.wd3.myworkdayjobs.com/en-US/external_career_page/job/USA-NC-Cary/Data-Scientist---AI-Intern---Fall-2025_96762664-1",
+    "locations": [
+      "Morrisville, NC"
+    ],
+    "company_url": "https://simplify.jobs/c/ABB",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Covestro",
+    "id": "3bf0335a-8980-4bed-9418-3770fd882b50",
+    "title": "Intern \u2013 m/f/d - Optimization & Data Analysis",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1755220616,
+    "date_posted": 1755220616,
+    "url": "https://covestro.wd3.myworkdayjobs.com/cov_external/job/Leverkusen/Praktikant-in--m-w-d--im-Bereich-Verfahrenstechnik---Chemieingenieurwesen-zu-Prozesssimulation--Optimierung---Datenanalyse---mit-Gehaltsangabe_JR-2025-01801",
+    "locations": [
+      "Neukirchen-Vluyn, Germany"
+    ],
+    "company_url": "https://simplify.jobs/c/a64ca911-92ef-4bce-99ec-a890a343a30c",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "ABB",
+    "id": "005e03ad-b5d5-44cc-8d86-78305e4c0a8e",
+    "title": "Product Data Management Intern",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1755220457,
+    "date_posted": 1755220457,
+    "url": "https://abb.wd3.myworkdayjobs.com/en-US/external_career_page/job/Dorval-Quebec-Canada/Product-Data-Management-Intern_JR00007769",
+    "locations": [
+      "Pointe-Claire, QC, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/ABB",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "ABB",
+    "id": "a6891109-0a87-41d2-b9da-604b8d74654f",
+    "title": "Intern \u2013 IT Programming and Projects",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1755220449,
+    "date_posted": 1755220449,
+    "url": "https://abb.wd3.myworkdayjobs.com/en-US/external_career_page/job/Pointe-Claire-Quebec-Canada/Intern---IT-Programming-and-Projects_JR00007776",
+    "locations": [
+      "Pointe-Claire, QC, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/ABB",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "ABB",
+    "id": "14102ec6-f6f0-449c-a1f3-602e7f45ee98",
+    "title": "Information Systems \u2013 Machine Learning Intern",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1755220551,
+    "date_posted": 1755220551,
+    "url": "https://abb.wd3.myworkdayjobs.com/en-US/external_career_page/job/USA-NC-Cary/Information-Systems---Machine-Learning-Intern_96939910",
+    "locations": [
+      "Morrisville, NC"
+    ],
+    "company_url": "https://simplify.jobs/c/ABB",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
