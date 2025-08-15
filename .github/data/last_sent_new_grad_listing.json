@@ -19923,5 +19923,88 @@
     "date_posted": 1755242840,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "date_updated": 1755242941,
+    "url": "https://lifeattiktok.com/search/7535606471191824647",
+    "company_name": "TikTok",
+    "title": "Machine Learning Engineer Graduate (Monetization Technology - TikTok Ads Creative & Ecosystem) - 2026 Start (BS/MS)",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "source": "AlmondCroffle",
+    "id": "9e96271f-5e98-40b3-acd7-1682cae88bc2",
+    "date_posted": 1755242941,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1755243068,
+    "url": "https://lifeattiktok.com/search/7536356589390301458",
+    "company_name": "TikTok",
+    "title": "Software Engineer Graduate (Recommendation Platform) - 2026 Start (BS/MS)",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "source": "AlmondCroffle",
+    "id": "0c4dfc3f-b521-448c-bb0b-70202dcf34da",
+    "date_posted": 1755243068,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1755243207,
+    "url": "https://zoll.wd5.myworkdayjobs.com/en-US/zollmedicalcorp/job/Chelmsford-MA/Software-Engineer-I---Embedded-Devices_R16418",
+    "company_name": "Zoll",
+    "title": "Software Engineer I - Embedded Devices",
+    "locations": [
+      "Chelmsford, MA",
+      "Parsippany, NJ"
+    ],
+    "sponsorship": "Does Not Offer Sponsorship",
+    "active": true,
+    "source": "AlmondCroffle",
+    "id": "d21570f2-ec82-4986-bb44-c38b632207f1",
+    "date_posted": 1755243207,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1755243482,
+    "url": "https://kbr.wd5.myworkdayjobs.com/en-US/KBR_Careers/job/Colorado-Springs-Colorado/Software-Engineer-I_R2110482",
+    "company_name": "KBR",
+    "title": "Software Engineer I",
+    "locations": [
+      "Colorado Springs, CO"
+    ],
+    "sponsorship": "U.S. Citizenship is Required",
+    "active": true,
+    "source": "AlmondCroffle",
+    "id": "aeacaa6e-d32d-4a0f-8918-d9d29578ce3c",
+    "date_posted": 1755243482,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1755243638,
+    "url": "https://jobs.ashbyhq.com/jerry.ai/a08b2b5b-5bed-4b71-b925-800670b21fd5",
+    "company_name": "Jerry",
+    "title": "Software Engineer I",
+    "locations": [
+      "San Francisco, CA",
+      "Palo Alto, CA",
+      ""
+    ],
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "source": "AlmondCroffle",
+    "id": "c4689c3d-5ba8-43ad-8f6f-2eea33310ebf",
+    "date_posted": 1755243638,
+    "company_url": "",
+    "is_visible": true
   }
 ]
