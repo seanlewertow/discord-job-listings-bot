@@ -99330,5 +99330,45 @@
     "company_url": "https://simplify.jobs/c/Fannie-Mae",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Mosaic",
+    "id": "5cb339fd-a86b-43f7-80fa-6910fd76b40d",
+    "title": "Operations Technology Co-Op/Intern",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1755297226,
+    "date_posted": 1755297226,
+    "url": "https://mosaic.wd5.myworkdayjobs.com/mosaic/job/US---Tampa-FL-Lithia-area/Operations-Technology-Co-Op-Intern---Summer-2026_60324",
+    "locations": [
+      "Tampa, FL"
+    ],
+    "company_url": "https://simplify.jobs/c/Mosaic",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "ByteDance",
+    "id": "177bb84f-7b60-4fcb-9b6c-41d6de9f102f",
+    "title": "Network Software Development Engineer Intern - Network Switch",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1755301109,
+    "date_posted": 1755301109,
+    "url": "https://jobs.bytedance.com/en/position/7537156195199551751/detail",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "company_url": "https://simplify.jobs/c/ByteDance",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
