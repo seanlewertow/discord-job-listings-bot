@@ -20022,5 +20022,69 @@
     "date_posted": 1755243725,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "date_updated": 1755246367,
+    "url": "https://baxter.wd1.myworkdayjobs.com/en-US/baxter/job/Round-Lake-Illinois/Software-Engineer-I_JR-181377-1",
+    "company_name": "Baxter",
+    "title": "Software Engineer I",
+    "locations": [
+      "Round Lake, IL"
+    ],
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "source": "AlmondCroffle",
+    "id": "381cbc2d-84a9-429e-bdb3-766052024f56",
+    "date_posted": 1755246367,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1755246653,
+    "url": "https://job-boards.greenhouse.io/andurilindustries/jobs/4824362007?gh_jid=4824362007",
+    "company_name": "Anduril Industries",
+    "title": "Early Career Software Engineer",
+    "locations": [
+      "Boston, MA"
+    ],
+    "sponsorship": "U.S. Citizenship is Required",
+    "active": true,
+    "source": "AlmondCroffle",
+    "id": "826be62a-8eee-45dc-816f-986e9c4bc7bd",
+    "date_posted": 1755246471,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1755246784,
+    "url": "https://job-boards.greenhouse.io/andurilindustries/jobs/4824369007?gh_jid=4824369007",
+    "company_name": "Anduril Industries",
+    "title": "Early Career Software Engineer",
+    "locations": [
+      "Washington, DC"
+    ],
+    "sponsorship": "U.S. Citizenship is Required",
+    "active": true,
+    "source": "AlmondCroffle",
+    "id": "c54c42b1-9017-469d-87db-dc5e53e2d3cb",
+    "date_posted": 1755246784,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1755246824,
+    "url": "https://job-boards.greenhouse.io/andurilindustries/jobs/4824378007?gh_jid=4824378007",
+    "company_name": "Anduril Industries",
+    "title": "Early Career Software Engineer",
+    "locations": [
+      "Atlanta, GA"
+    ],
+    "sponsorship": "U.S. Citizenship is Required",
+    "active": true,
+    "source": "AlmondCroffle",
+    "id": "5d44da7e-2d82-486a-9745-c25640724161",
+    "date_posted": 1755246824,
+    "company_url": "",
+    "is_visible": true
   }
 ]
