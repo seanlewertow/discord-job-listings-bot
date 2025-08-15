@@ -98554,5 +98554,42 @@
     "company_url": "https://simplify.jobs/c/ABB",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "date_updated": 1755248292,
+    "url": "https://jobs.cisco.com/jobs/ProjectDetail/Software-Engineer-I-Intern-United-States/1448534",
+    "company_name": "Cisco",
+    "title": "Software Engineer I (Intern)",
+    "locations": [
+      "San Jose, CA",
+      "Remote, USA",
+      "Milpitas, CA",
+      "New York, NY",
+      "RTP, NC",
+      "Atlanta, GA",
+      "Alpharetta, GA",
+      "Austin, TX",
+      "Dallas, TX",
+      "Knoxville, TN",
+      "Fulton, MD",
+      "Maynard, MA",
+      "Boston, MA",
+      "Hillsboro, OR"
+    ],
+    "terms": [
+      "Spring 2026",
+      "Winter 2026",
+      "Winter 2025",
+      "Fall 2025",
+      "Summer 2026",
+      "Summer 2025"
+    ],
+    "sponsorship": "Does Not Offer Sponsorship",
+    "active": true,
+    "source": "AlmondCroffle",
+    "id": "2a37dedc-5c88-43c3-9a99-e9bef2a4160f",
+    "date_posted": 1755248292,
+    "company_url": "",
+    "is_visible": true
   }
 ]
