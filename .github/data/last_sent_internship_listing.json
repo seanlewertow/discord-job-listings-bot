@@ -99310,5 +99310,25 @@
     "company_url": "https://simplify.jobs/c/ProSidian-Consulting",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Fannie Mae",
+    "id": "a346eab8-ea29-4146-a595-25eee688a407",
+    "title": "Campus \u2013 Intern - Data Science - Analytics and Modeling Program",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1755298828,
+    "date_posted": 1755298828,
+    "url": "https://fanniemae.wd1.myworkdayjobs.com/FannieMaeCareers/job/Midtown-Center/Campus---Data-Science--Analytics-and-Modeling-Program--Intern_JR1260",
+    "locations": [
+      "Washington, DC"
+    ],
+    "company_url": "https://simplify.jobs/c/Fannie-Mae",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
