@@ -99188,5 +99188,106 @@
     "company_url": "https://simplify.jobs/c/GlobalFoundries",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "ByteDance",
+    "id": "4a0ce674-2654-4f36-875c-9dc3145edb17",
+    "title": "Software Engineer Intern - Relational Database",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1755297879,
+    "date_posted": 1755297879,
+    "url": "https://jobs.bytedance.com/en/position/7535874373627971848/detail",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "company_url": "https://simplify.jobs/c/ByteDance",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Atomic Semi",
+    "id": "3b896ce5-4e65-4264-8794-611e8c42f2d4",
+    "title": "Embedded Software Engineering Intern - Winter",
+    "active": true,
+    "terms": [
+      "Winter 2024"
+    ],
+    "date_updated": 1755297351,
+    "date_posted": 1755297351,
+    "url": "https://jobs.ashbyhq.com/atomicsemi/13e95284-dbcf-4cf2-8151-c9687dfc1889/application",
+    "locations": [
+      "SF"
+    ],
+    "company_url": "https://simplify.jobs/c/Atomic-Semi",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "GE Vernova",
+    "id": "376e0186-7335-4062-a867-ed14c6d78206",
+    "title": "GE Vernova Engineering Intern Artificial Intelligence Tool Developer",
+    "active": true,
+    "terms": [
+      "Spring 2026",
+      "Winter 2026"
+    ],
+    "date_updated": 1755298886,
+    "date_posted": 1755298886,
+    "url": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Niskayuna/GE-Vernova-Engineering-Intern-Artificial-Intelligence-Tool-Developer---2026-Spring_R5015736-1",
+    "locations": [
+      "Schenectady, NY"
+    ],
+    "company_url": "https://simplify.jobs/c/GE-Vernova",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Hewlett Packard Enterprise",
+    "id": "70bba92f-73c2-4227-bd7f-581e73f55e97",
+    "title": "Software Engineering Intern",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1755298787,
+    "date_posted": 1755298787,
+    "url": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Spring-Texas-United-States-of-America/Software-Engineering-Intern_1192961",
+    "locations": [
+      "Spring, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Hewlett-Packard-Enterprise",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Nuro",
+    "id": "ee4d3442-846c-47b6-92ac-14448b24e980",
+    "title": "Systems Engineering Intern - Scenario Taxonomy",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1755298670,
+    "date_posted": 1755298670,
+    "url": "https://nuro.ai/careersitem?gh_jid=7169069",
+    "locations": [
+      "Mountain View, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Nuro",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
