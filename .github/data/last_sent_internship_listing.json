@@ -98784,5 +98784,105 @@
     "company_url": "https://simplify.jobs/c/CCC-Intelligent-Solutions",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Rothschild & Co",
+    "id": "e8dd3cf3-fb49-4029-8cf5-cccfb4bdc9a3",
+    "title": "Five Arrows Talent Data Analytics Internship",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1755289294,
+    "date_posted": 1755289294,
+    "url": "https://rothschildandco.tal.net/vx/mobile-0/appcentre-ext/brand-4/spa-1/candidate/so/pm/1/pl/2/opp/825-2025-Five-Arrows-Talent-Data-Analytics-Internship/en-GB",
+    "locations": [
+      "United Kingdom"
+    ],
+    "company_url": "https://simplify.jobs/c/Rothschild",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "ByteDance",
+    "id": "a3ea962f-b9c2-4816-9100-7ac7ceafe70a",
+    "title": "Software Engineer Intern - Media Network Global Engineering",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1755289243,
+    "date_posted": 1755289243,
+    "url": "https://jobs.bytedance.com/en/position/7533770198839773458/detail",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/ByteDance",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "ByteDance",
+    "id": "8d981cf1-c610-41cc-84d1-800ea078fd37",
+    "title": "Software Development Engineer Intern - Network Automation",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1755289246,
+    "date_posted": 1755289246,
+    "url": "https://jobs.bytedance.com/en/position/7537152632018012424/detail",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "company_url": "https://simplify.jobs/c/ByteDance",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "ByteDance",
+    "id": "877cc09a-f438-41ca-8b36-0e10e6a8ed2d",
+    "title": "Software Development Engineer Intern - Storage-HDFS - BS/ MS",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1755289237,
+    "date_posted": 1755289237,
+    "url": "https://jobs.bytedance.com/en/position/7538216145381492999/detail",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/ByteDance",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "ByteDance",
+    "id": "45f439c5-48ee-4f58-a636-14a5e0912e61",
+    "title": "Network Software Development Engineer Intern - Network Switch",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1755289255,
+    "date_posted": 1755289255,
+    "url": "https://jobs.bytedance.com/en/position/7537117266451171592/detail",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/ByteDance",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
