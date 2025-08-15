@@ -98884,5 +98884,47 @@
     "company_url": "https://simplify.jobs/c/ByteDance",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Brunswick",
+    "id": "678d4019-7221-4f9b-a4d1-dbab1501f754",
+    "title": "Front-End Development Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025",
+      "Fall 2025",
+      "Spring 2025"
+    ],
+    "date_updated": 1755290731,
+    "date_posted": 1755290731,
+    "url": "https://brunswick.wd1.myworkdayjobs.com/en-US/search/job/Champaign-IL/Front-End-Development-Intern_JR-047199",
+    "locations": [
+      "Urbana, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/a93a0fb2-e10a-434c-a88c-a639748677a4",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Link Logistics",
+    "id": "55c25f29-d66f-41c5-b049-6cc111eb5323",
+    "title": "Research & Analytics Summer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1755290784,
+    "date_posted": 1755290784,
+    "url": "https://linklogistics.wd5.myworkdayjobs.com/en-US/Link/job/New-York-New-York/Research---Analytics-Summer-Intern_JR101481",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/6239df36-c310-4d81-9f43-abc34b0fc63e",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
