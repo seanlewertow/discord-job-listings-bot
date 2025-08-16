@@ -99947,5 +99947,25 @@
     "company_url": "https://simplify.jobs/c/TikTok",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Flow Traders",
+    "id": "dc19cba3-10ca-4fa4-a242-47ceb5b37399",
+    "title": "Trading Intern",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1755300805,
+    "date_posted": 1755300805,
+    "url": "https://job-boards.greenhouse.io/flowtraders/jobs/7166435",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Flow-Traders",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
