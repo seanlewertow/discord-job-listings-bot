@@ -99471,5 +99471,45 @@
     "company_url": "https://simplify.jobs/c/Fundamental-Research-Labs",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Royal Bank of Canada",
+    "id": "7dd4e8a7-ee3b-479d-b08a-7c3dbe34c420",
+    "title": "Data Analyst/Scientist Intern - HR",
+    "active": true,
+    "terms": [
+      "Winter 2026"
+    ],
+    "date_updated": 1755306496,
+    "date_posted": 1755306496,
+    "url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/XMLNAME-2026-Winter---HR--Data-Analyst-Scientist-Intern--4-Months-_R-0000136794",
+    "locations": [
+      "Toronto, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Royal-Bank-Of-Canada",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "WeRide",
+    "id": "247df49d-57d7-4cde-b1ca-eeee3214a95b",
+    "title": "Intern - Vehicle Embedded Engineer - Dbw",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1755307692,
+    "date_posted": 1755307692,
+    "url": "https://jobs.lever.co/weride/32871b7d-f424-422f-af2c-615c59ff44cd/apply",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/WeRide",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
