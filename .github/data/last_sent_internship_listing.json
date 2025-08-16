@@ -99638,5 +99638,29 @@
     "company_url": "https://simplify.jobs/c/Ameren",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Uline",
+    "id": "9f14aaca-3fd3-4859-aff7-41f71a5520d2",
+    "title": "Business Intelligence Developer Internship",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1755312630,
+    "date_posted": 1755312630,
+    "url": "https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/Business-Intelligence-Developer-Internship---Summer-2026_R256541",
+    "locations": [
+      "Waukegan, IL",
+      "Milwaukee, WI",
+      "Pleasant Prairie, WI",
+      "Morton Grove, IL",
+      "Kenosha, WI"
+    ],
+    "company_url": "https://simplify.jobs/c/656d9cca-8674-4b7c-ad5f-f7298d72e103",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
