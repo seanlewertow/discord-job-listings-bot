@@ -99662,5 +99662,45 @@
     "company_url": "https://simplify.jobs/c/656d9cca-8674-4b7c-ad5f-f7298d72e103",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "ConnectPrep",
+    "id": "77cb3c56-8756-48cd-a185-c345440af69c",
+    "title": "Data Analyst Internship",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1755321145,
+    "date_posted": 1755321145,
+    "url": "https://apply.workable.com/connectprep/j/DFBFC5045A/apply",
+    "locations": [
+      "Boston, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/ConnectPrep",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "ConnectPrep",
+    "id": "18a96e4c-2f48-4388-a17b-3127e516ed49",
+    "title": "Data Analyst Internship",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1755321143,
+    "date_posted": 1755321143,
+    "url": "https://apply.workable.com/connectprep/j/80CC49930B/apply",
+    "locations": [
+      "SF"
+    ],
+    "company_url": "https://simplify.jobs/c/ConnectPrep",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
