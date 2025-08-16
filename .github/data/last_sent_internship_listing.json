@@ -99511,5 +99511,65 @@
     "company_url": "https://simplify.jobs/c/WeRide",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "ByteDance",
+    "id": "66d624a4-bf98-4f02-b127-38342b345cff",
+    "title": "Software Engineer Intern - Multi-Cloud CDN Platform",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1755313164,
+    "date_posted": 1755313164,
+    "url": "https://jobs.bytedance.com/en/position/7538139519473092882/detail",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/ByteDance",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "ByteDance",
+    "id": "38e9b155-826a-49f7-a431-a689d10c579e",
+    "title": "Machine Learning Engineer Intern - Global E-commerce Risk Control - 2026 Summer - BS/MS",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1755313167,
+    "date_posted": 1755313167,
+    "url": "https://jobs.bytedance.com/en/position/7535953226975054098/detail",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "company_url": "https://simplify.jobs/c/ByteDance",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "WEC Energy Group",
+    "id": "47ffa3a8-d666-40f2-bfbb-2f23e8fb8ce2",
+    "title": "Renewables Data Analytics Intern",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1755315029,
+    "date_posted": 1755315029,
+    "url": "https://careers.wecenergygroup.com/Wisconsin_Public_Service/job/Milwaukee-Renewables-Data-Analytics-Intern-WI-53203/1317609200/?ats=successfactors",
+    "locations": [
+      "Milwaukee, WI"
+    ],
+    "company_url": "https://simplify.jobs/c/WEC-Energy-Group",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
