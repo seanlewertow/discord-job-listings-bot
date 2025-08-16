@@ -99967,5 +99967,25 @@
     "company_url": "https://simplify.jobs/c/Flow-Traders",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "TikTok",
+    "id": "860f82b8-0562-4605-b9a7-3cac835a34c7",
+    "title": "Software Engineer Intern - Video-on-Demand Algorithm - BS/MS",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1755303661,
+    "date_posted": 1755303661,
+    "url": "https://lifeattiktok.com/search/7538304000404244743",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/TikTok",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
