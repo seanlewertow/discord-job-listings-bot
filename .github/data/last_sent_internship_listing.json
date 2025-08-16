@@ -99571,5 +99571,72 @@
     "company_url": "https://simplify.jobs/c/WEC-Energy-Group",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "OneMain Financial",
+    "id": "4fdf538d-216b-420b-b185-938552d4e348",
+    "title": "Analytics Analyst Intern",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1755315552,
+    "date_posted": 1755315552,
+    "url": "https://myhrhome.wd1.myworkdayjobs.com/en-US/OneMainCareers/job/Wilmington-DE/Analytics-Analyst-Intern_R2508-47528",
+    "locations": [
+      "Charlotte, NC",
+      "Wilmington, DE"
+    ],
+    "company_url": "https://simplify.jobs/c/b4966f20-7ca2-4e09-9e76-ea8708e860ec",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Uline",
+    "id": "66d3d3bf-1746-4e5a-8d3a-b6e2b4b504af",
+    "title": "Financial Data Analyst Internship",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1755317031,
+    "date_posted": 1755317031,
+    "url": "https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/Financial-Data-Analyst-Internship---Summer-2026_R256283",
+    "locations": [
+      "Waukegan, IL",
+      "Milwaukee, WI",
+      "Pleasant Prairie, WI",
+      "Morton Grove, IL",
+      "Kenosha, WI"
+    ],
+    "company_url": "https://simplify.jobs/c/656d9cca-8674-4b7c-ad5f-f7298d72e103",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Ameren",
+    "id": "e06f01ed-c41a-417d-8ef8-1277023d153c",
+    "title": "Application Development Co-Op",
+    "active": true,
+    "terms": [
+      "Winter 2025",
+      "Summer 2025",
+      "Fall 2025"
+    ],
+    "date_updated": 1755312596,
+    "date_posted": 1755312596,
+    "url": "https://ameren.wd1.myworkdayjobs.com/External/job/St-Louis-MO/Application-Development-Co-Op_031806-1",
+    "locations": [
+      "St. Louis, MO"
+    ],
+    "company_url": "https://simplify.jobs/c/Ameren",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
