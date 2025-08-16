@@ -99702,5 +99702,110 @@
     "company_url": "https://simplify.jobs/c/ConnectPrep",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Goldman Sachs",
+    "id": "a01bad01-4a56-48f2-be0f-426a8738c83a",
+    "title": "2026 \u2013 Summer Analyst - FICC and Equities - Sales and Trading - Quantitative Strats",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1755293452,
+    "date_posted": 1755293452,
+    "url": "https://higher.gs.com/roles/152578?type=students",
+    "locations": [
+      "Salt Lake City, UT"
+    ],
+    "company_url": "https://simplify.jobs/c/1e8c5083-a2a3-4cb5-b517-47da9c7a9da2",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Interactions",
+    "id": "40200897-470d-489a-bb5c-646de6cdd4a2",
+    "title": "Artificial Intelligence Analyst Intern",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1755292323,
+    "date_posted": 1755292323,
+    "url": "https://interactions.wd1.myworkdayjobs.com/en-US/Interactions/job/United-States---Remote/Artificial-Intelligence-Analyst-Intern_R0002002",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/Interactions",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Uline",
+    "id": "2b2c1f42-0190-40a2-88e2-9314a7cda022",
+    "title": "Software Developer Internship",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1755292066,
+    "date_posted": 1755292066,
+    "url": "https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/Software-Developer-Internship---Summer-2026_R256032",
+    "locations": [
+      "Waukegan, IL",
+      "Milwaukee, WI",
+      "Pleasant Prairie, WI",
+      "Morton Grove, IL",
+      "Kenosha, WI"
+    ],
+    "company_url": "https://simplify.jobs/c/656d9cca-8674-4b7c-ad5f-f7298d72e103",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "BlackEdge Capital",
+    "id": "e4fed01c-f35c-456d-bea5-212f9386d27c",
+    "title": "Quantitative Developer Intern",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1755293016,
+    "date_posted": 1755293016,
+    "url": "https://job-boards.greenhouse.io/blackedgecapital/jobs/4596128005",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/BlackEdge-Capital",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Ontario Teachers' Pension Plan",
+    "id": "a29eec98-2bd6-4b1e-bb54-0aa58147cd55",
+    "title": "Intern \u2013 Enterprise Architecture and Emerging Technologies",
+    "active": true,
+    "terms": [
+      "Summer 2026",
+      "Summer 2027"
+    ],
+    "date_updated": 1755294987,
+    "date_posted": 1755294987,
+    "url": "https://otppb.wd3.myworkdayjobs.com/OntarioTeachers_Careers/job/Toronto-Canada/Intern---Enterprise-Architecture-and-Emerging-Technologies--May-2026---16-months-_6582",
+    "locations": [
+      "Toronto, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Ontario-Teachers-Pension-Plan",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
