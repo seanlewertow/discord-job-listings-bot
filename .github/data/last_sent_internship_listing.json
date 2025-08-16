@@ -99370,5 +99370,106 @@
     "company_url": "https://simplify.jobs/c/ByteDance",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "TD Synnex",
+    "id": "651dd3c4-759a-4a85-b907-d318180836a4",
+    "title": "Internship - Technical Scholar Program",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1755295243,
+    "date_posted": 1755295243,
+    "url": "https://synnex.wd5.myworkdayjobs.com/tdsynnexcareers/job/Greenville-SC/Greenville--SC---2023-Technical-Scholar-Program_R23785",
+    "locations": [
+      "Greenville, SC"
+    ],
+    "company_url": "https://simplify.jobs/c/TD-Synnex",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Verkada",
+    "id": "b35f91ad-c38c-4364-900b-0caafa2215a7",
+    "title": "Hardware Engineer",
+    "active": true,
+    "terms": [
+      "Winter 2025"
+    ],
+    "date_updated": 1755295060,
+    "date_posted": 1755295060,
+    "url": "https://job-boards.greenhouse.io/verkada/jobs/4321158007",
+    "locations": [
+      "San Mateo, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Verkada",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "ByteDance",
+    "id": "cf3b2175-fef3-4491-be0d-bddb34d2dc35",
+    "title": "Software Engineer Intern - Financial Product - Global Payment",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1755291832,
+    "date_posted": 1755291832,
+    "url": "https://jobs.bytedance.com/en/position/7533002244305848584/detail",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/ByteDance",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Hitachi",
+    "id": "657f21d2-8d39-4d31-a185-7d00152348b2",
+    "title": "PMO Analyst and Business Intelligence Intern",
+    "active": true,
+    "terms": [
+      "Fall 2025",
+      "Spring 2026"
+    ],
+    "date_updated": 1755292725,
+    "date_posted": 1755292725,
+    "url": "https://gtsgbu.wd3.myworkdayjobs.com/Careers/job/Toronto/PMO-Analyst-and-Business-Intelligence-Intern_R1010308",
+    "locations": [
+      "Toronto, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Hitachi",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Fundamental Research Labs",
+    "id": "d0f37477-e67e-4555-b132-301c5a4ee167",
+    "title": "Intern",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1755293797,
+    "date_posted": 1755293797,
+    "url": "https://jobs.ashbyhq.com/fundamentalresearchlabs/fccaee31-5a39-4978-837e-577f74a4d9b5/application",
+    "locations": [
+      "Menlo Park, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Fundamental-Research-Labs",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
