@@ -100162,5 +100162,68 @@
     "date_posted": 1755419933,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Arcade AI",
+    "id": "1b0967d2-deaa-43b5-b9a2-942cdf32181e",
+    "title": "Software Engineer Intern - Frontend",
+    "active": true,
+    "terms": [
+      "Winter 2025",
+      "Winter 2026"
+    ],
+    "date_updated": 1755420257,
+    "date_posted": 1755420257,
+    "url": "https://jobs.lever.co/Arcade/418c36e2-3e08-4ff8-901d-927de5747e89/apply",
+    "locations": [
+      "SF"
+    ],
+    "company_url": "https://simplify.jobs/c/Arcade-AI",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "date_updated": 1755420986,
+    "url": "https://careers.hpe.com/us/en/job/HPE1US1192969EXTERNALENUS/Cloud-Engineer-Intern",
+    "company_name": "Hewlett Packard Enterprise",
+    "title": "Cloud Engineer Intern",
+    "locations": [
+      "Spring, TX"
+    ],
+    "terms": [
+      "Spring 2026",
+      "Winter 2026",
+      "Winter 2025",
+      "Fall 2025",
+      "Summer 2026"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "source": "AlmondCroffle",
+    "id": "1539711d-fec5-4c60-9620-fca2226bbad6",
+    "date_posted": 1755420986,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1755421079,
+    "url": "https://mufgub.wd3.myworkdayjobs.com/MUFG-Careers/job/Tampa-FL/XMLNAME-2026-Summer-Analyst-Program--Information-Technology---Tampa--FL_10072145-WD-1",
+    "company_name": "MUFG",
+    "title": "Information Technology",
+    "locations": [
+      "Tampa, Fl"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "sponsorship": "Does Not Offer Sponsorship",
+    "active": true,
+    "source": "AlmondCroffle",
+    "id": "d091137b-b583-47eb-ba56-bf5f5bbcd1dd",
+    "date_posted": 1755421079,
+    "company_url": "",
+    "is_visible": true
   }
 ]
