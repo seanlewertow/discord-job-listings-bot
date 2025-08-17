@@ -100325,5 +100325,25 @@
     "company_url": "https://simplify.jobs/c/Arcade-AI",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Skyworks",
+    "id": "bfa0423f-2419-40fe-8e8a-a0348cbb53ca",
+    "title": "Timing Customer Applications Summer Intern - Hardware - May-Aug",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1755450135,
+    "date_posted": 1755450135,
+    "url": "https://careers.skyworksinc.com/job/Austin-Timing-Customer-Applications-Summer-Intern-(Hardware)-May'26-Aug-'26-TX-73301/1317296000/?ats=successfactors",
+    "locations": [
+      "Austin, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Skyworks",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
