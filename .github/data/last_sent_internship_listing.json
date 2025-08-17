@@ -100345,5 +100345,26 @@
     "company_url": "https://simplify.jobs/c/Skyworks",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Skyworks",
+    "id": "f7b026da-f688-4cd7-85aa-3dca44f0300b",
+    "title": "Test Engineering/SW Co-Op",
+    "active": true,
+    "terms": [
+      "Winter 2026",
+      "Spring 2026"
+    ],
+    "date_updated": 1755452825,
+    "date_posted": 1755452825,
+    "url": "https://careers.skyworksinc.com/job/Irvine-Test-EngineeringSW-Co-Op-(WinterSpring-2026)-CA-92602/1316255400/?ats=successfactors",
+    "locations": [
+      "Irvine, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Skyworks",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
