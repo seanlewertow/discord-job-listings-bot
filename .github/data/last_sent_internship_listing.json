@@ -100097,5 +100097,70 @@
     "date_posted": 1755419368,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "date_updated": 1755419710,
+    "url": "https://cccis.wd1.myworkdayjobs.com/en-US/broadbean_external/job/Chicago-Green-St-IL/Software-Engineer-Intern_0014134",
+    "company_name": "CCC Intelligent Solutions",
+    "title": "Software Engineer Intern",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "terms": [
+      "Spring 2026",
+      "Winter 2026",
+      "Winter 2025",
+      "Fall 2025",
+      "Summer 2026"
+    ],
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "source": "AlmondCroffle",
+    "id": "88ac5f94-c72c-45ec-8268-15fc0a9f4277",
+    "date_posted": 1755419710,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1755419842,
+    "url": "https://higher.gs.com/roles/150598",
+    "company_name": "Goldman Sachs",
+    "title": "Corporate and Workplace Solutions - Summer Analyst",
+    "locations": [
+      "New York, NY"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "source": "AlmondCroffle",
+    "id": "4eac0a74-05d5-4c88-9cff-b7f66a8ab346",
+    "date_posted": 1755419842,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1755419933,
+    "url": "https://careers.hpe.com/us/en/job/HPE1US1192958EXTERNALENUS/Firmware-Engineer-Intern",
+    "company_name": "Hewlett Packard Enterprise",
+    "title": "Firmware Engineer Intern",
+    "locations": [
+      "Spring, TX"
+    ],
+    "terms": [
+      "Spring 2026",
+      "Winter 2026",
+      "Winter 2025",
+      "Fall 2025",
+      "Summer 2026"
+    ],
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "source": "AlmondCroffle",
+    "id": "3f3f7265-437a-4e75-8ecb-d8de1168e1c6",
+    "date_posted": 1755419933,
+    "company_url": "",
+    "is_visible": true
   }
 ]
