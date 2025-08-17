@@ -100047,5 +100047,55 @@
     "company_url": "https://simplify.jobs/c/Ciena",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "date_updated": 1755419208,
+    "url": "https://careers.adobe.com/us/en/job/ADOBUSR158493EXTERNALENUS/2026-AI-ML-Intern-Machine-Learning-Engineer",
+    "company_name": "Adobe",
+    "title": "AI/ML Intern - Machine Learning Engineer",
+    "locations": [
+      "San Jose, CA",
+      "San Francisco, CA",
+      "Austin, TX",
+      "Seattle, WA",
+      "Waltham, MA",
+      "New York, NY",
+      "Lehi, UT"
+    ],
+    "terms": [
+      "Spring 2026",
+      "Winter 2026",
+      "Summer 2026"
+    ],
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "source": "AlmondCroffle",
+    "id": "1b6d7184-6ae8-4a04-a8f1-0c82c93e8fe2",
+    "date_posted": 1755419208,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1755419368,
+    "url": "https://www.amentumcareers.com/jobs/ai-and-robotics-intern-huntsville-alabama-united-states-4fa685a1-2e01-42fa-8597-b9f54e5818be",
+    "company_name": "Amentum",
+    "title": "AI and Robotics Intern",
+    "locations": [
+      "Huntsville, AL"
+    ],
+    "terms": [
+      "Spring 2026",
+      "Winter 2026",
+      "Winter 2025",
+      "Fall 2025",
+      "Summer 2026"
+    ],
+    "sponsorship": "U.S. Citizenship is Required",
+    "active": true,
+    "source": "AlmondCroffle",
+    "id": "e9b83d0f-c590-4676-984b-811868e12236",
+    "date_posted": 1755419368,
+    "company_url": "",
+    "is_visible": true
   }
 ]
