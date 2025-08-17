@@ -100303,5 +100303,27 @@
     "date_posted": 1755421724,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Arcade AI",
+    "id": "68ed1c26-8144-4fa7-89c5-bb2627babeb7",
+    "title": "Software Engineer Intern - Frontend",
+    "active": true,
+    "terms": [
+      "Fall 2025",
+      "Winter 2026",
+      "Spring 2026"
+    ],
+    "date_updated": 1755439949,
+    "date_posted": 1755439949,
+    "url": "https://jobs.lever.co/Arcade/7fa8337b-07e3-4f34-824d-1e4dbed3e5fe/apply",
+    "locations": [
+      "SF"
+    ],
+    "company_url": "https://simplify.jobs/c/Arcade-AI",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
