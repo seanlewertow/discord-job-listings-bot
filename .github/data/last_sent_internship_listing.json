@@ -100225,5 +100225,83 @@
     "date_posted": 1755421079,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "date_updated": 1755421235,
+    "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/Supply-Chain-AI-Intern---Summer-Internship-2026_R56902",
+    "company_name": "Motorola Solutions",
+    "title": "Supply Chain AI Intern",
+    "locations": [
+      "Chicago, IL",
+      "Schaumburg, IL"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "source": "AlmondCroffle",
+    "id": "f7c76d8d-22ea-479f-9ff4-19f32a52d743",
+    "date_posted": 1755421235,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1755421399,
+    "url": "https://careers.skyworksinc.com/job/Austin-Applications-Engineer-Intern-%28May-2026-Aug-2026%29-TX-73301/1317275100/Applications Engineer Intern",
+    "company_name": "Skyworks",
+    "title": "Applications Engineer Intern",
+    "locations": [
+      "Austin, TX"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "source": "AlmondCroffle",
+    "id": "1a9019f4-4279-47d8-86e3-1a6a494f2426",
+    "date_posted": 1755421399,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1755421578,
+    "url": "https://www.uline.jobs/JobDetails?jobid=R256032",
+    "company_name": "Uline",
+    "title": "Software Developer Internship",
+    "locations": [
+      "Pleasant Prairie, WI"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "source": "AlmondCroffle",
+    "id": "89fe88ab-dcf7-4f12-8546-1ca545d7e336",
+    "date_posted": 1755421578,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1755421724,
+    "url": "https://careers.formlabs.com/job/7165153/apply/?gh_jid=7165153",
+    "company_name": "Formlabs",
+    "title": "Embedded Software Intern",
+    "locations": [
+      "Somerville, MA"
+    ],
+    "terms": [
+      "Winter 2026",
+      "Spring 2026"
+    ],
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "source": "AlmondCroffle",
+    "id": "3e5b85e7-c2de-4493-8f3a-0de770224234",
+    "date_posted": 1755421724,
+    "company_url": "",
+    "is_visible": true
   }
 ]
