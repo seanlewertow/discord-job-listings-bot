@@ -100429,5 +100429,27 @@
     "company_url": "https://simplify.jobs/c/Disney",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Ecolab",
+    "id": "c8f7bdbe-3548-4a34-9594-9a5f978e8bd2",
+    "title": "Digital Technology Intern",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1755540278,
+    "date_posted": 1755540278,
+    "url": "https://ecolab.wd1.myworkdayjobs.com/ecolab_external/job/USA---Minnesota---Saint-Paul/Digital-Technology-Intern_R00272283-1",
+    "locations": [
+      "Naperville, IL",
+      "Eagan, MN",
+      "St Paul, MN"
+    ],
+    "company_url": "https://simplify.jobs/c/Ecolab",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
