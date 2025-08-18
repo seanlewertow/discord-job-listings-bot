@@ -100592,5 +100592,45 @@
     "company_url": "https://simplify.jobs/c/Procter-Gamble-Company",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Freddie Mac",
+    "id": "2695e41c-4842-41f8-863a-d672db9727bf",
+    "title": "Technology Intern",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1755546798,
+    "date_posted": 1755546798,
+    "url": "https://freddiemac.wd5.myworkdayjobs.com/External/job/McLean-VA/Technology-Intern_JR16008",
+    "locations": [
+      "McLean, VA"
+    ],
+    "company_url": "https://simplify.jobs/c/Freddie-Mac",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Fifth Third Bank",
+    "id": "44587ed0-f143-410d-8239-4639e344102e",
+    "title": "Software Engineer Co-op - Enterprise Finance Applications",
+    "active": true,
+    "terms": [
+      "Spring 2026"
+    ],
+    "date_updated": 1755551709,
+    "date_posted": 1755551709,
+    "url": "https://fifththird.wd5.myworkdayjobs.com/en-US/53careers/job/Cincinnati-OH/Software-Engineer-Co-op---Enterprise-Finance-Applications---Spring-2026_R61148",
+    "locations": [
+      "Cincinnati, OH"
+    ],
+    "company_url": "https://simplify.jobs/c/Fifth-Third-Bank",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
