@@ -100832,5 +100832,25 @@
     "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Chamberlain Group",
+    "id": "ca78020b-a0c8-4bb4-9a33-d7f0e6c2ac30",
+    "title": "Intern \u2013 Myq Front End Developer - Android or iOS",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1755547971,
+    "date_posted": 1755547971,
+    "url": "https://chamberlain.wd1.myworkdayjobs.com/Chamberlain_Group/job/Oak-Brook-IL/Intern--myQ-Front-End-Developer--Android-or-iOS---Summer-2026-_JR29298",
+    "locations": [
+      "Western Springs, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/Chamberlain-Group",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
