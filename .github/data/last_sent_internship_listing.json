@@ -100852,5 +100852,87 @@
     "company_url": "https://simplify.jobs/c/Chamberlain-Group",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Freddie Mac",
+    "id": "36cc9d3e-bdcd-4e61-b77e-81d6a688a137",
+    "title": "Single-Family Software Intern-Summer 2026",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1755529232,
+    "date_posted": 1755529232,
+    "url": "https://freddiemac.wd5.myworkdayjobs.com/External/job/McLean-VA/Single-Family-Software-Intern--Summer-2026_JR16003",
+    "locations": [
+      "McLean, VA"
+    ],
+    "company_url": "https://simplify.jobs/c/Freddie-Mac",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "date_updated": 1755563302,
+    "url": "https://careers.datadoghq.com/detail/6954161/?gh_jid=6954161",
+    "company_name": "Datadog",
+    "title": "Software Engineering Intern (Winter)",
+    "locations": [
+      "Boston, MA",
+      "New York, NY"
+    ],
+    "terms": [
+      "Winter 2026"
+    ],
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "source": "moibra05",
+    "id": "e4413262-d333-4d7f-b4a1-efad8576d6ef",
+    "date_posted": 1755563302,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Loop",
+    "id": "616622cf-309c-451c-9f7e-6cede9f34557",
+    "title": "Full Stack Developer Co-op",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1755565810,
+    "date_posted": 1755565810,
+    "url": "https://ats.rippling.com/loop-careers/jobs/4e13473e-9666-4194-9aff-2facfb11ecd2",
+    "locations": [
+      "Toronto, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Loop-Financial",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Shopify",
+    "id": "40da538d-da69-46a3-9c1e-0fc499103c0f",
+    "title": "Data Internships",
+    "active": true,
+    "terms": [
+      "Winter 2026",
+      "Summer 2026"
+    ],
+    "date_updated": 1755566558,
+    "date_posted": 1755566558,
+    "url": "https://www.shopify.com/careers/data-internships-2026-usa_661cbf62-51e6-49d9-815e-3d4fa31803e5",
+    "locations": [
+      "NYC",
+      "Bellevue, WA"
+    ],
+    "company_url": "https://simplify.jobs/c/Shopify",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
