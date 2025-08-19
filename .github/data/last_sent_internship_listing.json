@@ -101393,5 +101393,52 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Other",
+    "company_name": "Arch Capital Group",
+    "id": "ac219976-5af4-4ae0-a202-86cf0320112e",
+    "title": "Systems Engineering Summer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1755644692,
+    "date_posted": 1755644692,
+    "url": "https://archgroup.wd1.myworkdayjobs.com/careers/job/Greensboro-NC-United-States-of-America/Systems-Engineering-Summer-Intern_R25_721",
+    "locations": [
+      "Greensboro, NC"
+    ],
+    "company_url": "https://simplify.jobs/c/Arch-Capital-Group",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Applied Intuition",
+    "id": "4b0aa44c-c2b4-4cd0-974b-8766661feef9",
+    "title": "Research Intern",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1755643594,
+    "date_posted": 1755643594,
+    "url": "https://boards.greenhouse.io/appliedintuition/jobs/4473608005",
+    "locations": [
+      "Mountain View, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Applied-Intuition",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Master's",
+      "PhD"
+    ]
   }
 ]
