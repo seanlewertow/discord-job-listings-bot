@@ -101440,5 +101440,30 @@
       "Master's",
       "PhD"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Other",
+    "company_name": "Phillips 66",
+    "id": "a0df50a0-6684-441a-b733-52137fa3d1ee",
+    "title": "University Intern in Information Technology",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1755646280,
+    "date_posted": 1755646280,
+    "url": "https://careers.phillips66.com/job/Houston-2026-University-Intern-Information-Technology-TX-77042/1314832500/?ats=successfactors",
+    "locations": [
+      "Houston, TX",
+      "Bartlesville, OK"
+    ],
+    "company_url": "https://simplify.jobs/c/Phillips-66",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
   }
 ]
