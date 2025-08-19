@@ -101203,5 +101203,29 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Figma",
+    "id": "87c3225e-4d3b-4a14-b653-79e64a41ba75",
+    "title": "Software Engineer Intern",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1755633094,
+    "date_posted": 1755633094,
+    "url": "https://boards.greenhouse.io/figma/jobs/5602159004",
+    "locations": [
+      "SF",
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Figma",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
