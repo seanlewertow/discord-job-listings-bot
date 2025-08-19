@@ -101074,5 +101074,26 @@
     "date_posted": 1755594678,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "WEC Energy Group",
+    "id": "a66bb355-5de2-4615-8542-b8693dee0449",
+    "title": "Power Generation Data Analyst Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025",
+      "Summer 2026"
+    ],
+    "date_updated": 1755625195,
+    "date_posted": 1755625195,
+    "url": "https://careers.wecenergygroup.com/We_Energies/job/Milwaukee-Power-Generation-Data-Analyst-Intern-WI-53203/1318168900/?ats=successfactors",
+    "locations": [
+      "Milwaukee, WI"
+    ],
+    "company_url": "https://simplify.jobs/c/WEC-Energy-Group",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
