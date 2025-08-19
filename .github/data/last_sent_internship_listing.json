@@ -101095,5 +101095,67 @@
     "company_url": "https://simplify.jobs/c/WEC-Energy-Group",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Skyworks",
+    "id": "1161a0e6-4941-44f8-91db-1045105adb12",
+    "title": "Product Engineering Co-Op",
+    "active": true,
+    "terms": [
+      "Winter 2026",
+      "Spring 2026"
+    ],
+    "date_updated": 1755627546,
+    "date_posted": 1755627546,
+    "url": "https://careers.skyworksinc.com/job/Irvine-Product-Engineering-Co-Op-(WinterSpring-2026)-CA-92602/1318285600/?ats=successfactors",
+    "locations": [
+      "Irvine, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Skyworks",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "ZOLL Medical Corporation",
+    "id": "5706f9ef-4f17-48e3-93e5-de16063adb36",
+    "title": "Test Engineering Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1755627140,
+    "date_posted": 1755627140,
+    "url": "https://zoll.wd5.myworkdayjobs.com/en-US/ZOLLMedicalCorp/job/Test-Engineering-Intern_R16477",
+    "locations": [
+      "Madison, WI"
+    ],
+    "company_url": "https://simplify.jobs/c/Zoll",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Capital One",
+    "id": "b850c614-7275-4dc5-a523-03de74d25beb",
+    "title": "Intern \u2013 Data Analytics Engineering",
+    "active": true,
+    "terms": [
+      "Winter 2026",
+      "Fall 2026"
+    ],
+    "date_updated": 1755626863,
+    "date_posted": 1755626863,
+    "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Intern--Data-Analytics-Engineering_R223472-1",
+    "locations": [
+      "Toronto, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Capital-One",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
