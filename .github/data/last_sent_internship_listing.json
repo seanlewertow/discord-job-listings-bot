@@ -101054,5 +101054,25 @@
     "company_url": "https://simplify.jobs/c/Fifth-Third-Bank",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "date_updated": 1755594678,
+    "url": "https://careers.datadoghq.com/detail/7127832/?gh_jid=7127832",
+    "company_name": "Datadog",
+    "title": "Product Management Intern",
+    "locations": [
+      "New York, NY"
+    ],
+    "terms": [
+      "Winter 2026",
+      "Summer 2026"
+    ],
+    "sponsorship": "Does Not Offer Sponsorship",
+    "active": true,
+    "source": "AlmondCroffle",
+    "id": "b27bdc40-4499-425a-8ffe-cc391c150128",
+    "date_posted": 1755594678,
+    "company_url": "",
+    "is_visible": true
   }
 ]
