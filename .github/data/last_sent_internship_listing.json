@@ -101034,5 +101034,25 @@
     "company_url": "https://simplify.jobs/c/Emerson-Electric",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Fifth Third Bank",
+    "id": "9f42792e-7698-40f3-ae98-e34722295fc3",
+    "title": "Enterprise Data Office Co-op",
+    "active": true,
+    "terms": [
+      "Spring 2026"
+    ],
+    "date_updated": 1755551713,
+    "date_posted": 1755551713,
+    "url": "https://fifththird.wd5.myworkdayjobs.com/en-US/53careers/job/Cincinnati-OH/Enterprise-Data-Office-Co-op---Spring-2026---Cincinnati_R61093",
+    "locations": [
+      "Cincinnati, OH"
+    ],
+    "company_url": "https://simplify.jobs/c/Fifth-Third-Bank",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
