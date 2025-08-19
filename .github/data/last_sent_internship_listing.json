@@ -100934,5 +100934,105 @@
     "company_url": "https://simplify.jobs/c/Shopify",
     "is_visible": true,
     "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "American Express",
+    "id": "f95b6d4c-8d48-4544-8aa2-612c7211106c",
+    "title": "Campus Undergraduate Summer Internship Program - 2026 Software Engineer - Technology",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1755572161,
+    "date_posted": 1755572161,
+    "url": "https://aexp.eightfold.ai/careers/job/30702546",
+    "locations": [
+      "Plantation, FL"
+    ],
+    "company_url": "https://simplify.jobs/c/American-Express",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "American Express",
+    "id": "1a638e09-e313-47e4-90bf-92b6362c5111",
+    "title": "Campus Undergraduate Summer Internship Program - 2026 Software Engineer - Technology",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1755572162,
+    "date_posted": 1755572162,
+    "url": "https://aexp.eightfold.ai/careers/job/30702556",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/American-Express",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "American Express",
+    "id": "006bf013-2ac3-4cf1-8f83-99ac30b9fc89",
+    "title": "Campus Undergraduate Summer Internship Program - 2026 Software Engineer - Technology",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1755572159,
+    "date_posted": 1755572159,
+    "url": "https://aexp.eightfold.ai/careers/job/30702550",
+    "locations": [
+      "Phoenix, AZ"
+    ],
+    "company_url": "https://simplify.jobs/c/American-Express",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "FNBO",
+    "id": "960bc9b7-5a6f-4a2c-b1b8-200149bba0da",
+    "title": "Internship - Data Analytics",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1755571824,
+    "date_posted": 1755571824,
+    "url": "https://firstnational.wd12.myworkdayjobs.com/fnbocareers/job/Omaha---FN-Tower/Internship---Data-Analytics--Omaha--NE-_R-20250987-1",
+    "locations": [
+      "Omaha, NE"
+    ],
+    "company_url": "https://simplify.jobs/c/FNBO",
+    "is_visible": true,
+    "sponsorship": "Other"
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Emerson Electric",
+    "id": "2c50f9ca-dce1-4a0c-8bea-24f9072e735e",
+    "title": "Software Development Co-op",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1755573823,
+    "date_posted": 1755573823,
+    "url": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs/job/25024741",
+    "locations": [
+      "Elyria, OH"
+    ],
+    "company_url": "https://simplify.jobs/c/Emerson-Electric",
+    "is_visible": true,
+    "sponsorship": "Other"
   }
 ]
