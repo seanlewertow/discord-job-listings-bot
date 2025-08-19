@@ -20915,5 +20915,90 @@
     "date_posted": 1755593570,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "date_updated": 1755593896,
+    "url": "https://lifeattiktok.com/search/7538213896365689096",
+    "company_name": "TikTok",
+    "title": "Software Engineer Graduate (Commerce Ads)",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "source": "AlmondCroffle",
+    "id": "911bec19-39a7-47d3-b58c-b3689264c611",
+    "date_posted": 1755593896,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1755593968,
+    "url": "https://ats.rippling.com/en-CA/edgehog-trading/jobs/a39cf004-d79c-4588-9a5f-6bdce04a85ee",
+    "company_name": "Edgehog Trading",
+    "title": "C++ Software Developer \u2013 Trading Strategy Execution",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "source": "AlmondCroffle",
+    "id": "27f9ff28-fd14-4e61-8106-0c7e12d19e25",
+    "date_posted": 1755593968,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1755594048,
+    "url": "https://www.housecallpro.com/careers/open-positions/?gh_jid=5620132004",
+    "company_name": "Housecall Pro",
+    "title": "Graduate AI Solutions Specialist",
+    "locations": [
+      "Denver, CO"
+    ],
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "source": "AlmondCroffle",
+    "id": "045c2077-c022-468c-a58d-57473b79b1e6",
+    "date_posted": 1755594048,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1755594164,
+    "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Software-Engineer---Recent-Graduate_R0129930",
+    "company_name": "PayPal",
+    "title": "Software Engineer",
+    "locations": [
+      "San Jose, CA",
+      "Chicago, IL",
+      "Scottsdale, AZ",
+      "Omaha, NE",
+      "Austin, TX"
+    ],
+    "sponsorship": "Does Not Offer Sponsorship",
+    "active": true,
+    "source": "AlmondCroffle",
+    "id": "27a376c0-de58-4b7a-b153-919bc7bf5e96",
+    "date_posted": 1755594164,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1755594236,
+    "url": "https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Schaumburg-IL/Entry-Level-Software-Engineer_R56026",
+    "company_name": "Motorola Solutions",
+    "title": "Software Engineer",
+    "locations": [
+      "Schaumburg, IL",
+      "Chicago, IL"
+    ],
+    "sponsorship": "Does Not Offer Sponsorship",
+    "active": true,
+    "source": "AlmondCroffle",
+    "id": "bd8ad9d6-a0f4-4e02-82e2-77698da41b4b",
+    "date_posted": 1755594236,
+    "company_url": "",
+    "is_visible": true
   }
 ]
