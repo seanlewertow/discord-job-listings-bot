@@ -101370,5 +101370,28 @@
     "date_posted": 1755638663,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Royal Caribbean Group",
+    "id": "cba6a57f-9fc1-43b2-a7c5-057fc2153124",
+    "title": "2026 Summer Internship - Global Enterprise Technology",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1755641648,
+    "date_posted": 1755641648,
+    "url": "https://jobs.royalcaribbeangroup.com/job/Miramar-2026-Summer-Internship-Global-Enterprise-Technology-FL-33132/1315808800/?ats=successfactors",
+    "locations": [
+      "Miramar, FL"
+    ],
+    "company_url": "https://simplify.jobs/c/Royal-Caribbean-Group",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
