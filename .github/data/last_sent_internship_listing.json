@@ -101227,5 +101227,124 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Point72",
+    "id": "ea4b6147-ca8e-49af-a350-c7793a66aec8",
+    "title": "Quantitative Research Internship",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1750118185,
+    "date_posted": 1723764979,
+    "url": "https://boards.greenhouse.io/point72/jobs/7297642002",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Point72",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "PhD"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Vertex Pharmaceuticals",
+    "id": "db64f74b-4d71-453f-89f6-9f84498fe7ea",
+    "title": "Vertex Fall 2025 Co-op - Process Development & Data Processing",
+    "active": true,
+    "terms": [
+      "Summer 2025",
+      "Fall 2025"
+    ],
+    "date_updated": 1742512678,
+    "date_posted": 1742512678,
+    "url": "https://vrtx.wd5.myworkdayjobs.com/Vertex_Careers/job/Boston-MA/Vertex-Fall-2025-Co-op--Process-Development---Data-Processing--Boston--MA-_REQ-23631-1",
+    "locations": [
+      "Boston, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/Vertex-Pharmaceuticals",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Master's",
+      "PhD"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "ByteDance",
+    "id": "8e2164a4-b507-4823-ac6e-e9a9cca22b4b",
+    "title": "Machine Learning Engineer Intern - Applied Machine Learning-Algorithm",
+    "active": true,
+    "terms": [
+      "Summer 2025",
+      "Fall 2025"
+    ],
+    "date_updated": 1751552433,
+    "date_posted": 1746779526,
+    "url": "https://jobs.bytedance.com/en/position/7398413673407121701/detail",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/ByteDance",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "ByteDance",
+    "id": "b3c0c4cb-5abc-4838-89c2-b8a7a296a14c",
+    "title": "Machine Learning Engineer Intern - Applied Machine Learning-Algorithm",
+    "active": true,
+    "terms": [
+      "Summer 2025",
+      "Fall 2025"
+    ],
+    "date_updated": 1751545779,
+    "date_posted": 1746779667,
+    "url": "https://jobs.bytedance.com/en/position/7398413778008721690/detail",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/ByteDance",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "PhD"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Other",
+    "company_name": "Elf Beauty",
+    "id": "0a3beb73-c48e-471d-8028-12ff4251479f",
+    "title": "Intern \u2013 IT Service Desk",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1754519854,
+    "date_posted": 1744179816,
+    "url": "https://jobs.lever.co/elfbeauty/4d15a039-f5c1-4321-bf66-f48217bdce78/apply",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Elf-Beauty",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
