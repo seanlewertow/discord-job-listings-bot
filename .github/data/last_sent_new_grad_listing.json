@@ -21262,5 +21262,101 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "date_updated": 1755679539,
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "degrees": [],
+    "url": "https://lifeattiktok.com/search/7538903496654407943",
+    "company_name": "San Jose, CA",
+    "title": "Product Manager Ads Measurement Graduate (Measurement Signal and Privacy Product)",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "category": "Product Management",
+    "source": "AlmondCroffle",
+    "id": "a4954f1f-3ea8-42fb-b6fb-29e04e9cc872",
+    "date_posted": 1755679539,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1755679604,
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "degrees": [],
+    "url": "https://lifeattiktok.com/search/7535871317771634952",
+    "company_name": "TikTok",
+    "title": "Software Engineer Graduate (Data Arch - E-commerce)",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "category": "Software Engineering",
+    "source": "AlmondCroffle",
+    "id": "90398c2a-fcf6-451a-bdf4-26457fa5e700",
+    "date_posted": 1755679604,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1755679741,
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "degrees": [],
+    "url": "https://lifeattiktok.com/search/7538319953965287698",
+    "company_name": "TikTok",
+    "title": "Software Engineer Graduate (Video-on-Demand Algorithm)",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "category": "Software Engineering",
+    "source": "AlmondCroffle",
+    "id": "75920be8-ade4-4f0c-a176-9c4fd6f78005",
+    "date_posted": 1755679741,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1755679825,
+    "sponsorship": "Other",
+    "active": true,
+    "degrees": [
+      "Master's"
+    ],
+    "url": "https://www.citadelsecurities.com/careers/details/machine-learning-researcher-phd-graduate-us/",
+    "company_name": "Citadel Securities",
+    "title": "Machine Learning Researcher",
+    "locations": [
+      "Miami, FL",
+      "New York, NY"
+    ],
+    "category": "Data Science, AI & Machine Learning",
+    "source": "AlmondCroffle",
+    "id": "277edf04-e837-4d57-b6ed-3fa007c0df0e",
+    "date_posted": 1755679825,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1755679928,
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "degrees": [
+      "Master's"
+    ],
+    "url": "https://www.citadelsecurities.com/careers/details/quantitative-researcher-phd-graduate-us/",
+    "company_name": "Citadel Securities",
+    "title": "Quantitative Researcher \u2013 PhD Graduate",
+    "locations": [
+      "Miami, FL",
+      "New York, NY"
+    ],
+    "category": "Quantitative Finance",
+    "source": "AlmondCroffle",
+    "id": "1c38f8d2-ca61-48f8-b39c-4025c97bf276",
+    "date_posted": 1755679928,
+    "company_url": "",
+    "is_visible": true
   }
 ]
