@@ -102519,5 +102519,54 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Blizzard Entertainment",
+    "id": "1584fc93-77a7-42ee-9192-74c39f836282",
+    "title": "AI Localization Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025",
+      "Fall 2025"
+    ],
+    "date_updated": 1755726064,
+    "date_posted": 1755726064,
+    "url": "https://activision.wd1.myworkdayjobs.com/Blizzard_External_Careers/job/Irvine---Blizzard---Blizzard-Way/AI-Localization-Intern_R025877",
+    "locations": [
+      "Irvine, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Blizzard-Entertainment",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Vanguard",
+    "id": "3012d6f2-e64e-456a-8b95-aa1b9ee3f94c",
+    "title": "Application Engineer",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1755725975,
+    "date_posted": 1755725975,
+    "url": "https://vanguard.wd5.myworkdayjobs.com/en-US/contractors_restricted/job/Malvern-PA/Application-Engineer--RESTRICTED-to-current-Co-ops-and-Interns-Only----2026-Start-Date_168684",
+    "locations": [
+      "Malvern, PA",
+      "Charlotte, NC"
+    ],
+    "company_url": "https://simplify.jobs/c/Vanguard",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
