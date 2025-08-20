@@ -101774,5 +101774,124 @@
       "Bachelor's",
       "Master's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Integra FEC",
+    "id": "42f4a77d-8bf3-412c-b11e-ac97053d0ccc",
+    "title": "Spring \u2013 Data Scientist Intern - PhD",
+    "active": true,
+    "terms": [
+      "Spring 2025"
+    ],
+    "date_updated": 1755644579,
+    "date_posted": 1755644579,
+    "url": "https://job-boards.greenhouse.io/integra/jobs/4823176008",
+    "locations": [
+      "Austin, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Integra-FEC",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "PhD"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Anduril",
+    "id": "c21b04fe-29ad-4078-9ab0-fe132833c029",
+    "title": "Operations Analyst Intern",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1755609634,
+    "date_posted": 1755609634,
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/4829860007",
+    "locations": [
+      "Newport Beach, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Anduril",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Integra FEC",
+    "id": "7a995379-3bba-4bca-ad03-0ea5adaf5f38",
+    "title": "Spring \u2013 Data Analyst Intern",
+    "active": true,
+    "terms": [
+      "Spring 2025"
+    ],
+    "date_updated": 1755644581,
+    "date_posted": 1755644581,
+    "url": "https://job-boards.greenhouse.io/integra/jobs/4826292008",
+    "locations": [
+      "Austin, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Integra-FEC",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "PhD"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Skyworks",
+    "id": "44b34be5-ae62-4db8-a400-934b273ac533",
+    "title": "IC Development \u2013 Summer Intern - Software",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1755642448,
+    "date_posted": 1755642448,
+    "url": "https://careers.skyworksinc.com/job/Austin-IC-Development-(Software)-Summer-Intern-(May-'26-Aug-'26)-TX-73301/1318385200/?ats=successfactors",
+    "locations": [
+      "Austin, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Skyworks",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Other",
+    "company_name": "Xcel Energy",
+    "id": "168b88be-d350-4049-b769-85793b02b50e",
+    "title": "Compute & Converged Intern",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1755642628,
+    "date_posted": 1755642628,
+    "url": "https://xcelenergy.wd1.myworkdayjobs.com/External/job/Golden-CO-80401/Compute---Converged-Intern_JR109805-1",
+    "locations": [
+      "Golden, CO"
+    ],
+    "company_url": "https://simplify.jobs/c/Xcel-Energy",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
