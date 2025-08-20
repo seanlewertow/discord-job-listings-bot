@@ -102689,5 +102689,53 @@
       "Bachelor's",
       "Master's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Integra FEC",
+    "id": "2ef07195-8a9a-4ef6-b472-cce8b7b52e20",
+    "title": "Spring \u2013 Data Analyst Intern",
+    "active": true,
+    "terms": [
+      "Spring 2025"
+    ],
+    "date_updated": 1755644581,
+    "date_posted": 1755644581,
+    "url": "https://job-boards.greenhouse.io/integrainterns/jobs/4826293008",
+    "locations": [
+      "Austin, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Integra-FEC",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "PhD"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Church & Dwight",
+    "id": "2371632d-cd36-48a6-84cf-56ec6dc60319",
+    "title": "Master's Data Science Co-op",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1755641443,
+    "date_posted": 1755641443,
+    "url": "https://churchdwight.wd1.myworkdayjobs.com/chdcareers/job/USA-Ewing-NJ/XMLNAME-2026-Master-s-Data-Science-Co-op_R2025-14136",
+    "locations": [
+      "Trenton, NJ"
+    ],
+    "company_url": "https://simplify.jobs/c/Church-And-Dwight",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Master's"
+    ]
   }
 ]
