@@ -101657,5 +101657,98 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Tencent",
+    "id": "4abe20f7-ff1f-4abb-b3c8-057f1c812bc9",
+    "title": "Motion Generation Algorithm Intern",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1755670232,
+    "date_posted": 1755670232,
+    "url": "https://tencent.wd1.myworkdayjobs.com/en-US/Tencent_Careers/job/UK-London/Motion-Generation-Algorithm-Intern_R105947",
+    "locations": [
+      "London, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Tencent",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "PhD"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Procter & Gamble (P&G)",
+    "id": "a31572d0-4183-4e53-b967-1c004ebc715a",
+    "title": "AI \u2013 PhD Intern",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1755621573,
+    "date_posted": 1755621573,
+    "url": "https://pg.wd5.myworkdayjobs.com/1000/job/MASON-BUS-AND-INNOVATION-CTR/AI---PhD-Intern_R000136807",
+    "locations": [
+      "Mason, OH"
+    ],
+    "company_url": "https://simplify.jobs/c/Procter-Gamble-Company",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "PhD"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Palantir",
+    "id": "4b0a0a22-ba97-43e6-b131-336344fb7fe6",
+    "title": "Software Engineer \u2013 Internship - Infrastructure",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1755620304,
+    "date_posted": 1755620304,
+    "url": "https://jobs.lever.co/palantir/f221738b-e97c-4ce3-a12a-17ada2b855e4/apply",
+    "locations": [
+      "Palo Alto, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Palantir",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Truist",
+    "id": "ea19b811-d38b-4e17-a2fe-5ae97da9a10b",
+    "title": "2026 Technology and Innovation Internship",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1755671502,
+    "date_posted": 1755671502,
+    "url": "https://truist.wd1.myworkdayjobs.com/en-US/Careers/job/Charlotte-NC/XMLNAME-2026-Technology-and-Innovation-Internship_R0105789-1",
+    "locations": [
+      "Charlotte, NC",
+      "Atlanta, GA"
+    ],
+    "company_url": "https://simplify.jobs/c/Truist",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
