@@ -102301,5 +102301,28 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Capital One",
+    "id": "3fd93944-f4ab-4a73-adac-51fb85911195",
+    "title": "Intern \u2013 Mobile Software Engineer - Capital One Travel",
+    "active": true,
+    "terms": [
+      "Winter 2026"
+    ],
+    "date_updated": 1755701270,
+    "date_posted": 1755701270,
+    "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Intern--Mobile-Software-Engineer---Blue-Jays---Winter-2026_R223402",
+    "locations": [
+      "Toronto, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Capital-One",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
