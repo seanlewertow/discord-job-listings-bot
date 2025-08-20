@@ -101750,5 +101750,29 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Cadence Solutions",
+    "id": "0c7a2fad-67b3-4a71-9e8c-a57abfd3d62b",
+    "title": "Software Engineering Intern",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1755673558,
+    "date_posted": 1755673558,
+    "url": "https://job-boards.greenhouse.io/cadencesolutions/jobs/4427513006",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/Cadence-Solutions",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
   }
 ]
