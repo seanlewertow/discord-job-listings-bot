@@ -101893,5 +101893,135 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "date_updated": 1755680707,
+    "sponsorship": "U.S. Citizenship is Required",
+    "active": true,
+    "degrees": [
+      "Bachelor's"
+    ],
+    "url": "https://careers.cargill.com/en/job/atlanta/software-engineer-intern-summer-2026-atlanta-ga/23251/85180324464",
+    "company_name": "Cargill",
+    "title": "Software Engineer Intern",
+    "locations": [
+      "Atlanta, GA"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "category": "Software Engineering",
+    "source": "AlmondCroffle",
+    "id": "0c455cfa-eaa1-4ad8-ba55-43850a899e97",
+    "date_posted": 1755680707,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1755680941,
+    "sponsorship": "Does Not Offer Sponsorship",
+    "active": true,
+    "degrees": [
+      "Bachelor's"
+    ],
+    "url": "https://job-boards.greenhouse.io/figma/jobs/5614980004",
+    "company_name": "Figma",
+    "title": "Data Science Intern",
+    "locations": [
+      "San Francisco, CA",
+      "New York, NY"
+    ],
+    "terms": [
+      "Fall 2026",
+      "Spring 2026",
+      "Winter 2026",
+      "Summer 2026"
+    ],
+    "category": "Data Science, AI & Machine Learning",
+    "source": "AlmondCroffle",
+    "id": "99d08aec-4300-4ff4-b7a5-9ff782263595",
+    "date_posted": 1755680941,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1755681110,
+    "sponsorship": "Does Not Offer Sponsorship",
+    "active": true,
+    "degrees": [
+      "Bachelor's"
+    ],
+    "url": "https://job-boards.greenhouse.io/figma/jobs/5616453004",
+    "company_name": "Figma",
+    "title": "Product Design Intern",
+    "locations": [
+      "San Francisco, CA",
+      "New York, NY"
+    ],
+    "terms": [
+      "Fall 2026",
+      "Spring 2026",
+      "Winter 2026",
+      "Summer 2026"
+    ],
+    "category": "Other",
+    "source": "AlmondCroffle",
+    "id": "bc7b875f-fda2-4ea8-8c95-34c44be93c6c",
+    "date_posted": 1755681110,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1755681191,
+    "sponsorship": "Does Not Offer Sponsorship",
+    "active": true,
+    "degrees": [
+      "Bachelor's"
+    ],
+    "url": "https://job-boards.greenhouse.io/figma/jobs/5617444004",
+    "company_name": "Figma",
+    "title": "Product Research Intern",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "terms": [
+      "Summer 2026",
+      "Winter 2026",
+      "Spring 2026",
+      "Fall 2026"
+    ],
+    "category": "Other",
+    "source": "AlmondCroffle",
+    "id": "c01e0a6d-5266-4269-9475-e60797f4f5f2",
+    "date_posted": 1755681191,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1755681330,
+    "sponsorship": "Does Not Offer Sponsorship",
+    "active": true,
+    "degrees": [
+      "Bachelor's"
+    ],
+    "url": "https://careers.qorvo.com/job/Greensboro-Software-Characterization-Engineering-Intern-NC-27409/1318261400",
+    "company_name": "Qorvo",
+    "title": "Software Characterization Engineering Intern",
+    "locations": [
+      "Greensboro, NC"
+    ],
+    "terms": [
+      "Fall 2026",
+      "Spring 2026",
+      "Winter 2026",
+      "Fall 2025",
+      "Summer 2026"
+    ],
+    "category": "Hardware Engineering",
+    "source": "AlmondCroffle",
+    "id": "5e0838e2-664a-40e0-8e4c-d49b1f3896f2",
+    "date_posted": 1755681330,
+    "company_url": "",
+    "is_visible": true
   }
 ]
