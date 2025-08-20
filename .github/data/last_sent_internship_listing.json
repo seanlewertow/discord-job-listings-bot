@@ -102232,5 +102232,28 @@
     "date_posted": 1755696231,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Capital One",
+    "id": "82e82e13-2d1f-4697-904b-029423b70366",
+    "title": "Intern \u2013 Backend Software Engineer - Customer Acquisitions",
+    "active": true,
+    "terms": [
+      "Winter 2025"
+    ],
+    "date_updated": 1755701275,
+    "date_posted": 1755701275,
+    "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Intern--Backend-Software-Engineer---Customer-Acquisitions---Winter-2025_R223400",
+    "locations": [
+      "Toronto, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Capital-One",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
