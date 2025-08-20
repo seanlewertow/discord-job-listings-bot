@@ -21358,5 +21358,79 @@
     "date_posted": 1755679928,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "date_updated": 1755680085,
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "degrees": [],
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Deep-Learning-Software-Engineer--FlashInfer---New-College-Grad-2025_JR2002086",
+    "company_name": "NVIDIA",
+    "title": "Deep Learning Software Engineer, FlashInfer",
+    "locations": [
+      "Santa Clara, CA"
+    ],
+    "category": "Data Science, AI & Machine Learning",
+    "source": "AlmondCroffle",
+    "id": "0ccd0f50-ffdd-45c8-a77f-ca8b053da9bc",
+    "date_posted": 1755680085,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1755680196,
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "degrees": [],
+    "url": "https://jobs.ashbyhq.com/whatnot/8ca77652-1248-41f4-9af1-07fc84d7f9f8",
+    "company_name": "Whatnot",
+    "title": "Software Engineer, Notifications Platform",
+    "locations": [
+      "San Francisco, CA",
+      "Los Angeles, CA",
+      "New York, NY"
+    ],
+    "category": "Software Engineering",
+    "source": "AlmondCroffle",
+    "id": "3585fc63-d976-444f-8ea5-5469be8650b8",
+    "date_posted": 1755680196,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1755680335,
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "degrees": [],
+    "url": "https://jobs.ashbyhq.com/jerry.ai/5ce23dea-de2e-4c6d-9556-3c5314d721f7",
+    "company_name": "Jerry",
+    "title": "Software Engineer I",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "category": "Software Engineering",
+    "source": "AlmondCroffle",
+    "id": "9c0294b2-2563-4038-a8ed-7d1825f843c9",
+    "date_posted": 1755680335,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1755680476,
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "degrees": [],
+    "url": "https://careers.blizzard.com/global/en/job/BLENGLOBALR025871EXTERNALENGLOBAL/Graphics-Engineering-Intern",
+    "company_name": "Blizzard",
+    "title": "Graphics Engineering Intern",
+    "locations": [
+      "Irvine, CA"
+    ],
+    "category": "Hardware Engineering",
+    "source": "AlmondCroffle",
+    "id": "25a9827d-9b37-4e21-a7e0-177d04c1eb8c",
+    "date_posted": 1755680476,
+    "company_url": "",
+    "is_visible": true
   }
 ]
