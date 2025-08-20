@@ -102568,5 +102568,77 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Chicago Trading Company",
+    "id": "e14e17a5-21e7-4bfe-beb6-8548f8724b53",
+    "title": "Quant Trading Internship",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1755727006,
+    "date_posted": 1755727006,
+    "url": "https://job-boards.greenhouse.io/chicagotradingcampus/jobs/4599853005",
+    "locations": [
+      "London, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/ChicagoTradingCo",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "EQ Bank",
+    "id": "ee2141d8-d512-4e80-b190-260617207628",
+    "title": "Commercial Analytics Intern",
+    "active": true,
+    "terms": [
+      "Fall 2025",
+      "Winter 2025"
+    ],
+    "date_updated": 1755704759,
+    "date_posted": 1755704759,
+    "url": "https://jobs.lever.co/eqbank/4bf6bb9b-76dc-4eff-8978-b8d8708f550a/apply",
+    "locations": [
+      "Toronto, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/EQ-Bank",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "MRI Software",
+    "id": "24744d56-3852-4eb5-9be4-d7063911867b",
+    "title": "Fall Intern - Data Management",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1755726570,
+    "date_posted": 1755726570,
+    "url": "https://mrisoftware.wd501.myworkdayjobs.com/External_CareerSite/job/Georgia-Remote/Fall-Intern--Data-Management_R-105632",
+    "locations": [
+      "Georgia",
+      "Ohio"
+    ],
+    "company_url": "https://simplify.jobs/c/MRI-Software",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
