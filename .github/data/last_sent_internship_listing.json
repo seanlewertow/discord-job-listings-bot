@@ -102255,5 +102255,28 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "date_updated": 1755703734,
+    "sponsorship": "Does Not Offer Sponsorship",
+    "active": true,
+    "degrees": [
+      "Bachelor's"
+    ],
+    "url": "https://careers.newyorklife.com/careers?query=2026%20Technology%2C%20Data%2C%20AI%20%26%20Ventures%20Summer%20Internship%20Program%20-%20Technology%20Analyst%20Intern&pid=30149944&domain=newyorklife.com",
+    "company_name": "New York Life",
+    "title": "Technology Analyst Intern",
+    "locations": [
+      "New York, NY"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "category": "Other",
+    "source": "AlmondCroffle",
+    "id": "c77f532d-d66e-4d3b-89a0-12036b5a76c7",
+    "date_posted": 1755703734,
+    "company_url": "",
+    "is_visible": true
   }
 ]
