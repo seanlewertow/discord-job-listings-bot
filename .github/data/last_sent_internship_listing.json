@@ -102046,5 +102046,56 @@
     "date_posted": 1755681520,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "date_updated": 1755695074,
+    "sponsorship": "Does Not Offer Sponsorship",
+    "active": true,
+    "degrees": [
+      "Bachelor's"
+    ],
+    "url": "https://jobs.ashbyhq.com/cocodelivery/16c75d81-08af-4d95-8dfe-15fc0516b57a",
+    "company_name": "COCO Robotics",
+    "title": "ML Engineer Internship",
+    "locations": [
+      "Los Angeles, CA"
+    ],
+    "terms": [
+      "Fall 2026",
+      "Spring 2026",
+      "Winter 2026",
+      "Fall 2025",
+      "Summer 2026"
+    ],
+    "category": "Data Science, AI & Machine Learning",
+    "source": "AlmondCroffle",
+    "id": "82cb4a58-7bb5-4860-b77a-141136f2bed3",
+    "date_posted": 1755695074,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1755695170,
+    "sponsorship": "Does Not Offer Sponsorship",
+    "active": true,
+    "degrees": [
+      "Bachelor's"
+    ],
+    "url": "https://job-boards.greenhouse.io/asteraearlycareer/jobs/4598303005",
+    "company_name": "Astera Labs",
+    "title": "Applied AI Engineer Intern",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "terms": [
+      "Fall 2025",
+      "Fall 2026"
+    ],
+    "category": "Data Science, AI & Machine Learning",
+    "source": "AlmondCroffle",
+    "id": "5640e43e-ae0c-4712-9d7a-078a09af6d93",
+    "date_posted": 1755695170,
+    "company_url": "",
+    "is_visible": true
   }
 ]
