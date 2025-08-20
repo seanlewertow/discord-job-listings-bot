@@ -101610,5 +101610,29 @@
       "Bachelor's",
       "Master's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Figma",
+    "id": "5cd05981-28e8-4654-8a6d-11adc58e4f04",
+    "title": "Data Science Intern",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1755637169,
+    "date_posted": 1755637169,
+    "url": "https://boards.greenhouse.io/figma/jobs/5614980004",
+    "locations": [
+      "SF",
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Figma",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
