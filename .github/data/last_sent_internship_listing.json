@@ -102023,5 +102023,28 @@
     "date_posted": 1755681330,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "date_updated": 1755681520,
+    "sponsorship": "Other",
+    "active": true,
+    "degrees": [
+      "Bachelor's"
+    ],
+    "url": "https://seagatecareers.com/job/Shakopee-Summer-Intern-Software-Engineer-MN/1318324100",
+    "company_name": "Seagate",
+    "title": "Software Engineer",
+    "locations": [
+      "Shakopee, MN"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "category": "Software Engineering",
+    "source": "AlmondCroffle",
+    "id": "f97ea670-3357-438e-ab4e-203b032c7255",
+    "date_posted": 1755681520,
+    "company_url": "",
+    "is_visible": true
   }
 ]
