@@ -21224,5 +21224,43 @@
       "Master's",
       "PhD"
     ]
+  },
+  {
+    "date_updated": 1755678204,
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "degrees": [],
+    "url": "https://joinbytedance.com/search/7265752342699837757",
+    "company_name": "ByteDance",
+    "title": "Software Engineer in ML Systems Graduate",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "category": "Software Engineering",
+    "source": "AlmondCroffle",
+    "id": "5126455e-2afb-4721-93a6-5a581944cad8",
+    "date_posted": 1755678204,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Palantir",
+    "id": "f6850684-a28a-4529-9beb-dae520fc4db7",
+    "title": "Software Engineer \u2013 New Grad - Infrastructure",
+    "active": true,
+    "date_updated": 1755620301,
+    "date_posted": 1755620301,
+    "url": "https://jobs.lever.co/palantir/7d75bed5-45d8-4876-840a-2d92ea79c98d/apply",
+    "locations": [
+      "Palo Alto, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Palantir",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
