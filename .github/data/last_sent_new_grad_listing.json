@@ -21608,5 +21608,45 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Visa",
+    "id": "6a910024-4135-4b97-b253-c9e1226c9bd1",
+    "title": "Software Engineer I",
+    "active": true,
+    "date_updated": 1755737473,
+    "date_posted": 1755737473,
+    "url": "https://jobs.smartrecruiters.com/Visa/744000077270091",
+    "locations": [
+      "Austin, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Visa",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Worldpay",
+    "id": "d3b79bce-647d-420c-be72-6825ccd65256",
+    "title": "Data Engineer I",
+    "active": true,
+    "date_updated": 1755741811,
+    "date_posted": 1755741811,
+    "url": "https://worldpay.wd5.myworkdayjobs.com/Worldpay_External_Careers_Site/job/US-OH-CIN-8500/Data-Engineer-I_JR0607009-1",
+    "locations": [
+      "Cincinnati, OH"
+    ],
+    "company_url": "https://simplify.jobs/c/Worldpay",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
