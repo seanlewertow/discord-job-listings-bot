@@ -102879,5 +102879,99 @@
       "Master's",
       "PhD"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Standard Aero",
+    "id": "aea390e2-cf6b-471c-833a-4261520b1219",
+    "title": "Application Developer APEX \u2013 Co-Op",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1755744517,
+    "date_posted": 1755744517,
+    "url": "https://cva.fa.us1.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/jobs/job/7692",
+    "locations": [
+      "St. John's, NL, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Standard-Aero",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "IXL Learning",
+    "id": "6b1467ff-b2ab-402b-9cf0-7586e9bfdf02",
+    "title": "Software Engineer \u2013 Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1755744073,
+    "date_posted": 1755744073,
+    "url": "https://www.ixl.com/company/jobs?gh_jid=8128624002",
+    "locations": [
+      "Raleigh, NC"
+    ],
+    "company_url": "https://simplify.jobs/c/IXL-Learning",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Hewlett Packard Enterprise",
+    "id": "229cf625-4db7-450e-8d2f-ce97ca2b8605",
+    "title": "AI Customer Engagement Analyst Intern",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1755744797,
+    "date_posted": 1755744797,
+    "url": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Andover-Massachusetts-United-States-of-America/AI-Customer-Engagement-Analyst-Intern_1192735",
+    "locations": [
+      "Andover, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/Hewlett-Packard-Enterprise",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "IXL Learning",
+    "id": "0ba5dd03-320f-4d68-8fc7-318124a13594",
+    "title": "Software Engineer \u2013 Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1755746533,
+    "date_posted": 1755746533,
+    "url": "https://www.ixl.com/company/jobs?gh_jid=8128629002",
+    "locations": [
+      "San Mateo, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/IXL-Learning",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
   }
 ]
