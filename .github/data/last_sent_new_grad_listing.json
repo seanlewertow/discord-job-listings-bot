@@ -21820,5 +21820,44 @@
     "date_posted": 1755784282,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "date_updated": 1755817792,
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "degrees": [],
+    "url": "https://www.tesla.com/careers/search/job/247062",
+    "company_name": "Tesla",
+    "title": "Software Engineer, Communications Platform",
+    "locations": [
+      "Fremont, CA"
+    ],
+    "category": "Software Engineering",
+    "source": "unvibingcode",
+    "id": "6705097a-a8ec-4610-906e-063d10520f69",
+    "date_posted": 1755817792,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Comcast",
+    "id": "45c67361-dcb2-443d-a69c-24a9bd11095b",
+    "title": "Front End Software Engineer 1",
+    "active": true,
+    "date_updated": 1755817076,
+    "date_posted": 1755817076,
+    "url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/IL---Chicago-33-W-Monroe-St-Suite-1900/Front-End-Software-Engineer-1---Chicago-OR-Reston--VA---Onsite_R418260",
+    "locations": [
+      "Chicago, IL",
+      "Reston, VA"
+    ],
+    "company_url": "https://simplify.jobs/c/Comcast",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
