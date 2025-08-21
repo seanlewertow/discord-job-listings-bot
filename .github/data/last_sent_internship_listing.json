@@ -102760,5 +102760,124 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Draper",
+    "id": "c1f37ea6-a226-4e89-af49-ba5361006f17",
+    "title": "Device Physics & Engineering Intern",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1755741475,
+    "date_posted": 1755741475,
+    "url": "https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Device-Physics---Engineering-Intern_JR001684",
+    "locations": [
+      "Cambridge, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/Draper",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Cisco",
+    "id": "dc1f6c17-5e19-4b7d-9365-fedeed4af6b0",
+    "title": "Data Analyst I \u2013 Intern",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1755741301,
+    "date_posted": 1755741301,
+    "url": "https://jobs.cisco.com/jobs/ProjectDetail/Data-Analyst-I-Intern-United-States/1449162",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Cisco",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Bootcamp"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "WeRide",
+    "id": "08ab1083-f977-4e20-95a6-c89556b7f931",
+    "title": "Intern - Data Scientist",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1755741252,
+    "date_posted": 1755741252,
+    "url": "https://jobs.lever.co/weride/339696d7-10bf-4f62-a74b-bc24b59e1826/apply",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/WeRide",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Other",
+    "company_name": "Navy Federal",
+    "id": "3b0c249b-04e7-48ef-af6d-6c40087e9b0e",
+    "title": "Intern \u2013 Year Round - Voice Infrastructure",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1755742375,
+    "date_posted": 1755742375,
+    "url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/jobs/job/26430",
+    "locations": [
+      "Pensacola, FL"
+    ],
+    "company_url": "https://simplify.jobs/c/Navy-Federal",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "The Trade Desk",
+    "id": "4801b49c-dd4e-4300-8dd4-e5f03fee8dd4",
+    "title": "2026 Data Science Internship",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1755742196,
+    "date_posted": 1755742196,
+    "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/4822859007",
+    "locations": [
+      "London, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/281371f9-4ed3-4440-876f-4bbeaa0d50e0",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "PhD"
+    ]
   }
 ]
