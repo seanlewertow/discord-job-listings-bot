@@ -103334,5 +103334,29 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Arch Capital Group",
+    "id": "c7c63ff7-6a89-468a-bcbf-6e6c8acec893",
+    "title": "Database Engineering Summer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1755815533,
+    "date_posted": 1755815533,
+    "url": "https://archgroup.wd1.myworkdayjobs.com/careers/job/Greensboro-NC-United-States-of-America/Database-Engineering-Summer-Intern_R25_712",
+    "locations": [
+      "Greensboro, NC"
+    ],
+    "company_url": "https://simplify.jobs/c/Arch-Capital-Group",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
   }
 ]
