@@ -102998,5 +102998,128 @@
       "Bachelor's",
       "Master's"
     ]
+  },
+  {
+    "date_updated": 1755785170,
+    "sponsorship": "Other",
+    "active": true,
+    "degrees": [
+      "Bachelor's"
+    ],
+    "url": "https://freddiemac.wd5.myworkdayjobs.com/en-US/External/job/McLean-VA/Multifamily-Software-Development-Intern_JR15981",
+    "company_name": "Freddie Mac",
+    "title": "Multifamily Software Development Intern",
+    "locations": [
+      "McLean, VA"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "category": "Software Engineering",
+    "source": "AlmondCroffle",
+    "id": "f05314a8-0cb3-4cac-9b38-ef78ce4ce564",
+    "date_posted": 1755785170,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1755785352,
+    "sponsorship": "Other",
+    "active": true,
+    "degrees": [
+      "Bachelor's"
+    ],
+    "url": "https://relx.wd3.myworkdayjobs.com/en-US/relx/job/Alpharetta-GA/Data-Engineer-Intern_R99561",
+    "company_name": "RELX",
+    "title": "Data Engineer Intern",
+    "locations": [
+      "Alpharetta, GA"
+    ],
+    "terms": [
+      "Fall 2026",
+      "Spring 2026",
+      "Winter 2026",
+      "Fall 2025",
+      "Summer 2026"
+    ],
+    "category": "Data Science, AI & Machine Learning",
+    "source": "AlmondCroffle",
+    "id": "b1648b1d-3f06-480c-9f81-424c47c3a7b1",
+    "date_posted": 1755785352,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1755785537,
+    "sponsorship": "Other",
+    "active": true,
+    "degrees": [
+      "Bachelor's"
+    ],
+    "url": "https://globusmedical.wd5.myworkdayjobs.com/en-US/gmed_careers/job/Methuen-MA/Co-Op_JR104162",
+    "company_name": "Globus Medical",
+    "title": "Software Engineer Co-Op",
+    "locations": [
+      "Methuen, MA"
+    ],
+    "terms": [
+      "Fall 2026",
+      "Spring 2026",
+      "Winter 2026",
+      "Fall 2025",
+      "Summer 2026"
+    ],
+    "category": "Software Engineering",
+    "source": "AlmondCroffle",
+    "id": "51357e2a-7728-48f8-8d8a-1c9053e63ee4",
+    "date_posted": 1755785537,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1755785629,
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "degrees": [
+      "Bachelor's"
+    ],
+    "url": "https://apply.workable.com/al-warren-oil-company-inc/j/BF3D5FB442/",
+    "company_name": "Warren Oil Company",
+    "title": "Software Developer",
+    "locations": [
+      "Bensenville, IL"
+    ],
+    "terms": [
+      "Fall 2025"
+    ],
+    "category": "Software Engineering",
+    "source": "AlmondCroffle",
+    "id": "dd6b89c3-497d-4326-85cd-4174f9bccd46",
+    "date_posted": 1755785629,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1755785687,
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "degrees": [
+      "Bachelor's"
+    ],
+    "url": "https://www.ixl.com/company/careers?gh_jid=8128629002",
+    "company_name": "IXL Learning",
+    "title": "Software Engineer Intern",
+    "locations": [
+      "San Mateo, CA"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "category": "Software Engineering",
+    "source": "charliec05",
+    "id": "d72bb524-0cc1-426e-9be8-40ead983aed5",
+    "date_posted": 1755785687,
+    "company_url": "",
+    "is_visible": true
   }
 ]
