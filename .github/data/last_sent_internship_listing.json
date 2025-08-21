@@ -103501,5 +103501,52 @@
       "PhD",
       "Associate's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Other",
+    "company_name": "Mackenzie Investments",
+    "id": "34ea708e-16f5-4419-a092-ae6bf14770e4",
+    "title": "Winter \u2013 Cybersecurity Services Intern",
+    "active": true,
+    "terms": [
+      "Winter 2026"
+    ],
+    "date_updated": 1755817691,
+    "date_posted": 1755817691,
+    "url": "https://careersen-mackenzieinvestments.icims.com/jobs/5619/job",
+    "locations": [
+      "Winnipeg, MB, Canada",
+      "Toronto, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Mackenzie-Investments",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Legrand NA",
+    "id": "61ea2618-9382-4b1d-a539-90bc539689d6",
+    "title": "Firmware Intern",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1755817603,
+    "date_posted": 1755817603,
+    "url": "https://jobs-legrand.icims.com/jobs/9473/job",
+    "locations": [
+      "Carlsbad, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Legrand-NA",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
