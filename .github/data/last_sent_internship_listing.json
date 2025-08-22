@@ -104544,5 +104544,28 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "date_updated": 1755890647,
+    "sponsorship": "Other",
+    "active": true,
+    "degrees": [
+      "Bachelor's"
+    ],
+    "url": "https://paycomonline.net/v4/ats/web.php/jobs/ViewJobDetails?job=121996&clientkey=DB19AF4D55664C56748B919F7CB0BC3F",
+    "company_name": "Mesa Solutions",
+    "title": "Software Engineer Intern",
+    "locations": [
+      "Loveland, CO"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "category": "Software Engineering",
+    "source": "unvibingcode",
+    "id": "4ad3092f-6113-41d8-8b4e-a71658d913e7",
+    "date_posted": 1755890647,
+    "company_url": "",
+    "is_visible": true
   }
 ]
