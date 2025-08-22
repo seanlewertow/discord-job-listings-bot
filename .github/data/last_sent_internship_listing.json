@@ -104016,5 +104016,29 @@
     "degrees": [
       "PhD"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Veolia",
+    "id": "3d4c198e-9841-475c-b5b5-0d020bed3d88",
+    "title": "Firmware Engineer Intern",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1755837512,
+    "date_posted": 1755837512,
+    "url": "https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000077455500",
+    "locations": [
+      "Montreal, QC, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Veolia",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
   }
 ]
