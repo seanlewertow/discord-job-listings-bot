@@ -104328,5 +104328,28 @@
       "Bachelor's",
       "Master's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Other",
+    "company_name": "Merchants Bank of Indiana",
+    "id": "da25d9a4-381f-4ff1-bc0c-4240b1bbc1fe",
+    "title": "Information Security Intern",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1755850692,
+    "date_posted": 1755850692,
+    "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/3518937",
+    "locations": [
+      "Carmel, IN"
+    ],
+    "company_url": "https://simplify.jobs/c/Merchants-Bank-Of-Indiana",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
