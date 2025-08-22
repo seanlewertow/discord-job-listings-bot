@@ -104111,5 +104111,77 @@
       "Master's",
       "PhD"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "TikTok",
+    "id": "3ca60e51-b410-4df2-bcd5-d3cf9d98db53",
+    "title": "Product Solutions and Operations Project Intern",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1755843808,
+    "date_posted": 1755843808,
+    "url": "https://lifeattiktok.com/search/7541096326982027538",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/TikTok",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Genies",
+    "id": "187d96bf-2737-4f91-a622-b9bf425e2d0a",
+    "title": "ML Engineering Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1755845055,
+    "date_posted": 1755845055,
+    "url": "https://job-boards.greenhouse.io/genies/jobs/6689982003",
+    "locations": [
+      "LA",
+      "San Mateo, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Genies",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Master's",
+      "PhD"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Skyworks",
+    "id": "c942139a-ce0e-4c8b-ab3b-c4d41458d3d9",
+    "title": "AI Engineering Summer/Fall Co-Op",
+    "active": true,
+    "terms": [
+      "Summer 2026",
+      "Fall 2026"
+    ],
+    "date_updated": 1755844536,
+    "date_posted": 1755844536,
+    "url": "https://careers.skyworksinc.com/job/Woburn-AI-Engineering-SummerFall-Co-Op-(June-'26-Dec-'26)-MA-01801/1319302300/?ats=successfactors",
+    "locations": [
+      "Burlington, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/Skyworks",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Master's"
+    ]
   }
 ]
