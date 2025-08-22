@@ -103993,5 +103993,28 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Fujitsu",
+    "id": "693869ec-e941-46dc-ac52-2620f5303a5a",
+    "title": "Agentic AI Research Intern",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1755817759,
+    "date_posted": 1755817759,
+    "url": "https://edzt.fa.em4.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/jobs/job/31392",
+    "locations": [
+      "United States"
+    ],
+    "company_url": "https://simplify.jobs/c/Fujitsu",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "PhD"
+    ]
   }
 ]
