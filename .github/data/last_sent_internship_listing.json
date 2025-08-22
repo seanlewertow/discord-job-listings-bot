@@ -104063,5 +104063,53 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Al Warren Oil Company",
+    "id": "e5c029b1-3610-4d64-8b5b-34f6fc8599c5",
+    "title": "Software Developer",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1755842840,
+    "date_posted": 1755842840,
+    "url": "https://apply.workable.com/al-warren-oil-company-inc/j/BF3D5FB442/apply",
+    "locations": [
+      "Elk Grove Village, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/Al-Warren-Oil-Company",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Genies",
+    "id": "7d7954cd-0eb2-4f48-a212-a25ca021b0b9",
+    "title": "ML Engineering Intern - 2025 Fall Texture Gen",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1755842840,
+    "date_posted": 1755842840,
+    "url": "https://job-boards.greenhouse.io/genies/jobs/6689983003",
+    "locations": [
+      "LA",
+      "San Mateo, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Genies",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Master's",
+      "PhD"
+    ]
   }
 ]
