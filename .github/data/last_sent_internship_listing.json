@@ -104206,5 +104206,56 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "VetsEZ",
+    "id": "47eadca8-a5f1-4402-9aae-cdf6c98688c0",
+    "title": "API Developer Intern",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1755847338,
+    "date_posted": 1755847338,
+    "url": "https://vetsez.breezy.hr/p/bc2397bb62ae01/apply",
+    "locations": [
+      "Austin, TX",
+      "Miami, FL",
+      "Atlanta, GA"
+    ],
+    "company_url": "https://simplify.jobs/c/VetsEZ",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Meta",
+    "id": "cf9f5d11-8f9e-4895-a446-3086acc117ae",
+    "title": "Research Scientist Intern - Smart Glasses in Wearables AI - PhD",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1755847310,
+    "date_posted": 1755847310,
+    "url": "https://www.metacareers.com/jobs/1166376528712896",
+    "locations": [
+      "Burlingame, CA",
+      "Redmond, WA",
+      "Menlo Park, CA",
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Meta",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "PhD"
+    ]
   }
 ]
