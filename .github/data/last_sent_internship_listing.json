@@ -104497,5 +104497,29 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "HARMAN International",
+    "id": "e67d23cd-9fa2-4f7b-bee9-3756383f9fd8",
+    "title": "Product Management Intern",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1755874346,
+    "date_posted": 1755874346,
+    "url": "https://harman.wd3.myworkdayjobs.com/HARMAN/job/Northridge---California-USA/Product-Management-Intern_R-47677-2025",
+    "locations": [
+      "Northridge, LA"
+    ],
+    "company_url": "https://simplify.jobs/c/HARMAN-International",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "PhD"
+    ]
   }
 ]
