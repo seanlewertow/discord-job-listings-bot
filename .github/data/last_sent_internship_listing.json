@@ -104764,5 +104764,127 @@
     "degrees": [
       "PhD"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Nokia",
+    "id": "50aa70de-81f9-445e-998e-ce660b50f06b",
+    "title": "Software Development Coop",
+    "active": true,
+    "terms": [
+      "Winter 2026",
+      "Spring 2026"
+    ],
+    "date_updated": 1755903471,
+    "date_posted": 1755903471,
+    "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/23983",
+    "locations": [
+      "Sunnyvale, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Nokia",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Nokia",
+    "id": "118b1aad-617d-4aec-8587-55a7af626c2a",
+    "title": "Deepfield Software Engineer Co-op",
+    "active": true,
+    "terms": [
+      "Fall 2025",
+      "Winter 2025"
+    ],
+    "date_updated": 1755903469,
+    "date_posted": 1755903469,
+    "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/23889",
+    "locations": [
+      "Ann Arbor, MI"
+    ],
+    "company_url": "https://simplify.jobs/c/Nokia",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Dover",
+    "id": "b70b6859-3bd4-4304-97ff-e91f9062aac3",
+    "title": "Intern \u2013 Product Engineer",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1755903280,
+    "date_posted": 1755903280,
+    "url": "https://careers.dovercorporation.com/job/Conyers-Intern,-Product-Engineer-GA-30013/1239914501/?ats=successfactors",
+    "locations": [
+      "Lithonia, GA"
+    ],
+    "company_url": "https://simplify.jobs/c/511130a6-b974-4ccb-a78b-14049de141bb",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Other",
+    "company_name": "RSM",
+    "id": "e6b2284b-4a7b-4326-9abf-80b426966713",
+    "title": "Managed IT Services Service Desk Consulting Intern",
+    "active": true,
+    "terms": [
+      "Winter 2026"
+    ],
+    "date_updated": 1755902978,
+    "date_posted": 1755902978,
+    "url": "https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Boston/Managed-IT-Services-Service-Desk-Consulting-Intern---Winter-2026_JR110676",
+    "locations": [
+      "Boston, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/RSM",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "RSM",
+    "id": "b7a73e13-64dc-485d-b5b6-e0147339ed11",
+    "title": "Application Development Intern",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1755902974,
+    "date_posted": 1755902974,
+    "url": "https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Des-Moines/Application-Development-Intern---Summer-2026_JR114945",
+    "locations": [
+      "Des Moines, IA",
+      "Minneapolis, MN",
+      "Denver, CO"
+    ],
+    "company_url": "https://simplify.jobs/c/RSM",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
