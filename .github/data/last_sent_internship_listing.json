@@ -104521,5 +104521,28 @@
       "Bachelor's",
       "PhD"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Investment Management Corporation of Ontario",
+    "id": "c80ea4be-c4e7-413f-86ad-c3050c6148de",
+    "title": "Intern \u2013 Business Systems Analyst",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1755882523,
+    "date_posted": 1754978818,
+    "url": "https://imcoinvest.wd3.myworkdayjobs.com/IMCO/job/Toronto---16-York-St/Intern--Business-Systems-Analyst--Fall-2025-_R25-116-1",
+    "locations": [
+      "Toronto, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Investment-Management-Corporation-Of-Ontario",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
