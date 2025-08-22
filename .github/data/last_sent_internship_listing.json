@@ -103946,5 +103946,52 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Other",
+    "company_name": "Methodist Le Bonheur ",
+    "id": "e55106cf-e77b-4191-995c-993d18ce284b",
+    "title": "Information Security Generalist Internship",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1755821254,
+    "date_posted": 1755821254,
+    "url": "https://methodisthealth.wd5.myworkdayjobs.com/en-US/MLH/job/5865-Shelby-Oaks-Circle/Information-Security-Generalist-Internship_R-11915",
+    "locations": [
+      "Memphis, TN"
+    ],
+    "company_url": "https://simplify.jobs/c/Methodist-Le-Bonheur",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Mackenzie Investments",
+    "id": "f223a018-bb8f-44af-84f5-cf0cfde18648",
+    "title": "Fixed Income Software Developer Platform Intern - Investment Management",
+    "active": true,
+    "terms": [
+      "Winter 2026",
+      "Spring 2026"
+    ],
+    "date_updated": 1755821899,
+    "date_posted": 1755821899,
+    "url": "https://careersen-mackenzieinvestments.icims.com/jobs/5628/job",
+    "locations": [
+      "Toronto, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Mackenzie-Investments",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
