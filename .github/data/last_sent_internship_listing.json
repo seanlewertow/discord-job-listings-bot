@@ -104040,5 +104040,28 @@
       "Bachelor's",
       "Master's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "AbbVie",
+    "id": "f3d25564-fe2d-4f09-a8ee-f98a81f7ce40",
+    "title": "2026 Field Tools and Analytics Internship",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1755839714,
+    "date_posted": 1755839714,
+    "url": "https://jobs.smartrecruiters.com/AbbVie/3743990009160986",
+    "locations": [
+      "Vernon Hills, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/AbbVie",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
