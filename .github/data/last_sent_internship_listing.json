@@ -103710,5 +103710,120 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "American Express",
+    "id": "7c75aaa2-af45-43f1-add2-b2adea4ed4d9",
+    "title": "Campus Undergraduate Summer Internship Program - 2026 Product Enablement - Amex Digital Labs",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1755823332,
+    "date_posted": 1755823332,
+    "url": "https://aexp.eightfold.ai/careers/job/30790235",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/American-Express",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Hewlett Packard Enterprise",
+    "id": "b6d28817-a5d4-44c8-a9b3-8021c79fdf7d",
+    "title": "Tech Intern",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1755823045,
+    "date_posted": 1755823045,
+    "url": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Spring-Texas-United-States-of-America/Tech-Intern_1192880",
+    "locations": [
+      "Spring, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Hewlett-Packard-Enterprise",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Hewlett Packard Enterprise",
+    "id": "87aa266b-5e90-4240-938a-d7223dd31d21",
+    "title": "Summer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1755823047,
+    "date_posted": 1755823047,
+    "url": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Houston-Texas-United-States-of-America/Summer-Intern_1192932",
+    "locations": [
+      "Houston, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Hewlett-Packard-Enterprise",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Fujitsu",
+    "id": "8baed53a-929d-451b-aa1a-eb767c2b6736",
+    "title": "Research Intern",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1755824704,
+    "date_posted": 1755824704,
+    "url": "https://edzt.fa.em4.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/jobs/job/28438",
+    "locations": [
+      "Santa Clara, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Fujitsu",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "PhD"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Jabil",
+    "id": "04c70e10-66d7-4a09-b600-34d8561efedc",
+    "title": "Data Scientist Intern",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1755823944,
+    "date_posted": 1755823944,
+    "url": "https://jabil.wd5.myworkdayjobs.com/en-US/Jabil_Careers/job/Remote---USA/Data-Scientist-Intern_J2424986",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/Jabil",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
