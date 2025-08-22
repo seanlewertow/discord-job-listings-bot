@@ -104647,5 +104647,122 @@
     "date_posted": 1755890866,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Metronome",
+    "id": "df52550c-c15f-467f-9d29-9d1d82890d3d",
+    "title": "Software Engineering Intern",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1755900761,
+    "date_posted": 1755900761,
+    "url": "https://job-boards.greenhouse.io/metronome/jobs/4894044008",
+    "locations": [
+      "SF"
+    ],
+    "company_url": "https://simplify.jobs/c/Metronome",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "BitGo",
+    "id": "a20c0dc7-fd0e-4552-aeef-d689ee2a063d",
+    "title": "Software Engineer Intern - Access & Notifications",
+    "active": true,
+    "terms": [
+      "Winter 2026"
+    ],
+    "date_updated": 1755900761,
+    "date_posted": 1755900761,
+    "url": "https://job-boards.greenhouse.io/bitgointernships/jobs/8134206002",
+    "locations": [
+      "Kitchener, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/BitGo",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "GTS",
+    "id": "f0060a66-81ed-4f2e-9ef6-c9058d04101f",
+    "title": "Quantitative Trading Internship",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1755900428,
+    "date_posted": 1755900428,
+    "url": "https://careers-gtsx.icims.com/jobs/1562/job",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/GTS",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Jump Trading",
+    "id": "df2f7624-74be-49bf-82dc-11e5783e3d30",
+    "title": "Campus AI Researcher \u2013 Intern - PhD/Postdoc",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1754605560,
+    "date_posted": 1754605560,
+    "url": "https://boards.greenhouse.io/embed/job_app?token=7141685",
+    "locations": [
+      "London, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Jump-Trading",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "PhD"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Jump Trading",
+    "id": "a965b3c4-5978-4b43-947a-5d9b0dae26c8",
+    "title": "Campus AI Researcher \u2013 Intern - PhD/Postdoc",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1754605566,
+    "date_posted": 1754605566,
+    "url": "https://boards.greenhouse.io/embed/job_app?token=7141699",
+    "locations": [
+      "Chicago, IL",
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Jump-Trading",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "PhD"
+    ]
   }
 ]
