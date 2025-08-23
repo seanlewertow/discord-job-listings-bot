@@ -105164,5 +105164,78 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "date_updated": 1755912006,
+    "sponsorship": "U.S. Citizenship is Required",
+    "active": true,
+    "degrees": [
+      "Bachelor's"
+    ],
+    "url": "https://careers.rtx.com/global/en/job/01786610/Software-Engineering-Co-Op-Summer-Fall-2026-Onsite",
+    "company_name": "RTX",
+    "title": "Software Engineering Co-Op",
+    "locations": [
+      "Cedar Rapids, Iowa"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "category": "Software Engineering",
+    "source": "unvibingcode",
+    "id": "83656a24-d18b-489d-b08d-0af2db974851",
+    "date_posted": 1755912006,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1755912037,
+    "sponsorship": "Other",
+    "active": true,
+    "degrees": [
+      "Bachelor's"
+    ],
+    "url": "https://wd1.myworkdaysite.com/recruiting/paypal/jobs/job/San-Jose-California-United-States-of-America/Software-Engineer-Intern_R0129980",
+    "company_name": "PayPal",
+    "title": "Software Engineer Intern",
+    "locations": [
+      "San Jose, CA",
+      "Chicago, IL",
+      "Scottsdale, AZ",
+      "Omaha, NE",
+      "Austin, TX"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "category": "Software Engineering",
+    "source": "unvibingcode",
+    "id": "bb0ef06f-f4e3-4716-aa45-439e03a5f7ad",
+    "date_posted": 1755912037,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "ChargePoint",
+    "id": "1bf75679-dcdc-4eab-9c7e-86800069d198",
+    "title": "Power Electronics Controls and Firmware Intern",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1755915462,
+    "date_posted": 1755915462,
+    "url": "https://www.chargepoint.com/about/opportunities/job/?gh_jid=8128543002",
+    "locations": [
+      "Los Gatos, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/ChargePoint",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
