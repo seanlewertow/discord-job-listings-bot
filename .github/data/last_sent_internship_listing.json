@@ -105237,5 +105237,74 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "BitGo",
+    "id": "85795dd1-9105-4331-acbb-6f7f27749028",
+    "title": "Winter 2026 Internship - Wallet Core",
+    "active": true,
+    "terms": [
+      "Winter 2026"
+    ],
+    "date_updated": 1755929347,
+    "date_posted": 1755929347,
+    "url": "https://job-boards.greenhouse.io/bitgointernships/jobs/8133819002",
+    "locations": [
+      "Kitchener, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/BitGo",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "BitGo",
+    "id": "d708ee93-5aea-458d-9de8-30594edfebdd",
+    "title": "Internship - Crypto as a Service & Staking",
+    "active": true,
+    "terms": [
+      "Winter 2026"
+    ],
+    "date_updated": 1755929340,
+    "date_posted": 1755929340,
+    "url": "https://job-boards.greenhouse.io/bitgointernships/jobs/8133823002",
+    "locations": [
+      "Kitchener, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/BitGo",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "BitGo",
+    "id": "34d9d7c5-a28e-40ae-b54e-39eea673438d",
+    "title": "Winter 2026 Internship - Hsm Team",
+    "active": true,
+    "terms": [
+      "Winter 2026"
+    ],
+    "date_updated": 1755929341,
+    "date_posted": 1755929341,
+    "url": "https://job-boards.greenhouse.io/bitgointernships/jobs/8133783002",
+    "locations": [
+      "Kitchener, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/BitGo",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
