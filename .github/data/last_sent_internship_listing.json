@@ -106835,5 +106835,76 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Other",
+    "company_name": "Entrust",
+    "id": "94f59f77-7cb1-4f72-810a-310488135b4d",
+    "title": "Intern \u2013 Pki Pqc",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1756161916,
+    "date_posted": 1756161916,
+    "url": "https://entrust.wd1.myworkdayjobs.com/entrustcareers/job/Canada---Quebec-Field/Intern---PKI-PQC_R003715-1",
+    "locations": [
+      "Ottawa, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Entrust",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "GE Appliances",
+    "id": "eee6c9da-def1-454b-8f5d-8acac504abee",
+    "title": "Software Engineering Co-op",
+    "active": true,
+    "terms": [
+      "Summer 2026",
+      "Winter 2026"
+    ],
+    "date_updated": 1756161807,
+    "date_posted": 1756161807,
+    "url": "https://haier.wd3.myworkdayjobs.com/ge_appliances/job/USA-Louisville-KY/Software-Engineering-Co-op-Fall-2026_REQ-23563",
+    "locations": [
+      "Louisville, KY"
+    ],
+    "company_url": "https://simplify.jobs/c/GE-Appliances",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Prudential Financial",
+    "id": "6e55445b-b43a-48d2-ac73-f1bb4086b41f",
+    "title": "PGIM: 2026 Technology Internship Program",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1756161529,
+    "date_posted": 1756161529,
+    "url": "https://pru.wd5.myworkdayjobs.com/en-US/Careers/job/Newark-NJ-USA/PGIM--2026-Technology-Internship-Program_R-121813-1",
+    "locations": [
+      "Tampa, FL",
+      "Newark, NJ"
+    ],
+    "company_url": "https://simplify.jobs/c/Prudential-Financial",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
