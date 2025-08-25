@@ -106162,5 +106162,152 @@
       "Bachelor's",
       "Master's"
     ]
+  },
+  {
+    "date_updated": 1756137558,
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "degrees": [
+      "Bachelor's"
+    ],
+    "url": "https://www.google.com/about/careers/applications/jobs/results/75808725415142086-software-engineering-intern-bs-summer-2026",
+    "company_name": "Google",
+    "title": "Software Engineering Intern, BS",
+    "locations": [
+      "Mountain View, CA",
+      "Atlanta, GA",
+      "Austin, TX",
+      "Boulder, CO",
+      "Cambridge, MA",
+      "Bellevue, WA",
+      "Chicago, IL",
+      "Irvine, CA",
+      "Kirkland, WA",
+      "Los Angeles, CA",
+      "Madison, WI",
+      "New York, NY",
+      "Palo Alto, CA",
+      "Portland, OR",
+      "Pittsburgh, PA",
+      "Raleigh, NC",
+      "Durham, NC",
+      "Reston, VA",
+      "Redmond, WA",
+      "Redwood City, CA",
+      "San Diego, CA",
+      "Goleta, CA",
+      "San Bruno, CA",
+      "Seattle, WA",
+      "San Francisco, CA",
+      "San Jose, CA",
+      "Santa Cruz, CA",
+      "South San Francisco, CA",
+      "Sunnyvale, CA",
+      "Washington D.C., DC"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "category": "Software Engineering",
+    "source": "matthewjyhan",
+    "id": "2ae9da01-9044-416d-a195-f91749956a2e",
+    "date_posted": 1756137558,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "State Street",
+    "id": "763e90ca-f42e-40b1-868a-471f9d15be99",
+    "title": "Audit Data Analyst Internship - Part Time",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1756137886,
+    "date_posted": 1756137886,
+    "url": "https://statestreet.wd1.myworkdayjobs.com/global/job/Boston-Massachusetts/Audit-Data-Analyst-Internship---Part-Time_R-777176",
+    "locations": [
+      "Boston, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/b1ace7d2-f176-42c0-aae7-5a77e601e7ff",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "LPL Financial Holdings",
+    "id": "e2fa42af-3aa1-4293-bee7-abd916607158",
+    "title": "FAR Program Internship - Internal Audit-Data Analytics",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1756137675,
+    "date_posted": 1756137675,
+    "url": "https://lplfinancial.wd1.myworkdayjobs.com/en-US/External/job/Fort-MillCharlotte/FAR-Program--Summer-2026-Internship---Internal-Audit--Data-Analytics--DA-_R-045692-2",
+    "locations": [
+      "Fort Mill, SC",
+      "Charlotte, NC"
+    ],
+    "company_url": "https://simplify.jobs/c/LPL-Financial-Holdings",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "LPL Financial Holdings",
+    "id": "7ffb801b-bfa4-469e-b5b3-a20c384d5f15",
+    "title": "FAR Program: Internship - Data Analytics",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1756137673,
+    "date_posted": 1756137673,
+    "url": "https://lplfinancial.wd1.myworkdayjobs.com/en-US/External/job/FAR-Program--Summer-2026-Internship---Data-Analytics_R-045030-2",
+    "locations": [
+      "Fort Mill, SC",
+      "Charlotte, NC"
+    ],
+    "company_url": "https://simplify.jobs/c/LPL-Financial-Holdings",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Other",
+    "company_name": "LPL Financial Holdings",
+    "id": "5332eca4-7a1f-4e49-ac7d-f3249b4ee54e",
+    "title": "FAR Program: Summer 2026 Internship - Internal Audit-Information Technology - IT",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1756137680,
+    "date_posted": 1756137680,
+    "url": "https://lplfinancial.wd1.myworkdayjobs.com/en-US/External/job/Fort-MillCharlotte/FAR-Program--Summer-2026-Internship---Internal-Audit--Information-Technology--IT-_R-045695-1",
+    "locations": [
+      "Fort Mill, SC",
+      "Charlotte, NC"
+    ],
+    "company_url": "https://simplify.jobs/c/LPL-Financial-Holdings",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
