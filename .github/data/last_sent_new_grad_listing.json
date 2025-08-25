@@ -22310,5 +22310,41 @@
     "date_posted": 1756110970,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "date_updated": 1756111175,
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "degrees": [],
+    "url": "https://job-boards.greenhouse.io/lucidsoftware/jobs/5628852004",
+    "company_name": "Lucid Software",
+    "title": "Junior Frontend Engineer, airfocus",
+    "locations": [
+      "Hamburg, DE"
+    ],
+    "category": "Software Engineering",
+    "source": "AlmondCroffle",
+    "id": "1c05e666-373c-4781-beed-494338a2489e",
+    "date_posted": 1756111175,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1756111332,
+    "sponsorship": "Other",
+    "active": true,
+    "degrees": [],
+    "url": "https://jobs.lever.co/life/99fdfce1-f0d6-48f8-8ad8-b22b4d6561bf",
+    "company_name": "YouVersion",
+    "title": "Associate Software Engineer",
+    "locations": [
+      "Edmond, OK"
+    ],
+    "category": "Software Engineering",
+    "source": "AlmondCroffle",
+    "id": "4d488c7c-f9ed-4332-9ead-14752708070d",
+    "date_posted": 1756111332,
+    "company_url": "",
+    "is_visible": true
   }
 ]
