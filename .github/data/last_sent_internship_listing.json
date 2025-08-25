@@ -105405,5 +105405,29 @@
     "date_posted": 1756048129,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "ByteDance",
+    "id": "df0d29e3-c6f3-49d6-96ec-eb7ff567d037",
+    "title": "Global Monetization Strategy and Analytics Intern - Mso - BS/MS",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1756090671,
+    "date_posted": 1756090671,
+    "url": "https://jobs.bytedance.com/en/position/7533673691735361799/detail",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/ByteDance",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
   }
 ]
