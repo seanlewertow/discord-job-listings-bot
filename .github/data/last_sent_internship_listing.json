@@ -106635,5 +106635,158 @@
     "date_posted": 1756147463,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "source": "Simplify",
+    "category": "Other",
+    "company_name": "FM Global",
+    "id": "13497c17-150d-414a-8918-065ceac5d188",
+    "title": "Identity Services Co-Op Spring 2026",
+    "active": true,
+    "terms": [
+      "Winter 2026",
+      "Spring 2026"
+    ],
+    "date_updated": 1756159845,
+    "date_posted": 1756159845,
+    "url": "https://jobs-fmglobal.icims.com/jobs/15865/job",
+    "locations": [
+      "Providence, RI"
+    ],
+    "company_url": "https://simplify.jobs/c/FM-Global",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Other",
+    "company_name": "FM Global",
+    "id": "09529476-b14a-45ef-838c-43c96be1ff92",
+    "title": "Cyber Specialist Co-Op Spring 2026",
+    "active": true,
+    "terms": [
+      "Winter 2026",
+      "Spring 2026"
+    ],
+    "date_updated": 1756159841,
+    "date_posted": 1756159841,
+    "url": "https://jobs-fmglobal.icims.com/jobs/15866/job",
+    "locations": [
+      "Providence, RI"
+    ],
+    "company_url": "https://simplify.jobs/c/FM-Global",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Other",
+    "company_name": "Equitable Holdings",
+    "id": "dc67bb50-4caa-410c-baf4-8f197e0cf9fc",
+    "title": "2026 Summer Intern - Information Technology",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1756129546,
+    "date_posted": 1756129546,
+    "url": "https://equitable.taleo.net/careersection/eqh_1/jobdetail.ftl?job=250000EE",
+    "locations": [
+      "Charlotte, NC",
+      "Syracuse, NY"
+    ],
+    "company_url": "https://simplify.jobs/c/Equitable-Holdings",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "date_updated": 1756160613,
+    "sponsorship": "Does Not Offer Sponsorship",
+    "active": true,
+    "degrees": [
+      "Bachelor's"
+    ],
+    "url": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=53118&recommendation=&source=WEB_Search_NA&tags=&user=&formValues=",
+    "company_name": "IBM",
+    "title": "AI Engineer Intern",
+    "locations": [
+      "Austin, TX",
+      "Chicago, IL",
+      "Dallas, TX",
+      "New York, NY",
+      "Research Triangle Park, NC",
+      "San Francisco, CA",
+      "Washington, DC"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "category": "Software Engineering",
+    "source": "unvibingcode",
+    "id": "ec14baa0-ecc5-4b94-86bc-ee1c03cf3593",
+    "date_posted": 1756160613,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1756160925,
+    "sponsorship": "Does Not Offer Sponsorship",
+    "active": true,
+    "degrees": [
+      "Bachelor's"
+    ],
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/details/Boeing-Summer-2026-Internship-Program--Paid----Information-Digital-Technology---Security--IDT-S-_JR2025469144-1",
+    "company_name": "Boeing",
+    "title": "Information Digital Technology & Security Intern",
+    "locations": [
+      "Auburn, WA",
+      "Arlington, VA",
+      "Atlanta, GA",
+      "Bellevue, WA",
+      "Berkeley, MO",
+      "Charleston, SC",
+      "Chicago, IL",
+      "Colorado Springs, CO",
+      "Dallas, TX",
+      "El Segundo, CA",
+      "Everett, WA",
+      "Fairfax, VA",
+      "Hazelwood, MO",
+      "Herndon, VA",
+      "Huntington Beach, CA",
+      "Huntsville, AL",
+      "Kent, WA",
+      "Long Beach, CA",
+      "Mesa, AZ",
+      "Mukilteo, WA",
+      "North Charleston, SC",
+      "Oklahoma City, OK",
+      "Plano, TX",
+      "Renton, WA",
+      "Ridley Park, PA",
+      "Saint Charles, MO",
+      "San Antonio, TX",
+      "Seattle, WA",
+      "Seal Beach, CA",
+      "Tukwila, WA"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "category": "Software Engineering",
+    "source": "unvibingcode",
+    "id": "3783a82b-74d4-448c-a218-33a6b681fbe5",
+    "date_posted": 1756160925,
+    "company_url": "",
+    "is_visible": true
   }
 ]
