@@ -106788,5 +106788,52 @@
     "date_posted": 1756160925,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "source": "Simplify",
+    "category": "Other",
+    "company_name": "CannonDesign",
+    "id": "be4e0994-807c-48d7-9be6-d350eedd58ab",
+    "title": "Service Desk Analyst Intern",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1756133383,
+    "date_posted": 1756133383,
+    "url": "http://www.cannondesign.com/careers/?gh_jid=8133116002",
+    "locations": [
+      "Denver, CO"
+    ],
+    "company_url": "https://simplify.jobs/c/Cannon-Design",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Associate's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "L3Harris Technologies",
+    "id": "f921c337-802c-4c7c-8021-0ae9d61bbfdf",
+    "title": "IRAD and New Technologies Intern",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1756132309,
+    "date_posted": 1756132309,
+    "url": "https://jobs.l3harris.com/job/Waco-IRAD-and-New-Technologies-Intern-Fall-2025-(Waco,-TX)-TX-76705/1319761500/?ats=successfactors",
+    "locations": [
+      "Waco, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
