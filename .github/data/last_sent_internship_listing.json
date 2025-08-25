@@ -105855,5 +105855,77 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "date_updated": 1756111635,
+    "sponsorship": "Other",
+    "active": true,
+    "degrees": [
+      "Bachelor's"
+    ],
+    "url": "https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Chicago-IL/Supply-Chain-Data-Analyst-Internship-2026_R56900",
+    "company_name": "Motorola Solutions",
+    "title": "Supply Chain Data Analyst Internship",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "terms": [
+      "Fall 2026",
+      "Spring 2026",
+      "Winter 2026",
+      "Summer 2026"
+    ],
+    "category": "Data Science, AI & Machine Learning",
+    "source": "AlmondCroffle",
+    "id": "f14d6fc0-ec6c-40ab-9998-dd4c4970c0b3",
+    "date_posted": 1756111635,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1756111885,
+    "sponsorship": "U.S. Citizenship is Required",
+    "active": true,
+    "degrees": [
+      "Bachelor's"
+    ],
+    "url": "https://qtsdatacenters.wd5.myworkdayjobs.com/en-US/qts/job/Suwanee-GA/Summer-2026--Enterprise-Applications-Intern_R2025-0973",
+    "company_name": "QTS",
+    "title": "Enterprise Applications Intern",
+    "locations": [
+      "Suwanee, GA"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "category": "Other",
+    "source": "AlmondCroffle",
+    "id": "e3fc4320-562c-40a0-a251-2158620c682f",
+    "date_posted": 1756111846,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1756111965,
+    "sponsorship": "U.S. Citizenship is Required",
+    "active": true,
+    "degrees": [
+      "Bachelor's"
+    ],
+    "url": "https://qtsdatacenters.wd5.myworkdayjobs.com/en-US/qts/job/Atlanta-GA/Summer-2026-Development-Project-Intern_R2025-0951",
+    "company_name": "QTS",
+    "title": "Development Project Intern",
+    "locations": [
+      "Atlanta, GA"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "category": "Hardware Engineering",
+    "source": "AlmondCroffle",
+    "id": "b2719784-85b4-4670-8778-6df32f8f103b",
+    "date_posted": 1756111965,
+    "company_url": "",
+    "is_visible": true
   }
 ]
