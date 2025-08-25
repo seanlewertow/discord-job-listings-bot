@@ -105429,5 +105429,102 @@
       "Bachelor's",
       "Master's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Johnson & Johnson",
+    "id": "fae3ac45-3929-4b91-b778-ac0866ea8b29",
+    "title": "Technology Fall Co-Op",
+    "active": true,
+    "terms": [
+      "Summer 2026",
+      "Winter 2026"
+    ],
+    "date_updated": 1756104407,
+    "date_posted": 1756104407,
+    "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/US174-NJ-New-Brunswick---410-George-St/Technology-2026-Fall-Co-Op_R-029591",
+    "locations": [
+      "New Hope, PA",
+      "West Chester, PA",
+      "Bridgewater Township, NJ",
+      "Horsham, PA",
+      "Irvine, CA",
+      "Santa Clara, CA",
+      "Edison, NJ",
+      "Ambler, PA"
+    ],
+    "company_url": "https://simplify.jobs/c/Johnson-Johnson",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Johnson & Johnson",
+    "id": "c8b989a3-4021-4c2b-9251-971f46e60e4f",
+    "title": "Technology Co-Op",
+    "active": true,
+    "terms": [
+      "Winter 2026",
+      "Summer 2026"
+    ],
+    "date_updated": 1756104408,
+    "date_posted": 1756104408,
+    "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/New-Brunswick-New-Jersey-United-States-of-America/Technology-2026-Spring-Co-Op_R-029603",
+    "locations": [
+      "New Hope, PA",
+      "West Chester, PA",
+      "Bridgewater Township, NJ",
+      "Horsham, PA",
+      "Irvine, CA",
+      "Santa Clara, CA",
+      "Edison, NJ",
+      "Ambler, PA"
+    ],
+    "company_url": "https://simplify.jobs/c/Johnson-Johnson",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Johnson & Johnson",
+    "id": "71e87491-1545-4f98-bfca-5c4330d53e09",
+    "title": "Technology 2026 Summer Internship",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1756104409,
+    "date_posted": 1756104409,
+    "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/New-Brunswick-New-Jersey-United-States-of-America/Technology-2026-Summer-Internship_R-029613",
+    "locations": [
+      "New Hope, PA",
+      "West Chester, PA",
+      "Bridgewater Township, NJ",
+      "Horsham, PA",
+      "Irvine, CA",
+      "Santa Clara, CA",
+      "Edison, NJ",
+      "Ambler, PA",
+      "Jacksonville, FL",
+      "Palm Beach Gardens, FL"
+    ],
+    "company_url": "https://simplify.jobs/c/Johnson-Johnson",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
   }
 ]
