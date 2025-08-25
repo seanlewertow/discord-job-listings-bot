@@ -105656,5 +105656,121 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "PricewaterhouseCoopers (PwC)",
+    "id": "54adf01a-c62e-40d5-b5ac-122f19ae59b0",
+    "title": "Cloud Engineering \u2013 Data Science Intern - Data & Analytics",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1756107209,
+    "date_posted": 1756107209,
+    "url": "https://pwc.wd3.myworkdayjobs.com/en-US/US_Entry_Level_Careers/job/IL-Rosemont/Cloud-Engineering--Data---Analytics----Data-Science-Intern---Summer-2026_658436WD",
+    "locations": [
+      "Boston, MA",
+      "Seattle, WA",
+      "Houston, TX",
+      "Washington, DC",
+      "SF",
+      "LA",
+      "Dallas, TX",
+      "Philadelphia, PA",
+      "Chicago, IL",
+      "Norridge, IL",
+      "NYC",
+      "Minneapolis, MN",
+      "Mountain View, CA",
+      "Atlanta, GA"
+    ],
+    "company_url": "https://simplify.jobs/c/PwC",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "PricewaterhouseCoopers (PwC)",
+    "id": "9e0ee1f7-506f-4b51-8418-7d6bc9f30ac5",
+    "title": "Deals \u2013 Diligence Analytics Intern",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1756106864,
+    "date_posted": 1756106864,
+    "url": "https://pwc.wd3.myworkdayjobs.com/en-US/US_Entry_Level_Careers/job/IL-Rosemont/Deals---Diligence-Analytics-Intern---Summer-2026_658678WD",
+    "locations": [
+      "SF",
+      "Norridge, IL",
+      "NYC",
+      "Atlanta, GA"
+    ],
+    "company_url": "https://simplify.jobs/c/PwC",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Williams",
+    "id": "c1c95394-2ca9-49de-8956-bf506175eef6",
+    "title": "Summer 2026 Internship",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1756106675,
+    "date_posted": 1756106675,
+    "url": "https://williams.wd5.myworkdayjobs.com/External/job/OK-Tulsa---Headquarters/Summer-2026-Internship---University-of-Oklahoma_R110758",
+    "locations": [
+      "Salt Lake City, UT",
+      "Houston, TX",
+      "Pittsburgh, PA",
+      "Tulsa, OK"
+    ],
+    "company_url": "https://simplify.jobs/c/Williams",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Williams",
+    "id": "be91cc94-ecfe-4d92-8cd9-d4f8b00b15d3",
+    "title": "Summer 2026 Internship",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1756106673,
+    "date_posted": 1756106673,
+    "url": "https://williams.wd5.myworkdayjobs.com/External/job/OK-Tulsa---Headquarters/Summer-2026-Internship---University-of-Tulsa_R110759",
+    "locations": [
+      "Salt Lake City, UT",
+      "Houston, TX",
+      "Pittsburgh, PA",
+      "Tulsa, OK"
+    ],
+    "company_url": "https://simplify.jobs/c/Williams",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
   }
 ]
