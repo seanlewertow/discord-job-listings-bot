@@ -106906,5 +106906,82 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Skyworks",
+    "id": "ebc9f8ca-fd9a-48f1-8f2f-7f4471de3b61",
+    "title": "Embedded Firmware-Summer/Fall Co-Op",
+    "active": true,
+    "terms": [
+      "Summer 2026",
+      "Fall 2026"
+    ],
+    "date_updated": 1756163480,
+    "date_posted": 1756163480,
+    "url": "https://careers.skyworksinc.com/job/Hillsboro-Embedded-Firmware-SummerFall-Co-Op-(2026)-OR-97006/1319964300/?ats=successfactors",
+    "locations": [
+      "Hillsboro, OR"
+    ],
+    "company_url": "https://simplify.jobs/c/Skyworks",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "PhD"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Skyworks",
+    "id": "9cbe805c-efa5-49da-ba05-3327bccb26b7",
+    "title": "Embedded Firmware Co-Op",
+    "active": true,
+    "terms": [
+      "Winter 2026",
+      "Spring 2026"
+    ],
+    "date_updated": 1756163475,
+    "date_posted": 1756163475,
+    "url": "https://careers.skyworksinc.com/job/Hillsboro-Embedded-Firmware-Co-Op-(Winter-Spring-2026-OR-97006/1319994300/?ats=successfactors",
+    "locations": [
+      "Hillsboro, OR"
+    ],
+    "company_url": "https://simplify.jobs/c/Skyworks",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "PhD"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Skyworks",
+    "id": "83d267be-2e83-4cf6-bad3-a64b43ee0757",
+    "title": "Audio AI Engineering",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1756163478,
+    "date_posted": 1756163478,
+    "url": "https://careers.skyworksinc.com/job/Hillsboro-Audio-AI-Engineering-Summer-Intern-2026-OR-97006/1319944600/?ats=successfactors",
+    "locations": [
+      "Hillsboro, OR"
+    ],
+    "company_url": "https://simplify.jobs/c/Skyworks",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "PhD"
+    ]
   }
 ]
