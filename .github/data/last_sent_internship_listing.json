@@ -106091,5 +106091,76 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Arrowstreet Capital",
+    "id": "a2c236a0-e8fa-4b7c-9b43-f10356184549",
+    "title": "Quantitative Researcher Intern",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1756136521,
+    "date_posted": 1756136521,
+    "url": "https://arrowstreetcapital.wd5.myworkdayjobs.com/en-US/Arrowstreet/job/Boston/Quantitative-Researcher-Intern--Summer-2026_R1340-1",
+    "locations": [
+      "Boston, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/Arrowstreet-Capital",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Other",
+    "company_name": "Markel Group, Inc.",
+    "id": "41b39b9b-800e-4d3c-8c0d-8adbbd236eb3",
+    "title": "IT Internship Program",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1756136442,
+    "date_posted": 1756136442,
+    "url": "https://markelcorp.wd5.myworkdayjobs.com/GlobalCareers/job/Richmond-VA/XMLNAME-2026-IT-Internship-Program_R0021409",
+    "locations": [
+      "Richmond, VA"
+    ],
+    "company_url": "https://simplify.jobs/c/Markel-Group",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Arrowstreet Capital",
+    "id": "22e7c000-9052-433e-9baa-a490abf5fe73",
+    "title": "Quantitative Developer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1756136525,
+    "date_posted": 1756136525,
+    "url": "https://arrowstreetcapital.wd5.myworkdayjobs.com/en-US/Arrowstreet/job/Boston/Quantitative-Developer-Intern--Summer-2026_R1338-1",
+    "locations": [
+      "Boston, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/Arrowstreet-Capital",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
   }
 ]
