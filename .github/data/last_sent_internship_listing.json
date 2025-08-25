@@ -106309,5 +106309,56 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "The Federal Reserve System",
+    "id": "8dce2a3e-1794-4397-9615-0cd7fd341c0d",
+    "title": "Technical Internship",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1756140381,
+    "date_posted": 1756140381,
+    "url": "https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Richmond-VA/Federal-Reserve-Summer-2026-Technical-Internship_R-0000030022",
+    "locations": [
+      "Richmond, VA"
+    ],
+    "company_url": "https://simplify.jobs/c/6a7a42d3-327f-4b48-a7a7-c68f405e3396",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "PricewaterhouseCoopers (PwC)",
+    "id": "204eb4f0-7cf2-4da5-872c-e0cfb6f8b2cb",
+    "title": "Digital Assurance & Transparency \u2013 Data Intern - Dat",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1756140062,
+    "date_posted": 1756140062,
+    "url": "https://pwc.wd3.myworkdayjobs.com/en-US/US_Entry_Level_Careers/job/IL-Rosemont/Digital-Assurance---Transparency--DAT--Data-Intern---Summer-2026_555212WD",
+    "locations": [
+      "Boston, MA",
+      "SF",
+      "LA",
+      "Dallas, TX",
+      "Norridge, IL",
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/PwC",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
