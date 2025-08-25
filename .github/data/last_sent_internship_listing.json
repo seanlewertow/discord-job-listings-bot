@@ -105772,5 +105772,88 @@
       "Bachelor's",
       "Master's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "PricewaterhouseCoopers (PwC)",
+    "id": "babf9eea-59bd-4e8b-83f5-6d39483cd42d",
+    "title": "Data & Analytics Technology Consulting Intern",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1756107568,
+    "date_posted": 1756107568,
+    "url": "https://pwc.wd3.myworkdayjobs.com/en-US/US_Entry_Level_Careers/job/IL-Rosemont/Data---Analytics-Technology-Consulting-Intern---Summer-2026_658980WD",
+    "locations": [
+      "Boston, MA",
+      "Washington, DC",
+      "Chicago, IL",
+      "Norridge, IL",
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/PwC",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Hewlett Packard Enterprise",
+    "id": "87600012-fe9b-444d-be93-06426be1b725",
+    "title": "Software Engineering Intern",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1756107515,
+    "date_posted": 1756107515,
+    "url": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Roseville-California-United-States-of-America/Software-Engineering-Intern_1193025",
+    "locations": [
+      "Roseville, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Hewlett-Packard-Enterprise",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "PricewaterhouseCoopers (PwC)",
+    "id": "975e8623-3425-43a6-b9e9-d45f0e267245",
+    "title": "Commercial Technology & Innovation Office \u2013 Software Engineering Intern",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1756107392,
+    "date_posted": 1756107392,
+    "url": "https://pwc.wd3.myworkdayjobs.com/en-US/US_Entry_Level_Careers/job/IL-Rosemont/Commercial-Technology---Innovation-Office---Software-Engineering-Intern---Summer-2026_659026WD",
+    "locations": [
+      "Boston, MA",
+      "Seattle, WA",
+      "Houston, TX",
+      "Washington, DC",
+      "Dallas, TX",
+      "Philadelphia, PA",
+      "Chicago, IL",
+      "Norridge, IL",
+      "NYC",
+      "Minneapolis, MN",
+      "Atlanta, GA"
+    ],
+    "company_url": "https://simplify.jobs/c/PwC",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
