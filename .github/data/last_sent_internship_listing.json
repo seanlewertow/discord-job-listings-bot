@@ -106477,5 +106477,163 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "date_updated": 1756147274,
+    "sponsorship": "Does Not Offer Sponsorship",
+    "active": true,
+    "degrees": [
+      "Bachelor's"
+    ],
+    "url": "https://www.careers.jnj.com/en/jobs/r-029613/technology-2026-summer-internship/",
+    "company_name": "Johnson & Johnson",
+    "title": "Technology 2026 Summer Internship",
+    "locations": [
+      "Fort Washington, PA",
+      "Horsham, PA",
+      "Irvine, CA",
+      "Jacksonville, FL",
+      "New Brunswick, NJ",
+      "Palm Beach Gardens, FL",
+      "Raritan, NJ",
+      "Santa Clara, CA",
+      "Spring House, PA",
+      "Titusville, NJ",
+      "West Chester, PA"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "category": "Software Engineering",
+    "source": "unvibingcode",
+    "id": "f9014a2d-89a4-4e5d-b480-446a4afd029b",
+    "date_posted": 1756147274,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1756147287,
+    "sponsorship": "Other",
+    "active": true,
+    "degrees": [
+      "Bachelor's"
+    ],
+    "url": "https://www.google.com/about/careers/applications/jobs/results/139918130284503750-software-developer-intern-bs-summer-2026",
+    "company_name": "Google",
+    "title": "Software Developer Intern, BS",
+    "locations": [
+      "Waterloo, ON",
+      "Montreal, QC",
+      "Toronto, ON"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "category": "Software Engineering",
+    "source": "unvibingcode",
+    "id": "7db8e889-8800-4db3-b5db-e25e16876a42",
+    "date_posted": 1756147287,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1756147337,
+    "sponsorship": "Other",
+    "active": true,
+    "degrees": [
+      "Bachelor's"
+    ],
+    "url": "https://careers.tranetechnologies.com/global/en/job/2505323/Systems-Engineer-Intern",
+    "company_name": "Trane Technologies",
+    "title": "Systems Engineer Intern",
+    "locations": [
+      "St. Paul, MA"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "category": "Software Engineering",
+    "source": "unvibingcode",
+    "id": "ebeb50cb-79fd-406e-980f-541b11d822bb",
+    "date_posted": 1756147337,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1756147376,
+    "sponsorship": "Other",
+    "active": true,
+    "degrees": [
+      "Master's"
+    ],
+    "url": "https://www.google.com/about/careers/applications/jobs/results/117118476782314182-software-engineering-intern-ms-summer-2026",
+    "company_name": "Google",
+    "title": "Software Engineering Intern",
+    "locations": [
+      "Atlanta, GA",
+      "Austin, TX",
+      "Bellevue, WA",
+      "Boulder, CO",
+      "Cambridge, MA",
+      "Chicago, IL",
+      "Durham, NC",
+      "Goleta, CA",
+      "Irvine, CA",
+      "Kirkland, WA",
+      "Los Angeles, CA",
+      "Madison, WI",
+      "Mountain View, CA",
+      "New York, NY",
+      "Palo Alto, CA",
+      "Pittsburgh, PA",
+      "Portland, OR",
+      "Raleigh, NC",
+      "Redmond, WA",
+      "Redwood City, CA",
+      "Reston, VA",
+      "San Bruno, CA",
+      "San Diego, CA",
+      "San Francisco, CA",
+      "San Jose, CA",
+      "Santa Cruz, CA",
+      "Seattle, WA",
+      "South San Francisco, CA",
+      "Sunnyvale, CA",
+      "Washington D.C., DC"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "category": "Software Engineering",
+    "source": "unvibingcode",
+    "id": "2ede085e-de7a-4176-ad86-59237e9a97f7",
+    "date_posted": 1756147376,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1756147463,
+    "sponsorship": "Other",
+    "active": true,
+    "degrees": [
+      "Master's"
+    ],
+    "url": "https://www.google.com/about/careers/applications/jobs/results/83033753760211654-software-developer-intern-ms-summer-2026",
+    "company_name": "Google",
+    "title": "Software Developer Intern, MS",
+    "locations": [
+      "Waterloo, ON",
+      "Montreal, QC",
+      "Toronto, ON"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "category": "Software Engineering",
+    "source": "unvibingcode",
+    "id": "bb9c2c1a-864d-40ff-82f1-0c4ae20191ca",
+    "date_posted": 1756147463,
+    "company_url": "",
+    "is_visible": true
   }
 ]
