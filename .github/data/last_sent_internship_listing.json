@@ -105996,5 +105996,76 @@
     "date_posted": 1756112433,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "date_updated": 1756113973,
+    "sponsorship": "Other",
+    "active": true,
+    "degrees": [
+      "Bachelor's"
+    ],
+    "url": "https://www.tesla.com/careers/search/job/248805",
+    "company_name": "Tesla",
+    "title": "Commercial UI Software Engineer, Energy Engineering",
+    "locations": [
+      "Palo Alto, CA"
+    ],
+    "terms": [
+      "Winter 2026",
+      "Spring 2026"
+    ],
+    "category": "Software Engineering",
+    "source": "AlmondCroffle",
+    "id": "f52291a1-98fd-4a87-838d-74f8200e857f",
+    "date_posted": 1756113973,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1756114044,
+    "sponsorship": "Other",
+    "active": true,
+    "degrees": [
+      "Bachelor's"
+    ],
+    "url": "https://www.tesla.com/careers/search/job/248920",
+    "company_name": "Tesla",
+    "title": "https://github.com/SimplifyJobs/Summer2026-Internships/issues/5677",
+    "locations": [
+      "Palo Alto, CA"
+    ],
+    "terms": [
+      "Winter 2026",
+      "Spring 2026"
+    ],
+    "category": "Data Science, AI & Machine Learning",
+    "source": "AlmondCroffle",
+    "id": "e234c95d-5eec-4042-a20e-79da80592a12",
+    "date_posted": 1756114044,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1756114144,
+    "sponsorship": "Other",
+    "active": true,
+    "degrees": [
+      "Bachelor's"
+    ],
+    "url": "https://jobs.ashbyhq.com/zip/83c0a4d8-7a88-4921-be8e-347ba3f3bedd",
+    "company_name": "Zip",
+    "title": "Software Engineer Intern",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "category": "Software Engineering",
+    "source": "AlmondCroffle",
+    "id": "aceec36b-e052-461c-a4de-be76d84735c8",
+    "date_posted": 1756114144,
+    "company_url": "",
+    "is_visible": true
   }
 ]
