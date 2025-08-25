@@ -107054,5 +107054,53 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "RTX",
+    "id": "d7475686-f5dd-42cd-b63f-315d5c99a093",
+    "title": "Stage \u2013 Hiver - Automation solutions Developer",
+    "active": true,
+    "terms": [
+      "Winter 2026",
+      "Spring 2026"
+    ],
+    "date_updated": 1756165276,
+    "date_posted": 1756165276,
+    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/LOC13052-1000-Boul-Marie-VictorinLongueuilQuebecJ4G-1A1Canada/Stage---Hiver---Dveloppeur-Solutions-d-Automatisation--Internship--Winter---Automation-solutions-Developer_01783754-1",
+    "locations": [
+      "Longueuil, QC, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/RTX",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "RTX",
+    "id": "3667531e-c43a-4159-8a6c-759f29868a0a",
+    "title": "Summer Intern - Modeling and Simulation Engineer",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1756165155,
+    "date_posted": 1756165155,
+    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/AZ805-RMS-AP-Bldg-805-1151-East-Hermans-Road-Building-805-Tucson-AZ-85756-USA/XMLNAME-2026-Raytheon-Summer-Intern---Modeling-and-Simulation-Engineer---Onsite_01788508",
+    "locations": [
+      "Tucson, AZ"
+    ],
+    "company_url": "https://simplify.jobs/c/RTX",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
   }
 ]
