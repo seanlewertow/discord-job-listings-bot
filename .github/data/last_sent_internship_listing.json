@@ -105927,5 +105927,74 @@
     "date_posted": 1756111965,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "date_updated": 1756112164,
+    "sponsorship": "U.S. Citizenship is Required",
+    "active": true,
+    "degrees": [
+      "Bachelor's"
+    ],
+    "url": "https://qtsdatacenters.wd5.myworkdayjobs.com/en-US/qts/job/Summer-2026-Internship--IT-Asset-Management_R2025-0980",
+    "company_name": "QTS",
+    "title": "IT Asset Management",
+    "locations": [
+      "Suwanee, GA"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "category": "Other",
+    "source": "AlmondCroffle",
+    "id": "268d220f-5826-4389-bc04-738dcd8e743c",
+    "date_posted": 1756112164,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1756112273,
+    "sponsorship": "U.S. Citizenship is Required",
+    "active": true,
+    "degrees": [
+      "Bachelor's"
+    ],
+    "url": "https://qtsdatacenters.wd5.myworkdayjobs.com/en-US/qts/job/Summer-2026-Internship--Technology-Project-Management_R2025-0981-1",
+    "company_name": "QTS",
+    "title": "Technology Project Management",
+    "locations": [
+      "Suwanee, GA"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "category": "Other",
+    "source": "AlmondCroffle",
+    "id": "6d061905-d565-42a8-8f7f-20e21be092d2",
+    "date_posted": 1756112273,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1756112433,
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "degrees": [
+      "Bachelor's"
+    ],
+    "url": "https://jobs.eu.lever.co/cirrus/61217b55-e2f9-410d-8758-4847fbf80720",
+    "company_name": "Cirrus Logic",
+    "title": "Software Tools Developer",
+    "locations": [
+      "Austin, TX"
+    ],
+    "terms": [
+      "Spring 2026"
+    ],
+    "category": "Other",
+    "source": "AlmondCroffle",
+    "id": "e34a2c74-63a5-4d4e-a109-1992e42bfbea",
+    "date_posted": 1756112433,
+    "company_url": "",
+    "is_visible": true
   }
 ]
