@@ -105526,5 +105526,135 @@
       "Bachelor's",
       "Master's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "PricewaterhouseCoopers (PwC)",
+    "id": "1187e0ac-9ebe-4c67-84c4-c08208f0fab0",
+    "title": "Commercial Technology & Innovation Office \u2013 AI Data Science Intern",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1756105433,
+    "date_posted": 1756105433,
+    "url": "https://pwc.wd3.myworkdayjobs.com/en-US/US_Entry_Level_Careers/job/IL-Rosemont/Commercial-Technology---Innovation-Office---AI-Data-Science-Intern---Summer-2026_659028WD",
+    "locations": [
+      "Boston, MA",
+      "Seattle, WA",
+      "Houston, TX",
+      "Washington, DC",
+      "Dallas, TX",
+      "Philadelphia, PA",
+      "Chicago, IL",
+      "Norridge, IL",
+      "NYC",
+      "Minneapolis, MN",
+      "Atlanta, GA"
+    ],
+    "company_url": "https://simplify.jobs/c/PwC",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Qorvo",
+    "id": "a9832475-137f-4a9a-9c51-391e5ac7f213",
+    "title": "Product Engineering Intern",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1756104730,
+    "date_posted": 1756104730,
+    "url": "https://careers.qorvo.com/job/Hillsboro-Product-Engineering-Intern-OR-97124/1319685000/?ats=successfactors",
+    "locations": [
+      "Hillsboro, OR"
+    ],
+    "company_url": "https://simplify.jobs/c/Qorvo",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Qorvo",
+    "id": "9119c904-fd06-4fbb-9fdc-bc478329eb4c",
+    "title": "Portfolio Management Intern",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1756104736,
+    "date_posted": 1756104736,
+    "url": "https://careers.qorvo.com/job/Greensboro-Portfolio-Management-Intern-NC-27409/1319684100/?ats=successfactors",
+    "locations": [
+      "Greensboro, NC"
+    ],
+    "company_url": "https://simplify.jobs/c/Qorvo",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "PhD"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "The Walt Disney Company",
+    "id": "be416f56-071c-4b52-a199-6bd031ce6736",
+    "title": "WDW Computer Engineering Intern",
+    "active": true,
+    "terms": [
+      "Winter 2026",
+      "Spring 2026"
+    ],
+    "date_updated": 1756104631,
+    "date_posted": 1756104631,
+    "url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Lake-Buena-Vista-FL-USA/WDW-Computer-Engineering-Intern-Spring-2026_10128688",
+    "locations": [
+      "Celebration, FL"
+    ],
+    "company_url": "https://simplify.jobs/c/Disney",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "PricewaterhouseCoopers (PwC)",
+    "id": "380658dc-9e3f-41de-8be6-a66121b41cb5",
+    "title": "Financial Crimes Unit Data & Analytics Tech Intern",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1756106354,
+    "date_posted": 1756106354,
+    "url": "https://pwc.wd3.myworkdayjobs.com/en-US/US_Entry_Level_Careers/job/IL-Rosemont/Financial-Crimes-Unit-Data---Analytics-Tech-Intern---Summer-2026_658969WD",
+    "locations": [
+      "Norridge, IL",
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/PwC",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
