@@ -106983,5 +106983,76 @@
       "Master's",
       "PhD"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "Whisper Aero",
+    "id": "7a28089f-12a9-41c6-afac-698a51fb05ca",
+    "title": "Product Marketing Intern",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1756164444,
+    "date_posted": 1756164444,
+    "url": "https://job-boards.greenhouse.io/whisperaero/jobs/4895206008",
+    "locations": [
+      "Nashville, TN"
+    ],
+    "company_url": "https://simplify.jobs/c/Whisper-Aero",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "MBA"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "PricewaterhouseCoopers (PwC)",
+    "id": "711a866f-844a-4176-83a0-3631cd3a86af",
+    "title": "Partnership Allocation and Reporting Solutions \u2013 Technology Intern - Pars",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1756164456,
+    "date_posted": 1756164456,
+    "url": "https://pwc.wd3.myworkdayjobs.com/en-US/US_Entry_Level_Careers/job/IL-Rosemont/Partnership-Allocation-and-Reporting-Solutions--PARS--Technology-Intern---Summer-2026_659790WD",
+    "locations": [
+      "Dallas, TX",
+      "Norridge, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/PwC",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Other",
+    "company_name": "Grant Thornton",
+    "id": "4d7323c3-ad87-423f-851e-c75bb3fd0340",
+    "title": "Audit IT Assurance Intern",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1756164403,
+    "date_posted": 1756164403,
+    "url": "https://ehzq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs/job/113213",
+    "locations": [
+      "Boston, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/Grant-Thornton",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
