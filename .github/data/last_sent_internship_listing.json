@@ -107681,5 +107681,30 @@
     "date_posted": 1756206958,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "The Walt Disney Company",
+    "id": "e28a505c-7867-4dcf-b3bb-1f221d3b24c0",
+    "title": "WDW Geographical Information Systems \u2013 Intern - GIS",
+    "active": true,
+    "terms": [
+      "Winter 2026",
+      "Spring 2026"
+    ],
+    "date_updated": 1756206443,
+    "date_posted": 1756104635,
+    "url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Lake-Buena-Vista-FL-USA/WDW-Geographical-Information-Systems--GIS--Intern-Spring-2026_10128696",
+    "locations": [
+      "Celebration, FL"
+    ],
+    "company_url": "https://simplify.jobs/c/Disney",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
   }
 ]
