@@ -107413,5 +107413,29 @@
       "Bachelor's",
       "Master's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "ByteDance",
+    "id": "d663945e-b8da-4cc3-8af8-940cda193979",
+    "title": "Frontend Software Engineer Intern - Web and Client - Global Payment",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1756194869,
+    "date_posted": 1756194869,
+    "url": "https://jobs.bytedance.com/en/position/7538583899431373063/detail",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/ByteDance",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
   }
 ]
