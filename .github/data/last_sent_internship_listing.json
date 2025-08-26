@@ -107942,5 +107942,123 @@
       "PhD",
       "Associate's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "BitGo",
+    "id": "fc76fd2d-c992-4e5e-b878-1590897f093a",
+    "title": "Software Engineer Intern - Fiat",
+    "active": true,
+    "terms": [
+      "Winter 2026"
+    ],
+    "date_updated": 1756246405,
+    "date_posted": 1756246405,
+    "url": "https://job-boards.greenhouse.io/bitgointernships/jobs/8139937002",
+    "locations": [
+      "Kitchener, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/BitGo",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "BitGo",
+    "id": "3c7701ba-378f-4363-a6ef-efa4494e48a9",
+    "title": "Software Engineer Intern - Trade",
+    "active": true,
+    "terms": [
+      "Winter 2026"
+    ],
+    "date_updated": 1756246407,
+    "date_posted": 1756246407,
+    "url": "https://job-boards.greenhouse.io/bitgointernships/jobs/8139848002",
+    "locations": [
+      "Kitchener, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/BitGo",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "BitGo",
+    "id": "2c39c612-7ee1-48a3-9d1e-cb7ce51d431d",
+    "title": "Software Engineer Intern - Stablecoins",
+    "active": true,
+    "terms": [
+      "Winter 2026"
+    ],
+    "date_updated": 1756246402,
+    "date_posted": 1756246402,
+    "url": "https://job-boards.greenhouse.io/bitgointernships/jobs/8139955002",
+    "locations": [
+      "Kitchener, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/BitGo",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Marsh",
+    "id": "dfa9acba-aca7-4dc5-b804-4acbb1b4aad2",
+    "title": "Data Strategy Co-op - College Program 2026",
+    "active": true,
+    "terms": [
+      "Winter 2026",
+      "Spring 2026",
+      "Summer 2026"
+    ],
+    "date_updated": 1756246286,
+    "date_posted": 1756246286,
+    "url": "https://mmc.wd1.myworkdayjobs.com/mmc/job/New-York---1166/Data-Strategy-Co-op---New-York---College-Program-2026_R_321381",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/55341c12-8fd6-4cce-8472-d15c4a3ab583",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Dominion Energy",
+    "id": "d7e26aa0-170f-45b9-83ac-bc74c03b474d",
+    "title": "Intern \u2013 ET Data Systems Analyst",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1756246254,
+    "date_posted": 1756246254,
+    "url": "https://careers.dominionenergy.com/job/GLEN-ALLEN-Intern-ET-Data-Systems-Analyst-VA-23060/1320230400/?ats=successfactors",
+    "locations": [
+      "Glen Allen, VA"
+    ],
+    "company_url": "https://simplify.jobs/c/Dominion-Energy",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
