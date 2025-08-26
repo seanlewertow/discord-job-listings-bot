@@ -108187,5 +108187,79 @@
     "degrees": [
       "PhD"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Deutsche Bank",
+    "id": "8dccf0cb-cb92-4aa6-9774-f51ad7ae405d",
+    "title": "Deutsche Bank \u2013 Deutsche Bank Internship Programme - Technology - Data and Innovation - Tdi",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1756249067,
+    "date_posted": 1756249067,
+    "url": "https://db.recsolu.com/external/requisitions/DgVKlwNjlhY8M4_JOkMEnw",
+    "locations": [
+      "Morrisville, NC"
+    ],
+    "company_url": "https://simplify.jobs/c/Deutsche-Bank",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Deutsche Bank",
+    "id": "04e7f68b-7c8f-443f-be35-f0763801c336",
+    "title": "Deutsche Bank \u2013 Deutsche Bank Internship Program - Technology - Data and Innovation - Tdi - 2026Yello Enterprise",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1756249065,
+    "date_posted": 1756249065,
+    "url": "https://db.recsolu.com/external/requisitions/Bw7mjFK6IZkEJB1Wtse0YA",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Deutsche-Bank",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "SharkNinja",
+    "id": "4733c70b-32b7-47a5-9455-05a05b8984a9",
+    "title": "Mobile App Developer Co-op",
+    "active": true,
+    "terms": [
+      "Winter 2026",
+      "Spring 2026",
+      "Summer 2026"
+    ],
+    "date_updated": 1756219563,
+    "date_posted": 1756219563,
+    "url": "https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4592691006",
+    "locations": [
+      "Needham, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/SharkNinja",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
   }
 ]
