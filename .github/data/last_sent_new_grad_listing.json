@@ -22611,5 +22611,99 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "date_updated": 1756203595,
+    "sponsorship": "Does Not Offer Sponsorship",
+    "active": true,
+    "degrees": [],
+    "url": "https://job-boards.greenhouse.io/celonis/jobs/6691703003",
+    "company_name": "Celonis",
+    "title": "Associate Value Engineer (Management Consulting for AI Implementation)",
+    "locations": [
+      "New York, NY"
+    ],
+    "category": "Other",
+    "source": "AlmondCroffle",
+    "id": "be6b7f52-e0de-4f3b-a55f-fb12c1634640",
+    "date_posted": 1756203595,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1756203670,
+    "sponsorship": "Does Not Offer Sponsorship",
+    "active": true,
+    "degrees": [],
+    "url": "https://job-boards.greenhouse.io/celonis/jobs/6691702003",
+    "company_name": "Celonis",
+    "title": "Associate Value Engineer (Industrial Engineering & AI Applications)",
+    "locations": [
+      "New York, NY"
+    ],
+    "category": "Data Science, AI & Machine Learning",
+    "source": "AlmondCroffle",
+    "id": "ec5f452f-cba6-4d1b-8b45-3da8cfbc6a1d",
+    "date_posted": 1756203670,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1756203764,
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "degrees": [],
+    "url": "https://careers-sig.icims.com/jobs/9716/software-developer---sprc---new-grad/job",
+    "company_name": "Susquehanna",
+    "title": "Software Developer",
+    "locations": [
+      "Lower Merion Township, PA"
+    ],
+    "category": "Software Engineering",
+    "source": "AlmondCroffle",
+    "id": "e306a460-ee33-4e53-b936-2d65fc66d581",
+    "date_posted": 1756203764,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1756203887,
+    "sponsorship": "Does Not Offer Sponsorship",
+    "active": true,
+    "degrees": [],
+    "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Software-Engineer---Recent-Graduate_R0129978",
+    "company_name": "PayPal",
+    "title": "Software Engineer - Recent Graduate",
+    "locations": [
+      "San Jose, CA",
+      "Chicago, IL",
+      "Scottsdale, AZ",
+      "Omaha, NE",
+      "Austin, TX"
+    ],
+    "category": "Software Engineering",
+    "source": "AlmondCroffle",
+    "id": "e667fc6c-75f2-4913-8088-4d57ffe3215a",
+    "date_posted": 1756203887,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1756204024,
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "degrees": [],
+    "url": "https://jobs.ashbyhq.com/empirical-security/16bd6ff1-2bd2-4f43-9108-b1ef22ad40e3",
+    "company_name": "Empirical Security",
+    "title": "Junior Software Engineer",
+    "locations": [
+      "Remote in USA"
+    ],
+    "category": "Software Engineering",
+    "source": "AlmondCroffle",
+    "id": "8eb6a0f3-409e-429c-8174-c87800de82dc",
+    "date_posted": 1756204024,
+    "company_url": "",
+    "is_visible": true
   }
 ]
