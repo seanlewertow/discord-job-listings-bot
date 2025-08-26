@@ -108261,5 +108261,130 @@
       "Bachelor's",
       "Master's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Nokia",
+    "id": "e5c651c9-acd9-48b2-b61c-0ef215f8e0c1",
+    "title": "Data Science Co-op/Intern",
+    "active": true,
+    "terms": [
+      "Winter 2026",
+      "Spring 2026"
+    ],
+    "date_updated": 1756250235,
+    "date_posted": 1756250235,
+    "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/23739",
+    "locations": [
+      "Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Nokia",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Nokia",
+    "id": "b70ec4e2-9d82-4796-a914-21b306cfafd3",
+    "title": "Optical Systems Co-op/Intern",
+    "active": true,
+    "terms": [
+      "Fall 2025",
+      "Summer 2026"
+    ],
+    "date_updated": 1756250244,
+    "date_posted": 1756250244,
+    "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/24069",
+    "locations": [
+      "Ottawa, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Nokia",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "PhD"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Johnson & Johnson",
+    "id": "ae0e527b-7169-49fb-9cea-3bcdd275f409",
+    "title": "J&J Surgery: Software Co-Op",
+    "active": true,
+    "terms": [
+      "Winter 2025",
+      "Spring 2026"
+    ],
+    "date_updated": 1756249903,
+    "date_posted": 1756249903,
+    "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Cincinnati-Ohio-United-States-of-America/J-J-Surgery-Cincinnati--Software-Co-Op--Spring-2026_R-026835",
+    "locations": [
+      "Cincinnati, OH"
+    ],
+    "company_url": "https://simplify.jobs/c/Johnson-Johnson",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Sanofi",
+    "id": "a189ce9a-d3d1-4493-98c9-d89096d9b4da",
+    "title": "Advanced Analytics Summer 2026 Intern",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1756249836,
+    "date_posted": 1756249836,
+    "url": "https://sanofi.wd3.myworkdayjobs.com/en-US/SanofiCareers/job/Cambridge-MA/US-Advanced-Analytics-Summer-2026-Intern_R2813670",
+    "locations": [
+      "Cambridge, MA",
+      "Morristown, NJ"
+    ],
+    "company_url": "https://simplify.jobs/c/Sanofi",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Gelber Group",
+    "id": "5d242df0-670a-4611-b4ac-bcb8e0d14e23",
+    "title": "Algorithmic Trading Internship",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1756217064,
+    "date_posted": 1756217064,
+    "url": "https://job-boards.greenhouse.io/gelbergroup/jobs/4595120006",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/GelberGroup",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "PhD"
+    ]
   }
 ]
