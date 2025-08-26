@@ -107706,5 +107706,120 @@
       "Bachelor's",
       "Master's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Navy Federal",
+    "id": "a02a9e21-3edf-406b-86b4-e4b0db806515",
+    "title": "Intern \u2013 Year Round - Digital Data Science",
+    "active": true,
+    "terms": [
+      "Winter 2025",
+      "Spring 2025",
+      "Summer 2025",
+      "Fall 2025"
+    ],
+    "date_updated": 1756205482,
+    "date_posted": 1752272173,
+    "url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/jobs/job/25807",
+    "locations": [
+      "Winchester, VA",
+      "Pensacola, FL",
+      "Vienna, VA",
+      "San Diego, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Navy-Federal",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Navy Federal",
+    "id": "b07e8d21-bbc2-486e-bc75-3c531bc5fe24",
+    "title": "Intern \u2013 Year Round - Javascript Developer",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1756210392,
+    "date_posted": 1755301491,
+    "url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/jobs/job/26505",
+    "locations": [
+      "Winchester, VA",
+      "Pensacola, FL",
+      "Vienna, VA"
+    ],
+    "company_url": "https://simplify.jobs/c/Navy-Federal",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "date_updated": 1756211541,
+    "sponsorship": "Does Not Offer Sponsorship",
+    "active": true,
+    "degrees": [
+      "Bachelor's"
+    ],
+    "url": "https://pwc.wd3.myworkdayjobs.com/en-US/US_Entry_Level_Careers/job/IL-Rosemont/Cloud-Engineering--Data---Analytics----Software-Engineering-Intern---Summer-2026_658438WD",
+    "company_name": "PwC",
+    "title": "Cloud Engineering, Data & Analytics - Software Engineering Intern",
+    "locations": [
+      "Rosemont, IL",
+      "Atlanta, GA",
+      "Minneapolis, MN",
+      "Chicago, IL",
+      "Washington, DC",
+      "Boston, MA",
+      "New York, NY",
+      "Dallas, TX",
+      "Philadelphia, PA",
+      "Seattle, WA",
+      "Houston, TX"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "category": "Software Engineering",
+    "source": "AlmondCroffle",
+    "id": "cac0a99a-3b93-4ad2-be46-f7a3cc32f358",
+    "date_posted": 1756211541,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1756211651,
+    "sponsorship": "Does Not Offer Sponsorship",
+    "active": true,
+    "degrees": [
+      "Master's"
+    ],
+    "url": "https://www.metacareers.com/jobs/1312570617147546",
+    "company_name": "Meta",
+    "title": "Research Scientist Intern, Computational Chemist (PhD)",
+    "locations": [
+      "Redmond, WA"
+    ],
+    "terms": [
+      "Fall 2026",
+      "Spring 2026",
+      "Winter 2026",
+      "Fall 2025",
+      "Summer 2026"
+    ],
+    "category": "Data Science, AI & Machine Learning",
+    "source": "AlmondCroffle",
+    "id": "3c5ff786-69e4-43fe-9a07-3937fd29870e",
+    "date_posted": 1756211651,
+    "company_url": "",
+    "is_visible": true
   }
 ]
