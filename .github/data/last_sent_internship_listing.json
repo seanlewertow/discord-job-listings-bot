@@ -107891,5 +107891,56 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "GE Vernova",
+    "id": "6ef21b00-e274-48ec-9a0f-9951f227a30d",
+    "title": "Data Analytics Internship",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1756219976,
+    "date_posted": 1756219976,
+    "url": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Rugby/Data-Analytics-Internship_R5018345-2",
+    "locations": [
+      "Rugby, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/GE-Vernova",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "SharkNinja",
+    "id": "fa566b9f-ea8d-4b5a-9322-2d6f59eb6833",
+    "title": "Product Development Co-op - Shark",
+    "active": true,
+    "terms": [
+      "Winter 2026",
+      "Spring 2026",
+      "Summer 2026"
+    ],
+    "date_updated": 1756218582,
+    "date_posted": 1756218582,
+    "url": "https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4592278006",
+    "locations": [
+      "Needham, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/SharkNinja",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "PhD",
+      "Associate's"
+    ]
   }
 ]
