@@ -107487,5 +107487,56 @@
       "Bachelor's",
       "Associate's"
     ]
+  },
+  {
+    "date_updated": 1756205140,
+    "sponsorship": "U.S. Citizenship is Required",
+    "active": true,
+    "degrees": [
+      "Bachelor's"
+    ],
+    "url": "https://careers.mitre.org/us/en/job/MITRUSR115479EXTERNALENUS/Internships-in-Computer-Science-or-Software-Engineering",
+    "company_name": "MITRE",
+    "title": "Computer Science or Software Engineering",
+    "locations": [
+      "McLean, VA",
+      "Bellevue, NE",
+      "Huntsville, AL",
+      "Austin, TX",
+      "Quantico, VA",
+      "Tampa, FL",
+      "Bedford, MA",
+      "Wright-Patterson AFB - Fairborn, OH",
+      "Bridgeport, WV",
+      "San Antonio, TX",
+      "Domestic Teleworker, MA",
+      "Colorado Springs, CO",
+      "Offutt AFB, NE",
+      "Fort Meade - Annapolis Junction, MD",
+      "Gaithersburg, MD",
+      "San Diego, CA",
+      "Charlottesville, VA",
+      "El Segundo, CA",
+      "Lexington Park, MD",
+      "Windsor, MD",
+      "Shaw AFB, SC",
+      "Honolulu, HI",
+      "Shrewsbury, NJ",
+      "Aberdeen, MD",
+      "Fort Walton Beach, F"
+    ],
+    "terms": [
+      "Fall 2026",
+      "Spring 2026",
+      "Winter 2026",
+      "Fall 2025",
+      "Summer 2026"
+    ],
+    "category": "Software Engineering",
+    "source": "AlmondCroffle",
+    "id": "13958f6b-c571-419f-a5b2-4c0b817ebeb4",
+    "date_posted": 1756205140,
+    "company_url": "",
+    "is_visible": true
   }
 ]
