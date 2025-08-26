@@ -108386,5 +108386,33 @@
       "Master's",
       "PhD"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "SharkNinja",
+    "id": "45cc9ae5-b44d-4a5b-9f83-a5d761992542",
+    "title": "Software Engineering Co-op",
+    "active": true,
+    "terms": [
+      "Winter 2026",
+      "Spring 2026",
+      "Summer 2026"
+    ],
+    "date_updated": 1756251212,
+    "date_posted": 1756251212,
+    "url": "https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4596348006",
+    "locations": [
+      "Goodlettsville, TN"
+    ],
+    "company_url": "https://simplify.jobs/c/SharkNinja",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "PhD",
+      "Associate's"
+    ]
   }
 ]
