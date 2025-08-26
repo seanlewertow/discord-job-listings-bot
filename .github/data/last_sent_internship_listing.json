@@ -108060,5 +108060,132 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Qorvo",
+    "id": "17ad4ed2-dfa2-46e8-a3a0-c510070cc7a8",
+    "title": "Database Intern",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1756248016,
+    "date_posted": 1756248016,
+    "url": "https://careers.qorvo.com/job/Apopka-Database-Intern-FL-32703/1320409200/?ats=successfactors",
+    "locations": [
+      "Apopka, FL"
+    ],
+    "company_url": "https://simplify.jobs/c/Qorvo",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "PhD"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Integra FEC",
+    "id": "f33fda29-ae17-406e-a534-61199ec17a81",
+    "title": "Summer \u2013 Data Scientist Intern - PhD",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1756247833,
+    "date_posted": 1756247833,
+    "url": "https://job-boards.greenhouse.io/integra/jobs/4896459008",
+    "locations": [
+      "Austin, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Integra-FEC",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "PhD"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Integra FEC",
+    "id": "8867a82c-04c8-45ec-9ecb-4e48fc41735a",
+    "title": "Summer \u2013 Data Analyst Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1756247832,
+    "date_posted": 1756247832,
+    "url": "https://job-boards.greenhouse.io/integra/jobs/4896454008",
+    "locations": [
+      "Austin, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Integra-FEC",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "PhD"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "SharkNinja",
+    "id": "6c13d1a5-e34c-477a-bbcf-ec0cac9e41c3",
+    "title": "Product Development Co-op - Ninja",
+    "active": true,
+    "terms": [
+      "Winter 2026",
+      "Spring 2026",
+      "Summer 2026"
+    ],
+    "date_updated": 1756220099,
+    "date_posted": 1756220099,
+    "url": "https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4592274006",
+    "locations": [
+      "Needham, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/SharkNinja",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Tencent",
+    "id": "2946abba-2614-479a-8180-ae10137664ba",
+    "title": "Artificial General Intelligence \u2013 Research Internship - Audio/Speech/Language Processing and Large Multimodal Model Focus",
+    "active": true,
+    "terms": [
+      "Winter 2025",
+      "Spring 2025",
+      "Summer 2025",
+      "Fall 2025"
+    ],
+    "date_updated": 1756214400,
+    "date_posted": 1756214400,
+    "url": "https://tencent.wd1.myworkdayjobs.com/en-US/Tencent_Careers/job/US-Washington-Bellevue/Artificial-General-Intelligence--Audio-Speech-Language-Processing-and-Large-Multimodal-Model-Focus--RESEARCH-INTERNSHIP_R105928",
+    "locations": [
+      "Bellevue, WA"
+    ],
+    "company_url": "https://simplify.jobs/c/Tencent",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "PhD"
+    ]
   }
 ]
