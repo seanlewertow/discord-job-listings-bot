@@ -107821,5 +107821,75 @@
     "date_posted": 1756211651,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "date_updated": 1756211738,
+    "sponsorship": "U.S. Citizenship is Required",
+    "active": true,
+    "degrees": [
+      "Bachelor's"
+    ],
+    "url": "https://brunswick.wd1.myworkdayjobs.com/en-US/search/job/Fond-du-Lac-WI/Mercury-Marine-Software-Electrical-Engineering-Co-op--Spring-or-Fall-Term-_JR-047253",
+    "company_name": "Brunswick",
+    "title": "Mercury Marine Software/Electrical Engineering Co-op",
+    "locations": [
+      "Fond du Lac, WI"
+    ],
+    "terms": [
+      "Spring 2026",
+      "Fall 2026"
+    ],
+    "category": "Software Engineering",
+    "source": "AlmondCroffle",
+    "id": "61db1bb6-213b-4495-b2bd-7de25842dcbb",
+    "date_posted": 1756211738,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1756211812,
+    "sponsorship": "Does Not Offer Sponsorship",
+    "active": true,
+    "degrees": [
+      "Bachelor's"
+    ],
+    "url": "https://job-boards.greenhouse.io/ripplematchinterns/jobs/8131844002",
+    "company_name": "Epic",
+    "title": "Software Development Intern",
+    "locations": [
+      "Madison, WI"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "category": "Software Engineering",
+    "source": "AlmondCroffle",
+    "id": "5e963070-74a6-4e7e-aa81-2017783583aa",
+    "date_posted": 1756211812,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "AcreTrader",
+    "id": "f3634b2e-affe-4e41-b4be-489ee679bb13",
+    "title": "Product Intern",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1756213228,
+    "date_posted": 1755569178,
+    "url": "https://ats.rippling.com/acretrader-jobs/jobs/eaa92dd2-bad2-485a-827a-d3ad8cb4630a",
+    "locations": [
+      "Fayetteville, AR"
+    ],
+    "company_url": "https://simplify.jobs/c/AcreTrader",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
