@@ -107561,5 +107561,125 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "date_updated": 1756205943,
+    "sponsorship": "Does Not Offer Sponsorship",
+    "active": true,
+    "degrees": [
+      "Master's"
+    ],
+    "url": "https://www.google.com/about/careers/applications/jobs/results/100216277234000582-research-intern-phd-summer-2026",
+    "company_name": "Google",
+    "title": "Research Intern",
+    "locations": [
+      "Mountain View, CA",
+      "Atlanta, GA",
+      "Austin, TX",
+      "Boulder, CO",
+      "Cambridge, MA",
+      "Bellevue, WA",
+      "Chicago, IL",
+      "Irvine, CA",
+      "Kirkland, WA",
+      "Los Angeles, CA",
+      "Madison, WI",
+      "New York, NY",
+      "Palo Alto, CA",
+      "Portland, OR",
+      "Pittsburgh, PA",
+      "Raleigh, NC",
+      "Durham, NC",
+      "Reston, VA",
+      "Redmond, WA",
+      "Redwood City, CA",
+      "San Diego, CA",
+      "Goleta, CA",
+      "San Bruno, CA",
+      "Seattle, WA",
+      "San Francisco, CA",
+      "San Jose, CA",
+      "Santa Cruz, CA",
+      "Sunnyvale, CA",
+      "Washington D.C., DC"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "category": "Other",
+    "source": "AlmondCroffle",
+    "id": "8e09c31b-7067-4eae-b202-495eb2a8878b",
+    "date_posted": 1756205943,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "source": "Simplify",
+    "category": "Other",
+    "company_name": "Navy Federal",
+    "id": "77d9690a-20c0-4162-836f-89e83214bb61",
+    "title": "Intern \u2013 Year Round - Security/Cyber Governance & Risk Management",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1756206129,
+    "date_posted": 1755847817,
+    "url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/jobs/job/26574",
+    "locations": [
+      "Vienna, VA"
+    ],
+    "company_url": "https://simplify.jobs/c/Navy-Federal",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Navy Federal",
+    "id": "0fa7557e-8f0e-41df-8bc4-ebd57930d041",
+    "title": "Intern \u2013 Year Round - Data Engineering",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1756205935,
+    "date_posted": 1751697146,
+    "url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/jobs/job/25631",
+    "locations": [
+      "Vienna, VA"
+    ],
+    "company_url": "https://simplify.jobs/c/Navy-Federal",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "date_updated": 1756206958,
+    "sponsorship": "Does Not Offer Sponsorship",
+    "active": true,
+    "degrees": [
+      "Bachelor's"
+    ],
+    "url": "https://pru.wd5.myworkdayjobs.com/en-US/Careers/job/Newark-NJ-USA/Prudential--2026-Global-Technology---Operations--Internship-Program_R-121563-1",
+    "company_name": "Prudential Financial",
+    "title": "Global Technology & Operations",
+    "locations": [
+      "Newark, NJ"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "category": "Other",
+    "source": "AlmondCroffle",
+    "id": "4ebbfdd8-2ffe-4f05-87fe-eba16ac52e78",
+    "date_posted": 1756206958,
+    "company_url": "",
+    "is_visible": true
   }
 ]
