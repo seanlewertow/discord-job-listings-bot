@@ -107363,5 +107363,30 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Dropbox",
+    "id": "4b0cdd84-7ff1-4c5e-a12a-804aab8d3526",
+    "title": "Software Engineer intern",
+    "active": true,
+    "terms": [
+      "Summer 2026",
+      "Fall 2026"
+    ],
+    "date_updated": 1756193597,
+    "date_posted": 1756193597,
+    "url": "https://boards.greenhouse.io/embed/job_app?token=7183245",
+    "locations": [
+      "Remote in Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Dropbox",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
   }
 ]
