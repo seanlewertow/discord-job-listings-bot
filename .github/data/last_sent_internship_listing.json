@@ -109149,5 +109149,97 @@
     "date_posted": 1756303435,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "date_updated": 1756304916,
+    "sponsorship": "U.S. Citizenship is Required",
+    "active": true,
+    "degrees": [
+      "Bachelor's"
+    ],
+    "url": "https://jobs.spectrum.com/job/maryland-heights/2026-summer-intern-associate-dev-ops-engineer/4673/85430606768",
+    "company_name": "Spectrum",
+    "title": "Associate Dev Ops Engineer",
+    "locations": [
+      "Maryland Heights, MO"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "category": "Software Engineering",
+    "source": "AlmondCroffle",
+    "id": "db2c974d-070d-4386-8a56-a71675a948e2",
+    "date_posted": 1756304817,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1756304979,
+    "sponsorship": "U.S. Citizenship is Required",
+    "active": true,
+    "degrees": [
+      "Bachelor's"
+    ],
+    "url": "https://jobs.spectrum.com/job/charlotte/2026-summer-intern-associate-dev-ops-engineer/4673/85279001840",
+    "company_name": "Spectrum",
+    "title": "Associate Dev Ops Engineer",
+    "locations": [
+      "Charlotte, NC"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "category": "Software Engineering",
+    "source": "AlmondCroffle",
+    "id": "27fc1d0f-5167-44cb-b707-9e65b497fc70",
+    "date_posted": 1756304979,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1756305021,
+    "sponsorship": "U.S. Citizenship is Required",
+    "active": true,
+    "degrees": [
+      "Bachelor's"
+    ],
+    "url": "https://jobs.spectrum.com/job/maryland-heights/2026-summer-intern-associate-software-developer/4673/85449990864",
+    "company_name": "Spectrum",
+    "title": "Associate Software Developer",
+    "locations": [
+      "Maryland Heights, MO"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "category": "Software Engineering",
+    "source": "AlmondCroffle",
+    "id": "54828c78-cc17-49f7-ae09-7da6d1f33042",
+    "date_posted": 1756305021,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1756305299,
+    "sponsorship": "Does Not Offer Sponsorship",
+    "active": true,
+    "degrees": [
+      "Bachelor's"
+    ],
+    "url": "https://jobs.dayforcehcm.com/en-US/thg/ALLCAREERS/jobs/38827",
+    "company_name": "The Hanover",
+    "title": "Associate Solutions Developer",
+    "locations": [
+      "Worcester, MA"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "category": "Software Engineering",
+    "source": "AlmondCroffle",
+    "id": "57753940-d9ac-49d9-9f95-6e813b9be0cf",
+    "date_posted": 1756305299,
+    "company_url": "",
+    "is_visible": true
   }
 ]
