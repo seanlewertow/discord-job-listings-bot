@@ -22978,5 +22978,47 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Other",
+    "company_name": "The Travelers Companies",
+    "id": "d8c7a695-5d37-4612-bc66-61dd2aa56964",
+    "title": "Cybersecurity Engineer I",
+    "active": true,
+    "date_updated": 1756253445,
+    "date_posted": 1756253445,
+    "url": "https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Cybersecurity-Engineer-I_R-46472",
+    "locations": [
+      "Hartford, CT",
+      "St Paul, MN"
+    ],
+    "company_url": "https://simplify.jobs/c/Travelers",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Certificate"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Other",
+    "company_name": "Sierra Nevada Coporation",
+    "id": "5a66fea0-ed21-475d-9798-602e067f18eb",
+    "title": "Systems Security Engineer I",
+    "active": true,
+    "date_updated": 1756254133,
+    "date_posted": 1756254133,
+    "url": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Lone-Tree-CO/Systems-Security-Engineer-I_R0028118",
+    "locations": [
+      "Lone Tree, CO"
+    ],
+    "company_url": "https://simplify.jobs/c/Sierra-Nevada-Coporation",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
