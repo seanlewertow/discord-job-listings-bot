@@ -109033,5 +109033,121 @@
       "Bachelor's",
       "Master's"
     ]
+  },
+  {
+    "date_updated": 1756303320,
+    "sponsorship": "Does Not Offer Sponsorship",
+    "active": true,
+    "degrees": [
+      "Bachelor's"
+    ],
+    "url": "https://careers.zebra.com/careers/job/343627780597",
+    "company_name": "Zebra",
+    "title": "AVS Mobile Software Engineer",
+    "locations": [
+      "Lincolnshire, IL"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "category": "Software Engineering",
+    "source": "unvibingcode",
+    "id": "29cd8dba-9004-45a7-b2bf-5f5b976de78b",
+    "date_posted": 1756303320,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1756303359,
+    "sponsorship": "Does Not Offer Sponsorship",
+    "active": true,
+    "degrees": [
+      "Bachelor's"
+    ],
+    "url": "https://www.pepsicojobs.com/main/jobs/392034?lang=en-us",
+    "company_name": "PepsiCo",
+    "title": "Technology Software Development & Engineering Intern",
+    "locations": [
+      "Plano, TX",
+      "Purchase, NY"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "category": "Software Engineering",
+    "source": "unvibingcode",
+    "id": "dd8db7a7-1905-4fac-a810-4c32bb3d293e",
+    "date_posted": 1756303359,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1756303382,
+    "sponsorship": "Other",
+    "active": true,
+    "degrees": [
+      "Bachelor's"
+    ],
+    "url": "https://boards.greenhouse.io/embed/job_app?token=6867897",
+    "company_name": "Nuro",
+    "title": "Software Engineer, Performance - Intern",
+    "locations": [
+      "Mountain View, CA"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "category": "Software Engineering",
+    "source": "unvibingcode",
+    "id": "6d6d280e-231b-4d32-8a5c-6ed62e6a8dce",
+    "date_posted": 1756303382,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1756303403,
+    "sponsorship": "Other",
+    "active": true,
+    "degrees": [
+      "Bachelor's"
+    ],
+    "url": "https://boards.greenhouse.io/embed/job_app?token=6562194",
+    "company_name": "Nuro",
+    "title": "Mapping & Localization, Software Engineering Intern",
+    "locations": [
+      "Mountain View, CA"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "category": "Software Engineering",
+    "source": "unvibingcode",
+    "id": "91a80164-25d6-4d7e-ac9c-7e2340872abe",
+    "date_posted": 1756303403,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1756303435,
+    "sponsorship": "Other",
+    "active": true,
+    "degrees": [
+      "Bachelor's"
+    ],
+    "url": "https://boards.greenhouse.io/embed/job_app?token=7169069",
+    "company_name": "Nuro",
+    "title": "Systems Engineering Intern, Scenario Taxonomy",
+    "locations": [
+      "Mountain View, CA"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "category": "Software Engineering",
+    "source": "unvibingcode",
+    "id": "d04060a8-4131-4a9b-8c4a-e0551690708f",
+    "date_posted": 1756303435,
+    "company_url": "",
+    "is_visible": true
   }
 ]
