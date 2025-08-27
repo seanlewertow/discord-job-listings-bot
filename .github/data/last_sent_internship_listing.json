@@ -109971,5 +109971,53 @@
       "Bachelor's",
       "Master's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Newrez",
+    "id": "2a91931e-95d4-414d-b87f-2b210124d457",
+    "title": "2026 Summer Internship - Software Engineering",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1756337737,
+    "date_posted": 1756337737,
+    "url": "https://newrez.wd1.myworkdayjobs.com/NRZ/job/TX-Coppell/XMLNAME-2026-Summer-Internship---Software-Engineering_R8395",
+    "locations": [
+      "Coppell, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Newrez",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Other",
+    "company_name": "Santander Global Facilities (SGF) US - Santander Group",
+    "id": "951e840c-6131-40c8-bc7f-1c43d4bc948a",
+    "title": "Information Security Intern",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1756337246,
+    "date_posted": 1756337246,
+    "url": "https://santander.wd3.myworkdayjobs.com/santandercareers/job/1-Enterprise-Drive-Quincy-Corp/Information-Security-Intern_Req1485968",
+    "locations": [
+      "Boston, MA",
+      "Dallas, TX",
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/9a775ea7-e29a-4fa8-963a-761444b7066a",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
