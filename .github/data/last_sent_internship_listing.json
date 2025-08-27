@@ -109362,5 +109362,59 @@
     "date_posted": 1756305902,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "date_updated": 1756306146,
+    "sponsorship": "U.S. Citizenship is Required",
+    "active": true,
+    "degrees": [
+      "Bachelor's"
+    ],
+    "url": "https://careers-gdms.icims.com/jobs/67789/software-engineer-%e2%80%93-intern-conversion/job",
+    "company_name": "General Dynamics",
+    "title": "Software Engineer \u2013 Intern Conversion",
+    "locations": [
+      "Herndon, VA"
+    ],
+    "terms": [
+      "Fall 2026",
+      "Spring 2026",
+      "Winter 2026",
+      "Fall 2025",
+      "Summer 2026"
+    ],
+    "category": "Software Engineering",
+    "source": "AlmondCroffle",
+    "id": "3e66b01b-bfcc-45a9-ad69-06e37ad688a8",
+    "date_posted": 1756306146,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1756306447,
+    "sponsorship": "U.S. Citizenship is Required",
+    "active": true,
+    "degrees": [
+      "Bachelor's"
+    ],
+    "url": "https://careers-gdms.icims.com/jobs/67794/intern-software-engineer---embedded/job",
+    "company_name": "General Dynamics",
+    "title": "Intern Software Engineer - Embedded Posted Date",
+    "locations": [
+      "Orlando, FL"
+    ],
+    "terms": [
+      "Fall 2026",
+      "Winter 2026",
+      "Spring 2026",
+      "Fall 2025",
+      "Summer 2026"
+    ],
+    "category": "Software Engineering",
+    "source": "AlmondCroffle",
+    "id": "5b473ad6-7b9d-4be5-99a0-55f9a508836e",
+    "date_posted": 1756306447,
+    "company_url": "",
+    "is_visible": true
   }
 ]
