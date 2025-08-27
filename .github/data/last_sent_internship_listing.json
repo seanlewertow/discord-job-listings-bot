@@ -109416,5 +109416,32 @@
     "date_posted": 1756306447,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "date_updated": 1756312000,
+    "sponsorship": "Other",
+    "active": true,
+    "degrees": [
+      "Bachelor's"
+    ],
+    "url": "https://generac.wd5.myworkdayjobs.com/en-US/external/job/Waukesha-WI---USA/Firmware-Engineering-Intern_JR9249",
+    "company_name": "Generac",
+    "title": "Firmware Engineering Intern",
+    "locations": [
+      "Waukesha, WI"
+    ],
+    "terms": [
+      "Fall 2026",
+      "Spring 2026",
+      "Winter 2026",
+      "Fall 2025",
+      "Summer 2026"
+    ],
+    "category": "Software Engineering",
+    "source": "AlmondCroffle",
+    "id": "7e58cd50-4a4d-4434-89c2-1850c927d8e4",
+    "date_posted": 1756312000,
+    "company_url": "",
+    "is_visible": true
   }
 ]
