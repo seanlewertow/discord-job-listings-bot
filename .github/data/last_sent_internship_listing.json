@@ -109728,5 +109728,126 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Zebra Technologies",
+    "id": "465a3d6a-0c6d-4520-8d6e-02bf4d39a870",
+    "title": "2026 Summer Internship - Software Engineering - Handheld Mobile Computer - Corporate and Business Services - CEO",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1756332425,
+    "date_posted": 1756332425,
+    "url": "https://zebra.eightfold.ai/careers/job/343627851934",
+    "locations": [
+      "Lake Grove, NY"
+    ],
+    "company_url": "https://simplify.jobs/c/Zebra-Technologies",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "Zebra Technologies",
+    "id": "31bfbe28-2a39-432c-ade0-8782e0e6e4a9",
+    "title": "2026 Summer Internship - Jr. Product Manager - Corporate and Business Services - CEO",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1756332427,
+    "date_posted": 1756332427,
+    "url": "https://zebra.eightfold.ai/careers/job/343627994354",
+    "locations": [
+      "Lake Grove, NY"
+    ],
+    "company_url": "https://simplify.jobs/c/Zebra-Technologies",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "Zebra Technologies",
+    "id": "10e67777-b2fc-41e5-84af-b7cc291b8b86",
+    "title": "2026 Summer Internship - Product Manager - Machine Vision - Corporate and Business Services - CEO",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1756332430,
+    "date_posted": 1756332430,
+    "url": "https://zebra.eightfold.ai/careers/job/343627811293",
+    "locations": [
+      "Lake Grove, NY"
+    ],
+    "company_url": "https://simplify.jobs/c/Zebra-Technologies",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Other",
+    "company_name": "Zebra Technologies",
+    "id": "0edca53c-cf2e-4581-b60b-acc49d4266cf",
+    "title": "2026 Summer Internship - Information Technology - Corporate and Business Services - CEO",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1756332451,
+    "date_posted": 1756332451,
+    "url": "https://zebra.eightfold.ai/careers/job/343627809920",
+    "locations": [
+      "Lake Grove, NY",
+      "Vernon Hills, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/Zebra-Technologies",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "MBA"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Zebra Technologies",
+    "id": "0b837951-ebdd-4267-a255-b8b822e9c4f6",
+    "title": "2026 Summer Internship - AVS Mobile Software Engineer - Corporate and Business Services - CEO",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1756332433,
+    "date_posted": 1756332433,
+    "url": "https://zebra.eightfold.ai/careers/job/343627780597",
+    "locations": [
+      "Wheeling, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/Zebra-Technologies",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "PhD"
+    ]
   }
 ]
