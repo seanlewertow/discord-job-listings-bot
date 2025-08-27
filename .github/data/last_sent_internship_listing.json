@@ -108771,5 +108771,123 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "ByteDance",
+    "id": "d41a149a-27b3-4377-bc6f-d0d538d03056",
+    "title": "Machine Learning Engineer Intern - E-Commerce Recommendation/Search Alliance - PhD",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1756263612,
+    "date_posted": 1756263612,
+    "url": "https://jobs.bytedance.com/en/position/7538942403488188680/detail",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "company_url": "https://simplify.jobs/c/ByteDance",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "PhD"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "ByteDance",
+    "id": "6bc3983c-65aa-4d29-9a3b-a08c3230a75a",
+    "title": "Machine Learning Engineer Intern - E-Commerce Knowledge Graph - CV/Multimodal/NLP - BS/MS",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1756263760,
+    "date_posted": 1756263760,
+    "url": "https://jobs.bytedance.com/en/position/7543005612200970503/detail",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "company_url": "https://simplify.jobs/c/ByteDance",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "PhD"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "ByteDance",
+    "id": "2c746302-72dc-4ecf-88fe-0c93ec89ce6e",
+    "title": "Machine Learning Engineer Intern - Global E-commerce Risk Control - PhD",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1756263735,
+    "date_posted": 1756263735,
+    "url": "https://jobs.bytedance.com/en/position/7535951608832657682/detail",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "company_url": "https://simplify.jobs/c/ByteDance",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "PhD"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "ByteDance",
+    "id": "77245ac7-931e-4d69-8030-18400e8793a2",
+    "title": "Machine Learning Engineer Intern - E-commerce Governance Algorithms - BS/MS",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1756263612,
+    "date_posted": 1756263612,
+    "url": "https://jobs.bytedance.com/en/position/7535168003103033618/detail",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "company_url": "https://simplify.jobs/c/ByteDance",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "TikTok",
+    "id": "e8fe53d2-e6d7-49e3-b99e-048cc351bc8e",
+    "title": "Software Engineer Intern - AI Applications",
+    "active": true,
+    "terms": [
+      "Summer 2026",
+      "Fall 2026"
+    ],
+    "date_updated": 1756264099,
+    "date_posted": 1756264099,
+    "url": "https://lifeattiktok.com/search/7540823204350527752",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/TikTok",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
   }
 ]
