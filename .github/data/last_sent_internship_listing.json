@@ -110278,5 +110278,127 @@
     "date_posted": 1756364983,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "date_updated": 1756368198,
+    "sponsorship": "Other",
+    "active": true,
+    "degrees": [
+      "Bachelor's"
+    ],
+    "url": "https://crowe.wd12.myworkdayjobs.com/en-US/external_careers/job/Chicago-IL-USA/AI-Functional-Intern_R-50098",
+    "company_name": "Crowe",
+    "title": "AI Functional Intern",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "terms": [
+      "Fall 2026",
+      "Spring 2026",
+      "Winter 2026",
+      "Fall 2025",
+      "Summer 2026"
+    ],
+    "category": "Data Science, AI & Machine Learning",
+    "source": "AlmondCroffle",
+    "id": "ebb6ee36-2861-4662-b172-b5c9c1dbd406",
+    "date_posted": 1756368198,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1756368373,
+    "sponsorship": "Does Not Offer Sponsorship",
+    "active": true,
+    "degrees": [
+      "Bachelor's"
+    ],
+    "url": "https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4592267006",
+    "company_name": "SharkNinja",
+    "title": "Control Systems & Algorithm Engineering Co-op",
+    "locations": [
+      "Needham, MA"
+    ],
+    "terms": [
+      "Spring 2026"
+    ],
+    "category": "Hardware Engineering",
+    "source": "AlmondCroffle",
+    "id": "666ba688-8265-49e5-9524-f862a32382b2",
+    "date_posted": 1756368373,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1756368581,
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "degrees": [
+      "Bachelor's"
+    ],
+    "url": "https://www.epicgames.com/site/en-US/careers/jobs/5623220004",
+    "company_name": "Epic Games",
+    "title": "Engine Software Engineer Intern",
+    "locations": [
+      "Cary, NC"
+    ],
+    "terms": [
+      "Fall 2026",
+      "Spring 2026",
+      "Winter 2026",
+      "Summer 2026"
+    ],
+    "category": "Software Engineering",
+    "source": "AlmondCroffle",
+    "id": "259fbdc1-6ebb-442a-9ac9-3c34bfa7b34a",
+    "date_posted": 1756368581,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1756368656,
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "degrees": [
+      "Bachelor's"
+    ],
+    "url": "https://dmainc.wd5.myworkdayjobs.com/en-US/dma/job/Fort-Wayne-IN/Software-Development-Intern---Spring-2026_REQ127",
+    "company_name": "DMA",
+    "title": "Software Development Intern",
+    "locations": [
+      "Fort Wayne, IN"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "category": "Software Engineering",
+    "source": "AlmondCroffle",
+    "id": "1c79babe-09de-4adb-a51c-38646058ceab",
+    "date_posted": 1756368656,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1756368691,
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "degrees": [
+      "Bachelor's"
+    ],
+    "url": "https://dmainc.wd5.myworkdayjobs.com/en-US/dma/job/Fort-Wayne-IN/Software-Development-Intern---Spring-2026_REQ124",
+    "company_name": "DMA",
+    "title": "Software Development Intern",
+    "locations": [
+      "Fort Wayne, IN"
+    ],
+    "terms": [
+      "Spring 2026"
+    ],
+    "category": "Software Engineering",
+    "source": "AlmondCroffle",
+    "id": "f4e58ebf-3c2c-4334-98a5-99fb15954d3f",
+    "date_posted": 1756368691,
+    "company_url": "",
+    "is_visible": true
   }
 ]
