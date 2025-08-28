@@ -110400,5 +110400,79 @@
     "date_posted": 1756368691,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "date_updated": 1756368906,
+    "sponsorship": "Other",
+    "active": true,
+    "degrees": [
+      "Bachelor's"
+    ],
+    "url": "https://corpay.wd103.myworkdayjobs.com/en-US/ext_001/job/Vancouver---PayByPhone/Software-Developer--Co-op-_R06820",
+    "company_name": "Corpay",
+    "title": "Software Developer (Co-op)",
+    "locations": [
+      "Vancouver, CAN"
+    ],
+    "terms": [
+      "Fall 2026",
+      "Spring 2026",
+      "Winter 2026",
+      "Fall 2025",
+      "Summer 2026"
+    ],
+    "category": "Software Engineering",
+    "source": "AlmondCroffle",
+    "id": "102ae7ee-8aea-4eda-8cca-aa56249ac715",
+    "date_posted": 1756368906,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "Relay",
+    "id": "2d277fe6-fcb5-4291-a54e-cbb485c45882",
+    "title": "Relay Pathways Intern - Product Management",
+    "active": true,
+    "terms": [
+      "Fall 2025",
+      "Spring 2025"
+    ],
+    "date_updated": 1756367387,
+    "date_posted": 1756367387,
+    "url": "https://job-boards.greenhouse.io/relaypro/jobs/7171783",
+    "locations": [
+      "Raleigh, NC"
+    ],
+    "company_url": "https://simplify.jobs/c/RelayPro",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Hewlett Packard Enterprise",
+    "id": "2193bb99-e5d3-4760-b858-a43dc80304bd",
+    "title": "WIFI Hardware Intern",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1756366890,
+    "date_posted": 1756366890,
+    "url": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/San-Jose-California-United-States-of-America/WIFI-Hardware-Intern_1193060",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Hewlett-Packard-Enterprise",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
