@@ -110690,5 +110690,51 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "IQVIA",
+    "id": "286a2e4f-29f4-4bf4-9cfa-14fab7f7c92b",
+    "title": "Data Science Intern",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1756393407,
+    "date_posted": 1756393407,
+    "url": "https://iqvia.wd1.myworkdayjobs.com/en-US/IQVIA/job/London-United-Kingdom/Data-Science-Intern_R1498677",
+    "locations": [
+      "London, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/IQVIA",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Other",
+    "company_name": "Fifth Third Bank",
+    "id": "2de724ac-1a6d-4c51-b8a0-8814caf61421",
+    "title": "Information Security Co-op - Application Security",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1756395725,
+    "date_posted": 1756395725,
+    "url": "https://fifththird.wd5.myworkdayjobs.com/en-US/53careers/job/Cincinnati-OH/Information-Security-Co-op---Application-Security---Summer-2026_R60953",
+    "locations": [
+      "Cincinnati, OH"
+    ],
+    "company_url": "https://simplify.jobs/c/Fifth-Third-Bank",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
