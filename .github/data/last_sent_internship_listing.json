@@ -111983,5 +111983,56 @@
     "date_posted": 1756476829,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "date_updated": 1756479946,
+    "sponsorship": "Other",
+    "active": true,
+    "degrees": [
+      "Bachelor's"
+    ],
+    "url": "https://rbc.wd3.myworkdayjobs.com/en-US/rbcglobal1/job/New-York-New-York-United-States-of-America/XMLNAME-2026-Capital-Markets--Global-Markets-Quantitative-Trading-Summer-Analyst_R-0000101066-1",
+    "company_name": "Royal Bank of Canada",
+    "title": "Global Markets Quantitative Trading",
+    "locations": [
+      "New York, NY"
+    ],
+    "terms": [
+      "Summer 2025",
+      "Summer 2026"
+    ],
+    "category": "Quantitative Finance",
+    "source": "AlmondCroffle",
+    "id": "28b6bd55-4e8d-416f-8a7d-41298ce429e5",
+    "date_posted": 1756479946,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1756480810,
+    "sponsorship": "Does Not Offer Sponsorship",
+    "active": true,
+    "degrees": [
+      "Bachelor's"
+    ],
+    "url": "https://allstate.wd5.myworkdayjobs.com/en-US/allstate_careers/job/Chicago-River-Point/Associate--Quantitative---Data-Analytics_R20984",
+    "company_name": "Allstate",
+    "title": "Associate, Quantitative & Data Analytics",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "terms": [
+      "Fall 2026",
+      "Spring 2026",
+      "Winter 2026",
+      "Fall 2025",
+      "Summer 2026"
+    ],
+    "category": "Quantitative Finance",
+    "source": "AlmondCroffle",
+    "id": "c2e80d32-032c-4170-b600-4acdd920ac0c",
+    "date_posted": 1756480810,
+    "company_url": "",
+    "is_visible": true
   }
 ]
