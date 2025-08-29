@@ -112248,5 +112248,51 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Other",
+    "company_name": "RTX",
+    "id": "4cc37d46-6597-4cec-be8d-9d022dde80dc",
+    "title": "Digital Technology Co-Op Student",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1756486616,
+    "date_posted": 1756486616,
+    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/ELC01-Midland-Ontario-Canada-450-Leitz-Road-Midland-ON-L4R-5B8-Canada/Digital-Technology-Co-Op-Student_01790493",
+    "locations": [
+      "Barrie, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/RTX",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Geotab",
+    "id": "8a07cae9-793a-4465-a384-841b185083b0",
+    "title": "Support Engineering Intern",
+    "active": true,
+    "terms": [
+      "Winter 2026"
+    ],
+    "date_updated": 1756486175,
+    "date_posted": 1756486175,
+    "url": "https://job-boards.greenhouse.io/internshiplist2000/jobs/4784676008",
+    "locations": [
+      "Oakville, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Geotab",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
