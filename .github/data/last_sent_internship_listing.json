@@ -112318,5 +112318,38 @@
       "Master's",
       "PhD"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Booz Allen",
+    "id": "c007327d-d3cc-426d-9772-317fb5167d97",
+    "title": "University \u2013 Software Developer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1756480613,
+    "date_posted": 1756480613,
+    "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/University--2026-Summer-Games-Software-Developer-Intern_R0225356",
+    "locations": [
+      "Honolulu, HI",
+      "Annapolis Junction, MD",
+      "Colorado Springs, CO",
+      "McLean, VA",
+      "Rome, NY",
+      "Panama City, FL",
+      "Charleston, SC",
+      "Atlanta, GA",
+      "Huntsville, AL",
+      "San Diego, CA",
+      "El Segundo, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Booz-Allen",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
