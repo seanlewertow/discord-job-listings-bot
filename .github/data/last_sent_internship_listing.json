@@ -112490,5 +112490,61 @@
     "date_posted": 1756494138,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "date_updated": 1756498599,
+    "sponsorship": "Other",
+    "active": true,
+    "degrees": [
+      "Bachelor's"
+    ],
+    "url": "https://recruiting2.ultipro.com/KIN1010KNGL/JobBoard/f915a6d0-9b98-4b5e-992b-83828a3d66d6/OpportunityDetail?opportunityId=f6072d74-9ed1-4eab-9525-8b0551691787",
+    "company_name": "Kingland",
+    "title": "Advanced Software Engineering Intern",
+    "locations": [
+      "Ames, IA",
+      "Clear Lake, IA",
+      "Fort Myers, FL"
+    ],
+    "terms": [
+      "Fall 2026",
+      "Spring 2026",
+      "Winter 2026",
+      "Fall 2025",
+      "Summer 2026"
+    ],
+    "category": "Software Engineering",
+    "source": "AlmondCroffle",
+    "id": "7feb8311-6e6e-41f6-a0c0-754efc7e8975",
+    "date_posted": 1756498599,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1756498675,
+    "sponsorship": "Other",
+    "active": true,
+    "degrees": [
+      "Bachelor's"
+    ],
+    "url": "https://careers.kodak.com/job/USA-Web-Developer-Intern-CA/1320436300/",
+    "company_name": "Kodak",
+    "title": "Web Developer Intern",
+    "locations": [
+      "USA"
+    ],
+    "terms": [
+      "Fall 2026",
+      "Spring 2026",
+      "Winter 2026",
+      "Fall 2025",
+      "Summer 2026"
+    ],
+    "category": "Software Engineering",
+    "source": "AlmondCroffle",
+    "id": "2c474aed-4e17-4893-b773-b3316f2e6bf5",
+    "date_posted": 1756498675,
+    "company_url": "",
+    "is_visible": true
   }
 ]
