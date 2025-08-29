@@ -111913,5 +111913,29 @@
     "date_posted": 1756458860,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "date_updated": 1756459495,
+    "sponsorship": "Does Not Offer Sponsorship",
+    "active": true,
+    "degrees": [
+      "Bachelor's"
+    ],
+    "url": "https://www.altmansolon.com/careers/student-opportunities?gh_jid=4662186101",
+    "company_name": "Altman Solon",
+    "title": "Summer Data Analyst Intern",
+    "locations": [
+      "Boston, MA",
+      "New York, NY"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "category": "Data Science, AI & Machine Learning",
+    "source": "XaJason",
+    "id": "3406baee-abc2-4be5-823a-10999e00d48f",
+    "date_posted": 1756459495,
+    "company_url": "",
+    "is_visible": true
   }
 ]
