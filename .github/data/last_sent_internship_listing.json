@@ -112130,5 +112130,100 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "Nationwide",
+    "id": "de9b4578-363b-45d5-8ba9-f994b4889b61",
+    "title": "Personal Lines Product Analyst Intern",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1756484928,
+    "date_posted": 1756484928,
+    "url": "https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Iowa---Des-Moines-1100-Locust-Street/Summer-2026-Personal-Lines-Product-Analyst-Intern_94285",
+    "locations": [
+      "Des Moines, IA",
+      "Columbus, OH"
+    ],
+    "company_url": "https://simplify.jobs/c/Nationwide",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Geotab",
+    "id": "c168d271-a509-4b68-a74a-53a0c135cc58",
+    "title": "Software Developer Intern - Altitude",
+    "active": true,
+    "terms": [
+      "Winter 2026"
+    ],
+    "date_updated": 1756484913,
+    "date_posted": 1756484913,
+    "url": "https://job-boards.greenhouse.io/internshiplist2000/jobs/4797269008",
+    "locations": [
+      "Oakville, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Geotab",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Geotab",
+    "id": "a40a4e68-8a10-4d1d-b654-70c2acac11cf",
+    "title": "Software Developer Intern - Infrastructure",
+    "active": true,
+    "terms": [
+      "Winter 2026"
+    ],
+    "date_updated": 1756484912,
+    "date_posted": 1756484912,
+    "url": "https://job-boards.greenhouse.io/internshiplist2000/jobs/4863611008",
+    "locations": [
+      "Oakville, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Geotab",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Geotab",
+    "id": "10daeeb4-086f-455a-ae70-1e2db2919e0c",
+    "title": "Software Developer Intern - Prism",
+    "active": true,
+    "terms": [
+      "Winter 2026"
+    ],
+    "date_updated": 1756484915,
+    "date_posted": 1756484915,
+    "url": "https://job-boards.greenhouse.io/internshiplist2000/jobs/4799401008",
+    "locations": [
+      "Oakville, ON, Canada",
+      "Kitchener, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Geotab",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
