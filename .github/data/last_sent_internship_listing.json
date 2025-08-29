@@ -113078,5 +113078,104 @@
       "Master's",
       "PhD"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Erie Insurance Group",
+    "id": "43b55750-d040-475e-83bb-713f0ff55c6a",
+    "title": "Data Science Intern",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1756507455,
+    "date_posted": 1756507455,
+    "url": "https://jobs.erieinsurance.com/job/Erie-Data-Science-Intern-PA-16530/1321587300/?ats=successfactors",
+    "locations": [
+      "Erie, PA"
+    ],
+    "company_url": "https://simplify.jobs/c/Erie-Insurance-Group",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Cloudflare",
+    "id": "22400cbc-3b34-4326-9ee4-454a9d07b547",
+    "title": "Software Engineer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1756507494,
+    "date_posted": 1756507494,
+    "url": "https://boards.greenhouse.io/cloudflare/jobs/7206269",
+    "locations": [
+      "Austin, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Cloudflare",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Other",
+    "company_name": "Humana",
+    "id": "c685585b-e5f0-4f44-8636-9424c3473037",
+    "title": "Information Technology \u2013 Internship - IT",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1756507187,
+    "date_posted": 1756507187,
+    "url": "https://humana.wd5.myworkdayjobs.com/humana_external_career_site/job/Louisville-KY/Information-Technology--IT--Internship---Summer-2026_R-387844",
+    "locations": [
+      "Frisco, TX",
+      "Louisville, KY",
+      "Chicago, IL",
+      "Fort Lauderdale, FL",
+      "Arlington, VA"
+    ],
+    "company_url": "https://simplify.jobs/c/Humana",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "AEG",
+    "id": "c9f8913f-1a08-4d3e-9394-861dd0ab73b5",
+    "title": "Fall Intern - Data and Analytics - Axs",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1756506975,
+    "date_posted": 1756506975,
+    "url": "https://www.aegworldwide.com/jobs?gh_jid=8141878002",
+    "locations": [
+      "LA"
+    ],
+    "company_url": "https://simplify.jobs/c/AEG",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
   }
 ]
