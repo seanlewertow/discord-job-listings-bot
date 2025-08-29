@@ -113177,5 +113177,127 @@
       "Bachelor's",
       "Master's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Kodak",
+    "id": "3f3c6c1f-462a-412a-aab7-ff09db182d36",
+    "title": "Web Developer Intern",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1756508028,
+    "date_posted": 1756508028,
+    "url": "https://careers.kodak.com/job/USA-Web-Developer-Intern-CA/1320436300/?ats=successfactors",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/Kodak",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Other",
+    "company_name": "Withum",
+    "id": "6c6eb94e-c827-4ae9-a9ec-dfe254fcbd77",
+    "title": "Information Technology Support Intern",
+    "active": true,
+    "terms": [
+      "Winter 2025",
+      "Winter 2026",
+      "Spring 2026",
+      "Summer 2026",
+      "Fall 2026"
+    ],
+    "date_updated": 1756509585,
+    "date_posted": 1756509585,
+    "url": "https://job-boards.greenhouse.io/campusopportunities/jobs/8145647002",
+    "locations": [
+      "East Brunswick, NJ"
+    ],
+    "company_url": "https://simplify.jobs/c/Withum",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Other",
+    "company_name": "Marathon Petroleum",
+    "id": "7e293502-3546-4961-a9d4-826d40d39591",
+    "title": "Intern/Co-op - Information Technology",
+    "active": true,
+    "terms": [
+      "Fall 2026"
+    ],
+    "date_updated": 1756509258,
+    "date_posted": 1756509258,
+    "url": "https://mpc.wd1.myworkdayjobs.com/en-US/MPCCareers/job/Findlay-Ohio/Intern-Co-op---Information-Technology--Fall-2026-_00018341",
+    "locations": [
+      "Bowling Green, OH",
+      "San Antonio, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Marathon-Petroleum",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Other",
+    "company_name": "Marathon Petroleum",
+    "id": "68148ffa-f82b-4ed8-a384-1b2519efe249",
+    "title": "Intern/Co-op - Information Technology",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1756509257,
+    "date_posted": 1756509257,
+    "url": "https://mpc.wd1.myworkdayjobs.com/en-US/MPCCareers/job/Findlay-Ohio/Intern-Co-op---Information-Technology--Summer-2026-_00018342",
+    "locations": [
+      "Bowling Green, OH",
+      "San Antonio, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Marathon-Petroleum",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Other",
+    "company_name": "American Structurepoint",
+    "id": "60f43c70-ab09-410a-a26d-2064c209922d",
+    "title": "IT Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1756509251,
+    "date_posted": 1756509251,
+    "url": "https://careers-structurepoint.icims.com/jobs/2800/job",
+    "locations": [
+      "Indianapolis, IN"
+    ],
+    "company_url": "https://simplify.jobs/c/American-Structurepoint",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Associate's"
+    ]
   }
 ]
