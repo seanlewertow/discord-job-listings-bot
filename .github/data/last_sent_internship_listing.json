@@ -113299,5 +113299,124 @@
       "Bachelor's",
       "Associate's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Other",
+    "company_name": "Charles Schwab",
+    "id": "9eb9b769-4646-42eb-a195-533963237e4a",
+    "title": "Technology Intern - Cybersecurity",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1756510236,
+    "date_posted": 1756510236,
+    "url": "https://career-schwab.icims.com/jobs/114371/job",
+    "locations": [
+      "Austin, TX",
+      "Westlake, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Charles-Schwab",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Medline",
+    "id": "775fb2d2-a65d-44bb-b0b3-cb3b896e14a2",
+    "title": "IT Business Systems Analyst Intern - Sap/Erp",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1756510181,
+    "date_posted": 1756510181,
+    "url": "https://medline.wd5.myworkdayjobs.com/en-US/Medline/job/Northbrook-Illinois/IT-Business-Systems-Analyst-Intern--SAP-ERP----Summer-2026_R2514366",
+    "locations": [
+      "Northbrook, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/f22ab711-4900-472d-be8a-7263e99e49fa",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Charles Schwab",
+    "id": "45372e35-6ba5-4897-b90c-6ab5815a85e2",
+    "title": "Technology Intern - Data Engineering",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1756510234,
+    "date_posted": 1756510234,
+    "url": "https://career-schwab.icims.com/jobs/114369/job",
+    "locations": [
+      "Austin, TX",
+      "Westlake, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Charles-Schwab",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Nokia",
+    "id": "f9ead1e7-d2f5-44ef-b72b-2e7676d73e0a",
+    "title": "Software Development Coop",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1756509778,
+    "date_posted": 1756509778,
+    "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/24266",
+    "locations": [
+      "Sunnyvale, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Nokia",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Semgrep",
+    "id": "8c0b1477-2c4b-4c49-b8f2-59d25b0fa6c1",
+    "title": "Software Engineer Intern - Cloud Platform",
+    "active": true,
+    "terms": [
+      "Spring 2026",
+      "Summer 2026"
+    ],
+    "date_updated": 1756509672,
+    "date_posted": 1756509672,
+    "url": "https://job-boards.greenhouse.io/semgrep/jobs/4842323007",
+    "locations": [
+      "SF"
+    ],
+    "company_url": "https://simplify.jobs/c/Semgrep",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
