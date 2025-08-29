@@ -112546,5 +112546,124 @@
     "date_posted": 1756498675,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "date_updated": 1756498767,
+    "sponsorship": "Other",
+    "active": true,
+    "degrees": [
+      "Bachelor's"
+    ],
+    "url": "https://newrez.wd1.myworkdayjobs.com/en-US/NRZ/job/TX-Coppell/XMLNAME-2026-Summer-Internship---Software-Engineering_R8395",
+    "company_name": "Newrez",
+    "title": "Software Engineering",
+    "locations": [
+      "Coppell, TX"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "category": "Software Engineering",
+    "source": "AlmondCroffle",
+    "id": "b5a9dcdb-089d-46fc-8111-77f74f2a7141",
+    "date_posted": 1756498767,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1756499082,
+    "sponsorship": "Other",
+    "active": true,
+    "degrees": [
+      "Bachelor's"
+    ],
+    "url": "https://careers-aluminumdynamics.icims.com/jobs/6351/job",
+    "company_name": "Steel Dynamics",
+    "title": "Software Development Internship",
+    "locations": [
+      "Columbus, MS"
+    ],
+    "terms": [
+      "Fall 2026",
+      "Spring 2026",
+      "Winter 2026",
+      "Fall 2025",
+      "Summer 2026"
+    ],
+    "category": "Software Engineering",
+    "source": "AlmondCroffle",
+    "id": "dd6ca5e1-abb6-41c6-a777-bab00ac58a13",
+    "date_posted": 1756499082,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1756499225,
+    "sponsorship": "Other",
+    "active": true,
+    "degrees": [
+      "Bachelor's"
+    ],
+    "url": "https://elanco.wd5.myworkdayjobs.com/External_Career/job/US-Territory-Field-based/IT-Junior-Engineer---Technical-Deliver-Intern--Summer-2026-_R0023201",
+    "company_name": "Elanco",
+    "title": "IT Junior Engineer \u2013 Technical Deliver Intern",
+    "locations": [
+      "USA"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "category": "Other",
+    "source": "AlmondCroffle",
+    "id": "f3e23abd-8fa2-4669-8435-74f7e560da4d",
+    "date_posted": 1756499225,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1756499542,
+    "sponsorship": "Other",
+    "active": true,
+    "degrees": [
+      "Bachelor's"
+    ],
+    "url": "https://fnbcorp.wd501.myworkdayjobs.com/en-US/fnbcorp/job/Pittsburgh-PA/Summer-2026-AI-and-Innovation-Intern_2025-02086",
+    "company_name": "First National Bank",
+    "title": "AI and Innovation Intern",
+    "locations": [
+      "Pittsburgh, PA"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "category": "Data Science, AI & Machine Learning",
+    "source": "AlmondCroffle",
+    "id": "4a891ebe-401c-473c-b544-b2d0a611a27b",
+    "date_posted": 1756499542,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1756499598,
+    "sponsorship": "Other",
+    "active": true,
+    "degrees": [
+      "Bachelor's"
+    ],
+    "url": "https://draftkings.wd1.myworkdayjobs.com/en-US/Campus_Career_Portal/job/Boston-MA/Software-Engineer-Intern--Summer-2026-_JR12655",
+    "company_name": "DraftKings",
+    "title": "Software Engineer Intern",
+    "locations": [
+      "Boston, MA"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "category": "Software Engineering",
+    "source": "AlmondCroffle",
+    "id": "5d70cd18-973a-46f3-97e2-5a588b75bb82",
+    "date_posted": 1756499598,
+    "company_url": "",
+    "is_visible": true
   }
 ]
