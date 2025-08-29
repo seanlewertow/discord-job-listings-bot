@@ -112351,5 +112351,28 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "date_updated": 1756493264,
+    "sponsorship": "U.S. Citizenship is Required",
+    "active": true,
+    "degrees": [
+      "Bachelor's"
+    ],
+    "url": "https://cgi.njoyn.com/corp/xweb/xweb.asp?clid=21001&page=jobdetails&jobid=J0825-1620",
+    "company_name": "CGI",
+    "title": "Software Developer Intern",
+    "locations": [
+      "St. Louis, MO"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "category": "Software Engineering",
+    "source": "AlmondCroffle",
+    "id": "b8124dc3-af8b-41d1-a603-454fe6c2fe06",
+    "date_posted": 1756493264,
+    "company_url": "",
+    "is_visible": true
   }
 ]
