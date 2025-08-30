@@ -113537,5 +113537,123 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Jabil",
+    "id": "f1f69b0e-a277-4a1a-a43b-8fe6f9b47b22",
+    "title": "Data Engineering Intern",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1756513900,
+    "date_posted": 1756513900,
+    "url": "https://jabil.wd5.myworkdayjobs.com/en-US/Jabil_Careers/job/St-PetersburgTampa-FL/Data-Engineering-Intern_J2425596",
+    "locations": [
+      "St. Petersburg, FL"
+    ],
+    "company_url": "https://simplify.jobs/c/Jabil",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Geotab",
+    "id": "ae698396-3291-4add-8f31-8bfb43bb9193",
+    "title": "Embedded Developer Intern - Kinematics",
+    "active": true,
+    "terms": [
+      "Winter 2026"
+    ],
+    "date_updated": 1756513817,
+    "date_posted": 1756513817,
+    "url": "https://job-boards.greenhouse.io/geotab/jobs/4808764008",
+    "locations": [
+      "Oakville, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Geotab",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Hewlett Packard Enterprise",
+    "id": "58a77d9a-cdef-42ba-9a31-09dcb7f618a2",
+    "title": "AI Developer Intern - Masters",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1756513793,
+    "date_posted": 1756513793,
+    "url": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Houston-Texas-United-States-of-America/AI-Developer-Intern--Masters-_1193085",
+    "locations": [
+      "Houston, TX",
+      "Berkeley Heights, NJ"
+    ],
+    "company_url": "https://simplify.jobs/c/Hewlett-Packard-Enterprise",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "USAA",
+    "id": "2108cda7-04ec-4b49-b497-5db12e7145da",
+    "title": "Data & Analytics Intern",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1756513589,
+    "date_posted": 1756513589,
+    "url": "https://usaa.wd1.myworkdayjobs.com/en-US/USAAJOBSWD/job/San-Antonio-Home-Office-I/Data---Analytics-Intern_R0112047",
+    "locations": [
+      "Plano, TX",
+      "San Antonio, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/664e9aa2-3c0e-4e96-9048-739e08b37a63",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Dow Jones",
+    "id": "b6a26bb6-ce87-42b1-845e-1d7a5ae3c499",
+    "title": "Software Engineering Intern",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1756513556,
+    "date_posted": 1756513556,
+    "url": "https://dowjones.wd1.myworkdayjobs.com/en-US/Dow_Jones_Career/job/New-York-City/Summer-2026-Internship---Software-Engineering-Intern_Job_Req_48494",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Dow-Jones",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
