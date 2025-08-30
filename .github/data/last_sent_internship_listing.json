@@ -113655,5 +113655,123 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Geotab",
+    "id": "e7e7633a-5aef-4e61-b01b-177af306ce73",
+    "title": "Embedded Developer Intern",
+    "active": true,
+    "terms": [
+      "Winter 2026"
+    ],
+    "date_updated": 1756520269,
+    "date_posted": 1756520269,
+    "url": "https://job-boards.greenhouse.io/internshiplist2000/jobs/4808709008",
+    "locations": [
+      "Oakville, ON, Canada",
+      "Kitchener, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Geotab",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Geotab",
+    "id": "6d947b27-e43e-4d3a-8b9d-be5602755df7",
+    "title": "Embedded Developer Intern - IOX Works & Go Focus",
+    "active": true,
+    "terms": [
+      "Winter 2026"
+    ],
+    "date_updated": 1756520268,
+    "date_posted": 1756520268,
+    "url": "https://job-boards.greenhouse.io/internshiplist2000/jobs/4808699008",
+    "locations": [
+      "Oakville, ON, Canada",
+      "Kitchener, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Geotab",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "PIMCO",
+    "id": "ec49df5b-6aa3-48c5-b0c3-a1811603b70b",
+    "title": "PhD Summer Intern - Portfolio Management - Quantitative Research Analyst",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1756520120,
+    "date_posted": 1756520120,
+    "url": "https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Newport-Beach-CA-USA/XMLNAME-2026-PhD-Summer-Intern---Portfolio-Management--Quantitative-Research-Analyst_R105638",
+    "locations": [
+      "Newport Beach, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/PIMCO",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "PhD"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "PIMCO",
+    "id": "758b483d-b3a4-4313-b01c-51ee1bffc397",
+    "title": "2026 Summer Intern - Client Solutions & Analytics Analyst",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1756520123,
+    "date_posted": 1756520123,
+    "url": "https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Newport-Beach-CA-USA/XMLNAME-2026-Summer-Intern---Client-Solutions---Analytics-Analyst--US_R105618",
+    "locations": [
+      "Newport Beach, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/PIMCO",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "PIMCO",
+    "id": "710e9602-28c5-4812-b3e5-0f53c51ed211",
+    "title": "Intern - Technology Analyst - Software Engineering",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1756520127,
+    "date_posted": 1756520127,
+    "url": "https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Newport-Beach-CA-USA/XMLNAME-2026-Summer-Intern---Technology-Analyst--Software-Engineering_R105630",
+    "locations": [
+      "Newport Beach, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/PIMCO",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
   }
 ]
