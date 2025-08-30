@@ -114009,5 +114009,53 @@
       "Bachelor's",
       "Master's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Santander Global Facilities (SGF) US - Santander Group",
+    "id": "e65f364a-6a15-47df-af94-44260d921e20",
+    "title": "Database Administrator Intern",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1756595838,
+    "date_posted": 1756595838,
+    "url": "https://santander.wd3.myworkdayjobs.com/santandercareers/job/Dallas/Database-Administrator-Intern_Req1486494",
+    "locations": [
+      "Dallas, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/9a775ea7-e29a-4fa8-963a-761444b7066a",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Freeform",
+    "id": "38e5481b-bb8b-4caa-a492-3a198462abce",
+    "title": "Software Engineering Intern",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1756595817,
+    "date_posted": 1756595817,
+    "url": "https://job-boards.greenhouse.io/freeformfuturecorp/jobs/6828427003",
+    "locations": [
+      "LA"
+    ],
+    "company_url": "https://simplify.jobs/c/FreeformFuture",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "PhD"
+    ]
   }
 ]
