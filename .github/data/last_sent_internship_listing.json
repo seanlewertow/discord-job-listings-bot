@@ -113773,5 +113773,76 @@
       "Bachelor's",
       "Master's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "PIMCO",
+    "id": "63ad86c6-0bee-4ed2-b01b-05581c4de028",
+    "title": "Summer Internship - PhD Quant Research Analyst - Client Solutions & Analytics",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1756521090,
+    "date_posted": 1756521090,
+    "url": "https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Newport-Beach-CA-USA/XMLNAME-2026-Summer-Internship---PhD-Quant-Research-Analyst--Client-Solutions---Analytics_R105639",
+    "locations": [
+      "Newport Beach, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/PIMCO",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "PhD"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "Walmart",
+    "id": "9656a6b9-e36c-4b57-acb4-b3a7345cf7e8",
+    "title": "2025 Intern Conversion - 2026 FT: Product Manager III",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1756521574,
+    "date_posted": 1756521574,
+    "url": "https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Bentonville-AR/XMLNAME-2025-Intern-Conversion---2026-FT--Product-Manager-III_R-2266147",
+    "locations": [
+      "Bentonville, AR"
+    ],
+    "company_url": "https://simplify.jobs/c/Walmart",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "TikTok",
+    "id": "06c04f3d-f1ab-475a-9cfa-b958c6fbe704",
+    "title": "Software Engineer Intern - Business Integrity - BS/MS",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1756522946,
+    "date_posted": 1756522946,
+    "url": "https://lifeattiktok.com/search/7543420658085185799",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/TikTok",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
   }
 ]
