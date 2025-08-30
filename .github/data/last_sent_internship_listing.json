@@ -113844,5 +113844,121 @@
       "Bachelor's",
       "Master's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "General Dynamics UK",
+    "id": "83b18715-3030-46d9-bd7f-8083173d1824",
+    "title": "Co-op - Firmware Development and Test",
+    "active": true,
+    "terms": [
+      "Winter 2026"
+    ],
+    "date_updated": 1756528638,
+    "date_posted": 1756528638,
+    "url": "https://jobs.smartrecruiters.com/GDMSI/744000079049454",
+    "locations": [
+      "Calgary, AB, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/General-Dynamics-UK",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "General Dynamics UK",
+    "id": "7d7d8281-6e4f-4f56-8ee6-013f574bbb49",
+    "title": "Co-op - Embedded Software Developer",
+    "active": true,
+    "terms": [
+      "Winter 2026"
+    ],
+    "date_updated": 1756528673,
+    "date_posted": 1756528673,
+    "url": "https://jobs.smartrecruiters.com/GDMSI/744000079029886",
+    "locations": [
+      "Ottawa, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/General-Dynamics-UK",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "General Dynamics UK",
+    "id": "6edd936f-76a2-488b-bab8-11395e2a2f65",
+    "title": "Co-op - Software/Systems Engineering",
+    "active": true,
+    "terms": [
+      "Winter 2026"
+    ],
+    "date_updated": 1756528652,
+    "date_posted": 1756528652,
+    "url": "https://jobs.smartrecruiters.com/GDMSI/744000079047292",
+    "locations": [
+      "Ottawa, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/General-Dynamics-UK",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "General Dynamics UK",
+    "id": "5f88ae1b-d78c-4658-888e-b6ecb45a123d",
+    "title": "Co-op",
+    "active": true,
+    "terms": [
+      "Winter 2026"
+    ],
+    "date_updated": 1756528661,
+    "date_posted": 1756528661,
+    "url": "https://jobs.smartrecruiters.com/GDMSI/744000079044549",
+    "locations": [
+      "Calgary, AB, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/General-Dynamics-UK",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "General Dynamics UK",
+    "id": "5bcb4de2-aa1f-4fc7-ae32-244a8e5b9961",
+    "title": "Co-op - Embedded Software Test",
+    "active": true,
+    "terms": [
+      "Winter 2026"
+    ],
+    "date_updated": 1756528670,
+    "date_posted": 1756528670,
+    "url": "https://jobs.smartrecruiters.com/GDMSI/744000079034324",
+    "locations": [
+      "Ottawa, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/General-Dynamics-UK",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
