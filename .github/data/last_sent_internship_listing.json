@@ -114081,5 +114081,28 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "date_updated": 1756659984,
+    "sponsorship": "U.S. Citizenship is Required",
+    "active": true,
+    "degrees": [
+      "Bachelor's"
+    ],
+    "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/113405",
+    "company_name": "Honeywell",
+    "title": "Software Engineer & Computer Science",
+    "locations": [
+      "USA"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "category": "Software Engineering",
+    "source": "XaJason",
+    "id": "6258bf6c-f75a-4578-a674-7813c7ec4566",
+    "date_posted": 1756659984,
+    "company_url": "",
+    "is_visible": true
   }
 ]
