@@ -114104,5 +114104,31 @@
     "date_posted": 1756659984,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "date_updated": 1756660023,
+    "sponsorship": "Other",
+    "active": true,
+    "degrees": [
+      "Bachelor's"
+    ],
+    "url": "https://www.databricks.com/company/careers/university-recruiting/software-engineering-intern-2026-6865687002",
+    "company_name": "Databricks",
+    "title": "Software Engineering Intern",
+    "locations": [
+      "Bellevue, WA",
+      "Mountain View, CA",
+      "San Francisco, CA"
+    ],
+    "terms": [
+      "Summer 2026",
+      "Winter 2026"
+    ],
+    "category": "Software Engineering",
+    "source": "XaJason",
+    "id": "6fca312c-e13a-4e2c-9c2c-aaf40f96b2e2",
+    "date_posted": 1756660023,
+    "company_url": "",
+    "is_visible": true
   }
 ]
