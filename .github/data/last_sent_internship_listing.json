@@ -115181,5 +115181,53 @@
       "Bachelor's",
       "Master's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "PIMCO",
+    "id": "6e8ecff5-5c59-486c-b29c-7834b0734655",
+    "title": "2026 Summer Internship - Product Analyst",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1756745831,
+    "date_posted": 1756745831,
+    "url": "https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/London-GBR/XMLNAME-2026-Summer-Internship---Product-Analyst--London_R105642",
+    "locations": [
+      "London, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/PIMCO",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Xcimer Energy",
+    "id": "12657870-afd4-40db-863e-6cc71a1575b4",
+    "title": "Spring Semester 2026 Internship - Computational and Software Engineering",
+    "active": true,
+    "terms": [
+      "Spring 2026"
+    ],
+    "date_updated": 1756745532,
+    "date_posted": 1756745532,
+    "url": "https://jobs.lever.co/xcimer/6c16370c-4ee0-49e8-81f8-5dc129895b6c/apply",
+    "locations": [
+      "Denver, CO"
+    ],
+    "company_url": "https://simplify.jobs/c/Xcimer-Energy",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "PhD"
+    ]
   }
 ]
