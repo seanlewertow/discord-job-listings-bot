@@ -114912,5 +114912,51 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Tranzact",
+    "id": "e01b7046-6ec5-4817-8bc1-bdd5eb371342",
+    "title": "Software Developer Internship",
+    "active": true,
+    "terms": [
+      "Winter 2025"
+    ],
+    "date_updated": 1756737470,
+    "date_posted": 1756737470,
+    "url": "https://eedu.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/jobs/job/202506294",
+    "locations": [
+      "Dorking, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Tranzact",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Tranzact",
+    "id": "48f36df2-7fd9-497d-819d-0ba9b3765b23",
+    "title": "2026 Software Developer Internship",
+    "active": true,
+    "terms": [
+      "Winter 2025"
+    ],
+    "date_updated": 1756737471,
+    "date_posted": 1756737471,
+    "url": "https://eedu.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/jobs/job/202506296",
+    "locations": [
+      "Cambridge, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Tranzact",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
