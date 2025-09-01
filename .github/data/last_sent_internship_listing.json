@@ -114958,5 +114958,78 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Tower Research Capital",
+    "id": "f4d92f6a-a274-47cd-8a7d-075ac84f76bd",
+    "title": "Quantitative Developer Summer Internship 2026 \u2013 2027 Graduates",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1756739024,
+    "date_posted": 1756739024,
+    "url": "https://www.tower-research.com/open-positions/?gh_jid=7210139",
+    "locations": [
+      "London, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Tower-Research-Capital",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "PhD"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "JP Morgan Chase",
+    "id": "d4670929-d33b-42b8-8ce4-158eed1e69aa",
+    "title": "2026 Software Apprenticeship - Emerging Talent Program",
+    "active": true,
+    "terms": [
+      "Fall 2026"
+    ],
+    "date_updated": 1756738982,
+    "date_posted": 1756738982,
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/requisitions/job/210658757",
+    "locations": [
+      "Glasgow, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/JP-Morgan-Chase",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "JP Morgan Chase",
+    "id": "056aeea9-2ad2-40b8-9da4-32e8d6e82197",
+    "title": "2026 Software Engineer Program \u2013 Summer Internship",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1756738983,
+    "date_posted": 1756738983,
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/requisitions/job/210653533",
+    "locations": [
+      "London, UK",
+      "Christchurch, UK",
+      "Glasgow, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/JP-Morgan-Chase",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
