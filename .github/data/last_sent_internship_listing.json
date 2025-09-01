@@ -114650,5 +114650,123 @@
       "Bachelor's",
       "Master's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "TikTok",
+    "id": "953b0af9-52dc-4bfe-9dce-76fe4258cddd",
+    "title": "Product Manager Intern - Tiktok LIVE-Recommend Product",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1756713517,
+    "date_posted": 1756713517,
+    "url": "https://lifeattiktok.com/search/7538067880584153362",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/TikTok",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "TC Energy",
+    "id": "8f6c9572-fbe2-49d8-88d4-0995e5a96d7a",
+    "title": "Computer Science Interns",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1756711437,
+    "date_posted": 1756711437,
+    "url": "https://tcenergy.wd3.myworkdayjobs.com/CAREER_SITE_TC/job/Calgary-Alberta/Computer-Science-Interns---Calgary--May-2026-_JR-08889",
+    "locations": [
+      "Calgary, AB, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/TC-Energy",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "ByteDance",
+    "id": "3465e9d0-1c45-44ed-b5fd-f89be91364eb",
+    "title": "Global Product Strategist Intern - Mso - MBA",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1756713452,
+    "date_posted": 1756713452,
+    "url": "https://jobs.bytedance.com/en/position/7534767099475478802/detail",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/ByteDance",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "MBA"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "84.51 Degrees",
+    "id": "89436fad-7bb5-4035-9ae5-1997447a95ca",
+    "title": "Data Scientist \u2013 Internship Program",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1756710462,
+    "date_posted": 1756710462,
+    "url": "https://job-boards.greenhouse.io/8451university/jobs/8086801002",
+    "locations": [
+      "Cincinnati, OH"
+    ],
+    "company_url": "https://simplify.jobs/c/84-51",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "American Express",
+    "id": "aba87d08-1d33-49c8-9641-f2d665bef101",
+    "title": "Campus Graduate Summer Internship Program - 2026 Global Decision Science - Credit & Fraud Risk",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1756713214,
+    "date_posted": 1756713214,
+    "url": "https://aexp.eightfold.ai/careers/job/30932038",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/American-Express",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Master's",
+      "PhD"
+    ]
   }
 ]
