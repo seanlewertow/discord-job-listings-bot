@@ -114768,5 +114768,125 @@
       "Master's",
       "PhD"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Stryker",
+    "id": "a7d290b8-3b15-4d09-b5c8-c75b56647d65",
+    "title": "2026 Summer Intern - Software Engineering",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1756735659,
+    "date_posted": 1756735659,
+    "url": "https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Redmond-Washington/XMLNAME-2026-Summer-Intern---Software-Engineering---Washington_R549796",
+    "locations": [
+      "Redmond, WA"
+    ],
+    "company_url": "https://simplify.jobs/c/Stryker",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Stryker",
+    "id": "5f782988-9a17-4e95-9e28-4ab53efa3eff",
+    "title": "2026 Summer Intern - Data Analytics",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1756735627,
+    "date_posted": 1756735627,
+    "url": "https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/San-Jose-California/XMLNAME-2026-Summer-Intern---Data-Analytics---California_R548759",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Stryker",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Edison International",
+    "id": "2fb469a9-bc64-44aa-aa98-670f538729e4",
+    "title": "2026 Summer Internship - Data Analytics/Data Science/Applied Math/Statistics",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1756735567,
+    "date_posted": 1756735567,
+    "url": "https://apply.edisoncareers.com/job/Rosemead-2026-Summer-Internship-Data-AnalyticsData-ScienceApplied-MathStatistics-CA-91770-3714/1321172300/?ats=successfactors",
+    "locations": [
+      "Alhambra, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Edison-International",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Edison International",
+    "id": "10f8bdc0-f409-4f51-9d4c-b87a6cb0e3fc",
+    "title": "2026 Summer Internship - Data Analytics/Data Science/Applied Math/Statistics",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1756735569,
+    "date_posted": 1756735569,
+    "url": "https://apply.edisoncareers.com/job/Irwindale-2026-Summer-Internship-Data-AnalyticsData-ScienceApplied-MathStatistics-CA-91702/1321175700/?ats=successfactors",
+    "locations": [
+      "Irwindale, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Edison-International",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Other",
+    "company_name": "Edison International",
+    "id": "06f544d3-cdf8-45fd-b9b8-bcac2a2f90ec",
+    "title": "2026 Summer Internship - Cybersecurity/Computer Science",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1756735568,
+    "date_posted": 1756735568,
+    "url": "https://apply.edisoncareers.com/job/Pomona-2026-Summer-Internship-CybersecurityComputer-Science-CA-91768/1321158900/?ats=successfactors",
+    "locations": [
+      "Pomona, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Edison-International",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
   }
 ]
