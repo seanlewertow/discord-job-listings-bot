@@ -115426,5 +115426,51 @@
       "Bachelor's",
       "Master's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Comcast",
+    "id": "bc975d9e-15fd-4b9b-9965-1a32141557c5",
+    "title": "Engineering Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1756769582,
+    "date_posted": 1756769582,
+    "url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/FL---West-Palm-Beach-1401-Northpoint-Parkway/Engineering-Intern_R419277",
+    "locations": [
+      "West Palm Beach, FL"
+    ],
+    "company_url": "https://simplify.jobs/c/Comcast",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "PIMCO",
+    "id": "734c7334-f38e-4341-8eda-3fb57c59a53e",
+    "title": "2026 Summer Internship - Trading Analyst",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1756769486,
+    "date_posted": 1756769486,
+    "url": "https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/London-GBR/XMLNAME-2026-Summer-Internship---Trading-Analyst--London_R105647",
+    "locations": [
+      "London, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/PIMCO",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
