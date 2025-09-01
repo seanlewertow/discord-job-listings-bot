@@ -115279,5 +115279,28 @@
       "Bachelor's",
       "Master's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Mitsubishi UFJ Financial Group",
+    "id": "aae15e6f-4f06-48b7-9f72-fcc6759de829",
+    "title": "2026 MUFG Summer Internship Programme: Credit Sales & Trading",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1756765384,
+    "date_posted": 1756765384,
+    "url": "https://mufgub.wd3.myworkdayjobs.com/mufg-earlycareers/job/London/XMLNAME-2026-MUFG-Summer-Internship-Programme--UK-Credit-Sales---Trading_10072507-WD",
+    "locations": [
+      "London, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/d5c55ea9-f3f6-4604-8d0f-f3e81aefa6d0",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
