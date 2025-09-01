@@ -115031,5 +115031,30 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Tower Research Capital",
+    "id": "7553a415-e98d-48c7-80ef-e0e4b474ee34",
+    "title": "Quantitative Trader/Researcher Summer Internship",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1756740039,
+    "date_posted": 1756740039,
+    "url": "https://www.tower-research.com/open-positions/?gh_jid=7210138",
+    "locations": [
+      "London, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Tower-Research-Capital",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "PhD"
+    ]
   }
 ]
