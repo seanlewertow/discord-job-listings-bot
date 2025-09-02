@@ -116675,5 +116675,31 @@
     "date_posted": 1756818880,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Nationwide",
+    "id": "5f287cc8-ebea-4754-9eee-837012cdeeae",
+    "title": "Summer 2026 Technology Internship",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1756819601,
+    "date_posted": 1756819601,
+    "url": "https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-Metro/Summer-2026-Technology-Internship_94309",
+    "locations": [
+      "Des Moines, IA",
+      "Scottsdale, AZ",
+      "Columbus, OH"
+    ],
+    "company_url": "https://simplify.jobs/c/Nationwide",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
   }
 ]
