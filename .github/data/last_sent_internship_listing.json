@@ -117988,5 +117988,120 @@
       "Master's",
       "PhD"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Other",
+    "company_name": "Corning",
+    "id": "4adda847-3481-460b-9c8c-af901cf8f970",
+    "title": "IT Intern \u2013 Servicenow Platform",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1756850977,
+    "date_posted": 1756850977,
+    "url": "https://corningjobs.corning.com/job/Charlotte-IT-Intern,-ServiceNow-Platform-Summer-2026-NC-28216/1322040000/?ats=successfactors",
+    "locations": [
+      "Charlotte, NC"
+    ],
+    "company_url": "https://simplify.jobs/c/Corning",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Other",
+    "company_name": "Corning",
+    "id": "3f50f954-689f-404d-acdf-02ac0b28a445",
+    "title": "IT Intern \u2013 Solar Wafer Plant",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1756850977,
+    "date_posted": 1756850977,
+    "url": "https://corningjobs.corning.com/job/Hemlock-IT-Intern,-Solar-Wafer-Plant-Summer-2026-MI-48626/1322027100/?ats=successfactors",
+    "locations": [
+      "Saginaw, MI"
+    ],
+    "company_url": "https://simplify.jobs/c/Corning",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Other",
+    "company_name": "Corning",
+    "id": "39bff88a-c206-46f2-9355-b0f866d52675",
+    "title": "IT Intern \u2013 Cyber Security AI",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1756851025,
+    "date_posted": 1756851025,
+    "url": "https://corningjobs.corning.com/job/Corning-IT-Intern,-Cyber-Security-AI-Summer-2026-NY-14831/1322074000/?ats=successfactors",
+    "locations": [
+      "Elmira, NY"
+    ],
+    "company_url": "https://simplify.jobs/c/Corning",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "TD Bank",
+    "id": "39ad80c8-1a51-4d20-a9db-267243593d87",
+    "title": "Innovation Analyst Intern/Co-op",
+    "active": true,
+    "terms": [
+      "Winter 2026"
+    ],
+    "date_updated": 1756818971,
+    "date_posted": 1756818971,
+    "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/TD-Terrace---160-Front-Street-West-Corporate-Toronto-Ontario/Innovation-Analyst-Intern-Co-op--WINTER-2026-_R_1436146",
+    "locations": [
+      "Toronto, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/TD-Bank",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Transcard Payments",
+    "id": "9fb62389-941d-4ab4-bc05-fccbf2bdf853",
+    "title": "Data Science Intern",
+    "active": true,
+    "terms": [
+      "Winter 2025"
+    ],
+    "date_updated": 1756850698,
+    "date_posted": 1756850698,
+    "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/3531351",
+    "locations": [
+      "Chattanooga, TN"
+    ],
+    "company_url": "https://simplify.jobs/c/Transcard-Payments",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
