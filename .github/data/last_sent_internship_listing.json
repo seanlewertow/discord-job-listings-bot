@@ -116034,5 +116034,28 @@
       "Bachelor's",
       "Master's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "JP Morgan Chase",
+    "id": "9f789f05-5c88-4ab3-8da4-7620564d71d6",
+    "title": "2026 Software Engineer Program \u2013 Jobs CEO Council Tech Apprenticeship",
+    "active": true,
+    "terms": [
+      "Winter 2026"
+    ],
+    "date_updated": 1756797643,
+    "date_posted": 1756797643,
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/requisitions/job/210657659",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/JP-Morgan-Chase",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
