@@ -117895,5 +117895,98 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Other",
+    "company_name": "XTX Markets",
+    "id": "5165524b-9cb6-486f-bee5-18140cd93e68",
+    "title": "Information Security Intern",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1756850602,
+    "date_posted": 1756850602,
+    "url": "https://job-boards.greenhouse.io/xtxmarketstechnologies/jobs/6927789003",
+    "locations": [
+      "London, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/XTXMarkets",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "Transcard Payments",
+    "id": "bae2bb65-ae9c-4425-8e25-8566da1c229c",
+    "title": "Product Analyst Intern",
+    "active": true,
+    "terms": [
+      "Winter 2025"
+    ],
+    "date_updated": 1756849946,
+    "date_posted": 1756849946,
+    "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/3531341",
+    "locations": [
+      "Chattanooga, TN"
+    ],
+    "company_url": "https://simplify.jobs/c/Transcard-Payments",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Transcard Payments",
+    "id": "2cfb0dc0-e9b0-4d4e-80af-d75ddf78498f",
+    "title": "Software Engineer Intern",
+    "active": true,
+    "terms": [
+      "Winter 2025"
+    ],
+    "date_updated": 1756849943,
+    "date_posted": 1756849943,
+    "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/3531297",
+    "locations": [
+      "Chattanooga, TN"
+    ],
+    "company_url": "https://simplify.jobs/c/Transcard-Payments",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Thomson Reuters",
+    "id": "6d8b2f7a-90ad-4ef3-a3d0-cdb62f633296",
+    "title": "Applied Scientist Intern",
+    "active": true,
+    "terms": [
+      "Winter 2025"
+    ],
+    "date_updated": 1756849796,
+    "date_posted": 1756849796,
+    "url": "https://thomsonreuters.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/CAN-Toronto-19-Duncan-Street/Applied-Scientist-Intern--2026_JREQ194308",
+    "locations": [
+      "Toronto, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Thomson-Reuters",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Master's",
+      "PhD"
+    ]
   }
 ]
