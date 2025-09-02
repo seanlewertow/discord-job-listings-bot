@@ -116057,5 +116057,80 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "RTX",
+    "id": "59e557e3-6575-4a9f-a518-651f49d697f5",
+    "title": "Software Engineering Co-op",
+    "active": true,
+    "terms": [
+      "Summer 2026",
+      "Fall 2026"
+    ],
+    "date_updated": 1756798558,
+    "date_posted": 1756798558,
+    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/HIA32-Cedar-Rapids-IA-400-Collins-Rd-NE---Cedar-Rapids-IA-52498-0505-USA/Software-Engineering-Co-op--Summer-Fall-2026---Onsite-_01786576",
+    "locations": [
+      "Cedar Rapids, IA"
+    ],
+    "company_url": "https://simplify.jobs/c/RTX",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "RTX",
+    "id": "cbf9e8cf-61c2-4980-aedd-8d7783f8d8b7",
+    "title": "Software Engineering Co-Op",
+    "active": true,
+    "terms": [
+      "Summer 2026",
+      "Fall 2026"
+    ],
+    "date_updated": 1756798432,
+    "date_posted": 1756798432,
+    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/HIA32-Cedar-Rapids-IA-400-Collins-Rd-NE---Cedar-Rapids-IA-52498-0505-USA/Software-Engineering-Co-Op--Summer-Fall-2026---Onsite-_01786610",
+    "locations": [
+      "Cedar Rapids, IA"
+    ],
+    "company_url": "https://simplify.jobs/c/RTX",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "The Travelers Companies",
+    "id": "ec68cfbf-635b-4c43-98fd-bf209ec9c81f",
+    "title": "Business Insights & Analytics Leadership Development Program \u2013 Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1756798366,
+    "date_posted": 1756798366,
+    "url": "https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Business-Insights---Analytics-Leadership-Development-Program--BI-A-LDP--Intern_R-46549",
+    "locations": [
+      "Hartford, CT",
+      "St Paul, MN"
+    ],
+    "company_url": "https://simplify.jobs/c/Travelers",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
   }
 ]
