@@ -116367,5 +116367,120 @@
     "date_posted": 1756801863,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "date_updated": 1756809678,
+    "sponsorship": "Other",
+    "active": true,
+    "degrees": [
+      "Bachelor's"
+    ],
+    "url": "https://cdpq.wd10.myworkdayjobs.com/en-US/CDPQ-recrutement-universitaire/job/Montreal/Stagiaire--Conseillerre-Adoption-numrique---compter-de-janvier-2026-_R04404?locations=978e30c0c8bf01e2d723af68920c298a",
+    "company_name": "La Caisse",
+    "title": "Digital Adoption Advisor Intern",
+    "locations": [
+      "Montreal, QC, CAN"
+    ],
+    "terms": [
+      "Winter 2026"
+    ],
+    "category": "Other",
+    "source": "XaJason",
+    "id": "a64c5554-b390-47b9-bd3b-a482ca6d7487",
+    "date_posted": 1756809678,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1756809704,
+    "sponsorship": "Other",
+    "active": true,
+    "degrees": [
+      "Bachelor's"
+    ],
+    "url": "https://cdpq.wd10.myworkdayjobs.com/en-US/CDPQ-recrutement-universitaire/job/Montreal/Stagiaire--Analyste---Dveloppeureuse---compter-de-janvier-2026-_R04406?locations=978e30c0c8bf01e2d723af68920c298a",
+    "company_name": "Caisse de d\u00e9p\u00f4t et placement du Qu\u00e9bec (CDPQ)",
+    "title": "Intern \u2013 Analyst / Developer (Starting January 2026)",
+    "locations": [
+      "Montreal, QC"
+    ],
+    "terms": [
+      "Winter 2026"
+    ],
+    "category": "Software Engineering",
+    "source": "XaJason",
+    "id": "1e8bf954-1090-4f89-979d-1a3b6ec950f1",
+    "date_posted": 1756809704,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1756809742,
+    "sponsorship": "Other",
+    "active": true,
+    "degrees": [
+      "Bachelor's"
+    ],
+    "url": "https://cdpq.wd10.myworkdayjobs.com/en-US/CDPQ-recrutement-universitaire/job/Montreal/Stagiaire--Ingnierie-de-donnes---March-de-donnes-externes---compter-de-janvier-2026-_R04407?locations=978e30c0c8bf01e2d723af68920c298a",
+    "company_name": "La Caisse",
+    "title": "Data Engineering, External Data Market",
+    "locations": [
+      "Montreal, QC, CAN"
+    ],
+    "terms": [
+      "Winter 2026"
+    ],
+    "category": "Data Science, AI & Machine Learning",
+    "source": "XaJason",
+    "id": "f618af08-015f-4d81-a8cc-59ac1f5025f3",
+    "date_posted": 1756809742,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1756809831,
+    "sponsorship": "Other",
+    "active": true,
+    "degrees": [
+      "Bachelor's"
+    ],
+    "url": "https://cdpq.wd10.myworkdayjobs.com/en-US/CDPQ-recrutement-universitaire/job/Montreal/Stagiaire--Analyse-quantitative---Devises---compter-de-janvier-2026-_R04413?locations=978e30c0c8bf01e2d723af68920c298a",
+    "company_name": "La Caisse",
+    "title": "Quantitative Analysis, Currencies",
+    "locations": [
+      "Montreal, QC, CAN"
+    ],
+    "terms": [
+      "Winter 2026"
+    ],
+    "category": "Quantitative Finance",
+    "source": "XaJason",
+    "id": "c5c1a721-c4df-4503-9034-3097aa2c6acc",
+    "date_posted": 1756809831,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1756809855,
+    "sponsorship": "Other",
+    "active": true,
+    "degrees": [
+      "Bachelor's"
+    ],
+    "url": "https://cdpq.wd10.myworkdayjobs.com/en-US/CDPQ-recrutement-universitaire/job/Montreal/Stagiaire--Dveloppeureuse---Ingnierie-et-solutions-de-science-des-donnes----compter-de-janvier-2026-_R04181?locations=978e30c0c8bf01e2d723af68920c298a",
+    "company_name": "La Caisse",
+    "title": "Developer, Data Science Engineering and Solutions",
+    "locations": [
+      "Montreal, QC, CAN"
+    ],
+    "terms": [
+      "Winter 2026"
+    ],
+    "category": "Data Science, AI & Machine Learning",
+    "source": "XaJason",
+    "id": "941c74d5-5f2b-40af-9edf-65a1e13dbe9c",
+    "date_posted": 1756809855,
+    "company_url": "",
+    "is_visible": true
   }
 ]
