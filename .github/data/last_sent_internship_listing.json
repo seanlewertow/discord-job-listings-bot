@@ -115495,5 +115495,126 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Other",
+    "company_name": "Solar Turbines",
+    "id": "c9cf0a1b-9fe2-4457-9fe3-df0cd84f2a1b",
+    "title": "ITS - Information Technology Solutions",
+    "active": true,
+    "terms": [
+      "Fall 2025",
+      "Winter 2025"
+    ],
+    "date_updated": 1756737253,
+    "date_posted": 1756737253,
+    "url": "https://cat.wd5.myworkdayjobs.com/en-US/solarturbines/job/San-Diego-California/XMLNAME-2026-Internship-ITS--Information-Technology-Solutions-_R0000316306",
+    "locations": [
+      "San Diego, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Solar-Turbines",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Other",
+    "company_name": "Edison International",
+    "id": "2d22cb13-4154-4e16-b5ac-aabc57e0a770",
+    "title": "2026 Summer Internship - Cybersecurity/Computer Science",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1756735569,
+    "date_posted": 1756735569,
+    "url": "https://apply.edisoncareers.com/job/Alhambra-2026-Summer-Internship-CybersecurityComputer-Science-CA-91803-0000/1321254000/?ats=successfactors",
+    "locations": [
+      "Alhambra, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Edison-International",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Edison International",
+    "id": "80460397-ebd0-4dd3-b2ab-ea852aa33164",
+    "title": "2026 Summer Internship - Data Analytics/Data Science/Applied Math/Statistics",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1756735569,
+    "date_posted": 1756735569,
+    "url": "https://apply.edisoncareers.com/job/Pomona-2026-Summer-Internship-Data-AnalyticsData-ScienceApplied-MathStatistics-CA-91768/1321171100/?ats=successfactors",
+    "locations": [
+      "Pomona, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Edison-International",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Edison International",
+    "id": "eceecb14-2a94-413b-8c0b-905c57fd5006",
+    "title": "2026 Summer Internship - Data Analytics/Data Science/Applied Math/Statistics",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1756735569,
+    "date_posted": 1756735569,
+    "url": "https://apply.edisoncareers.com/job/Alhambra-2026-Summer-Internship-Data-AnalyticsData-ScienceApplied-MathStatistics-CA-91803-0000/1321223400/?ats=successfactors",
+    "locations": [
+      "Alhambra, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Edison-International",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Other",
+    "company_name": "Edison International",
+    "id": "52051078-e4fe-47e2-b3b6-4ccf81dec14d",
+    "title": "2026 Summer Internship - Cybersecurity/Computer Science",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1756735570,
+    "date_posted": 1756735570,
+    "url": "https://apply.edisoncareers.com/job/Rosemead-2026-Summer-Internship-CybersecurityComputer-Science-CA-91770-3714/1321166800/?ats=successfactors",
+    "locations": [
+      "Alhambra, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Edison-International",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
   }
 ]
