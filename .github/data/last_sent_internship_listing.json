@@ -117143,5 +117143,51 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "XTX Markets",
+    "id": "8d48f310-33df-4acd-85de-839d01322c56",
+    "title": "Core Software Engineering Intern",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1756828596,
+    "date_posted": 1756828596,
+    "url": "https://job-boards.greenhouse.io/xtxmarketstechnologies/jobs/6927305003",
+    "locations": [
+      "London, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/XTXMarkets",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "FNBO",
+    "id": "fcd2cb92-4838-4a7a-913e-5e387ee52ec5",
+    "title": "Summer Intern - Data Analytics",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1756829786,
+    "date_posted": 1756829786,
+    "url": "https://firstnational.wd12.myworkdayjobs.com/fnbocareers/job/Omaha---FN-Tower/Summer-Intern---Data-Analytics--Omaha--NE-_R-20251170",
+    "locations": [
+      "Omaha, NE"
+    ],
+    "company_url": "https://simplify.jobs/c/FNBO",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
