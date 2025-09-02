@@ -24068,5 +24068,54 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "date_updated": 1756855912,
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "degrees": [],
+    "url": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=56285",
+    "company_name": "IBM",
+    "title": "Software Developer",
+    "locations": [
+      "Sandy Springs, GA",
+      "Poughkeepsie, NY",
+      "Lowell, MA",
+      "Rochester, MN",
+      "Tucson, AZ",
+      "Research Triangle Park, NC",
+      "Durham, NC",
+      "Hopewell Junction, NY",
+      "San Jose, CA",
+      "Dallas, TX",
+      "Houston, TX",
+      "Austin, TX",
+      "Herndon, VA",
+      "New York, NY"
+    ],
+    "category": "Software Engineering",
+    "source": "unvibingcode",
+    "id": "d4ea417d-2e42-4174-80ac-0382439102b0",
+    "date_posted": 1756855912,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1756855936,
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "degrees": [],
+    "url": "https://job-boards.greenhouse.io/spacex/jobs/8145483002?gh_jid=8145483002",
+    "company_name": "SpaceX",
+    "title": "Software Engineer",
+    "locations": [
+      "Hawthorne, CA"
+    ],
+    "category": "Software Engineering",
+    "source": "unvibingcode",
+    "id": "a59027fc-5575-4f3c-801f-567ef43ac640",
+    "date_posted": 1756855936,
+    "company_url": "",
+    "is_visible": true
   }
 ]
