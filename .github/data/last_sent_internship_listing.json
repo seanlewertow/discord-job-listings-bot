@@ -117447,5 +117447,103 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Other",
+    "company_name": "Cardinal Health",
+    "id": "5df688ca-43ae-4ece-b4a4-759959a04f48",
+    "title": "Information Technology Internship",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1756839496,
+    "date_posted": 1756839496,
+    "url": "https://cardinalhealth.wd1.myworkdayjobs.com/EXT/job/OH-Dublin-Cardinal-Place/Information-Technology-Internship_20165976",
+    "locations": [
+      "Dublin, OH"
+    ],
+    "company_url": "https://simplify.jobs/c/Cardinal-Health",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Cigna Group",
+    "id": "0cd749d5-5882-4dc0-b796-f8398696e0d5",
+    "title": "Analytics Leadership Development Program - Aldp",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1756839472,
+    "date_posted": 1756839472,
+    "url": "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Morris-Plains-NJ/Analytics-Leadership-Development-Program--ALDP--Summer-Internship-2026_25011450",
+    "locations": [
+      "Morristown, NJ"
+    ],
+    "company_url": "https://simplify.jobs/c/Cigna-Group",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Brunswick",
+    "id": "f71abf84-674e-46dc-9d88-cd5f80e5690b",
+    "title": "Software Engineering Intern",
+    "active": true,
+    "terms": [
+      "Winter 2025",
+      "Spring 2025",
+      "Summer 2025",
+      "Fall 2025"
+    ],
+    "date_updated": 1756839051,
+    "date_posted": 1756839051,
+    "url": "https://brunswick.wd1.myworkdayjobs.com/en-US/search/job/Lowell-MI/Software-Engineering-Intern_JR-047427",
+    "locations": [
+      "Fond du Lac, WI",
+      "Vernon Hills, IL",
+      "Middleville, MI",
+      "Menomonee Falls, WI"
+    ],
+    "company_url": "https://simplify.jobs/c/Brunswick",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "Allegion",
+    "id": "926c9e3a-9cf3-4fa4-a9d6-dcb72182b9de",
+    "title": "Product Experience Intern",
+    "active": true,
+    "terms": [
+      "Winter 2025"
+    ],
+    "date_updated": 1756839040,
+    "date_posted": 1756839040,
+    "url": "https://allegion.wd5.myworkdayjobs.com/careers/job/Carmel-IN/Product-Experience-Intern_JR33529-1",
+    "locations": [
+      "Carmel, IN"
+    ],
+    "company_url": "https://simplify.jobs/c/Allegion",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
