@@ -117825,5 +117825,75 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "GeoComply",
+    "id": "f61f69dc-15f6-4483-a63f-c72d9d555d33",
+    "title": "Software Engineer Intern - Backend",
+    "active": true,
+    "terms": [
+      "Fall 2025",
+      "Winter 2025"
+    ],
+    "date_updated": 1756849364,
+    "date_posted": 1756849364,
+    "url": "https://jobs.lever.co/geocomply-2/03cf507f-b774-42ff-aa31-fba36aa4b7b9/apply",
+    "locations": [
+      "Vancouver, BC, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/GeoComply",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Dick's Sporting Goods",
+    "id": "926ba589-87b5-48b3-9ef6-630794e68437",
+    "title": "Data Analytics & Engineering",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1756817627,
+    "date_posted": 1756817627,
+    "url": "https://dickssportinggoods.wd1.myworkdayjobs.com/en-US/DSG/job/Customer-Support-Center/Data-Analytics---Engineering---Summer-2026-Internship_202508666",
+    "locations": [
+      "Pittsburgh, PA"
+    ],
+    "company_url": "https://simplify.jobs/c/Dicks-Sporting-Goods",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Medline",
+    "id": "bbef0bc9-dec1-4d9b-a976-855c3eb795ce",
+    "title": "IT Software Engineer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1756848962,
+    "date_posted": 1756848962,
+    "url": "https://medline.wd5.myworkdayjobs.com/en-US/Medline/job/Northbrook-Illinois/IT-Software-Engineer-Intern---Summer-2026_R2514381",
+    "locations": [
+      "Northbrook, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/f22ab711-4900-472d-be8a-7263e99e49fa",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
