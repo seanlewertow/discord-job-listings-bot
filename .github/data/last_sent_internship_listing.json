@@ -117661,5 +117661,29 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "AQR Capital Management",
+    "id": "dae0e429-62df-4f59-9501-d25af716c22f",
+    "title": "Engineering Summer Analyst - Quant Research Development",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1756840992,
+    "date_posted": 1756840992,
+    "url": "https://careers.aqr.com/jobs?gh_jid=7215969&gh_jid=7215969",
+    "locations": [
+      "Greenwich, CT"
+    ],
+    "company_url": "https://simplify.jobs/c/AQR-Capital-Management",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
   }
 ]
