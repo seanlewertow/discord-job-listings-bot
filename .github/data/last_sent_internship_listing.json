@@ -116648,5 +116648,32 @@
     "date_posted": 1756811695,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "date_updated": 1756818880,
+    "sponsorship": "Other",
+    "active": true,
+    "degrees": [
+      "Bachelor's"
+    ],
+    "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Summer-2026-Intern---Software-Engineer_JR308796-1",
+    "company_name": "Salesforce",
+    "title": "Software Engineer Intern",
+    "locations": [
+      "San Francisco, CA",
+      "Seattle, WA",
+      "Bellevue, WA",
+      "Washington D.C.",
+      "New York, NY"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "category": "Software Engineering",
+    "source": "JustinhSE",
+    "id": "eb74161a-6728-45af-b54d-0df717f9f416",
+    "date_posted": 1756818880,
+    "company_url": "",
+    "is_visible": true
   }
 ]
