@@ -116625,5 +116625,28 @@
     "date_posted": 1756811549,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "date_updated": 1756811695,
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "degrees": [
+      "Master's"
+    ],
+    "url": "https://barclays.wd3.myworkdayjobs.com/en-US/external_career_site_barclays/job/745-7th-Avenue-New-York/Quantitative-Finance-Associate-Summer-Internship-Program-2026-New-York_JR-0000071534",
+    "company_name": "Barclays",
+    "title": "Quantitative Finance Associate",
+    "locations": [
+      "7th Avenue, NY"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "category": "Quantitative Finance",
+    "source": "AlmondCroffle",
+    "id": "e80f3148-e6bc-45be-9f02-d67e4212d996",
+    "date_posted": 1756811695,
+    "company_url": "",
+    "is_visible": true
   }
 ]
