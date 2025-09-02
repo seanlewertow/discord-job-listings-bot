@@ -116482,5 +116482,28 @@
     "date_posted": 1756809855,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "date_updated": 1756809896,
+    "sponsorship": "Other",
+    "active": true,
+    "degrees": [
+      "Bachelor's"
+    ],
+    "url": "https://cdpq.wd10.myworkdayjobs.com/en-US/CDPQ-recrutement-universitaire/job/Montreal/Stagiaire--Cyberscurit---compter-de-janvier-2026-_R04417?locations=978e30c0c8bf01e2d723af68920c298a",
+    "company_name": "La Caisse",
+    "title": "Cybersecurity",
+    "locations": [
+      "Montreal, QC, CAN"
+    ],
+    "terms": [
+      "Winter 2026"
+    ],
+    "category": "Other",
+    "source": "XaJason",
+    "id": "caa16e5a-8577-45f5-b754-458e412ddda9",
+    "date_posted": 1756809896,
+    "company_url": "",
+    "is_visible": true
   }
 ]
