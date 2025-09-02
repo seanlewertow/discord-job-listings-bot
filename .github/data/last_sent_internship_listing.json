@@ -117120,5 +117120,28 @@
       "Bachelor's",
       "Master's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "OCC",
+    "id": "c2074f6b-e0bc-4314-97ee-8bc9a5509fe2",
+    "title": "Year-Round Intern - AI Engineering",
+    "active": true,
+    "terms": [
+      "Winter 2025"
+    ],
+    "date_updated": 1756827729,
+    "date_posted": 1756827729,
+    "url": "https://theocc.wd5.myworkdayjobs.com/careers/job/Chicago---125-S-Franklin/Year-Round-Intern---AI-Engineering_REQ-4379",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/OptionsClearingCorporation",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
