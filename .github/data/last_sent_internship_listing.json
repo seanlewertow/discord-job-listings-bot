@@ -115616,5 +115616,82 @@
       "Bachelor's",
       "Master's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "Donaldson Company",
+    "id": "13751bac-afb3-4c72-bc42-3a8e71f17e62",
+    "title": "Product Management Intern",
+    "active": true,
+    "terms": [
+      "Winter 2025"
+    ],
+    "date_updated": 1756776573,
+    "date_posted": 1756776573,
+    "url": "https://donaldson.wd5.myworkdayjobs.com/donaldsoncareers/job/Bloomington-MN-USA/Product-Management-Intern_JR-24437",
+    "locations": [
+      "Bloomington, MN"
+    ],
+    "company_url": "https://simplify.jobs/c/b0914ae0-67cc-4a7d-ba1c-d8731e2f59a4",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Stryker",
+    "id": "c43bdedc-7cac-498c-8491-107fc98e7978",
+    "title": "2026 Summer Intern - Software Engineering",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1756735649,
+    "date_posted": 1756735649,
+    "url": "https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/San-Diego-California/XMLNAME-2026-Summer-Intern---Software-Engineering---California_R549795",
+    "locations": [
+      "San Jose, CA",
+      "San Diego, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Stryker",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Other",
+    "company_name": "Textron",
+    "id": "f5cb290a-8623-4472-bd81-0ac66dd420ee",
+    "title": "2026 Textron Leadership Development Internship Program - Information Technology",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1756736003,
+    "date_posted": 1756736003,
+    "url": "https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=333861",
+    "locations": [
+      "New Orleans, LA",
+      "Augusta, GA",
+      "Providence, RI",
+      "Sparks, MD",
+      "Wichita, KS",
+      "Troy, MI",
+      "Fort Worth, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Textron",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
