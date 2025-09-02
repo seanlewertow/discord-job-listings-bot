@@ -117235,5 +117235,78 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Corning",
+    "id": "d5cafb7c-5a0b-4a6f-af8e-de43141b29fc",
+    "title": "IT Intern \u2013 Data Scientist",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1756833771,
+    "date_posted": 1756833771,
+    "url": "https://corningjobs.corning.com/job/Charlotte-IT-Intern,-Data-Scientist-Summer-2026-NC-28216/1321979900/?ats=successfactors",
+    "locations": [
+      "Charlotte, NC"
+    ],
+    "company_url": "https://simplify.jobs/c/Corning",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "PricewaterhouseCoopers (PwC)",
+    "id": "b1e58e6d-ed48-48ad-8239-8039350b2d22",
+    "title": "Advisory National \u2013 AI Engineering Intern",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1756833161,
+    "date_posted": 1756833161,
+    "url": "https://pwc.wd3.myworkdayjobs.com/en-US/US_Entry_Level_Careers/job/IL-Rosemont/Advisory-National---AI-Engineering-Intern---Summer-2026_659049WD",
+    "locations": [
+      "Washington, DC",
+      "Dallas, TX",
+      "Chicago, IL",
+      "Norridge, IL",
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/PwC",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Other",
+    "company_name": "Grant Thornton",
+    "id": "559c1e08-4d94-411e-9798-81d299e85263",
+    "title": "Audit IT Assurance Intern",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1756832915,
+    "date_posted": 1756832915,
+    "url": "https://ehzq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs/job/113281",
+    "locations": [
+      "Southfield, MI"
+    ],
+    "company_url": "https://simplify.jobs/c/Grant-Thornton",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
