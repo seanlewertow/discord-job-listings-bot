@@ -115932,5 +115932,107 @@
       "Bachelor's",
       "Associate's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Oshkosh",
+    "id": "fd3c3162-debe-4898-bafa-0c59d281eb4f",
+    "title": "Digital Technology \u2013 Systems Analyst Intern",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1756795642,
+    "date_posted": 1756795642,
+    "url": "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Murfreesboro-Tennessee-United-States/Digital-Technology---Systems-Analyst-Intern--Summer-2026-_R40753",
+    "locations": [
+      "Murfreesboro, TN"
+    ],
+    "company_url": "https://simplify.jobs/c/Oshkosh",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "BMO",
+    "id": "97aa5331-dbfb-477d-b70d-296bdb73b64e",
+    "title": "Data Analyst \u2013 Co-op/Internship - Regulatory Data & Systems",
+    "active": true,
+    "terms": [
+      "Winter 2026"
+    ],
+    "date_updated": 1756796418,
+    "date_posted": 1756796418,
+    "url": "https://bmo.wd3.myworkdayjobs.com/External/job/Chicago-IL-USA/Data-Analyst--Regulatory-Data---Systems---Winter-2026--Co-op-Internship----4-Months_R250021478",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/BMO-Bank",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Trimble",
+    "id": "9d87d164-2aab-4eb8-8db7-c9125493a517",
+    "title": "Software Engineering Intern",
+    "active": true,
+    "terms": [
+      "Summer 2026",
+      "Fall 2026"
+    ],
+    "date_updated": 1756796275,
+    "date_posted": 1756796275,
+    "url": "https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/US---CO-Westminster/Software-Engineering-Intern---Summer-2026_R51540",
+    "locations": [
+      "Dayton, OH",
+      "Knoxville, TN",
+      "Portsmouth, NH",
+      "Princeton, NJ",
+      "Lake Oswego, OR",
+      "Westminster, CO",
+      "Sunnyvale, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Trimble",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "Trimble",
+    "id": "38b09cff-71ea-419b-9577-5c9846381906",
+    "title": "Product Management Intern",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1756796265,
+    "date_posted": 1756796265,
+    "url": "https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/US---CO-Westminster/Product-Management-Intern---Summer-2026_R51543",
+    "locations": [
+      "Dayton, OH",
+      "Westminster, CO",
+      "San Diego, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Trimble",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
   }
 ]
