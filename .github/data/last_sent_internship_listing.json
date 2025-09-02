@@ -116505,5 +116505,125 @@
     "date_posted": 1756809896,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "date_updated": 1756810605,
+    "sponsorship": "Other",
+    "active": true,
+    "degrees": [
+      "Bachelor's"
+    ],
+    "url": "https://careers.amd.com/careers-home/jobs/70483/job",
+    "company_name": "AMD",
+    "title": "Software Engineering Intern",
+    "locations": [
+      "Austin, TX",
+      "Fort Collins, CO",
+      "Boxborough, MA",
+      "Longmont, CO"
+    ],
+    "terms": [
+      "Fall 2026",
+      "Spring 2026",
+      "Summer 2026"
+    ],
+    "category": "Software Engineering",
+    "source": "AlmondCroffle",
+    "id": "6fb9e43e-0102-4364-88d5-7adf93f98c15",
+    "date_posted": 1756810605,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1756810668,
+    "sponsorship": "Does Not Offer Sponsorship",
+    "active": true,
+    "degrees": [
+      "Bachelor's"
+    ],
+    "url": "https://careers.caci.com/global/en/job/CACIGLOBAL316652EXTERNALENGLOBAL/Software-Quality-Engineer-Intern-Summer-2026",
+    "company_name": "CACI",
+    "title": "Software Quality Engineer Intern",
+    "locations": [
+      "Austin, TX"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "category": "Software Engineering",
+    "source": "AlmondCroffle",
+    "id": "0daf4a44-9da3-4453-81f5-972095cc3693",
+    "date_posted": 1756810668,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1756810793,
+    "sponsorship": "Other",
+    "active": true,
+    "degrees": [
+      "Bachelor's"
+    ],
+    "url": "https://careers.inspirebrands.com/infrastructure-and-devops-internship-summer-2026/job/44E0457CE423184B5723F5EE9BCD637E",
+    "company_name": "Inspire",
+    "title": "Infrastructure and DevOps Internship",
+    "locations": [
+      "Atlanta, GA"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "category": "Software Engineering",
+    "source": "AlmondCroffle",
+    "id": "fc6172fd-a3e7-4adb-9436-b6de07f0e6f6",
+    "date_posted": 1756810793,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1756811465,
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "degrees": [
+      "Bachelor's"
+    ],
+    "url": "https://dowjones.wd1.myworkdayjobs.com/en-US/dow_jones_career/job/New-York-City/Summer-2026-Internship---Data-Analyst-Intern_Job_Req_48497",
+    "company_name": "Dow Jones",
+    "title": "Data Analyst Intern",
+    "locations": [
+      "New York, NY"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "category": "Data Science, AI & Machine Learning",
+    "source": "AlmondCroffle",
+    "id": "b2440d8c-e98c-4b6f-a07e-f687999659fc",
+    "date_posted": 1756811465,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1756811549,
+    "sponsorship": "Does Not Offer Sponsorship",
+    "active": true,
+    "degrees": [
+      "Master's"
+    ],
+    "url": "https://cambiumlearning.wd1.myworkdayjobs.com/en-US/camb/job/Remote/Intern-SAS-Team-Data-Analyst_REQ-4157",
+    "company_name": "Cambium Learning",
+    "title": "Data Analyst Intern",
+    "locations": [
+      "Remote in USA"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "category": "Data Science, AI & Machine Learning",
+    "source": "AlmondCroffle",
+    "id": "449b7f80-9205-4085-b767-93191a103014",
+    "date_posted": 1756811549,
+    "company_url": "",
+    "is_visible": true
   }
 ]
