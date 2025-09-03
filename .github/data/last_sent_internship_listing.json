@@ -119547,5 +119547,33 @@
     "date_posted": 1756902806,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Gensyn",
+    "id": "f77cdfb9-e8db-45de-82ea-2c529cd2f8f8",
+    "title": "Research Intern",
+    "active": true,
+    "terms": [
+      "Winter 2025"
+    ],
+    "date_updated": 1756904223,
+    "date_posted": 1746064726,
+    "url": "https://job-boards.eu.greenhouse.io/gensyn/jobs/4579609101",
+    "locations": [
+      "Remote in Germany",
+      "Remote in USA",
+      "Remote in Spain",
+      "Remote in Italy",
+      "Remote in France"
+    ],
+    "company_url": "https://simplify.jobs/c/Gensyn",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Master's",
+      "PhD"
+    ]
   }
 ]
