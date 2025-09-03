@@ -119313,5 +119313,76 @@
     "degrees": [
       "Master's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Broadridge",
+    "id": "fc5407a3-6c0a-42ae-882f-9b4ebf69c596",
+    "title": "2026 Summer Internship Program - Technology",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1756884869,
+    "date_posted": 1756884869,
+    "url": "https://broadridge.wd5.myworkdayjobs.com/careers/job/New-York-NY/XMLNAME-2026-Summer-Internship-Program---Technology_JR1076089",
+    "locations": [
+      "Newark, NJ",
+      "NYC",
+      "Catskill, NY"
+    ],
+    "company_url": "https://simplify.jobs/c/Broadridge",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Other",
+    "company_name": "TD Bank",
+    "id": "9f5feffe-e6ef-4bde-b96d-3cc26809a16e",
+    "title": "2026 Internship Program - IT Audit",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1756884556,
+    "date_posted": 1756884556,
+    "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Mount-Laurel-New-Jersey/XMLNAME-2026-Internship-Program---IT-Audit--NJ-_R_1442721",
+    "locations": [
+      "Mt Laurel Township, NJ"
+    ],
+    "company_url": "https://simplify.jobs/c/TD-Bank",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Other",
+    "company_name": "TD Bank",
+    "id": "5699232b-552c-4ab4-b498-bbf90d1c0320",
+    "title": "2026 Internship Program - IT Audit",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1756884556,
+    "date_posted": 1756884556,
+    "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Greenville-South-Carolina/XMLNAME-2026-Internship-Program---IT-Audit--SC-_R_1442720",
+    "locations": [
+      "Greenville, SC"
+    ],
+    "company_url": "https://simplify.jobs/c/TD-Bank",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
