@@ -119981,5 +119981,99 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Block",
+    "id": "ccc03b68-f975-425a-9c7c-2eec827aa90c",
+    "title": "Software Engineer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1756939497,
+    "date_posted": 1756939497,
+    "url": "https://job-boards.greenhouse.io/privateblock/jobs/4904198008",
+    "locations": [
+      "Toronto, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Block",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Qorvo",
+    "id": "4dd10f6a-3d65-4790-9abe-a20ac81d1a45",
+    "title": "AI/ML Intern",
+    "active": true,
+    "terms": [
+      "Winter 2025"
+    ],
+    "date_updated": 1756939424,
+    "date_posted": 1756939424,
+    "url": "https://careers.qorvo.com/job/Hillsboro-AIML-Intern-OR-97124/1322517600/?ats=successfactors",
+    "locations": [
+      "Hillsboro, OR"
+    ],
+    "company_url": "https://simplify.jobs/c/Qorvo",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Qorvo",
+    "id": "166855db-c33a-4daa-a553-7e0f75555590",
+    "title": "Data Analytics Intern",
+    "active": true,
+    "terms": [
+      "Winter 2025"
+    ],
+    "date_updated": 1756939424,
+    "date_posted": 1756939424,
+    "url": "https://careers.qorvo.com/job/Greensboro-Data-Analytics-Intern-NC-27409/1322482100/?ats=successfactors",
+    "locations": [
+      "Greensboro, NC"
+    ],
+    "company_url": "https://simplify.jobs/c/Qorvo",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "FHLBank Chicago",
+    "id": "9fcf3a8a-f4c2-4240-a310-71fc06dee28c",
+    "title": "Summer Internship-Application Development",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1756938236,
+    "date_posted": 1756938236,
+    "url": "https://fhlbc.wd1.myworkdayjobs.com/search/job/Chicago/Summer-Internship--Application-Development_R2500352",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/e65bca86-ee8e-4604-8b58-64e20a3b9f39",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
