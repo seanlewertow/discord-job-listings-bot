@@ -24403,5 +24403,68 @@
     "date_posted": 1756935232,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "TripAdvisor",
+    "id": "70265251-b099-4ec2-bfe8-f8c63eff757f",
+    "title": "Software Engineer I - Frontend Focus - Viator",
+    "active": true,
+    "date_updated": 1756939988,
+    "date_posted": 1756939988,
+    "url": "https://job-boards.greenhouse.io/tripadvisor/jobs/6977655",
+    "locations": [
+      "London, UK",
+      "Oxford, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/TripAdvisor",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Yodlee",
+    "id": "55387b88-2383-456c-a4b3-8a3352b0061b",
+    "title": "Software Engineer I",
+    "active": true,
+    "date_updated": 1756939471,
+    "date_posted": 1756939471,
+    "url": "https://jobs.jobvite.com/yodlee/job/oOGbxfwW?nl=1&nl=1&fr=false",
+    "locations": [
+      "Raleigh, NC",
+      "Berwyn, PA"
+    ],
+    "company_url": "https://simplify.jobs/c/Yodlee",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Barry-Wehmiller",
+    "id": "a46be02c-d22d-485a-9004-fe7fad10c76b",
+    "title": "Entry Level - Software Engineer",
+    "active": true,
+    "date_updated": 1756939940,
+    "date_posted": 1756939940,
+    "url": "https://barrywehmiller.wd1.myworkdayjobs.com/BWCareers/job/Dallas-TX/Entry-Level---Software-Engineer_R019332",
+    "locations": [
+      "Dallas, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Barry-Wehmiller",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
