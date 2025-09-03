@@ -119101,5 +119101,53 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Hewlett Packard Enterprise",
+    "id": "be476f85-663f-4c37-bc25-40a5853b02be",
+    "title": "Software Engineering Intern",
+    "active": true,
+    "terms": [
+      "Winter 2025"
+    ],
+    "date_updated": 1756876192,
+    "date_posted": 1756876192,
+    "url": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Ft-Collins-Colorado-United-States-of-America/Software-Engineering-Intern--Colorado-_1193616",
+    "locations": [
+      "Fort Collins, CO"
+    ],
+    "company_url": "https://simplify.jobs/c/Hewlett-Packard-Enterprise",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Hewlett Packard Enterprise",
+    "id": "7d759071-51ab-4627-818f-a1e444d0e332",
+    "title": "Firmware Engineer Intern",
+    "active": true,
+    "terms": [
+      "Winter 2025"
+    ],
+    "date_updated": 1756876186,
+    "date_posted": 1756876186,
+    "url": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Ft-Collins-Colorado-United-States-of-America/Firmware-Engineer-Intern--Colorado-_1193614",
+    "locations": [
+      "Fort Collins, CO"
+    ],
+    "company_url": "https://simplify.jobs/c/Hewlett-Packard-Enterprise",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
   }
 ]
