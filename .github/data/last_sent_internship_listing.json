@@ -119600,5 +119600,55 @@
       "Bachelor's",
       "Master's"
     ]
+  },
+  {
+    "date_updated": 1756907922,
+    "sponsorship": "Other",
+    "active": true,
+    "degrees": [
+      "Bachelor's"
+    ],
+    "url": "https://interdigital.wd5.myworkdayjobs.com/en-US/InterDigital_Intern/job/LosAltos_CA/Intern--Deep-Learning-for-Image-and-Video-Processing_REQ25-1014",
+    "company_name": "InterDigital",
+    "title": "Deep Learning for Image and Video Processing",
+    "locations": [
+      "Los Altos, CA"
+    ],
+    "terms": [
+      "Fall 2026",
+      "Spring 2026",
+      "Winter 2026",
+      "Fall 2025",
+      "Summer 2026"
+    ],
+    "category": "Data Science, AI & Machine Learning",
+    "source": "AlmondCroffle",
+    "id": "ee0379ef-c1e4-42e8-a423-0a7c99314e64",
+    "date_posted": 1756907922,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1756908502,
+    "sponsorship": "Does Not Offer Sponsorship",
+    "active": true,
+    "degrees": [
+      "Bachelor's"
+    ],
+    "url": "https://gdit.wd5.myworkdayjobs.com/en-US/gdit_earlytalent/job/USA-LA-Bossier-City/Cloud-Developer-Associate--Intern-_RQ205801",
+    "company_name": "GDIT",
+    "title": "Cloud Developer Associate",
+    "locations": [
+      "Bossier City, LA"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "category": "Software Engineering",
+    "source": "AlmondCroffle",
+    "id": "3013a6b5-07d8-4678-a461-3932a14ab861",
+    "date_posted": 1756908502,
+    "company_url": "",
+    "is_visible": true
   }
 ]
