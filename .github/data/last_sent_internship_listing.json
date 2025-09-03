@@ -119747,5 +119747,124 @@
     "date_posted": 1756924774,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "date_updated": 1756925014,
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "degrees": [
+      "Bachelor's"
+    ],
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/NVIDIA-2026-Internships--Mixed-Signal-Design-and-Digital-Circuit-Design_JR2003199",
+    "company_name": "NVIDIA",
+    "title": "Mixed Signal Design and Digital Circuit Design Intern",
+    "locations": [
+      "Santa Clara, CA"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "category": "Hardware Engineering",
+    "source": "unvibingcode",
+    "id": "352588a9-d220-43f1-9f3b-5e507ac6c35d",
+    "date_posted": 1756925014,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1756925028,
+    "sponsorship": "Does Not Offer Sponsorship",
+    "active": true,
+    "degrees": [
+      "Bachelor's"
+    ],
+    "url": "https://ntrs.wd1.myworkdayjobs.com/en-US/northerntrust/job/Chicago-IL/Technology-Intern---Software-Development_R146632-1",
+    "company_name": "Northern Trust",
+    "title": "Technology Intern \u2013 Software Development",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "category": "Software Engineering",
+    "source": "unvibingcode",
+    "id": "8cb4cac4-08c2-4d2b-a1ab-241c16da0cad",
+    "date_posted": 1756925028,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1756925043,
+    "sponsorship": "Does Not Offer Sponsorship",
+    "active": true,
+    "degrees": [
+      "Bachelor's"
+    ],
+    "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/details/Software-Engineering----Intern--Bachelor-s_JR0276773?workerSubType=dc8bf79476611087dfde99931439ae75&jobFamilyGroup=dc8bf79476611087d67b36517cf17036",
+    "company_name": "Intel",
+    "title": "Software Engineering Intern",
+    "locations": [
+      "Hillsboro, OR",
+      "Folsom, CA",
+      "Santa Clara, CA",
+      "Austin, TX",
+      "Phoenix, AZ"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "category": "Software Engineering",
+    "source": "unvibingcode",
+    "id": "dd8a1d92-b3ed-4880-80b3-30847f212b20",
+    "date_posted": 1756925043,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1756925057,
+    "sponsorship": "Does Not Offer Sponsorship",
+    "active": true,
+    "degrees": [
+      "Bachelor's"
+    ],
+    "url": "https://jobs.baesystems.com/global/en/job/BAE1US115385BREXTERNAL/Software-Engineering-Intern-Summer-2026",
+    "company_name": "BAE Systems",
+    "title": "Software Engineering Intern",
+    "locations": [
+      "San Diego, CA"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "category": "Software Engineering",
+    "source": "unvibingcode",
+    "id": "740391a8-0d95-40cf-bbae-78c6a560582e",
+    "date_posted": 1756925057,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1756925120,
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "degrees": [
+      "Bachelor's"
+    ],
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/NVIDIA-2026-Internships--Autonomous-Vehicles-and-Robotics_JR2003207",
+    "company_name": "NVIDIA",
+    "title": "Autonomous Vehicles and Robotics Intern",
+    "locations": [
+      "Santa Clara, CA"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "category": "Software Engineering",
+    "source": "unvibingcode",
+    "id": "544f5951-4740-4be0-9415-cd1063969357",
+    "date_posted": 1756925120,
+    "company_url": "",
+    "is_visible": true
   }
 ]
