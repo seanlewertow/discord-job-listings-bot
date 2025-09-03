@@ -119699,5 +119699,53 @@
       "Bachelor's",
       "Master's"
     ]
+  },
+  {
+    "date_updated": 1756924730,
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "degrees": [
+      "Bachelor's"
+    ],
+    "url": "https://careers.usbank.com/global/en/job/2025-0020194/2026-Engineering-Summer-Intern",
+    "company_name": "US Bank",
+    "title": "Engineering Intern",
+    "locations": [
+      "Hopkins, MN"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "category": "Software Engineering",
+    "source": "unvibingcode",
+    "id": "40455610-4250-4a9b-8713-92dd178b9eab",
+    "date_posted": 1756924730,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1756924774,
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "degrees": [
+      "Bachelor's"
+    ],
+    "url": "https://stripe.com/jobs/listing/software-engineer-intern-summer-and-winter/7210115",
+    "company_name": "Stripe",
+    "title": "Software Engineer, Intern",
+    "locations": [
+      "San Francisco, CA",
+      "Seattle, WA",
+      "New York, NY"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "category": "Software Engineering",
+    "source": "unvibingcode",
+    "id": "f0582c4a-908e-4674-bab8-9b3f6f34fd74",
+    "date_posted": 1756924774,
+    "company_url": "",
+    "is_visible": true
   }
 ]
