@@ -119650,5 +119650,54 @@
     "date_posted": 1756908502,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "United Parcel Service (UPS)",
+    "id": "49943157-2491-4f93-bafd-07f0d55e97d5",
+    "title": "UPS Technology Group Summer 2026 Internship",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1756908472,
+    "date_posted": 1756908472,
+    "url": "https://hcmportal.wd5.myworkdayjobs.com/en-US/Search/job/US---IS-PARSIPPANY-NJPRS/UPS-Technology-Group-Summer-2026-Internship---NJ_R25031060",
+    "locations": [
+      "Mahwah, NJ",
+      "Parsippany-Troy Hills, NJ"
+    ],
+    "company_url": "https://simplify.jobs/c/United-Parcel-Service",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "GE Vernova",
+    "id": "0136df5a-b107-4bf9-8903-03cab92ec4f0",
+    "title": "GE Vernova Gas Power Aeroderivative Commercial Internship",
+    "active": true,
+    "terms": [
+      "Winter 2026",
+      "Summer 2026"
+    ],
+    "date_updated": 1756852878,
+    "date_posted": 1756852878,
+    "url": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Schenectady/GE-Vernova-Gas-Power-Aeroderivative-Commercial-Internship---Summer-2026_R5017365-3",
+    "locations": [
+      "Schenectady, NY"
+    ],
+    "company_url": "https://simplify.jobs/c/GE-Vernova",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
   }
 ]
