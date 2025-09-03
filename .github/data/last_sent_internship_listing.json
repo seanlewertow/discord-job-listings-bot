@@ -119524,5 +119524,28 @@
       "Bachelor's",
       "Master's"
     ]
+  },
+  {
+    "date_updated": 1756902806,
+    "sponsorship": "U.S. Citizenship is Required",
+    "active": true,
+    "degrees": [
+      "Bachelor's"
+    ],
+    "url": "https://job-boards.greenhouse.io/mwinternshipprogram/jobs/8062751002",
+    "company_name": "Marshall Wace",
+    "title": "Technology Intern",
+    "locations": [
+      "New York, NY"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "category": "Software Engineering",
+    "source": "zrack23",
+    "id": "19589bf3-5579-4332-812d-64794809df08",
+    "date_posted": 1756902806,
+    "company_url": "",
+    "is_visible": true
   }
 ]
