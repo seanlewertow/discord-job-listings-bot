@@ -120075,5 +120075,128 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Gridmatic",
+    "id": "f827b665-b73a-4eb7-b3f6-0f5c30bac75e",
+    "title": "Machine Learning Intern",
+    "active": true,
+    "terms": [
+      "Winter 2025"
+    ],
+    "date_updated": 1756941093,
+    "date_posted": 1756941093,
+    "url": "https://jobs.lever.co/gridmatic/846b8375-c841-47b3-90d0-253736ee8f2d/apply",
+    "locations": [
+      "Cupertino, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Gridmatic",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "PhD"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Gridmatic",
+    "id": "731fa98e-d8e7-474b-8e78-31cd5cb31cf5",
+    "title": "Data Science Intern",
+    "active": true,
+    "terms": [
+      "Winter 2025"
+    ],
+    "date_updated": 1756941079,
+    "date_posted": 1756941079,
+    "url": "https://jobs.lever.co/gridmatic/173cfb03-e493-4074-a573-a5d9ed3cabe1/apply",
+    "locations": [
+      "Cupertino, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Gridmatic",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Cigna Group",
+    "id": "706d81b9-30b4-4081-a1c7-61a9ff825cc2",
+    "title": "Technology Development Program - Tecdp",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1756941046,
+    "date_posted": 1756941046,
+    "url": "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Bloomfield-CT/Job-Posting-Title-Technology-Development-Program--TECDP--Summer-Internship-2026_25011432",
+    "locations": [
+      "Bloomington, MN",
+      "Austin, TX",
+      "Morristown, NJ",
+      "St. Louis, MO",
+      "Hartford, CT"
+    ],
+    "company_url": "https://simplify.jobs/c/Cigna-Group",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Other",
+    "company_name": "Xcel Energy",
+    "id": "49bd9bea-0be0-4b8a-b757-c6efba644c31",
+    "title": "IT Technical Intern",
+    "active": true,
+    "terms": [
+      "Winter 2025"
+    ],
+    "date_updated": 1756941134,
+    "date_posted": 1756941134,
+    "url": "https://xcelenergy.wd1.myworkdayjobs.com/External/job/Amarillo-TX-79109/IT-Technical-Intern--TX-_JR109779-1",
+    "locations": [
+      "Amarillo, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Xcel-Energy",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Wintermute",
+    "id": "d1856aac-0a4c-4434-8392-32b0851ae579",
+    "title": "Quant Research Internship",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1756940850,
+    "date_posted": 1756940850,
+    "url": "https://jobs.lever.co/wintermute-trading/a86a12ce-041c-4eef-a1e6-1f9308cf5ad1/apply",
+    "locations": [
+      "London, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Wintermute",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
   }
 ]
