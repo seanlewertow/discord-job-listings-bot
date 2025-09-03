@@ -119866,5 +119866,120 @@
     "date_posted": 1756925120,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "source": "Simplify",
+    "category": "Other",
+    "company_name": "Dominion Energy",
+    "id": "c8f69263-a903-41fe-acfe-ce757af98837",
+    "title": "Intern \u2013 Vmware administration",
+    "active": true,
+    "terms": [
+      "Winter 2025"
+    ],
+    "date_updated": 1756938136,
+    "date_posted": 1756938136,
+    "url": "https://careers.dominionenergy.com/job/CAYCE-Intern-VMWare-administration-Columbia-SC-SC-29033/1322701300/?ats=successfactors",
+    "locations": [
+      "Columbia, SC"
+    ],
+    "company_url": "https://simplify.jobs/c/Dominion-Energy",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Berkshire Hathaway Energy",
+    "id": "52172e4f-b0fd-4bb9-95b7-827498cbecaf",
+    "title": "Intern \u2013 Technical Training",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1756938290,
+    "date_posted": 1756938290,
+    "url": "https://fa-essf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs/job/10003438",
+    "locations": [
+      "Greensburg, PA"
+    ],
+    "company_url": "https://simplify.jobs/c/Berkshire-Hathaway-Energy",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Geneva Trading",
+    "id": "164a79b3-3f4c-49ab-8c87-684589eebb93",
+    "title": "Intern \u2013 Quantitative Risk Analyst",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1756938203,
+    "date_posted": 1756938203,
+    "url": "https://job-boards.greenhouse.io/genevatrading/jobs/4853820007",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/0b082f0c-14dc-4c9d-adf9-cd4526750d29",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "FHLBank Chicago",
+    "id": "94784461-c1a0-4e63-a148-fd28549b4f88",
+    "title": "Summer Internship-Modern Engineering",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1756938237,
+    "date_posted": 1756938237,
+    "url": "https://fhlbc.wd1.myworkdayjobs.com/search/job/Chicago/Summer-Internship--Modern-Engineering_R2500353",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/e65bca86-ee8e-4604-8b58-64e20a3b9f39",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Geneva Trading",
+    "id": "38dd8990-3384-44d0-8ce1-3bc2b296a5f2",
+    "title": "Intern \u2013 Data Engineer - Python",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1756938196,
+    "date_posted": 1756938196,
+    "url": "https://job-boards.greenhouse.io/genevatrading/jobs/4855404007",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/0b082f0c-14dc-4c9d-adf9-cd4526750d29",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
