@@ -119267,5 +119267,51 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Other",
+    "company_name": "TD Bank",
+    "id": "7e9865ec-86b3-4ff1-8b03-72a54f7c2710",
+    "title": "2026 Internship Program - IT Audit",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1756884015,
+    "date_posted": 1756884015,
+    "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/New-York-New-York/XMLNAME-2026-Internship-Program---IT-Audit--NYC-_R_1442722",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/TD-Bank",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "ASSA ABLOY",
+    "id": "159419ee-9b51-4594-9e4f-394f1a0c4f5e",
+    "title": "Data Process Automation Intern",
+    "active": true,
+    "terms": [
+      "Winter 2025"
+    ],
+    "date_updated": 1756883691,
+    "date_posted": 1756883691,
+    "url": "https://assaabloy.jobs2web.com/job/Lake-Forest-Data-Process-Automation-Intern-CA-92610/1225131801/?ats=successfactors",
+    "locations": [
+      "Lake Forest, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/ASSA-ABLOY",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Master's"
+    ]
   }
 ]
