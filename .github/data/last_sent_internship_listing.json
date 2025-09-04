@@ -121964,5 +121964,51 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Nike",
+    "id": "7f9390d8-f194-43a7-9411-1612e49ee6a1",
+    "title": "Software Engineering Undergraduate Internship",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1756997561,
+    "date_posted": 1756997561,
+    "url": "https://nike.wd1.myworkdayjobs.com/en-US/nke/job/Beaverton-Oregon/Software-Engineering-Undergraduate-Internship_R-68767",
+    "locations": [
+      "Beaverton, OR"
+    ],
+    "company_url": "https://simplify.jobs/c/Nike",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Dow Jones",
+    "id": "247718cb-a4b2-4250-9bdc-df6bd43e6233",
+    "title": "Summer 2026 Internship - OPIS Strategic Insights Team - Chemical Market Analytics",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1756998158,
+    "date_posted": 1756513550,
+    "url": "https://dowjones.wd1.myworkdayjobs.com/en-US/Dow_Jones_Career/job/Houston-TX---OPIS/Summer-2026-Internship---OPIS-Strategic-Insights-Team--Chemical-Market-Analytics_Job_Req_48482",
+    "locations": [
+      "Houston, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Dow-Jones",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
