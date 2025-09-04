@@ -24569,5 +24569,27 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Torc Robotics",
+    "id": "ef1b6510-b1fa-4caf-bfbf-52e30e4d8823",
+    "title": "Machine Learning Engineer I - App Engine - Cuda",
+    "active": true,
+    "date_updated": 1756955948,
+    "date_posted": 1756955948,
+    "url": "https://job-boards.greenhouse.io/torcrobotics/jobs/8136080002",
+    "locations": [
+      "Ann Arbor, MI"
+    ],
+    "company_url": "https://simplify.jobs/c/Torc-Robotics",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "PhD"
+    ]
   }
 ]
