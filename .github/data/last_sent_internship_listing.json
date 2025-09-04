@@ -121124,5 +121124,51 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Other",
+    "company_name": "Meijer",
+    "id": "eb4a2d58-78a6-4f46-80de-f29f72094748",
+    "title": "Information Technology Intern",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1756945483,
+    "date_posted": 1756945483,
+    "url": "https://meijer.wd5.myworkdayjobs.com/en-US/Meijer/job/Grand-Rapids-MI/Information-Technology-Intern--Summer-2026_R000606587",
+    "locations": [
+      "Grand Rapids, MI"
+    ],
+    "company_url": "https://simplify.jobs/c/64266d7e-3396-4232-b0e2-6d27da163273",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Inmar Intelligence",
+    "id": "d77ca99a-a69e-4020-9293-456c6cd5ea96",
+    "title": "Software Engineering Internships",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1756945612,
+    "date_posted": 1756945612,
+    "url": "https://inmar.wd1.myworkdayjobs.com/inmarcareers/job/Headquarters-Winston-Salem-NC/Software-Engineering-Internships--Summer-2026_JY2526509",
+    "locations": [
+      "Winston-Salem, NC"
+    ],
+    "company_url": "https://simplify.jobs/c/Inmar-Intelligence",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
