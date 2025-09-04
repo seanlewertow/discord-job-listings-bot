@@ -121720,5 +121720,129 @@
     "date_posted": 1756983421,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "date_updated": 1756983909,
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "degrees": [
+      "Bachelor's"
+    ],
+    "url": "https://simon.wd1.myworkdayjobs.com/en-US/Simon/job/Indianapolis-IN/Intern---Software-Quality-Assurance_R12533",
+    "company_name": "Simon",
+    "title": "Software Quality Assurance",
+    "locations": [
+      "Indianapolis, IN"
+    ],
+    "terms": [
+      "Fall 2026",
+      "Spring 2026",
+      "Winter 2026",
+      "Summer 2026"
+    ],
+    "category": "Software Engineering",
+    "source": "AlmondCroffle",
+    "id": "8cba827f-02a4-4568-b791-4a358257354a",
+    "date_posted": 1756983909,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1756983979,
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "degrees": [
+      "Bachelor's"
+    ],
+    "url": "https://simon.wd1.myworkdayjobs.com/en-US/Simon/job/Indianapolis-IN/Intern---Azure-Cloud-Administration_R12531",
+    "company_name": "Simon",
+    "title": "Azure Cloud Administration",
+    "locations": [
+      "Indianapolis, IN"
+    ],
+    "terms": [
+      "Fall 2026",
+      "Spring 2026",
+      "Winter 2026",
+      "Summer 2026"
+    ],
+    "category": "Software Engineering",
+    "source": "AlmondCroffle",
+    "id": "76801775-843c-4789-9b6a-50aa08de2593",
+    "date_posted": 1756983979,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1756984194,
+    "sponsorship": "U.S. Citizenship is Required",
+    "active": true,
+    "degrees": [
+      "Bachelor's"
+    ],
+    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/HIA32-Cedar-Rapids-IA-400-Collins-Rd-NE---Cedar-Rapids-IA-52498-0505-USA/Software-Engineering-Co-Op--Summer-Fall-2026---Onsite-_01786610",
+    "company_name": "RTX",
+    "title": "Software Engineering Co-Op (Onsite)",
+    "locations": [
+      "Cedar Rapids, IA"
+    ],
+    "terms": [
+      "Summer 2026",
+      "Fall 2026"
+    ],
+    "category": "Software Engineering",
+    "source": "AlmondCroffle",
+    "id": "f7c3d1e6-1b8f-4c0f-91df-68ade7145971",
+    "date_posted": 1756984194,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1756984246,
+    "sponsorship": "U.S. Citizenship is Required",
+    "active": true,
+    "degrees": [
+      "Bachelor's"
+    ],
+    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/HMN03-SIS-Sensors---Burnsville-Ea-14300-Judicial-Rd-Burnsville-MN-55306-USA/Software-Engineer-Co-Op--Spring-Summer-2026--Hybrid-_01789800",
+    "company_name": "RTX",
+    "title": "Software Engineer Co-Op (Hybrid)",
+    "locations": [
+      "Burnsville, MN"
+    ],
+    "terms": [
+      "Summer 2026",
+      "Spring 2026"
+    ],
+    "category": "Software Engineering",
+    "source": "AlmondCroffle",
+    "id": "d90b7631-08b3-4e14-8cb1-1d6b360c9796",
+    "date_posted": 1756984246,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1756984285,
+    "sponsorship": "U.S. Citizenship is Required",
+    "active": true,
+    "degrees": [
+      "Bachelor's"
+    ],
+    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/HFL34-Melbourne-FL-1100-W-Hibiscus-Blvd---Melbourne-FL-32902-2704-USA/Software-Engineer-Co-Op--Spring-Summer-2026--Hybrid-_01789464",
+    "company_name": "RTX",
+    "title": "Software Engineer Co-Op (Hybrid)",
+    "locations": [
+      "Melbourne, FL"
+    ],
+    "terms": [
+      "Summer 2026",
+      "Spring 2026"
+    ],
+    "category": "Software Engineering",
+    "source": "AlmondCroffle",
+    "id": "d9ad917e-3721-4e6a-9523-942fc4fac6c3",
+    "date_posted": 1756984285,
+    "company_url": "",
+    "is_visible": true
   }
 ]
