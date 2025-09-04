@@ -122242,5 +122242,98 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "The MJ Companies",
+    "id": "811d84f2-5b81-49de-8a75-64f83df6a318",
+    "title": "EB Analytics Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1757009603,
+    "date_posted": 1757009603,
+    "url": "https://job-boards.greenhouse.io/themjcos/jobs/4825917008",
+    "locations": [
+      "Carmel, IN"
+    ],
+    "company_url": "https://simplify.jobs/c/The-MJ-Companies",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "The MJ Companies",
+    "id": "2e6d076a-f479-49ac-b1a7-d54b97a1ae28",
+    "title": "EB Analytics Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1757009645,
+    "date_posted": 1757009645,
+    "url": "https://job-boards.greenhouse.io/themjcos/jobs/4904714008",
+    "locations": [
+      "Phoenix, AZ"
+    ],
+    "company_url": "https://simplify.jobs/c/The-MJ-Companies",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Other",
+    "company_name": "Western & Southern Financial Group",
+    "id": "afd9c3a5-9f96-408f-89be-333b332b6b3e",
+    "title": "Hardware Service Desk Intern",
+    "active": true,
+    "terms": [
+      "Winter 2025"
+    ],
+    "date_updated": 1757009475,
+    "date_posted": 1757009475,
+    "url": "https://careers-westernsouthern.icims.com/jobs/23664/job",
+    "locations": [
+      "Cincinnati, OH"
+    ],
+    "company_url": "https://simplify.jobs/c/Western-Southern-Financial-Group",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "GlobalFoundries",
+    "id": "ecb9a090-99f1-4f48-8ec3-5b5a6485bb93",
+    "title": "Gflabs Research & Development Intern - Neural Processing Unit and Hardware Accelerator Architectures - Summer 2026",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1757009057,
+    "date_posted": 1757009057,
+    "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/gfLABS-Research---Development-Intern--Neural-Processing-Unit-and-Hardware-Accelerator-Architectures--Summer-2026-_JR-2502801",
+    "locations": [
+      "Malta, NY"
+    ],
+    "company_url": "https://simplify.jobs/c/GlobalFoundries",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Master's",
+      "PhD"
+    ]
   }
 ]
