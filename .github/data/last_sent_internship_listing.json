@@ -122385,5 +122385,29 @@
       "Bachelor's",
       "Master's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Other",
+    "company_name": "Meta",
+    "id": "cb8079f6-5805-406c-a142-1a003c9c739b",
+    "title": "Security Engineer Intern - Identity & Access Management",
+    "active": true,
+    "terms": [
+      "Winter 2025"
+    ],
+    "date_updated": 1757013017,
+    "date_posted": 1757013017,
+    "url": "https://www.metacareers.com/jobs/770613715578381",
+    "locations": [
+      "London, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Meta",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
   }
 ]
