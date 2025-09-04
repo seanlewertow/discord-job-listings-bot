@@ -121502,5 +121502,29 @@
       "Bachelor's",
       "Master's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Eluvio",
+    "id": "1f0509b9-4976-44da-865d-8b144d7d72ec",
+    "title": "Machine Learning / Data Science Intern",
+    "active": true,
+    "terms": [
+      "Winter 2025"
+    ],
+    "date_updated": 1756981625,
+    "date_posted": 1756981625,
+    "url": "https://apply.workable.com/eluvio/j/247DF877DF/apply",
+    "locations": [
+      "Berkeley, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Eluvio",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Master's",
+      "PhD"
+    ]
   }
 ]
