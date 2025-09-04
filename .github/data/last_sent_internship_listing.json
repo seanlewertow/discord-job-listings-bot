@@ -122934,5 +122934,84 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Iberdrola Group",
+    "id": "b9e3e72f-3974-407b-84a3-4b54bf78c747",
+    "title": "Data Analytics/Data Science Intern",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1757026947,
+    "date_posted": 1757026947,
+    "url": "https://iberdrola.wd3.myworkdayjobs.com/iberdrola/job/United-States-Of-America-New-York-Rochester/XMLNAME-2026-Summer-Data-Analytics-Data-Science-Intern_R-22401",
+    "locations": [
+      "Rochester, NY",
+      "Augusta, ME",
+      "Milford, CT",
+      "Portland, OR"
+    ],
+    "company_url": "https://simplify.jobs/c/Iberdrola-Group",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Verizon Communications",
+    "id": "664bf394-b282-4cc4-b369-f4cafe2d8629",
+    "title": "Verizon Global Solutions Technology Internship",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1757026959,
+    "date_posted": 1757026959,
+    "url": "https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Basking-Ridge-New-Jersey/Verizon-Global-Solutions-Technology-Summer-2026-Internship_R-1084407",
+    "locations": [
+      "E Fowler Ave, Tampa, FL",
+      "Irvine, CA",
+      "Berkeley Heights, NJ",
+      "Ashburn, VA",
+      "Alpharetta, GA",
+      "Irving, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Verizon-Communications",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "DriveTime",
+    "id": "428826a7-ec28-4d3e-8f9e-1128b4c972a3",
+    "title": "Software Engineer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1757026949,
+    "date_posted": 1757026949,
+    "url": "https://drivetime.wd1.myworkdayjobs.com/DriveTime/job/1720-W-Rio-Salado-Pkwy-Tempe-AZ-85281/Software-Engineer-Intern--Summer-2026-_R13250-1",
+    "locations": [
+      "Tempe, AZ"
+    ],
+    "company_url": "https://simplify.jobs/c/drivetime",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
   }
 ]
