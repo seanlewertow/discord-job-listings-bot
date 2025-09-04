@@ -24763,5 +24763,82 @@
     "date_posted": 1756975226,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "date_updated": 1756975605,
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "degrees": [],
+    "url": "https://viavisolutions.wd1.myworkdayjobs.com/en-US/careers/job/Minnetonka-MN-USA/Early-Careers-Rotational-Program---R-D-Engineer--AI-_250003743-1",
+    "company_name": "VIAVI",
+    "title": "Early Careers Rotational Program - R&D Engineer (AI)",
+    "locations": [
+      "Minnetonka, MN"
+    ],
+    "category": "Data Science, AI & Machine Learning",
+    "source": "AlmondCroffle",
+    "id": "029395e6-da90-46b8-8027-b4a3169ff396",
+    "date_posted": 1756975605,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1756975770,
+    "sponsorship": "U.S. Citizenship is Required",
+    "active": true,
+    "degrees": [],
+    "url": "https://cigna.wd5.myworkdayjobs.com/en-US/cignacareers/job/St-Louis-MO/Technology-Development-Program--TECDP-----Artificial-Intelligence-Track---Start-Date--July-13--2026_25011433",
+    "company_name": "The Cigna Group",
+    "title": "Technology Development Program (TECDP) - Artificial Intelligence",
+    "locations": [
+      "St. Louis, MO",
+      "Morris Plains, NJ",
+      "Bloomfield, CT",
+      "Austin, TX"
+    ],
+    "category": "Data Science, AI & Machine Learning",
+    "source": "AlmondCroffle",
+    "id": "52d706e2-5eb3-4f0c-b19b-c8c6506f6863",
+    "date_posted": 1756975770,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1756975875,
+    "sponsorship": "Other",
+    "active": true,
+    "degrees": [
+      "Master's"
+    ],
+    "url": "https://td.wd3.myworkdayjobs.com/en-US/td_bank_careers/job/New-York-New-York/XMLNAME-2026-Summer-Associate---Quantitative-Rotational-Program_R_1441549",
+    "company_name": "TD",
+    "title": "Quantitative Rotational Program",
+    "locations": [
+      "New York, NY"
+    ],
+    "category": "Quantitative Finance",
+    "source": "AlmondCroffle",
+    "id": "2c672e97-b9d8-4746-b76f-bf758f8ad8ab",
+    "date_posted": 1756975875,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1756975959,
+    "sponsorship": "Does Not Offer Sponsorship",
+    "active": true,
+    "degrees": [],
+    "url": "https://tmobile.wd1.myworkdayjobs.com/en-US/External/job/Bellevue-Washington/Associate-AI-Engineer_REQ329843-1",
+    "company_name": "T-Mobile",
+    "title": "Associate AI Engineer",
+    "locations": [
+      "Bellevue, WA"
+    ],
+    "category": "Data Science, AI & Machine Learning",
+    "source": "AlmondCroffle",
+    "id": "0e7c6e6e-9a7e-48c4-b9a6-e78be48d2066",
+    "date_posted": 1756975959,
+    "company_url": "",
+    "is_visible": true
   }
 ]
