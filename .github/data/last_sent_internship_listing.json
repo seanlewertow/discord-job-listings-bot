@@ -120883,5 +120883,129 @@
       "Bachelor's",
       "Master's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Other",
+    "company_name": "Lennar Corporation",
+    "id": "a9b26733-e2c4-44e9-afcd-a1a5edce44e1",
+    "title": "Futurebuilders Internship Program: Security Analysis",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1756964633,
+    "date_posted": 1756964633,
+    "url": "https://lennar.wd1.myworkdayjobs.com/Lennar_Jobs/job/LEN---Miami-FL---Corporate/FutureBuilders-Internship-Program--Security-Analysis_R25_0000003654",
+    "locations": [
+      "Bentonville, AR",
+      "Miami, FL",
+      "Dallas, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Lennar-Corporation",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Other",
+    "company_name": "Lennar Corporation",
+    "id": "58317332-6a09-4df7-8e4f-3f1db09b116e",
+    "title": "Future Builders Internship Program - Security Engineering",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1756964633,
+    "date_posted": 1756964633,
+    "url": "https://lennar.wd1.myworkdayjobs.com/Lennar_Jobs/job/LEN---Miami-FL---Corporate/Future-Builders-Internship-Program---Security-Engineering-_R25_0000003656",
+    "locations": [
+      "Bentonville, AR",
+      "Miami, FL",
+      "Dallas, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Lennar-Corporation",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Lennar Corporation",
+    "id": "570bee15-f000-4d1c-b3b9-fd702de61279",
+    "title": "Future Builders Internship Program - Data Engineering",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1756964631,
+    "date_posted": 1756964631,
+    "url": "https://lennar.wd1.myworkdayjobs.com/Lennar_Jobs/job/LEN---Miami-FL---Corporate/Future-Builders-Internship-Program---Data-Engineering_R25_0000003652",
+    "locations": [
+      "Bentonville, AR",
+      "Miami, FL",
+      "Dallas, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Lennar-Corporation",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Meta",
+    "id": "0e9174ee-b2a8-46e1-a623-67ccb9c33586",
+    "title": "Research Scientist Intern - Synthetic Image Generation - PhD",
+    "active": true,
+    "terms": [
+      "Winter 2025"
+    ],
+    "date_updated": 1756964474,
+    "date_posted": 1756964474,
+    "url": "https://www.metacareers.com/jobs/1417088779776467",
+    "locations": [
+      "Burlingame, CA",
+      "Redmond, WA",
+      "Sunnyvale, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Meta",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "PhD"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "The Walt Disney Company",
+    "id": "8973d82b-62ed-4aa4-9c0f-f684727613ac",
+    "title": "Commercial Data Science Intern",
+    "active": true,
+    "terms": [
+      "Winter 2026",
+      "Spring 2026"
+    ],
+    "date_updated": 1756964258,
+    "date_posted": 1756964258,
+    "url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Lake-Buena-Vista-FL-USA/Commercial-Data-Science-Intern--Spring-2026_10127620",
+    "locations": [
+      "Celebration, FL"
+    ],
+    "company_url": "https://simplify.jobs/c/Disney",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
