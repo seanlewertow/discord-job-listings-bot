@@ -120694,5 +120694,29 @@
       "Bachelor's",
       "Master's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Impulse Space",
+    "id": "cb432375-a986-45cf-b810-dd2435510b3c",
+    "title": "Ground Software Engineering Intern",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1756961251,
+    "date_posted": 1756961251,
+    "url": "https://impulsespace.pinpointhq.com/en/postings/5341c348-fcee-476f-8ca9-3a90896841e2?ats=pinpointhq",
+    "locations": [
+      "El Segundo, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Impulse-Space",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
   }
 ]
