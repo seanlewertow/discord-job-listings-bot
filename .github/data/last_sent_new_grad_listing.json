@@ -24896,5 +24896,59 @@
     "date_posted": 1756981080,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "date_updated": 1756981665,
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "degrees": [],
+    "url": "https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/Ft-Collins-Colorado-United-States-of-America/Firmware-Engineer-Graduate--Colorado-_1193613-1",
+    "company_name": "Hewlett Packard Enterprise",
+    "title": "Firmware Engineer Graduate",
+    "locations": [
+      "Ft. Collins, CO"
+    ],
+    "category": "Hardware Engineering",
+    "source": "AlmondCroffle",
+    "id": "d2b4b747-892a-478e-aa7a-0f21642b6445",
+    "date_posted": 1756981665,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1756981796,
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "degrees": [],
+    "url": "https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/Ft-Collins-Colorado-United-States-of-America/Software-Engineering-Graduate--Colorado-_1193615-1",
+    "company_name": "Hewlett Packard Enterprise",
+    "title": "Software Engineering Graduate",
+    "locations": [
+      "Ft. Collins, CO"
+    ],
+    "category": "Software Engineering",
+    "source": "AlmondCroffle",
+    "id": "6b08e82f-ef09-440e-aa44-6795153bdeda",
+    "date_posted": 1756981796,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1756981921,
+    "sponsorship": "Does Not Offer Sponsorship",
+    "active": true,
+    "degrees": [],
+    "url": "https://bonterra.wd1.myworkdayjobs.com/en-US/bonterratech/job/Remote-United-States/EA-Data-Engineer-I--Services_R2025-0310",
+    "company_name": "Bonterra",
+    "title": "EA-Data Engineer I, Services",
+    "locations": [
+      "Remote in USA"
+    ],
+    "category": "Data Science, AI & Machine Learning",
+    "source": "AlmondCroffle",
+    "id": "7cf3ac86-36ec-48d6-b196-df55320ca40a",
+    "date_posted": 1756981921,
+    "company_url": "",
+    "is_visible": true
   }
 ]
