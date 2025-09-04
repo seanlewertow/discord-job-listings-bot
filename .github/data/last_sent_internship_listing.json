@@ -121595,5 +121595,130 @@
     "date_posted": 1756982796,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "date_updated": 1756983017,
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "degrees": [
+      "Bachelor's"
+    ],
+    "url": "https://careers-spscommerce.icims.com/jobs/9785/software-engineer-intern-%28talent-pool%29/job",
+    "company_name": "SPS Commerce",
+    "title": "Software Engineer Intern (Talent Pool)",
+    "locations": [
+      "Rogers, AR"
+    ],
+    "terms": [
+      "Fall 2026",
+      "Winter 2026",
+      "Spring 2026",
+      "Summer 2026"
+    ],
+    "category": "Software Engineering",
+    "source": "AlmondCroffle",
+    "id": "05e8ae04-19d2-404a-a7a0-ec625c9d3eb8",
+    "date_posted": 1756983017,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1756983081,
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "degrees": [
+      "Bachelor's"
+    ],
+    "url": "https://careers-spscommerce.icims.com/jobs/9793/software-engineer-intern-%28talent-pool%29/job",
+    "company_name": "SPS Commerce",
+    "title": "Software Engineer Intern (Talent Pool)",
+    "locations": [
+      "Minneapolis, MN"
+    ],
+    "terms": [
+      "Fall 2026",
+      "Spring 2026",
+      "Winter 2026",
+      "Summer 2026"
+    ],
+    "category": "Software Engineering",
+    "source": "AlmondCroffle",
+    "id": "0937c192-2e78-4411-b091-509574071974",
+    "date_posted": 1756983081,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1756983177,
+    "sponsorship": "U.S. Citizenship is Required",
+    "active": true,
+    "degrees": [
+      "Bachelor's"
+    ],
+    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/01-Building-01-Windsor-Locks-One-Hamilton-Road-Windsor-Locks-CT-06096-USA/EACS-SDE-Project-Engineer-Co-Op--Spring-Summer-2026--Onsite-_01787837",
+    "company_name": "RTX",
+    "title": "EACS SDE Project Engineer Co-Op",
+    "locations": [
+      "Windsor Locks, CT,"
+    ],
+    "terms": [
+      "Spring 2026",
+      "Summer 2026"
+    ],
+    "category": "Hardware Engineering",
+    "source": "AlmondCroffle",
+    "id": "fb9eb52e-0a30-41e7-8e6b-c3173d305b14",
+    "date_posted": 1756983177,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1756983311,
+    "sponsorship": "U.S. Citizenship is Required",
+    "active": true,
+    "degrees": [
+      "Bachelor's"
+    ],
+    "url": "https://careers-gdms.icims.com/jobs/67921/software-engineering-intern/job",
+    "company_name": "General Dynamics",
+    "title": "Software Engineering Intern",
+    "locations": [
+      "Canonsburg, PA"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "category": "Software Engineering",
+    "source": "AlmondCroffle",
+    "id": "71b12a2f-2062-4024-bf3b-65abd6891fce",
+    "date_posted": 1756983311,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1756983421,
+    "sponsorship": "Does Not Offer Sponsorship",
+    "active": true,
+    "degrees": [
+      "Bachelor's"
+    ],
+    "url": "https://gdit.wd5.myworkdayjobs.com/en-US/gdit_earlytalent/job/USA-LA-Bossier-City/TSS-Software-Tester-Associate--Intern-_RQ204605",
+    "company_name": "GDIT",
+    "title": "TSS Software Tester Associate",
+    "locations": [
+      "Bossier City, LA"
+    ],
+    "terms": [
+      "Fall 2026",
+      "Spring 2026",
+      "Winter 2026",
+      "Summer 2026"
+    ],
+    "category": "Software Engineering",
+    "source": "AlmondCroffle",
+    "id": "c5f1deea-00cf-45df-b85c-3fd7093b6af1",
+    "date_posted": 1756983421,
+    "company_url": "",
+    "is_visible": true
   }
 ]
