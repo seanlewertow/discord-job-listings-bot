@@ -120718,5 +120718,98 @@
       "Bachelor's",
       "Master's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Nike",
+    "id": "4fb6e931-d563-4f1d-93e8-841f8c828f4b",
+    "title": "Artificial Intelligence \u2013 Data & Machine Learning Engineering Undergraduate Internship",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1756962816,
+    "date_posted": 1756962816,
+    "url": "https://nike.wd1.myworkdayjobs.com/en-US/nke/job/Beaverton-Oregon/Artificial-Intelligence--Data---Machine-Learning-Engineering-Undergraduate-Internship_R-68770",
+    "locations": [
+      "Beaverton, OR"
+    ],
+    "company_url": "https://simplify.jobs/c/Nike",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Vercel",
+    "id": "2b176baf-7ca2-4fb5-aa37-bb5129eafce0",
+    "title": "Engineering Spring Intern",
+    "active": true,
+    "terms": [
+      "Spring 2025"
+    ],
+    "date_updated": 1756962734,
+    "date_posted": 1756962734,
+    "url": "https://job-boards.greenhouse.io/vercel/jobs/5628286004",
+    "locations": [
+      "SF",
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Vercel",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Wonder",
+    "id": "2fbb7bfc-5166-4363-a9bc-57e97b846d26",
+    "title": "Supply Chain Analytics Intern",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1756962381,
+    "date_posted": 1756962381,
+    "url": "https://wonder.wd1.myworkdayjobs.com/WG/job/New-York-NY/Supply-Chain-Analytics-Intern---Summer-2026_JR100473-1",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Wonder",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "CMTelematics",
+    "id": "2666b6e1-ef7a-4904-ab2e-df060d3a553d",
+    "title": "Internships",
+    "active": true,
+    "terms": [
+      "Summer 2024"
+    ],
+    "date_updated": 1756962390,
+    "date_posted": 1756962390,
+    "url": "https://job-boards.greenhouse.io/cmt/jobs/6300371",
+    "locations": [
+      "Cambridge, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/CMTelematics",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
