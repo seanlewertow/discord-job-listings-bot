@@ -121030,5 +121030,99 @@
     "degrees": [
       "PhD"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Lennar Corporation",
+    "id": "aa6c6330-b78f-4b38-a2d3-898c9fda7032",
+    "title": "Future Builders Internship Program: Software Engineering",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1756966914,
+    "date_posted": 1756966914,
+    "url": "https://lennar.wd1.myworkdayjobs.com/Lennar_Jobs/job/LEN---Miami-FL---Corporate/Future-Builders-Internship-Program--Software-Engineering_R25_0000003647",
+    "locations": [
+      "Bentonville, AR",
+      "Miami, FL",
+      "Dallas, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Lennar-Corporation",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Merchants Bank of Indiana",
+    "id": "6a53c0ff-edd4-4cd8-80bc-8602c66f4bf1",
+    "title": "Business Technology Intern",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1756967052,
+    "date_posted": 1756967052,
+    "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/3548675",
+    "locations": [
+      "Carmel, IN"
+    ],
+    "company_url": "https://simplify.jobs/c/Merchants-Bank-Of-Indiana",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Merchants Bank of Indiana",
+    "id": "42a1a934-128a-4ecf-bff0-2f465deea1dc",
+    "title": "Business Analytics Intern",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1756967041,
+    "date_posted": 1756967041,
+    "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/3519373",
+    "locations": [
+      "Carmel, IN"
+    ],
+    "company_url": "https://simplify.jobs/c/Merchants-Bank-Of-Indiana",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "Geotab",
+    "id": "c17f680d-d8e7-40b7-8ed5-7b267458a25c",
+    "title": "Product Marketing Intern",
+    "active": true,
+    "terms": [
+      "Winter 2026"
+    ],
+    "date_updated": 1756942202,
+    "date_posted": 1756942202,
+    "url": "https://job-boards.greenhouse.io/internshiplist2000/jobs/4880789008",
+    "locations": [
+      "Oakville, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Geotab",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
