@@ -122057,5 +122057,97 @@
       "Bachelor's",
       "Master's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Qorvo",
+    "id": "0407d5a2-ca28-46e6-b21c-b4542f0e7354",
+    "title": "Software Engineer Intern",
+    "active": true,
+    "terms": [
+      "Winter 2025"
+    ],
+    "date_updated": 1757004347,
+    "date_posted": 1757004347,
+    "url": "https://careers.qorvo.com/job/Hillsboro-Software-Engineer-Intern-OR-97124/1322876900/?ats=successfactors",
+    "locations": [
+      "Hillsboro, OR"
+    ],
+    "company_url": "https://simplify.jobs/c/Qorvo",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Marshall Wace",
+    "id": "02e0d8f6-9108-49c6-9488-5887adbf5ea7",
+    "title": "Technology Intern",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1757004325,
+    "date_posted": 1757004325,
+    "url": "https://job-boards.greenhouse.io/mwinternshipprogram/jobs/7998360002",
+    "locations": [
+      "London, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Marshall-Wace",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "OffDeal",
+    "id": "1587dbfa-8e2e-457c-ad5c-c83ab32150d8",
+    "title": "Full Stack Engineering Intern",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1757004101,
+    "date_posted": 1757004101,
+    "url": "https://jobs.ashbyhq.com/offdeal/241f9277-97d4-4587-988f-5f7044c5a62b/application",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/OffDeal",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Generac",
+    "id": "a8616ca4-1cff-43dd-a738-3bfb48fc6820",
+    "title": "Marketing Analytics Intern",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1757003803,
+    "date_posted": 1757003803,
+    "url": "https://generac.wd5.myworkdayjobs.com/en-US/external/job/Pewaukee-WI---USA/Fall-2025-Marketing-Analytics-Intern_JR9623",
+    "locations": [
+      "Waukesha, WI"
+    ],
+    "company_url": "https://simplify.jobs/c/Generac",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
