@@ -122432,5 +122432,122 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "MasterControl",
+    "id": "be81a256-6fd9-4c71-adfd-2e6c2788455a",
+    "title": "Data Platform Operations Intern",
+    "active": true,
+    "terms": [
+      "Winter 2025"
+    ],
+    "date_updated": 1757018783,
+    "date_posted": 1757018783,
+    "url": "https://www.mastercontrol.com/careers/job-listings/role/?role=4601622005&gh_jid=4601622005",
+    "locations": [
+      "Salt Lake City, UT"
+    ],
+    "company_url": "https://simplify.jobs/c/MasterControl",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "MasterControl",
+    "id": "b36e8ebe-caca-4da9-9ec5-3edc9cb6fc08",
+    "title": "Software Engineering Intern",
+    "active": true,
+    "terms": [
+      "Winter 2025"
+    ],
+    "date_updated": 1757018780,
+    "date_posted": 1757018780,
+    "url": "https://www.mastercontrol.com/careers/job-listings/role/?role=4601626005&gh_jid=4601626005",
+    "locations": [
+      "Salt Lake City, UT"
+    ],
+    "company_url": "https://simplify.jobs/c/MasterControl",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "MasterControl",
+    "id": "523afa20-d095-45cc-8e29-86bb1cc3161e",
+    "title": "Machine Learning Ops Intern",
+    "active": true,
+    "terms": [
+      "Winter 2025"
+    ],
+    "date_updated": 1757018780,
+    "date_posted": 1757018780,
+    "url": "https://www.mastercontrol.com/careers/job-listings/role/?role=4601621005&gh_jid=4601621005",
+    "locations": [
+      "Salt Lake City, UT"
+    ],
+    "company_url": "https://simplify.jobs/c/MasterControl",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Walmart",
+    "id": "a8311c71-04e9-4ec9-a30b-31903300498b",
+    "title": "2025 Intern Conversion - Automation Engineering",
+    "active": true,
+    "terms": [
+      "Winter 2025"
+    ],
+    "date_updated": 1757018108,
+    "date_posted": 1757018108,
+    "url": "https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/New-Braunfels-TX/XMLNAME-2025-Intern-Conversion---2026-FT--Manager--Automation-Engineering_R-2265885",
+    "locations": [
+      "New Braunfels, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Walmart",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "CAI",
+    "id": "97205ead-ef17-458c-9cd7-6332acbf2784",
+    "title": "Junior Programmer/System Analyst Intern",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1757017842,
+    "date_posted": 1757017842,
+    "url": "https://cai.wd5.myworkdayjobs.com/computer_aid/job/PA-CLIENT-STATE/Junior-Programmer-System-Analyst-Intern_R6091",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/CAI-Io",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
