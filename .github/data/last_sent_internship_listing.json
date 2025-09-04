@@ -121170,5 +121170,56 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Lennar Corporation",
+    "id": "d0decfe0-7b2b-4617-8fdf-1c020bed984e",
+    "title": "Future Builders Internship Program - Data Analysis",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1756969634,
+    "date_posted": 1756969634,
+    "url": "https://lennar.wd1.myworkdayjobs.com/Lennar_Jobs/job/LEN---Miami-FL---Corporate/Future-Builders-Internship-Program---Data-Analysis_R25_0000003650",
+    "locations": [
+      "Bentonville, AR",
+      "Miami, FL",
+      "Dallas, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Lennar-Corporation",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Sonatus",
+    "id": "317d8fc2-0ea0-4f0e-a6f5-13d203f20ed0",
+    "title": "AI Engineer Intern",
+    "active": true,
+    "terms": [
+      "Winter 2025",
+      "Winter 2026"
+    ],
+    "date_updated": 1756969412,
+    "date_posted": 1756969412,
+    "url": "https://job-boards.greenhouse.io/sonatus/jobs/4854696007",
+    "locations": [
+      "Sunnyvale, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Sonatus",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "PhD"
+    ]
   }
 ]
