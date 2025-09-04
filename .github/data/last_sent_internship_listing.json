@@ -121478,5 +121478,29 @@
     "date_posted": 1756977021,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "ServiceNow",
+    "id": "cf902aea-acc6-4735-8bff-bb131ab95cf2",
+    "title": "UTG \u2013 Software Engineer Internships",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1756979764,
+    "date_posted": 1756979764,
+    "url": "https://jobs.smartrecruiters.com/ServiceNow/744000079813875",
+    "locations": [
+      "San Diego, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/ServiceNow",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
   }
 ]
