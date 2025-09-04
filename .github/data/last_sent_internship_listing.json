@@ -121244,5 +121244,51 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Al Warren Oil Company",
+    "id": "72ba587a-90a9-4462-a659-982eb9067c6a",
+    "title": "Software Developer",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1756939101,
+    "date_posted": 1756939101,
+    "url": "https://apply.workable.com/al-warren-oil-company-inc/j/FD7A052283/apply",
+    "locations": [
+      "Elk Grove Village, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/Al-Warren-Oil-Company",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "DIRECTV",
+    "id": "d28d901d-a74a-425e-85b2-c1450fcb876c",
+    "title": "2026 DIRECTV Customer Operations Product Management Internship - MBA",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1756945675,
+    "date_posted": 1756945675,
+    "url": "https://directv.wd1.myworkdayjobs.com/careers/job/El-Segundo-CA/XMLNAME-2026-DIRECTV-Customer-Operations-Product-Management-Internship--MBA-_R250247",
+    "locations": [
+      "El Segundo, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/DIRECTV",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "MBA"
+    ]
   }
 ]
