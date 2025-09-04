@@ -24672,5 +24672,96 @@
       "Bachelor's",
       "Master's"
     ]
+  },
+  {
+    "date_updated": 1756974823,
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "degrees": [],
+    "url": "https://job-boards.greenhouse.io/2k/jobs/6688546003",
+    "company_name": "2K",
+    "title": "US Engineering Graduate Program",
+    "locations": [
+      "Novato, CA"
+    ],
+    "category": "Software Engineering",
+    "source": "AlmondCroffle",
+    "id": "21cee484-13c4-4247-a902-433f798e3356",
+    "date_posted": 1756974823,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1756975007,
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "degrees": [],
+    "url": "https://jobs.smartrecruiters.com/LinkedIn3/a3b09881-7c3e-444c-9e65-ac0e2c6a8970",
+    "company_name": "LinkedIn",
+    "title": "Associate Product Builder (APB) - Rotational Program",
+    "locations": [
+      "Mountain View, CA"
+    ],
+    "category": "Hardware Engineering",
+    "source": "AlmondCroffle",
+    "id": "3e6d5800-52c8-44e0-be8e-5f84a254e43a",
+    "date_posted": 1756975007,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1756975094,
+    "sponsorship": "U.S. Citizenship is Required",
+    "active": true,
+    "degrees": [],
+    "url": "https://careers.roblox.com/jobs/7167345",
+    "company_name": "Roblox",
+    "title": "Associate Product Designer, Early Career",
+    "locations": [
+      "San Mateo, CA"
+    ],
+    "category": "Other",
+    "source": "AlmondCroffle",
+    "id": "e1ef069c-abb6-492b-b919-ad27e9d8b2a0",
+    "date_posted": 1756975094,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1756975135,
+    "sponsorship": "U.S. Citizenship is Required",
+    "active": true,
+    "degrees": [],
+    "url": "https://careers.roblox.com/jobs/7167343",
+    "company_name": "Roblox",
+    "title": "Associate Product Manager, Early Career",
+    "locations": [
+      "San Mateo, CA"
+    ],
+    "category": "Product Management",
+    "source": "AlmondCroffle",
+    "id": "1999e97d-22a7-45fa-a212-7880e1abc0d7",
+    "date_posted": 1756975135,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1756975226,
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "degrees": [],
+    "url": "https://stripe.com/jobs/listing/software-engineer-new-grad/7210112",
+    "company_name": "Stripe",
+    "title": "Software Engineer",
+    "locations": [
+      "San Francisco, CA",
+      "Seattle, WA"
+    ],
+    "category": "Software Engineering",
+    "source": "AlmondCroffle",
+    "id": "91eec74c-6598-4669-a40f-38c2dc8adbce",
+    "date_posted": 1756975226,
+    "company_url": "",
+    "is_visible": true
   }
 ]
