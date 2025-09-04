@@ -122837,5 +122837,102 @@
       "Bachelor's",
       "Master's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Ingredion",
+    "id": "66b1b3b1-bca5-4489-9a90-b4320e322766",
+    "title": "Data Scientist Intern",
+    "active": true,
+    "terms": [
+      "Winter 2025"
+    ],
+    "date_updated": 1757025793,
+    "date_posted": 1757025793,
+    "url": "https://ingredion.wd1.myworkdayjobs.com/IngredionCareers/job/Westchester-IL/Data-Scientist-Intern_Req-36014",
+    "locations": [
+      "Brookfield, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/Ingredion",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Rocket Lab USA",
+    "id": "532af026-3e9e-460a-a923-d390d74dd197",
+    "title": "Flight Software Intern",
+    "active": true,
+    "terms": [
+      "Winter 2026",
+      "Spring 2026"
+    ],
+    "date_updated": 1757025738,
+    "date_posted": 1757025738,
+    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/6730984003",
+    "locations": [
+      "Littleton, CO"
+    ],
+    "company_url": "https://simplify.jobs/c/Rocket-Lab-USA",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "PhD"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Moderna",
+    "id": "463432ac-9bcd-4060-855c-8f758c760b1b",
+    "title": "Applied Technologies Intern - Technical Development",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1757025805,
+    "date_posted": 1757025805,
+    "url": "https://modernatx.wd1.myworkdayjobs.com/en-US/M_tx/job/Norwood-Massachusetts/XMLNAME-2026-Applied-Technologies-Intern--Technical-Development_R18217",
+    "locations": [
+      "Norwood, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/Moderna",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "Ingredion",
+    "id": "07e1e5c7-f189-4846-bc17-cd22083b1acd",
+    "title": "Product Management Intern",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1757025786,
+    "date_posted": 1757025786,
+    "url": "https://ingredion.wd1.myworkdayjobs.com/IngredionCareers/job/Westchester-IL/Product-Management-Intern_Req-35990",
+    "locations": [
+      "Brookfield, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/Ingredion",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
