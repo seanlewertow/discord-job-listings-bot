@@ -24840,5 +24840,61 @@
     "date_posted": 1756975959,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "date_updated": 1756980855,
+    "sponsorship": "U.S. Citizenship is Required",
+    "active": true,
+    "degrees": [],
+    "url": "https://cigna.wd5.myworkdayjobs.com/en-US/cignacareers/job/St-Louis-MO/Technology-Development-Program--TECDP----Infrastructure---Cloud-Engineering-Track---Start-Date--July-13--2026_25011438-1",
+    "company_name": "The Cigna Group",
+    "title": "Technology Development Program (TECDP) - Infrastructure & Cloud Engineering Track",
+    "locations": [
+      "St. Louis, MO",
+      "Bloomfield, CT",
+      "Bloomington, MN"
+    ],
+    "category": "Software Engineering",
+    "source": "AlmondCroffle",
+    "id": "7efa4a90-bd67-48f9-b6b5-b305ae01b410",
+    "date_posted": 1756980855,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1756981021,
+    "sponsorship": "U.S. Citizenship is Required",
+    "active": true,
+    "degrees": [],
+    "url": "https://job-boards.greenhouse.io/spacex/jobs/8121675002?gh_jid=8121675002",
+    "company_name": "SpaceX",
+    "title": "New Graduate Engineer, Software (Starlink)",
+    "locations": [
+      "Redmond, WA"
+    ],
+    "category": "Software Engineering",
+    "source": "AlmondCroffle",
+    "id": "202e727a-8715-4d5a-be00-838d1f09e262",
+    "date_posted": 1756981021,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1756981080,
+    "sponsorship": "U.S. Citizenship is Required",
+    "active": true,
+    "degrees": [],
+    "url": "https://job-boards.greenhouse.io/spacex/jobs/8144023002?gh_jid=8144023002",
+    "company_name": "SpaceX",
+    "title": "New Graduate Engineer, Software (Starship)",
+    "locations": [
+      "Starbase, TX"
+    ],
+    "category": "Software Engineering",
+    "source": "AlmondCroffle",
+    "id": "bc5a010c-342d-4ffc-8443-6d4f997a627b",
+    "date_posted": 1756981080,
+    "company_url": "",
+    "is_visible": true
   }
 ]
