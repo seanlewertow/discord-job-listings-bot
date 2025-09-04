@@ -121526,5 +121526,74 @@
       "Master's",
       "PhD"
     ]
+  },
+  {
+    "date_updated": 1756982564,
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "degrees": [
+      "Master's"
+    ],
+    "url": "https://pg.wd5.myworkdayjobs.com/en-US/1000/job/CINCINNATI-GENERAL-OFFICES/Data-Scientist--Masters-Degree--Internship_R000137918",
+    "company_name": "P&G",
+    "title": "Data Scientist (Masters Degree) Internship",
+    "locations": [
+      "Cincinnati, OH"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "category": "Data Science, AI & Machine Learning",
+    "source": "AlmondCroffle",
+    "id": "f918afe3-6003-4415-a0e3-65ec2103093e",
+    "date_posted": 1756982564,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1756982713,
+    "sponsorship": "Other",
+    "active": true,
+    "degrees": [
+      "Master's"
+    ],
+    "url": "https://bmo.wd3.myworkdayjobs.com/en-US/External/job/Chicago-IL-USA/Data-Analyst--Regulatory-Data---Systems---Winter-2026--Co-op-Internship----4-Months_R250021478",
+    "company_name": "BMO",
+    "title": "Data Analyst, Regulatory Data & Systems",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "terms": [
+      "Winter 2026"
+    ],
+    "category": "Data Science, AI & Machine Learning",
+    "source": "AlmondCroffle",
+    "id": "e1ae8c2e-2dfd-4211-b5b4-ec214d6570f0",
+    "date_posted": 1756982713,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1756982796,
+    "sponsorship": "Does Not Offer Sponsorship",
+    "active": true,
+    "degrees": [
+      "Bachelor's"
+    ],
+    "url": "https://myhrabc.wd5.myworkdayjobs.com/en-US/Global/job/Orange-CA/InSite-Data-Analyst-Intern_R2515584",
+    "company_name": "Cencora",
+    "title": "InSite Data Analyst",
+    "locations": [
+      "Orange, CA"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "category": "Data Science, AI & Machine Learning",
+    "source": "AlmondCroffle",
+    "id": "58410c56-1603-4cbf-b6c6-017ea651b8dd",
+    "date_posted": 1756982796,
+    "company_url": "",
+    "is_visible": true
   }
 ]
