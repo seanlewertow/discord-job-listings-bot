@@ -120505,5 +120505,52 @@
       "Bachelor's",
       "Associate's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Geotab",
+    "id": "8d7846fe-48c8-4add-ac40-631e8c8dda11",
+    "title": "Data Platform Developer Interns",
+    "active": true,
+    "terms": [
+      "Winter 2026"
+    ],
+    "date_updated": 1756942181,
+    "date_posted": 1756942181,
+    "url": "https://job-boards.greenhouse.io/internshiplist2000/jobs/4755550008",
+    "locations": [
+      "Atlanta, GA"
+    ],
+    "company_url": "https://simplify.jobs/c/Geotab",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Associate's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Fairlife",
+    "id": "2f66ec63-a71f-4dbd-a86f-d817fcc26b5a",
+    "title": "Data Science & AI Enablement Intern",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1756957350,
+    "date_posted": 1756957350,
+    "url": "https://job-boards.greenhouse.io/fairlife/jobs/4848809007",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/Fairlife",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
