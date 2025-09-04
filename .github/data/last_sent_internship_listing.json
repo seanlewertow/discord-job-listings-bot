@@ -121408,5 +121408,75 @@
       "Bachelor's",
       "Master's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Vercel",
+    "id": "49ade646-339f-4c7d-b18a-b4cbeee9566d",
+    "title": "Engineering Summer Intern",
+    "active": true,
+    "terms": [
+      "Winter 2025"
+    ],
+    "date_updated": 1756976042,
+    "date_posted": 1756976042,
+    "url": "https://job-boards.greenhouse.io/vercel/jobs/5628292004",
+    "locations": [
+      "SF",
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Vercel",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "date_updated": 1756976957,
+    "sponsorship": "Other",
+    "active": true,
+    "degrees": [
+      "Master's"
+    ],
+    "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Irving-Texas-United-States/Functions---Quantitative-Risk-Management--Summer-Analyst--Irving---US--2026_25840226",
+    "company_name": "Citi",
+    "title": "Functions - Quantitative Risk Management",
+    "locations": [
+      "Irving, TX"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "category": "Quantitative Finance",
+    "source": "AlmondCroffle",
+    "id": "efbfb1ce-d474-47df-9a95-e12e3cccef47",
+    "date_posted": 1756976957,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1756977021,
+    "sponsorship": "Other",
+    "active": true,
+    "degrees": [
+      "Master's"
+    ],
+    "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Tampa-Florida-United-States/Functions---Quantitative-Risk-Management--Summer-Analyst--Tampa---US--2026_25839797",
+    "company_name": "Citi",
+    "title": "Functions - Quantitative Risk Management",
+    "locations": [
+      "Tampa, FL"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "category": "Quantitative Finance",
+    "source": "AlmondCroffle",
+    "id": "a9ed3739-a385-4a97-b657-c79e73a0ad48",
+    "date_posted": 1756977021,
+    "company_url": "",
+    "is_visible": true
   }
 ]
