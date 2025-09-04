@@ -122409,5 +122409,28 @@
       "Bachelor's",
       "Master's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "Heidi Health",
+    "id": "78525e5e-ef83-4e20-ad71-f27d6a9a0e7a",
+    "title": "Product Intern",
+    "active": true,
+    "terms": [
+      "Winter 2025"
+    ],
+    "date_updated": 1757016517,
+    "date_posted": 1757016517,
+    "url": "https://jobs.ashbyhq.com/heidihealth.com.au/0a75af5c-d05b-4684-8857-8c29dd4aeff1/application",
+    "locations": [
+      "SF"
+    ],
+    "company_url": "https://simplify.jobs/c/Heidi-Health",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
