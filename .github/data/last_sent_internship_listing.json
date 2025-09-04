@@ -121007,5 +121007,28 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Meta",
+    "id": "180cdc97-01ab-4340-9dbd-7d3d84a4cc85",
+    "title": "Research Scientist Intern - Machine Perception for Input and Interaction - PhD",
+    "active": true,
+    "terms": [
+      "Winter 2025"
+    ],
+    "date_updated": 1756965041,
+    "date_posted": 1756965041,
+    "url": "https://www.metacareers.com/jobs/779670167783218",
+    "locations": [
+      "Redmond, WA"
+    ],
+    "company_url": "https://simplify.jobs/c/Meta",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "PhD"
+    ]
   }
 ]
