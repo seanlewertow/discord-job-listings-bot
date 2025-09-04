@@ -122595,5 +122595,128 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Allegion",
+    "id": "66fe4510-4544-4a7a-82df-374a0cc7c28e",
+    "title": "Summer Intern - Firmware Engineer",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1757021971,
+    "date_posted": 1757021971,
+    "url": "https://allegion.wd5.myworkdayjobs.com/careers/job/Indianapolis-IN---Hague-Rd/Summer-Intern---Firmware-Engineer--Hague-Road-Technical-Center---Indianapolis--Indiana_JR33705-1",
+    "locations": [
+      "Indianapolis, IN"
+    ],
+    "company_url": "https://simplify.jobs/c/Allegion",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Brunswick",
+    "id": "5b40526f-d97f-48dc-ba47-84c05c5e1df0",
+    "title": "Mercury Marine \u2013 Systems/Software Engineering Co-op",
+    "active": true,
+    "terms": [
+      "Winter 2026",
+      "Summer 2026",
+      "Summer 2026",
+      "Winter 2026"
+    ],
+    "date_updated": 1757021981,
+    "date_posted": 1757021981,
+    "url": "https://brunswick.wd1.myworkdayjobs.com/en-US/search/job/Fond-du-Lac-WI/Mercury-Marine---Systems-Software-Engineering-Co-op_JR-047435",
+    "locations": [
+      "Fond du Lac, WI"
+    ],
+    "company_url": "https://simplify.jobs/c/Brunswick",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Brunswick",
+    "id": "2d8dcc91-f6ea-42b0-bd09-a975a45ca090",
+    "title": "Advanced Manufacturing/Operations Analytics Engineering Co-op",
+    "active": true,
+    "terms": [
+      "Summer 2026",
+      "Fall 2026"
+    ],
+    "date_updated": 1757021966,
+    "date_posted": 1757021966,
+    "url": "https://brunswick.wd1.myworkdayjobs.com/en-US/search/job/Fond-du-Lac-WI/Advanced-Manufacturing-Operations-Analytics-Engineering-Co-op_JR-047479",
+    "locations": [
+      "Fond du Lac, WI"
+    ],
+    "company_url": "https://simplify.jobs/c/Brunswick",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Micron Technology",
+    "id": "d3b37d34-4c82-4cfc-963b-2caf619babf0",
+    "title": "Intern \u2013 Metrology Process Development Engineer",
+    "active": true,
+    "terms": [
+      "Summer 2025",
+      "Fall 2025"
+    ],
+    "date_updated": 1757021103,
+    "date_posted": 1757021103,
+    "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---Metrology-Process-Development-Engineer_JR82065",
+    "locations": [
+      "Boise, ID"
+    ],
+    "company_url": "https://simplify.jobs/c/Micron-Technology",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Master's",
+      "PhD"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Micron Technology",
+    "id": "122cfca8-9342-4305-a614-50fc22466a17",
+    "title": "Intern \u2013 Memory Pathfinding AI Architectures Focus",
+    "active": true,
+    "terms": [
+      "Winter 2025"
+    ],
+    "date_updated": 1757021103,
+    "date_posted": 1757021103,
+    "url": "https://micron.wd1.myworkdayjobs.com/External/job/Folsom-CA/Intern---Memory-Pathfinding-AI-Architectures-Focus_JR82080",
+    "locations": [
+      "San Jose, CA",
+      "Folsom, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Micron-Technology",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Master's",
+      "PhD"
+    ]
   }
 ]
