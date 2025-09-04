@@ -122359,5 +122359,31 @@
       "Bachelor's",
       "Master's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "2nd Order Solutions",
+    "id": "db858274-62e2-466c-abae-2f3f4f7f423e",
+    "title": "Intern Data Scientist - Campus Hires",
+    "active": true,
+    "terms": [
+      "Fall 2026",
+      "Spring 2027",
+      "Summer 2027"
+    ],
+    "date_updated": 1757011735,
+    "date_posted": 1757011735,
+    "url": "https://jobs.lever.co/2os/20fd452e-46cc-4336-8185-a632efc4a1b3/apply",
+    "locations": [
+      "Richmond, VA"
+    ],
+    "company_url": "https://simplify.jobs/c/2nd-Order-Solutions",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
   }
 ]
