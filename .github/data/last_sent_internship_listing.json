@@ -123610,5 +123610,77 @@
     "date_posted": 1757092479,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Sierra Nevada Coporation",
+    "id": "c1cbd42c-0cdc-4aa5-8ca1-5500d24c38a1",
+    "title": "Software Engineer Intern - Summer 2026",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1757035216,
+    "date_posted": 1757035216,
+    "url": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Plano-TX/Software-Engineer-Intern---Summer-2026--For-SNC-Summer-2025-Interns-Only-_R0028250",
+    "locations": [
+      "Plano, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Sierra-Nevada-Coporation",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Booz Allen",
+    "id": "a80c593a-d17e-4b1c-87d4-a9f9297ae2ef",
+    "title": "University \u2013 Hardware Engineer Intern",
+    "active": true,
+    "terms": [
+      "Spring 2027",
+      "Summer 2027"
+    ],
+    "date_updated": 1757021552,
+    "date_posted": 1757021552,
+    "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Roseville-CA/University--Hardware-Engineer-Intern_R0225555",
+    "locations": [
+      "Roseville, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Booz-Allen",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Johnson & Johnson",
+    "id": "9ded4c4c-ffe1-43bd-a027-aecfdfd1b2c8",
+    "title": "Human Factors Engineer Co-op",
+    "active": true,
+    "terms": [
+      "Winter 2026",
+      "Spring 2026"
+    ],
+    "date_updated": 1757093105,
+    "date_posted": 1757093105,
+    "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Cincinnati-Ohio-United-States-of-America/Human-Factors-Engineer-Co-op-Spring-2026_R-030712",
+    "locations": [
+      "Cincinnati, OH"
+    ],
+    "company_url": "https://simplify.jobs/c/Johnson-Johnson",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
   }
 ]
