@@ -123134,5 +123134,52 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "AbbVie",
+    "id": "8cc5a698-cf49-433f-9090-6ecb319ff164",
+    "title": "Graph Machine Learning Intern - PhD",
+    "active": true,
+    "terms": [
+      "Winter 2025"
+    ],
+    "date_updated": 1757044052,
+    "date_posted": 1757044052,
+    "url": "https://jobs.smartrecruiters.com/AbbVie/3743990009335777",
+    "locations": [
+      "Waukegan, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/AbbVie",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "PhD"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "ServiceNow",
+    "id": "7cdae68b-b8d2-4dd5-855d-29fd1834be33",
+    "title": "UTG \u2013 Software Engineer Internships",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1757043086,
+    "date_posted": 1757043086,
+    "url": "https://jobs.smartrecruiters.com/ServiceNow/744000079993731",
+    "locations": [
+      "San Diego, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/ServiceNow",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
   }
 ]
