@@ -25114,5 +25114,87 @@
     "degrees": [
       "Master's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Choice Hotels",
+    "id": "ba31781a-7e59-4cf5-a9ac-df7cb28ae143",
+    "title": "Software Engineer 1",
+    "active": true,
+    "date_updated": 1757033029,
+    "date_posted": 1757033029,
+    "url": "https://choicehotels.wd5.myworkdayjobs.com/External/job/Scottsdale-AZ---Technology--Digital-Commerce-Center/Software-Engineer-1_R20274",
+    "locations": [
+      "Scottsdale, AZ"
+    ],
+    "company_url": "https://simplify.jobs/c/Choice-Hotels",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "qode.world",
+    "id": "64ec080a-e86a-454e-8ec9-8879164fae86",
+    "title": "Junior Data Scientist",
+    "active": true,
+    "date_updated": 1757035197,
+    "date_posted": 1757035197,
+    "url": "https://apply.workable.com/qodeworld/j/5E96914ADB/apply",
+    "locations": [
+      "Tampa, FL",
+      "Jackson Township, NJ",
+      "Dallas, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Qode-World",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Aflac",
+    "id": "6e331d09-8412-461c-9326-14091f9ae7de",
+    "title": "Software Engineer I",
+    "active": true,
+    "date_updated": 1757036054,
+    "date_posted": 1757036054,
+    "url": "https://careers.aflac.com/job/Software-Engineer-I-GA-31999/1323022100/?ats=successfactors",
+    "locations": [
+      "Columbus, GA"
+    ],
+    "company_url": "https://simplify.jobs/c/Aflac",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Ellipsis Labs",
+    "id": "04f4153d-3ef4-4c63-95fc-17771cca2eec",
+    "title": "Software Engineer \u2013 Intern & New Grad",
+    "active": true,
+    "date_updated": 1757036984,
+    "date_posted": 1757036984,
+    "url": "https://jobs.ashbyhq.com/ellipsislabs/caa49297-d5a3-4d03-b8c9-bdc7b77fb0bb/application",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Ellipsis-Labs",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
