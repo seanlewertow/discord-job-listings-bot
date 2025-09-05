@@ -123799,5 +123799,123 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Varda Space Industries",
+    "id": "72dca2e2-646a-4b26-ba54-78cff79b8664",
+    "title": "Finance \u2013 Data Structures/ Analytics Internship",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1757110333,
+    "date_posted": 1757110333,
+    "url": "https://job-boards.greenhouse.io/vardaspace/jobs/6975064003",
+    "locations": [
+      "El Segundo, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Varda-Space-Industries",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Other",
+    "company_name": "Varda Space Industries",
+    "id": "4a07ec1a-2dff-44b0-906f-114e71c78fc9",
+    "title": "Microsoft / Security Administration Internship",
+    "active": true,
+    "terms": [
+      "Spring 2026"
+    ],
+    "date_updated": 1757110337,
+    "date_posted": 1757110337,
+    "url": "https://job-boards.greenhouse.io/vardaspace/jobs/6823650003",
+    "locations": [
+      "El Segundo, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Varda-Space-Industries",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Varda Space Industries",
+    "id": "293fa3ab-1aba-4386-9900-891e38cf3b87",
+    "title": "Mission Software \u2013 Internship - Python",
+    "active": true,
+    "terms": [
+      "Spring 2026"
+    ],
+    "date_updated": 1757110314,
+    "date_posted": 1757110314,
+    "url": "https://job-boards.greenhouse.io/vardaspace/jobs/6824086003",
+    "locations": [
+      "El Segundo, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Varda-Space-Industries",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Varda Space Industries",
+    "id": "00c4cbef-bb53-49ba-a554-e97845615700",
+    "title": "Mission Software \u2013 Internship - Python",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1757110313,
+    "date_posted": 1757110313,
+    "url": "https://job-boards.greenhouse.io/vardaspace/jobs/6824366003",
+    "locations": [
+      "El Segundo, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Varda-Space-Industries",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "PennState University",
+    "id": "69430fc1-dbac-4fba-8c07-697012305db3",
+    "title": "Guidance and Control Research & Development Internship",
+    "active": true,
+    "terms": [
+      "Fall 2025",
+      "Spring 2025",
+      "Summer 2025"
+    ],
+    "date_updated": 1757110090,
+    "date_posted": 1757110090,
+    "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Guidance-and-Control-Research---Development-Internship_REQ_0000071517-1",
+    "locations": [
+      "State College, PA"
+    ],
+    "company_url": "https://simplify.jobs/c/Penn-State",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
