@@ -123752,5 +123752,52 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Northrop Grumman",
+    "id": "b601e5a4-7c31-4f34-a1dd-6a5d3b0f25f1",
+    "title": "2026 Spring Cyber Software Engineer Co-op",
+    "active": true,
+    "terms": [
+      "Spring 2026"
+    ],
+    "date_updated": 1757051784,
+    "date_posted": 1757051784,
+    "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Ohio-Cincinnati/XMLNAME-2026-Spring-Cyber-Software-Engineer-Co-op---Cincinnati-OH_R10206159",
+    "locations": [
+      "Cincinnati, OH"
+    ],
+    "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Other",
+    "company_name": "TJX",
+    "id": "7718f6a7-48dc-4bcd-a140-e9130a8aaf40",
+    "title": "IT Analyst Internship",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1757095749,
+    "date_posted": 1757095749,
+    "url": "https://wd1.myworkdaysite.com/recruiting/tjx/TJX_EXTERNAL/job/Marlborough-MA-01752/IT-Analyst-Internship-Summer-2026_REQ55391",
+    "locations": [
+      "Marlborough, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/TJX",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
