@@ -123538,5 +123538,77 @@
     "date_posted": 1757081812,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Inventing for Life",
+    "id": "a157b0b9-72f7-451f-949f-d77c0b0922fc",
+    "title": "IT Emerging Talent Summer Intern Program",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1757090154,
+    "date_posted": 1757090154,
+    "url": "https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---New-Jersey---Rahway/XMLNAME-2026-University-Recruiting---IT-Emerging-Talent-Summer-Intern-Program--Hybrid-_R355518-1",
+    "locations": [
+      "Austin, TX",
+      "North Wales, PA",
+      "Linden, NJ"
+    ],
+    "company_url": "https://simplify.jobs/c/Inventing-For-Life",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "TD Securities",
+    "id": "7ab49308-15b1-4f63-8882-e789dd11b8bf",
+    "title": "Wealth Operations Automation Intern / Co-Op",
+    "active": true,
+    "terms": [
+      "Winter 2026"
+    ],
+    "date_updated": 1757089801,
+    "date_posted": 1756863096,
+    "url": "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/Wealth-Operations-Automation-Winter-Intern---Co-Op--WINTER-2026-_R_1442582",
+    "locations": [
+      "Toronto, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/TD-Securities",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "date_updated": 1757092479,
+    "sponsorship": "Does Not Offer Sponsorship",
+    "active": true,
+    "degrees": [
+      "Bachelor's"
+    ],
+    "url": "https://igsenergy.wd1.myworkdayjobs.com/en-US/IGS/job/Ohio-Remote/Software-Engineer-Intern_R5639",
+    "company_name": "IGS Energy",
+    "title": "Software Engineer Intern",
+    "locations": [
+      "Remote, OH"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "category": "Software Engineering",
+    "source": "AlmondCroffle",
+    "id": "c4c652ad-afca-411b-bf78-7ee803834d2f",
+    "date_posted": 1757092479,
+    "company_url": "",
+    "is_visible": true
   }
 ]
