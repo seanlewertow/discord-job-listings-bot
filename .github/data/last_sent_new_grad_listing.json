@@ -25196,5 +25196,66 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Cox",
+    "id": "38a259d5-f441-49c5-b9dd-4dc53890afba",
+    "title": "Software Engineer I",
+    "active": true,
+    "date_updated": 1757038355,
+    "date_posted": 1757038355,
+    "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Software-Engineer-I_R202566492",
+    "locations": [
+      "Atlanta, GA"
+    ],
+    "company_url": "https://simplify.jobs/c/Cox",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Chewy",
+    "id": "077c0a28-ea27-4f9b-a4ae-426c784bce0a",
+    "title": "Software Engineer I",
+    "active": true,
+    "date_updated": 1757037954,
+    "date_posted": 1757037954,
+    "url": "https://boards.greenhouse.io/embed/job_app?token=7195601",
+    "locations": [
+      "Bellevue, WA"
+    ],
+    "company_url": "https://simplify.jobs/c/Chewy",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Valkyrie Trading",
+    "id": "67a851ea-8525-4f41-aaf5-9512b3d00fd1",
+    "title": "Junior Quantitative Researcher",
+    "active": true,
+    "date_updated": 1757039060,
+    "date_posted": 1757039060,
+    "url": "https://jobs.lever.co/valkyrietrading/6ba65cc5-53ec-4c92-ac98-dbc3326c75ab/apply",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/Valkyrie-Trading",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
   }
 ]
