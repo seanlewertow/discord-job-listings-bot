@@ -123682,5 +123682,75 @@
       "Bachelor's",
       "Master's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Other",
+    "company_name": "TJX",
+    "id": "05d263b4-c2b1-4255-9a42-e554e83fd61b",
+    "title": "IT Engineer Internship",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1757095748,
+    "date_posted": 1757095748,
+    "url": "https://wd1.myworkdaysite.com/recruiting/tjx/TJX_EXTERNAL/job/Marlborough-MA-01752/IT-Engineer-Internship-Summer-2026_REQ55814",
+    "locations": [
+      "Marlborough, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/TJX",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Wintrust",
+    "id": "43c831db-9716-47af-af96-5e8bda792a71",
+    "title": "IT Data Management Intern",
+    "active": true,
+    "terms": [
+      "Winter 2025"
+    ],
+    "date_updated": 1756949341,
+    "date_posted": 1756949341,
+    "url": "https://wintrust.wd1.myworkdayjobs.com/search/job/Rosemont-IL/Intern_251713",
+    "locations": [
+      "Norridge, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/Wintrust",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Huntington Bancshares",
+    "id": "b423e2fd-7a7a-400c-a004-160590f8fc46",
+    "title": "Technology Internship",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1757022791,
+    "date_posted": 1757022791,
+    "url": "https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/Technology-Internship---Summer-2026_R0065587",
+    "locations": [
+      "Hopkins, MN",
+      "Columbus, OH"
+    ],
+    "company_url": "https://simplify.jobs/c/Huntington-Bancshares",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
