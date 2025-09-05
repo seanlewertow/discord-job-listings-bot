@@ -123492,5 +123492,51 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "date_updated": 1757081424,
+    "sponsorship": "Does Not Offer Sponsorship",
+    "active": true,
+    "degrees": [
+      "Bachelor's"
+    ],
+    "url": "https://usaa.wd1.myworkdayjobs.com/en-US/USAAJOBSWD/job/San-Antonio-Home-Office-I/Quantitative-Risk-Analyst-Intern_R0112127",
+    "company_name": "USAA",
+    "title": "Quantitative Risk Analyst Intern",
+    "locations": [
+      "Charlotte, NC"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "category": "Software Engineering",
+    "source": "AlmondCroffle",
+    "id": "3886136f-8c21-4622-9bee-8f9b44355812",
+    "date_posted": 1757081424,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1757081812,
+    "sponsorship": "Does Not Offer Sponsorship",
+    "active": true,
+    "degrees": [
+      "Bachelor's"
+    ],
+    "url": "https://careers-berkley.icims.com/jobs/12807/quantitative-analyst-intern---summer-2026/job?mobile=false&width=1068&height=500&bga=true&needsRedirect=false&jan1offset=480&jun1offset=480",
+    "company_name": "BerkleyNet",
+    "title": "Quantitative Analyst Intern",
+    "locations": [
+      "Manassas, VA"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "category": "Quantitative Finance",
+    "source": "AlmondCroffle",
+    "id": "5b975531-5ae6-40a5-adea-ccea1dea118d",
+    "date_posted": 1757081812,
+    "company_url": "",
+    "is_visible": true
   }
 ]
