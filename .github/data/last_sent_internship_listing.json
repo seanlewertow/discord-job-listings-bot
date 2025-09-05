@@ -123181,5 +123181,126 @@
       "Bachelor's",
       "Master's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Other",
+    "company_name": "Sierra Nevada Coporation",
+    "id": "a49459ce-77e7-4b2d-a758-9c3736f91c09",
+    "title": "Systems Security Engineer",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1757035217,
+    "date_posted": 1757035217,
+    "url": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Lone-Tree-CO/Systems-Security-Engineer---Summer-2026--For-SNC-Summer-2025-Interns-Only-_R0028201",
+    "locations": [
+      "Lone Tree, CO"
+    ],
+    "company_url": "https://simplify.jobs/c/Sierra-Nevada-Coporation",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Clorox",
+    "id": "718245dc-37d2-42c5-81de-6d7c4450d82c",
+    "title": "Sales & Customer Analytics Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1756999443,
+    "date_posted": 1756999443,
+    "url": "https://wd1.myworkdaysite.com/recruiting/clorox/Clorox/job/Pleasanton-CA---USA/Sales---Customer-Analytics-Intern_19730",
+    "locations": [
+      "Bentonville, AR",
+      "Oakland, CA",
+      "Pleasanton, CA",
+      "Durham, NC"
+    ],
+    "company_url": "https://simplify.jobs/c/Clorox",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "TikTok",
+    "id": "7c2ca6e5-69b2-4b9c-aa8b-37007eb5a272",
+    "title": "CRM Product Project Intern - Tiktok-PGC-Creator Strategy",
+    "active": true,
+    "terms": [
+      "Winter 2025"
+    ],
+    "date_updated": 1757059763,
+    "date_posted": 1757059763,
+    "url": "https://lifeattiktok.com/search/7546019543127804167",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/TikTok",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Notion",
+    "id": "66815bff-c120-432c-a51d-f7b17cc7a86e",
+    "title": "Data Science Intern",
+    "active": true,
+    "terms": [
+      "Winter 2026",
+      "Summer 2026"
+    ],
+    "date_updated": 1757055325,
+    "date_posted": 1757055325,
+    "url": "https://jobs.ashbyhq.com/notion/5c3de83e-8992-445c-a424-bfa9e623dd95/application",
+    "locations": [
+      "SF",
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Notion",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Cresta",
+    "id": "59e78c09-f1ef-47c3-87c8-2507432b9729",
+    "title": "Machine Learning Engineering Intern",
+    "active": true,
+    "terms": [
+      "Winter 2025"
+    ],
+    "date_updated": 1757054411,
+    "date_posted": 1757054411,
+    "url": "https://job-boards.greenhouse.io/cresta/jobs/4123863008",
+    "locations": [
+      "Toronto, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Cresta",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
