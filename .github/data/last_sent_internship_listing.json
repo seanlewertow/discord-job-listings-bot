@@ -123917,5 +123917,129 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Nokia",
+    "id": "ada6be86-d781-4aa2-b133-ae06c3aa7c72",
+    "title": "Pipeline RR: Bell Labs Core Research Intern",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1757115861,
+    "date_posted": 1757115861,
+    "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/24578",
+    "locations": [
+      "Naperville, IL",
+      "Dallas, TX",
+      "Berkeley Heights, NJ",
+      "Sunnyvale, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Nokia",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Master's",
+      "PhD"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Other",
+    "company_name": "Cna Financial Corp",
+    "id": "8e5d2e4f-6eec-4280-a3e1-76a383c0c38c",
+    "title": "Technology Internship Program - Cybersecurity",
+    "active": true,
+    "terms": [
+      "Winter 2025"
+    ],
+    "date_updated": 1757115766,
+    "date_posted": 1757115766,
+    "url": "https://cna.wd1.myworkdayjobs.com/CNA_Careers/job/Chicago-IL-USA/Technology-Internship-Program--Cybersecurity-_R-6242",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/Cna-Financial-Corp",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Tanium",
+    "id": "801aafa9-fb28-4f6e-b3c6-6e5c0d305451",
+    "title": "Software Engineering Intern",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1757115583,
+    "date_posted": 1757115583,
+    "url": "https://www.tanium.com/careers/7230326?gh_jid=7230326",
+    "locations": [
+      "Oakland, CA",
+      "Durham, NC",
+      "Addison, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Tanium",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Gulfstream",
+    "id": "26b3e1b6-7b48-4e34-a458-d09cc4b50234",
+    "title": "Software Engineering College Intern - Ief",
+    "active": true,
+    "terms": [
+      "Spring 2026"
+    ],
+    "date_updated": 1757115496,
+    "date_posted": 1757115496,
+    "url": "https://careers.gulfstream.com/job/Savannah-Spring-2026-IEF-Software-Engineering-College-Intern-GA-31401/1320732500/?ats=successfactors",
+    "locations": [
+      "Savannah, GA"
+    ],
+    "company_url": "https://simplify.jobs/c/Gulfstream",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Santander",
+    "id": "3d2fe5c0-828f-40b0-80ff-619b6b11a0fe",
+    "title": "Model Development Intern",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1757116465,
+    "date_posted": 1756337998,
+    "url": "https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/Boston/Model-Development-Intern_Req1486222-2",
+    "locations": [
+      "Boston, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/Santander",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
   }
 ]
