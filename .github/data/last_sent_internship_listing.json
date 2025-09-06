@@ -124276,5 +124276,31 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Meta",
+    "id": "3cef4cbb-560d-4265-9198-be35cef07e54",
+    "title": "Research Scientist Intern - Large Foundation Models and Generative AI - PhD",
+    "active": true,
+    "terms": [
+      "Winter 2025",
+      "Spring 2025",
+      "Summer 2025",
+      "Fall 2025"
+    ],
+    "date_updated": 1757143153,
+    "date_posted": 1757143153,
+    "url": "https://www.metacareers.com/jobs/3219980721500186",
+    "locations": [
+      "Redmond, WA"
+    ],
+    "company_url": "https://simplify.jobs/c/Meta",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "PhD"
+    ]
   }
 ]
