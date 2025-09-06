@@ -124041,5 +124041,124 @@
       "Bachelor's",
       "Master's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Other",
+    "company_name": "NextGen Federal Systems",
+    "id": "c709a08c-a6d6-46d0-b11c-e5aad2c1f387",
+    "title": "IT Administration Intern",
+    "active": true,
+    "terms": [
+      "Winter 2025"
+    ],
+    "date_updated": 1757126076,
+    "date_posted": 1757126076,
+    "url": "https://jobs.lever.co/nextgenfed/3b5f5b15-656e-4ea2-8331-385e7ec89ef6/apply",
+    "locations": [
+      "Dayton, OH"
+    ],
+    "company_url": "https://simplify.jobs/c/NextGen-Federal-Systems",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "AECOM",
+    "id": "5e913439-654f-4841-86e1-f45f834a4f51",
+    "title": "Data Management Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025",
+      "Fall 2025"
+    ],
+    "date_updated": 1757125245,
+    "date_posted": 1757125245,
+    "url": "https://jobs.smartrecruiters.com/AECOM2/744000080245096",
+    "locations": [
+      "Salt Lake City, UT"
+    ],
+    "company_url": "https://simplify.jobs/c/AECOM",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "WeRide",
+    "id": "38b9c999-a75e-4876-a264-7e4e83f5765f",
+    "title": "Intern - Data Engineer",
+    "active": true,
+    "terms": [
+      "Summer 2025",
+      "Fall 2025"
+    ],
+    "date_updated": 1757124668,
+    "date_posted": 1757124668,
+    "url": "https://jobs.lever.co/weride/ee0305ec-2e54-4e23-8596-dd9536ae8059/apply",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/WeRide",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "PhD"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Other",
+    "company_name": "Dell Technologies",
+    "id": "444a88d9-2571-43bc-b77d-54432e81ee30",
+    "title": "Product and Application Security Intern",
+    "active": true,
+    "terms": [
+      "Winter 2025"
+    ],
+    "date_updated": 1757122788,
+    "date_posted": 1757122788,
+    "url": "https://dell.wd1.myworkdayjobs.com/External/job/Round-Rock-Texas-United-States/Product-and-Application-Security-Intern_R277349-1",
+    "locations": [
+      "Round Rock, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Dell-Technologies",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Other",
+    "company_name": "Dell Technologies",
+    "id": "160a4364-3836-401c-a86a-1388f9a55ff0",
+    "title": "Cybersecurity Intern",
+    "active": true,
+    "terms": [
+      "Winter 2025"
+    ],
+    "date_updated": 1757122787,
+    "date_posted": 1757122787,
+    "url": "https://dell.wd1.myworkdayjobs.com/External/job/Austin-Texas-United-States/Cybersecurity-Intern_R277348-1",
+    "locations": [
+      "Austin, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Dell-Technologies",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
