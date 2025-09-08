@@ -124759,5 +124759,29 @@
       "Bachelor's",
       "Master's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Boom Supersonic",
+    "id": "19f6eb96-f28f-4504-96ce-83a467d83955",
+    "title": "Software Engineering Intern",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1757300428,
+    "date_posted": 1757300428,
+    "url": "https://job-boards.greenhouse.io/boomsupersonic/jobs/5643292004",
+    "locations": [
+      "Centennial, CO"
+    ],
+    "company_url": "https://simplify.jobs/c/Boom-Supersonic",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
   }
 ]
