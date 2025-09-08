@@ -124783,5 +124783,139 @@
       "Bachelor's",
       "Master's"
     ]
+  },
+  {
+    "date_updated": 1757315479,
+    "sponsorship": "Other",
+    "active": true,
+    "degrees": [
+      "Bachelor's"
+    ],
+    "url": "https://cmegroup.wd1.myworkdayjobs.com/en-US/cme_careers/job/Chicago---20-S-Wacker/Data-Science-Intern---Fall-2025_32955",
+    "company_name": "CME Group",
+    "title": "Data Science Intern",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "terms": [
+      "Fall 2025"
+    ],
+    "category": "Data Science, AI & Machine Learning",
+    "source": "AlmondCroffle",
+    "id": "586a2c73-200f-4bd8-9fa5-5f356ede88a9",
+    "date_posted": 1757315479,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1757315681,
+    "sponsorship": "U.S. Citizenship is Required",
+    "active": true,
+    "degrees": [
+      "Bachelor's"
+    ],
+    "url": "https://avav.wd1.myworkdayjobs.com/en-US/AVAV/job/Simi-Valley-CA/Summer-2026-Autonomy---Robotics-Engineering-Intern_5851",
+    "company_name": "AV",
+    "title": "Autonomy & Robotics Engineering Intern",
+    "locations": [
+      "Simi Valley, CA",
+      "Lawrence, KS",
+      "Huntsville, AL",
+      "Minneapolis, MN",
+      "Arlington, VA",
+      "Albuquerque, NM",
+      "Stevensville, MD",
+      "Germantown, MD",
+      "Sunrise, FL",
+      "Fairborn, OH",
+      "Melbourne, FL",
+      "Petaluma, CA",
+      "San Diego, CA"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "category": "Hardware Engineering",
+    "source": "AlmondCroffle",
+    "id": "f79964d7-981e-4a2a-8a1d-2adfc6636ec5",
+    "date_posted": 1757315681,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1757315821,
+    "sponsorship": "U.S. Citizenship is Required",
+    "active": true,
+    "degrees": [
+      "Bachelor's"
+    ],
+    "url": "https://job-boards.greenhouse.io/rsinternboard/jobs/8143483002",
+    "company_name": "Relativity Space",
+    "title": "Robotics Software Engineer Intern",
+    "locations": [
+      "Long Beach, CA"
+    ],
+    "terms": [
+      "Summer 2026",
+      "Winter 2026",
+      "Spring 2026",
+      "Fall 2026"
+    ],
+    "category": "Hardware Engineering",
+    "source": "AlmondCroffle",
+    "id": "392ec530-7c1b-4a8a-afc6-1a64b4209d6a",
+    "date_posted": 1757315821,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1757316013,
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "degrees": [
+      "Bachelor's"
+    ],
+    "url": "https://spgi.wd5.myworkdayjobs.com/en-US/kensho_careers/job/New-York-NY/Software-Engineer-Intern---Summer-2026_319680-1",
+    "company_name": "Kensho",
+    "title": "Software Engineer Intern",
+    "locations": [
+      "New York, NY",
+      "Cambridge, MA"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "category": "Software Engineering",
+    "source": "AlmondCroffle",
+    "id": "623b91aa-1799-4913-979e-e7d944cd1cd0",
+    "date_posted": 1757316013,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1757316300,
+    "sponsorship": "Does Not Offer Sponsorship",
+    "active": true,
+    "degrees": [
+      "Bachelor's"
+    ],
+    "url": "https://allegion.wd5.myworkdayjobs.com/en-US/careers/job/Indianapolis-IN---Hague-Rd/Summer-Intern---Firmware-Engineer--Hague-Road-Technical-Center---Indianapolis--Indiana_JR33705-1",
+    "company_name": "Allegion",
+    "title": "Firmware Engineer",
+    "locations": [
+      "Indianapolis, IN"
+    ],
+    "terms": [
+      "Summer 2026",
+      "Winter 2026",
+      "Spring 2026",
+      "Fall 2026"
+    ],
+    "category": "Hardware Engineering",
+    "source": "AlmondCroffle",
+    "id": "4c075956-66e2-4ef7-b595-d62f7868f7d4",
+    "date_posted": 1757316300,
+    "company_url": "",
+    "is_visible": true
   }
 ]
