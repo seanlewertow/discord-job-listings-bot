@@ -125153,5 +125153,130 @@
       "Bachelor's",
       "Master's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "StoneX Group",
+    "id": "26b7ba66-001d-4f90-acff-34d0903a855a",
+    "title": "Intern \u2013 Institutional Equity Sales & Trading",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1757360398,
+    "date_posted": 1757360398,
+    "url": "https://careers-stonex.icims.com/jobs/13766/job",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/StoneX-Group",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Ernst & Young",
+    "id": "516ce98c-7389-4d97-93ec-89cf91aec90d",
+    "title": "Intern - Tax - People Advisory Services - Pas - Tax - Rewards - Jd/LLM - Summer 2026",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1757359576,
+    "date_posted": 1757359576,
+    "url": "https://eyglobal.yello.co/jobs/MgR4xZTxsr-3biFkGJ1TYg?job_board_id=c1riT--B2O-KySgYWsZO1Q",
+    "locations": [
+      "Cleveland, OH",
+      "LA",
+      "Dallas, TX",
+      "Iselin, Woodbridge Township, NJ",
+      "Chicago, IL",
+      "Charlotte, NC",
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Ernst-And-Young",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "CACI",
+    "id": "daef6da7-cc65-4526-a573-de1a95abfa74",
+    "title": "Data Science Intern",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1757359448,
+    "date_posted": 1757359448,
+    "url": "https://caci.wd1.myworkdayjobs.com/external/job/US-CO-Aurora/Data-Science-Intern---Fall-2025_317042",
+    "locations": [
+      "Aurora, CO"
+    ],
+    "company_url": "https://simplify.jobs/c/CACI",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Symbotic",
+    "id": "985c3f33-f702-421e-9f63-c8f0d357843e",
+    "title": "Intern-Hardware Engineer",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1757359478,
+    "date_posted": 1757359478,
+    "url": "https://symbotic.wd1.myworkdayjobs.com/en-US/Symbotic/job/USA-Milpitas-CA/Intern--Hardware-Engineer_R5402",
+    "locations": [
+      "Milpitas, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/symbotic",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Ernst & Young",
+    "id": "2fa0058c-faf6-4ff9-be6f-d4adc8b2db5d",
+    "title": "Intern - Tax - Tax Technology and Transformation - Ttt - Alwin - Summer 2026",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1757359582,
+    "date_posted": 1757359582,
+    "url": "https://eyglobal.yello.co/jobs/YP5Oh4WTLGm54Yhe568Gqw?job_board_id=c1riT--B2O-KySgYWsZO1Q",
+    "locations": [
+      "Dallas, TX",
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Ernst-And-Young",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
   }
 ]
