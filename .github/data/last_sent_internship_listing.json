@@ -125324,5 +125324,133 @@
     "date_posted": 1757402802,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Symbotic",
+    "id": "b92a04e8-974c-432d-949c-aff0dd745e38",
+    "title": "Intern-Hardware Engineer",
+    "active": true,
+    "terms": [
+      "Spring 2025",
+      "Summer 2025",
+      "Fall 2025"
+    ],
+    "date_updated": 1757371784,
+    "date_posted": 1757371784,
+    "url": "https://symbotic.wd1.myworkdayjobs.com/en-US/Symbotic/job/USA-Wilmington-MA---ITC/Intern--Hardware-Engineer_R5394",
+    "locations": [
+      "Burlington, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/symbotic",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Ernst & Young",
+    "id": "14757586-d77e-4438-b493-91a18760f0a1",
+    "title": "JD/LLM Intern - Tax - Indirect Tax - SALT Transactions",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1757371291,
+    "date_posted": 1757371291,
+    "url": "https://eyglobal.yello.co/jobs/ud_-ROVTKuPRxpHjv5WxXQ?job_board_id=c1riT--B2O-KySgYWsZO1Q",
+    "locations": [
+      "Boston, MA",
+      "Houston, TX",
+      "SF",
+      "LA",
+      "Miami, FL",
+      "McLean, VA",
+      "Chicago, IL",
+      "NYC",
+      "Atlanta, GA"
+    ],
+    "company_url": "https://simplify.jobs/c/Ernst-And-Young",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "MBA",
+      "JD"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Viavi Solutions",
+    "id": "4fd29c8c-96de-4985-af9b-8893bb49cce9",
+    "title": "Onelab Pro intern",
+    "active": true,
+    "terms": [
+      "Winter 2025"
+    ],
+    "date_updated": 1757370287,
+    "date_posted": 1757370287,
+    "url": "https://viavisolutions.wd1.myworkdayjobs.com/careers/job/San-Jose-CA-USA/OneLab-Pro-intern_250003851-1",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Viavi-Solutions",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Other",
+    "company_name": "Baird",
+    "id": "ab9c2b17-67df-457f-9e3f-592c40847be9",
+    "title": "Internship - Service Desk - Year-Round",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1757369921,
+    "date_posted": 1757369921,
+    "url": "https://wd1.myworkdaysite.com/recruiting/baird/Careers/job/KY-Louisville/Internship---Service-Desk--Year-Round-_R20251052-1",
+    "locations": [
+      "Louisville, KY"
+    ],
+    "company_url": "https://simplify.jobs/c/Baird",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Associate's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Veeam Software",
+    "id": "b43c45fc-c40e-4bde-8c79-ce4f84b91579",
+    "title": "Kasten Engineering Intern",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1757369638,
+    "date_posted": 1757369638,
+    "url": "https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4650993101",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/Veeam-Software",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
