@@ -125278,5 +125278,28 @@
       "Bachelor's",
       "Master's"
     ]
+  },
+  {
+    "date_updated": 1757400920,
+    "sponsorship": "Does Not Offer Sponsorship",
+    "active": true,
+    "degrees": [
+      "Bachelor's"
+    ],
+    "url": "https://autodesk.wd1.myworkdayjobs.com/uni/job/Montreal-QC-CAN/Stagiaire-en-Dveloppement-Logiciel--Intern-Software-Developer_25WD91266-1",
+    "company_name": "Autodesk",
+    "title": "Software Developer",
+    "locations": [
+      "Montreal, QC, CAN"
+    ],
+    "terms": [
+      "Winter 2026"
+    ],
+    "category": "Software Engineering",
+    "source": "negarprh",
+    "id": "1704ff20-bd7b-47fd-b0f5-8457a00b7265",
+    "date_posted": 1757400920,
+    "company_url": "",
+    "is_visible": true
   }
 ]
