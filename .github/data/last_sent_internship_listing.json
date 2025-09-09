@@ -125980,5 +125980,125 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Thermo Fisher Scientific",
+    "id": "82ffada0-51f7-4332-b55e-6026f4822892",
+    "title": "IT Services & Delivery Intern",
+    "active": true,
+    "terms": [
+      "Winter 2025"
+    ],
+    "date_updated": 1757438331,
+    "date_posted": 1757438331,
+    "url": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Waltham-Massachusetts-USA/IT-Services---Delivery-Intern_R-01328653",
+    "locations": [
+      "Pittsburgh, PA",
+      "Waltham, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/Thermo-Fisher-Scientific",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Lunar Energy",
+    "id": "48d69723-df21-4a8b-a4f5-7fd4f62f3a15",
+    "title": "Software Engineering Intern",
+    "active": true,
+    "terms": [
+      "Winter 2025"
+    ],
+    "date_updated": 1757438254,
+    "date_posted": 1757438254,
+    "url": "https://job-boards.greenhouse.io/lunarenergy/jobs/5642163004",
+    "locations": [
+      "London, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/LunarEnergy",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "APEX Analytix",
+    "id": "35e1ba8b-3879-45f0-8482-d44091441902",
+    "title": "Copy of Support/Implementation Specialist Intern",
+    "active": true,
+    "terms": [
+      "Winter 2025"
+    ],
+    "date_updated": 1757438188,
+    "date_posted": 1757438188,
+    "url": "https://ats.rippling.com/apexanalytix-careers/jobs/9ced9f81-3db3-4c05-87d9-49a10ab1ca1f",
+    "locations": [
+      "Greensboro, NC"
+    ],
+    "company_url": "https://simplify.jobs/c/APEX-Analytix",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Other",
+    "company_name": "Inogen",
+    "id": "a70a707c-84a0-4e7d-926d-29e88f038661",
+    "title": "IT Security Operations Support Management Intern",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1757437129,
+    "date_posted": 1757437129,
+    "url": "https://jobs.jobvite.com/inogen/job/oqHMxfwa?nl=1&nl=1&fr=false",
+    "locations": [
+      "Plano, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Inogen",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Definity Financial",
+    "id": "42f7ed6a-b4dd-426b-aadd-00dfa7e95a2b",
+    "title": "Data Governance Analyst \u2013 Co-Op/Intern",
+    "active": true,
+    "terms": [
+      "Winter 2026"
+    ],
+    "date_updated": 1757436816,
+    "date_posted": 1757436816,
+    "url": "https://hdks.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs/job/8617",
+    "locations": [
+      "Toronto, ON, Canada",
+      "Mississauga, ON, Canada",
+      "Kitchener, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Definity-Financial",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
