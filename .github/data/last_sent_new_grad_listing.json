@@ -25862,5 +25862,66 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Scale AI",
+    "id": "ba5a73f8-843e-45cd-a294-03a095ff6701",
+    "title": "Software Engineer \u2013 New Grad",
+    "active": true,
+    "date_updated": 1757382023,
+    "date_posted": 1757382023,
+    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4605996005",
+    "locations": [
+      "SF"
+    ],
+    "company_url": "https://simplify.jobs/c/Scale-AI",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Jerry",
+    "id": "7f518353-ff97-40d7-abab-3000f533d8b6",
+    "title": "Software Engineer I",
+    "active": true,
+    "date_updated": 1757383760,
+    "date_posted": 1757383760,
+    "url": "https://jobs.ashbyhq.com/jerry.ai/37194866-4a9c-4215-8eac-a99c6e8ea74a/application",
+    "locations": [
+      "Palo Alto, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Jerry",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Jerry",
+    "id": "069c39cd-3586-42b5-b14d-25ffcbd5e35b",
+    "title": "Software Engineer I",
+    "active": true,
+    "date_updated": 1757383760,
+    "date_posted": 1757383760,
+    "url": "https://jobs.ashbyhq.com/jerry.ai/e3c1fe10-9514-4fe4-89db-48d0c5cb4be3/application",
+    "locations": [
+      "Toronto, ON, Canada",
+      "Greater Toronto Area, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Jerry",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
