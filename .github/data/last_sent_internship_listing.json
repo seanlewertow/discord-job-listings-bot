@@ -125623,5 +125623,126 @@
     "date_posted": 1757405909,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "date_updated": 1757406380,
+    "sponsorship": "Does Not Offer Sponsorship",
+    "active": true,
+    "degrees": [
+      "Bachelor's"
+    ],
+    "url": "https://cna.wd1.myworkdayjobs.com/en-US/CNA_Careers/job/Chicago-IL-USA/Technology-Internship-Program--AI-Governance---Enablement-_R-6325",
+    "company_name": "CNA",
+    "title": "Technology Internship Program (AI Governance & Enablement)",
+    "locations": [
+      "Chicagyo, IL"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "category": "Data Science, AI & Machine Learning",
+    "source": "AlmondCroffle",
+    "id": "4922dc06-9ad4-4e14-ad6d-6ac7e1faf956",
+    "date_posted": 1757406380,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1757406563,
+    "sponsorship": "U.S. Citizenship is Required",
+    "active": true,
+    "degrees": [
+      "Bachelor's"
+    ],
+    "url": "https://jobs.bosch.com/de/job/REF267030L-data-science-intern-8-months-40-hours-per-week",
+    "company_name": "Bosch",
+    "title": "Data Science Intern",
+    "locations": [
+      "Farmington Hills, MI"
+    ],
+    "terms": [
+      "Summer 2026",
+      "Spring 2026",
+      "Fall 2026",
+      "Winter 2026"
+    ],
+    "category": "Data Science, AI & Machine Learning",
+    "source": "AlmondCroffle",
+    "id": "03813c64-affd-4489-8cb4-88f8f6589d2e",
+    "date_posted": 1757406563,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1757407141,
+    "sponsorship": "U.S. Citizenship is Required",
+    "active": true,
+    "degrees": [
+      "Bachelor's"
+    ],
+    "url": "https://job-boards.greenhouse.io/vardaspace/jobs/6824554003",
+    "company_name": "Varda",
+    "title": "Flight Software (C++) Internship",
+    "locations": [
+      "El Segundo, CA"
+    ],
+    "terms": [
+      "Spring 2026"
+    ],
+    "category": "Software Engineering",
+    "source": "AlmondCroffle",
+    "id": "db24eb27-a6b6-41a5-8be0-a63b5b64bfe5",
+    "date_posted": 1757407141,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1757407170,
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "degrees": [
+      "Bachelor's"
+    ],
+    "url": "https://careers.arm.com/job/austin/intern-software-engineer/33099/85831486384",
+    "company_name": "Arm Limited",
+    "title": "Software Engineer",
+    "locations": [
+      "Austin, TX",
+      "Boston, MA",
+      "San Diego, CA",
+      "San Jose, CA"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "category": "Software Engineering",
+    "source": "AlmondCroffle",
+    "id": "028d70e0-f948-4089-acf0-11010dd65ce6",
+    "date_posted": 1757407170,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1757407272,
+    "sponsorship": "U.S. Citizenship is Required",
+    "active": true,
+    "degrees": [
+      "Bachelor's"
+    ],
+    "url": "https://job-boards.greenhouse.io/vardaspace/jobs/6824788003",
+    "company_name": "Varda",
+    "title": "Flight Software (C++) Internship",
+    "locations": [
+      "El Segundo, CA"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "category": "Software Engineering",
+    "source": "AlmondCroffle",
+    "id": "e6d16021-9e0b-4f60-be70-3600c43ecbac",
+    "date_posted": 1757407272,
+    "company_url": "",
+    "is_visible": true
   }
 ]
