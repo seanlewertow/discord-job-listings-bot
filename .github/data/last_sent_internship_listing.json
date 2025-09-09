@@ -126100,5 +126100,124 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Meta",
+    "id": "0f8583ae-6eec-4e56-8501-2800381fb9ad",
+    "title": "Research Scientist Intern - Photorealistic Telepresence - PhD",
+    "active": true,
+    "terms": [
+      "Winter 2025",
+      "Spring 2025",
+      "Summer 2025",
+      "Fall 2025"
+    ],
+    "date_updated": 1757443896,
+    "date_posted": 1757443896,
+    "url": "https://www.metacareers.com/jobs/642942325544662",
+    "locations": [
+      "London, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Meta",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "PhD"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "L3Harris Technologies",
+    "id": "e977abd7-a989-4c38-a25c-164d84af4c74",
+    "title": "Software Engineering Intern",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1757442532,
+    "date_posted": 1757442532,
+    "url": "https://jobs.l3harris.com/job/Huntsville-Software-Engineering-Intern-(Huntsville,-AL)-AL-35806/1324456600/?ats=successfactors",
+    "locations": [
+      "Huntsville, AL"
+    ],
+    "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Manulife Financial",
+    "id": "350ad499-ccd7-405d-959a-ea68cb10da12",
+    "title": "Summer Intern/Co-op - Data Science - Masters",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1757443701,
+    "date_posted": 1757443701,
+    "url": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Toronto-Ontario/Summer-Intern-Co-op-2026---Data-Science--Masters-_JR25090579",
+    "locations": [
+      "Toronto, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Manulife-Financial",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "RoviSys",
+    "id": "4348d828-998c-4315-90ca-4a92ea0c719f",
+    "title": "Co-op \u2013 Summer 2026",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1757443278,
+    "date_posted": 1757443278,
+    "url": "https://careers-rovisys.icims.com/jobs/1855/job",
+    "locations": [
+      "Twinsburg, OH"
+    ],
+    "company_url": "https://simplify.jobs/c/RoviSys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Geneva Trading",
+    "id": "be085ccb-b84c-4830-ae61-c599cd4aabca",
+    "title": "Intern \u2013 Quantitative Trader - Digital Assets",
+    "active": true,
+    "terms": [
+      "Summer 2024"
+    ],
+    "date_updated": 1757449811,
+    "date_posted": 1756938195,
+    "url": "https://job-boards.greenhouse.io/genevatrading/jobs/4854337007",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/Geneva-Trading",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Master's"
+    ]
   }
 ]
