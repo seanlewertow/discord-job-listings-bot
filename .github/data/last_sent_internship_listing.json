@@ -125816,5 +125816,122 @@
     "date_posted": 1757407988,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "date_updated": 1757408415,
+    "sponsorship": "Does Not Offer Sponsorship",
+    "active": true,
+    "degrees": [
+      "Bachelor's"
+    ],
+    "url": "https://jobs.ashbyhq.com/eventualcomputing/83a9e0b2-3089-45cb-bec5-cb21e253704b",
+    "company_name": "Eventual",
+    "title": "Software Engineer, Intern",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "terms": [
+      "Fall 2026",
+      "Spring 2026",
+      "Winter 2026"
+    ],
+    "category": "Software Engineering",
+    "source": "AlmondCroffle",
+    "id": "7c48e767-6052-4532-b92f-15f949e75035",
+    "date_posted": 1757408415,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1757408565,
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "degrees": [
+      "Bachelor's"
+    ],
+    "url": "https://allegion.wd5.myworkdayjobs.com/en-US/careers/job/Golden-CO/Summer-Intern---Software-Engineering---Quality-Assurance_JR33730",
+    "company_name": "Allegion",
+    "title": "Software Engineering \u2013 Quality Assurance",
+    "locations": [
+      "Golden, CO"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "category": "Software Engineering",
+    "source": "AlmondCroffle",
+    "id": "281c2b8c-130f-4a38-8c9f-f9586571e494",
+    "date_posted": 1757408565,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1757408611,
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "degrees": [
+      "Bachelor's"
+    ],
+    "url": "https://allegion.wd5.myworkdayjobs.com/en-US/careers/job/Golden-CO/Summer-Intern---Firmware-Engineer---Product-Lifecycle-Engineering_JR33710",
+    "company_name": "Allegion",
+    "title": "Firmware Engineer - Product Lifecycle Engineering",
+    "locations": [
+      "Golden, CO"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "category": "Hardware Engineering",
+    "source": "AlmondCroffle",
+    "id": "1d16dda1-3250-4966-bd6e-010ff4ad7517",
+    "date_posted": 1757408611,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1757408658,
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "degrees": [
+      "Bachelor's"
+    ],
+    "url": "https://allegion.wd5.myworkdayjobs.com/en-US/careers/job/Golden-CO/Summer-Intern---Software-Systems-Engineering_JR33643",
+    "company_name": "Allegion",
+    "title": "Software Systems Engineering",
+    "locations": [
+      "Golden, CO"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "category": "Software Engineering",
+    "source": "AlmondCroffle",
+    "id": "b156a4f8-1f73-415a-b98a-5cdd5c8c8d2e",
+    "date_posted": 1757408658,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1757408702,
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "degrees": [
+      "Bachelor's"
+    ],
+    "url": "https://allegion.wd5.myworkdayjobs.com/en-US/careers/job/Indianapolis-IN---Hague-Rd/Summer-Intern---Firmware-Engineer--Advanced-Development-_JR33546-1",
+    "company_name": "Allegion",
+    "title": "Firmware Engineer (Advanced Development)",
+    "locations": [
+      "Indianapolis, IN"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "category": "Hardware Engineering",
+    "source": "AlmondCroffle",
+    "id": "a3c83e9d-03ae-4619-a0d5-339d3d466ca9",
+    "date_posted": 1757408702,
+    "company_url": "",
+    "is_visible": true
   }
 ]
