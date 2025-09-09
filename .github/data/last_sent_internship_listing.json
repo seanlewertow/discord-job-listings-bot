@@ -125452,5 +125452,54 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "date_updated": 1757403938,
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "degrees": [
+      "Bachelor's"
+    ],
+    "url": "https://myjobs.adp.com/ameritasexternal/cx/job-details?reqId=5001146090600",
+    "company_name": "Ameritas",
+    "title": "Software Developer Intern - Packaged Systems",
+    "locations": [
+      "Remote, OH",
+      "Remote, NE"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "category": "Software Engineering",
+    "source": "AlmondCroffle",
+    "id": "49d7458c-170a-43ac-b117-fa1f45e7e0ab",
+    "date_posted": 1757403938,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1757404306,
+    "sponsorship": "Does Not Offer Sponsorship",
+    "active": true,
+    "degrees": [
+      "Bachelor's"
+    ],
+    "url": "https://lennar.wd1.myworkdayjobs.com/en-US/Lennar_Jobs/job/LEN---Miami-FL---Corporate/Future-Builders-Internship-Program---Software-Engineering_R25_0000003711",
+    "company_name": "Lennar",
+    "title": "Software Engineering",
+    "locations": [
+      "Miami, FL",
+      "Dallas, TX",
+      "Bentonville, AR"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "category": "Software Engineering",
+    "source": "AlmondCroffle",
+    "id": "50a26c5a-2d68-4bdc-81d8-42e90b46e4f5",
+    "date_posted": 1757404306,
+    "company_url": "",
+    "is_visible": true
   }
 ]
