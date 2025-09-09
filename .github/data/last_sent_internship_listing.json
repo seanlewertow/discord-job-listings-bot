@@ -125501,5 +125501,127 @@
     "date_posted": 1757404306,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "date_updated": 1757405463,
+    "sponsorship": "U.S. Citizenship is Required",
+    "active": true,
+    "degrees": [
+      "Bachelor's"
+    ],
+    "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25007022",
+    "company_name": "Texas Instruments",
+    "title": "Information Technology Intern",
+    "locations": [
+      "Dallas, TX"
+    ],
+    "terms": [
+      "Fall 2026",
+      "Spring 2026",
+      "Winter 2026",
+      "Summer 2026"
+    ],
+    "category": "Other",
+    "source": "AlmondCroffle",
+    "id": "2580f068-35ec-4a40-9954-e06ddf6b9a07",
+    "date_posted": 1757405463,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1757405539,
+    "sponsorship": "U.S. Citizenship is Required",
+    "active": true,
+    "degrees": [
+      "Bachelor's"
+    ],
+    "url": "https://morningstar.wd5.myworkdayjobs.com/en-US/Americas/job/Chicago/Morningstar-Internship-Program--Quantitative-Research-Intern--Campus-_REQ-053117-1",
+    "company_name": "Morningstar",
+    "title": "Quantitative Research",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "category": "Quantitative Finance",
+    "source": "AlmondCroffle",
+    "id": "6a60896e-86ff-48e8-9080-a83fadcc2181",
+    "date_posted": 1757405539,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1757405624,
+    "sponsorship": "U.S. Citizenship is Required",
+    "active": true,
+    "degrees": [
+      "Bachelor's"
+    ],
+    "url": "https://millerknoll.wd1.myworkdayjobs.com/en-US/MillerKnoll/job/MI---Zeeland/Infrastructure-Systems-AI-Intern_JR107338",
+    "company_name": "MillerKnoll",
+    "title": "Infrastructure Systems AI Intern",
+    "locations": [
+      "Zeeland, MI"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "category": "Data Science, AI & Machine Learning",
+    "source": "AlmondCroffle",
+    "id": "53816e11-a3d0-48c1-a6a9-d7b0c15a70a3",
+    "date_posted": 1757405624,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1757405793,
+    "sponsorship": "U.S. Citizenship is Required",
+    "active": true,
+    "degrees": [
+      "Bachelor's"
+    ],
+    "url": "https://msd.wd5.myworkdayjobs.com/en-US/SearchJobs/job/USA---Massachusetts---Boston-MA-Parcel-B-Laboratory/XMLNAME-2026-Future-Talent-Program---Quantitative-Biosciences-High-Content-Imaging---Intern_R362132",
+    "company_name": "Merck & Co.",
+    "title": "Quantitative Biosciences High Content Imaging - Intern",
+    "locations": [
+      "Boston, MA"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "category": "Other",
+    "source": "AlmondCroffle",
+    "id": "2daf788d-681f-42b6-b3e9-451d36487865",
+    "date_posted": 1757405793,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1757405909,
+    "sponsorship": "Other",
+    "active": true,
+    "degrees": [
+      "Bachelor's"
+    ],
+    "url": "https://fmr.wd1.myworkdayjobs.com/en-US/targeted/job/Boston-MA/Co-Op--Data-Analyst_2117495",
+    "company_name": "Fidelity",
+    "title": "Co-Op, Data Analyst",
+    "locations": [
+      "Boston, MA",
+      "Westlake, TX"
+    ],
+    "terms": [
+      "Fall 2026",
+      "Spring 2026",
+      "Winter 2026",
+      "Summer 2026"
+    ],
+    "category": "Data Science, AI & Machine Learning",
+    "source": "AlmondCroffle",
+    "id": "9408e4db-05b6-484a-a4a5-6c775fa5c5ca",
+    "date_posted": 1757405909,
+    "company_url": "",
+    "is_visible": true
   }
 ]
