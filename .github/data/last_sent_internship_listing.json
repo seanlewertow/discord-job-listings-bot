@@ -125301,5 +125301,28 @@
     "date_posted": 1757400920,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "date_updated": 1757402802,
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "degrees": [
+      "Master's"
+    ],
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210664608",
+    "company_name": "JPMorganChase",
+    "title": "Machine Learning Center of Excellence",
+    "locations": [
+      "New York, NY"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "category": "Data Science, AI & Machine Learning",
+    "source": "AlmondCroffle",
+    "id": "ae9ca533-f49b-42b3-8eb1-82edc0a0e509",
+    "date_posted": 1757402802,
+    "company_url": "",
+    "is_visible": true
   }
 ]
