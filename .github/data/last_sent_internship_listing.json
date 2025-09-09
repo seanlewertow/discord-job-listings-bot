@@ -125744,5 +125744,77 @@
     "date_posted": 1757407272,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "date_updated": 1757407427,
+    "sponsorship": "Does Not Offer Sponsorship",
+    "active": true,
+    "degrees": [
+      "Bachelor's"
+    ],
+    "url": "https://aholddelhaizeusa.careerswithus.com/job/Co-Ops/Front-End-Engineer-Co-op-Spring-2026/Chicago-IL/ADUSArms/453640_external_USA-IL-Chicago",
+    "company_name": "Ahold Delhaize USA",
+    "title": "Front End Engineer Co-op",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "terms": [
+      "Spring 2026"
+    ],
+    "category": "Software Engineering",
+    "source": "AlmondCroffle",
+    "id": "8d49d506-73a3-4e9a-b423-ec09c2c03887",
+    "date_posted": 1757407427,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Cboe",
+    "id": "2900cfac-f186-46c7-aa2b-7a0190cac912",
+    "title": "Quantitative Risk Analyst Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1757407068,
+    "date_posted": 1757318044,
+    "url": "https://cboe.wd1.myworkdayjobs.com/en-US/External_Career_CBOE/job/Chicago-IL/Quantitative-Risk-Analyst_R-4141",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/Cboe",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Master's"
+    ]
+  },
+  {
+    "date_updated": 1757407988,
+    "sponsorship": "Does Not Offer Sponsorship",
+    "active": true,
+    "degrees": [
+      "Bachelor's"
+    ],
+    "url": "https://greatamerica.wd12.myworkdayjobs.com/en-US/greatamericacareers/job/Cedar-Rapids-IA/Software-Engineer-Intern_JR984",
+    "company_name": "GreatAmerica",
+    "title": "Software Engineer Intern",
+    "locations": [
+      "Cedar Rapids, IA"
+    ],
+    "terms": [
+      "Fall 2026",
+      "Spring 2026",
+      "Winter 2026",
+      "Summer 2026"
+    ],
+    "category": "Software Engineering",
+    "source": "AlmondCroffle",
+    "id": "47717ca2-6460-4b0a-a346-9338ee252845",
+    "date_posted": 1757407988,
+    "company_url": "",
+    "is_visible": true
   }
 ]
