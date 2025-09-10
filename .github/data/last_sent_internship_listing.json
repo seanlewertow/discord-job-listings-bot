@@ -126699,5 +126699,53 @@
       "Bachelor's",
       "Master's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Wellmark",
+    "id": "f69c0a4b-c19c-4bca-a62b-69823d26fae0",
+    "title": "Data Analytics & Governance Internship",
+    "active": true,
+    "terms": [
+      "Spring 2026",
+      "Summer 2026"
+    ],
+    "date_updated": 1757475931,
+    "date_posted": 1757475931,
+    "url": "https://jobs.smartrecruiters.com/WellmarkInc/744000080811038",
+    "locations": [
+      "Des Moines, IA"
+    ],
+    "company_url": "https://simplify.jobs/c/Wellmark",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Other",
+    "company_name": "Everest",
+    "id": "c749546b-413b-484f-9608-89a26c84d1e2",
+    "title": "2026 Information Technology Internship Program",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1757474670,
+    "date_posted": 1757474670,
+    "url": "https://everestre.wd5.myworkdayjobs.com/careers/job/Warren-NJ/XMLNAME-2026-Information-Technology-Internship-Program_R6756",
+    "locations": [
+      "Middlesex, NJ"
+    ],
+    "company_url": "https://simplify.jobs/c/Everest",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
