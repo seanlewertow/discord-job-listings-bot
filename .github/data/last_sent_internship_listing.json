@@ -127351,5 +127351,80 @@
     "date_posted": 1757510072,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "date_updated": 1757510414,
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "degrees": [
+      "Bachelor's"
+    ],
+    "url": "https://nelnet.wd1.myworkdayjobs.com/en-US/MyNelnet/job/Lincoln-NE/Intern---AI-Enablement_R21650",
+    "company_name": "Nelnet",
+    "title": "Intern - AI Enablement",
+    "locations": [
+      "Lincoln, NE"
+    ],
+    "terms": [
+      "Fall 2026",
+      "Spring 2026",
+      "Winter 2026",
+      "Summer 2026"
+    ],
+    "category": "Software Engineering",
+    "source": "AlmondCroffle",
+    "id": "89edc589-b3bf-42b6-8be1-7abde3a9985a",
+    "date_posted": 1757510414,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1757510544,
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "degrees": [
+      "Bachelor's"
+    ],
+    "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/San-Diego-Treena-St/AI-ML-ASIC-Design-and-Implementation-Automation-Intern---Summer-2026_R-10059947",
+    "company_name": "NXP Semiconductors",
+    "title": "AI/ML ASIC Design and Implementation Automation Intern",
+    "locations": [
+      "San Diego, CA"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "category": "Data Science, AI & Machine Learning",
+    "source": "AlmondCroffle",
+    "id": "d7e0b5a2-6378-4c5a-99ad-2d505b223286",
+    "date_posted": 1757510544,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1757510576,
+    "sponsorship": "Does Not Offer Sponsorship",
+    "active": true,
+    "degrees": [
+      "Bachelor's"
+    ],
+    "url": "https://troweprice.wd5.myworkdayjobs.com/en-US/TRowePrice/job/Baltimore-MD/XMLNAME-2026-Quantitative-Investing-Internship-Program_77528",
+    "company_name": "T. Rowe Price",
+    "title": "Quantitative Investing",
+    "locations": [
+      "Baltimore, MD"
+    ],
+    "terms": [
+      "Fall 2026",
+      "Spring 2026",
+      "Winter 2026",
+      "Summer 2026"
+    ],
+    "category": "Quantitative Finance",
+    "source": "AlmondCroffle",
+    "id": "371115ac-7791-4b28-b256-8ed0cff99f96",
+    "date_posted": 1757510576,
+    "company_url": "",
+    "is_visible": true
   }
 ]
