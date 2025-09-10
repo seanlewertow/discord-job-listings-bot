@@ -127175,5 +127175,51 @@
       "Bachelor's",
       "Master's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Merck",
+    "id": "5050b87e-6148-4488-9b57-ec91169f370d",
+    "title": "Future Talent Program \u2013 Co-Op - Technology Design & Customer Interface",
+    "active": true,
+    "terms": [
+      "Winter 2025"
+    ],
+    "date_updated": 1757501037,
+    "date_posted": 1757113368,
+    "url": "https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---New-Jersey---Rahway/XMLNAME-2026-Future-Talent-Program---Technology-Design---Customer-Interface---Intern_R363212",
+    "locations": [
+      "Linden, NJ"
+    ],
+    "company_url": "https://simplify.jobs/c/Merck",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "MasterControl",
+    "id": "3a8f504e-fe17-4ea9-b115-be1569173910",
+    "title": "Data Engineer Intern",
+    "active": true,
+    "terms": [
+      "Winter 2025"
+    ],
+    "date_updated": 1757504467,
+    "date_posted": 1757018770,
+    "url": "https://www.mastercontrol.com/careers/job-listings/role/?role=4601625005&gh_jid=4601625005",
+    "locations": [
+      "Salt Lake City, UT"
+    ],
+    "company_url": "https://simplify.jobs/c/MasterControl",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
