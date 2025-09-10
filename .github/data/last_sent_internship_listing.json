@@ -126936,5 +126936,124 @@
       "Master's",
       "PhD"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Compeer Financial",
+    "id": "35e51c79-deec-4406-8ace-5e9753251c74",
+    "title": "Data Analytics Intern",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1757438678,
+    "date_posted": 1757438678,
+    "url": "https://job-boards.greenhouse.io/compeerfinancial/jobs/4913393008",
+    "locations": [
+      "Eau Claire, WI",
+      "Rochester, MN",
+      "River Falls, WI",
+      "Lakeville, MN",
+      "Mankato, MN"
+    ],
+    "company_url": "https://simplify.jobs/c/Compeer-Financial",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Huntington Ingalls Industries",
+    "id": "a0936596-0657-4e9b-86cb-bac42d555422",
+    "title": "College Summer Intern - Info Tech",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1757486862,
+    "date_posted": 1757486862,
+    "url": "https://careers.huntingtoningalls.com/job/Pascagoula-2026-COLLEGE-SUMMER-INTERN-INFO-TECH-Miss/1324759700/?ats=successfactors",
+    "locations": [
+      "Biloxi, MS"
+    ],
+    "company_url": "https://simplify.jobs/c/Huntington-Ingalls-Industries",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Huntington Ingalls Industries",
+    "id": "716064d6-4006-48ff-856e-d4c5f15dd274",
+    "title": "College Summer Intern-Production Control",
+    "active": true,
+    "terms": [
+      "Winter 2025"
+    ],
+    "date_updated": 1757486856,
+    "date_posted": 1757486856,
+    "url": "https://careers.huntingtoningalls.com/job/Pascagoula-2026-COLLEGE-SUMMER-INTERN-PRODUCTION-CONTROL-Miss/1324759600/?ats=successfactors",
+    "locations": [
+      "Biloxi, MS"
+    ],
+    "company_url": "https://simplify.jobs/c/Huntington-Ingalls-Industries",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Thrivent",
+    "id": "a5aa2c29-16bb-4145-9475-a36c9c774d15",
+    "title": "IT Application Engineer Intern - Investments",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1757436446,
+    "date_posted": 1757436446,
+    "url": "https://thrivent.wd5.myworkdayjobs.com/external/job/Mpls-Investments-Office/IT-Application-Engineer-Intern--Investments---Summer-2026_REQ-44277",
+    "locations": [
+      "Minneapolis, MN"
+    ],
+    "company_url": "https://simplify.jobs/c/Thrivent",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Thrivent",
+    "id": "2d282353-5d91-4157-afa8-b3de1c2045bb",
+    "title": "Data Analyst Intern - Investments",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1757436449,
+    "date_posted": 1757436449,
+    "url": "https://thrivent.wd5.myworkdayjobs.com/external/job/Mpls-Investments-Office/Data-Analyst-Intern--Investments---Summer-2026_REQ-44276",
+    "locations": [
+      "Minneapolis, MN"
+    ],
+    "company_url": "https://simplify.jobs/c/Thrivent",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
