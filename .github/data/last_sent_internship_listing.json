@@ -127221,5 +127221,135 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "date_updated": 1757509847,
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "degrees": [
+      "Master's"
+    ],
+    "url": "https://apply.workable.com/twg-global/j/95E27142C1/",
+    "company_name": "TWG Global",
+    "title": "AI/ML Scientist Intern (Natural Language Processing)",
+    "locations": [
+      "Santa Monica, CA"
+    ],
+    "terms": [
+      "Summer 2026",
+      "Winter 2026",
+      "Spring 2026",
+      "Fall 2026"
+    ],
+    "category": "Data Science, AI & Machine Learning",
+    "source": "AlmondCroffle",
+    "id": "f281f00c-8d71-4722-9bb7-07cd8fed1ce9",
+    "date_posted": 1757509847,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1757509912,
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "degrees": [
+      "Bachelor's"
+    ],
+    "url": "https://apply.workable.com/twg-global/j/4458DA5457/",
+    "company_name": "TWG Global",
+    "title": "AI Engineering Intern",
+    "locations": [
+      "Santa Monica, CA"
+    ],
+    "terms": [
+      "Fall 2026",
+      "Spring 2026",
+      "Winter 2026",
+      "Summer 2026"
+    ],
+    "category": "Software Engineering",
+    "source": "AlmondCroffle",
+    "id": "f24f6eec-a297-437f-ba39-35917a3a3b71",
+    "date_posted": 1757509912,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1757509964,
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "degrees": [
+      "Master's"
+    ],
+    "url": "https://apply.workable.com/twg-global/j/5FADB8A7EE/",
+    "company_name": "TWG Global",
+    "title": "AI/ML Scientist Intern (Simulation Optimization and Reinforcement Learning)",
+    "locations": [
+      "Santa Monica, CA"
+    ],
+    "terms": [
+      "Fall 2026",
+      "Spring 2026",
+      "Winter 2026",
+      "Summer 2026"
+    ],
+    "category": "Data Science, AI & Machine Learning",
+    "source": "AlmondCroffle",
+    "id": "97384bdb-9204-4dcd-af39-7ad3f51ac1d3",
+    "date_posted": 1757509964,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1757510016,
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "degrees": [
+      "Bachelor's"
+    ],
+    "url": "https://apply.workable.com/twg-global/j/15B958D8CC/",
+    "company_name": "TWG Global",
+    "title": "AI/ML Scientist Intern (Quantitative Research & Data Science)",
+    "locations": [
+      "Santa Monica, CA"
+    ],
+    "terms": [
+      "Fall 2026",
+      "Spring 2026",
+      "Winter 2026",
+      "Summer 2026"
+    ],
+    "category": "Software Engineering",
+    "source": "AlmondCroffle",
+    "id": "2d7da431-74b7-40d9-9a29-3ab75cd7f557",
+    "date_posted": 1757510016,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1757510072,
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "degrees": [
+      "Master's"
+    ],
+    "url": "https://apply.workable.com/twg-global/j/17D884D060/",
+    "company_name": "TWG Global",
+    "title": "AI/ML Scientist Intern (Graphs)",
+    "locations": [
+      "Santa Monica, CA"
+    ],
+    "terms": [
+      "Fall 2026",
+      "Spring 2026",
+      "Winter 2026",
+      "Summer 2026"
+    ],
+    "category": "Data Science, AI & Machine Learning",
+    "source": "AlmondCroffle",
+    "id": "2fff8f90-e6ac-4636-95a7-ad9bed026de8",
+    "date_posted": 1757510072,
+    "company_url": "",
+    "is_visible": true
   }
 ]
