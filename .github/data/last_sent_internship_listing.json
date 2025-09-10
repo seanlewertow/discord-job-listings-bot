@@ -127452,5 +127452,31 @@
     "date_posted": 1757517861,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "date_updated": 1757518392,
+    "sponsorship": "U.S. Citizenship is Required",
+    "active": true,
+    "degrees": [
+      "Bachelor's"
+    ],
+    "url": "https://jobs.jobvite.com/windriver/job/om4uvfw9",
+    "company_name": "Wind River",
+    "title": "Embedded Software Engineer",
+    "locations": [
+      "San Diego, CA"
+    ],
+    "terms": [
+      "Fall 2026",
+      "Spring 2026",
+      "Winter 2026",
+      "Summer 2026"
+    ],
+    "category": "Software Engineering",
+    "source": "AlmondCroffle",
+    "id": "da40e370-df03-40bd-b26b-fb9375d5ce50",
+    "date_posted": 1757518392,
+    "company_url": "",
+    "is_visible": true
   }
 ]
