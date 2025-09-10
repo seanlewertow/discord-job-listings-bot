@@ -127878,5 +127878,124 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Other",
+    "company_name": "Mackenzie Investments",
+    "id": "0dd7bc57-f5fb-4843-a1b5-f42cbc761bdc",
+    "title": "Winter \u2013 Cybersecurity Services Intern",
+    "active": true,
+    "terms": [
+      "Winter 2026"
+    ],
+    "date_updated": 1757536351,
+    "date_posted": 1757536351,
+    "url": "https://careersen-mackenzieinvestments.icims.com/jobs/5619/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Winnipeg, MB, Canada",
+      "Toronto, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Mackenzie-Investments",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "Seagate Technology ",
+    "id": "282884f8-91c7-4b77-b27c-9ebd515c99a4",
+    "title": "Product Delivery and Experience Intern - Pde",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1757530006,
+    "date_posted": 1757530006,
+    "url": "https://seagatecareers.com/job/Shakopee-Product-Delivery-and-Experience-(PDE)-Summer-2026-Intern-MN/1324881300/?ats=successfactors",
+    "locations": [
+      "Shakopee, MN",
+      "Longmont, CO"
+    ],
+    "company_url": "https://simplify.jobs/c/Seagate-Technology",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "RoviSys",
+    "id": "106e5303-8392-4503-85f7-2d82b6f8b04d",
+    "title": "Co-op \u2013 Summer 2026",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1757535538,
+    "date_posted": 1757535538,
+    "url": "https://careers-rovisys.icims.com/jobs/1840/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Holly Springs, NC"
+    ],
+    "company_url": "https://simplify.jobs/c/RoviSys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Other",
+    "company_name": "General Dynamics Mission Systems",
+    "id": "c31e949c-2173-4c26-a892-17f70c07137a",
+    "title": "Cyber Security \u2013 Intern",
+    "active": true,
+    "terms": [
+      "Winter 2025"
+    ],
+    "date_updated": 1757534998,
+    "date_posted": 1757534998,
+    "url": "https://careers-gdms.icims.com/jobs/68026/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Colorado Springs, CO"
+    ],
+    "company_url": "https://simplify.jobs/c/General-Dynamics-Mission-Systems",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "3M",
+    "id": "a3194597-2685-4f12-b289-713aca269a10",
+    "title": "Internship \u2013 2026 Undergraduate and Master's Research & Development Intern",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1757534697,
+    "date_posted": 1757534697,
+    "url": "https://3m.wd1.myworkdayjobs.com/en-US/Search/job/US-Minnesota-Maplewood/Internship---2026-Undergraduate-and-Master-s-Research---Development-Intern_R01155851",
+    "locations": [
+      "Austin, TX",
+      "Woodbury, MN"
+    ],
+    "company_url": "https://simplify.jobs/c/3M",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
   }
 ]
