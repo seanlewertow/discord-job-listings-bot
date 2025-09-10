@@ -127426,5 +127426,31 @@
     "date_posted": 1757510576,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "date_updated": 1757517861,
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "degrees": [
+      "Bachelor's"
+    ],
+    "url": "https://www.american-equity.com/about/careers/openings?gh_jid=4865782007",
+    "company_name": "American Equity",
+    "title": "IT Intern, Data Science",
+    "locations": [
+      "West Des Moines, IA"
+    ],
+    "terms": [
+      "Fall 2026",
+      "Spring 2026",
+      "Winter 2026",
+      "Summer 2026"
+    ],
+    "category": "Data Science, AI & Machine Learning",
+    "source": "AlmondCroffle",
+    "id": "2e6a5e47-57a8-4402-b69d-2779255d4f68",
+    "date_posted": 1757517861,
+    "company_url": "",
+    "is_visible": true
   }
 ]
