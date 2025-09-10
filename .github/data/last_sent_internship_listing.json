@@ -128208,5 +128208,125 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Medpace, Inc.",
+    "id": "0ff7569c-874e-4d36-99f0-fd16a6620459",
+    "title": "Informatics Internship/Co-Op",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1757538821,
+    "date_posted": 1757538821,
+    "url": "https://careers.medpace.com/jobs/11562?lang=en-us&icims=1",
+    "locations": [
+      "Cincinnati, OH"
+    ],
+    "company_url": "https://simplify.jobs/c/Medpace-Inc",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "PhD"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Other",
+    "company_name": "Medpace, Inc.",
+    "id": "b113541c-4493-4924-a20b-b2cf0d41f09c",
+    "title": "Information Security Intern",
+    "active": true,
+    "terms": [
+      "Spring 2026"
+    ],
+    "date_updated": 1757538716,
+    "date_posted": 1757538716,
+    "url": "https://careers.medpace.com/jobs/11518?lang=en-us&icims=1",
+    "locations": [
+      "Cincinnati, OH"
+    ],
+    "company_url": "https://simplify.jobs/c/Medpace-Inc",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Other",
+    "company_name": "Medpace, Inc.",
+    "id": "86bbcff5-ca43-43d0-818b-761f3dab4b21",
+    "title": "Network Engineer Intern-Spring 2026",
+    "active": true,
+    "terms": [
+      "Spring 2026"
+    ],
+    "date_updated": 1757538726,
+    "date_posted": 1757538726,
+    "url": "https://careers.medpace.com/jobs/11514?lang=en-us&icims=1",
+    "locations": [
+      "Cincinnati, OH"
+    ],
+    "company_url": "https://simplify.jobs/c/Medpace-Inc",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Other",
+    "company_name": "Grant Thornton",
+    "id": "d6a554a6-ff88-49a0-bb26-d6cd6fa0e6ac",
+    "title": "Audit IT Assurance Intern",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1757523924,
+    "date_posted": 1757523924,
+    "url": "https://ehzq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs/job/113348",
+    "locations": [
+      "Houston, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Grant-Thornton",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Citizens Financial Group",
+    "id": "88987364-8530-4c7a-a466-478ac6c0a7dc",
+    "title": "Data Analytics Undergraduate Internship",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1757528780,
+    "date_posted": 1757528780,
+    "url": "https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs/job/41925",
+    "locations": [
+      "Coralville, IA",
+      "Providence, RI",
+      "Columbus, OH",
+      "Norwood, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/Citizens-Financial-Group",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
