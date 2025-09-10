@@ -126580,5 +126580,124 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Marvell",
+    "id": "bbeec3a0-e74b-4a2e-a821-6b55bc107152",
+    "title": "Physical Design Engineer Intern",
+    "active": true,
+    "terms": [
+      "Winter 2025"
+    ],
+    "date_updated": 1757472340,
+    "date_posted": 1757472340,
+    "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Morrisville-NC/Physical-Design-Engineer-Intern---Master-s-Degree_2502481",
+    "locations": [
+      "Morrisville, NC"
+    ],
+    "company_url": "https://simplify.jobs/c/80961b05-9ed3-462d-aef9-4b418c7fb796",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Allegion",
+    "id": "15b55ab4-f06c-4a29-ba7e-c6d52bf9f4d8",
+    "title": "Firmware Intern",
+    "active": true,
+    "terms": [
+      "Summer 2024"
+    ],
+    "date_updated": 1757471608,
+    "date_posted": 1757471608,
+    "url": "https://allegion.wd5.myworkdayjobs.com/careers/job/Golden-CO/Firmware-Intern_JR33781",
+    "locations": [
+      "Golden, CO"
+    ],
+    "company_url": "https://simplify.jobs/c/Allegion",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Brunswick",
+    "id": "0ff2f316-a984-41aa-b44f-fa8c4d9531dd",
+    "title": "Software Engineer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1757471609,
+    "date_posted": 1757471609,
+    "url": "https://brunswick.wd1.myworkdayjobs.com/en-US/search/job/Oshkosh-WI/Software-Engineer-Intern_JR-047527",
+    "locations": [
+      "Oshkosh, WI"
+    ],
+    "company_url": "https://simplify.jobs/c/Brunswick",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Baird",
+    "id": "43ec2ecd-448e-4e3d-9be9-a72ba62c5f5e",
+    "title": "Internship - Software Developer",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1757465143,
+    "date_posted": 1757465143,
+    "url": "https://wd1.myworkdaysite.com/recruiting/baird/Careers/job/WI-Milwaukee/Internship---Software-Developer--Year-Round-_R20251066-1",
+    "locations": [
+      "Madison, WI",
+      "Milwaukee, WI"
+    ],
+    "company_url": "https://simplify.jobs/c/Baird",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Associate's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Veeam Software",
+    "id": "476af6a7-5bf6-4cd1-b939-48143a788b9c",
+    "title": "Integrations Software Developer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1757470102,
+    "date_posted": 1757470102,
+    "url": "https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4671378101",
+    "locations": [
+      "Georgia"
+    ],
+    "company_url": "https://simplify.jobs/c/Veeam-Software",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
   }
 ]
