@@ -127501,5 +127501,28 @@
     "date_posted": 1757519471,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "date_updated": 1757519757,
+    "sponsorship": "Does Not Offer Sponsorship",
+    "active": true,
+    "degrees": [
+      "Bachelor's"
+    ],
+    "url": "https://careers.ti.com/en/sites/CX/job/25007033",
+    "company_name": "Texas Instruments",
+    "title": "Software Engineering Intern",
+    "locations": [
+      "Dallas, TX"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "category": "Software Engineering",
+    "source": "AlmondCroffle",
+    "id": "2b333bfe-4859-44e0-9dff-cdcc222e390a",
+    "date_posted": 1757519757,
+    "company_url": "",
+    "is_visible": true
   }
 ]
