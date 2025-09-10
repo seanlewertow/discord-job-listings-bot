@@ -26497,5 +26497,41 @@
     "date_posted": 1757508637,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "date_updated": 1757508762,
+    "sponsorship": "U.S. Citizenship is Required",
+    "active": true,
+    "degrees": [],
+    "url": "https://careers-credence-llc.icims.com/jobs/9541/entry-level-software-engineer-%28computer-engineering-graduate%29/job",
+    "company_name": "Credence",
+    "title": "Entry-Level Software Engineer",
+    "locations": [
+      "McLean, VA"
+    ],
+    "category": "Software Engineering",
+    "source": "AlmondCroffle",
+    "id": "4e5b1236-1ed0-4b1c-b6e9-86b38a05424b",
+    "date_posted": 1757508762,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1757508886,
+    "sponsorship": "Does Not Offer Sponsorship",
+    "active": true,
+    "degrees": [],
+    "url": "https://costar.wd1.myworkdayjobs.com/en-US/Costar_Campus/job/Sunnyvale/Associate-Software-Engineer---Sunnyvale--CA_R37010",
+    "company_name": "Costar",
+    "title": "Associate Software Engineer",
+    "locations": [
+      "Sunnyvale, CA"
+    ],
+    "category": "Software Engineering",
+    "source": "AlmondCroffle",
+    "id": "33a51ca5-bbac-4f38-ac04-f5819ab54b26",
+    "date_posted": 1757508886,
+    "company_url": "",
+    "is_visible": true
   }
 ]
