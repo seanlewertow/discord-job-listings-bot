@@ -127524,5 +127524,122 @@
     "date_posted": 1757519757,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "source": "Simplify",
+    "category": "Other",
+    "company_name": "Continental",
+    "id": "a288d47a-8966-4462-b53e-98ccaf1e5b5e",
+    "title": "Intern \u2013 IT Operations - Year-Round",
+    "active": true,
+    "terms": [
+      "Winter 2025"
+    ],
+    "date_updated": 1757522390,
+    "date_posted": 1757522390,
+    "url": "https://jobs.smartrecruiters.com/Continental/744000080876626",
+    "locations": [
+      "Fort Mill, SC"
+    ],
+    "company_url": "https://simplify.jobs/c/Continental",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Robert Bosch Venture Capital",
+    "id": "23acdcba-6361-4c4d-97f0-44d62113edb9",
+    "title": "Software Development Internship",
+    "active": true,
+    "terms": [
+      "Winter 2025"
+    ],
+    "date_updated": 1757496895,
+    "date_posted": 1757496895,
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000063043596",
+    "locations": [
+      "Edinburgh, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Bosch",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Robert Bosch Venture Capital",
+    "id": "76d2ab1d-e665-451c-81e3-00adebb54771",
+    "title": "Automated Driving Intern - Simulation at Scale for RL",
+    "active": true,
+    "terms": [
+      "Winter 2025"
+    ],
+    "date_updated": 1757516577,
+    "date_posted": 1757516577,
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000079058158",
+    "locations": [
+      "Sunnyvale, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Bosch",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Master's",
+      "PhD"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "U.S. Venture",
+    "id": "b8b75e7c-f950-49bc-96f3-760267936c9f",
+    "title": "Software Engineer Intern - Igen",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1757511079,
+    "date_posted": 1757511079,
+    "url": "https://usventure.wd1.myworkdayjobs.com/usvexternal/job/WI---Appleton/Software-Engineer-Intern---IGEN_R4271-1",
+    "locations": [
+      "Appleton, WI"
+    ],
+    "company_url": "https://simplify.jobs/c/US-Venture",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "Mondelez International",
+    "id": "f2e93bf4-7c1f-47a4-9f6c-e206f609ef9e",
+    "title": "Research & Development Product Internship",
+    "active": true,
+    "terms": [
+      "Winter 2025"
+    ],
+    "date_updated": 1757508105,
+    "date_posted": 1757508105,
+    "url": "https://wd3.myworkdaysite.com/recruiting/mdlz/External/job/Birmingham-United-Kingdom/Research---Development-Product-Internship-Placement-Year-2026---2027_R-148004-1",
+    "locations": [
+      "Birmingham, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Mondelez-International",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
