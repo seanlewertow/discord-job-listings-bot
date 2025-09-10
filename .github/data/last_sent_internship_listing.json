@@ -127758,5 +127758,125 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Viavi Solutions",
+    "id": "5da5e590-e00b-4824-9e12-32757d57e478",
+    "title": "Hardware/Electrical/Optical Engineering Intern",
+    "active": true,
+    "terms": [
+      "Winter 2025"
+    ],
+    "date_updated": 1757530787,
+    "date_posted": 1757530787,
+    "url": "https://viavisolutions.wd1.myworkdayjobs.com/careers/job/Indianapolis-IN-USA/HW--Electrical---Optical-Engineering-Intern_250003832",
+    "locations": [
+      "Indianapolis, IN"
+    ],
+    "company_url": "https://simplify.jobs/c/Viavi-Solutions",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "3M",
+    "id": "1a748a30-79cb-4da9-b36a-5f17715934bb",
+    "title": "Internship \u2013 2026 PhD Research & Development Intern",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1757530893,
+    "date_posted": 1757530893,
+    "url": "https://3m.wd1.myworkdayjobs.com/en-US/Search/job/US-Minnesota-Maplewood/Internship---2026-PhD-Research---Development-Intern_R01155853",
+    "locations": [
+      "Austin, TX",
+      "Woodbury, MN"
+    ],
+    "company_url": "https://simplify.jobs/c/3M",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "PhD"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "Emerson Electric",
+    "id": "c1f5d513-9750-4d59-9252-cd4fd7564752",
+    "title": "Product Management Co-op",
+    "active": true,
+    "terms": [
+      "Winter 2026",
+      "Spring 2026"
+    ],
+    "date_updated": 1757529931,
+    "date_posted": 1757529931,
+    "url": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs/job/25025135",
+    "locations": [
+      "Shakopee, MN",
+      "Eden Prairie, MN"
+    ],
+    "company_url": "https://simplify.jobs/c/Emerson-Electric",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Emerson Electric",
+    "id": "32157080-81c5-4867-89db-6a0db051de28",
+    "title": "Hardware Design Intern",
+    "active": true,
+    "terms": [
+      "Winter 2025"
+    ],
+    "date_updated": 1757529936,
+    "date_posted": 1757529936,
+    "url": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs/job/25025755",
+    "locations": [
+      "Austin, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Emerson-Electric",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Citizens Financial Group",
+    "id": "08412f39-d603-462d-8d4b-83559245edfd",
+    "title": "Data Engineer Internship",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1757530667,
+    "date_posted": 1757530667,
+    "url": "https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs/job/41933",
+    "locations": [
+      "Providence, RI",
+      "Norwood, MA",
+      "Phoenix, AZ"
+    ],
+    "company_url": "https://simplify.jobs/c/Citizens-Financial-Group",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
