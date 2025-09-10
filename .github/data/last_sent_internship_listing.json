@@ -127478,5 +127478,28 @@
     "date_posted": 1757518392,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "date_updated": 1757519471,
+    "sponsorship": "Does Not Offer Sponsorship",
+    "active": true,
+    "degrees": [
+      "Bachelor's"
+    ],
+    "url": "https://careers-cobank.icims.com/jobs/7385/software-engineer-intern-%28denver%29/job",
+    "company_name": "CoBank",
+    "title": "Software Engineer Intern",
+    "locations": [
+      "Denver, CO"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "category": "Software Engineering",
+    "source": "AlmondCroffle",
+    "id": "0e371891-b439-49e7-bf91-87e16f8b5251",
+    "date_posted": 1757519471,
+    "company_url": "",
+    "is_visible": true
   }
 ]
