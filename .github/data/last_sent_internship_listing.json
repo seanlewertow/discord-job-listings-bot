@@ -126455,5 +126455,130 @@
       "Bachelor's",
       "Associate's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Berkshire Hathaway Energy",
+    "id": "f3e92c69-3b20-430b-b5b3-0927e437bd5f",
+    "title": "Intern \u2013 Gas Control",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1757460746,
+    "date_posted": 1757460746,
+    "url": "https://fa-essf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs/job/10003454",
+    "locations": [
+      "Columbia, SC"
+    ],
+    "company_url": "https://simplify.jobs/c/Berkshire-Hathaway-Energy",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Other",
+    "company_name": "Mohawk",
+    "id": "9aee43bc-723e-4ec5-bc7e-f81c91ebbe35",
+    "title": "Applications Development Intern",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1757460549,
+    "date_posted": 1757460549,
+    "url": "https://careers.mohawkind.com/job/Applications-Development-Intern-Summer-2026-Geor/1324593400/?ats=successfactors",
+    "locations": [
+      "Georgia"
+    ],
+    "company_url": "https://simplify.jobs/c/Mohawk",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Aviva",
+    "id": "75d5df0e-f920-4cca-92e5-effc973b6958",
+    "title": "Co-op Student - Enterprise Data Services",
+    "active": true,
+    "terms": [
+      "Winter 2025",
+      "Spring 2025",
+      "Summer 2025",
+      "Fall 2025"
+    ],
+    "date_updated": 1757460545,
+    "date_posted": 1757460545,
+    "url": "https://aviva.wd1.myworkdayjobs.com/External/job/Canada---Markham-ON-10-Aviva-Way/Co-op-Student---Enterprise-Data-Services_R-160023",
+    "locations": [
+      "Markham, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Aviva",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Cognitiv",
+    "id": "0c9512bc-a21d-476b-9e13-b46880564d8d",
+    "title": "Machine Learning Research Scientist Intern",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1757460434,
+    "date_posted": 1757460434,
+    "url": "https://jobs.lever.co/cognitiv/be2b3e65-a5e6-4914-ba01-8f07bb80cfa0/apply",
+    "locations": [
+      "San Mateo, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Cognitiv",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Master's",
+      "PhD"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Waystar",
+    "id": "ba8d05d3-31be-43bb-9836-af3aabd50e91",
+    "title": "Data Analyst Internship",
+    "active": true,
+    "terms": [
+      "Winter 2022",
+      "Winter 2023",
+      "Spring 2023"
+    ],
+    "date_updated": 1757460351,
+    "date_posted": 1757460351,
+    "url": "https://waystar.wd1.myworkdayjobs.com/Waystar/job/Atlanta-GA/Data-Analyst-Internship_R2768-1",
+    "locations": [
+      "Louisville, KY",
+      "Duluth, GA",
+      "Atlanta, GA",
+      "Lehi, UT"
+    ],
+    "company_url": "https://simplify.jobs/c/Waystar",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
