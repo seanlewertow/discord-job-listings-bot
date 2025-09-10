@@ -127997,5 +127997,124 @@
       "Bachelor's",
       "Master's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Berkshire Hathaway Energy",
+    "id": "f94cd7a5-9e6d-45fd-9b9e-33853b03a6a2",
+    "title": "Renewable Development \u2013 Intern - GIS",
+    "active": true,
+    "terms": [
+      "Winter 2025"
+    ],
+    "date_updated": 1757524698,
+    "date_posted": 1757524698,
+    "url": "https://fa-essf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs/job/10003538",
+    "locations": [
+      "Des Moines, IA"
+    ],
+    "company_url": "https://simplify.jobs/c/Berkshire-Hathaway-Energy",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Other",
+    "company_name": "National Information Solutions Cooperative (NISC)",
+    "id": "e47d76fd-063e-4160-9587-40ecbdab34f2",
+    "title": "Intern \u2013 Technical Support - Help Desk",
+    "active": true,
+    "terms": [
+      "Winter 2026",
+      "Spring 2026",
+      "Summer 2026"
+    ],
+    "date_updated": 1757526490,
+    "date_posted": 1757526490,
+    "url": "https://job-boards.greenhouse.io/testnisc/jobs/7242794",
+    "locations": [
+      "Cedar Rapids, IA"
+    ],
+    "company_url": "https://simplify.jobs/c/National-Information-Solutions-Cooperative-NISC",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Associate's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Susquehanna International Group (SIG)",
+    "id": "d805d49e-4ea5-4dec-b9dd-45ce6bbbd337",
+    "title": "Quantitative Trader Internship",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1757536718,
+    "date_posted": 1757536718,
+    "url": "https://careers-sig.icims.com/jobs/9382/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Susquehanna",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Other",
+    "company_name": "Emerson Electric",
+    "id": "b4a4e2fb-f713-4947-80d3-c8adf5b3b14a",
+    "title": "Cybersecurity Engineering Intern",
+    "active": true,
+    "terms": [
+      "Winter 2025"
+    ],
+    "date_updated": 1757530378,
+    "date_posted": 1757530378,
+    "url": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs/job/25025054",
+    "locations": [
+      "Shakopee, MN"
+    ],
+    "company_url": "https://simplify.jobs/c/Emerson-Electric",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "RoviSys",
+    "id": "2abdccf1-a923-4320-a30e-9eb678dbf3da",
+    "title": "Co-op \u2013 Spring 2026",
+    "active": true,
+    "terms": [
+      "Spring 2026"
+    ],
+    "date_updated": 1757536740,
+    "date_posted": 1757536740,
+    "url": "https://careers-rovisys.icims.com/jobs/1861/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Houston, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/RoviSys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
