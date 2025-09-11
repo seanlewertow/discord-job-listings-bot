@@ -128444,5 +128444,122 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Susquehanna International Group (SIG)",
+    "id": "9c843ea8-9b7c-4b8c-a34c-b8c89aa81148",
+    "title": "Quantitative Research Internship",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1757578092,
+    "date_posted": 1757542884,
+    "url": "https://careers-sig.icims.com/jobs/9313/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Philadelphia, PA",
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Susquehanna",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "PhD"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "CoBank",
+    "id": "59885cb1-7bd7-48d5-99a6-378ba44305b3",
+    "title": "Software Engineer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1757580162,
+    "date_posted": 1757540071,
+    "url": "https://careers-cobank.icims.com/jobs/7385/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Greenwood Village, CO"
+    ],
+    "company_url": "https://simplify.jobs/c/CoBank",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "RoviSys",
+    "id": "d7e5e1b2-17a9-4450-b6a8-a0afe51426eb",
+    "title": "Co-op \u2013 Summer 2026",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1757589238,
+    "date_posted": 1757539665,
+    "url": "https://careers-rovisys.icims.com/jobs/1855/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Twinsburg, OH"
+    ],
+    "company_url": "https://simplify.jobs/c/RoviSys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Susquehanna International Group (SIG)",
+    "id": "08b5f3e9-aa6a-4dcb-839c-f936a41196a3",
+    "title": "Quantitative Research Internship",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1757578078,
+    "date_posted": 1757008621,
+    "url": "https://careers-sig.icims.com/jobs/9238/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Ardmore, PA"
+    ],
+    "company_url": "https://simplify.jobs/c/Susquehanna",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "PhD"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Susquehanna International Group (SIG)",
+    "id": "c3c163a5-4391-40a6-876b-20653d3c31ec",
+    "title": "Quantitative Research Internship",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1757578078,
+    "date_posted": 1755122578,
+    "url": "https://careers-sig.icims.com/jobs/9306/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Ardmore, PA"
+    ],
+    "company_url": "https://simplify.jobs/c/Susquehanna",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Master's"
+    ]
   }
 ]
