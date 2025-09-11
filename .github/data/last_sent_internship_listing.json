@@ -128561,5 +128561,28 @@
     "degrees": [
       "Master's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "RoviSys",
+    "id": "3cdc75c9-e302-471d-9aa2-12e38b885f5b",
+    "title": "Co-op \u2013 Spring 2026",
+    "active": true,
+    "terms": [
+      "Spring 2026"
+    ],
+    "date_updated": 1757592979,
+    "date_posted": 1757546342,
+    "url": "https://careers-rovisys.icims.com/jobs/1847/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Portage, MI"
+    ],
+    "company_url": "https://simplify.jobs/c/RoviSys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
