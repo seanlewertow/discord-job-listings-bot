@@ -128819,5 +128819,125 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Other",
+    "company_name": "W.R. Berkley",
+    "id": "6b40a6ae-5798-4094-b54b-0cebecd2d6f2",
+    "title": "Intern \u2013 Enterprise Architecture",
+    "active": true,
+    "terms": [
+      "Winter 2025"
+    ],
+    "date_updated": 1757631510,
+    "date_posted": 1757631510,
+    "url": "https://careers-berkley.icims.com/jobs/12803/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Grimes, IA"
+    ],
+    "company_url": "https://simplify.jobs/c/WR-Berkley",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Suno",
+    "id": "2868d396-360e-445c-94e1-375f30047459",
+    "title": "Software Engineering Internship",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1757630263,
+    "date_posted": 1757630263,
+    "url": "https://jobs.ashbyhq.com/suno/35b8b187-b136-4bf6-af4d-b28ff892dc53/application",
+    "locations": [
+      "Cambridge, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/Suno",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "PhD"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Varian",
+    "id": "dd282864-68dd-4a9c-8115-aebcf3ab0e30",
+    "title": "Software Engineering Co-op",
+    "active": true,
+    "terms": [
+      "Fall 2025",
+      "Winter 2025",
+      "Spring 2025"
+    ],
+    "date_updated": 1757629217,
+    "date_posted": 1757629217,
+    "url": "https://onehealthineers.wd3.myworkdayjobs.com/SHSJB/job/HES/Software-Engineering-Co-op--Hoffman-Estates-_R-23893",
+    "locations": [
+      "Hoffman Estates, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/670da3c5-bce0-4621-b519-da7ce7d528e6",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "CME Group",
+    "id": "07f3463d-2060-4cd8-901a-d5b863c94d50",
+    "title": "Software Engineering Internship",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1757629326,
+    "date_posted": 1757629326,
+    "url": "https://cmegroup.wd1.myworkdayjobs.com/en-US/cme_careers/job/Chicago---20-S-Wacker/Software-Engineering-Internship---Summer-2026_33043-1",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/CME-Group",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "W.R. Berkley",
+    "id": "183873ef-c292-4e5e-816e-4777686fefc7",
+    "title": "Quantitative Analyst Intern",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1757631472,
+    "date_posted": 1753916110,
+    "url": "https://careers-berkley.icims.com/jobs/12807/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Manassas, VA"
+    ],
+    "company_url": "https://simplify.jobs/c/WR-Berkley",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
