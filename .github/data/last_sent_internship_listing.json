@@ -128633,5 +128633,120 @@
     "date_posted": 1757596808,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Mackenzie Investments",
+    "id": "e3f21fec-5b01-4179-8dce-17070afe9c9a",
+    "title": "Investment Management \u2013 FI-Platform Intern",
+    "active": true,
+    "terms": [
+      "Winter 2026"
+    ],
+    "date_updated": 1757613901,
+    "date_posted": 1757611870,
+    "url": "https://careersen-mackenzieinvestments.icims.com/jobs/5614/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Greater Toronto Area, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Mackenzie-Investments",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Dayton Freight Lines",
+    "id": "32fc1129-317d-499e-b6c3-5ebb215eb592",
+    "title": "Software Developer Intern",
+    "active": true,
+    "terms": [
+      "Winter 2025"
+    ],
+    "date_updated": 1757611603,
+    "date_posted": 1757611603,
+    "url": "https://careers-daytonfreight.icims.com/jobs/16715/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Dayton, OH"
+    ],
+    "company_url": "https://simplify.jobs/c/Dayton-Freight-Lines",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Susquehanna International Group (SIG)",
+    "id": "9a6e5b09-436c-4ff9-a004-546a8fd41641",
+    "title": "Quantitative Trader Internship",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1757613002,
+    "date_posted": 1757546048,
+    "url": "https://careers-sig.icims.com/jobs/9377/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Ardmore, PA"
+    ],
+    "company_url": "https://simplify.jobs/c/Susquehanna",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Quanta Services",
+    "id": "160d1f7f-a969-4416-8aff-56a07e419e95",
+    "title": "Innovation Intern",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1757617265,
+    "date_posted": 1757544095,
+    "url": "https://careers-quanta.icims.com/jobs/10973/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Denver, CO"
+    ],
+    "company_url": "https://simplify.jobs/c/Quanta-Services",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "KeyCorp",
+    "id": "89ee0c51-42c7-4262-9f80-900fbb02ac44",
+    "title": "Summer 2026 Key's Technology \u2013 Operations & Services Internship - Technology Track",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1757614565,
+    "date_posted": 1757357358,
+    "url": "https://keybank.wd5.myworkdayjobs.com/external_career_site/job/San-Diego-CA/Summer-2026-Key-s-Technology--Operations---Services-Intrenship--Technology-Track---San-Diego_R-34843",
+    "locations": [
+      "San Diego, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/KeyCorp",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
