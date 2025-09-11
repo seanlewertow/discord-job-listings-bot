@@ -26984,5 +26984,28 @@
       "Bachelor's",
       "Master's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Twilio",
+    "id": "55400a2a-e6c6-4182-bb85-ec37b3ac133c",
+    "title": "Software Engineer \u2013 Early Career - Messaging API",
+    "active": true,
+    "date_updated": 1757617247,
+    "date_posted": 1757617247,
+    "url": "https://job-boards.greenhouse.io/twilio/jobs/7245466",
+    "locations": [
+      "Alberta, Canada",
+      "British Columbia, Canada",
+      "Ontario, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Twilio",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
   }
 ]
