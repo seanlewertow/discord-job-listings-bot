@@ -128328,5 +128328,121 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "General Dynamics Mission Systems",
+    "id": "fbe92e01-c127-405d-8b1c-28b2deab0b7f",
+    "title": "Software Intern Engineer",
+    "active": true,
+    "terms": [
+      "Winter 2025"
+    ],
+    "date_updated": 1757539847,
+    "date_posted": 1757539847,
+    "url": "https://careers-gdms.icims.com/jobs/68071/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Burke, VA"
+    ],
+    "company_url": "https://simplify.jobs/c/General-Dynamics-Mission-Systems",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Susquehanna International Group (SIG)",
+    "id": "c948674f-b374-488f-af89-265ae92d4fca",
+    "title": "Machine Learning Internship",
+    "active": true,
+    "terms": [
+      "Winter 2025"
+    ],
+    "date_updated": 1757565294,
+    "date_posted": 1757539772,
+    "url": "https://careers-sig.icims.com/jobs/9529/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Susquehanna",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "PhD"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "theScore",
+    "id": "f17a7044-f0fa-431a-9c60-22c863971f8b",
+    "title": "Football Data Scientist - Sports Modeling",
+    "active": true,
+    "terms": [
+      "Winter 2026",
+      "Spring 2026"
+    ],
+    "date_updated": 1757518685,
+    "date_posted": 1757467395,
+    "url": "https://job-boards.greenhouse.io/coop/jobs/5644669004",
+    "locations": [
+      "Toronto, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/TheScore",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "ING",
+    "id": "c7259a40-805b-4fd1-b9be-705c2263de03",
+    "title": "Internship-Trading Risk Management",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1757512088,
+    "date_posted": 1756882690,
+    "url": "https://ing.wd3.myworkdayjobs.com/icsgblcor/job/New-York/ING-Americas---Trading-Risk-Management_REQ-10101451",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/77a839a4-3b73-42b9-a9ab-05f8fa02fcf1",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Shure",
+    "id": "41e961cd-8b3a-4677-8ec0-ed14cd640d75",
+    "title": "Mobile Applications \u2013 Intern - Android",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1757575726,
+    "date_posted": 1756248207,
+    "url": "https://careersus-shure.icims.com/jobs/4454/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Morton Grove, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/Shure",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
