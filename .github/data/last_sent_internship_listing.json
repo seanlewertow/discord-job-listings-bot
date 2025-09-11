@@ -128584,5 +128584,54 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "date_updated": 1757596705,
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "degrees": [
+      "Master's"
+    ],
+    "url": "https://jobs.lever.co/cognitiv/be2b3e65-a5e6-4914-ba01-8f07bb80cfa0",
+    "company_name": "Cognitiv",
+    "title": "Machine Learning Research Scientist Intern",
+    "locations": [
+      "San Mateo, CA"
+    ],
+    "terms": [
+      "Fall 2025"
+    ],
+    "category": "Data Science, AI & Machine Learning",
+    "source": "AlmondCroffle",
+    "id": "139f7b95-396e-4467-8efe-06e5c9befe66",
+    "date_posted": 1757596705,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1757596808,
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "degrees": [
+      "Bachelor's"
+    ],
+    "url": "https://careers-daytonfreight.icims.com/jobs/16715/software-developer-intern/job",
+    "company_name": "Dayton Freight Lines",
+    "title": "Software Developer Intern",
+    "locations": [
+      "Dayton, OH"
+    ],
+    "terms": [
+      "Fall 2026",
+      "Spring 2026",
+      "Winter 2026",
+      "Summer 2026"
+    ],
+    "category": "Software Engineering",
+    "source": "AlmondCroffle",
+    "id": "e1da1743-51e5-45ca-a526-b46ddd2c7085",
+    "date_posted": 1757596808,
+    "company_url": "",
+    "is_visible": true
   }
 ]
