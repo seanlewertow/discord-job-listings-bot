@@ -129278,5 +129278,127 @@
     "date_posted": 1757670305,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "date_updated": 1757686926,
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "degrees": [
+      "Bachelor's"
+    ],
+    "url": "https://tel.wd3.myworkdayjobs.com/en-US/tel-careers/job/Austin-RiverSouth/Data-Engineer-Intern--Summer-2026-_R25-01196",
+    "company_name": "TEL",
+    "title": "Data Engineer Intern",
+    "locations": [
+      "Austin, TX"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "category": "Data Science, AI & Machine Learning",
+    "source": "AlmondCroffle",
+    "id": "2f10bc29-3506-4a77-b076-5433b3f4c184",
+    "date_posted": 1757686893,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1757686963,
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "degrees": [
+      "Bachelor's"
+    ],
+    "url": "https://tel.wd3.myworkdayjobs.com/en-US/tel-careers/job/Austin-RiverSouth/Software-Engineer-Intern--Summer-2026-_R25-01193",
+    "company_name": "TEL",
+    "title": "Software Engineer Intern",
+    "locations": [
+      "Austin, TX"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "category": "Software Engineering",
+    "source": "AlmondCroffle",
+    "id": "9ace0799-8b25-44ac-8a21-8f04a7625a4e",
+    "date_posted": 1757686963,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1757687056,
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "degrees": [
+      "Bachelor's"
+    ],
+    "url": "https://symbotic.wd1.myworkdayjobs.com/en-US/Symbotic/job/USA-Wilmington--MA---HQ/Intern--Data-Engineer_R5400",
+    "company_name": "Symbotic",
+    "title": "Data Engineer",
+    "locations": [
+      "Wilmington, MA"
+    ],
+    "terms": [
+      "Spring 2026",
+      "Fall 2026"
+    ],
+    "category": "Data Science, AI & Machine Learning",
+    "source": "AlmondCroffle",
+    "id": "1decf551-33c8-4ca3-8f5e-5274266921e4",
+    "date_posted": 1757687056,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1757687164,
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "degrees": [
+      "Bachelor's"
+    ],
+    "url": "https://redhat.wd5.myworkdayjobs.com/en-US/jobs/job/Boston/Software-Engineer-Intern_R-050437",
+    "company_name": "Red Hat",
+    "title": "Software Engineer Intern",
+    "locations": [
+      "Boston, MA"
+    ],
+    "terms": [
+      "Summer 2026",
+      "Winter 2026",
+      "Spring 2026",
+      "Fall 2026"
+    ],
+    "category": "Software Engineering",
+    "source": "AlmondCroffle",
+    "id": "f052086b-4d54-41d7-b56a-e9448b160796",
+    "date_posted": 1757687164,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1757687241,
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "degrees": [
+      "Master's"
+    ],
+    "url": "https://job-boards.greenhouse.io/perpay/jobs/4076988007",
+    "company_name": "Perpay",
+    "title": "Software Engineering Internship",
+    "locations": [
+      "Philadelphia, PA"
+    ],
+    "terms": [
+      "Fall 2026",
+      "Spring 2026",
+      "Winter 2026",
+      "Summer 2026"
+    ],
+    "category": "Software Engineering",
+    "source": "AlmondCroffle",
+    "id": "60d7dcb6-aae6-4751-8ff8-fffd47b47c51",
+    "date_posted": 1757687241,
+    "company_url": "",
+    "is_visible": true
   }
 ]
