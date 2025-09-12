@@ -129152,5 +129152,131 @@
     "date_posted": 1757669787,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "date_updated": 1757669960,
+    "sponsorship": "Does Not Offer Sponsorship",
+    "active": true,
+    "degrees": [
+      "Master's"
+    ],
+    "url": "https://corteva.wd5.myworkdayjobs.com/en-US/ctp/job/Des-Moines-Iowa-United-States/Agronomic-Data-Science---Pathology-Intern_243100W-1",
+    "company_name": "Corteva Agriscience",
+    "title": "Agronomic Data Science & Pathology Intern",
+    "locations": [
+      "Indianapolis, IN",
+      "Des Moines, IA"
+    ],
+    "terms": [
+      "Summer 2026",
+      "Fall 2026",
+      "Spring 2026",
+      "Winter 2026"
+    ],
+    "category": "Data Science, AI & Machine Learning",
+    "source": "AlmondCroffle",
+    "id": "e6baccc5-4fbf-43d1-88a7-cdba8c222ad3",
+    "date_posted": 1757669960,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1757670011,
+    "sponsorship": "Does Not Offer Sponsorship",
+    "active": true,
+    "degrees": [
+      "Bachelor's"
+    ],
+    "url": "https://corteva.wd5.myworkdayjobs.com/en-US/ctp/job/Des-Moines-Iowa-United-States/Data-Analyst-Intern_243131W-1",
+    "company_name": "Corteva Agriscience",
+    "title": "Data Analyst Intern",
+    "locations": [
+      "Des Moines, IA"
+    ],
+    "terms": [
+      "Summer 2026",
+      "Fall 2026",
+      "Spring 2026",
+      "Winter 2026"
+    ],
+    "category": "Data Science, AI & Machine Learning",
+    "source": "AlmondCroffle",
+    "id": "b97821e4-3d6a-4038-aca1-547baa5619db",
+    "date_posted": 1757670011,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1757670110,
+    "sponsorship": "U.S. Citizenship is Required",
+    "active": true,
+    "degrees": [
+      "Master's"
+    ],
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/external_careers/job/USA---Tukwila-WA/Boeing-Technology-Innovation---Graduate-Researcher-Program---Software-Engineering-Artificial-Intelligence-Intern_JR2025472845",
+    "company_name": "Boeing",
+    "title": "Software Engineering Artificial Intelligence Intern",
+    "locations": [
+      "Tukwila, WA",
+      "Seattle, WA"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "category": "Software Engineering",
+    "source": "AlmondCroffle",
+    "id": "1ac6c5ba-4ee8-4149-93f3-c12cf32ca105",
+    "date_posted": 1757670110,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1757670203,
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "degrees": [
+      "Bachelor's"
+    ],
+    "url": "https://amainc.wd12.myworkdayjobs.com/en-US/ama_careers/job/Remote/Computer-Vision-Intern_R-100394",
+    "company_name": "Analytical Mechanics Associates",
+    "title": "Computer Vision Intern",
+    "locations": [
+      "Remote in USA"
+    ],
+    "terms": [
+      "Summer 2026",
+      "Fall 2026",
+      "Spring 2026",
+      "Winter 2026"
+    ],
+    "category": "Data Science, AI & Machine Learning",
+    "source": "AlmondCroffle",
+    "id": "6b21a1be-9446-4515-ad8e-73b4a1e4d6e2",
+    "date_posted": 1757670203,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1757670305,
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "degrees": [
+      "Bachelor's"
+    ],
+    "url": "https://badgermeter.wd5.myworkdayjobs.com/en-US/US_CareerSite/job/US---WI---Milwaukee-Global-Water-Center/Software-Engineering-Intern_4016",
+    "company_name": "Badger Meter",
+    "title": "Software Engineering Intern",
+    "locations": [
+      "Milwaukee, WI"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "category": "Software Engineering",
+    "source": "AlmondCroffle",
+    "id": "8b050634-a52c-4b15-bc2b-062c9fb6cdc7",
+    "date_posted": 1757670305,
+    "company_url": "",
+    "is_visible": true
   }
 ]
