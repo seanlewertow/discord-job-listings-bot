@@ -129400,5 +129400,105 @@
     "date_posted": 1757687241,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "date_updated": 1757687763,
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "degrees": [
+      "Master's"
+    ],
+    "url": "https://fmr.wd1.myworkdayjobs.com/en-US/targeted/job/Boston-MA/Co-op--Software-Engineer_2117625",
+    "company_name": "Fidelity",
+    "title": "Co-op, Software Engineer",
+    "locations": [
+      "Boston, MA"
+    ],
+    "terms": [
+      "Summer 2026",
+      "Spring 2026",
+      "Winter 2026",
+      "Fall 2026"
+    ],
+    "category": "Software Engineering",
+    "source": "AlmondCroffle",
+    "id": "2d159bf8-87cd-456d-85cb-5526b720a5bd",
+    "date_posted": 1757687763,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1757687837,
+    "sponsorship": "Other",
+    "active": true,
+    "degrees": [
+      "Bachelor's"
+    ],
+    "url": "https://jobs.lever.co/diversified-automation/1b50836b-0b6e-45ec-aef0-1156f08f2da0",
+    "company_name": "Diversified Automation",
+    "title": "Software Engineering Co-op",
+    "locations": [
+      "Louisville, KY"
+    ],
+    "terms": [
+      "Summer 2026",
+      "Fall 2026",
+      "Spring 2026",
+      "Winter 2026"
+    ],
+    "category": "Software Engineering",
+    "source": "AlmondCroffle",
+    "id": "de375e90-8b50-4d6e-a96a-b01d395c6859",
+    "date_posted": 1757687837,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1757687975,
+    "sponsorship": "Does Not Offer Sponsorship",
+    "active": true,
+    "degrees": [
+      "Bachelor's"
+    ],
+    "url": "https://corteva.wd5.myworkdayjobs.com/en-US/ctp/job/Des-Moines-Iowa-United-States/Software-Engineer-Co-op_242751W-1",
+    "company_name": "Corteva Agriscience",
+    "title": "Software Engineer Co-op",
+    "locations": [
+      "Des Moines, IA"
+    ],
+    "terms": [
+      "Winter 2026",
+      "Spring 2026",
+      "Summer 2026"
+    ],
+    "category": "Software Engineering",
+    "source": "AlmondCroffle",
+    "id": "8e3e963d-b57f-4bfb-9b1d-06a4c7ed1481",
+    "date_posted": 1757687975,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1757688088,
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "degrees": [
+      "Bachelor's"
+    ],
+    "url": "https://career.innovativesystems.com/apply/XZKtjZUJ5M/InternCoop-Summer-2026-Software-Engineering",
+    "company_name": "Innovative Systems",
+    "title": "Software Engineering Intern/Co-op",
+    "locations": [
+      "Pittsburgh, PA"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "category": "Software Engineering",
+    "source": "AlmondCroffle",
+    "id": "82b7337e-4cd0-4fcf-bb39-410bb8c7f212",
+    "date_posted": 1757688088,
+    "company_url": "",
+    "is_visible": true
   }
 ]
