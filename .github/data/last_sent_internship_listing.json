@@ -128939,5 +128939,100 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "date_updated": 1757668261,
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "degrees": [
+      "Bachelor's"
+    ],
+    "url": "https://careers.withwaymo.com/jobs/2026-summer-intern-bs-machine-learning-infra-foundations-mountain-view-california-united-states",
+    "company_name": "Waymo",
+    "title": "Machine Learning Infra Foundations",
+    "locations": [
+      "Mountain View, CA"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "category": "Data Science, AI & Machine Learning",
+    "source": "AlmondCroffle",
+    "id": "add4fbf3-06cc-4e78-bfab-b9f5a0cfe5ff",
+    "date_posted": 1757668261,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1757668457,
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "degrees": [
+      "Bachelor's"
+    ],
+    "url": "https://uscareers-waters.icims.com/jobs/24104/2025-24104/job",
+    "company_name": "Waters",
+    "title": "Research Machine Learning Co-op",
+    "locations": [
+      "Milford, MA"
+    ],
+    "terms": [
+      "Summer 2026",
+      "Winter 2026",
+      "Spring 2026",
+      "Fall 2026"
+    ],
+    "category": "Data Science, AI & Machine Learning",
+    "source": "AlmondCroffle",
+    "id": "cd45947c-5ef1-4092-a82a-320d70cf26bf",
+    "date_posted": 1757668457,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1757668636,
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "degrees": [
+      "Bachelor's"
+    ],
+    "url": "https://tel.wd3.myworkdayjobs.com/en-US/tel-careers/job/Austin-MET-15/Clean-Track-Internship_R25-01136",
+    "company_name": "TEL",
+    "title": "Research Scientist Intern",
+    "locations": [
+      "Austin, TX"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "category": "Hardware Engineering",
+    "source": "AlmondCroffle",
+    "id": "58a4cdf2-22a1-44e4-a3ef-d289e65ef3fd",
+    "date_posted": 1757668636,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1757668810,
+    "sponsorship": "U.S. Citizenship is Required",
+    "active": true,
+    "degrees": [
+      "Bachelor's"
+    ],
+    "url": "https://snc.wd1.myworkdayjobs.com/en-US/SNC_External_Career_Site/job/Sparks-NV/Data-Scientist-Intern---Summer-2026_R0028397",
+    "company_name": "SNC",
+    "title": "Data Scientist Intern",
+    "locations": [
+      "Sparks, NV"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "category": "Data Science, AI & Machine Learning",
+    "source": "AlmondCroffle",
+    "id": "56f3d864-9b3a-4ac0-9156-467c0dab8b75",
+    "date_posted": 1757668810,
+    "company_url": "",
+    "is_visible": true
   }
 ]
