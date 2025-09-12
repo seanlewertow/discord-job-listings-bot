@@ -129034,5 +129034,123 @@
     "date_posted": 1757668810,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "date_updated": 1757669468,
+    "sponsorship": "Does Not Offer Sponsorship",
+    "active": true,
+    "degrees": [
+      "Master's"
+    ],
+    "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Machine-Learning-Engineer-PhD-Intern_R0131049",
+    "company_name": "PayPal",
+    "title": "Machine Learning Engineer PhD",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "category": "Data Science, AI & Machine Learning",
+    "source": "AlmondCroffle",
+    "id": "06d8b793-bf64-4fa7-b976-c755bf197c18",
+    "date_posted": 1757669468,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1757669556,
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "degrees": [
+      "Bachelor's"
+    ],
+    "url": "https://novatechengineering.applytojob.com/apply/k0P5ygd5a0/AI-Internship",
+    "company_name": "Nova-Tech",
+    "title": "AI Internship",
+    "locations": [
+      "Willmar, MN"
+    ],
+    "terms": [
+      "Summer 2026",
+      "Fall 2026",
+      "Spring 2026",
+      "Winter 2026"
+    ],
+    "category": "Data Science, AI & Machine Learning",
+    "source": "AlmondCroffle",
+    "id": "3c8f289f-9cf3-4eaf-bd0f-25f0ed8daf9d",
+    "date_posted": 1757669556,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1757669614,
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "degrees": [
+      "Bachelor's"
+    ],
+    "url": "https://albemarle.wd5.myworkdayjobs.com/en-US/ketjenexternal/job/Houston-Texas-United-States-of-America/Ketjen-Summer-2026-Data-Science-Internship-Program_REQ-29206",
+    "company_name": "Ketjen",
+    "title": "Data Science Internship Program",
+    "locations": [
+      "Houston, TX"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "category": "Data Science, AI & Machine Learning",
+    "source": "AlmondCroffle",
+    "id": "14f94f3d-63aa-4660-89bc-22a03fff69b4",
+    "date_posted": 1757669614,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1757669702,
+    "sponsorship": "Does Not Offer Sponsorship",
+    "active": true,
+    "degrees": [
+      "Bachelor's"
+    ],
+    "url": "https://entegris.wd1.myworkdayjobs.com/en-US/EntegrisCareers/job/Bedford-MA/Agentic-AI-Co-Op---Spring-2026_REQ-9196",
+    "company_name": "Entegris",
+    "title": "Agentic AI Co-Op",
+    "locations": [
+      "Bedford, MA"
+    ],
+    "terms": [
+      "Spring 2026"
+    ],
+    "category": "Data Science, AI & Machine Learning",
+    "source": "AlmondCroffle",
+    "id": "d50a4500-6357-4f4d-a531-e57e66f5449b",
+    "date_posted": 1757669702,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1757669787,
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "degrees": [
+      "Bachelor's"
+    ],
+    "url": "https://careers-cfins.icims.com/jobs/4541/data-science-intern--summer-2026---morristown%2c-nj-or-remote/job",
+    "company_name": "Crum & Forster",
+    "title": "Data Science Intern",
+    "locations": [
+      "Morristown, NJ"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "category": "Data Science, AI & Machine Learning",
+    "source": "AlmondCroffle",
+    "id": "5dcd80d3-70c6-4201-a0a9-a886d7890db6",
+    "date_posted": 1757669787,
+    "company_url": "",
+    "is_visible": true
   }
 ]
