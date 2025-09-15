@@ -129500,5 +129500,120 @@
     "date_posted": 1757688088,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Cisco",
+    "id": "115e2d0c-11a6-471f-a123-8060d892b22f",
+    "title": "ASIC Design Verification II \u2013 Co-Op",
+    "active": true,
+    "terms": [
+      "Winter 2025"
+    ],
+    "date_updated": 1757633617,
+    "date_posted": 1757633617,
+    "url": "https://jobs.cisco.com/jobs/ProjectDetail/ASIC-Design-Verification-II-Co-Op-United-States/1449581",
+    "locations": [
+      "Acton, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/Cisco",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "3M",
+    "id": "e86d8025-35a6-4e95-a493-e06eaad7151d",
+    "title": "Undergraduate Business Analytics Intern - Consumer Business Group - Cbg",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1757632643,
+    "date_posted": 1757632643,
+    "url": "https://3m.wd1.myworkdayjobs.com/en-US/Search/job/US-Minnesota-Maplewood/Internship---2026-Undergraduate-Business-Analytics-Intern---Consumer-Business-Group--CBG-_R01156028",
+    "locations": [
+      "Woodbury, MN"
+    ],
+    "company_url": "https://simplify.jobs/c/3M",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "RTX",
+    "id": "5d39478b-707c-49d2-a6cc-def7be5883b0",
+    "title": "Software Engineering Intern",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1757632714,
+    "date_posted": 1757632714,
+    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/UT207-1127-West-2320-South---West-Valley-City-UT-84119-USA/Software-Engineering-Intern---Summer-2026---Onsite-_01792593",
+    "locations": [
+      "West Valley City, UT"
+    ],
+    "company_url": "https://simplify.jobs/c/RTX",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Wiltshire Farm Foods",
+    "id": "1593a1c8-12f0-4186-8a95-e65649275f09",
+    "title": "Apprentice Data Analyst",
+    "active": true,
+    "terms": [
+      "Winter 2025"
+    ],
+    "date_updated": 1757888222,
+    "date_posted": 1757583126,
+    "url": "https://wiltshirefarmfoods-apetito.icims.com/jobs/7505/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Trowbridge, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Wiltshire-Farm-Foods",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Other",
+    "company_name": "W.R. Berkley",
+    "id": "4d9791bb-dfce-4243-9a80-8501a45beb38",
+    "title": "Associate Command Center Analyst Intern",
+    "active": true,
+    "terms": [
+      "Winter 2025"
+    ],
+    "date_updated": 1757599947,
+    "date_posted": 1757554510,
+    "url": "https://careers-berkley.icims.com/jobs/12835/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Wilmington, DE"
+    ],
+    "company_url": "https://simplify.jobs/c/WR-Berkley",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
