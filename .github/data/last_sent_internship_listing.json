@@ -129754,5 +129754,120 @@
     "date_posted": 1757929954,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "date_updated": 1757930810,
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "degrees": [
+      "Bachelor's"
+    ],
+    "url": "https://job-boards.greenhouse.io/klaviyocampus/jobs/7144495003",
+    "company_name": "Klaviyo",
+    "title": "Full-stack Software Engineer Co-op",
+    "locations": [
+      "Boston, MA"
+    ],
+    "terms": [
+      "Spring 2026"
+    ],
+    "category": "Software Engineering",
+    "source": "AlmondCroffle",
+    "id": "40840bfd-0727-408b-8063-d46e05a82a93",
+    "date_posted": 1757930810,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1757930855,
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "degrees": [
+      "Bachelor's"
+    ],
+    "url": "https://job-boards.greenhouse.io/klaviyocampus/jobs/7144520003",
+    "company_name": "Klaviyo",
+    "title": "Front-end Software Engineer Co-op",
+    "locations": [
+      "Boston, MA"
+    ],
+    "terms": [
+      "Spring 2026"
+    ],
+    "category": "Software Engineering",
+    "source": "AlmondCroffle",
+    "id": "6a5b5749-2afc-4356-beae-0fac51661cc6",
+    "date_posted": 1757930855,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1757930901,
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "degrees": [
+      "Bachelor's"
+    ],
+    "url": "https://job-boards.greenhouse.io/klaviyocampus/jobs/7144468003",
+    "company_name": "Klaviyo",
+    "title": "Front-end Software Engineer Intern",
+    "locations": [
+      "Boston, MA"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "category": "Software Engineering",
+    "source": "AlmondCroffle",
+    "id": "9a9acda1-7872-44dc-9e95-3521664f348f",
+    "date_posted": 1757930901,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1757930999,
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "degrees": [
+      "Bachelor's"
+    ],
+    "url": "https://hitachi.wd1.myworkdayjobs.com/en-US/hitachi/job/Pittsburgh-Pennsylvania-United-States/Intern---Signal-Engineering-Software_R0105930",
+    "company_name": "Hitachi",
+    "title": "Signal Engineering Software",
+    "locations": [
+      "Pittsburgh, PA"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "category": "Software Engineering",
+    "source": "AlmondCroffle",
+    "id": "2dca8078-d6b1-40ef-9733-adaca8d9ef29",
+    "date_posted": 1757930999,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1757931069,
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "degrees": [
+      "Bachelor's"
+    ],
+    "url": "https://apply.workable.com/falcomm/j/B5EB495F31/",
+    "company_name": "Falcomm",
+    "title": "ML Software Engineer Intern - AI/CAD Integration",
+    "locations": [
+      "Atlanta, GA"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "category": "Data Science, AI & Machine Learning",
+    "source": "AlmondCroffle",
+    "id": "7227ef8d-ea3a-4fc5-8432-f6ec088f3f25",
+    "date_posted": 1757931069,
+    "company_url": "",
+    "is_visible": true
   }
 ]
