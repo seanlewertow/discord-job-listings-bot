@@ -129869,5 +129869,128 @@
     "date_posted": 1757931069,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "TikTok",
+    "id": "70ecddf1-c1e3-4dbf-ae3f-822bf987727a",
+    "title": "Machine Learning Engineer Intern - BS/MS",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1757909075,
+    "date_posted": 1757909075,
+    "url": "https://lifeattiktok.com/search/7547370946877901063",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/TikTok",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "GTS",
+    "id": "8dc43d91-2248-4ee8-823a-09acbfea5453",
+    "title": "Quantitative Trading Internship",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1757920536,
+    "date_posted": 1757601902,
+    "url": "https://careers-gtsx.icims.com/jobs/1562/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/GTS",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Wipfli",
+    "id": "0855a169-0454-4acf-b615-c45f15527379",
+    "title": "Product Development Internship",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1757917849,
+    "date_posted": 1757630042,
+    "url": "https://careers-wipfli.icims.com/jobs/7198/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Chicago, IL",
+      "Milwaukee, WI",
+      "Minneapolis, MN"
+    ],
+    "company_url": "https://simplify.jobs/c/Wipfli",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Other",
+    "company_name": "Quanta Services",
+    "id": "a18c7e94-aab4-432a-8bb9-d531679b794e",
+    "title": "Information Technology Intern",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1757919142,
+    "date_posted": 1757544081,
+    "url": "https://careers-quanta.icims.com/jobs/10972/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Aurora, CO"
+    ],
+    "company_url": "https://simplify.jobs/c/Quanta-Services",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Certificate"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Meta",
+    "id": "a38856cd-a151-41bb-be9f-6b9caa0f78a9",
+    "title": "Research Scientist Intern - Optical System Design - PhD",
+    "active": true,
+    "terms": [
+      "Winter 2025",
+      "Spring 2025",
+      "Summer 2025",
+      "Fall 2025"
+    ],
+    "date_updated": 1757936141,
+    "date_posted": 1756874778,
+    "url": "https://www.metacareers.com/jobs/1117701183194370",
+    "locations": [
+      "Redmond, WA"
+    ],
+    "company_url": "https://simplify.jobs/c/Meta",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "PhD"
+    ]
   }
 ]
