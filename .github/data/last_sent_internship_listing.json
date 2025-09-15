@@ -129615,5 +129615,29 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Other",
+    "company_name": "American Structurepoint",
+    "id": "d8c8e890-ea70-4928-9246-5165a69dbb2b",
+    "title": "IT Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1757900167,
+    "date_posted": 1757612523,
+    "url": "https://careers-structurepoint.icims.com/jobs/2800/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Indianapolis, IN"
+    ],
+    "company_url": "https://simplify.jobs/c/American-Structurepoint",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Associate's"
+    ]
   }
 ]
