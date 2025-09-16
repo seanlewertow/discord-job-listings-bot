@@ -27801,5 +27801,43 @@
     "date_posted": 1758012042,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "date_updated": 1758012133,
+    "sponsorship": "Other",
+    "active": true,
+    "degrees": [
+      "Master's"
+    ],
+    "url": "https://fifththird.wd5.myworkdayjobs.com/en-US/53careers/job/Cincinnati-OH/Quantitative-Analyst-I_R61935",
+    "company_name": "Fifth Third",
+    "title": "Quantitative Analyst I",
+    "locations": [
+      "Cincinnati, OH"
+    ],
+    "category": "Quantitative Finance",
+    "source": "AlmondCroffle",
+    "id": "88a836b0-963f-482f-b02b-79ee4829fa69",
+    "date_posted": 1758012133,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1758012249,
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "degrees": [],
+    "url": "https://jobs.ashbyhq.com/Anima/a6b86f92-0679-423b-b575-a23f8677dfd1",
+    "company_name": "Anima",
+    "title": "Software Engineer",
+    "locations": [
+      "Remote in USA"
+    ],
+    "category": "Software Engineering",
+    "source": "AlmondCroffle",
+    "id": "c9a7aeec-6a07-45e1-b4aa-3469b8e7e725",
+    "date_posted": 1758012249,
+    "company_url": "",
+    "is_visible": true
   }
 ]
