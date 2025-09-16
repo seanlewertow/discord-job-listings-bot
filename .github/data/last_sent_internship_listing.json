@@ -130157,5 +130157,30 @@
     "date_posted": 1758012472,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "date_updated": 1758014960,
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "degrees": [
+      "Bachelor's"
+    ],
+    "url": "https://www.microsoft.com/en-us/research/academic-program/undergraduate-research-internship-computing/",
+    "company_name": "Microsoft",
+    "title": "Research Internship \u2013 Computing",
+    "locations": [
+      "Redmond, WA",
+      "New York, NY",
+      "New England"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "category": "Software Engineering",
+    "source": "AlmondCroffle",
+    "id": "44e98270-755f-4d1c-a7a6-51ed8ba35f4e",
+    "date_posted": 1758014960,
+    "company_url": "",
+    "is_visible": true
   }
 ]
