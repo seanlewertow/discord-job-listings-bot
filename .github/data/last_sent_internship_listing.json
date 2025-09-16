@@ -130278,5 +130278,98 @@
     "date_posted": 1758015908,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "date_updated": 1758016051,
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "degrees": [
+      "Bachelor's"
+    ],
+    "url": "https://careers.duolingo.com/jobs/8150883002",
+    "company_name": "Duolingo",
+    "title": "Software Engineer, Thrive Intern",
+    "locations": [
+      "Pittsburgh, PA"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "category": "Software Engineering",
+    "source": "AlmondCroffle",
+    "id": "a2621d6e-6da3-45df-aa2c-b63ca4b962ed",
+    "date_posted": 1758016051,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1758016144,
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "degrees": [
+      "Bachelor's"
+    ],
+    "url": "https://careers.duolingo.com/jobs/8155655002",
+    "company_name": "Duolingo",
+    "title": "Software Engineer, Intern",
+    "locations": [
+      "Pittsburgh, PA"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "category": "Software Engineering",
+    "source": "AlmondCroffle",
+    "id": "9e4f7ab3-d6bf-4309-be16-3122befd5ded",
+    "date_posted": 1758016144,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1758016287,
+    "sponsorship": "Other",
+    "active": true,
+    "degrees": [
+      "Bachelor's"
+    ],
+    "url": "https://careers.icf.com/us/en/job/IIIIIIUSR2502608EXTERNALENUS/2026-Summer-Intern-Cloud-Engineer-AWS-Azure",
+    "company_name": "ICF International",
+    "title": "Cloud Engineer (AWS/Azure)",
+    "locations": [
+      "Reston, VA",
+      "Rockville, MD"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "category": "Software Engineering",
+    "source": "AlmondCroffle",
+    "id": "dc5e82c1-a886-4793-9a80-4f46f163818d",
+    "date_posted": 1758016287,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1758016335,
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "degrees": [
+      "Bachelor's"
+    ],
+    "url": "https://careers.icf.com/us/en/job/IIIIIIUSR2502588EXTERNALENUS/2026-Summer-Intern-Software-Developer",
+    "company_name": "ICF International",
+    "title": "Software Developer",
+    "locations": [
+      "Reston, VA"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "category": "Software Engineering",
+    "source": "AlmondCroffle",
+    "id": "804b4806-051a-4392-bf21-340b4f81c630",
+    "date_posted": 1758016335,
+    "company_url": "",
+    "is_visible": true
   }
 ]
