@@ -27839,5 +27839,78 @@
     "date_posted": 1758012249,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "date_updated": 1758013545,
+    "sponsorship": "U.S. Citizenship is Required",
+    "active": true,
+    "degrees": [],
+    "url": "https://ovative.wd12.myworkdayjobs.com/en-US/ovative/job/Minneapolis/Analyst--Data---Software-Engineering---October-2025-Start-Date_JR100105",
+    "company_name": "Ovative Group",
+    "title": "Analyst, Data & Software Engineering",
+    "locations": [
+      "Minneapolis, MN",
+      "Chicago, IL"
+    ],
+    "category": "Software Engineering",
+    "source": "AlmondCroffle",
+    "id": "1ea8396e-6674-42b5-9ac9-6d517d41e0e3",
+    "date_posted": 1758013545,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1758014085,
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "degrees": [],
+    "url": "https://job-boards.greenhouse.io/lucidsoftware/jobs/5585768004",
+    "company_name": "Lucid Software",
+    "title": "Software Engineer",
+    "locations": [
+      "Raleigh, NC"
+    ],
+    "category": "Software Engineering",
+    "source": "AlmondCroffle",
+    "id": "41a2bdf6-05a9-401d-abcf-5be538efabd1",
+    "date_posted": 1758014085,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1758014192,
+    "sponsorship": "Does Not Offer Sponsorship",
+    "active": true,
+    "degrees": [],
+    "url": "https://careers.hireology.com/hireology2/2521103/description",
+    "company_name": "Hireology",
+    "title": "Associate Software Engineer",
+    "locations": [
+      "Remote in USA"
+    ],
+    "category": "Software Engineering",
+    "source": "AlmondCroffle",
+    "id": "868e299f-3e0c-4c9f-9c91-210959c9d657",
+    "date_posted": 1758014192,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1758014260,
+    "sponsorship": "Does Not Offer Sponsorship",
+    "active": true,
+    "degrees": [],
+    "url": "https://costar.wd1.myworkdayjobs.com/en-US/Costar_Campus/job/US-CA-San-Diego/Associate-Software-Engineer---San-Diego--CA_R37014",
+    "company_name": "CoStar",
+    "title": "Associate Software Engineer",
+    "locations": [
+      "San Diego, CA"
+    ],
+    "category": "Software Engineering",
+    "source": "AlmondCroffle",
+    "id": "16e3b871-430c-4a27-bc7c-c1974f00f9ba",
+    "date_posted": 1758014260,
+    "company_url": "",
+    "is_visible": true
   }
 ]
