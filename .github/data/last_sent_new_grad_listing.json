@@ -27709,5 +27709,97 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "date_updated": 1758011649,
+    "sponsorship": "Does Not Offer Sponsorship",
+    "active": true,
+    "degrees": [],
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Plano,-TX/Technology-Development-Program-Associate---August-2026_R218706-1",
+    "company_name": "Capital One",
+    "title": "Technology Development Program Associate",
+    "locations": [
+      "Plano, TX",
+      "Richmond, VA"
+    ],
+    "category": "Other",
+    "source": "AlmondCroffle",
+    "id": "91765333-8853-4ae2-9225-d1c5133eef54",
+    "date_posted": 1758011649,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1758011746,
+    "sponsorship": "Does Not Offer Sponsorship",
+    "active": true,
+    "degrees": [],
+    "url": "https://capitalone.wd12.myworkdayjobs.com/capital_one/job/Plano-TX/Product-Development-Program-Associate---2026_R219614-1",
+    "company_name": "Capital One",
+    "title": "Product Development Program Associate",
+    "locations": [
+      "Plano, TX"
+    ],
+    "category": "Other",
+    "source": "AlmondCroffle",
+    "id": "67ed0c5c-4787-4036-a65c-d152925af773",
+    "date_posted": 1758011746,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1758011842,
+    "sponsorship": "Does Not Offer Sponsorship",
+    "active": true,
+    "degrees": [],
+    "url": "https://costar.wd1.myworkdayjobs.com/costar_campus/job/US-CA-San-Diego/Associate-Software-Engineer---San-Diego--CA_R37014",
+    "company_name": "CoStar",
+    "title": "Associate Software Engineer",
+    "locations": [
+      "San Diego, CA"
+    ],
+    "category": "Software Engineering",
+    "source": "AlmondCroffle",
+    "id": "13894633-35bc-4459-b30e-5c46d5665237",
+    "date_posted": 1758011842,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1758011928,
+    "sponsorship": "Other",
+    "active": true,
+    "degrees": [],
+    "url": "https://lnw.wd5.myworkdayjobs.com/lightwonderexternalcareers/job/Reno-NV/Associate-Software-Engineer_R320511",
+    "company_name": "Light & Wonder",
+    "title": "Associate Software Engineer",
+    "locations": [
+      "Reno, NV",
+      "Las Vegas, NV"
+    ],
+    "category": "Software Engineering",
+    "source": "AlmondCroffle",
+    "id": "a038e9b8-981b-4cd4-aedc-455697888475",
+    "date_posted": 1758011928,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1758012042,
+    "sponsorship": "Other",
+    "active": true,
+    "degrees": [],
+    "url": "https://navexglobal.wd5.myworkdayjobs.com/navex/job/Hybrid-Lake-Oswego-OR/Associate-Software-Engineer_R6157",
+    "company_name": "NAVEX",
+    "title": "Associate Software Engineer",
+    "locations": [
+      "Hybrid Lake Oswego, OR"
+    ],
+    "category": "Software Engineering",
+    "source": "AlmondCroffle",
+    "id": "4fd5ead5-877f-4ae2-9fa2-b300148b7f0a",
+    "date_posted": 1758012042,
+    "company_url": "",
+    "is_visible": true
   }
 ]
