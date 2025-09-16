@@ -129992,5 +129992,123 @@
     "degrees": [
       "PhD"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Boston Scientific",
+    "id": "c7682d74-54c7-4401-8888-54c62edd37a6",
+    "title": "Peripheral Interventions R&D Engineering Intern - Interns/Graduates - Development",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1757972594,
+    "date_posted": 1757972594,
+    "url": "https://bostonscientific.eightfold.ai/careers/job/563602808587073",
+    "locations": [
+      "Maple Grove, MN"
+    ],
+    "company_url": "https://simplify.jobs/c/Boston-Scientific",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "ATPCO",
+    "id": "b45231c8-b057-4dea-ab83-21725e439a89",
+    "title": "Product Analyst Intern - Fall",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1757971427,
+    "date_posted": 1757971427,
+    "url": "https://jobs.smartrecruiters.com/ATPCO1/744000082058213",
+    "locations": [
+      "Reston, VA"
+    ],
+    "company_url": "https://simplify.jobs/c/e38ff337-ef4e-42b4-b1fc-e1834b3b603f",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Red Bull",
+    "id": "655c3d07-5ac3-4785-b44a-98105fc2b233",
+    "title": "Vcarb F1 Team \u2013 Undergraduate Internship Programme",
+    "active": true,
+    "terms": [
+      "Winter 2025"
+    ],
+    "date_updated": 1757967981,
+    "date_posted": 1757967981,
+    "url": "https://jobs.smartrecruiters.com/RedBull/744000082003376",
+    "locations": [
+      "Milton Keynes, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Red-Bull",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "GE Vernova",
+    "id": "39727b83-7637-4887-bdc0-e0a85f77702a",
+    "title": "GE Vernova Wind Turbine Controls Intern",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1757968371,
+    "date_posted": 1757651658,
+    "url": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Greenville/GE-Vernova-Wind-Turbine-Controls-Engineer---Summer-2026_R5019880-1",
+    "locations": [
+      "Greenville, SC"
+    ],
+    "company_url": "https://simplify.jobs/c/GE-Vernova",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Wind River",
+    "id": "a1f1049d-2b99-4c6c-bc46-034d0bf2f876",
+    "title": "Embedded Software Engineering Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1757985439,
+    "date_posted": 1757556212,
+    "url": "https://jobs.jobvite.com/windriver/job/ooShxfwO?nl=1&nl=1&fr=false",
+    "locations": [
+      "Walnut Creek, CA",
+      "Cupertino, CA",
+      "San Diego, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Wind-River",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
   }
 ]
