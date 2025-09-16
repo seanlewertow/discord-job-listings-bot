@@ -130110,5 +130110,52 @@
       "Bachelor's",
       "Master's"
     ]
+  },
+  {
+    "date_updated": 1758012401,
+    "sponsorship": "Other",
+    "active": true,
+    "degrees": [
+      "Master's"
+    ],
+    "url": "https://rbc.wd3.myworkdayjobs.com/en-US/RBCEARLYTALENT1/job/New-York-New-York-United-States-of-America/XMLNAME-2026-Capital-Markets--Quants-Summer-Associate--Quantitative-Technology-Services_R-0000140755",
+    "company_name": "Royal Bank of Canada",
+    "title": "Quantitative Technology Services",
+    "locations": [
+      "New York, NY"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "category": "Quantitative Finance",
+    "source": "AlmondCroffle",
+    "id": "1b5cc021-8ebb-45ad-8b42-a09f7945f3ab",
+    "date_posted": 1758012401,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1758012472,
+    "sponsorship": "Other",
+    "active": true,
+    "degrees": [
+      "Bachelor's"
+    ],
+    "url": "https://rbc.wd3.myworkdayjobs.com/en-US/RBCEARLYTALENT1/job/Jersey-City-New-Jersey-United-States-of-America/XMLNAME-2026-Capital-Markets---Quantitative-Technology-Services-Summer-Analyst_R-0000140751-1",
+    "company_name": "Royal Bank of Canada",
+    "title": "Quantitative Technology Services",
+    "locations": [
+      "Jersey City, NJ",
+      "New York, NY"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "category": "Software Engineering",
+    "source": "AlmondCroffle",
+    "id": "fdcabc3c-4e19-42c5-a139-3e634ae306f5",
+    "date_posted": 1758012472,
+    "company_url": "",
+    "is_visible": true
   }
 ]
