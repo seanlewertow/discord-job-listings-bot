@@ -130615,5 +130615,122 @@
     "degrees": [
       "PhD"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Al Warren Oil Company",
+    "id": "87a88647-de41-4945-9946-a4369dac5445",
+    "title": "Software Developer",
+    "active": true,
+    "terms": [
+      "Winter 2025"
+    ],
+    "date_updated": 1758049861,
+    "date_posted": 1758049861,
+    "url": "https://apply.workable.com/al-warren-oil-company-inc/j/8AC49CFC61/apply",
+    "locations": [
+      "Elk Grove Village, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/Al-Warren-Oil-Company",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Censys",
+    "id": "6d249aa9-cdb5-4507-82ca-005a026deeef",
+    "title": "2026 AI/ML Engineering Intern",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1758049896,
+    "date_posted": 1758049896,
+    "url": "https://job-boards.greenhouse.io/censys/jobs/8167154002",
+    "locations": [
+      "Ann Arbor, MI"
+    ],
+    "company_url": "https://simplify.jobs/c/Censys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Nissan Global",
+    "id": "c82bed76-86f3-414a-90e7-03870ce02069",
+    "title": "Supply Chain Management Analytics Intern - Summer 2026",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1758049361,
+    "date_posted": 1758049361,
+    "url": "https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Franklin-Tennessee---United-States-of-America/Supply-Chain-Management-Analytics-Intern---Summer-2026---Franklin--TN_R00195370",
+    "locations": [
+      "Franklin, TN"
+    ],
+    "company_url": "https://simplify.jobs/c/Nissan-Global",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Other",
+    "company_name": "Nissan Global",
+    "id": "ad8ecdc3-ab37-4e1b-8cf7-8f85448669ec",
+    "title": "Supply Chain Management Cybersecurity Analyst Intern",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1758049371,
+    "date_posted": 1758049371,
+    "url": "https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Smyrna-Tennessee---United-States-of-America/Supply-Chain-Management-Cybersecurity-Analyst-Intern---Summer-2026---Smyrna--TN_R00195371",
+    "locations": [
+      "La Vergne, TN"
+    ],
+    "company_url": "https://simplify.jobs/c/Nissan-Global",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Schweitzer Engineering Laboratories",
+    "id": "a70a79b7-3376-4b9b-8d6c-db91bd36327c",
+    "title": "Software Application Engineer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1758049223,
+    "date_posted": 1758049223,
+    "url": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Software-Application-Engineer-Intern_2025-17664",
+    "locations": [
+      "Moscow, ID"
+    ],
+    "company_url": "https://simplify.jobs/c/SEL",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
