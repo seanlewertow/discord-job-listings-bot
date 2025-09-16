@@ -130371,5 +130371,131 @@
     "date_posted": 1758016335,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "date_updated": 1758017162,
+    "sponsorship": "Does Not Offer Sponsorship",
+    "active": true,
+    "degrees": [
+      "Bachelor's"
+    ],
+    "url": "https://www.mastercontrol.com/careers/job-listings/role/?role=4605973005",
+    "company_name": "MasterControl",
+    "title": "AI Solutions Engineer Intern",
+    "locations": [
+      "Salt Lake City, UT"
+    ],
+    "terms": [
+      "Summer 2026",
+      "Winter 2026",
+      "Spring 2026",
+      "Fall 2026"
+    ],
+    "category": "Software Engineering",
+    "source": "AlmondCroffle",
+    "id": "8fb1d55e-7578-4e99-9fd4-cca529b3141d",
+    "date_posted": 1758017162,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1758017714,
+    "sponsorship": "Other",
+    "active": true,
+    "degrees": [
+      "Bachelor's"
+    ],
+    "url": "https://careers-kinaxis.icims.com/jobs/33679/co-op-intern-developer%2c-machine-learning/job",
+    "company_name": "Kinaxis",
+    "title": "Developer, Machine Learning",
+    "locations": [
+      "Remote in Canada",
+      "Ottawa, CAN"
+    ],
+    "terms": [
+      "Winter 2026",
+      "Summer 2026"
+    ],
+    "category": "Data Science, AI & Machine Learning",
+    "source": "AlmondCroffle",
+    "id": "82719217-6cfa-485b-b771-6845d5ca660b",
+    "date_posted": 1758017714,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1758017860,
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "degrees": [
+      "Master's"
+    ],
+    "url": "https://centific.wd1.myworkdayjobs.com/en-US/centific_global/job/Redmond-Washington/AI-Safety-Research-Intern-1_JR105042-1",
+    "company_name": "Centific",
+    "title": "AI Safety Research Intern-1",
+    "locations": [
+      "Redmond, WA"
+    ],
+    "terms": [
+      "Summer 2026",
+      "Fall 2026",
+      "Spring 2026",
+      "Winter 2026"
+    ],
+    "category": "Data Science, AI & Machine Learning",
+    "source": "AlmondCroffle",
+    "id": "806e2f2b-94f0-4c83-aeed-7a6b259a4157",
+    "date_posted": 1758017860,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1758017980,
+    "sponsorship": "Other",
+    "active": true,
+    "degrees": [
+      "Bachelor's"
+    ],
+    "url": "https://careers-westernsouthern.icims.com/jobs/23681/software-quality-testing-intern-%28full-year-2026%29/job",
+    "company_name": "Western & Southern",
+    "title": "Software Quality Testing Intern",
+    "locations": [
+      "Cincinatti. OH"
+    ],
+    "terms": [
+      "Summer 2026",
+      "Fall 2026",
+      "Spring 2026",
+      "Winter 2026"
+    ],
+    "category": "Software Engineering",
+    "source": "AlmondCroffle",
+    "id": "d5ba9832-4bf1-4733-b6b9-a0df73fad3d2",
+    "date_posted": 1758017980,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1758018030,
+    "sponsorship": "Does Not Offer Sponsorship",
+    "active": true,
+    "degrees": [
+      "Bachelor's"
+    ],
+    "url": "https://job-boards.greenhouse.io/kyowakirinusa90/jobs/7242728003",
+    "company_name": "Kyowa Kirin",
+    "title": "IT Cloud and Infrastructure Intern",
+    "locations": [
+      "Princeton, NJ"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "category": "Software Engineering",
+    "source": "AlmondCroffle",
+    "id": "f83fd0e9-4701-47a6-bc1c-eb358d5b7fa2",
+    "date_posted": 1758018030,
+    "company_url": "",
+    "is_visible": true
   }
 ]
