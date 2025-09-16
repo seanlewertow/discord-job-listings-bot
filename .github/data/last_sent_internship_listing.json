@@ -130182,5 +130182,101 @@
     "date_posted": 1758014960,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "date_updated": 1758015642,
+    "sponsorship": "Other",
+    "active": true,
+    "degrees": [
+      "Bachelor's"
+    ],
+    "url": "https://athene.wd5.myworkdayjobs.com/en-US/athene_careers/job/West-Des-Moines-Iowa/Software-Developer-Intern_R253276",
+    "company_name": "Athene",
+    "title": "Software Developer Intern",
+    "locations": [
+      "West Des Moines, IA"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "category": "Software Engineering",
+    "source": "AlmondCroffle",
+    "id": "e190d57e-0696-4cf9-b020-d89058b24b32",
+    "date_posted": 1758015642,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1758015722,
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "degrees": [
+      "Bachelor's"
+    ],
+    "url": "https://cdk.wd1.myworkdayjobs.com/cdk/job/Austin-TX-USA/Software-Engineering-Intern_JR8327",
+    "company_name": "CDK",
+    "title": "Software Engineering Intern",
+    "locations": [
+      "Austin, TX",
+      "Portland, OR",
+      "Hoffman Estates, IL"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "category": "Software Engineering",
+    "source": "AlmondCroffle",
+    "id": "e6b79882-566f-4b74-af80-5e804381a9f7",
+    "date_posted": 1758015722,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1758015796,
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "degrees": [
+      "Bachelor's"
+    ],
+    "url": "https://cdk.wd1.myworkdayjobs.com/cdk/job/Austin-TX-USA/Product-Management-Intern_JR8326",
+    "company_name": "CDK",
+    "title": "Product Management Intern",
+    "locations": [
+      "Austin, TX",
+      "Portland, OR",
+      "Hoffman Estates, IL"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "category": "Software Engineering",
+    "source": "AlmondCroffle",
+    "id": "96191da9-748e-43e6-87b9-8ac0ae24f2b2",
+    "date_posted": 1758015796,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1758015908,
+    "sponsorship": "Other",
+    "active": true,
+    "degrees": [
+      "Bachelor's"
+    ],
+    "url": "https://careers.dexcom.com/careers/job/37990370",
+    "company_name": "Dexcom",
+    "title": "SW Development Engineering",
+    "locations": [
+      "Remote in USA"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "category": "Software Engineering",
+    "source": "AlmondCroffle",
+    "id": "c9232a04-18a3-4c93-86b2-010f0c5743b2",
+    "date_posted": 1758015908,
+    "company_url": "",
+    "is_visible": true
   }
 ]
