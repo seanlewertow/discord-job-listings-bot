@@ -130497,5 +130497,31 @@
     "date_posted": 1758018030,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "date_updated": 1758018182,
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "degrees": [
+      "Bachelor's"
+    ],
+    "url": "https://job-boards.greenhouse.io/babelstreet/jobs/7248507",
+    "company_name": "Babel Street",
+    "title": "Software Engineer Co-op - Text Analytics",
+    "locations": [
+      "Somerville, MA"
+    ],
+    "terms": [
+      "Summer 2026",
+      "Fall 2026",
+      "Spring 2026",
+      "Winter 2026"
+    ],
+    "category": "Software Engineering",
+    "source": "AlmondCroffle",
+    "id": "e1a144a3-7c34-4c46-90f9-1be60d139cfd",
+    "date_posted": 1758018182,
+    "company_url": "",
+    "is_visible": true
   }
 ]
