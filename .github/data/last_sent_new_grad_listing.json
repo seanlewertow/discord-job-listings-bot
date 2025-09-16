@@ -27912,5 +27912,77 @@
     "date_posted": 1758014260,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "date_updated": 1758014397,
+    "sponsorship": "U.S. Citizenship is Required",
+    "active": true,
+    "degrees": [],
+    "url": "https://jobs.baesystems.com/global/en/job/BAE1US115922BREXTERNAL/Engineering-Assistant-I-Software-Part-Time",
+    "company_name": "BAE Systems",
+    "title": "Engineering Assistant I \u2013 Software",
+    "locations": [
+      "Dayton, OH"
+    ],
+    "category": "Software Engineering",
+    "source": "AlmondCroffle",
+    "id": "7f6b6ee6-587a-4153-bc42-bf690973be38",
+    "date_posted": 1758014397,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1758014494,
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "degrees": [],
+    "url": "https://abglobal.wd1.myworkdayjobs.com/en-US/abcampuscareers/job/Nashville-Tennessee/Software-Development-Associate_R0016789-1",
+    "company_name": "AllianceBernstein",
+    "title": "Software Development Associate",
+    "locations": [
+      "Nashville, TN"
+    ],
+    "category": "Software Engineering",
+    "source": "AlmondCroffle",
+    "id": "cd1c1c00-ea77-4d5b-9c5b-43860adecad1",
+    "date_posted": 1758014494,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1758014556,
+    "sponsorship": "U.S. Citizenship is Required",
+    "active": true,
+    "degrees": [],
+    "url": "https://avav.wd1.myworkdayjobs.com/en-US/AVAV/job/Melbourne-FL/Software-Engineer--Apps--I_5898",
+    "company_name": "AV",
+    "title": "Software Engineer (Apps) I",
+    "locations": [
+      "Melbourne, FL"
+    ],
+    "category": "Software Engineering",
+    "source": "AlmondCroffle",
+    "id": "53d695c1-168b-48c8-bbce-913151121523",
+    "date_posted": 1758014556,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1758014662,
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "degrees": [],
+    "url": "https://job-boards.greenhouse.io/lucidsoftware/jobs/5585759004",
+    "company_name": "Lucid Software",
+    "title": "Software Engineer",
+    "locations": [
+      "Salt Lake City, UT"
+    ],
+    "category": "Software Engineering",
+    "source": "AlmondCroffle",
+    "id": "557c44de-08df-4bd6-ae98-0c427addb77b",
+    "date_posted": 1758014662,
+    "company_url": "",
+    "is_visible": true
   }
 ]
