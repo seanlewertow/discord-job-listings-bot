@@ -130546,5 +130546,74 @@
     "date_posted": 1758030331,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "GE Vernova",
+    "id": "ee490f96-415c-4e74-b0fa-b922789c37bf",
+    "title": "GE Vernova Gas Power Electro Chemical Machining \u2013 Digital Development Intern - Ecm - & Fast Hole Drilling - Fhd",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1758045557,
+    "date_posted": 1757651658,
+    "url": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Greenville/GE-Vernova-Gas-Power-Electro-Chemical-Machining--ECM--and-Fast-Hole-Drilling--FHD--Digital-Development_R5019856-2",
+    "locations": [
+      "Greenville, SC"
+    ],
+    "company_url": "https://simplify.jobs/c/GE-Vernova",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Other",
+    "company_name": "W.R. Berkley",
+    "id": "3c0ec811-9a15-45fc-973c-b1deb29a32d8",
+    "title": "CRM Admin Co-Op",
+    "active": true,
+    "terms": [
+      "Winter 2025"
+    ],
+    "date_updated": 1758046189,
+    "date_posted": 1757551873,
+    "url": "https://careers-berkley.icims.com/jobs/12802/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Grimes, IA"
+    ],
+    "company_url": "https://simplify.jobs/c/WR-Berkley",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Thermo Fisher Scientific",
+    "id": "4b3529fa-7463-43a4-9c3b-a81a98003230",
+    "title": "Statistical Science Intern",
+    "active": true,
+    "terms": [
+      "Winter 2025"
+    ],
+    "date_updated": 1758032962,
+    "date_posted": 1757394777,
+    "url": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Morrisville-North-Carolina-USA/Statistical-Science-Intern_R-01328110",
+    "locations": [
+      "Morrisville, NC"
+    ],
+    "company_url": "https://simplify.jobs/c/Thermo-Fisher-Scientific",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "PhD"
+    ]
   }
 ]
