@@ -130523,5 +130523,28 @@
     "date_posted": 1758018182,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "date_updated": 1758030331,
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "degrees": [
+      "Bachelor's"
+    ],
+    "url": "https://careers.duolingo.com/jobs/8155399002",
+    "company_name": "Duolingo",
+    "title": "Associate Product Manager, Intern",
+    "locations": [
+      "Pittsburgh, PA"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "category": "Product Management",
+    "source": "AlmondCroffle",
+    "id": "25a2e1e9-9ccb-434d-ba64-308bdb6fbb22",
+    "date_posted": 1758030331,
+    "company_url": "",
+    "is_visible": true
   }
 ]
