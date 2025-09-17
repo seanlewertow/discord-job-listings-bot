@@ -131300,5 +131300,51 @@
     "date_posted": 1758104540,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "date_updated": 1758125104,
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "degrees": [
+      "Bachelor's"
+    ],
+    "url": "https://dexcom.wd1.myworkdayjobs.com/en-US/dexcom/job/Remote---United-States/Intern-I---Software-Test-Engineering_JR114243",
+    "company_name": "Dexcom",
+    "title": "Software Test Engineering",
+    "locations": [
+      "Remote in USA"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "category": "Software Engineering",
+    "source": "AlmondCroffle",
+    "id": "e2c8c2bd-c2d2-461b-94a6-bf6eac92f828",
+    "date_posted": 1758125104,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1758125184,
+    "sponsorship": "U.S. Citizenship is Required",
+    "active": true,
+    "degrees": [
+      "Bachelor's"
+    ],
+    "url": "https://jobs.baesystems.com/global/en/job/BAE1US115987BREXTERNAL/Software-or-Computer-Engineering-Intern-Summer-2026",
+    "company_name": "BAE Systems",
+    "title": "Software or Computer Engineering Intern",
+    "locations": [
+      "Sterling Heights, MI"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "category": "Software Engineering",
+    "source": "AlmondCroffle",
+    "id": "0e211681-8d63-4cd6-a385-23e935d9d6d8",
+    "date_posted": 1758125184,
+    "company_url": "",
+    "is_visible": true
   }
 ]
