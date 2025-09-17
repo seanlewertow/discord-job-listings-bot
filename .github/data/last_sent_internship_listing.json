@@ -130848,5 +130848,123 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Huntsman",
+    "id": "88b679ce-2c5d-4722-b5a4-2eb6dee979a7",
+    "title": "FP&a Intern and Data Analytics Intern",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1758075324,
+    "date_posted": 1758075324,
+    "url": "https://huntsman.wd1.myworkdayjobs.com/Huntsman/job/USA---Texas---Houston---The-Woodlands---Corporate-Office/FP-A-Intern--and-Data-Analytics-Intern_J-018968",
+    "locations": [
+      "The Woodlands, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Huntsman",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Waymo",
+    "id": "4e0afdea-0b67-4b94-a511-8e129edd69ba",
+    "title": "2026 Summer Intern - BS/MS - Software Engineering - Simulation",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1758075219,
+    "date_posted": 1758075219,
+    "url": "https://careers.withwaymo.com/jobs?gh_jid=7249409",
+    "locations": [
+      "Mountain View, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Waymo",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Veryable",
+    "id": "f2594d30-c23f-4f17-9e03-666337b9a0b5",
+    "title": "Data Analytics Intern",
+    "active": true,
+    "terms": [
+      "Winter 2025"
+    ],
+    "date_updated": 1758075030,
+    "date_posted": 1758075030,
+    "url": "https://ats.rippling.com/veryable-careers/jobs/4a77ef87-a6a8-4a27-add2-89d68cd80890",
+    "locations": [
+      "Dallas, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Veryable",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "Emerson Electric",
+    "id": "b57e4d63-d146-47ec-8589-0e1432340903",
+    "title": "Product Manager Co-Op",
+    "active": true,
+    "terms": [
+      "Winter 2025"
+    ],
+    "date_updated": 1758074911,
+    "date_posted": 1758074911,
+    "url": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs/job/25026126",
+    "locations": [
+      "Iowa"
+    ],
+    "company_url": "https://simplify.jobs/c/Emerson-Electric",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "MBA"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Other",
+    "company_name": "Quanta Services",
+    "id": "6093c885-9c3a-4ab8-8d8b-eb2e398d31e0",
+    "title": "Information Technology Internship",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1758074834,
+    "date_posted": 1757549525,
+    "url": "https://careers-quanta.icims.com/jobs/11253/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Houston, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Quanta-Services",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
