@@ -130966,5 +130966,127 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "SharkNinja",
+    "id": "28ec7611-80f9-4cd4-a87e-09c85dc68d7b",
+    "title": "Data Engineering Intern",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1758077149,
+    "date_posted": 1758077149,
+    "url": "https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4601703006",
+    "locations": [
+      "Needham, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/SharkNinja",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Other",
+    "company_name": "Meta",
+    "id": "1543715e-2144-4579-9ba4-42c53e7a5bc8",
+    "title": "Product Security Engineer \u2013 Intern",
+    "active": true,
+    "terms": [
+      "Winter 2025"
+    ],
+    "date_updated": 1758076594,
+    "date_posted": 1758076594,
+    "url": "https://www.metacareers.com/jobs/1993387314912727",
+    "locations": [
+      "Menlo Park, CA",
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Meta",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Other",
+    "company_name": "SharkNinja",
+    "id": "29d25c1c-7d1b-4457-8dbc-e220533226ad",
+    "title": "Service Desk Co-op",
+    "active": true,
+    "terms": [
+      "Winter 2026",
+      "Spring 2026",
+      "Summer 2026"
+    ],
+    "date_updated": 1758075795,
+    "date_posted": 1758075795,
+    "url": "https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4601697006",
+    "locations": [
+      "Needham, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/SharkNinja",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "SharkNinja",
+    "id": "0fc741fd-3772-44dd-9161-727448af72ea",
+    "title": "Strategic Sales & Analytics Intern",
+    "active": true,
+    "terms": [
+      "Winter 2026",
+      "Spring 2026"
+    ],
+    "date_updated": 1758075778,
+    "date_posted": 1758075778,
+    "url": "https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4601802006",
+    "locations": [
+      "Needham, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/SharkNinja",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Lightspark",
+    "id": "1769ff5e-085e-43b6-90d4-56d475d48f0a",
+    "title": "Software Engineer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1758075700,
+    "date_posted": 1758075700,
+    "url": "https://jobs.ashbyhq.com/lightspark/1063b990-1f08-45ae-8155-506165e82c95/application",
+    "locations": [
+      "LA"
+    ],
+    "company_url": "https://simplify.jobs/c/Lightspark",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
