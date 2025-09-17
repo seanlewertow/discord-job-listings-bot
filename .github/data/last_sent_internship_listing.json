@@ -131088,5 +131088,124 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Other",
+    "company_name": "ServiceNow",
+    "id": "279ba399-83cf-40d3-bd49-eb9001ed11a4",
+    "title": "Servicenow Security Organization \u2013 Associate Product Security Engineer Intern - Sso",
+    "active": true,
+    "terms": [
+      "Winter 2025"
+    ],
+    "date_updated": 1758092662,
+    "date_posted": 1758092662,
+    "url": "https://jobs.smartrecruiters.com/ServiceNow/744000082318222",
+    "locations": [
+      "San Diego, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/ServiceNow",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "AbbVie",
+    "id": "5faad969-5abc-41c4-a4be-cecf1b01475a",
+    "title": "APEX Advanced Analytics Intern - Masters",
+    "active": true,
+    "terms": [
+      "Winter 2026",
+      "Summer 2027"
+    ],
+    "date_updated": 1758092029,
+    "date_posted": 1758092029,
+    "url": "https://jobs.smartrecruiters.com/AbbVie/3743990009500296",
+    "locations": [
+      "Vernon Hills, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/AbbVie",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Leidos",
+    "id": "e377c1fe-8c48-4daa-a4d7-0e252dc2de12",
+    "title": "Software Developer Co-op",
+    "active": true,
+    "terms": [
+      "Winter 2026",
+      "Summer 2026"
+    ],
+    "date_updated": 1758086394,
+    "date_posted": 1758086394,
+    "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Bethesda-MD/Software-Developer-Co-op_R-00166373",
+    "locations": [
+      "Bethesda, MD"
+    ],
+    "company_url": "https://simplify.jobs/c/Leidos",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Other",
+    "company_name": "Leidos",
+    "id": "31b913b5-b78b-4756-bca4-144b58917b68",
+    "title": "Cybersecurity Co-op",
+    "active": true,
+    "terms": [
+      "Winter 2026",
+      "Summer 2026"
+    ],
+    "date_updated": 1758086392,
+    "date_posted": 1758086392,
+    "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Bethesda-MD/Cybersecurity-Co-op_R-00166369",
+    "locations": [
+      "Bethesda, MD"
+    ],
+    "company_url": "https://simplify.jobs/c/Leidos",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Leidos",
+    "id": "0e62f2c0-ba5d-4128-b616-79c83f1bb06f",
+    "title": "Computer Engineering Co-op",
+    "active": true,
+    "terms": [
+      "Winter 2026",
+      "Summer 2026"
+    ],
+    "date_updated": 1758086401,
+    "date_posted": 1758086401,
+    "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Bethesda-MD/Computer-Engineering-Co-op_R-00166367",
+    "locations": [
+      "Bethesda, MD"
+    ],
+    "company_url": "https://simplify.jobs/c/Leidos",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
