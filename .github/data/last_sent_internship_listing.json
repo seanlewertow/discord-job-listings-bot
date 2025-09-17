@@ -131207,5 +131207,52 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "date_updated": 1758104063,
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "degrees": [
+      "Bachelor's"
+    ],
+    "url": "https://jobs.ashbyhq.com/openai/566ce27d-8a1c-497c-a301-0912010d7b29",
+    "company_name": "OpenAI",
+    "title": "Software Engineer Internship / Co-op, Applied Emerging Talent",
+    "locations": [
+      "San Francisco, Ca",
+      "Seattle, WA"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "category": "Software Engineering",
+    "source": "AlmondCroffle",
+    "id": "de06c01a-b3d7-4c48-9515-eef7b1e222fb",
+    "date_posted": 1758104063,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1758104180,
+    "sponsorship": "Does Not Offer Sponsorship",
+    "active": true,
+    "degrees": [
+      "Bachelor's"
+    ],
+    "url": "https://jobs.lever.co/sunwatercapital/583d67a5-46c3-4448-ba2e-604549a8627c",
+    "company_name": "Legis1",
+    "title": "AI News Integration",
+    "locations": [
+      "North Bethesda, MD"
+    ],
+    "terms": [
+      "Fall 2025"
+    ],
+    "category": "Data Science, AI & Machine Learning",
+    "source": "AlmondCroffle",
+    "id": "7144ebb6-ed29-40e2-bea8-8841e2f3ab70",
+    "date_posted": 1758104180,
+    "company_url": "",
+    "is_visible": true
   }
 ]
