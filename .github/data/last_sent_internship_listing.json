@@ -131866,5 +131866,76 @@
       "Bachelor's",
       "Master's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "Stryker",
+    "id": "449db0cd-acd9-4d64-a828-926b67671d4d",
+    "title": "Product Management Co-Op and Marketing Co-Op",
+    "active": true,
+    "terms": [
+      "Winter 2025"
+    ],
+    "date_updated": 1758220287,
+    "date_posted": 1758220287,
+    "url": "https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Belfast-United-Kingdom/Product-Management-Co-Op-and-Marketing-Co-Op_R549648",
+    "locations": [
+      "Belfast, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Stryker",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Nissan",
+    "id": "1f649491-755b-40a3-b3bb-b4cadec2ae5b",
+    "title": "Supply Chain Management Analytics Intern - Summer 2026",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1758220008,
+    "date_posted": 1758220008,
+    "url": "https://alliance.wd3.myworkdayjobs.com/en-US/nissanjobs/job/Smyrna-Tennessee---United-States-of-America/Supply-Chain-Management-Analytics-Intern---Summer-2026---Smyrna--TN_R00195373",
+    "locations": [
+      "La Vergne, TN"
+    ],
+    "company_url": "https://simplify.jobs/c/Nissan",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Salesforce",
+    "id": "24ef6051-226f-4440-ae66-7255ed5ad0ef",
+    "title": "Fall 2025 Intern - AI & People Analytics",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1758217182,
+    "date_posted": 1758072303,
+    "url": "https://salesforce.wd12.myworkdayjobs.com/en-us/External_Career_Site/job/California---San-Francisco/Fall-2025-Intern---Employee-Success_JR311136-1",
+    "locations": [
+      "SF"
+    ],
+    "company_url": "https://simplify.jobs/c/Salesforce",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
   }
 ]
