@@ -132062,5 +132062,123 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "WillowTree",
+    "id": "0da02ed1-0d3f-4fa4-85b7-4af77e3fe854",
+    "title": "Software Engineering Intern",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1758229148,
+    "date_posted": 1758229148,
+    "url": "https://job-boards.greenhouse.io/willowtree/jobs/8094349002",
+    "locations": [
+      "Durham, NC",
+      "Columbus, OH",
+      "Charlottesville, VA"
+    ],
+    "company_url": "https://simplify.jobs/c/WillowTree",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Equifax",
+    "id": "7e9f4484-cb7a-4a9d-9b75-3855ce275601",
+    "title": "SIS/EDS Technology Intern",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1758229052,
+    "date_posted": 1758229052,
+    "url": "https://equifax.wd5.myworkdayjobs.com/external/job/USA-ID-Boise/SIS-EDS-Technology-Intern_J00170940",
+    "locations": [
+      "Boise, ID"
+    ],
+    "company_url": "https://simplify.jobs/c/Equifax",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Brevan Howard",
+    "id": "ec2908ee-e3b2-486e-8a96-185e90a7ad60",
+    "title": "2026 Summer Internship Programme - Macro Trading",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1758228636,
+    "date_posted": 1758228636,
+    "url": "https://wd3.myworkdaysite.com/recruiting/brevanhoward/BH_ExternalCareers/job/London-82/XMLNAME-2026-Summer-Internship-Programme---Macro-Trading--London_JR101201",
+    "locations": [
+      "London, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Brevan-Howard",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Kinaxis",
+    "id": "1bb4c02c-173b-4fe0-a921-feea7dc8c85a",
+    "title": "Co-op Developer - Clients - Front End Technologies",
+    "active": true,
+    "terms": [
+      "Winter 2026"
+    ],
+    "date_updated": 1758228467,
+    "date_posted": 1758228467,
+    "url": "https://careers-kinaxis.icims.com/jobs/33722/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Ottawa, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Kinaxis",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Waymo",
+    "id": "83351fe3-dbc3-4b98-8ae8-a89ea44bf49e",
+    "title": "2026 Summer Intern - BS - Systems Engineering - Hardware",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1758228283,
+    "date_posted": 1758228283,
+    "url": "https://careers.withwaymo.com/jobs?gh_jid=7239087",
+    "locations": [
+      "Mountain View, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Waymo",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
