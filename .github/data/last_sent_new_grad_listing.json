@@ -28357,5 +28357,65 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "mthree",
+    "id": "b9838953-7da7-4c81-9087-732f492e4215",
+    "title": "Entry Level - C Software Developer",
+    "active": true,
+    "date_updated": 1758155936,
+    "date_posted": 1758155936,
+    "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4602555006",
+    "locations": [
+      "Tampa, FL"
+    ],
+    "company_url": "https://simplify.jobs/c/Mthree",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "mthree",
+    "id": "5264e299-8159-4685-bfe3-842530de17bd",
+    "title": "Entry Level - C Software Developer",
+    "active": true,
+    "date_updated": 1758155938,
+    "date_posted": 1758155938,
+    "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4602566006",
+    "locations": [
+      "Tampa, FL"
+    ],
+    "company_url": "https://simplify.jobs/c/Mthree",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "The Boeing Company",
+    "id": "05074df3-2751-400b-a241-21a028a42af5",
+    "title": "Entry Level Software Engineer-Developer",
+    "active": true,
+    "date_updated": 1758156971,
+    "date_posted": 1758156971,
+    "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Oklahoma-City-OK/Entry-Level-Software-Engineer-Developer_JR2025470637-1",
+    "locations": [
+      "Oklahoma City, OK"
+    ],
+    "company_url": "https://simplify.jobs/c/Boeing",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
