@@ -131493,5 +131493,122 @@
     "date_posted": 1758158745,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "Emerson Electric",
+    "id": "83cdec2a-4529-4fe1-ab6f-5d287fe61dde",
+    "title": "Product Management Engineering Intern",
+    "active": true,
+    "terms": [
+      "Winter 2025"
+    ],
+    "date_updated": 1758136302,
+    "date_posted": 1758136302,
+    "url": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs/job/25026154",
+    "locations": [
+      "Boulder, CO"
+    ],
+    "company_url": "https://simplify.jobs/c/Emerson-Electric",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "Zurn Elkay Water Solutions",
+    "id": "e15ba786-c314-4951-998b-e33531128cbe",
+    "title": "Product Management Summer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1758135815,
+    "date_posted": 1758135815,
+    "url": "https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Erie-PA/Product-Management-Summer-Intern_REQ-018854",
+    "locations": [
+      "Erie, PA"
+    ],
+    "company_url": "https://simplify.jobs/c/Zurn-Elkay-Water-Solutions",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Other",
+    "company_name": "Zurn Elkay Water Solutions",
+    "id": "81e6374e-c537-4a0b-b8e4-5baa10b8994e",
+    "title": "IT Business Systems Intern",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1758135822,
+    "date_posted": 1758135822,
+    "url": "https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Milwaukee-WI/IT-Business-Systems-Intern--Summer-2026-_REQ-018905",
+    "locations": [
+      "Milwaukee, WI"
+    ],
+    "company_url": "https://simplify.jobs/c/Zurn-Elkay-Water-Solutions",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Zurn Elkay Water Solutions",
+    "id": "28687c8f-ac30-4d54-87e9-f08c7cd849b3",
+    "title": "Application Development Intern - Workday HCM",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1758135827,
+    "date_posted": 1758135827,
+    "url": "https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Downers-Grove-IL/Application-Development-Intern---Workday-HCM--Summer-2026-_REQ-018899",
+    "locations": [
+      "Downers Grove, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/Zurn-Elkay-Water-Solutions",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Other",
+    "company_name": "Boston Scientific",
+    "id": "48b51e25-7fe1-472c-9731-0524f7762028",
+    "title": "IT Analyst Intern - Information Technology",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1758135461,
+    "date_posted": 1758135461,
+    "url": "https://bostonscientific.eightfold.ai/careers/job/563602808453918",
+    "locations": [
+      "Marlborough, MA",
+      "Roseville, MN"
+    ],
+    "company_url": "https://simplify.jobs/c/Boston-Scientific",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
