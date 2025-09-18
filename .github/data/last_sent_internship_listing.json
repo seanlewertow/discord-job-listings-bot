@@ -131819,5 +131819,28 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "date_updated": 1758213177,
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "degrees": [
+      "Bachelor's"
+    ],
+    "url": "https://jobs.ashbyhq.com/blockhouse/6e64b896-69c8-4ef9-bd98-e1aaa138ecca",
+    "company_name": "Blockhouse",
+    "title": "Quantitative Developer Intern",
+    "locations": [
+      "New York, NY"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "category": "Quantitative Finance",
+    "source": "AlmondCroffle",
+    "id": "29aac22c-fef9-48b9-9cd1-717da2fcf6e9",
+    "date_posted": 1758213177,
+    "company_url": "",
+    "is_visible": true
   }
 ]
