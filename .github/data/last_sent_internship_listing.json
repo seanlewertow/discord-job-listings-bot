@@ -131749,5 +131749,75 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Lyft",
+    "id": "dcf89404-ce58-4c2a-8fec-7d460a4cd22c",
+    "title": "Data Analyst Intern",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1758181479,
+    "date_posted": 1758181479,
+    "url": "https://app.careerpuck.com/job-board/lyft/job/8168727002?gh_jid=8168727002",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Lyft",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Micron Technology",
+    "id": "bc5358bc-a92b-4c88-831d-ed6a3558f962",
+    "title": "Intern \u2013 HBM Software Engineer",
+    "active": true,
+    "terms": [
+      "Winter 2025"
+    ],
+    "date_updated": 1758180937,
+    "date_posted": 1758180937,
+    "url": "https://micron.wd1.myworkdayjobs.com/External/job/Richardson-TX/Intern---HBM-Software-Engineer_JR82921",
+    "locations": [
+      "Richardson, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Micron-Technology",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "The Home Depot",
+    "id": "95a56876-fab4-4ccc-83bf-d79b1f13e4c2",
+    "title": "Product Management Internship",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1758190626,
+    "date_posted": 1757996037,
+    "url": "https://homedepot.wd5.myworkdayjobs.com/en-US/CareerDepot/job/STORE-SUPPORT-CENTER-ATLANTA---9090/Product-Management-Internship--Summer-2026---Hybrid-_Req156588",
+    "locations": [
+      "Atlanta, GA"
+    ],
+    "company_url": "https://simplify.jobs/c/00c1909f-a319-4a12-b75e-478061f3ff68",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
