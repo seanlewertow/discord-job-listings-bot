@@ -132684,5 +132684,28 @@
       "Master's",
       "PhD"
     ]
+  },
+  {
+    "date_updated": 1758300682,
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "degrees": [
+      "Master's"
+    ],
+    "url": "https://focuskpi.applytojob.com/apply/4czYHwfYDf/AI-Engineer-Intern-Remote",
+    "company_name": "FocusKPI",
+    "title": "AI Engineer Intern",
+    "locations": [
+      "Remote in USA"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "category": "Data Science, AI & Machine Learning",
+    "source": "AlmondCroffle",
+    "id": "e194a15b-c589-4326-aff8-d3a7ed29d303",
+    "date_posted": 1758300682,
+    "company_url": "",
+    "is_visible": true
   }
 ]
