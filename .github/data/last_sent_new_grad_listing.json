@@ -28777,5 +28777,25 @@
       "Master's",
       "PhD"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Freeform",
+    "id": "75b132b1-c89c-4076-b38e-c454e0eaf28a",
+    "title": "Software Engineer \u2013 New Grad January 2026",
+    "active": true,
+    "date_updated": 1758307649,
+    "date_posted": 1757037746,
+    "url": "https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7004129003",
+    "locations": [
+      "LA"
+    ],
+    "company_url": "https://simplify.jobs/c/FreeformFuture",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
