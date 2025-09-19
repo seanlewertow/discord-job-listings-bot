@@ -132707,5 +132707,31 @@
     "date_posted": 1758300682,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "date_updated": 1758300827,
+    "sponsorship": "U.S. Citizenship is Required",
+    "active": true,
+    "degrees": [
+      "Bachelor's"
+    ],
+    "url": "https://ideas-sas.icims.com/jobs/40116/software-engineer-in-test-intern/job",
+    "company_name": "IDeaS",
+    "title": "Software Engineer in Test Intern",
+    "locations": [
+      "Bloomington, MN"
+    ],
+    "terms": [
+      "Summer 2026",
+      "Fall 2026",
+      "Spring 2026",
+      "Winter 2026"
+    ],
+    "category": "Software Engineering",
+    "source": "AlmondCroffle",
+    "id": "4a165f73-f556-479f-b244-c6617d112ecd",
+    "date_posted": 1758300827,
+    "company_url": "",
+    "is_visible": true
   }
 ]
