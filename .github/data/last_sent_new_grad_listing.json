@@ -28653,5 +28653,88 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "UiPath",
+    "id": "dd9388ec-f5fa-4a0d-92e5-7e268c211aae",
+    "title": "Software Engineer I",
+    "active": true,
+    "date_updated": 1758241001,
+    "date_posted": 1758241001,
+    "url": "https://jobs.ashbyhq.com/uipath/d83070a1-72b3-408f-a0ab-7d88388addd7/application",
+    "locations": [
+      "Bellevue, WA"
+    ],
+    "company_url": "https://simplify.jobs/c/UiPath",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "PhD"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "The Boeing Company",
+    "id": "bb0b2050-ef39-45b9-bd01-a2a690787c67",
+    "title": "Entry Level Software Engineer - Flight Simulation",
+    "active": true,
+    "date_updated": 1758240979,
+    "date_posted": 1758240979,
+    "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Berkeley-MO/Entry-Level-Software-Engineer---Flight-Simulation_JR2025466011",
+    "locations": [
+      "Hazelwood, MO"
+    ],
+    "company_url": "https://simplify.jobs/c/Boeing",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Centene",
+    "id": "c92e36b1-7541-48bb-bef8-f4c05a3b6695",
+    "title": "Data Engineer I",
+    "active": true,
+    "date_updated": 1758240766,
+    "date_posted": 1758240766,
+    "url": "https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-FL/Data-Engineer-I_1600164",
+    "locations": [
+      "Florida",
+      "Missouri"
+    ],
+    "company_url": "https://simplify.jobs/c/Centene",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Galileo Financial Technologies",
+    "id": "ff63a963-45c6-450b-8095-01242fec3767",
+    "title": "New Grad \u2013 Software Engineer - Backend Developer - Sofi Money",
+    "active": true,
+    "date_updated": 1758241813,
+    "date_posted": 1758241813,
+    "url": "https://job-boards.greenhouse.io/galileofinancialtechnologies/jobs/7174922003",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Galileo-Financial-Technologies",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
