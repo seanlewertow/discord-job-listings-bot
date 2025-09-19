@@ -132634,5 +132634,55 @@
       "Master's",
       "PhD"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Nova-Tech",
+    "id": "2c4f901d-3537-409d-b3a9-10e1ae194365",
+    "title": "AI Internship",
+    "active": true,
+    "terms": [
+      "Winter 2025"
+    ],
+    "date_updated": 1758271406,
+    "date_posted": 1757712707,
+    "url": "https://novatechengineering.applytojob.com/apply/k0P5ygd5a0/AI-Internship-Located-Onsite-In-Willmar-MN",
+    "locations": [
+      "South Haven, MN"
+    ],
+    "company_url": "https://simplify.jobs/c/Nova-Tech",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Brunswick",
+    "id": "d2b4cdc0-b44d-4cf1-b6a3-2a3f1aa13a5a",
+    "title": "Controls & Dynamics Intern",
+    "active": true,
+    "terms": [
+      "Spring 2025",
+      "Summer 2025",
+      "Fall 2025"
+    ],
+    "date_updated": 1758279541,
+    "date_posted": 1755290883,
+    "url": "https://brunswick.wd1.myworkdayjobs.com/en-US/search/job/Champaign-IL/Controls---Dynamics-Intern_JR-047198",
+    "locations": [
+      "Urbana, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/Brunswick",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "PhD"
+    ]
   }
 ]
