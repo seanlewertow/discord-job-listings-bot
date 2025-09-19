@@ -132396,5 +132396,125 @@
       "Bachelor's",
       "Master's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Other",
+    "company_name": "Lenovo",
+    "id": "77c40bd9-7bec-4a98-908f-bde4add43391",
+    "title": "IT Intern \u2013 Fall 2025",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1758234814,
+    "date_posted": 1758234814,
+    "url": "https://jobs.lenovo.com/en_US/careers/JobDetail/IT-intern/70578",
+    "locations": [
+      "Morrisville, NC"
+    ],
+    "company_url": "https://simplify.jobs/c/a1d1fe70-6ea7-48b6-b434-1cd26b8da8f2",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "WillowTree",
+    "id": "88b1038e-f8e9-452f-8c8f-fdf2485beb50",
+    "title": "Software Engineering Intern - Fuel iX",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1758233694,
+    "date_posted": 1758233694,
+    "url": "https://job-boards.greenhouse.io/willowtree/jobs/8112498002",
+    "locations": [
+      "Durham, NC",
+      "Columbus, OH",
+      "Charlottesville, VA"
+    ],
+    "company_url": "https://simplify.jobs/c/WillowTree",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "GE Vernova",
+    "id": "5e7f8cb9-3903-43c7-a815-f3282b69e183",
+    "title": "GE Vernova AI/ML Engineer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1758233559,
+    "date_posted": 1758233559,
+    "url": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Niskayuna/GE-Vernova-AI-ML-Engineer-Intern---Summer-2026_R5020396-1",
+    "locations": [
+      "Schenectady, NY"
+    ],
+    "company_url": "https://simplify.jobs/c/GE-Vernova",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "PhD"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Mitsubishi UFG",
+    "id": "a49530f2-599d-4a8c-9330-c5718eaac287",
+    "title": "2026 MUFG Summer Internship: Structured Trading Group",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1758233416,
+    "date_posted": 1758233416,
+    "url": "https://mufgub.wd3.myworkdayjobs.com/mufg-careers/job/London/XMLNAME-2026-MUFG-UK-Summer-Internship--Structured-Trading-Group_10072894-WD-1",
+    "locations": [
+      "London, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Mitsubishi-UFG",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Johnson & Johnson",
+    "id": "48702f9d-86c0-4c4b-baec-a058d17b93aa",
+    "title": "CSV Engineer Spring Co-Op",
+    "active": true,
+    "terms": [
+      "Winter 2026",
+      "Spring 2026"
+    ],
+    "date_updated": 1758232303,
+    "date_posted": 1758232303,
+    "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Wilson-North-Carolina-United-States-of-America/CSV-Engineer-Spring-Co-Op_R-034122",
+    "locations": [
+      "Goldsboro, NC"
+    ],
+    "company_url": "https://simplify.jobs/c/Johnson-Johnson",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
   }
 ]
