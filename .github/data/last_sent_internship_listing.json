@@ -132933,5 +132933,141 @@
       "JD",
       "MD"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "PricewaterhouseCoopers (PwC)",
+    "id": "bbe5b5aa-3fd1-464c-a4d2-d4280818c0f9",
+    "title": "Tax LLM Associate - Industry Tax Practice",
+    "active": true,
+    "terms": [
+      "Summer 2026",
+      "Fall 2026"
+    ],
+    "date_updated": 1755503289,
+    "date_posted": 1755503289,
+    "url": "https://pwc.wd3.myworkdayjobs.com/en-US/US_Entry_Level_Careers/job/IL-Rosemont/Tax-LLM-Associate---Summer---Fall-2026_657577WD",
+    "locations": [
+      "Boston, MA",
+      "Washington, DC",
+      "SF",
+      "LA",
+      "Miami, FL",
+      "Philadelphia, PA",
+      "Norridge, IL",
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/PwC",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "MBA"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Goldman Sachs",
+    "id": "02da9991-66a0-464f-93e7-538c24d20855",
+    "title": "Summer Associate - FICC and Equities - Sales and Trading - Quantitative Strats",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1758384290,
+    "date_posted": 1755291444,
+    "url": "https://higher.gs.com/roles/152573?type=students",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Goldman-Sachs",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "MBA",
+      "PhD",
+      "JD",
+      "MD"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Goldman Sachs",
+    "id": "9791a5ee-4d8e-4870-b117-6f0480af5448",
+    "title": "Summer Associate 2026 - FICC and Equities - Sales and Trading - Quantitative Strats",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1758358623,
+    "date_posted": 1755296307,
+    "url": "https://higher.gs.com/roles/152583?type=students",
+    "locations": [
+      "Salt Lake City, UT"
+    ],
+    "company_url": "https://simplify.jobs/c/Goldman-Sachs",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "MBA",
+      "PhD",
+      "JD",
+      "MD"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "HNTB",
+    "id": "0de26396-5f65-44e7-9dd4-da7b069f7eca",
+    "title": "Returning New Grad Software Engineer 1",
+    "active": true,
+    "terms": [
+      "Winter 2025"
+    ],
+    "date_updated": 1758378848,
+    "date_posted": 1754978782,
+    "url": "https://hntb.wd5.myworkdayjobs.com/hntb_careers/job/Kansas-City-MO/Returning-New-Grad-Software-Engineer-I--Great-Lakes-Division--For-Current-Former-HNTB-Interns-Only_R-26770-1",
+    "locations": [
+      "Chicago, IL",
+      "Kansas City, MO",
+      "Overland Park, KS"
+    ],
+    "company_url": "https://simplify.jobs/c/HNTB",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "JP Morgan Chase",
+    "id": "51f6703c-fb9c-4edb-b010-0eff94f7126f",
+    "title": "Analytics Solutions Summer Associate - Focused Analytics Solutions Team - Analytics Solutions",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1758370515,
+    "date_posted": 1754091485,
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/requisitions/job/210649056",
+    "locations": [
+      "Plano, TX",
+      "Chicago, IL",
+      "Columbus, OH",
+      "Wilmington, DE"
+    ],
+    "company_url": "https://simplify.jobs/c/JP-Morgan-Chase",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Master's",
+      "MBA"
+    ]
   }
 ]
