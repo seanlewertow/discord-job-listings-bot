@@ -132733,5 +132733,130 @@
     "date_posted": 1758300827,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Boston Scientific",
+    "id": "335ac5bd-cd6b-4b80-ab60-688607657bbc",
+    "title": "AIS R&D Systems Engineer Intern - EE - Interns/Graduates - Development",
+    "active": true,
+    "terms": [
+      "Spring 2026"
+    ],
+    "date_updated": 1758288420,
+    "date_posted": 1758288420,
+    "url": "https://bostonscientific.eightfold.ai/careers/job/563602808636860",
+    "locations": [
+      "Roseville, MN"
+    ],
+    "company_url": "https://simplify.jobs/c/Boston-Scientific",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Tenstorrent",
+    "id": "6bb74a9a-82ee-4f19-8d0b-66ebf25a2c7c",
+    "title": "PCB Hardware Engineer Intern - Pey",
+    "active": true,
+    "terms": [
+      "Winter 2025"
+    ],
+    "date_updated": 1758316994,
+    "date_posted": 1757721980,
+    "url": "https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4874528007",
+    "locations": [
+      "Toronto, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Tenstorrent",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "AIG",
+    "id": "9fb30b41-1c38-44b3-9d1c-cc82962ff60b",
+    "title": "Early Career Summer Intern - Technology",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1758311381,
+    "date_posted": 1757464832,
+    "url": "https://aig.wd1.myworkdayjobs.com/en-US/early_careers/job/200-South-College-Street-Charlotte-NC-USA/XMLNAME-2026---Early-Career---Technology---Summer-Intern---United-States--Jersey-City--NJ---Charlotte--NC--or-Houston--TX-_JR2504983",
+    "locations": [
+      "Houston, TX",
+      "Charlotte, NC",
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/AIG",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Marsh",
+    "id": "af4a575e-30d1-4176-8730-8e49d66a7155",
+    "title": "Research Associate - NERA",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1758309362,
+    "date_posted": 1755723945,
+    "url": "https://mmc.wd1.myworkdayjobs.com/mmc/job/New-York---1166/NERA-Research-Associate--Summer-2026-Grads---Multiple-Locations-_R_320675-2",
+    "locations": [
+      "Washington, DC",
+      "SF",
+      "Chicago, IL",
+      "NYC",
+      "White Plains, NY"
+    ],
+    "company_url": "https://simplify.jobs/c/55341c12-8fd6-4cce-8472-d15c4a3ab583",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "SingleStore",
+    "id": "573cd0e4-9d92-4879-badd-b57ad4e7796b",
+    "title": "Software Engineer \u2013 Intern & New Grad",
+    "active": true,
+    "terms": [
+      "Winter 2025"
+    ],
+    "date_updated": 1758295797,
+    "date_posted": 1749692088,
+    "url": "https://job-boards.greenhouse.io/singlestore/jobs/6237482",
+    "locations": [
+      "Seattle, WA",
+      "SF",
+      "Raleigh, NC"
+    ],
+    "company_url": "https://simplify.jobs/c/SingleStore",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
