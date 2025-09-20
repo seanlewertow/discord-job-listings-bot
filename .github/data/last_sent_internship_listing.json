@@ -132858,5 +132858,80 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Other",
+    "company_name": "RSM",
+    "id": "f1f069f8-25d9-4102-b381-8089d6749f4a",
+    "title": "Cyber ServiceNow Developer Associate - ServiceNow Development",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1758356547,
+    "date_posted": 1756874557,
+    "url": "https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Calgary/Cyber-ServiceNow-Developer-Associate---Summer-2026_JR113647",
+    "locations": [
+      "Calgary, AB, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/RSM",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Goldman Sachs",
+    "id": "a40d2344-e5cd-44f1-ae07-23ea1a7e10c1",
+    "title": "Summer Associate - Engineering",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1758356279,
+    "date_posted": 1755296305,
+    "url": "https://higher.gs.com/roles/152817?type=students",
+    "locations": [
+      "London, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Goldman-Sachs",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "MBA",
+      "PhD",
+      "JD",
+      "MD"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Goldman Sachs",
+    "id": "a64293ba-681b-4817-ab31-676ae082fb29",
+    "title": "Summer Associate - FICC and Equities - Sales and Trading - Quantitative Strats",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1758356327,
+    "date_posted": 1755289037,
+    "url": "https://higher.gs.com/roles/152591?type=students",
+    "locations": [
+      "London, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Goldman-Sachs",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "MBA",
+      "PhD",
+      "JD",
+      "MD"
+    ]
   }
 ]
