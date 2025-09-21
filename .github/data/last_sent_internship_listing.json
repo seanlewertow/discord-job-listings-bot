@@ -133093,5 +133093,28 @@
       "Bachelor's",
       "Master's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Steel Dynamics",
+    "id": "f598174e-ca53-478d-99bf-557f68c9a7fb",
+    "title": "Sales Data Analytics Internship",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1758423377,
+    "date_posted": 1758423377,
+    "url": "https://careers-steeldynamics.icims.com/jobs/6436/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Columbus, MS"
+    ],
+    "company_url": "https://simplify.jobs/c/Steel-Dynamics",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
