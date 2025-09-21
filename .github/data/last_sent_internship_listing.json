@@ -133069,5 +133069,29 @@
       "Master's",
       "MBA"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Other",
+    "company_name": "Boston Scientific",
+    "id": "5fa5a2d1-aa8a-4dcd-8c7d-2d38a80e93c1",
+    "title": "AIS R&D Security Engineer Intern - Interns/Graduates - Development",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1758412126,
+    "date_posted": 1758412126,
+    "url": "https://bostonscientific.eightfold.ai/careers/job/563602808693713",
+    "locations": [
+      "Roseville, MN"
+    ],
+    "company_url": "https://simplify.jobs/c/Boston-Scientific",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
   }
 ]
