@@ -133475,5 +133475,126 @@
     "date_posted": 1758524385,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "date_updated": 1758525592,
+    "sponsorship": "Other",
+    "active": true,
+    "degrees": [
+      "Bachelor's"
+    ],
+    "url": "https://jobs.lever.co/tri/7468a62e-09de-4fb6-b5a2-779dfbb94e73",
+    "company_name": "Toyota Research Institute",
+    "title": "Robotics Intern - Mobile Manipulation, Behaviors",
+    "locations": [
+      "Los Altos, CA"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "category": "Software Engineering",
+    "source": "AlmondCroffle",
+    "id": "99914b4e-07d3-4dca-9148-b8ac6d80a6ab",
+    "date_posted": 1758525592,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1758525725,
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "degrees": [
+      "Bachelor's"
+    ],
+    "url": "https://jobs.universalparks.com/job/22443305/internship-software-development-resort-accessibility-and-compliance-summer-2026-orlando-fl",
+    "company_name": "Universal Orlando Resort",
+    "title": "Software Development, Resort Accessibility and Compliance",
+    "locations": [
+      "Orlando, FL"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "category": "Software Engineering",
+    "source": "AlmondCroffle",
+    "id": "255a1e85-6037-4026-b111-9eef3fc7b45c",
+    "date_posted": 1758525725,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1758525884,
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "degrees": [
+      "Bachelor's"
+    ],
+    "url": "https://voloridge-health.hiringthing.com/job/958323/health-software-engineer-intern-2026",
+    "company_name": "Voloridge Health",
+    "title": "Health Software Engineer Intern",
+    "locations": [
+      "Jupiter, FL"
+    ],
+    "terms": [
+      "Summer 2026",
+      "Winter 2026",
+      "Spring 2026",
+      "Fall 2026"
+    ],
+    "category": "Software Engineering",
+    "source": "AlmondCroffle",
+    "id": "6d425ee4-391a-41ac-aaf0-0416102fe563",
+    "date_posted": 1758525884,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1758525945,
+    "sponsorship": "Other",
+    "active": true,
+    "degrees": [
+      "Bachelor's"
+    ],
+    "url": "https://voloridge-health.hiringthing.com/job/958324/health-devops-engineer-intern-2026",
+    "company_name": "Voloridge Health",
+    "title": "Health DevOps Engineer Intern",
+    "locations": [
+      "Jupiter, FL"
+    ],
+    "terms": [
+      "Summer 2026",
+      "Winter 2026",
+      "Spring 2026",
+      "Fall 2026"
+    ],
+    "category": "Software Engineering",
+    "source": "AlmondCroffle",
+    "id": "5b515c1a-94a6-428e-88bb-ab8eecbee3c7",
+    "date_posted": 1758525945,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1758525994,
+    "sponsorship": "Does Not Offer Sponsorship",
+    "active": true,
+    "degrees": [
+      "Bachelor's"
+    ],
+    "url": "https://jobs.siemens.com/careers/job/563156132037214",
+    "company_name": "Siemens",
+    "title": "Software Engineer Co-op",
+    "locations": [
+      "Huntsville, AL"
+    ],
+    "terms": [
+      "Spring 2026"
+    ],
+    "category": "Software Engineering",
+    "source": "AlmondCroffle",
+    "id": "33b0f0f3-4eb8-454b-b5e8-1373e18ac780",
+    "date_posted": 1758525994,
+    "company_url": "",
+    "is_visible": true
   }
 ]
