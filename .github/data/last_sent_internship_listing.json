@@ -133237,5 +133237,120 @@
     "date_posted": 1758522282,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "date_updated": 1758523142,
+    "sponsorship": "Does Not Offer Sponsorship",
+    "active": true,
+    "degrees": [
+      "Bachelor's"
+    ],
+    "url": "https://myjobs.adp.com/astronautics/cx/job-details?reqId=5001151496906",
+    "company_name": "Astronautics",
+    "title": "Software Engineering Intern",
+    "locations": [
+      "Oak Creek, WI"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "category": "Software Engineering",
+    "source": "AlmondCroffle",
+    "id": "befaedee-adb2-42a8-9528-2b501412b5a6",
+    "date_posted": 1758523142,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1758523305,
+    "sponsorship": "Does Not Offer Sponsorship",
+    "active": true,
+    "degrees": [
+      "Bachelor's"
+    ],
+    "url": "https://jobs.spectrum.com/job/-/-/4673/86297196016",
+    "company_name": "Spectrum",
+    "title": "DevOps Associate",
+    "locations": [
+      "Greenwood Village, CO"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "category": "Software Engineering",
+    "source": "AlmondCroffle",
+    "id": "66e9d6c5-7578-478f-9c59-b4111e9049bd",
+    "date_posted": 1758523305,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1758523438,
+    "sponsorship": "Other",
+    "active": true,
+    "degrees": [
+      "Bachelor's"
+    ],
+    "url": "https://careers.dexcom.com/careers/job/38039370",
+    "company_name": "Dexcom",
+    "title": "Intern I - DevOps Engineering",
+    "locations": [
+      "Remote in USA"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "category": "Software Engineering",
+    "source": "AlmondCroffle",
+    "id": "018dbfbc-37a1-472f-8337-176e6b220218",
+    "date_posted": 1758523438,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1758523535,
+    "sponsorship": "Does Not Offer Sponsorship",
+    "active": true,
+    "degrees": [
+      "Bachelor's"
+    ],
+    "url": "https://eaton.eightfold.ai/careers/job/687232789551",
+    "company_name": "Eaton Corporation",
+    "title": "Software Engineering",
+    "locations": [
+      "Franksville, WI"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "category": "Software Engineering",
+    "source": "AlmondCroffle",
+    "id": "4b7a98b6-e673-4794-8a9f-8c485c0cdf2b",
+    "date_posted": 1758523535,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1758523762,
+    "sponsorship": "Does Not Offer Sponsorship",
+    "active": true,
+    "degrees": [
+      "Bachelor's"
+    ],
+    "url": "https://jobs.ea.com/en_US/careers/JobDetail/Gameplay-Software-Engineer-Intern-SUMMER-2026/210838",
+    "company_name": "Electronic Arts",
+    "title": "Gameplay Software Engineer Intern",
+    "locations": [
+      "Orlando, FL"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "category": "Software Engineering",
+    "source": "AlmondCroffle",
+    "id": "fabb7404-02e5-45cc-a7d5-6fd8bebfe57b",
+    "date_posted": 1758523762,
+    "company_url": "",
+    "is_visible": true
   }
 ]
