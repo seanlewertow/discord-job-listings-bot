@@ -133352,5 +133352,128 @@
     "date_posted": 1758523762,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "date_updated": 1758523936,
+    "sponsorship": "Does Not Offer Sponsorship",
+    "active": true,
+    "degrees": [
+      "Bachelor's"
+    ],
+    "url": "https://jobs.ea.com/en_US/careers/JobDetail/Tools-Software-Engineer-Intern-Summer-2026/210888",
+    "company_name": "Electronic Arts",
+    "title": "Tools Software Engineer",
+    "locations": [
+      "Orlando, FL"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "category": "Software Engineering",
+    "source": "AlmondCroffle",
+    "id": "f0a16d70-7abf-4d33-a548-523278377576",
+    "date_posted": 1758523936,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1758524003,
+    "sponsorship": "Does Not Offer Sponsorship",
+    "active": true,
+    "degrees": [
+      "Master's"
+    ],
+    "url": "https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Intern/210882",
+    "company_name": "Electronic Arts",
+    "title": "Software Engineer Intern",
+    "locations": [
+      "Redwood City, CA"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "category": "Software Engineering",
+    "source": "AlmondCroffle",
+    "id": "2579b023-cbec-4c32-a02b-b8623bd0d653",
+    "date_posted": 1758524003,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1758524134,
+    "sponsorship": "Does Not Offer Sponsorship",
+    "active": true,
+    "degrees": [
+      "Bachelor's"
+    ],
+    "url": "https://highmarkhealth.wd1.myworkdayjobs.com/en-US/highmark/job/Pittsburgh-PA-15222-PAP-Penn-Avenue-Place/ETDP-Intern---Software-Engineering_J270031",
+    "company_name": "Highmark Health",
+    "title": "Software Engineering",
+    "locations": [
+      "Pittsburgh, PA"
+    ],
+    "terms": [
+      "Summer 2026",
+      "Winter 2026",
+      "Spring 2026",
+      "Fall 2026"
+    ],
+    "category": "Software Engineering",
+    "source": "AlmondCroffle",
+    "id": "3da90885-904d-476f-8a59-591cb6c50fa9",
+    "date_posted": 1758524134,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1758524267,
+    "sponsorship": "Other",
+    "active": true,
+    "degrees": [
+      "Bachelor's"
+    ],
+    "url": "https://jobs.ashbyhq.com/exegy/6ae2d836-21a3-4132-bd85-722177ab5cf5",
+    "company_name": "Exegy",
+    "title": "Software Engineer Intern",
+    "locations": [
+      "St. Louis, MO"
+    ],
+    "terms": [
+      "Summer 2026",
+      "Fall 2026",
+      "Spring 2026"
+    ],
+    "category": "Software Engineering",
+    "source": "AlmondCroffle",
+    "id": "4b38f0db-01bc-4de1-880a-0d40e0cb6cc0",
+    "date_posted": 1758524267,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1758524385,
+    "sponsorship": "Other",
+    "active": true,
+    "degrees": [
+      "Bachelor's"
+    ],
+    "url": "https://myjobs.adp.com/impeljobs/cx/job-details?reqId=5001151417706",
+    "company_name": "Impel",
+    "title": "Software Engineer Intern",
+    "locations": [
+      "Syracuse, NY"
+    ],
+    "terms": [
+      "Summer 2026",
+      "Winter 2026",
+      "Spring 2026",
+      "Fall 2026"
+    ],
+    "category": "Software Engineering",
+    "source": "AlmondCroffle",
+    "id": "90b02094-6a48-43db-ae6a-5391fa03f9d0",
+    "date_posted": 1758524385,
+    "company_url": "",
+    "is_visible": true
   }
 ]
