@@ -29691,5 +29691,42 @@
     "date_posted": 1758521442,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "date_updated": 1758522491,
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "degrees": [],
+    "url": "https://aig.wd1.myworkdayjobs.com/early_careers/job/NC-Charlotte/XMLNAME-2026---Early-Career---Technology---Analyst---United-States--Jersey-City--NJ--or-Charlotte--NC-_JR2504979",
+    "company_name": "AIG",
+    "title": "Technology \u2013 Analyst",
+    "locations": [
+      "Charlotte, NC",
+      "Jersey City, NJ"
+    ],
+    "category": "Other",
+    "source": "AlmondCroffle",
+    "id": "be42a889-64f3-4933-92ae-f8b96064a126",
+    "date_posted": 1758522491,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1758522723,
+    "sponsorship": "Does Not Offer Sponsorship",
+    "active": true,
+    "degrees": [],
+    "url": "https://costar.wd1.myworkdayjobs.com/confidential/job/US-CA-San-Diego/Associate-Software-Engineer---San-Diego--CA_R37014-1",
+    "company_name": "CoStar Group",
+    "title": "Associate Software Engineer",
+    "locations": [
+      "San Diego, CA"
+    ],
+    "category": "Software Engineering",
+    "source": "AlmondCroffle",
+    "id": "3399e593-3844-4433-b1a0-9e0b1c421661",
+    "date_posted": 1758522723,
+    "company_url": "",
+    "is_visible": true
   }
 ]
