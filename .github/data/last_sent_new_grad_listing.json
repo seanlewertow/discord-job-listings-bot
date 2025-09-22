@@ -29600,5 +29600,96 @@
     "date_posted": 1758520324,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "date_updated": 1758520959,
+    "sponsorship": "Does Not Offer Sponsorship",
+    "active": true,
+    "degrees": [],
+    "url": "https://ovative.wd12.myworkdayjobs.com/en-US/ovative/job/Minneapolis/Analyst--Data---Software-Engineering---January-2026-Start-Date_JR100120",
+    "company_name": "Ovative Group",
+    "title": "Analyst, Data & Software Engineering",
+    "locations": [
+      "Minneapolis, MN",
+      "Chicago, IL"
+    ],
+    "category": "Software Engineering",
+    "source": "AlmondCroffle",
+    "id": "df511fe2-266d-45db-ae0c-7a8aa81d1ae5",
+    "date_posted": 1758520959,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1758521109,
+    "sponsorship": "U.S. Citizenship is Required",
+    "active": true,
+    "degrees": [],
+    "url": "https://job-boards.greenhouse.io/muonspace/jobs/4911755007",
+    "company_name": "Muon",
+    "title": "Software Engineer",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "category": "Software Engineering",
+    "source": "AlmondCroffle",
+    "id": "d99525e3-4f8d-4ff8-b707-4de548f6d3ca",
+    "date_posted": 1758521109,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1758521252,
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "degrees": [],
+    "url": "https://jobs.ashbyhq.com/lambda/1147c640-8d1b-4e92-8d39-63982f3f88d7",
+    "company_name": "Lambda",
+    "title": "Cloud Support Engineer I (Support Response)",
+    "locations": [
+      "Remote in USA"
+    ],
+    "category": "Software Engineering",
+    "source": "AlmondCroffle",
+    "id": "d11d4c32-f80b-48f5-af2b-4bde147b19ab",
+    "date_posted": 1758521252,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1758521306,
+    "sponsorship": "U.S. Citizenship is Required",
+    "active": true,
+    "degrees": [],
+    "url": "https://jobs.ashbyhq.com/siftstack/da9e9490-4156-4390-b9ed-54e215c894b6",
+    "company_name": "Sift",
+    "title": "Software Engineer",
+    "locations": [
+      "El Segundo, CA"
+    ],
+    "category": "Software Engineering",
+    "source": "AlmondCroffle",
+    "id": "bd8d311b-b9da-426e-a442-d47ea733ccca",
+    "date_posted": 1758521306,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1758521442,
+    "sponsorship": "Other",
+    "active": true,
+    "degrees": [],
+    "url": "https://jadeglobal.wd5.myworkdayjobs.com/en-US/jade_careers/job/Ogden-UT/Data-Ai-Engineer-Intern_R-103685",
+    "company_name": "Jade Global",
+    "title": "Data/Ai Engineer Intern",
+    "locations": [
+      "Ogden, UT"
+    ],
+    "category": "Data Science, AI & Machine Learning",
+    "source": "AlmondCroffle",
+    "id": "1385d241-f2ef-45d8-aec4-777c79fdcbb3",
+    "date_posted": 1758521442,
+    "company_url": "",
+    "is_visible": true
   }
 ]
