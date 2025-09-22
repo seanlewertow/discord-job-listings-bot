@@ -29524,5 +29524,81 @@
       "Master's",
       "PhD"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "EverCommerce",
+    "id": "a75ec43d-b108-4783-98ad-6bdc20a33da3",
+    "title": "Junior Software Engineer",
+    "active": true,
+    "date_updated": 1758519444,
+    "date_posted": 1758519444,
+    "url": "https://evercommerce.wd1.myworkdayjobs.com/evercommerce_careers/job/Remote-Ontario/Junior-Software-Engineer_R-105466",
+    "locations": [
+      "Ontario, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/a1a5e91c-79e8-44ef-a474-3b5b939c9c5c",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "date_updated": 1758520100,
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "degrees": [],
+    "url": "https://relx.wd3.myworkdayjobs.com/en-US/relx/job/Alpharetta-GA/Data-Scientist-I_R101296-1",
+    "company_name": "RELX",
+    "title": "Data Scientist I - (DSAP)",
+    "locations": [
+      "Alpharetta, GA"
+    ],
+    "category": "Data Science, AI & Machine Learning",
+    "source": "AlmondCroffle",
+    "id": "95173864-37c8-495b-8361-c039cc4ac3bd",
+    "date_posted": 1758520100,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1758520201,
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "degrees": [],
+    "url": "https://Data Scientist I - (DSAP)",
+    "company_name": "LexisNexis",
+    "title": "Data Analyst I",
+    "locations": [
+      "Raleigh, NC"
+    ],
+    "category": "Data Science, AI & Machine Learning",
+    "source": "AlmondCroffle",
+    "id": "219edbed-2167-4345-8aac-488c0f52ad55",
+    "date_posted": 1758520201,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1758520324,
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "degrees": [
+      "Master's"
+    ],
+    "url": "https://job-boards.greenhouse.io/capstoneinvestmentadvisors/jobs/8176351002",
+    "company_name": "Capstone",
+    "title": "Associate, Quantitative Developer",
+    "locations": [
+      "New York, NY"
+    ],
+    "category": "Quantitative Finance",
+    "source": "AlmondCroffle",
+    "id": "e130d8b5-1f21-405b-8a50-7f34426b6fbb",
+    "date_posted": 1758520324,
+    "company_url": "",
+    "is_visible": true
   }
 ]
