@@ -30137,5 +30137,25 @@
       "Bachelor's",
       "Master's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "American Express",
+    "id": "24ba20e7-0e3a-4da8-b708-a448823b1663",
+    "title": "Software Engineer 1 - Servicing Engineering",
+    "active": true,
+    "date_updated": 1758623413,
+    "date_posted": 1756950503,
+    "url": "https://aexp.eightfold.ai/careers/job/30954270",
+    "locations": [
+      "Plantation, FL"
+    ],
+    "company_url": "https://simplify.jobs/c/American-Express",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
