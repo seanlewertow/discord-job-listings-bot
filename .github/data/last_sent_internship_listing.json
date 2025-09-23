@@ -133857,5 +133857,106 @@
     "degrees": [
       "PhD"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Palantir",
+    "id": "0503901e-622f-4d1b-b7f9-29d44e59eaab",
+    "title": "Forward Deployed Software Engineer Intern - US Government",
+    "active": true,
+    "terms": [
+      "Winter 2025"
+    ],
+    "date_updated": 1758624622,
+    "date_posted": 1751385318,
+    "url": "https://jobs.lever.co/palantir/e6ff8bf2-135e-474d-ad37-24f490ae1dd2/apply",
+    "locations": [
+      "Washington, DC"
+    ],
+    "company_url": "https://simplify.jobs/c/Palantir",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "ByteDance",
+    "id": "0cd17720-f702-4c7d-94b8-30bc594f9191",
+    "title": "Software Engineer Intern - Machine Learning System - Doubao - Seed",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1751544660,
+    "date_posted": 1739406671,
+    "url": "https://jobs.bytedance.com/en/position/7377863209077917979/detail",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "company_url": "https://simplify.jobs/c/ByteDance",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Verizon Communications",
+    "id": "a1f6c567-e298-4858-b782-21a41ee75548",
+    "title": "Global Solutions Intern - Technology Solutions",
+    "active": true,
+    "terms": [
+      "Summer 2026",
+      "Fall 2025"
+    ],
+    "date_updated": 1758665639,
+    "date_posted": 1758665639,
+    "url": "https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Alpharetta-Georgia/Alpharetta--V-Teamer-for-a-Day-2025-Global-Solutions-Intern-Program_R-1085779",
+    "locations": [
+      "E Fowler Ave, Tampa, FL",
+      "Irvine, CA",
+      "Berkeley Heights, NJ",
+      "Ashburn, VA",
+      "Alpharetta, GA",
+      "Irving, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Verizon-Communications",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Other",
+    "company_name": "Crowdstrike",
+    "id": "1ec6c8d7-0585-473a-ac01-9eaf32e4a919",
+    "title": "Falcon Complete Analyst Intern - Multiple Teams",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1758665287,
+    "date_posted": 1758665287,
+    "url": "https://crowdstrike.wd5.myworkdayjobs.com/en-us/crowdstrikecareers/job/USA---San-Antonio-TX/Falcon-Complete-Analyst-Intern---Summer-2026_R24843",
+    "locations": [
+      "San Antonio, TX",
+      "St. Louis, MO"
+    ],
+    "company_url": "https://simplify.jobs/c/Crowdstrike",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "Associate's"
+    ]
   }
 ]
