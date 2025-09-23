@@ -133642,5 +133642,124 @@
     "date_posted": 1758585543,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Boston Scientific",
+    "id": "2c1c6147-d068-4660-93b4-013735bb7b02",
+    "title": "R&D Firmware Engineer Intern - Active Implantable Systems",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1758504507,
+    "date_posted": 1758504507,
+    "url": "https://bostonscientific.eightfold.ai/careers/job/563602808707721",
+    "locations": [
+      "Roseville, MN"
+    ],
+    "company_url": "https://simplify.jobs/c/Boston-Scientific",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "U.S. Venture",
+    "id": "0954ca2d-86ad-4393-84cd-706e290e51f9",
+    "title": "Software Development Intern - Breakthrough",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1758504416,
+    "date_posted": 1758504416,
+    "url": "https://usventure.wd1.myworkdayjobs.com/usvexternal/job/WI---Green-Bay/Software-Development-Intern---Breakthrough_R4445",
+    "locations": [
+      "Green Bay, WI"
+    ],
+    "company_url": "https://simplify.jobs/c/US-Venture",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "BNY",
+    "id": "094eeb50-1df4-44e3-a4c2-1fd661da8242",
+    "title": "Business Operations Intern/Co-op - Product and Innovation",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1758564627,
+    "date_posted": 1758502399,
+    "url": "https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/jobs/job/70553",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/BNY",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Boston Scientific",
+    "id": "be1c59b7-a1c3-4b19-82b7-475839739944",
+    "title": "R&D Hardware Engineer Intern - Active Implantable Systems",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1758436999,
+    "date_posted": 1758436999,
+    "url": "https://bostonscientific.eightfold.ai/careers/job/563602808702929",
+    "locations": [
+      "Roseville, MN"
+    ],
+    "company_url": "https://simplify.jobs/c/Boston-Scientific",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Boston Scientific",
+    "id": "7577ba0f-0141-4da6-8bc9-e4f8096d8b95",
+    "title": "R&D Hardware Engineer Intern - Active Implantable Systems",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1758436998,
+    "date_posted": 1758436998,
+    "url": "https://bostonscientific.eightfold.ai/careers/job/563602808702924",
+    "locations": [
+      "Roseville, MN"
+    ],
+    "company_url": "https://simplify.jobs/c/Boston-Scientific",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
   }
 ]
