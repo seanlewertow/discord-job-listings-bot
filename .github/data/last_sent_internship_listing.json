@@ -133958,5 +133958,52 @@
       "Master's",
       "Associate's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Solidigm",
+    "id": "b05d249d-fee9-4d0a-9028-37cbd484a7d1",
+    "title": "Graduate Engineering Intern - Multiple Teams",
+    "active": true,
+    "terms": [
+      "Winter 2025"
+    ],
+    "date_updated": 1758666088,
+    "date_posted": 1758666088,
+    "url": "https://jobs.smartrecruiters.com/Solidigm/744000083281832",
+    "locations": [
+      "Rancho Cordova, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Solidigm",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Master's",
+      "PhD"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "W.R. Berkley",
+    "id": "0c7562e6-7d8e-4ada-b934-9b6bdd000c2f",
+    "title": "Intern \u2013 Software Developer - Reactjs",
+    "active": true,
+    "terms": [
+      "Spring 2026"
+    ],
+    "date_updated": 1758665923,
+    "date_posted": 1757615422,
+    "url": "https://careers-berkley.icims.com/jobs/12912/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Grimes, IA"
+    ],
+    "company_url": "https://simplify.jobs/c/WR-Berkley",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
