@@ -133596,5 +133596,51 @@
     "date_posted": 1758525994,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "date_updated": 1758585473,
+    "sponsorship": "Does Not Offer Sponsorship",
+    "active": true,
+    "degrees": [
+      "Bachelor's"
+    ],
+    "url": "https://northmark.wd108.myworkdayjobs.com/en-US/NMS/job/Intern-Program_R12713",
+    "company_name": "NorthMark Strategies",
+    "title": "Engineering Intern Program",
+    "locations": [
+      "Dallas, TX"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "category": "Software Engineering",
+    "source": "TimothyNaumov",
+    "id": "23c9399e-6845-4b02-9aa6-e6407cfd817e",
+    "date_posted": 1758585473,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1758585543,
+    "sponsorship": "U.S. Citizenship is Required",
+    "active": true,
+    "degrees": [
+      "Bachelor's"
+    ],
+    "url": "https://job-boards.greenhouse.io/robinhood/jobs/7163234?t=gh_src=?gh_jid=7163234",
+    "company_name": "Robinhood",
+    "title": "Machine Learning Engineer Intern, Applied ML",
+    "locations": [
+      "Menlo Park, CA"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "category": "Software Engineering",
+    "source": "yus100",
+    "id": "880c6f8c-83e2-4b2f-b9af-5498a795c5ef",
+    "date_posted": 1758585543,
+    "company_url": "",
+    "is_visible": true
   }
 ]
