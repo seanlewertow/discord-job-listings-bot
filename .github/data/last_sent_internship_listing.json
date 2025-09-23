@@ -133761,5 +133761,101 @@
       "Bachelor's",
       "Master's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Optiver",
+    "id": "c2797397-c45b-4396-b76a-81883780b63d",
+    "title": "Software Engineer Intern/Co-op - Multiple Teams",
+    "active": true,
+    "terms": [
+      "Spring 2026"
+    ],
+    "date_updated": 1758663017,
+    "date_posted": 1758663017,
+    "url": "https://job-boards.greenhouse.io/optiverprivate/jobs/8181298002",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/Optiver",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Norfolk Southern",
+    "id": "5c32d212-5f48-4a37-976b-1040e76f15ce",
+    "title": "Computer Vision Intern - Spring 2026",
+    "active": true,
+    "terms": [
+      "Spring 2026"
+    ],
+    "date_updated": 1758662997,
+    "date_posted": 1758662997,
+    "url": "https://jobs.nscorp.com/job/Atlanta-Computer-Vision-Intern-Spring-2026-GA-30308/1328523700/?ats=successfactors",
+    "locations": [
+      "Atlanta, GA"
+    ],
+    "company_url": "https://simplify.jobs/c/Norfolk-Southern",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Master's",
+      "PhD"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "CME Group",
+    "id": "0e9fa919-f311-407f-8026-d8f08478b213",
+    "title": "Technology Intern - Multiple Teams",
+    "active": true,
+    "terms": [
+      "Summer 2026",
+      "Spring 2027"
+    ],
+    "date_updated": 1758662996,
+    "date_posted": 1758662996,
+    "url": "https://cmegroup.wd1.myworkdayjobs.com/en-US/cme_careers/job/Chicago---20-S-Wacker/Year-Long-Technology-Internship--Summer-2026-Spring-2027-_33070",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/CME-Group",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Meta",
+    "id": "e733e65b-363d-41ea-907b-faa0b33b9db6",
+    "title": "Research Scientist Intern - AI & Compute Foundation - MTIA Software",
+    "active": true,
+    "terms": [
+      "Fall 2025",
+      "Winter 2026"
+    ],
+    "date_updated": 1758662734,
+    "date_posted": 1758662734,
+    "url": "https://www.metacareers.com/jobs/1522520752518409",
+    "locations": [
+      "Menlo Park, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Meta",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "PhD"
+    ]
   }
 ]
