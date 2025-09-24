@@ -30373,5 +30373,44 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "date_updated": 1758691834,
+    "sponsorship": "Other",
+    "active": true,
+    "degrees": [
+      "Master's"
+    ],
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210666344",
+    "company_name": "JPMorganChase",
+    "title": "Quantitative Research - Data Analytics - Associate",
+    "locations": [
+      "New York, NY"
+    ],
+    "category": "Quantitative Finance",
+    "source": "AlmondCroffle",
+    "id": "bf81a833-6a92-44bf-af80-3ed9de1e3521",
+    "date_posted": 1758691834,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1758691926,
+    "sponsorship": "Does Not Offer Sponsorship",
+    "active": true,
+    "degrees": [],
+    "url": "https://job-boards.greenhouse.io/figma/jobs/5616603004",
+    "company_name": "Figma",
+    "title": "Software Engineer",
+    "locations": [
+      "San Francisco, CA",
+      "New York, NY"
+    ],
+    "category": "Software Engineering",
+    "source": "AlmondCroffle",
+    "id": "89a69655-711e-42fd-8699-a8b6caf767ca",
+    "date_posted": 1758691926,
+    "company_url": "",
+    "is_visible": true
   }
 ]
