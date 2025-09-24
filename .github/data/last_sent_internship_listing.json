@@ -135045,5 +135045,28 @@
     "degrees": [
       "Master's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Other",
+    "company_name": "NuHarbor Security",
+    "id": "9a302368-1842-4750-9165-9d32020dc984",
+    "title": "Intern - Cybersecurity",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1758746099,
+    "date_posted": 1758746099,
+    "url": "https://www.nuharborsecurity.com/careers?gh_jid=7256174",
+    "locations": [
+      "Burlington, VT"
+    ],
+    "company_url": "https://simplify.jobs/c/NuHarborSecurity",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
