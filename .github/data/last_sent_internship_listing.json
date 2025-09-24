@@ -135353,5 +135353,122 @@
     "degrees": [
       "PhD"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "TD Bank",
+    "id": "16f41fe2-9a2a-4bd4-8d8e-a3f3285fb26f",
+    "title": "Applied Data Scientist Intern/Co-op - Multiple Teams",
+    "active": true,
+    "terms": [
+      "Winter 2026"
+    ],
+    "date_updated": 1758754321,
+    "date_posted": 1758754321,
+    "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Applied-Data-Scientist-Intern-Co-op--WINTER-2026-_R_1446820",
+    "locations": [
+      "Toronto, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/TD-Bank",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Inmar Intelligence",
+    "id": "803b4a12-8324-4e26-ad22-9c3149e8c1b4",
+    "title": "Data Engineer Intern - Multiple Teams",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1758754097,
+    "date_posted": 1758754097,
+    "url": "https://inmar.wd1.myworkdayjobs.com/inmarcareers/job/Headquarters-Winston-Salem-NC/Data-Engineer-Intern--Summer-2026_JY2526555",
+    "locations": [
+      "Winston-Salem, NC"
+    ],
+    "company_url": "https://simplify.jobs/c/Inmar-Intelligence",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Barry's",
+    "id": "1343957a-ad99-4bd9-ab97-c4208e7810fe",
+    "title": "Undergraduate Summer Scholar, Data Analyst - Summer 2026",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1758755812,
+    "date_posted": 1758755812,
+    "url": "https://ats.rippling.com/barrys-careers/jobs/dfd1cd6a-2d8c-46a2-a504-46f97dac825e",
+    "locations": [
+      "Miami, FL"
+    ],
+    "company_url": "https://simplify.jobs/c/Barrys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Sharp Electronics",
+    "id": "ce2a2737-ce05-48c1-adaa-ac72944101e0",
+    "title": "AI Process Automation Intern",
+    "active": true,
+    "terms": [
+      "Winter 2025",
+      "Spring 2026"
+    ],
+    "date_updated": 1758755366,
+    "date_posted": 1758755366,
+    "url": "https://careers-sharpusa.icims.com/jobs/8568/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Mahwah, NJ"
+    ],
+    "company_url": "https://simplify.jobs/c/Sharp-Electronics",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Micron Technology",
+    "id": "7f8bcdbd-beaa-47c2-9ad1-4e0b69777224",
+    "title": "Intern - ASIC Design Verification - ASIC Design Verification",
+    "active": true,
+    "terms": [
+      "Winter 2025"
+    ],
+    "date_updated": 1758755320,
+    "date_posted": 1758755320,
+    "url": "https://micron.wd1.myworkdayjobs.com/External/job/Minneapolis-MN/Intern---ASIC-Design-Verification_JR82918",
+    "locations": [
+      "Minneapolis, MN"
+    ],
+    "company_url": "https://simplify.jobs/c/Micron-Technology",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
   }
 ]
