@@ -134262,5 +134262,120 @@
     "degrees": [
       "Master's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Electronic Arts",
+    "id": "cd641bf5-6926-484d-9371-fa9c3cb09f5c",
+    "title": "Software Engineer Intern - Multiple Teams",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1758682203,
+    "date_posted": 1758682203,
+    "url": "https://jobs.ea.com/en_US/careers/JobDetail/Online-Software-Engineer-Intern-SUMMER-2026/210918",
+    "locations": [
+      "Austin, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Electronic-Arts",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "RESPEC",
+    "id": "cb5e43ba-13a7-4377-b35e-62bfb1dc2d76",
+    "title": "Student Software Engineering Intern",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1758682197,
+    "date_posted": 1758682197,
+    "url": "https://jobs.smartrecruiters.com/RESPECInc/744000083551783",
+    "locations": [
+      "Richardson, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/RESPEC",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "RESPEC",
+    "id": "c43bf69d-cd02-477c-a0c6-a1a9c023a99f",
+    "title": "Student Software Engineering Intern",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1758682199,
+    "date_posted": 1758682199,
+    "url": "https://jobs.smartrecruiters.com/RESPECInc/744000083554085",
+    "locations": [
+      "Albuquerque, NM"
+    ],
+    "company_url": "https://simplify.jobs/c/RESPEC",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "RESPEC",
+    "id": "7e3150d2-3408-4a2a-8c6f-7634903812d8",
+    "title": "Student Software Engineering Intern",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1758682195,
+    "date_posted": 1758682195,
+    "url": "https://jobs.smartrecruiters.com/RESPECInc/744000083551378",
+    "locations": [
+      "Richardson, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/RESPEC",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Electronic Arts",
+    "id": "42c372c8-e8f8-4554-bfa8-133eca70b707",
+    "title": "AI Ad Operations Intern - Data & Insights",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1758682089,
+    "date_posted": 1758682089,
+    "url": "https://jobs.ea.com/en_US/careers/JobDetail/AI-Ad-Operations-Intern/210898",
+    "locations": [
+      "Vancouver, BC, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Electronic-Arts",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
