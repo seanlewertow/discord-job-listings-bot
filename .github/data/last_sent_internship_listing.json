@@ -134624,5 +134624,67 @@
       "Bachelor's",
       "Master's"
     ]
+  },
+  {
+    "date_updated": 1758692580,
+    "sponsorship": "U.S. Citizenship is Required",
+    "active": true,
+    "degrees": [
+      "Bachelor's"
+    ],
+    "url": "https://www.accenture.com/us-en/careers/jobdetails?id=R00285547_en&title=Technology+Summer+Analyst+-+NAELFY26",
+    "company_name": "Accenture",
+    "title": "Technology Analyst",
+    "locations": [
+      "Chicago, IL",
+      "Arlington, VA",
+      "Atlanta, GA",
+      "Austin, TX",
+      "Boston, MA",
+      "Charlotte, NC",
+      "Houston, TX",
+      "Irving, TX",
+      "Los Angeles, CA",
+      "Morristown, NJ",
+      "New York City, NY",
+      "Philadelphia, PA",
+      "San Francisco, CA",
+      "Seattle, WA"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "category": "Software Engineering",
+    "source": "AlmondCroffle",
+    "id": "58507aa1-eb64-4a9c-953c-2ea12b04dd83",
+    "date_posted": 1758692580,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1758692712,
+    "sponsorship": "U.S. Citizenship is Required",
+    "active": true,
+    "degrees": [
+      "Master's"
+    ],
+    "url": "https://jobs.lever.co/kitware/02f29045-428c-43f3-8fd6-8d674f3713ab",
+    "company_name": "Kitware",
+    "title": "Natural Language Processing Research Internship",
+    "locations": [
+      "Clifton Park, NY"
+    ],
+    "terms": [
+      "Summer 2026",
+      "Winter 2026",
+      "Spring 2026",
+      "Fall 2026"
+    ],
+    "category": "Data Science, AI & Machine Learning",
+    "source": "AlmondCroffle",
+    "id": "f3f0dae8-1cef-4b03-beda-5863332368e2",
+    "date_posted": 1758692712,
+    "company_url": "",
+    "is_visible": true
   }
 ]
