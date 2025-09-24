@@ -134733,5 +134733,123 @@
     "date_posted": 1758693168,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "date_updated": 1758694282,
+    "sponsorship": "Does Not Offer Sponsorship",
+    "active": true,
+    "degrees": [
+      "Bachelor's"
+    ],
+    "url": "https://job-boards.greenhouse.io/assuredguaranty/jobs/8180639002",
+    "company_name": "Assured Guaranty",
+    "title": "IT Software Development Intern",
+    "locations": [
+      "New York, NY"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "category": "Software Engineering",
+    "source": "AlmondCroffle",
+    "id": "c4d966d8-5ebd-4726-a48c-df7bc8cb7939",
+    "date_posted": 1758694282,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Occidental Petroleum",
+    "id": "c0fa6ba4-65ea-4973-a57e-c5f525401a48",
+    "title": "Process Systems Engineering Intern/Co-op - Automation & Data Integration",
+    "active": true,
+    "terms": [
+      "Winter 2026"
+    ],
+    "date_updated": 1758694530,
+    "date_posted": 1758694530,
+    "url": "https://oxy.wd5.myworkdayjobs.com/Corporate/job/Squamish/Process-Systems-Engineering--Automation---Data-Integration---Co-op_JR105200",
+    "locations": [
+      "Squamish, BC, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Occidental-Petroleum",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "General Motors",
+    "id": "6ed05831-d47f-40be-bb5e-1e2689b9af30",
+    "title": "Intern - Product Management",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1758694535,
+    "date_posted": 1758694535,
+    "url": "https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2026-Summer-Intern---MBA-Product-Management_JR-202517851",
+    "locations": [
+      "Warren, MI"
+    ],
+    "company_url": "https://simplify.jobs/c/General-Motors",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "MBA"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Harris Computer",
+    "id": "33c31d09-7153-4c38-b94a-988a5746db88",
+    "title": "Software Development and AI Intern - Co-op - R&D - AI",
+    "active": true,
+    "terms": [
+      "Fall 2025",
+      "Winter 2026"
+    ],
+    "date_updated": 1758694403,
+    "date_posted": 1758694403,
+    "url": "https://harriscomputer.wd3.myworkdayjobs.com/1/job/British-Columbia-Canada/Software-Development---AI-Intern--Co-op-_R0032206",
+    "locations": [
+      "Remote in Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Harris-Computer",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Other",
+    "company_name": "L3Harris Technologies",
+    "id": "b97ef628-3019-4421-a4b0-f020ed2731b7",
+    "title": "Info Security Sys Engineer Intern - Multiple Teams",
+    "active": true,
+    "terms": [
+      "Winter 2025"
+    ],
+    "date_updated": 1758693897,
+    "date_posted": 1758693897,
+    "url": "https://jobs.l3harris.com/job/Melbourne-Info-Sec-Sys-Engineer-Intern-(Melbourne,-FL)-FL-32919/1328711500/?ats=successfactors",
+    "locations": [
+      "Melbourne, FL"
+    ],
+    "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
