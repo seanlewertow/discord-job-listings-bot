@@ -134527,5 +134527,78 @@
       "Master's",
       "PhD"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Snowflake",
+    "id": "2b2a473d-ca1c-476d-9cf5-7123c366ec08",
+    "title": "Software Engineer Intern - Multiple Teams",
+    "active": true,
+    "terms": [
+      "Winter 2026",
+      "Spring 2026"
+    ],
+    "date_updated": 1758690070,
+    "date_posted": 1758690070,
+    "url": "https://jobs.ashbyhq.com/snowflake/237fefbd-d232-4daf-8def-971bdeb732d9/application",
+    "locations": [
+      "Toronto, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Snowflake",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "PhD"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Visa",
+    "id": "a8f1c021-b9fe-4858-aaf6-d4e35d8cbba1",
+    "title": "Consulting & Analytics Intern - Implementation Services",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1758689986,
+    "date_posted": 1758689986,
+    "url": "https://jobs.smartrecruiters.com/Visa/744000083479304",
+    "locations": [
+      "London, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Visa",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Meta",
+    "id": "28de4cbe-8176-4f3a-99a7-7c425d58234b",
+    "title": "Research Scientist Intern - AI & System Co-Design",
+    "active": true,
+    "terms": [
+      "Winter 2025"
+    ],
+    "date_updated": 1758690863,
+    "date_posted": 1758690863,
+    "url": "https://www.metacareers.com/jobs/1859723961565682",
+    "locations": [
+      "Menlo Park, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Meta",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "PhD"
+    ]
   }
 ]
