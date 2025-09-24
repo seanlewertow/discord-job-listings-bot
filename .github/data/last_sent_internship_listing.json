@@ -135494,5 +135494,104 @@
       "Bachelor's",
       "Master's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Applied Materials",
+    "id": "f5ad28b4-f1e5-4eee-9a03-099b0f11d742",
+    "title": "Embedded Firmware Intern/Co-op - Multiple Teams",
+    "active": true,
+    "terms": [
+      "Winter 2026",
+      "Spring 2026"
+    ],
+    "date_updated": 1758757574,
+    "date_posted": 1758757574,
+    "url": "https://amat.wd1.myworkdayjobs.com/en-US/External/job/RochesterNY/XMLNAME-2026-Spring-Embedded-Firmware-Co-Op---Bachelor-s--Rochester--NY-_R2517253",
+    "locations": [
+      "Rochester, NY"
+    ],
+    "company_url": "https://simplify.jobs/c/Applied-Materials",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Other",
+    "company_name": "Banner Health",
+    "id": "5792c0c1-b8f3-4288-bb06-0d1857c368bb",
+    "title": "Intern IT 1 Cybersecurity - IT Threat & Vulnerability Management",
+    "active": true,
+    "terms": [
+      "Winter 2026"
+    ],
+    "date_updated": 1758757476,
+    "date_posted": 1758757476,
+    "url": "https://bannerhealth.wd108.myworkdayjobs.com/Careers/job/Banner-Health-Corp-Phoenix-2901-N-Central-Ave/Intern-IT-I-Cybersecurity-SOC_R4416898-1",
+    "locations": [
+      "California",
+      "Wyoming",
+      "Nevada",
+      "Colorado",
+      "Nebraska",
+      "Phoenix, AZ"
+    ],
+    "company_url": "https://simplify.jobs/c/Banner-Health",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Kinaxis",
+    "id": "2ec4349f-cc76-41c8-8a88-2b43045e703d",
+    "title": "Co-op/Intern Developer - Clients - Front End Technologies",
+    "active": true,
+    "terms": [
+      "Winter 2026"
+    ],
+    "date_updated": 1758757237,
+    "date_posted": 1758757237,
+    "url": "https://careers-kinaxis.icims.com/jobs/33752/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Ottawa, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Kinaxis",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Oshkosh",
+    "id": "7fd26e0b-fa59-4868-88ac-99d3acf8b6eb",
+    "title": "Data Analytics Intern - Advanced Analytics",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1758756746,
+    "date_posted": 1758756746,
+    "url": "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Oshkosh-Wisconsin-United-States/Data-Analytics-Intern_R41406",
+    "locations": [
+      "Oshkosh, WI"
+    ],
+    "company_url": "https://simplify.jobs/c/Oshkosh",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Master's"
+    ]
   }
 ]
