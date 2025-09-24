@@ -30514,5 +30514,87 @@
     "date_posted": 1758738003,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Ciena",
+    "id": "e99da8c0-784c-404e-a32b-9a4ce8a5fe59",
+    "title": "New Grad Software Engineer - Multiple Teams",
+    "active": true,
+    "date_updated": 1758754101,
+    "date_posted": 1758754101,
+    "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/UK--Edinburgh---19A-Canning-St/New-Grad-Software-Engineer---UK_R029045",
+    "locations": [
+      "London, UK",
+      "Edinburgh, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Ciena",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Ciena",
+    "id": "93063771-56a1-40e8-9ed6-96737f9bd052",
+    "title": "Routing/IP Software Engineer \u2013 New Grad",
+    "active": true,
+    "date_updated": 1758754111,
+    "date_posted": 1758754111,
+    "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Routing-IP-Software-Engineer---New-Grad_R029033",
+    "locations": [
+      "Ottawa, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Ciena",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "mthree",
+    "id": "de2aa833-1aeb-4eec-b942-b25dd9ec163a",
+    "title": "Junior Software Developer - Go Lang",
+    "active": true,
+    "date_updated": 1758755035,
+    "date_posted": 1758755035,
+    "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4604065006",
+    "locations": [
+      "United Kingdom"
+    ],
+    "company_url": "https://simplify.jobs/c/Mthree",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "mthree",
+    "id": "13614527-7efc-429b-ba53-e410fe62b4a0",
+    "title": "Junior Software Developer - Java/Scala",
+    "active": true,
+    "date_updated": 1758755027,
+    "date_posted": 1758755027,
+    "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4600596006",
+    "locations": [
+      "Ireland",
+      "United Kingdom"
+    ],
+    "company_url": "https://simplify.jobs/c/Mthree",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
