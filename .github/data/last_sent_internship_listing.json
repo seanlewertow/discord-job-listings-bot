@@ -134145,5 +134145,122 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Ensign-Bickford Aerospace & Defense Company",
+    "id": "c1c44200-7a13-46ad-acc0-007e9eeba522",
+    "title": "Product Engineer Intern - Multiple Teams",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1758677869,
+    "date_posted": 1758677869,
+    "url": "https://ebi.wd5.myworkdayjobs.com/ebadcareers/job/Moorpark-CA/Product-Engineer-Intern_REQ106685",
+    "locations": [
+      "Moorpark, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Ensign-Bickford-Aerospace-Defense-Company",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Gunvor",
+    "id": "b3ee4b85-a992-4ce8-b589-37058394e596",
+    "title": "Trading Commodities Intern - Multiple Teams",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1758677291,
+    "date_posted": 1758677291,
+    "url": "https://gunvor.wd3.myworkdayjobs.com/Gunvor_Careers/job/Houston/Trading-Commodities-Intern_JR102366-1",
+    "locations": [
+      "Houston, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Gunvor",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "The Aerospace Corporation",
+    "id": "0922122b-d578-400a-9131-18fa69588772",
+    "title": "Computer Science/Data Engineer Intern - Datacentric Platforms and Architectures Department",
+    "active": true,
+    "terms": [
+      "Winter 2025"
+    ],
+    "date_updated": 1758677671,
+    "date_posted": 1758677671,
+    "url": "https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2026-Computer-Science-Data-Engineer-Undergrad-Intern_R013652",
+    "locations": [
+      "El Segundo, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/The-Aerospace-Corporation",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Marvell",
+    "id": "365742be-140b-45e6-8e46-6e7258f5f6b6",
+    "title": "Physical Design Engineer Intern - Multiple Teams",
+    "active": true,
+    "terms": [
+      "Winter 2025"
+    ],
+    "date_updated": 1758678946,
+    "date_posted": 1758678946,
+    "url": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers2/job/Santa-Clara-CA/Physical-Design-Engineer-Intern---Master-s-Degree_2502383",
+    "locations": [
+      "Santa Clara, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/80961b05-9ed3-462d-aef9-4b418c7fb796",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Marvell",
+    "id": "2244b2d0-9770-4a71-ac0d-e012c75eee64",
+    "title": "Product Engineer Intern - Multiple Teams",
+    "active": true,
+    "terms": [
+      "Winter 2025"
+    ],
+    "date_updated": 1758678946,
+    "date_posted": 1758678946,
+    "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Product-Engineer-Intern---Master-s-Degree_2502284-1",
+    "locations": [
+      "Santa Clara, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/80961b05-9ed3-462d-aef9-4b418c7fb796",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Master's"
+    ]
   }
 ]
