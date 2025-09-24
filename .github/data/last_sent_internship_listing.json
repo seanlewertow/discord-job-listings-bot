@@ -134377,5 +134377,76 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Inmar Intelligence",
+    "id": "ce00fe00-3449-4bba-851e-796104d5d523",
+    "title": "Backend Platform Intern - Digital Promotions Network Team",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1758683869,
+    "date_posted": 1758683869,
+    "url": "https://inmar.wd1.myworkdayjobs.com/inmarcareers/job/Headquarters-Winston-Salem-NC/Backend-Platform-Intern--Digital-Promotions-Network-Team--Summer-2026_JY2526552",
+    "locations": [
+      "Winston-Salem, NC"
+    ],
+    "company_url": "https://simplify.jobs/c/Inmar-Intelligence",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Zillow",
+    "id": "ea962e62-55ba-4c24-9b40-8d3309719bfa",
+    "title": "AI Applied Scientist - PhD Intern - Evaluation Systems and Metrics",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1758683421,
+    "date_posted": 1758683421,
+    "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/AI-Applied-Scientist---PhD-Intern--Evaluation-Systems-and-Metrics_P748040",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/746fab82-a8fb-4424-a5e2-5611b9194fda",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "PhD"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "CIBC",
+    "id": "4dd0ad8f-eafc-4927-ba91-2e311e7ff104",
+    "title": "AI Scientist Co-op - Artificial Intelligence - Multiple Teams",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1758683336,
+    "date_posted": 1758683336,
+    "url": "https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/AI-Scientist-Co-op_2522108",
+    "locations": [
+      "Toronto, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/CIBC",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
   }
 ]
