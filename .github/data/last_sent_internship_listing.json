@@ -134686,5 +134686,52 @@
     "date_posted": 1758692712,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Intuit",
+    "id": "586501ec-c94e-4cd7-ae14-b01920eabd9e",
+    "title": "Software Developer Intern/Co-op - Multiple Teams",
+    "active": true,
+    "terms": [
+      "Winter 2026"
+    ],
+    "date_updated": 1758692886,
+    "date_posted": 1758692886,
+    "url": "https://jobs.intuit.com/job/toronto/winter-2026-software-developer-co-op-4-months/27595/86480090896",
+    "locations": [
+      "Toronto, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Intuit",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "date_updated": 1758693168,
+    "sponsorship": "Does Not Offer Sponsorship",
+    "active": true,
+    "degrees": [
+      "Bachelor's"
+    ],
+    "url": "https://modernatx.wd1.myworkdayjobs.com/en-US/M_tx/job/Norwood-Massachusetts/XMLNAME-2026-Co-Op--CMC-Quantitative-Sciences_R18239",
+    "company_name": "Moderna",
+    "title": "Co-Op, CMC Quantitative Sciences",
+    "locations": [
+      "Norwood, MA"
+    ],
+    "terms": [
+      "Winter 2026",
+      "Spring 2026"
+    ],
+    "category": "Quantitative Finance",
+    "source": "AlmondCroffle",
+    "id": "8029723a-aecd-4e85-bc4e-f2533f4e6b90",
+    "date_posted": 1758693168,
+    "company_url": "",
+    "is_visible": true
   }
 ]
