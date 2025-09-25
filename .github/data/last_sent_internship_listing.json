@@ -136314,5 +136314,99 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "JP Morgan Chase",
+    "id": "d10d9338-b908-4748-be6f-fe09263382b1",
+    "title": "Machine Learning Center of Excellence Summer Associate - Quant AI",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1758781717,
+    "date_posted": 1758781717,
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/requisitions/job/210670757",
+    "locations": [
+      "Palo Alto, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/JP-Morgan-Chase",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Master's",
+      "PhD"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Parsons",
+    "id": "15d64ada-2bb7-4e10-a2d5-6bffea353786",
+    "title": "Test and Evaluation Intern - Multiple Teams",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1758781676,
+    "date_posted": 1758781676,
+    "url": "https://parsons.wd5.myworkdayjobs.com/en-US/search/job/US-WV---Summit-Point/Test-and-Evaluation-Intern---Summer-2026_R172426-1",
+    "locations": [
+      "Bluemont, VA"
+    ],
+    "company_url": "https://simplify.jobs/c/Parsons",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Daktronics",
+    "id": "ae65e4de-4ee4-4a7b-860e-d3b5d79baa84",
+    "title": "Product Demonstration Technical Intern - Multiple Teams",
+    "active": true,
+    "terms": [
+      "Winter 2026",
+      "Summer 2026"
+    ],
+    "date_updated": 1758781251,
+    "date_posted": 1758781251,
+    "url": "https://careers-daktronics.icims.com/jobs/6900/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Brookings, SD"
+    ],
+    "company_url": "https://simplify.jobs/c/Daktronics",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Marathon Petroleum",
+    "id": "aaccc98a-a1f3-4de4-a26d-2f6588ab04cf",
+    "title": "Associate Software Engineer \u2013 Intern to Full-Time Conversion - Corporate Functions IT",
+    "active": true,
+    "terms": [
+      "Winter 2025"
+    ],
+    "date_updated": 1758781284,
+    "date_posted": 1758781284,
+    "url": "https://mpc.wd1.myworkdayjobs.com/en-US/MPCCareers/job/Findlay-Ohio/Associate-Software-Engineer--Intern-to-Full-Time-Conversion-_00018663",
+    "locations": [
+      "Bowling Green, OH"
+    ],
+    "company_url": "https://simplify.jobs/c/Marathon-Petroleum",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
