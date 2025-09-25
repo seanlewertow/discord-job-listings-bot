@@ -136408,5 +136408,75 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Kinaxis",
+    "id": "d3a15f64-ed8a-4820-ba9c-68dce12d3ecd",
+    "title": "Co-op/Intern Developer - AI/ML",
+    "active": true,
+    "terms": [
+      "Winter 2026"
+    ],
+    "date_updated": 1758782490,
+    "date_posted": 1758782490,
+    "url": "https://careers-kinaxis.icims.com/jobs/33751/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Ottawa, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Kinaxis",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Clarios",
+    "id": "7018d504-aa59-4d9d-8622-54b975ec7b1f",
+    "title": "Data Insights and Visualization Intern - Multiple Teams",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1758782472,
+    "date_posted": 1758782472,
+    "url": "https://clarios.wd5.myworkdayjobs.com/clarioscareers/job/United-States-Wisconsin-Milwaukee/Data-Insights---Visualization-Intern--Summer-2026-_WD45173",
+    "locations": [
+      "Milwaukee, WI"
+    ],
+    "company_url": "https://simplify.jobs/c/Clarios",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Samsung",
+    "id": "76011733-a034-47c4-9932-c11000a226e6",
+    "title": "Intern \u2013 Memory Solution Research Engineer",
+    "active": true,
+    "terms": [
+      "Winter 2025"
+    ],
+    "date_updated": 1758782287,
+    "date_posted": 1758782287,
+    "url": "https://job-boards.greenhouse.io/samsungsemiconductor/jobs/7477264003",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Samsung",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "PhD"
+    ]
   }
 ]
