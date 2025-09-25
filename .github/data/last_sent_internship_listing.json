@@ -136097,5 +136097,29 @@
       "Bachelor's",
       "Master's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Other",
+    "company_name": "RSM",
+    "id": "9c731c7e-422d-4d3d-9bf3-37f246ee52c3",
+    "title": "Cyber Testing Associate - Multiple Teams",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1758777151,
+    "date_posted": 1758777151,
+    "url": "https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Des-Moines/Cyber-Testing-Associate---Summer-2026_JR110638",
+    "locations": [
+      "Des Moines, IA",
+      "Cedar Rapids, IA"
+    ],
+    "company_url": "https://simplify.jobs/c/RSM",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
