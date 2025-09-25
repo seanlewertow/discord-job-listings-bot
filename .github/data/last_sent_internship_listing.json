@@ -137247,5 +137247,55 @@
       "Bachelor's",
       "Master's"
     ]
+  },
+  {
+    "date_updated": 1758808004,
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "degrees": [
+      "Bachelor's"
+    ],
+    "url": "https://careers.withwaymo.com/jobs/2026-summer-intern-bs-ms-software-engineering-commercialization-mountain-view-california-united-states-san-francisco",
+    "company_name": "Waymo",
+    "title": "Software Engineering, Commercialization",
+    "locations": [
+      "Mountain View, CA",
+      "San Francisco, CA"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "category": "Software Engineering",
+    "source": "AlmondCroffle",
+    "id": "c180abb9-4a25-4459-9d21-00b7984c39ef",
+    "date_posted": 1758808004,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1758808136,
+    "sponsorship": "Other",
+    "active": true,
+    "degrees": [
+      "Bachelor's"
+    ],
+    "url": "https://www.google.com/about/careers/applications/jobs/results/110796638720533190-associate-product-manager-intern/",
+    "company_name": "Google",
+    "title": "Associate Product Manager Intern",
+    "locations": [
+      "Mountain View, CA",
+      "New York, NY",
+      "San Bruno, CA",
+      "San Francisco, CA"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "category": "Product Management",
+    "source": "AlmondCroffle",
+    "id": "04682fe0-6e87-44fd-8eb0-c16ccc2c33ca",
+    "date_posted": 1758808136,
+    "company_url": "",
+    "is_visible": true
   }
 ]
