@@ -137297,5 +137297,77 @@
     "date_posted": 1758808136,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "date_updated": 1758808365,
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "degrees": [
+      "Bachelor's"
+    ],
+    "url": "https://www.pinterestcareers.com/jobs/7252886/software-engineer-intern-winter-term-2026-toronto",
+    "company_name": "Pinterest",
+    "title": "Software Engineer",
+    "locations": [
+      "Toronto, Canada"
+    ],
+    "terms": [
+      "Winter 2026"
+    ],
+    "category": "Software Engineering",
+    "source": "AlmondCroffle",
+    "id": "0155cb82-7b69-4eb5-a98b-1d4f1460bc7a",
+    "date_posted": 1758808365,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1758808631,
+    "sponsorship": "Other",
+    "active": true,
+    "degrees": [
+      "Bachelor's"
+    ],
+    "url": "https://careers-rambus.icims.com/jobs/22378/data-%26-ai-intern/job",
+    "company_name": "Rambus",
+    "title": "Data & AI Intern",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "terms": [
+      "Summer 2026",
+      "Winter 2026",
+      "Spring 2026",
+      "Fall 2026"
+    ],
+    "category": "Software Engineering",
+    "source": "AlmondCroffle",
+    "id": "f8f3ee0c-ddc6-47ca-b54c-d0ef53feb342",
+    "date_posted": 1758808631,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1758808715,
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "degrees": [
+      "Bachelor's"
+    ],
+    "url": "https://corteva.wd5.myworkdayjobs.com/en-US/ctp/job/Des-Moines-Iowa-United-States/Artificial-Intelligence-in-Breeding-Intern_243468W-1",
+    "company_name": "Corteva",
+    "title": "Artificial Intelligence in Breeding Intern",
+    "locations": [
+      "Des Moines, IA"
+    ],
+    "terms": [
+      "Spring 2026"
+    ],
+    "category": "Data Science, AI & Machine Learning",
+    "source": "AlmondCroffle",
+    "id": "54ca52a2-d28e-4eba-b5d5-82e0a85e8610",
+    "date_posted": 1758808715,
+    "company_url": "",
+    "is_visible": true
   }
 ]
