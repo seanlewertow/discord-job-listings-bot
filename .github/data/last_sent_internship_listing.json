@@ -136169,5 +136169,56 @@
       "Master's",
       "PhD"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Allstate Insurance Company",
+    "id": "82f0fa31-548a-4f1a-a9a4-4b34b70a6192",
+    "title": "Intern Conversion for 2026 ATS Technology Internship Program - Allstate Technology Solutions",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1758779131,
+    "date_posted": 1758779131,
+    "url": "https://allstate.wd5.myworkdayjobs.com/allstate_careers/job/USA---IL-Remote/XMLNAME-2026-ATS-Technology-Internship-Program--Intern-Conversion_R22107",
+    "locations": [
+      "Northbrook, IL",
+      "Chicago, IL",
+      "Charlotte, NC",
+      "Scottsdale, AZ",
+      "Irving, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Allstate-Insurance-Company",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "Cloudflare",
+    "id": "466d8ec3-5fb9-4056-b10d-540f380781ba",
+    "title": "Product Manager Intern - Go-To-Market Operations",
+    "active": true,
+    "terms": [
+      "Winter 2026",
+      "Spring 2026"
+    ],
+    "date_updated": 1758779015,
+    "date_posted": 1758779015,
+    "url": "https://boards.greenhouse.io/cloudflare/jobs/7249790",
+    "locations": [
+      "Austin, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Cloudflare",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
