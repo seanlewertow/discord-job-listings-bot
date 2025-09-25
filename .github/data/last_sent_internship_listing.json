@@ -137148,5 +137148,56 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Moog ",
+    "id": "535d8a6c-f458-42d2-ad59-5b1613bc7038",
+    "title": "Intern - Software Engineering",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1758802981,
+    "date_posted": 1758802981,
+    "url": "https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Intern--Software-Engineering_R-25-14207",
+    "locations": [
+      "Cheektowaga, NY",
+      "Buffalo, NY"
+    ],
+    "company_url": "https://simplify.jobs/c/Moog",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Pinterest",
+    "id": "d4d241cb-e222-4660-9c19-7fc29579de4f",
+    "title": "PhD Machine Learning Intern 2026 - Multiple Teams",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1758804175,
+    "date_posted": 1758804175,
+    "url": "https://www.pinterestcareers.com/job-form?gh_jid=7211004",
+    "locations": [
+      "Palo Alto, CA",
+      "Seattle, WA",
+      "SF",
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Pinterest",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "PhD"
+    ]
   }
 ]
