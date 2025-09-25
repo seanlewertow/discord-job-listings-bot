@@ -137075,5 +137075,31 @@
     "degrees": [
       "Master's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Pinterest",
+    "id": "93797a91-f6fb-4c8d-ac0c-e5652a8294dc",
+    "title": "Machine Learning Intern - Multiple Teams",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1758800467,
+    "date_posted": 1758800467,
+    "url": "https://www.pinterestcareers.com/job-form?gh_jid=7210896",
+    "locations": [
+      "Palo Alto, CA",
+      "Seattle, WA",
+      "SF",
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Pinterest",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Master's"
+    ]
   }
 ]
