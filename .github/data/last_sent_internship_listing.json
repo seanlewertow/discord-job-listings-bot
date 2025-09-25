@@ -135593,5 +135593,125 @@
     "degrees": [
       "Master's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Ciena",
+    "id": "967fd45e-470f-4af3-b1ee-e210ef9c503d",
+    "title": "Verification Engineer Intern - Multiple Teams",
+    "active": true,
+    "terms": [
+      "Winter 2026"
+    ],
+    "date_updated": 1758763186,
+    "date_posted": 1758763186,
+    "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Atlanta/Verification-Engineer-Intern--Winter-2026-_R028812",
+    "locations": [
+      "Atlanta, GA"
+    ],
+    "company_url": "https://simplify.jobs/c/Ciena",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "Clarios",
+    "id": "04672bcb-6e5b-404a-be2a-e62cd1c5be97",
+    "title": "Marketing and Product Management Intern - Multiple Teams",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1758763041,
+    "date_posted": 1758763041,
+    "url": "https://clarios.wd5.myworkdayjobs.com/clarioscareers/job/United-States-Wisconsin-Milwaukee/US-CAN-Marketing---Product-Management-Intern_WD45109",
+    "locations": [
+      "Milwaukee, WI"
+    ],
+    "company_url": "https://simplify.jobs/c/Clarios",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Marvell",
+    "id": "49ea9836-fd9a-4d34-9f0b-2887497e60bf",
+    "title": "Field Applications Engineer Intern - Multiple Teams",
+    "active": true,
+    "terms": [
+      "Winter 2026",
+      "Spring 2027"
+    ],
+    "date_updated": 1758765654,
+    "date_posted": 1758678957,
+    "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Field-Applications-Engineer-Intern---Bachelor-s-Degree_2502250-1",
+    "locations": [
+      "Santa Clara, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/80961b05-9ed3-462d-aef9-4b418c7fb796",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "NVIDIA",
+    "id": "1b1c110f-664c-4fb4-ad7c-115545eb901e",
+    "title": "Intern - Computer Architecture and Systems Research - Multiple Teams",
+    "active": true,
+    "terms": [
+      "Winter 2025"
+    ],
+    "date_updated": 1758766001,
+    "date_posted": 1756825704,
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-CA-Santa-Clara/NVIDIA-2026-Internships--PhD-Computer-Architecture-and-Systems-Research_JR2003246",
+    "locations": [
+      "Seattle, WA",
+      "Austin, TX",
+      "Santa Clara, CA",
+      "Westford, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/NVIDIA",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "PhD"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "RTX",
+    "id": "ef5257b5-67ba-49e9-84e0-a8050068bfdb",
+    "title": "Software Engineering Intern - Tactical, Communications, and Maintenance Applications",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1758767019,
+    "date_posted": 1758767019,
+    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/HAL31-Huntsville-AL-420-Jan-Davis-Drive---Huntsville-AL-35806-4545-USA/TCMA-Software-Engineering-Intern--Summer-2026---Onsite-_01795151",
+    "locations": [
+      "Huntsville, AL"
+    ],
+    "company_url": "https://simplify.jobs/c/RTX",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
