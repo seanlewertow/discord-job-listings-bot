@@ -137606,5 +137606,28 @@
     "date_posted": 1758827526,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Pinterest",
+    "id": "a4630663-c8ce-402e-9b17-22ecf00cb6a9",
+    "title": "Software Engineer Intern Summer Term 2026 - Toronto",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1758828154,
+    "date_posted": 1758828154,
+    "url": "https://www.pinterestcareers.com/job-form?gh_jid=7257996",
+    "locations": [
+      "Toronto, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Pinterest",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
