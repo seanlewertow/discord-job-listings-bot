@@ -138515,5 +138515,99 @@
     "degrees": [
       "PhD"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Other",
+    "company_name": "L3Harris Technologies",
+    "id": "d8e74e6e-7ec1-438d-ab3f-3608f0732145",
+    "title": "Network Control Intern - Multiple Teams",
+    "active": true,
+    "terms": [
+      "Winter 2025"
+    ],
+    "date_updated": 1758884371,
+    "date_posted": 1758884371,
+    "url": "https://jobs.l3harris.com/job/Melbourne-Network-Control-Intern-(Melbourne,-FL)-FL-32919/1329371200/?ats=successfactors",
+    "locations": [
+      "Melbourne, FL"
+    ],
+    "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Other",
+    "company_name": "Banner Health",
+    "id": "adff3886-ddb7-48bf-bbcf-d18c2980eba6",
+    "title": "IT Intern - Intelligent Automation",
+    "active": true,
+    "terms": [
+      "Winter 2025"
+    ],
+    "date_updated": 1758884124,
+    "date_posted": 1758884124,
+    "url": "https://bannerhealth.wd108.myworkdayjobs.com/Careers/job/Remote-Arizona/IT-Intern_R4420246",
+    "locations": [
+      "Arizona"
+    ],
+    "company_url": "https://simplify.jobs/c/Banner-Health",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Rambus",
+    "id": "30f32a5b-76dd-4ace-8472-5352e3bd5a92",
+    "title": "Product Engineering Intern - Product Engineering",
+    "active": true,
+    "terms": [
+      "Winter 2025"
+    ],
+    "date_updated": 1758884011,
+    "date_posted": 1758884011,
+    "url": "https://careers-rambus.icims.com/jobs/22361/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Rambus",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Rambus",
+    "id": "8e5c43e7-05a6-4746-935b-495159a96309",
+    "title": "Silicon IP Field Application Engineer Intern - Field Application Engineering",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1758884009,
+    "date_posted": 1758305614,
+    "url": "https://careers-rambus.icims.com/jobs/22380/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Rambus",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
   }
 ]
