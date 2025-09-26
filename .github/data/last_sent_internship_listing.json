@@ -138032,5 +138032,51 @@
     "degrees": [
       "Master's"
     ]
+  },
+  {
+    "date_updated": 1758869562,
+    "sponsorship": "Other",
+    "active": true,
+    "degrees": [
+      "Bachelor's"
+    ],
+    "url": "https://bcbsaz.wd1.myworkdayjobs.com/en-US/bcbsazcareers/job/AZ-Blue-Phoenix-AZ-85021/Intern---Analytics-and-Data-Science--Medicaid----Hybrid_R5773",
+    "company_name": "Blue Cross Blue Shield of Arizona",
+    "title": "Analytics and Data Science (Medicaid)",
+    "locations": [
+      "Phoenix, AZ"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "category": "Data Science, AI & Machine Learning",
+    "source": "AlmondCroffle",
+    "id": "45d08152-303f-4c43-aac5-131a5840b407",
+    "date_posted": 1758869562,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1758869670,
+    "sponsorship": "Does Not Offer Sponsorship",
+    "active": true,
+    "degrees": [
+      "Bachelor's"
+    ],
+    "url": "https://ibotta.wd1.myworkdayjobs.com/en-US/ibotta/job/Denver-CO/Machine-Learning-Intern_R-102114",
+    "company_name": "Ibotta",
+    "title": "Machine Learning Intern",
+    "locations": [
+      "Denver, CO"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "category": "Data Science, AI & Machine Learning",
+    "source": "AlmondCroffle",
+    "id": "396c55ef-bc75-45e7-b720-76eb0f7fed54",
+    "date_posted": 1758869670,
+    "company_url": "",
+    "is_visible": true
   }
 ]
