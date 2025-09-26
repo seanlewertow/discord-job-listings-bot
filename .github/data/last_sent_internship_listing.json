@@ -139221,5 +139221,28 @@
     "degrees": [
       "PhD"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Symphony",
+    "id": "0df10b5c-a875-490a-bdfd-861204339dbf",
+    "title": "Intern \u2013 Software Development",
+    "active": true,
+    "terms": [
+      "Winter 2025"
+    ],
+    "date_updated": 1758910436,
+    "date_posted": 1758910436,
+    "url": "https://symphony.com/company/apply?gh_jid=7267903",
+    "locations": [
+      "Belfast, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Symphony-Comm",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
