@@ -138078,5 +138078,121 @@
     "date_posted": 1758869670,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "date_updated": 1758870531,
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "degrees": [
+      "Bachelor's"
+    ],
+    "url": "https://www.ixl.com/company/careers?gh_jid=8182869002",
+    "company_name": "IXL Learning",
+    "title": "Software Engineer",
+    "locations": [
+      "San Mateo, CA"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "category": "Software Engineering",
+    "source": "AlmondCroffle",
+    "id": "64a702fc-e489-4e7d-87c0-5f8e2d11d191",
+    "date_posted": 1758870531,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1758870721,
+    "sponsorship": "Does Not Offer Sponsorship",
+    "active": true,
+    "degrees": [
+      "Bachelor's"
+    ],
+    "url": "https://ibotta.wd1.myworkdayjobs.com/en-US/ibotta/job/Denver-CO/Software-Engineering-Intern_R-102113",
+    "company_name": "Ibotta",
+    "title": "Software Engineering Intern",
+    "locations": [
+      "Denver, CO"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "category": "Software Engineering",
+    "source": "AlmondCroffle",
+    "id": "27b0add1-31cf-4382-b737-4319ff4975c4",
+    "date_posted": 1758870721,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1758870850,
+    "sponsorship": "Does Not Offer Sponsorship",
+    "active": true,
+    "degrees": [
+      "Bachelor's"
+    ],
+    "url": "https://gdit.wd5.myworkdayjobs.com/en-US/gdit_earlytalent/job/USA-MD-Windsor-Mill/Software-Developer-Automation-Intern_RQ207709",
+    "company_name": "GDIT",
+    "title": "Software Developer Automation Intern",
+    "locations": [
+      "Windsor Mill, MD",
+      "Remote in USA"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "category": "Software Engineering",
+    "source": "AlmondCroffle",
+    "id": "aa59a34f-5d74-4ddc-8c13-142929e1192e",
+    "date_posted": 1758870850,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1758870885,
+    "sponsorship": "Does Not Offer Sponsorship",
+    "active": true,
+    "degrees": [
+      "Bachelor's"
+    ],
+    "url": "https://gdit.wd5.myworkdayjobs.com/en-US/gdit_earlytalent/job/USA-VA-Falls-Church/Summer-2026-Software-Development-Internship--_RQ207541",
+    "company_name": "GDIT",
+    "title": "Falls Church, VA",
+    "locations": [
+      "Software Development Internship"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "category": "Software Engineering",
+    "source": "AlmondCroffle",
+    "id": "26e3338d-895c-4ce6-b279-07bd8f4cd72a",
+    "date_posted": 1758870885,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1758871036,
+    "sponsorship": "Other",
+    "active": true,
+    "degrees": [
+      "Bachelor's"
+    ],
+    "url": "http://freseniusmedicalcare.wd3.myworkdayjobs.com/en-US/fme/job/Lawrence-MA-USA/Software-Test-Automation-Engineering-Co-op_R0222626",
+    "company_name": "Fresenius Medical Care",
+    "title": "Software Test Automation Engineering Co-op",
+    "locations": [
+      "Lawrence, MA"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "category": "Software Engineering",
+    "source": "AlmondCroffle",
+    "id": "466ee917-a3ad-4205-8a7a-e69efb4a3877",
+    "date_posted": 1758871036,
+    "company_url": "",
+    "is_visible": true
   }
 ]
