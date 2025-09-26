@@ -138316,5 +138316,75 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Other",
+    "company_name": "Western National Insurance",
+    "id": "91f99604-9f08-44c6-933c-d45bff6dce8f",
+    "title": "IT Desktop Services Intern",
+    "active": true,
+    "terms": [
+      "Winter 2025"
+    ],
+    "date_updated": 1758881703,
+    "date_posted": 1758881703,
+    "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/3601219",
+    "locations": [
+      "Hopkins, MN"
+    ],
+    "company_url": "https://simplify.jobs/c/cde8bc8e-492d-4608-8b82-54dd245a3db0",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Associate's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Qualcomm",
+    "id": "01ff1c6d-d486-41a9-88d0-b2fe0ae58e3a",
+    "title": "Intern - And Sensors Subsystem Engineering Internship - Low-Power AI - Audio",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1758881701,
+    "date_posted": 1758881701,
+    "url": "https://qualcomm.eightfold.ai/careers/job/446714867461",
+    "locations": [
+      "Markham, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Qualcomm",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "American Century Investments",
+    "id": "5da46f91-7094-40e9-9336-d99769e89a1c",
+    "title": "IT Data Intern - Engineering - Analytics and AI/ML",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1758881487,
+    "date_posted": 1758881487,
+    "url": "https://americancentury.wd5.myworkdayjobs.com/en-US/AmericanCenturyInvestments/job/Kansas-City-Missouri/IT-Data-Intern--Engineering--Analytics-and-AI-ML-_R0005430",
+    "locations": [
+      "Kansas City, MO"
+    ],
+    "company_url": "https://simplify.jobs/c/American-Century-Investments",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
   }
 ]
