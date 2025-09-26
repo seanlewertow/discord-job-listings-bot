@@ -138841,5 +138841,29 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "ByteDance",
+    "id": "8918bf71-f4c1-45bb-b462-88aebcf146ac",
+    "title": "Cloud Acceleration Engineer Intern - DPU & AI Infra",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1758902224,
+    "date_posted": 1758902224,
+    "url": "https://jobs.bytedance.com/en/position/7553574360100063496/detail",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/ByteDance",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
   }
 ]
