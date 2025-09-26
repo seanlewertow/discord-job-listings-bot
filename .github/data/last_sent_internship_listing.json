@@ -138795,5 +138795,51 @@
       "Bachelor's",
       "MBA"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "ONE Finance",
+    "id": "239bf7a5-7b43-4238-9f77-1625ee5f6d40",
+    "title": "AI Research Intern",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1758899789,
+    "date_posted": 1758899789,
+    "url": "https://jobs.ashbyhq.com/oneapp/d018ba22-f5ec-48d0-9940-fea52877316c/application",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/One-Finance",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Ontario Teachers' Pension Plan",
+    "id": "29b13077-2306-4e25-93e0-5dd3c9fa48eb",
+    "title": "Intern - Programming & Quantitative Modelling - Risk",
+    "active": true,
+    "terms": [
+      "Fall 2026"
+    ],
+    "date_updated": 1758899124,
+    "date_posted": 1758899124,
+    "url": "https://otppb.wd3.myworkdayjobs.com/OntarioTeachers_Careers/job/Toronto-Canada/Intern---Programming---Quantitative-Modelling--Risk--September-2026---12-months-_6676",
+    "locations": [
+      "Toronto, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Ontario-Teachers-Pension-Plan",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
