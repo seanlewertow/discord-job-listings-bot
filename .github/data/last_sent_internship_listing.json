@@ -138632,5 +138632,74 @@
     "degrees": [
       "Master's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Other",
+    "company_name": "Symphony",
+    "id": "e66f66da-812e-4b70-acc9-949587e27022",
+    "title": "Technical Support Intern",
+    "active": true,
+    "terms": [
+      "Winter 2025"
+    ],
+    "date_updated": 1758887795,
+    "date_posted": 1758887795,
+    "url": "https://symphony.com/company/apply?gh_jid=7267865",
+    "locations": [
+      "Belfast, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Symphony-Comm",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Pendo",
+    "id": "9986e19e-2aa4-4444-8137-928c2cdd40da",
+    "title": "Software Engineer Intern - Multiple Teams",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1758888601,
+    "date_posted": 1758888601,
+    "url": "https://job-boards.greenhouse.io/pendo/jobs/8185867002",
+    "locations": [
+      "Raleigh, NC"
+    ],
+    "company_url": "https://simplify.jobs/c/Pendo",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Other",
+    "company_name": "Pendo",
+    "id": "723dbf18-5553-444e-a6ff-3cbdd2bd68bb",
+    "title": "Security Engineer Intern - Summer 2026",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1758888600,
+    "date_posted": 1758888600,
+    "url": "https://job-boards.greenhouse.io/pendo/jobs/8185903002",
+    "locations": [
+      "Raleigh, NC"
+    ],
+    "company_url": "https://simplify.jobs/c/Pendo",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
