@@ -30914,5 +30914,95 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "date_updated": 1758868830,
+    "sponsorship": "U.S. Citizenship is Required",
+    "active": true,
+    "degrees": [],
+    "url": "https://swa.wd1.myworkdayjobs.com/en-US/external/job/TX-Dallas/Associate-Data-Engineer---Direct-College-Hire_R-2025-59816",
+    "company_name": "Southwest Airlines",
+    "title": "Associate Data Engineer",
+    "locations": [
+      "Dallas, TX"
+    ],
+    "category": "Data Science, AI & Machine Learning",
+    "source": "AlmondCroffle",
+    "id": "fd78602f-e1ba-444e-a3ee-30ce6c64e479",
+    "date_posted": 1758868830,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1758868913,
+    "sponsorship": "Other",
+    "active": true,
+    "degrees": [],
+    "url": "https://bloomberg.wd1.myworkdayjobs.com/en-US/Bloombergindustrygroup_External_Career_Site/job/Arlington---1801-S-Bell-INDG/Software-Engineering-Associate_137893",
+    "company_name": "Bloomberg",
+    "title": "Software Engineering Associate",
+    "locations": [
+      "Arlington, VA"
+    ],
+    "category": "Software Engineering",
+    "source": "AlmondCroffle",
+    "id": "61cf0f69-c461-4d69-8d66-a38e0793f155",
+    "date_posted": 1758868913,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1758868962,
+    "sponsorship": "Other",
+    "active": true,
+    "degrees": [],
+    "url": "https://bloomberg.wd1.myworkdayjobs.com/en-US/Bloombergindustrygroup_External_Career_Site/job/Arlington---1801-S-Bell-INDG/Software-Engineering-Associate_137895",
+    "company_name": "Bloomberg",
+    "title": "Software Engineering Associate",
+    "locations": [
+      "Arlington, VA"
+    ],
+    "category": "Software Engineering",
+    "source": "AlmondCroffle",
+    "id": "b99326c9-d40e-4238-909c-ae297aa406ae",
+    "date_posted": 1758868962,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1758869022,
+    "sponsorship": "Other",
+    "active": true,
+    "degrees": [],
+    "url": "https://bloomberg.wd1.myworkdayjobs.com/en-US/Bloombergindustrygroup_External_Career_Site/job/Arlington---1801-S-Bell-INDG/Software-Engineering-Associate_137894",
+    "company_name": "Bloomber",
+    "title": "Software Engineering Associate",
+    "locations": [
+      "Arlington, VA"
+    ],
+    "category": "Software Engineering",
+    "source": "AlmondCroffle",
+    "id": "7461ea90-d24b-4386-96da-74a96591f64c",
+    "date_posted": 1758869022,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1758869050,
+    "sponsorship": "Other",
+    "active": true,
+    "degrees": [],
+    "url": "https://bloomberg.wd1.myworkdayjobs.com/en-US/Bloombergindustrygroup_External_Career_Site/job/Arlington---1801-S-Bell-INDG/Software-Engineerinng-Associate_137898",
+    "company_name": "Bloomberg",
+    "title": "Software Engineering Associate",
+    "locations": [
+      "Arlington, VA"
+    ],
+    "category": "Software Engineering",
+    "source": "AlmondCroffle",
+    "id": "aca440de-1ade-458a-b97a-875f3a52cbbb",
+    "date_posted": 1758869050,
+    "company_url": "",
+    "is_visible": true
   }
 ]
