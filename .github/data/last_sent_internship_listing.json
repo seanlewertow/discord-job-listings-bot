@@ -138293,5 +138293,28 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "RESPEC",
+    "id": "1168a44b-3215-4f61-b484-7f14838fd4ca",
+    "title": "Student Software Engineering Intern",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1758876121,
+    "date_posted": 1758876121,
+    "url": "https://jobs.smartrecruiters.com/RESPECInc/744000083769455",
+    "locations": [
+      "Richardson, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/RESPEC",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
