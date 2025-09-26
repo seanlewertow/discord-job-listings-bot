@@ -139368,5 +139368,75 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Other",
+    "company_name": "Ciena",
+    "id": "3ef0ff32-f069-4010-b097-5dfe1a9c9244",
+    "title": "Development Engineer - Security Engineering Intern/Co-op - Security Engineering",
+    "active": true,
+    "terms": [
+      "Winter 2026"
+    ],
+    "date_updated": 1758915905,
+    "date_posted": 1758915905,
+    "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Development-Engine---Security-Engineering-Co-Op--Winter-2026-_R029076",
+    "locations": [
+      "Ottawa, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Ciena",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Ciena",
+    "id": "1c22fb7e-8b82-4fc7-820a-315441bbfe6d",
+    "title": "Photonic Card Software Developer Intern/Co-op - Multiple Teams",
+    "active": true,
+    "terms": [
+      "Winter 2026"
+    ],
+    "date_updated": 1758915895,
+    "date_posted": 1758915895,
+    "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Photonic-Card-Software-Developer-Co-Op--January-2026-_R029059",
+    "locations": [
+      "Ottawa, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Ciena",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Clarios",
+    "id": "c5e72a87-9949-4b4b-bd20-5f32d06a9a37",
+    "title": "Data Science Intern - Multiple Teams",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1758915574,
+    "date_posted": 1758915574,
+    "url": "https://clarios.wd5.myworkdayjobs.com/clarioscareers/job/United-States-Wisconsin-Milwaukee/Data-Science-Intern--Summer-2026-_WD45305",
+    "locations": [
+      "Milwaukee, WI"
+    ],
+    "company_url": "https://simplify.jobs/c/Clarios",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
