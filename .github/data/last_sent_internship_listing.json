@@ -139438,5 +139438,54 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Other",
+    "company_name": "Autodesk",
+    "id": "f5a8ae2a-182c-408d-b86d-8192eb986cbc",
+    "title": "Intern - Data Security - Data Security",
+    "active": true,
+    "terms": [
+      "Winter 2026",
+      "Summer 2026"
+    ],
+    "date_updated": 1758916770,
+    "date_posted": 1758916770,
+    "url": "https://autodesk.wd1.myworkdayjobs.com/en-US/uni/job/Toronto-ON-CAN/Intern--Data-Security_25WD91658-1",
+    "locations": [
+      "Toronto, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Autodesk",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Carollo Engineers",
+    "id": "87affda7-6731-4b09-9c65-544b10d7a2bd",
+    "title": "Web App Development Intern - Software Development",
+    "active": true,
+    "terms": [
+      "Winter 2025"
+    ],
+    "date_updated": 1758916753,
+    "date_posted": 1758804137,
+    "url": "https://careers-carollo.icims.com/jobs/4133/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Phoenix, AZ"
+    ],
+    "company_url": "https://simplify.jobs/c/Carollo-Engineers",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
   }
 ]
