@@ -139487,5 +139487,122 @@
       "Bachelor's",
       "Master's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Rambus",
+    "id": "04ff1436-4e1a-4757-b45e-a024e12a5a72",
+    "title": "Intern CAD Engineering - CAD Engineering",
+    "active": true,
+    "terms": [
+      "Winter 2025"
+    ],
+    "date_updated": 1758917445,
+    "date_posted": 1758917445,
+    "url": "https://careers-rambus.icims.com/jobs/22360/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "San Jose, CA",
+      "Westlake Village, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Rambus",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Rambus",
+    "id": "00498252-d277-48fb-a643-074fe8a55a7b",
+    "title": "Data and AI Intern - IT",
+    "active": true,
+    "terms": [
+      "Winter 2025"
+    ],
+    "date_updated": 1758917444,
+    "date_posted": 1758917444,
+    "url": "https://careers-rambus.icims.com/jobs/22378/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Rambus",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Other",
+    "company_name": "Trend Micro",
+    "id": "4e5f0a43-465b-4f8b-b04b-8cb09ab2fa26",
+    "title": "Vulnerability Research Intern - Multiple Teams",
+    "active": true,
+    "terms": [
+      "Winter 2026"
+    ],
+    "date_updated": 1758917130,
+    "date_posted": 1758917130,
+    "url": "https://trendmicro.wd3.myworkdayjobs.com/External/job/Toronto/Vulnerability-Research-Intern---Winter-2026_R0008256",
+    "locations": [
+      "Toronto, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Trend-Micro",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Novanta",
+    "id": "1a35bb4a-d134-4c90-a325-52c235fc8c45",
+    "title": "Engineering Intern - ATI Industrial Automation",
+    "active": true,
+    "terms": [
+      "Winter 2025"
+    ],
+    "date_updated": 1758917272,
+    "date_posted": 1758917272,
+    "url": "https://novanta.wd5.myworkdayjobs.com/Novanta-Careers/job/Apex-NC/Engineering-Co-op_R008530",
+    "locations": [
+      "Apex, NC"
+    ],
+    "company_url": "https://simplify.jobs/c/Novanta",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Other",
+    "company_name": "Trend Micro",
+    "id": "08421ed0-dbfa-47bb-9ab3-d49e3fadda6d",
+    "title": "Research and Development Intern - Multiple Teams",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1758917129,
+    "date_posted": 1758917129,
+    "url": "https://trendmicro.wd3.myworkdayjobs.com/External/job/Austin/Research---Development-Intern---Summer-2026_R0008261",
+    "locations": [
+      "Austin, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Trend-Micro",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
