@@ -138865,5 +138865,75 @@
       "Bachelor's",
       "Master's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": " PrizePicks",
+    "id": "b9217f45-120d-410c-8100-1d5986a7faf6",
+    "title": "Software Engineering Internship - Multiple Teams",
+    "active": true,
+    "terms": [
+      "Spring 2026"
+    ],
+    "date_updated": 1758902932,
+    "date_posted": 1758902932,
+    "url": "http://prizepicks.com/position?gh_jid=7382692003",
+    "locations": [
+      "Atlanta, GA"
+    ],
+    "company_url": "https://simplify.jobs/c/PrizePicks",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Other",
+    "company_name": "Honeywell",
+    "id": "2eeff11a-3d35-4f5d-910b-6e3c6482f5a2",
+    "title": "IT Business Systems Analyst Intern - Future IT Leaders",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1758902897,
+    "date_posted": 1758902897,
+    "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/jobs/job/114348",
+    "locations": [
+      "United States"
+    ],
+    "company_url": "https://simplify.jobs/c/Honeywell",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Symphony",
+    "id": "c7e53538-2dfa-4ff1-a6d1-dda3d6d61edb",
+    "title": "Intern \u2013 Software Development",
+    "active": true,
+    "terms": [
+      "Winter 2025"
+    ],
+    "date_updated": 1758904323,
+    "date_posted": 1758904323,
+    "url": "https://symphony.com/company/apply?gh_jid=7267890",
+    "locations": [
+      "Belfast, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Symphony-Comm",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
