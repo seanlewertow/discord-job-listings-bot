@@ -141428,5 +141428,77 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Zipline",
+    "id": "c2fb566f-a76f-45e7-88a3-59f1c4104f57",
+    "title": "Build Engineer Intern - Developer Productivity",
+    "active": true,
+    "terms": [
+      "Spring 2026"
+    ],
+    "date_updated": 1759005711,
+    "date_posted": 1759005711,
+    "url": "https://www.flyzipline.com/careers/open-roles?gh_jid=7479682003",
+    "locations": [
+      "San Bruno, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Zipline",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "PhD"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Zipline",
+    "id": "53295a53-53da-40b9-96e3-1382659dc091",
+    "title": "Droid Autonomy Validation Intern - Droid Autonomy",
+    "active": true,
+    "terms": [
+      "Winter 2026",
+      "Spring 2026"
+    ],
+    "date_updated": 1759005711,
+    "date_posted": 1759005711,
+    "url": "https://www.flyzipline.com/careers/open-roles?gh_jid=7479994003",
+    "locations": [
+      "San Bruno, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Zipline",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Zipline",
+    "id": "bd67c985-29c2-421b-80d5-c795a36cc548",
+    "title": "Embedded Engineering Intern - Embedded Systems",
+    "active": true,
+    "terms": [
+      "Spring 2026"
+    ],
+    "date_updated": 1759006390,
+    "date_posted": 1759006390,
+    "url": "https://www.flyzipline.com/careers/open-roles?gh_jid=7479637003",
+    "locations": [
+      "San Bruno, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Zipline",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
