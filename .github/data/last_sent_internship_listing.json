@@ -140520,5 +140520,74 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Other",
+    "company_name": "Meta",
+    "id": "2742b44f-9726-4458-a539-729522c6f57f",
+    "title": "Detection & Response Security Engineer \u2013 Intern - Security Operations - Incident Response",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1758980476,
+    "date_posted": 1758980476,
+    "url": "https://www.metacareers.com/jobs/1141276924732799",
+    "locations": [
+      "London, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Meta",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Compassion International",
+    "id": "4cad432e-56cc-4915-9946-5e7cf1ae625a",
+    "title": "Internship - IT and Software Engineering",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1758980430,
+    "date_posted": 1758980430,
+    "url": "https://compassion.wd5.myworkdayjobs.com/compassioncareers/job/Colorado-Springs-CO/XMLNAME-2026-Summer-Internship---IT-and-Software-Engineering_R7446",
+    "locations": [
+      "Colorado Springs, CO"
+    ],
+    "company_url": "https://simplify.jobs/c/f361c9fd-09f7-4be4-a4c7-7bac1f39e690",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Wex",
+    "id": "0f414b58-e116-4952-8ab8-a7ec19c3e378",
+    "title": "Intern \u2013 Graduate Students Only - Software Engineer",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1758980463,
+    "date_posted": 1758980463,
+    "url": "https://wexinc.wd5.myworkdayjobs.com/en-US/WEXInc/job/US---Remote/Intern---Software-Engineer--Graduate-Students-Only-_R19197-1",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/788246ec-e89c-499a-bb15-9a02acb178a9",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Master's"
+    ]
   }
 ]
