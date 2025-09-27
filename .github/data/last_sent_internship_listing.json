@@ -140374,5 +140374,77 @@
       "Bachelor's",
       "Master's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "FOX",
+    "id": "89a0147b-18d1-4747-bdf8-14ea96474cbc",
+    "title": "Internship Program - Multiple Teams",
+    "active": true,
+    "terms": [
+      "Spring 2026"
+    ],
+    "date_updated": 1758974710,
+    "date_posted": 1758974710,
+    "url": "https://fox.wd1.myworkdayjobs.com/Domestic/job/Los-Angeles-California-USA/Spring-2026-FOX-Technology-Internship-Program---Los-Angeles--CA_R50030139",
+    "locations": [
+      "LA"
+    ],
+    "company_url": "https://simplify.jobs/c/Fox",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "FOX",
+    "id": "78f2ac36-fd10-4b4b-8401-1cddb50de103",
+    "title": "Business Operations Intern/Co-op - Data Analytics",
+    "active": true,
+    "terms": [
+      "Spring 2026"
+    ],
+    "date_updated": 1758974681,
+    "date_posted": 1758974681,
+    "url": "https://fox.wd1.myworkdayjobs.com/Domestic/job/New-York-New-York-USA/Spring-2026-FOX-News-Media-Internship-Program---Data-Analytics---New-York_R50030066",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Fox",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "FOX",
+    "id": "50e58185-928e-42fb-b6d2-6afc63aff823",
+    "title": "Internship Program - Multiple Teams",
+    "active": true,
+    "terms": [
+      "Spring 2026"
+    ],
+    "date_updated": 1758974711,
+    "date_posted": 1758974711,
+    "url": "https://fox.wd1.myworkdayjobs.com/Domestic/job/USA---AZ---Tempe---2010-E-Centennial-Cir/Spring-2026-FOX-Technology-Internship-Program---Tempe--AZ_R50030141",
+    "locations": [
+      "Tempe, AZ"
+    ],
+    "company_url": "https://simplify.jobs/c/Fox",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
   }
 ]
