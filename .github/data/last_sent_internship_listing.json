@@ -141500,5 +141500,32 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Geosyntec Consultants",
+    "id": "1d0d67ae-ea85-4114-af48-cbebc81aeafb",
+    "title": "GIS and Geospatial Data Intern",
+    "active": true,
+    "terms": [
+      "Winter 2025"
+    ],
+    "date_updated": 1759007933,
+    "date_posted": 1759007933,
+    "url": "https://careers-geosyntec.icims.com/jobs/3936/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Davis, CA",
+      "Oakland, CA",
+      "Reno, NV",
+      "Walnut Creek, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Geosyntec-Consultants",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
   }
 ]
