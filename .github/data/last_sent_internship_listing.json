@@ -140759,5 +140759,54 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "The Boeing Company",
+    "id": "6f1b904e-0c0a-4346-b2d9-706ba0241e47",
+    "title": "Software Engineering Artificial Intelligence Intern - Graduate Researcher Program",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1758986102,
+    "date_posted": 1758986102,
+    "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Tukwila-WA/Boeing-Technology-Innovation---Graduate-Researcher-Program---Software-Engineering-Artificial-Intelligence-Intern_JR2025472845",
+    "locations": [
+      "Seattle, WA",
+      "Tukwila, WA"
+    ],
+    "company_url": "https://simplify.jobs/c/Boeing",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "PhD"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Zipline",
+    "id": "ab84e114-7f8f-4e22-bd15-e2af65daf117",
+    "title": "Data Scientist Intern - Software Integration",
+    "active": true,
+    "terms": [
+      "Winter 2026",
+      "Spring 2026"
+    ],
+    "date_updated": 1758985819,
+    "date_posted": 1758985819,
+    "url": "https://www.flyzipline.com/careers/open-roles?gh_jid=7480013003",
+    "locations": [
+      "San Bruno, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Zipline",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
   }
 ]
