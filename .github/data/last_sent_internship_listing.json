@@ -141600,5 +141600,29 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Dun & Bradstreet",
+    "id": "8edf6455-3ed9-4f4b-be8c-9dcd4d92863d",
+    "title": "Internship Program - Data & Analytics",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1759012330,
+    "date_posted": 1759012330,
+    "url": "https://jobs.lever.co/dnb/a1b2fa28-5972-48d4-8089-0fcf2259bab0/apply",
+    "locations": [
+      "Jacksonville, FL"
+    ],
+    "company_url": "https://simplify.jobs/c/Dun-and-Bradstreet",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
   }
 ]
