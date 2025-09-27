@@ -31440,5 +31440,25 @@
       "Bachelor's",
       "Master's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Sonepar",
+    "id": "d1936b00-4b8f-4cae-8b42-e5661e87bb7a",
+    "title": "Junior Data Engineer",
+    "active": true,
+    "date_updated": 1759000989,
+    "date_posted": 1759000989,
+    "url": "https://career.sonepar.com/job/Jackson-Junior-Data-Engineer-MS-39201/1212241101/?ats=successfactors",
+    "locations": [
+      "Jackson, MS"
+    ],
+    "company_url": "https://simplify.jobs/c/Sonepar",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
