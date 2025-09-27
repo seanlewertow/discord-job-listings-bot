@@ -139888,5 +139888,78 @@
     "degrees": [
       "Master's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Trend Micro",
+    "id": "38402f7f-4e24-444f-a0f2-488121b1b121",
+    "title": "Software Developer Intern/Co-op - Cloud One R&D",
+    "active": true,
+    "terms": [
+      "Winter 2026"
+    ],
+    "date_updated": 1758962558,
+    "date_posted": 1758962558,
+    "url": "https://trendmicro.wd3.myworkdayjobs.com/External/job/Ottawa/Software-Developer-Co-Op---Winter-2026_R0008259",
+    "locations": [
+      "Ottawa, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Trend-Micro",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Harris Computer",
+    "id": "f9942c43-8e56-4b17-adee-b67fc9c96511",
+    "title": "Software Development and AI Intern - Co-op - R&D - AI",
+    "active": true,
+    "terms": [
+      "Fall 2025",
+      "Winter 2026"
+    ],
+    "date_updated": 1758962170,
+    "date_posted": 1758962170,
+    "url": "https://harriscomputer.wd3.myworkdayjobs.com/1/job/British-Columbia-Canada/Software-Development---AI-Intern--Co-op-_R0032207-1",
+    "locations": [
+      "Remote in Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Harris-Computer",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Microsoft",
+    "id": "56ef0305-2016-4a5e-b102-c19b941ac15b",
+    "title": "Research Intern - RiSE Group - Multiple Teams",
+    "active": true,
+    "terms": [
+      "Summer 2025",
+      "Fall 2025",
+      "Spring 2025"
+    ],
+    "date_updated": 1758962159,
+    "date_posted": 1758962159,
+    "url": "https://jobs.careers.microsoft.com/global/en/job/1883443",
+    "locations": [
+      "Redmond, WA"
+    ],
+    "company_url": "https://simplify.jobs/c/Microsoft",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "PhD"
+    ]
   }
 ]
