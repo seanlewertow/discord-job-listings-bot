@@ -139865,5 +139865,28 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "American Express",
+    "id": "a9185fa1-42d8-4acf-af0a-12e47ab85e20",
+    "title": "Campus Graduate Summer Internship Program - Product Development",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1758960960,
+    "date_posted": 1758960960,
+    "url": "https://aexp.eightfold.ai/careers/job/38206900",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/American-Express",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Master's"
+    ]
   }
 ]
