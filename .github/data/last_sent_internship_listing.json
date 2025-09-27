@@ -141381,5 +141381,29 @@
       "Bachelor's",
       "Master's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "Zebra Technologies",
+    "id": "da4a1baa-82e7-43ba-9c0f-b4193bd9d65f",
+    "title": "Business Operations Intern/Co-op - Product Management - Corporate and Business Services",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1759004156,
+    "date_posted": 1756862190,
+    "url": "https://zebra.eightfold.ai/careers/job/343627951084",
+    "locations": [
+      "Lake Grove, NY"
+    ],
+    "company_url": "https://simplify.jobs/c/Zebra-Technologies",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
   }
 ]
