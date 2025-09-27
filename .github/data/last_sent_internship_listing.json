@@ -141527,5 +141527,55 @@
       "Bachelor's",
       "Master's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Other",
+    "company_name": "The Boeing Company",
+    "id": "9f21610e-a981-4434-b420-4e8f7b13a6ca",
+    "title": "Internship Program - Information Digital Technology & Security",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1759009394,
+    "date_posted": 1759009394,
+    "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Everett-WA/Boeing-Summer-2026-Internship-Program--Paid----Information-Digital-Technology---Security--IDT-S-_JR2025469144-1",
+    "locations": [
+      "Seattle, WA",
+      "Chester, PA",
+      "Long Beach, CA",
+      "Mesa, AZ",
+      "Colorado Springs, CO",
+      "Dallas, TX",
+      "Fairfax, VA",
+      "Plano, TX",
+      "Chicago, IL",
+      "Seal Beach, CA",
+      "Tukwila, WA",
+      "St Charles, MO",
+      "San Antonio, TX",
+      "Arlington, VA",
+      "Everett, WA",
+      "Auburn, WA",
+      "Reston, VA",
+      "Oklahoma City, OK",
+      "Kent, WA",
+      "Charleston, SC",
+      "Bellevue, WA",
+      "Atlanta, GA",
+      "Huntsville, AL",
+      "North Charleston, SC",
+      "Huntington Beach, CA",
+      "Hazelwood, MO",
+      "Mukilteo, WA",
+      "El Segundo, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Boeing",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
