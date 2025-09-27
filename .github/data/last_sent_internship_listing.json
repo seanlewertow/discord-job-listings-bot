@@ -141233,5 +141233,28 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Chatham Financial",
+    "id": "f52c5d61-2223-415f-bee0-3b4067823a9b",
+    "title": "Software Engineer Intern - Multiple Teams",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1758997437,
+    "date_posted": 1758997437,
+    "url": "https://job-boards.greenhouse.io/chathamfinancial/jobs/7277698",
+    "locations": [
+      "Centennial, CO"
+    ],
+    "company_url": "https://simplify.jobs/c/Chatham-Financial",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
