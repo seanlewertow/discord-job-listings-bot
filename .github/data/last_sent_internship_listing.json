@@ -140808,5 +140808,52 @@
       "Bachelor's",
       "Master's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Intact",
+    "id": "ac213cce-6d8d-400b-bdb8-56923b0d3338",
+    "title": "IT Architect 1 Internship/Co-op - Enterprise Architecture",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1758986738,
+    "date_posted": 1758986738,
+    "url": "https://intactfc.wd3.myworkdayjobs.com/en-US/intactfc/job/Montral-Quebec-CAN/Architect-TI-I--MTL----16-mois-Stage-Coop--t-2026-_R149140",
+    "locations": [
+      "Montreal, QC, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Intact",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "GlobalFoundries",
+    "id": "0408747a-1acb-4b7f-a2fe-4b4169f5b046",
+    "title": "Customer Engineering Intern - Customer Engineering",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1758986829,
+    "date_posted": 1758986829,
+    "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Customer-Engineering-Intern--Summer-2026-_JR-2502787",
+    "locations": [
+      "Malta, NY"
+    ],
+    "company_url": "https://simplify.jobs/c/GlobalFoundries",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
   }
 ]
