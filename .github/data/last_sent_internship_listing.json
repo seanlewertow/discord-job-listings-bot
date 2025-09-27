@@ -141256,5 +141256,58 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Moloco",
+    "id": "d0b3cb7e-7b34-44cc-8ca1-4b0d90082466",
+    "title": "Software Engineer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2026",
+      "Fall 2026"
+    ],
+    "date_updated": 1758998288,
+    "date_posted": 1758998288,
+    "url": "https://job-boards.greenhouse.io/moloco/jobs/7473817003",
+    "locations": [
+      "Seattle, WA",
+      "San Carlos, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Moloco",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "PhD"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Moloco",
+    "id": "092cd573-b924-423b-b5be-217fe894be72",
+    "title": "Data Science Intern - Data Science and Analytics",
+    "active": true,
+    "terms": [
+      "Summer 2026",
+      "Fall 2026"
+    ],
+    "date_updated": 1758998285,
+    "date_posted": 1758998285,
+    "url": "https://job-boards.greenhouse.io/moloco/jobs/7472531003",
+    "locations": [
+      "San Carlos, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Moloco",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "PhD"
+    ]
   }
 ]
