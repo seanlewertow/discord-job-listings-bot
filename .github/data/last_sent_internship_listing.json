@@ -140301,5 +140301,53 @@
       "Bachelor's",
       "Master's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Leidos",
+    "id": "d282e0c7-6e2f-4a60-8b5c-b3a969164097",
+    "title": "Software Engineer Intern - Multiple Teams",
+    "active": true,
+    "terms": [
+      "Spring 2027",
+      "Fall 2027"
+    ],
+    "date_updated": 1758969571,
+    "date_posted": 1758969571,
+    "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Reston-VA/Software-Engineer-Intern--Spring---Fall-2027-_R-00167584",
+    "locations": [
+      "Reston, VA"
+    ],
+    "company_url": "https://simplify.jobs/c/Leidos",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Leidos",
+    "id": "8563617f-9dbf-4347-9bb7-8d972bac5b47",
+    "title": "Software Engineer Intern - Multiple Teams",
+    "active": true,
+    "terms": [
+      "Spring 2026",
+      "Fall 2026"
+    ],
+    "date_updated": 1758969573,
+    "date_posted": 1758969573,
+    "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Reston-VA/Software-Engineer-Intern--Spring---Fall-2026-_R-00167404",
+    "locations": [
+      "Reston, VA"
+    ],
+    "company_url": "https://simplify.jobs/c/Leidos",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
