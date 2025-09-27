@@ -141044,5 +141044,53 @@
     "degrees": [
       "PhD"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "The Boeing Company",
+    "id": "4770c969-2e77-4c1f-963b-b20e18643c4e",
+    "title": "Artificial Intelligence Intern - Graduate Researcher Program - Artificial Intelligence",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1758991409,
+    "date_posted": 1758991409,
+    "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Huntsville-AL/Boeing-Artificial-Intelligence---Graduate-Researcher-Program---Artificial-Intelligence-Intern_JR2025474445",
+    "locations": [
+      "Seattle, WA",
+      "St. Louis, MO",
+      "Huntsville, AL"
+    ],
+    "company_url": "https://simplify.jobs/c/Boeing",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "PhD"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "AbbVie",
+    "id": "e4a9f1ac-b4db-42f8-b503-a2547b3d4355",
+    "title": "Business Technology Solutions Intern - Software Engineering",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1758990845,
+    "date_posted": 1758990845,
+    "url": "https://jobs.smartrecruiters.com/AbbVie/3743990009655358",
+    "locations": [
+      "Waukegan, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/AbbVie",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
