@@ -140736,5 +140736,28 @@
       "Master's",
       "PhD"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Other",
+    "company_name": "General Dynamics Mission Systems",
+    "id": "7c0dcf7e-6a3e-4d34-91b0-614594db7069",
+    "title": "Cybersecurity Systems Engineer Intern - Multiple Teams",
+    "active": true,
+    "terms": [
+      "Winter 2025"
+    ],
+    "date_updated": 1758983818,
+    "date_posted": 1758983818,
+    "url": "https://careers-gdms.icims.com/jobs/68215/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Pittsfield, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/General-Dynamics-Mission-Systems",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
