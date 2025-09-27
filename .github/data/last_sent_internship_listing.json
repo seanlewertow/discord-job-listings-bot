@@ -141309,5 +141309,77 @@
       "Master's",
       "PhD"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "AbbVie",
+    "id": "b8811c4b-1eec-4ab8-8546-9ceab1e2313a",
+    "title": "Business Technology Solutions Intern - Data",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1759000071,
+    "date_posted": 1759000071,
+    "url": "https://jobs.smartrecruiters.com/AbbVie/3743990009655786",
+    "locations": [
+      "Waukegan, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/AbbVie",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Other",
+    "company_name": "Meta",
+    "id": "4ad39ff0-e3f8-4854-8625-fc386a0a9821",
+    "title": "Data Center Production Operations Engineering Intern",
+    "active": true,
+    "terms": [
+      "Winter 2025"
+    ],
+    "date_updated": 1759000033,
+    "date_posted": 1759000033,
+    "url": "https://www.metacareers.com/jobs/798271609275977",
+    "locations": [
+      "Fort Worth, TX",
+      "Huntsville, AL"
+    ],
+    "company_url": "https://simplify.jobs/c/Meta",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Associate's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": " PrizePicks",
+    "id": "3deda11f-68ab-4b7c-921f-be192869df9e",
+    "title": "Machine Learning Engineer Intern - Multiple Teams",
+    "active": true,
+    "terms": [
+      "Spring 2026"
+    ],
+    "date_updated": 1758999967,
+    "date_posted": 1758999967,
+    "url": "http://prizepicks.com/position?gh_jid=7140147003",
+    "locations": [
+      "Atlanta, GA"
+    ],
+    "company_url": "https://simplify.jobs/c/PrizePicks",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
   }
 ]
