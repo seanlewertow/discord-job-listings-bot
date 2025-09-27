@@ -141577,5 +141577,28 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Charles Schwab",
+    "id": "cbb1b94d-d4d2-4016-ae2e-f63868565c25",
+    "title": "Investor Services Intern - Trading and Retail",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1759011105,
+    "date_posted": 1759011105,
+    "url": "https://career-schwab.icims.com/jobs/114755/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Austin, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Charles-Schwab",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
