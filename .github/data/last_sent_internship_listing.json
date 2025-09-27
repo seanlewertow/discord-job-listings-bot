@@ -140711,5 +140711,30 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Other",
+    "company_name": "Intact",
+    "id": "a9eb41a5-a342-432a-9682-866cbfc9e2dd",
+    "title": "IT Intern - 16-month Internship/Coop - Summer 2026",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1758983310,
+    "date_posted": 1758983310,
+    "url": "https://intactfc.wd3.myworkdayjobs.com/en-US/intactfc/job/Toronto-Ontario-CAN/IT-Intern---16-month-Internship-Coop--Summer-2026-_R149141",
+    "locations": [
+      "Toronto, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Intact",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "PhD"
+    ]
   }
 ]
