@@ -141836,5 +141836,28 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "CIBC",
+    "id": "effc5408-c848-4797-ab56-62a17f09dee9",
+    "title": "Product Consultant Co-op - Deposits and Payments",
+    "active": true,
+    "terms": [
+      "Winter 2026"
+    ],
+    "date_updated": 1759087387,
+    "date_posted": 1759087387,
+    "url": "https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Product-Consultant--Deposits-and-Payments---Winter-2026-Co-op_2522482",
+    "locations": [
+      "Toronto, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/CIBC",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "MBA"
+    ]
   }
 ]
