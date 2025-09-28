@@ -141674,5 +141674,98 @@
     "degrees": [
       "PhD"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Other",
+    "company_name": "The Boeing Company",
+    "id": "82150c3a-b793-4883-8f26-984afdf34b99",
+    "title": "Graduate Researcher Intern - Platform Cyber",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1759022661,
+    "date_posted": 1759022661,
+    "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Fairfax-VA/Boeing-Technology-Innovation-Graduate-Researcher-Program----Platform-Cyber-Intern_JR2025470180",
+    "locations": [
+      "Fairfax, VA"
+    ],
+    "company_url": "https://simplify.jobs/c/Boeing",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Master's",
+      "PhD"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Other",
+    "company_name": "Dominion Energy",
+    "id": "a44685a2-4a63-4d65-86fb-36ac4c25427a",
+    "title": "IT Intern \u2013 AI & Emerging Technologies",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1759024843,
+    "date_posted": 1759024843,
+    "url": "https://careers.dominionenergy.com/job/RICHMOND-IT-Intern-AI-&-Emerging-Technologies-VA-23219/1329913500/?ats=successfactors",
+    "locations": [
+      "Richmond, VA"
+    ],
+    "company_url": "https://simplify.jobs/c/Dominion-Energy",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "CIBC",
+    "id": "92caa5d9-055c-4fee-96d2-0302f0b3cbd5",
+    "title": "Digital Product Specialist Intern/Co-op - Sales Origination Product Delivery",
+    "active": true,
+    "terms": [
+      "Winter 2026"
+    ],
+    "date_updated": 1759024119,
+    "date_posted": 1759024119,
+    "url": "https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Digital-Product-Specialist-Co-op--Winter-2026_2522475",
+    "locations": [
+      "Toronto, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/CIBC",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "MBA"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "General Dynamics Mission Systems",
+    "id": "1b6e7bdc-7fb2-4376-bb8f-b28b57493217",
+    "title": "Software Engineering Intern - Multiple Teams",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1759026583,
+    "date_posted": 1759026583,
+    "url": "https://careers-gdms.icims.com/jobs/67996/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Manassas, VA"
+    ],
+    "company_url": "https://simplify.jobs/c/General-Dynamics-Mission-Systems",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
