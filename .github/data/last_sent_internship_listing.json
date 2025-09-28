@@ -141649,5 +141649,30 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Microsoft",
+    "id": "7a9c2763-0011-4598-99cd-ca13f6f1b613",
+    "title": "Research Intern - Systems for Reliable and Scalable AI Agents",
+    "active": true,
+    "terms": [
+      "Fall 2025",
+      "Winter 2026",
+      "Spring 2026"
+    ],
+    "date_updated": 1759017289,
+    "date_posted": 1759017289,
+    "url": "https://jobs.careers.microsoft.com/global/en/job/1884229",
+    "locations": [
+      "Redmond, WA"
+    ],
+    "company_url": "https://simplify.jobs/c/Microsoft",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "PhD"
+    ]
   }
 ]
