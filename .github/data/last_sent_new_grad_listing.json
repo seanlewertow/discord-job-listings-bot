@@ -31563,5 +31563,25 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "McDonald's",
+    "id": "6a3c013b-9b7d-42f4-9de4-e1064c13e339",
+    "title": "Software Engineer 1 - iOS - iOS",
+    "active": true,
+    "date_updated": 1759165156,
+    "date_posted": 1759165156,
+    "url": "https://jobs.mcdonalds.com/job/Chicago-Software-Engineer-I-iOS-IL-60607/1322170500/?ats=successfactors",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/McDonald",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
