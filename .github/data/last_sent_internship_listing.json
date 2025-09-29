@@ -142072,5 +142072,52 @@
       "Master's",
       "PhD"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "GSA Capital",
+    "id": "5d4ba00c-83ab-4820-afc3-4be46d821361",
+    "title": "Quantitative Research Intern - Quantitative Research",
+    "active": true,
+    "terms": [
+      "Winter 2025"
+    ],
+    "date_updated": 1759158892,
+    "date_posted": 1759158892,
+    "url": "https://www.gsacapital.com/careers/gh/?gh_jid=8119055002",
+    "locations": [
+      "London, UK",
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/GSA-Capital",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Lila Sciences",
+    "id": "92f4cd29-3972-4c38-b2a0-410c2212b48d",
+    "title": "Intern \u2013 Automation Workcell Build",
+    "active": true,
+    "terms": [
+      "Spring 2026"
+    ],
+    "date_updated": 1759159222,
+    "date_posted": 1759159222,
+    "url": "https://job-boards.greenhouse.io/lila/jobs/8188690002",
+    "locations": [
+      "Cambridge, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/Lila-Sciences",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
