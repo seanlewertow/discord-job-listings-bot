@@ -142142,5 +142142,28 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Other",
+    "company_name": "Lila Sciences",
+    "id": "78bdc34f-452c-4b16-ac6d-566c9d60dae9",
+    "title": "Intern - IT & Security - IT - Security",
+    "active": true,
+    "terms": [
+      "Spring 2026"
+    ],
+    "date_updated": 1759174508,
+    "date_posted": 1759174508,
+    "url": "https://job-boards.greenhouse.io/lila/jobs/8188695002",
+    "locations": [
+      "Cambridge, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/Lila-Sciences",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
