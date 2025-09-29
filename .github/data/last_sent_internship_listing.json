@@ -141859,5 +141859,31 @@
     "degrees": [
       "MBA"
     ]
+  },
+  {
+    "date_updated": 1759116488,
+    "sponsorship": "Does Not Offer Sponsorship",
+    "active": true,
+    "degrees": [
+      "Bachelor's"
+    ],
+    "url": "https://job-boards.greenhouse.io/tudorgroup/jobs/7228194",
+    "company_name": "Tudor Group",
+    "title": "Quantitative Developer Intern (Pipeline Team)",
+    "locations": [
+      "New York, NY"
+    ],
+    "terms": [
+      "Fall 2026",
+      "Spring 2026",
+      "Winter 2026",
+      "Summer 2026"
+    ],
+    "category": "Quantitative Finance",
+    "source": "AlmondCroffle",
+    "id": "253be6b2-baf0-43ae-b13e-410bf846e164",
+    "date_posted": 1759116488,
+    "company_url": "",
+    "is_visible": true
   }
 ]
