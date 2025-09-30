@@ -31685,5 +31685,64 @@
       "Bachelor's",
       "Master's"
     ]
+  },
+  {
+    "date_updated": 1759238463,
+    "sponsorship": "Other",
+    "active": true,
+    "degrees": [],
+    "url": "https://jobs.comcast.com/job/-/-/45483/86516813920",
+    "company_name": "Comcast",
+    "title": "Software Engineer 1 with AWS & Python",
+    "locations": [
+      "Chicago, IL",
+      "Englewood, CO"
+    ],
+    "category": "Software Engineering",
+    "source": "AlmondCroffle",
+    "id": "df214627-c5cd-4367-b5c4-2687fce1e2a3",
+    "date_posted": 1759238463,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "LPL Financial Holdings",
+    "id": "c02158ba-75c6-4420-ba50-bcf4c7b5f0b9",
+    "title": "Engineer I - Software Development",
+    "active": true,
+    "date_updated": 1759238280,
+    "date_posted": 1759238280,
+    "url": "https://lplfinancial.wd1.myworkdayjobs.com/en-US/External/job/Fort-MillCharlotte/Engineer-I--Software-Development_R-046445",
+    "locations": [
+      "Austin, TX",
+      "Fort Mill, SC",
+      "Charlotte, NC"
+    ],
+    "company_url": "https://simplify.jobs/c/LPL-Financial-Holdings",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "date_updated": 1759239325,
+    "sponsorship": "Does Not Offer Sponsorship",
+    "active": true,
+    "degrees": [],
+    "url": "https://costar.wd1.myworkdayjobs.com/en-US/CoStarCareers/job/US-TN-Nashville/Associate-Software-Engineer---Nashville--TN_R37023-1",
+    "company_name": "CoStar Group",
+    "title": "Associate Software Engineer",
+    "locations": [
+      "Nashville, TN"
+    ],
+    "category": "Software Engineering",
+    "source": "AlmondCroffle",
+    "id": "758bb06a-3f01-4608-ab3f-09039f2753d1",
+    "date_posted": 1759239325,
+    "company_url": "",
+    "is_visible": true
   }
 ]
