@@ -142543,5 +142543,28 @@
       "Master's",
       "PhD"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Electronic Arts",
+    "id": "d22e8411-efe1-4d8b-91cd-381532cbf07e",
+    "title": "Software Engineer Intern",
+    "active": true,
+    "terms": [
+      "Winter 2025"
+    ],
+    "date_updated": 1759204611,
+    "date_posted": 1759204611,
+    "url": "https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Intern/211074",
+    "locations": [
+      "San Carlos, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Electronic-Arts",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
