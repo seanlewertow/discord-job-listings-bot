@@ -143492,5 +143492,30 @@
       "Bachelor's",
       "Master's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Autodesk",
+    "id": "5f5788e2-5b67-4762-a2f8-fd4efc74d339",
+    "title": "Intern - AI Agent and Knowledge Graphs - Research - AI Technologies",
+    "active": true,
+    "terms": [
+      "Winter 2025"
+    ],
+    "date_updated": 1759269399,
+    "date_posted": 1759269399,
+    "url": "https://autodesk.wd1.myworkdayjobs.com/en-US/uni/job/Boston-MA-USA/Intern--AI-Agent-and-Knowledge-Graphs_25WD91982",
+    "locations": [
+      "Boston, MA",
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Autodesk",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Master's",
+      "PhD"
+    ]
   }
 ]
