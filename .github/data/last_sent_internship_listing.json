@@ -143044,5 +143044,53 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Other",
+    "company_name": "State Street",
+    "id": "de4c5bef-d81f-4cfb-9b34-946cb4bd4a0f",
+    "title": "Business Information Security Analyst - Co-Op",
+    "active": true,
+    "terms": [
+      "Winter 2026",
+      "Spring 2026"
+    ],
+    "date_updated": 1759241539,
+    "date_posted": 1759241539,
+    "url": "https://statestreet.wd1.myworkdayjobs.com/en-US/Global/job/CR1---700-District/Business-Information-Security-Analyst--Co-Op_R-777978",
+    "locations": [
+      "Quincy, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/State-Street",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Entrust",
+    "id": "ea17488d-fcce-47f5-bd64-5967ed563a39",
+    "title": "Software Engineering Intern - Multiple Teams",
+    "active": true,
+    "terms": [
+      "Winter 2025"
+    ],
+    "date_updated": 1759241342,
+    "date_posted": 1759241342,
+    "url": "https://entrust.wd1.myworkdayjobs.com/entrustcareers/job/United-States---Sunrise-FL/Software-Engineering-Intern---Sunrise--FL_R003790",
+    "locations": [
+      "Plantation, FL"
+    ],
+    "company_url": "https://simplify.jobs/c/Entrust",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
