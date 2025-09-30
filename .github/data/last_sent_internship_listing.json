@@ -142614,5 +142614,100 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Audax Group",
+    "id": "7c223542-da18-4af0-8ea9-929c3c2da9a9",
+    "title": "AI Engineer Intern - Multiple Teams",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1759227400,
+    "date_posted": 1759227400,
+    "url": "https://job-boards.greenhouse.io/audaxgroup/jobs/4613476005",
+    "locations": [
+      "Boston, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/Audax-Group",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "TikTok",
+    "id": "f4c2edc9-99ba-4a2d-aa61-fa5c5f37675e",
+    "title": "Global Product Strategist Intern - Multiple Teams",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1759227247,
+    "date_posted": 1759227247,
+    "url": "https://lifeattiktok.com/search/7534767099475478802",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/TikTok",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "MBA"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "TikTok",
+    "id": "da8177ab-3b7c-4e72-b74b-3b9be8aa529b",
+    "title": "Product Strategist Intern - Global Monetization Product and Technology",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1759227274,
+    "date_posted": 1759227274,
+    "url": "https://lifeattiktok.com/search/7553882083882797330",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/TikTok",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "L3Harris Technologies",
+    "id": "6280e392-681b-4a1e-8aaf-e119245e7914",
+    "title": "Computer Vision AI Intern - Multiple Teams",
+    "active": true,
+    "terms": [
+      "Winter 2025"
+    ],
+    "date_updated": 1759227195,
+    "date_posted": 1759227195,
+    "url": "https://jobs.l3harris.com/job/Tulsa-Computer-Vision-AI-Intern-(Tulsa,-OK)-1-OK-74115/1330380100/?ats=successfactors",
+    "locations": [
+      "Tulsa, OK"
+    ],
+    "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "PhD"
+    ]
   }
 ]
