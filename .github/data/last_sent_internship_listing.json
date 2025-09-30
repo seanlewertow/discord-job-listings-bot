@@ -142237,5 +142237,120 @@
       "Bachelor's",
       "Master's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "The Aerospace Corporation",
+    "id": "7f96ea85-3ea5-49bb-8138-c337b0800d51",
+    "title": "Data Engineering Intern - Imaging Spectroscopy Department",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1759198655,
+    "date_posted": 1759198655,
+    "url": "https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2026-Data-Engineering-Undergraduate-Intern_R013783",
+    "locations": [
+      "El Segundo, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/The-Aerospace-Corporation",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Other",
+    "company_name": "NiSource",
+    "id": "47385e69-ebe3-4ffa-a2dc-061189099578",
+    "title": "Intern Nipsco Ot - Network",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1759198223,
+    "date_posted": 1759198223,
+    "url": "https://nisource.wd1.myworkdayjobs.com/NiSource/job/Hammond-IN-Operating-HQ/Intern-NIPSCO-OT---Network_R00940829",
+    "locations": [
+      "Markham, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/NiSource",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Allegion",
+    "id": "1a724364-b79f-497c-8f5f-3086d3728bfb",
+    "title": "Software Engineering Verification Intern - Quality Assurance",
+    "active": true,
+    "terms": [
+      "Summer 2025"
+    ],
+    "date_updated": 1759199506,
+    "date_posted": 1759199506,
+    "url": "https://allegion.wd5.myworkdayjobs.com/careers/job/Golden-CO/Software-Engineering-Verification-Intern_JR33780",
+    "locations": [
+      "Golden, CO"
+    ],
+    "company_url": "https://simplify.jobs/c/Allegion",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Al Warren Oil Company",
+    "id": "52fb8e53-c9ba-48f8-9ee8-73d57233a5e6",
+    "title": "Software Developer Intern - Multiple Teams",
+    "active": true,
+    "terms": [
+      "Winter 2025"
+    ],
+    "date_updated": 1759198956,
+    "date_posted": 1759198956,
+    "url": "https://apply.workable.com/al-warren-oil-company-inc/j/D0588B6E6C/apply",
+    "locations": [
+      "Elk Grove Village, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/Al-Warren-Oil-Company",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Other",
+    "company_name": "Flagship Pioneering",
+    "id": "8b3a262c-515d-4417-a5cd-9b57ec8c341f",
+    "title": "Intern - IT & Security - IT - Security",
+    "active": true,
+    "terms": [
+      "Spring 2026"
+    ],
+    "date_updated": 1759200365,
+    "date_posted": 1759200365,
+    "url": "https://boards.greenhouse.io/flagshippioneeringinc/jobs/8188691002",
+    "locations": [
+      "Cambridge, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/FlagshipPioneering",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
