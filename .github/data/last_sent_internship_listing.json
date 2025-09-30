@@ -143517,5 +143517,75 @@
       "Master's",
       "PhD"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Other",
+    "company_name": "Cox",
+    "id": "a641f935-8476-453a-8362-027250529854",
+    "title": "Cybersecurity Intern - Cybersecurity",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1759270274,
+    "date_posted": 1759270274,
+    "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Cybersecurity-Internship--Atlanta--Summer-2026_R202566780",
+    "locations": [
+      "Atlanta, GA"
+    ],
+    "company_url": "https://simplify.jobs/c/Cox",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "Cox",
+    "id": "88efa68f-bde5-4bad-95ab-17d94767e74a",
+    "title": "Product Management Intern - Summer 2026 - Business Operations",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1759270198,
+    "date_posted": 1759270198,
+    "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Product-Management-MBA-Intern--Summer-2026_R202567742",
+    "locations": [
+      "Long Island, New York",
+      "Atlanta, GA"
+    ],
+    "company_url": "https://simplify.jobs/c/Cox",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "MBA"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "CIBC",
+    "id": "f4605fe0-8e5a-4937-9802-395a4ebc6e81",
+    "title": "Digital Product Analyst Intern/Co-op - Digital Banking",
+    "active": true,
+    "terms": [
+      "Winter 2026"
+    ],
+    "date_updated": 1759269999,
+    "date_posted": 1759269999,
+    "url": "https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Digital-Product-Analyst-Co-op--Winter-2026_2522563",
+    "locations": [
+      "Toronto, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/CIBC",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
