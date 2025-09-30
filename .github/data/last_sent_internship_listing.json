@@ -142165,5 +142165,77 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "State Street",
+    "id": "041d36c0-2c3e-4d96-90e8-6294c72a980a",
+    "title": "Emerging Technology Governance, Co-Op",
+    "active": true,
+    "terms": [
+      "Winter 2026",
+      "Summer 2026"
+    ],
+    "date_updated": 1759193744,
+    "date_posted": 1759191270,
+    "url": "https://statestreet.wd1.myworkdayjobs.com/en-US/Global/job/BOSTON/Emerging-Technology-Governance--Co-Op_R-778255",
+    "locations": [
+      "Boston, MA",
+      "Quincy, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/State-Street",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Cotiviti",
+    "id": "f0e77d03-ff7a-45fd-8d97-47ff2a14f03d",
+    "title": "Intern \u2013 Agentic AI Research",
+    "active": true,
+    "terms": [
+      "Fall 2025"
+    ],
+    "date_updated": 1759191601,
+    "date_posted": 1759191601,
+    "url": "https://careers-cotiviti.icims.com/jobs/16718/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/Cotiviti",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "PhD"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "GM financial",
+    "id": "1bdad2fd-9a2f-4462-93fe-66c9494c9d4d",
+    "title": "Data Science Intern",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1759191458,
+    "date_posted": 1759191458,
+    "url": "https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs/job/1058",
+    "locations": [
+      "Fort Worth, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/GM-Financial",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
   }
 ]
