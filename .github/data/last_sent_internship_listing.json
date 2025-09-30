@@ -143467,5 +143467,30 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Johnson & Johnson",
+    "id": "b796e5af-8352-4ff6-b824-0a896b2d26c4",
+    "title": "ISRM Intern - Technology Leadership Development Program",
+    "active": true,
+    "terms": [
+      "Fall 2025",
+      "Winter 2025"
+    ],
+    "date_updated": 1759260250,
+    "date_posted": 1759260250,
+    "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Raritan-New-Jersey-United-States-of-America/ISRM-Intern_R-033873",
+    "locations": [
+      "Bridgewater Township, NJ"
+    ],
+    "company_url": "https://simplify.jobs/c/Johnson-Johnson",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
   }
 ]
