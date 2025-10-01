@@ -32088,5 +32088,45 @@
     "date_posted": 1759339353,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "RTX",
+    "id": "9ee2e29f-51c9-4fb7-a49f-8563043377f2",
+    "title": "Software Engineer 1 - Multiple Teams",
+    "active": true,
+    "date_updated": 1759340813,
+    "date_posted": 1759340813,
+    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/FL915-St-Petersburg---Bldg-D-7401-22nd-Ave-N-Building-D-St-Petersburg-FL-33710-USA/Software-Engineer-I--Onsite-_01788093",
+    "locations": [
+      "St. Petersburg, FL"
+    ],
+    "company_url": "https://simplify.jobs/c/RTX",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Momentum Engineering",
+    "id": "395baf0b-0e8d-4bc2-a40b-94815f327fd5",
+    "title": "Software Engineer 0",
+    "active": true,
+    "date_updated": 1759342227,
+    "date_posted": 1759342227,
+    "url": "https://ats.rippling.com/momentumcareers/jobs/8c2a6494-73a1-445c-84aa-4dc824d8895e",
+    "locations": [
+      "Annapolis Junction, MD"
+    ],
+    "company_url": "https://simplify.jobs/c/Momentum-Engineering",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
