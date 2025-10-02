@@ -32263,5 +32263,26 @@
     "date_posted": 1759411790,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "NetImpact Strategies",
+    "id": "ace07096-f936-4feb-977a-eb89db502854",
+    "title": "Junior Full Stack .NET Developer - Multiple Teams",
+    "active": true,
+    "date_updated": 1759448385,
+    "date_posted": 1759293070,
+    "url": "https://careers-netimpactstrategies.icims.com/jobs/3589/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Austin, TX",
+      "Reston, VA"
+    ],
+    "company_url": "https://simplify.jobs/c/NetImpact-Strategies",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
