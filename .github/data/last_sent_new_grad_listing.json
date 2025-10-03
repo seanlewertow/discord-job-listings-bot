@@ -32452,5 +32452,46 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Twitch",
+    "id": "bb15804d-e44e-4f20-bb96-a1afd5348e1b",
+    "title": "Software Engineer I - Video Platform",
+    "active": true,
+    "date_updated": 1759463804,
+    "date_posted": 1759463804,
+    "url": "https://job-boards.greenhouse.io/twitch/jobs/8181483002",
+    "locations": [
+      "SF",
+      "Irvine, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Twitch",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Replit",
+    "id": "94f6899d-56b9-46ea-a8fc-077dcadbc526",
+    "title": "Software Engineer \u2013 New Grad - Summer 2026",
+    "active": true,
+    "date_updated": 1759464573,
+    "date_posted": 1759464573,
+    "url": "https://jobs.ashbyhq.com/replit/b5e81eae-06f9-4798-8988-2d06ca936dbc/application",
+    "locations": [
+      "San Mateo, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Replit",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
