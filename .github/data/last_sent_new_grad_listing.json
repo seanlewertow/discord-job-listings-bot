@@ -32304,5 +32304,32 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Centene",
+    "id": "724db6f9-bf05-4239-a33c-1010510c9725",
+    "title": "Data Engineer I",
+    "active": true,
+    "date_updated": 1759458571,
+    "date_posted": 1759458571,
+    "url": "https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/Data-Engineer-I_1604624",
+    "locations": [
+      "Texas",
+      "Florida",
+      "South Carolina",
+      "Georgia",
+      "Tennessee",
+      "North Carolina",
+      "Missouri",
+      "Illinois"
+    ],
+    "company_url": "https://simplify.jobs/c/Centene",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
