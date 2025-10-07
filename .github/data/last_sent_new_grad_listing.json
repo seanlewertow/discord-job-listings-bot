@@ -33274,5 +33274,26 @@
       "Bachelor's",
       "Master's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Reach Financial",
+    "id": "587196d6-05fb-4096-a1f6-4b83bbb3931a",
+    "title": "Junior Software Engineer",
+    "active": true,
+    "date_updated": 1759826862,
+    "date_posted": 1759826862,
+    "url": "https://job-boards.greenhouse.io/reach/jobs/8191593002",
+    "locations": [
+      "Remote in USA",
+      "Remote in Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Reach-Financial",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
