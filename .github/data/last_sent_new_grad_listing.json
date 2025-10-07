@@ -33295,5 +33295,26 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "DoorDash",
+    "id": "eb5c4a0b-d8f5-423d-bcdd-fe8299e01c51",
+    "title": "Software Engineer 1 - Multiple Teams",
+    "active": true,
+    "date_updated": 1759828547,
+    "date_posted": 1759828547,
+    "url": "https://job-boards.greenhouse.io/doordashcanada/jobs/7264351",
+    "locations": [
+      "Toronto, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/DoorDash",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
   }
 ]
