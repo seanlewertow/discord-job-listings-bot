@@ -33514,5 +33514,26 @@
       "Bachelor's",
       "Master's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Expedia Group",
+    "id": "155315d6-90d5-4b02-a09d-5bc24d343603",
+    "title": "Software Engineer I - Developer Enablement Platform",
+    "active": true,
+    "date_updated": 1759909196,
+    "date_posted": 1759909196,
+    "url": "https://expedia.wd108.myworkdayjobs.com/search/job/Washington---Seattle-Campus/Software-Engineer-I---Developer-Enablement-Platform_R-98318-1",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "company_url": "https://simplify.jobs/c/Expedia-Group",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
   }
 ]
