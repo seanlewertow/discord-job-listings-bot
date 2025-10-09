@@ -33852,5 +33852,25 @@
     "degrees": [
       "Master's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Forage",
+    "id": "6c955563-9228-4023-a162-92ea9bade829",
+    "title": "Junior Software Engineer",
+    "active": true,
+    "date_updated": 1760031674,
+    "date_posted": 1760031674,
+    "url": "https://job-boards.greenhouse.io/joinforage/jobs/4892105007",
+    "locations": [
+      "SF"
+    ],
+    "company_url": "https://simplify.jobs/c/JoinForage",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
