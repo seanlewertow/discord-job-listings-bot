@@ -33912,5 +33912,25 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Truveta",
+    "id": "d07a156c-288d-4c3e-b95b-c4e0e05614fb",
+    "title": "Software Engineer \u2013 Entry Level - Front End",
+    "active": true,
+    "date_updated": 1760043093,
+    "date_posted": 1760043093,
+    "url": "https://job-boards.greenhouse.io/truveta/jobs/5674617004",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "company_url": "https://simplify.jobs/c/Truveta",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
