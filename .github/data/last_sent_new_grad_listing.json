@@ -33872,5 +33872,45 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "RTX",
+    "id": "5b5bcdcb-ecb8-45e9-b382-27ce689ac746",
+    "title": "Fixed Wing Displays Software Engineer I - Onsite",
+    "active": true,
+    "date_updated": 1760032566,
+    "date_posted": 1760032566,
+    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/HIA32-Cedar-Rapids-IA-400-Collins-Rd-NE---Cedar-Rapids-IA-52498-0505-USA/Fixed-Wing-Displays-Software-Engineer-I--Onsite-_01799192",
+    "locations": [
+      "Cedar Rapids, IA"
+    ],
+    "company_url": "https://simplify.jobs/c/RTX",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Abnormal Security",
+    "id": "9db75355-f86d-4e5f-9f8e-84fdd0745161",
+    "title": "Software Engineer 1 - Identity Security",
+    "active": true,
+    "date_updated": 1760033088,
+    "date_posted": 1760033088,
+    "url": "https://abnormal.ai/careers/jobs/7491522003?gh_jid=7491522003",
+    "locations": [
+      "SF"
+    ],
+    "company_url": "https://simplify.jobs/c/Abnormal-Security",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
