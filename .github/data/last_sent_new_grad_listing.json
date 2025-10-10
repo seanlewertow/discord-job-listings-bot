@@ -34130,5 +34130,64 @@
     "date_posted": 1760085613,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "date_updated": 1760086424,
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "degrees": [],
+    "url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Santa-Monica-CA-USA/Software-Engineer-I_10131168",
+    "company_name": "Disney",
+    "title": "Software Engineer I",
+    "locations": [
+      "Santa Monica, CA",
+      "Seattle, WA",
+      "San Francisco, CA"
+    ],
+    "category": "Software Engineering",
+    "source": "AlmondCroffle",
+    "id": "eed0ea40-7864-4623-9669-cf609126117f",
+    "date_posted": 1760086424,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1760086742,
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "degrees": [],
+    "url": "https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/Global-Software-Support-Engineer-I_R2517230",
+    "company_name": "Applied Materials",
+    "title": "Global Software Support Engineer I",
+    "locations": [
+      "Santa Clara, CA"
+    ],
+    "category": "Software Engineering",
+    "source": "AlmondCroffle",
+    "id": "391102f6-6238-435a-a98a-2ba875a3526d",
+    "date_posted": 1760086742,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Avery Dennison",
+    "id": "a35e1eab-45e3-4fb7-9d5c-f2514f975340",
+    "title": "Firmware Engineering Early Career Program Associate - Hardware Engineering - RFID and IoT",
+    "active": true,
+    "date_updated": 1760086204,
+    "date_posted": 1760086204,
+    "url": "https://jobs.smartrecruiters.com/AveryDennison/744000086898306",
+    "locations": [
+      "Miamisburg, OH"
+    ],
+    "company_url": "https://simplify.jobs/c/Avery-Dennison",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
   }
 ]
