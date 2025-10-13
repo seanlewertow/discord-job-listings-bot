@@ -34589,5 +34589,77 @@
     "date_posted": 1760366462,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "date_updated": 1760367075,
+    "sponsorship": "Does Not Offer Sponsorship",
+    "active": true,
+    "degrees": [],
+    "url": "https://carislifesciences.wd12.myworkdayjobs.com/en-US/cls/job/Irving-TX--75063/Associate-Software-Engineer---Clinical-Systems--Lab-Ops-_JR104012-1",
+    "company_name": "Caris",
+    "title": "Associate Software Engineer - Clinical Systems (Lab Ops)",
+    "locations": [
+      "Irving, TX"
+    ],
+    "category": "Software Engineering",
+    "source": "AlmondCroffle",
+    "id": "46029e2b-d575-48b1-8067-d56666130303",
+    "date_posted": 1760367075,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1760367437,
+    "sponsorship": "Does Not Offer Sponsorship",
+    "active": true,
+    "degrees": [],
+    "url": "https://carislifesciences.wd12.myworkdayjobs.com/en-US/cls/job/Irving-TX--75063/Associate-Software-Engineer---Clinical-Systems--Digital-Path-_JR104014",
+    "company_name": "Caris",
+    "title": "Associate Software Engineer - Clinical Systems (Digital Path)",
+    "locations": [
+      "Irving, TX"
+    ],
+    "category": "Software Engineering",
+    "source": "AlmondCroffle",
+    "id": "a71e9450-55a7-4c44-a4ab-669c22c502f0",
+    "date_posted": 1760367437,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1760367907,
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "degrees": [],
+    "url": "https://www.quinstreet.com/careers/?gh_jid=7316288",
+    "company_name": "QuinStreet",
+    "title": "Entry-level Software Engineer",
+    "locations": [
+      "Foster City, CA"
+    ],
+    "category": "Software Engineering",
+    "source": "AlmondCroffle",
+    "id": "6f023b94-9eb7-42ef-b966-358a4da91201",
+    "date_posted": 1760367907,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1760368106,
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "degrees": [],
+    "url": "https://job-boards.greenhouse.io/appian/jobs/7287884",
+    "company_name": "Appain",
+    "title": "Product Engineer",
+    "locations": [
+      "McLean, VA"
+    ],
+    "category": "Product Management",
+    "source": "AlmondCroffle",
+    "id": "8c4f4f71-621d-48d7-b95c-458e2320fee1",
+    "date_posted": 1760368106,
+    "company_url": "",
+    "is_visible": true
   }
 ]
