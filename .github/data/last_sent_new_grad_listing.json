@@ -34531,5 +34531,63 @@
     "date_posted": 1760365345,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "date_updated": 1760365603,
+    "sponsorship": "Does Not Offer Sponsorship",
+    "active": true,
+    "degrees": [],
+    "url": "https://hp.wd5.myworkdayjobs.com/exteu-ac-careersite/job/Spring-Texas-United-States-of-America/Software-Development-Graduate_3152963",
+    "company_name": "Hewlett Packard (HP)",
+    "title": "Software Development",
+    "locations": [
+      "Spring, TX",
+      "Palo Alto, CA",
+      "Boise, ID",
+      "Corvallis, OR",
+      "Vancouver, WA"
+    ],
+    "category": "Software Engineering",
+    "source": "AlmondCroffle",
+    "id": "501542cf-69f6-4b4e-b10e-3f40c14f0cee",
+    "date_posted": 1760365603,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1760366009,
+    "sponsorship": "Other",
+    "active": true,
+    "degrees": [],
+    "url": "https://insulet.wd5.myworkdayjobs.com/en-US/insuletcareers/job/Acton-Massachusetts/Associate-Software-QA-Engineer--Hybrid---Acton--MA-_REQ-2025-13185",
+    "company_name": "Insulet Corporation",
+    "title": "Associate Software QA Engineer",
+    "locations": [
+      "Acton, MA"
+    ],
+    "category": "Software Engineering",
+    "source": "AlmondCroffle",
+    "id": "be0e6864-2be6-4168-9380-2f913f21c27a",
+    "date_posted": 1760366009,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1760366462,
+    "sponsorship": "Does Not Offer Sponsorship",
+    "active": true,
+    "degrees": [],
+    "url": "https://carislifesciences.wd12.myworkdayjobs.com/en-US/cls/job/Irving-TX--75063/Associate-Software-Engineer---Clinical-Systems--External-Apps-_JR104015",
+    "company_name": "Caris",
+    "title": "Associate Software Engineer - Clinical Systems (External Apps)",
+    "locations": [
+      "Irving, TX"
+    ],
+    "category": "Software Engineering",
+    "source": "AlmondCroffle",
+    "id": "4630c7ec-dfea-4383-bc4e-4e4138dda1e9",
+    "date_posted": 1760366462,
+    "company_url": "",
+    "is_visible": true
   }
 ]
