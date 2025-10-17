@@ -35469,5 +35469,101 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "date_updated": 1760735409,
+    "sponsorship": "Other",
+    "active": true,
+    "degrees": [],
+    "url": "https://corebridgefinancial.wd1.myworkdayjobs.com/en-US/corebridgefinancial/job/TX-Houston/Entry-Level---Data-Scientist_JR2501686",
+    "company_name": "Corebridge Financial",
+    "title": "Entry Level \u2013 Data Scientist",
+    "locations": [
+      "Houston, TX",
+      "Woodland Hills, CA",
+      "Jersey City, NJ"
+    ],
+    "category": "Data Science, AI & Machine Learning",
+    "source": "angie-hue",
+    "id": "c243210f-046a-4db3-9406-7d820e1ae90b",
+    "date_posted": 1760735409,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1760735470,
+    "sponsorship": "Other",
+    "active": true,
+    "degrees": [],
+    "url": "https://job-boards.greenhouse.io/capco/jobs/7335392",
+    "company_name": "Capco",
+    "title": "Junior AI Engineer",
+    "locations": [
+      "Orlando, FL",
+      "Hybrid"
+    ],
+    "category": "Data Science, AI & Machine Learning",
+    "source": "angie-hue",
+    "id": "ceb6b24c-1163-438a-96d6-3e87daec2392",
+    "date_posted": 1760735470,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1760735546,
+    "sponsorship": "Other",
+    "active": true,
+    "degrees": [
+      "Master's"
+    ],
+    "url": "https://tencent.wd1.myworkdayjobs.com/en-US/Tencent_Careers/job/US-California-Palo-Alto/AI-Software-Engineer_R105929-1",
+    "company_name": "Tencent",
+    "title": "Junior AI Software Engineer",
+    "locations": [
+      "Palo Alto, CA"
+    ],
+    "category": "Data Science, AI & Machine Learning",
+    "source": "angie-hue",
+    "id": "d6ff3175-ee24-476e-8858-8600adcad5ab",
+    "date_posted": 1760735546,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1760735616,
+    "sponsorship": "Other",
+    "active": true,
+    "degrees": [],
+    "url": "https://jabil.wd5.myworkdayjobs.com/en-US/Jabil_Careers/job/St-PetersburgTampa-FL/Associate-Cloud-Engineer_J2429707",
+    "company_name": "Jabil",
+    "title": "Associate Cloud Engineer",
+    "locations": [
+      "St. Petersburg, FL",
+      "Tampa, FL"
+    ],
+    "category": "Software Engineering",
+    "source": "angie-hue",
+    "id": "c391c4d7-b3b5-4117-b806-abd17ca4c657",
+    "date_posted": 1760735616,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1760735998,
+    "sponsorship": "Other",
+    "active": true,
+    "degrees": [],
+    "url": "https://jobs.lever.co/deltasands/4ae1b9e2-ebbd-416e-810a-58f296666125/",
+    "company_name": "Delta Solutions & Strategies",
+    "title": "Junior Software Engineer",
+    "locations": [
+      "Colorado Springs, CO"
+    ],
+    "category": "Software Engineering",
+    "source": "angie-hue",
+    "id": "bdaf8305-781e-47ff-9f31-67df0006a58c",
+    "date_posted": 1760735998,
+    "company_url": "",
+    "is_visible": true
   }
 ]
