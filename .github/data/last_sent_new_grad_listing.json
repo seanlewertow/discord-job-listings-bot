@@ -35706,5 +35706,25 @@
       "Bachelor's",
       "Master's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Veeva Systems",
+    "id": "ff10df50-35b8-47c4-8138-ff9083746abf",
+    "title": "Associate Software Engineer \u2013 Seeking 2025 & 2026 Grads",
+    "active": true,
+    "date_updated": 1760775318,
+    "date_posted": 1760775318,
+    "url": "https://jobs.lever.co/veeva/54f473e7-f225-44b3-beb7-b5d50403fe02/apply",
+    "locations": [
+      "Toronto, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Veeva-Systems",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
