@@ -36003,5 +36003,59 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "date_updated": 1761003868,
+    "sponsorship": "Other",
+    "active": true,
+    "degrees": [],
+    "url": "https://www.shopify.com/careers/demo-engineer-software-development_a6126bad-c0ba-4d02-94fb-7c5e21bef9f5",
+    "company_name": "Shopify",
+    "title": "Demo Engineer, Software Development",
+    "locations": [
+      "Remote in USA"
+    ],
+    "category": "Software Engineering",
+    "source": "angie-hue",
+    "id": "3b7b1744-bddb-4645-8ffe-3f4b1a0e5adf",
+    "date_posted": 1761003868,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1761004100,
+    "sponsorship": "Other",
+    "active": true,
+    "degrees": [],
+    "url": "https://uscareers-pepsico.icims.com/jobs/415877/junior-data-scientist-%E2%80%93-new-grad/job",
+    "company_name": "PepsiCo",
+    "title": "Junior Data Scientist",
+    "locations": [
+      "Mississauga, ON"
+    ],
+    "category": "Data Science, AI & Machine Learning",
+    "source": "angie-hue",
+    "id": "8473d46e-a340-4d92-bf27-5374a5875385",
+    "date_posted": 1761004100,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1761004191,
+    "sponsorship": "U.S. Citizenship is Required",
+    "active": true,
+    "degrees": [],
+    "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Colorado-Aurora/Associate-Software-Engineer_R10211419",
+    "company_name": "Northrop Grumman",
+    "title": "Associate Software Engineer",
+    "locations": [
+      "Aurora, CO"
+    ],
+    "category": "Software Engineering",
+    "source": "angie-hue",
+    "id": "d9980de4-2b70-42e8-bc57-dd8f4aef7f37",
+    "date_posted": 1761004191,
+    "company_url": "",
+    "is_visible": true
   }
 ]
