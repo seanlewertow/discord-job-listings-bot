@@ -36235,5 +36235,28 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "D2L",
+    "id": "a14f5f74-0c3a-4c07-b4b7-e8c7c4737121",
+    "title": "Software Developer Rotation Program \u2013 Spring 2026 New Graduate",
+    "active": true,
+    "date_updated": 1761120299,
+    "date_posted": 1761120299,
+    "url": "https://www.d2l.com/careers/jobs/?job_id=7336031&gh_jid=7336031",
+    "locations": [
+      "Winnipeg, MB, Canada",
+      "Toronto, ON, Canada",
+      "Kitchener, ON, Canada",
+      "Vancouver, BC, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/D2L",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
