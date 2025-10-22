@@ -36194,5 +36194,46 @@
     "date_posted": 1761069578,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Capitolis",
+    "id": "e55e0b4b-64d9-41cf-bde0-50d494620b07",
+    "title": "Junior Software Engineer",
+    "active": true,
+    "date_updated": 1761092610,
+    "date_posted": 1761092610,
+    "url": "https://capitolis.com/careers/job/?gh_jid=6670061003",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Capitolis",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Hastings Direct",
+    "id": "3fcf882e-b106-447c-95fb-7b793b897e9a",
+    "title": "Junior Data Scientist - ",
+    "active": true,
+    "date_updated": 1761096036,
+    "date_posted": 1761096036,
+    "url": "https://hastingsdirect.wd3.myworkdayjobs.com/external_careers/job/London/Junior-Data-Scientist_60012560-1",
+    "locations": [
+      "London, UK",
+      "Leicester, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Hastings-Direct",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
