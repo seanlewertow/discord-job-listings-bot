@@ -36258,5 +36258,25 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Shield AI",
+    "id": "93c78b5d-5ecf-4eca-a08f-9ac97eb0a260",
+    "title": "Software Engineer I - Hardware Test - R3999",
+    "active": true,
+    "date_updated": 1761165452,
+    "date_posted": 1761165452,
+    "url": "https://jobs.lever.co/shieldai/8ed6bd48-2bf0-44a2-812d-7d8a2ab6b9f0/apply",
+    "locations": [
+      "Dallas, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Shield-AI",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
