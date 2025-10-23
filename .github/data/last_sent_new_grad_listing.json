@@ -36378,5 +36378,80 @@
     "date_posted": 1761209366,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "date_updated": 1761210278,
+    "sponsorship": "U.S. Citizenship is Required",
+    "active": true,
+    "degrees": [],
+    "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Alexandria-VA/Backend-Developer_R0228366",
+    "company_name": "Booz Allen",
+    "title": "Backend Developer",
+    "locations": [
+      "Alexandria, VA"
+    ],
+    "category": "Software Engineering",
+    "source": "AlmondCroffle",
+    "id": "1c1962f9-d61d-4bb6-a3c6-6be914fbc4a6",
+    "date_posted": 1761210278,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1761210817,
+    "sponsorship": "Does Not Offer Sponsorship",
+    "active": true,
+    "degrees": [],
+    "url": "https://aes.wd1.myworkdayjobs.com/en-US/AES_US/job/US-Indianapolis-IN/Junior-Data-Scientist_R1061631",
+    "company_name": "AES Corporation",
+    "title": "Junior Data Scientist",
+    "locations": [
+      "Indianapolis, IN"
+    ],
+    "category": "Data Science, AI & Machine Learning",
+    "source": "AlmondCroffle",
+    "id": "73d20479-a9e7-43df-a7a2-7e0b5ba585ec",
+    "date_posted": 1761210817,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1761211000,
+    "sponsorship": "U.S. Citizenship is Required",
+    "active": true,
+    "degrees": [],
+    "url": "https://www.smxtech.com/jobs/smxtech/junior-data-scientist-4755/",
+    "company_name": "SMX",
+    "title": "Junior Data Scientist",
+    "locations": [
+      "Patuxent River, MD"
+    ],
+    "category": "Data Science, AI & Machine Learning",
+    "source": "AlmondCroffle",
+    "id": "64670896-ca74-4a3f-82be-ae7f2fc0ec6d",
+    "date_posted": 1761211000,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1761211393,
+    "sponsorship": "Other",
+    "active": true,
+    "degrees": [
+      "Master's"
+    ],
+    "url": "https://www.citadelsecurities.com/careers/details/quantitative-research-engineer-phd-graduate-us/",
+    "company_name": "Citadel Securities",
+    "title": "Quantitative Research Engineer",
+    "locations": [
+      "Miami, FL",
+      "New York, NY"
+    ],
+    "category": "Quantitative Finance",
+    "source": "AlmondCroffle",
+    "id": "f7e19966-4915-4ccd-9a1b-f31140c69353",
+    "date_posted": 1761211393,
+    "company_url": "",
+    "is_visible": true
   }
 ]
