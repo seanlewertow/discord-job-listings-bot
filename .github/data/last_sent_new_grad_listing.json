@@ -37367,5 +37367,95 @@
     "date_posted": 1761811135,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "date_updated": 1761863747,
+    "sponsorship": "U.S. Citizenship is Required",
+    "active": true,
+    "degrees": [],
+    "url": "https://careers-gdms.icims.com/jobs/68894/sda-software-engineer-%E2%80%93-entry-level/job",
+    "company_name": "General Dynamics Mission Systems",
+    "title": "SDA Software Engineer \u2013 Entry Level",
+    "locations": [
+      "Scottsdale, AZ"
+    ],
+    "category": "Software Engineering",
+    "source": "angie-hue",
+    "id": "912c475e-01db-47f5-9008-90283faa3616",
+    "date_posted": 1761863747,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1761863794,
+    "sponsorship": "U.S. Citizenship is Required",
+    "active": true,
+    "degrees": [],
+    "url": "https://careers-gdms.icims.com/jobs/68964/junior-software-engineer-%28cleared%29/job",
+    "company_name": "General Dynamics Mission Systems",
+    "title": "Junior Software Engineer (cleared)",
+    "locations": [
+      "Dedham, MA"
+    ],
+    "category": "Software Engineering",
+    "source": "angie-hue",
+    "id": "6dfdd58f-12ec-4064-934e-fdba1af36d93",
+    "date_posted": 1761863794,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1761863806,
+    "sponsorship": "U.S. Citizenship is Required",
+    "active": true,
+    "degrees": [],
+    "url": "https://gdit.wd5.myworkdayjobs.com/en-US/external_career_site/job/USA-MD-Annapolis-Junction/Software-Developer-Associate---TS-SCI-w-Poly_RQ209620",
+    "company_name": "General Dynamics Information Technology",
+    "title": "Software Developer Associate - TS/SCI w/Poly",
+    "locations": [
+      "Annapolis Junction, MD"
+    ],
+    "category": "Software Engineering",
+    "source": "angie-hue",
+    "id": "ac12fb08-57c6-4140-86aa-457e417b2d0c",
+    "date_posted": 1761863806,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1761863840,
+    "sponsorship": "Other",
+    "active": true,
+    "degrees": [],
+    "url": "https://expedia.wd108.myworkdayjobs.com/en-US/search/job/Washington---Seattle-Campus/Software-Development-Engineer-I_R-98732",
+    "company_name": "Expedia Group",
+    "title": "Software Development Engineer I",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "category": "Software Engineering",
+    "source": "angie-hue",
+    "id": "9f3c4200-c74e-4ccf-a9d8-43b4535d3596",
+    "date_posted": 1761863840,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1761863875,
+    "sponsorship": "Other",
+    "active": true,
+    "degrees": [],
+    "url": "https://job-boards.greenhouse.io/appliedintuition/jobs/4607272005?gh_jid=4607272005",
+    "company_name": "Applied Intuition",
+    "title": "Software Integration Engineer - New Grad",
+    "locations": [
+      "Mountain View, CA"
+    ],
+    "category": "Software Engineering",
+    "source": "angie-hue",
+    "id": "3a7737a1-23ec-4eeb-871b-819418c911be",
+    "date_posted": 1761863875,
+    "company_url": "",
+    "is_visible": true
   }
 ]
