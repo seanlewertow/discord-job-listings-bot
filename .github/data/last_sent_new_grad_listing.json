@@ -37457,5 +37457,25 @@
     "date_posted": 1761863875,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "General Dynamics Mission Systems",
+    "id": "66a3aac2-842f-464c-b1ea-6a945f687473",
+    "title": "SDA Software Engineer \u2013 Entry Level",
+    "active": true,
+    "date_updated": 1761865749,
+    "date_posted": 1761865749,
+    "url": "https://careers-gdms.icims.com/jobs/68894/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Scottsdale, AZ"
+    ],
+    "company_url": "https://simplify.jobs/c/General-Dynamics-Mission-Systems",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
