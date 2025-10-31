@@ -37499,5 +37499,79 @@
       "Master's",
       "PhD"
     ]
+  },
+  {
+    "date_updated": 1761948465,
+    "sponsorship": "Other",
+    "active": true,
+    "degrees": [],
+    "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Omaha-Nebraska-United-States-of-America/Associate-Data-Scientist_R0132263-1",
+    "company_name": "PayPal",
+    "title": "Associate Data Scientist",
+    "locations": [
+      "Omaha, NE"
+    ],
+    "category": "Data Science, AI & Machine Learning",
+    "source": "angie-hue",
+    "id": "da5d3683-dcb7-45cd-9a2c-fb1c0eac3b29",
+    "date_posted": 1761948465,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1761948610,
+    "sponsorship": "Other",
+    "active": true,
+    "degrees": [],
+    "url": "https://onerail.applytojob.com/apply/kuiKAbQg1L/Junior-Data-Analyst",
+    "company_name": "OneRail",
+    "title": "Junior Data Analyst",
+    "locations": [
+      "Orlando, FL"
+    ],
+    "category": "Data Science, AI & Machine Learning",
+    "source": "angie-hue",
+    "id": "dc1587c8-67fa-4b63-98e4-99790dc285b5",
+    "date_posted": 1761948610,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1761948639,
+    "sponsorship": "Does Not Offer Sponsorship",
+    "active": true,
+    "degrees": [
+      "Master's"
+    ],
+    "url": "https://idexx.wd1.myworkdayjobs.com/en-US/IDEXX/job/Westbrook-ME/Junior-Computer-Vision-Data-Scientist_J-049939",
+    "company_name": "IDEXX",
+    "title": "Junior Computer Vision Data Scientist",
+    "locations": [
+      "Westbrook, ME"
+    ],
+    "category": "Data Science, AI & Machine Learning",
+    "source": "angie-hue",
+    "id": "ca5ac927-997d-4b59-8e19-ef0ca0920876",
+    "date_posted": 1761948639,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1761948657,
+    "sponsorship": "Other",
+    "active": true,
+    "degrees": [],
+    "url": "https://cvshealth.wd1.myworkdayjobs.com/en-US/cvs_health_careers/job/TX---Work-from-home/Associate-Software-Development-Engineer_R0754288",
+    "company_name": "CVS Health",
+    "title": "Associate Software Development Engineer",
+    "locations": [
+      "Remote from USA"
+    ],
+    "category": "Software Engineering",
+    "source": "angie-hue",
+    "id": "b4ab4d74-1586-43ef-a3a5-861a8adbb11e",
+    "date_posted": 1761948657,
+    "company_url": "",
+    "is_visible": true
   }
 ]
