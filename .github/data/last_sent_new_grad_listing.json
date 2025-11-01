@@ -37615,5 +37615,25 @@
       "Bachelor's",
       "Master's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "T-Rex Solutions",
+    "id": "7e65b3d9-88f5-444b-bdb7-a7f044d8bcc4",
+    "title": "Software Engineer 1",
+    "active": true,
+    "date_updated": 1751105243,
+    "date_posted": 1749517340,
+    "url": "https://www.trexsolutionsllc.com/current-opportunities-at-trex/?gh_jid=8029898002",
+    "locations": [
+      "Odenton, MD"
+    ],
+    "company_url": "https://simplify.jobs/c/T-Rex-Solutions",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
