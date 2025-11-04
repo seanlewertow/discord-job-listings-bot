@@ -37892,5 +37892,42 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Intuit",
+    "id": "f15f9ecd-dae5-45ab-b82f-1352a8b50521",
+    "title": "Software Engineer 1",
+    "active": true,
+    "date_updated": 1762224083,
+    "date_posted": 1762224083,
+    "url": "https://jobs.intuit.com/job/mountain-view/software-engineer-1/27595/88025996928",
+    "locations": [
+      "Mountain View, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Intuit",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Citizen Health",
+    "id": "e7c6c957-8528-4696-97cc-8b1cf172a138",
+    "title": "Early Career Software Engineer",
+    "active": true,
+    "date_updated": 1762223935,
+    "date_posted": 1762223935,
+    "url": "https://jobs.ashbyhq.com/Citizen%20Health/0db9efc6-cdc3-44c6-a93a-59a57808e451/application",
+    "locations": [
+      "SF",
+      "San Mateo, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Citizen-Health",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
