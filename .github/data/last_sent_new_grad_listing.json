@@ -38250,5 +38250,98 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Dover",
+    "id": "ff072abe-5d3f-43be-9240-551170752c3f",
+    "title": "Product Engineer - Entry Level",
+    "active": true,
+    "date_updated": 1761936910,
+    "date_posted": 1756940514,
+    "url": "https://careers.dovercorporation.com/job/Keosauqua-Product-Engineer-IA-52565/1243842701/?ats=successfactors",
+    "locations": [
+      "Allerton, IA",
+      "Ottumwa, IA"
+    ],
+    "company_url": "https://simplify.jobs/c/511130a6-b974-4ccb-a78b-14049de141bb",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "SpaceX",
+    "id": "21551ff3-c6e8-47b7-a06c-518211ce3efa",
+    "title": "New Graduate Engineer - Software - Starlink",
+    "active": true,
+    "date_updated": 1756847676,
+    "date_posted": 1756847676,
+    "url": "https://boards.greenhouse.io/spacex/jobs/8121675002",
+    "locations": [
+      "Redmond, WA"
+    ],
+    "company_url": "https://simplify.jobs/c/SpaceX",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Esri",
+    "id": "af006b99-f0cd-40b6-aa02-cf5333840403",
+    "title": "Publishing Product Engineer I - Arcgis Enterprise",
+    "active": true,
+    "date_updated": 1761874452,
+    "date_posted": 1761874452,
+    "url": "https://www.esri.com/careers/4828988007?gh_jid=4828988007",
+    "locations": [
+      "West Redlands, Redlands, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Esri",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Boston Scientific",
+    "id": "5488a260-8a0c-47e9-921d-5bdb5549d63a",
+    "title": "Software Design Assurance Engineer 1 - Engineering - Design Assurance",
+    "active": true,
+    "date_updated": 1758379328,
+    "date_posted": 1754617643,
+    "url": "https://bostonscientific.eightfold.ai/careers/job/563602803067367",
+    "locations": [
+      "Maple Grove, MN"
+    ],
+    "company_url": "https://simplify.jobs/c/Boston-Scientific",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Datalab USA",
+    "id": "0b46c5ae-11ad-489e-944e-2d4dc26cb682",
+    "title": "Production Programmer \u2013 Entry Level SQL Developer",
+    "active": true,
+    "date_updated": 1754510242,
+    "date_posted": 1754066598,
+    "url": "https://jobs.lever.co/datalabusa/19b74a87-0d5f-4ca1-a218-5dae6004d0ee/apply",
+    "locations": [
+      "Germantown, MD"
+    ],
+    "company_url": "https://simplify.jobs/c/Datalab-USA",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
