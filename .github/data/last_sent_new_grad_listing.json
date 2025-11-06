@@ -38529,5 +38529,99 @@
     "date_posted": 1762360166,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "RTX",
+    "id": "d9abf54f-a175-43f8-a7f3-6f51fe94b888",
+    "title": "2026 Full-time - Software Engineer 1 - Onsite - CA",
+    "active": true,
+    "date_updated": 1762385237,
+    "date_posted": 1762385237,
+    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA550-Fullerton-CA-Bldg-675-1801-West-Hughes-Drive-Building-675-Fullerton-CA-92834-USA/XMLNAME-2026-Full-time---Software-Engineer-1---Onsite--CA-_01804761",
+    "locations": [
+      "Anaheim, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/RTX",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "RTX",
+    "id": "aec95556-7230-4983-9222-aab8112f843c",
+    "title": "Software Engineer 1 - Software Engineering",
+    "active": true,
+    "date_updated": 1762385242,
+    "date_posted": 1762385242,
+    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/TX190-2501-West-University-McKinney-2501-West-University---McKinney-TX-75070-USA/XMLNAME-2026-Full-time---Software-Engineer-I---Onsite--TX-_01804717",
+    "locations": [
+      "McKinney, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/RTX",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Cox",
+    "id": "0353ba8a-aaed-4fa7-934f-51e284c0970a",
+    "title": "Software Engineer I",
+    "active": true,
+    "date_updated": 1762386626,
+    "date_posted": 1762386626,
+    "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Software-Engineer-I_R202569267",
+    "locations": [
+      "Atlanta, GA"
+    ],
+    "company_url": "https://simplify.jobs/c/Cox",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Truist Bank",
+    "id": "525dddf0-89cc-4d9e-9452-085817670b1d",
+    "title": "Software Engineer 1 - Finance Technology Data & Reporting",
+    "active": true,
+    "date_updated": 1762386971,
+    "date_posted": 1762386971,
+    "url": "https://truist.wd1.myworkdayjobs.com/en-US/Careers/job/Greensboro-NC/Software-Engineer-I---Finance-Technology-Data---Reporting_R0108028-1",
+    "locations": [
+      "Charlotte, NC",
+      "Greensboro, NC"
+    ],
+    "company_url": "https://simplify.jobs/c/Truist-Bank",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Seagate Technology ",
+    "id": "e0c1c023-3f8c-44e5-851b-2e07d863dbed",
+    "title": "Firmware Engineer I - Embedded Systems",
+    "active": true,
+    "date_updated": 1762385215,
+    "date_posted": 1762385215,
+    "url": "https://seagatecareers.com/job/Longmont-Firmware-Engineer-I-CO-80501/1340367500/?ats=successfactors",
+    "locations": [
+      "Shakopee, MN",
+      "Longmont, CO"
+    ],
+    "company_url": "https://simplify.jobs/c/Seagate-Technology",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
