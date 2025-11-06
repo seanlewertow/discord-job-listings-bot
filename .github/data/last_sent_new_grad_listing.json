@@ -38623,5 +38623,41 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "General Dynamics Mission Systems",
+    "id": "3341ad19-ff53-40d9-aed1-0eab9614c836",
+    "title": "Software Engineer 1 - Entry Level",
+    "active": true,
+    "date_updated": 1762435047,
+    "date_posted": 1762435047,
+    "url": "https://careers-gdms.icims.com/jobs/69129/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Pittsfield, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/General-Dynamics-Mission-Systems",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Graphcore",
+    "id": "3c8ce518-58d5-41a0-b586-073f60bfd11d",
+    "title": "2026 Graduate Software Engineer - Drivers",
+    "active": true,
+    "date_updated": 1762434202,
+    "date_posted": 1762434202,
+    "url": "https://job-boards.greenhouse.io/graphcore/jobs/8238605002",
+    "locations": [
+      "Bristol, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Graphcore",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
