@@ -38731,5 +38731,23 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Okta",
+    "id": "dfc489c9-e403-46e0-a1ba-e7e8092e311e",
+    "title": "Software Engineer I \u2013 New Grad",
+    "active": true,
+    "date_updated": 1762471485,
+    "date_posted": 1762471485,
+    "url": "https://www.okta.com/company/careers/opportunity/6209884?gh_jid=6209884",
+    "locations": [
+      "Toronto, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Okta",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
