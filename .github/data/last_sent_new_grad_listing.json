@@ -38840,5 +38840,23 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Jerry",
+    "id": "e46ce1fe-4bd7-427a-9959-8cb9070a81e8",
+    "title": "Software Engineer I - Entry",
+    "active": true,
+    "date_updated": 1762537288,
+    "date_posted": 1762537288,
+    "url": "https://jobs.ashbyhq.com/jerry.ai/7ee96a8a-8cb6-4083-ae43-7d0f6a67d679/application",
+    "locations": [
+      "Palo Alto, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Jerry",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
