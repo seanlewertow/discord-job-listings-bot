@@ -38967,5 +38967,95 @@
     "date_posted": 1762554697,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "date_updated": 1762554791,
+    "sponsorship": "Other",
+    "active": true,
+    "degrees": [],
+    "url": "https://jobs.lever.co/Trend-Health-Partners/d975ec6f-3b70-4993-af9f-9cfd715ca399",
+    "company_name": "Trend Health Partners",
+    "title": "Machine Learning Engineer I",
+    "locations": [
+      "Remote in USA"
+    ],
+    "category": "Data Science, AI & Machine Learning",
+    "source": "angie-hue",
+    "id": "0a4e0ab7-61ef-4cb0-affb-57680b199151",
+    "date_posted": 1762554791,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1762554834,
+    "sponsorship": "U.S. Citizenship is Required",
+    "active": true,
+    "degrees": [],
+    "url": "https://jobs.smartrecruiters.com/BryceTech/f40e9665-32d7-47d8-90fd-ac1f18dc05be?dcr_ci=BryceTech",
+    "company_name": "BryceTech",
+    "title": "Junior Exercise Software IT Specialist",
+    "locations": [
+      "Suffolk, VA"
+    ],
+    "category": "Software Engineering",
+    "source": "angie-hue",
+    "id": "3e8a341b-5b62-445c-8382-6d3bdb849f34",
+    "date_posted": 1762554834,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1762554873,
+    "sponsorship": "Other",
+    "active": true,
+    "degrees": [],
+    "url": "https://expedia.wd108.myworkdayjobs.com/en-US/search/job/Washington---Seattle-Campus/Software-Development-Engineer-I_R-98561-1",
+    "company_name": "Expedia Group",
+    "title": "Software Development Engineer I",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "category": "Software Engineering",
+    "source": "angie-hue",
+    "id": "af8ffce5-dd20-4103-80be-08e9bd58f84e",
+    "date_posted": 1762554873,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1762554945,
+    "sponsorship": "Other",
+    "active": true,
+    "degrees": [],
+    "url": "https://aspentech.wd5.myworkdayjobs.com/en-US/AspenTech/job/Medina-Minnesota/Associate-Software-Quality-Engineer_R7865",
+    "company_name": "AspenTech",
+    "title": "Associate Software Quality Engineer",
+    "locations": [
+      "Medina, MN"
+    ],
+    "category": "Software Engineering",
+    "source": "angie-hue",
+    "id": "5ac059b5-bf58-4eb3-9df5-5a1a5094d78d",
+    "date_posted": 1762554945,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1762555474,
+    "sponsorship": "Other",
+    "active": true,
+    "degrees": [],
+    "url": "https://aspentech.wd5.myworkdayjobs.com/en-US/AspenTech/job/Medina-Minnesota/Associate-Software-Quality-Engineer_R8022-1",
+    "company_name": "AspenTech",
+    "title": "Associate Software Quality Engineer",
+    "locations": [
+      "Medina, MN"
+    ],
+    "category": "Software Engineering",
+    "source": "angie-hue",
+    "id": "b1badcc7-16a0-4989-9c61-667c4ae9425b",
+    "date_posted": 1762555474,
+    "company_url": "",
+    "is_visible": true
   }
 ]
