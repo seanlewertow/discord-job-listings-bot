@@ -38822,5 +38822,23 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "RELX",
+    "id": "6ec9ce77-4295-47eb-b40b-7664efc54c31",
+    "title": "Software Engineer 1 - Software Engineering",
+    "active": true,
+    "date_updated": 1762532603,
+    "date_posted": 1759450753,
+    "url": "https://relx.wd3.myworkdayjobs.com/en-US/relx/job/UK---London-London-Wall/Tech-Accelerate-Graduate-Program---Software-Engineer_R100132-1",
+    "locations": [
+      "London, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/RELX",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
