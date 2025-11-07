@@ -38749,5 +38749,78 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Citizen Health",
+    "id": "b39419cf-950a-488e-b775-01a81bbe2ad0",
+    "title": "Early Career Software Engineer",
+    "active": true,
+    "date_updated": 1762472986,
+    "date_posted": 1762472986,
+    "url": "https://jobs.ashbyhq.com/Citizen%20Health/6157ab51-0fc9-4ad8-90ea-8e87e2a95eef/application",
+    "locations": [
+      "SF",
+      "San Mateo, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Citizen-Health",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Viridien",
+    "id": "775c36f8-9bf5-425f-828b-2e2aa1ade7df",
+    "title": "Machine Learning Engineer/Researcher \u2013 2026 Graduate Programme",
+    "active": true,
+    "date_updated": 1762471948,
+    "date_posted": 1762471948,
+    "url": "https://cgg.wd103.myworkdayjobs.com/viridiencareers/job/Crawley-United-Kingdom/Machine-Learning-Engineer-Researcher---2026-Graduate-Programme_JR101055-1",
+    "locations": [
+      "Crawley, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Viridien",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Businessolver",
+    "id": "52000c2d-724b-4297-bfb6-f17fd27ceef9",
+    "title": "Java Software Engineer I - Remote within the USA",
+    "active": true,
+    "date_updated": 1762472194,
+    "date_posted": 1762472194,
+    "url": "https://www.businessolver.com/careers/openings/?gh_jid=7358032",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/Businessolver",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "RTX",
+    "id": "b27ecf71-d5ba-422e-8ec8-deb17b381bbf",
+    "title": "Software Engineer I - C - C++ - Onsite",
+    "active": true,
+    "date_updated": 1762471733,
+    "date_posted": 1762471733,
+    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/MA105-BBN-Headquarters-10-Moulton-Street---Cambridge-MA-02138-USA/Software-Engineer-I---C--C----Onsite-_01804913",
+    "locations": [
+      "Cambridge, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/RTX",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
