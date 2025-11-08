@@ -39057,5 +39057,78 @@
     "date_posted": 1762555474,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Esri",
+    "id": "ce1b7315-c7c5-4f62-8778-86d02ccc97d2",
+    "title": "Product Engineer I - Generative AI - Arcgis Enterprise",
+    "active": true,
+    "date_updated": 1762620376,
+    "date_posted": 1762620376,
+    "url": "https://www.esri.com/careers/4961122007?gh_jid=4961122007",
+    "locations": [
+      "West Redlands, Redlands, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Esri",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "CoStar Group",
+    "id": "62086d7b-7c04-4dec-8a8b-8559b1f9c128",
+    "title": "Software Engineer I",
+    "active": true,
+    "date_updated": 1762620536,
+    "date_posted": 1762620536,
+    "url": "https://costar.wd1.myworkdayjobs.com/en-US/CoStarCareers/job/US-VA-Arlington/Software-Engineer-I_R37764",
+    "locations": [
+      "Arlington, VA"
+    ],
+    "company_url": "https://simplify.jobs/c/CoStar",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Citizen Health",
+    "id": "5d1a6f22-c3b6-4bdf-a503-95cb98bb8e6c",
+    "title": "Early Career Software Engineer",
+    "active": true,
+    "date_updated": 1762620460,
+    "date_posted": 1762620460,
+    "url": "https://jobs.ashbyhq.com/Citizen%20Health/ab0cc0c1-7122-4ca2-8ac9-84d1812b22d4/application",
+    "locations": [
+      "SF",
+      "San Mateo, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Citizen-Health",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "The Travelers Companies",
+    "id": "b1062ca6-2c4c-41bb-8f95-29addce94379",
+    "title": "Data Engineer 1 - Databricks - PySpark - Snowflake",
+    "active": true,
+    "date_updated": 1762619493,
+    "date_posted": 1762619493,
+    "url": "https://travelers.wd5.myworkdayjobs.com/External/job/GA---Atlanta/Data-Engineer-I--AWS--Databricks--PySpark--Snowflake-_R-47919",
+    "locations": [
+      "Atlanta, GA"
+    ],
+    "company_url": "https://simplify.jobs/c/Travelers",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
