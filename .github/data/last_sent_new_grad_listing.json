@@ -39202,5 +39202,78 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "date_updated": 1762771308,
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "degrees": [],
+    "url": "https://lifeattiktok.com/search/7535528357414570248",
+    "company_name": "TikTok",
+    "title": "Software Engineer Graduate (Data Platfrom TikTok BP)",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "category": "Software Engineering",
+    "source": "DereC4",
+    "id": "2c56bd8c-8992-403e-bf6d-64e4d7cf9a60",
+    "date_posted": 1762771308,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1762771383,
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "degrees": [],
+    "url": "https://lifeattiktok.com/search/7535220808265681159",
+    "company_name": "TikTok",
+    "title": "Software Engineer Graduate (Data Arch - Data Ecosystem)",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "category": "Software Engineering",
+    "source": "DereC4",
+    "id": "ecf7d091-6ed3-442e-97d9-cb9868bb3a13",
+    "date_posted": 1762771383,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1762771678,
+    "sponsorship": "Does Not Offer Sponsorship",
+    "active": true,
+    "degrees": [],
+    "url": "https://jobs.smartrecruiters.com/ServiceNow/744000092424475",
+    "company_name": "ServiceNow",
+    "title": "Frontend Software Engineer",
+    "locations": [
+      "San Diego, CA"
+    ],
+    "category": "Software Engineering",
+    "source": "DereC4",
+    "id": "efacdb64-de8f-46db-9d25-a04bf3702bac",
+    "date_posted": 1762771678,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1762771910,
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "degrees": [],
+    "url": "https://rrhs.wd5.myworkdayjobs.com/RRH/job/Riedman-Campus/Software-Developer_REQ_226365",
+    "company_name": "Rochester Regional Health",
+    "title": "Software Developer",
+    "locations": [
+      "Remote",
+      "Rochester, NY"
+    ],
+    "category": "Software Engineering",
+    "source": "DereC4",
+    "id": "639df699-5bf2-42a2-ac9d-7be861e813e9",
+    "date_posted": 1762771910,
+    "company_url": "",
+    "is_visible": true
   }
 ]
