@@ -39184,5 +39184,23 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "McDonald's",
+    "id": "b05a4f89-0ec5-4c84-bc93-529f64173985",
+    "title": "Full Stack Engineer 1",
+    "active": true,
+    "date_updated": 1762742164,
+    "date_posted": 1762742164,
+    "url": "https://jobs.mcdonalds.com/job/Chicago-Full-Stack-Engineer-I-IAM-IL-60607/1341509500/?ats=successfactors",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/McDonald",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
