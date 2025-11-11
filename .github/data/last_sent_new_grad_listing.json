@@ -39386,5 +39386,102 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Cook Systems",
+    "id": "b192a954-9b26-4c40-a40f-08b179ceff1e",
+    "title": "Entry Level Software Developer",
+    "active": true,
+    "date_updated": 1762818071,
+    "date_posted": 1761960496,
+    "url": "https://job-boards.greenhouse.io/cooksys/jobs/4973134008",
+    "locations": [
+      "Nashville, TN"
+    ],
+    "company_url": "https://simplify.jobs/c/Cook-Systems",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Jerry",
+    "id": "8502fe00-7b15-42b4-81f6-690f0a1a340b",
+    "title": "Software Engineer 1",
+    "active": true,
+    "date_updated": 1762819289,
+    "date_posted": 1762819289,
+    "url": "https://jobs.ashbyhq.com/jerry.ai/c8e6d1e7-0130-457e-a257-00eb7f6e25b3/application",
+    "locations": [
+      "Palo Alto, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Jerry",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Jerry",
+    "id": "401acf90-5541-49cf-bd1f-9696bd9ff91d",
+    "title": "Software Engineer 1",
+    "active": true,
+    "date_updated": 1762819301,
+    "date_posted": 1762819301,
+    "url": "https://jobs.ashbyhq.com/jerry.ai/ab9408e2-4b9b-4346-9e8f-48345fe91737/application",
+    "locations": [
+      "Toronto, ON, Canada",
+      "Greater Toronto Area, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Jerry",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Citizen Health",
+    "id": "3b44b8e4-54ba-4194-8687-432e7fe7197f",
+    "title": "Early Career Software Engineer",
+    "active": true,
+    "date_updated": 1762819609,
+    "date_posted": 1762819609,
+    "url": "https://jobs.ashbyhq.com/Citizen%20Health/32a83b78-f3e1-47c3-af38-f28a715f2337/application",
+    "locations": [
+      "SF",
+      "San Mateo, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Citizen-Health",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Graphcore",
+    "id": "936e4f8d-c318-4fa2-a18d-da426777294d",
+    "title": "2026 Graduate Software Engineer - AI/ML Test Systems",
+    "active": true,
+    "date_updated": 1762820279,
+    "date_posted": 1762434200,
+    "url": "https://job-boards.greenhouse.io/graphcore/jobs/8245655002",
+    "locations": [
+      "Bristol, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Graphcore",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
   }
 ]
