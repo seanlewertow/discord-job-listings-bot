@@ -39611,5 +39611,26 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Scientific Research Corporation",
+    "id": "ab009c7a-52ce-4339-9af4-6b08040e68a5",
+    "title": "Software Engineer 1",
+    "active": true,
+    "date_updated": 1762905236,
+    "date_posted": 1759447090,
+    "url": "https://careers-scires.icims.com/jobs/10602/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Orlando, FL"
+    ],
+    "company_url": "https://simplify.jobs/c/Scientific-Research-Corporation",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
   }
 ]
