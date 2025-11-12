@@ -39632,5 +39632,23 @@
       "Bachelor's",
       "Master's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Netic",
+    "id": "eb1c0de1-18f6-48c3-bae2-5924866754d9",
+    "title": "Software Engineer \u2013 New Grad",
+    "active": true,
+    "date_updated": 1762937071,
+    "date_posted": 1761879049,
+    "url": "https://jobs.ashbyhq.com/netic/63c216dc-a082-43df-928c-d71b3ed4f887/application",
+    "locations": [
+      "SF"
+    ],
+    "company_url": "https://simplify.jobs/c/Netic",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
