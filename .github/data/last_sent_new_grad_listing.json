@@ -39743,5 +39743,23 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "WebFX",
+    "id": "ab02ee55-a577-453a-bb9f-7cd2320ae755",
+    "title": "Junior Back-End Software Engineer",
+    "active": true,
+    "date_updated": 1762914022,
+    "date_posted": 1762212129,
+    "url": "https://jobs.lever.co/webfx/497bb548-b7d7-4aff-b87b-da9dcc8fbcc8/apply",
+    "locations": [
+      "Ann Arbor, MI"
+    ],
+    "company_url": "https://simplify.jobs/c/WebFX",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
