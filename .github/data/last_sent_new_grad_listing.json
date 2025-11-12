@@ -39555,5 +39555,43 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Benchling",
+    "id": "b9f3073a-1684-4ecd-963f-cb1ef2488200",
+    "title": "Software Engineer New Grad",
+    "active": true,
+    "date_updated": 1762906040,
+    "date_posted": 1762906038,
+    "url": "https://boards.greenhouse.io/benchling/jobs/7386982",
+    "locations": [
+      "SF"
+    ],
+    "company_url": "https://simplify.jobs/c/Benchling",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Chewy",
+    "id": "68bc0f26-f295-4b4a-bd4a-ed3c65497206",
+    "title": "Software Engineer 1",
+    "active": true,
+    "date_updated": 1762905947,
+    "date_posted": 1762905947,
+    "url": "https://boards.greenhouse.io/embed/job_app?token=7360915",
+    "locations": [
+      "Boston, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/Chewy",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
