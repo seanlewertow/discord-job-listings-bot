@@ -39779,5 +39779,23 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Equip Health",
+    "id": "57c62c14-bd02-41ec-aab4-0fbab842901f",
+    "title": "Data Engineer 1",
+    "active": true,
+    "date_updated": 1762916801,
+    "date_posted": 1761874755,
+    "url": "https://jobs.ashbyhq.com/equip/a93220cf-9ab7-4256-bee7-9641f8bc8313/application",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/Equip-Health",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
