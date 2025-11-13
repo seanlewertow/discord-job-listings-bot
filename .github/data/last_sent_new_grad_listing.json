@@ -40014,5 +40014,41 @@
     "date_posted": 1763048606,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "date_updated": 1763048922,
+    "sponsorship": "Other",
+    "active": true,
+    "degrees": [],
+    "url": "https://jobs.ashbyhq.com/maybern/90f7a0d4-4e6c-43e0-a444-06301faa4058",
+    "company_name": "Maybern",
+    "title": "Software Engineer, New Grad",
+    "locations": [
+      "New York, NY"
+    ],
+    "category": "Software Engineering",
+    "source": "angie-hue",
+    "id": "9f2a9400-3895-4ff2-bde7-506309f8ae20",
+    "date_posted": 1763048742,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1763048787,
+    "sponsorship": "Other",
+    "active": true,
+    "degrees": [],
+    "url": "https://jobs.lever.co/commonlit/7ecb41f7-552c-4879-afaf-b9810a9b6f56/",
+    "company_name": "CommonLit",
+    "title": "Junior Software Engineer",
+    "locations": [
+      "Remote in USA"
+    ],
+    "category": "Software Engineering",
+    "source": "angie-hue",
+    "id": "ba93a912-46a7-414d-984c-2b89be80fa7e",
+    "date_posted": 1763048787,
+    "company_url": "",
+    "is_visible": true
   }
 ]
