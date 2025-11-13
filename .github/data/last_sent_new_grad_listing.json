@@ -40050,5 +40050,41 @@
     "date_posted": 1763048787,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "General Dynamics Mission Systems",
+    "id": "f3b970ea-e38d-40c9-928e-a7127565301c",
+    "title": "Software Engineer \u2013 Entry Level",
+    "active": true,
+    "date_updated": 1763052865,
+    "date_posted": 1763052865,
+    "url": "https://careers-gdms.icims.com/jobs/69252/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Bridgewater, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/General-Dynamics-Mission-Systems",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "General Dynamics Mission Systems",
+    "id": "901ca445-4070-461c-94fc-fbf67d331f2e",
+    "title": "Software Engineer \u2013 Entry Level",
+    "active": true,
+    "date_updated": 1763052865,
+    "date_posted": 1763052865,
+    "url": "https://careers-gdms.icims.com/jobs/69259/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Bremerton, WA"
+    ],
+    "company_url": "https://simplify.jobs/c/General-Dynamics-Mission-Systems",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
