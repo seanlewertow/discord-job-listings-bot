@@ -40143,5 +40143,41 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Citizen Health",
+    "id": "e5d70d02-dd40-4ea2-80aa-239ab5c143c1",
+    "title": "Early Career Software Engineer",
+    "active": true,
+    "date_updated": 1763087851,
+    "date_posted": 1763087851,
+    "url": "https://jobs.ashbyhq.com/Citizen%20Health/a1f2084a-61bf-4ad0-af47-13de3cac7d36/application",
+    "locations": [
+      "SF"
+    ],
+    "company_url": "https://simplify.jobs/c/Citizen-Health",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "mthree",
+    "id": "23cb0aa4-4617-4868-aa0f-03d66945fe2e",
+    "title": "Entry Level Full-Stack Developer",
+    "active": true,
+    "date_updated": 1763086597,
+    "date_posted": 1763086597,
+    "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4613045006",
+    "locations": [
+      "Montreal, QC, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Mthree",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
