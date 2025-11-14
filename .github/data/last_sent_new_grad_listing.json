@@ -40235,5 +40235,23 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Intuit",
+    "id": "7ef53a89-b116-47f8-9ac1-70aaf729f6f4",
+    "title": "Software Engineer 1",
+    "active": true,
+    "date_updated": 1763113960,
+    "date_posted": 1763113960,
+    "url": "https://jobs.intuit.com/job/mountain-view/full-stack-swe1/27595/88401821136",
+    "locations": [
+      "Mountain View, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Intuit",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
