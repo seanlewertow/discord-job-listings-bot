@@ -40473,5 +40473,96 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "SDSU Research Foundation",
+    "id": "5b3ad9d4-7b1e-4787-992d-8e8fc387c7b7",
+    "title": "Niwc Senior",
+    "active": true,
+    "date_updated": 1763161865,
+    "date_posted": 1757572789,
+    "url": "https://careers-sdsurf.icims.com/jobs/18659/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "San Diego, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/SDSU-Research-Foundation",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Utah State University",
+    "id": "b184063f-0ffd-4768-88e7-c0febdf63fda",
+    "title": "AI and Machine Learning Assistant Professor/Professional Practice Assistant Professor",
+    "active": true,
+    "date_updated": 1763161923,
+    "date_posted": 1757603339,
+    "url": "https://careers-usu.icims.com/jobs/8433/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Logan, UT"
+    ],
+    "company_url": "https://simplify.jobs/c/Utah-State-University",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "Intercontinental Exchange",
+    "id": "c59cabfe-a801-47c5-975f-4f415a0394de",
+    "title": "Analyst \u2013 Index Product Development",
+    "active": true,
+    "date_updated": 1763122653,
+    "date_posted": 1757548422,
+    "url": "https://careers-ice.icims.com/jobs/10938/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/ICEMarkets",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "Fashion Nova",
+    "id": "d11ea750-a619-47d9-b28a-0f3de20a74c2",
+    "title": "Product Development & Production Coordinator - Lingerie & Swim",
+    "active": true,
+    "date_updated": 1761514241,
+    "date_posted": 1756506651,
+    "url": "https://job-boards.greenhouse.io/fashionnova/jobs/7210945",
+    "locations": [
+      "Culver City, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Fashion-Nova",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "Resmed",
+    "id": "068fc099-6329-4791-9943-5185c0ae6b84",
+    "title": "Specialist - Technical Product Management",
+    "active": true,
+    "date_updated": 1754712394,
+    "date_posted": 1754712394,
+    "url": "https://resmed.wd3.myworkdayjobs.com/en-US/ResMed_External_Careers/job/Peachtree-Corners-GA-United-States/Specialist-Technical-Product-Management-GPM-_JR_042721",
+    "locations": [
+      "Norcross, GA",
+      "San Diego, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Resmed",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
