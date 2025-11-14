@@ -40381,5 +40381,97 @@
     "date_posted": 1763138209,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "ByteDance",
+    "id": "162df411-cc92-4a88-ba73-ad9e8c0fc3ab",
+    "title": "Research Scientist - LLM Model Evaluation - Seed",
+    "active": true,
+    "date_updated": 1761909233,
+    "date_posted": 1761909233,
+    "url": "https://jobs.bytedance.com/en/position/7498529294449723656/detail",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/ByteDance",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "PhD"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Tower Research Capital",
+    "id": "e962ecf6-9d3a-4938-b4f5-d39e95e3a5d5",
+    "title": "D\u00e9veloppeur de logiciels 1 / Software Developer 1",
+    "active": true,
+    "date_updated": 1762935819,
+    "date_posted": 1746649986,
+    "url": "https://www.tower-research.com/open-positions/?gh_jid=6848143",
+    "locations": [
+      "Montreal, QC, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Tower-Research-Capital",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "ByteDance",
+    "id": "be5e477b-f3a8-48e6-af45-558fc69600ae",
+    "title": "RDMA Network Software Development Engineer \u2013 Graduate - High Speed Network",
+    "active": true,
+    "date_updated": 1761869563,
+    "date_posted": 1761869563,
+    "url": "https://jobs.bytedance.com/en/position/7465422280048527634/detail",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/ByteDance",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Gotion",
+    "id": "99c7e839-a84a-48ee-970e-66ae5a40a28e",
+    "title": "CCD Engineer",
+    "active": true,
+    "date_updated": 1744703003,
+    "date_posted": 1744703003,
+    "url": "https://job-boards.greenhouse.io/gotion/jobs/7420435002",
+    "locations": [
+      "Kankakee, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/Gotion",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "DRW",
+    "id": "9292e06c-e3b9-4a4b-b90e-50cfa92e9c35",
+    "title": "Software Developer",
+    "active": true,
+    "date_updated": 1745373494,
+    "date_posted": 1745373494,
+    "url": "https://job-boards.greenhouse.io/drweng/jobs/6805037",
+    "locations": [
+      "Montreal, QC, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/DRW",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
