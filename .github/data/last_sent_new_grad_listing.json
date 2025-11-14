@@ -40179,5 +40179,43 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Fanatics",
+    "id": "d8243664-058d-4c5e-b96f-3be891eb8dad",
+    "title": "Software Engineer 1",
+    "active": true,
+    "date_updated": 1763086837,
+    "date_posted": 1763086837,
+    "url": "https://fa-exki-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25522",
+    "locations": [
+      "Remote in UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Fanatics",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Truist Bank",
+    "id": "64dd4cfd-b61e-497b-97cd-f934eceaaa7f",
+    "title": "Software Engineer 1",
+    "active": true,
+    "date_updated": 1763088551,
+    "date_posted": 1763088551,
+    "url": "https://truist.wd1.myworkdayjobs.com/en-US/Careers/job/Charlotte-NC/Software-Engineer-I_R0108256",
+    "locations": [
+      "Raleigh, NC",
+      "Charlotte, NC",
+      "Atlanta, GA"
+    ],
+    "company_url": "https://simplify.jobs/c/Truist-Bank",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
