@@ -40272,5 +40272,24 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "BlueCross BlueShield of Tennessee",
+    "id": "410ede1f-4a9d-40ba-bb93-f94101c10057",
+    "title": "Associate Software Engineer 1",
+    "active": true,
+    "date_updated": 1763130721,
+    "date_posted": 1763130721,
+    "url": "https://bcbst.wd1.myworkdayjobs.com/external/job/USA-TN-Chattanooga-Remote/Associate-Software-Engineer-I_R-47784",
+    "locations": [
+      "Chattanooga, TN",
+      "United States"
+    ],
+    "company_url": "https://simplify.jobs/c/BlueCross-Blueshield-Of-Tennessee",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
