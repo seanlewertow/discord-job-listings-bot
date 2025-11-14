@@ -40253,5 +40253,24 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Google",
+    "id": "a82a890b-8353-4fd9-a660-63af762e9f11",
+    "title": "Data Scientist \u2013 Early Career - Research - PhD",
+    "active": true,
+    "date_updated": 1763116964,
+    "date_posted": 1762385224,
+    "url": "https://www.google.com/about/careers/applications/jobs/results/106428613359739590",
+    "locations": [
+      "NYC",
+      "Mountain View, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Google",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
