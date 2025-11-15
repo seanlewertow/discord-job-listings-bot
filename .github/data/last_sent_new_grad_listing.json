@@ -40654,5 +40654,79 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "Allegiant Air",
+    "id": "6617b14e-3046-4046-9fc6-45c097a19d93",
+    "title": "Product Manager 1",
+    "active": true,
+    "date_updated": 1763191337,
+    "date_posted": 1763191337,
+    "url": "https://jobs.lever.co/allegiantair/eae0d56b-4187-4c46-b595-700fef1c69ab/apply",
+    "locations": [
+      "Las Vegas, NV"
+    ],
+    "company_url": "https://simplify.jobs/c/Allegiant-Air",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Fidelity National Financial",
+    "id": "75713ae8-9fca-469c-904d-eb1a3430a359",
+    "title": "Imaging Analyst",
+    "active": true,
+    "date_updated": 1763191560,
+    "date_posted": 1763162169,
+    "url": "https://careers-fnf.icims.com/jobs/3210/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Altamonte Springs, FL"
+    ],
+    "company_url": "https://simplify.jobs/c/Fidelity-National-Financial",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Rambus",
+    "id": "6ae11029-0e99-4ec7-a18f-3bec057a9629",
+    "title": "Firmware Engineer",
+    "active": true,
+    "date_updated": 1763191068,
+    "date_posted": 1761950058,
+    "url": "https://careers-rambus.icims.com/jobs/22415/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Vancouver, BC, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Rambus",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Sysmex",
+    "id": "bd24eda5-ecb6-497b-9a0f-e45bf2378726",
+    "title": "Technician - Field Service - Regional Wausau WI",
+    "active": true,
+    "date_updated": 1763191293,
+    "date_posted": 1757611970,
+    "url": "https://careers-sysmex.icims.com/jobs/4456/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Abbotsford, WI"
+    ],
+    "company_url": "https://simplify.jobs/c/Sysmex",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Associate's"
+    ]
   }
 ]
