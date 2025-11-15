@@ -40728,5 +40728,95 @@
     "degrees": [
       "Associate's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "c184d20d-06b1-4afa-90a1-3c87198a157a",
+    "title": "Trading Assistant - Local",
+    "active": true,
+    "date_updated": 1763192576,
+    "date_posted": 1763192576,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400037256",
+    "locations": [
+      "United Kingdom"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Dover",
+    "id": "f1d32700-7e30-4a96-b568-898e86bba1c4",
+    "title": "Test Lab Technician",
+    "active": true,
+    "date_updated": 1763192216,
+    "date_posted": 1763192216,
+    "url": "https://careers.dovercorporation.com/job/South-Chesterfield-Test-Lab-Technician-VA-23934/1257958101/?ats=successfactors",
+    "locations": [
+      "Petersburg, VA"
+    ],
+    "company_url": "https://simplify.jobs/c/511130a6-b974-4ccb-a78b-14049de141bb",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Atlas Copco Group",
+    "id": "dd1df72a-3334-4606-aed6-54b361408405",
+    "title": "Service Technician",
+    "active": true,
+    "date_updated": 1763192126,
+    "date_posted": 1763192126,
+    "url": "https://www.careers.homeofindustrialideas.com/job/Rome-Service-Technician-New/1243323701/?ats=successfactors",
+    "locations": [
+      "Auburn, NY"
+    ],
+    "company_url": "https://simplify.jobs/c/Atlas-Copco-Group",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "ASSA ABLOY",
+    "id": "ca919d10-fd69-41a1-b945-3dabca41e240",
+    "title": "Installation Technician",
+    "active": true,
+    "date_updated": 1763192328,
+    "date_posted": 1763192328,
+    "url": "https://assaabloy.jobs2web.com/job/Elk-Grove-Village-Installation-Technician-IL-60007/1267860001/?ats=successfactors",
+    "locations": [
+      "Elk Grove Village, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/ASSA-ABLOY",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Atlas Copco Group",
+    "id": "60c7557b-a4a3-451c-8b75-1f1465236f8a",
+    "title": "Field Service Engineer 1",
+    "active": true,
+    "date_updated": 1763192135,
+    "date_posted": 1763192135,
+    "url": "https://www.careers.homeofindustrialideas.com/job/Newport-Field-Service-Engineer-1-Othe/1248952701/?ats=successfactors",
+    "locations": [
+      "Cardiff, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Atlas-Copco-Group",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
