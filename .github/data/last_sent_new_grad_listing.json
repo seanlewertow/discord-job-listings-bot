@@ -41004,5 +41004,23 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Assort Health",
+    "id": "7005669b-e677-4960-ac79-dbef1b80b4c8",
+    "title": "Software Engineer - Agent",
+    "active": true,
+    "date_updated": 1763206918,
+    "date_posted": 1761876387,
+    "url": "https://jobs.ashbyhq.com/assorthealth/e6abd4f1-2081-40a1-b38e-e4eba8903fb1/application",
+    "locations": [
+      "SF"
+    ],
+    "company_url": "https://simplify.jobs/c/Assort-Health",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
