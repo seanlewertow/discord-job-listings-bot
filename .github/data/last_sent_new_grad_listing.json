@@ -41022,5 +41022,59 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "The Boeing Company",
+    "id": "d9abb219-bcd9-4d2c-9e03-380098ef28ed",
+    "title": "Early Career Configuration Management Engineer",
+    "active": true,
+    "date_updated": 1763232230,
+    "date_posted": 1763232230,
+    "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Hazelwood-MO/Early-Career-Configuration-Management-Engineer_JR2025466090",
+    "locations": [
+      "Hazelwood, MO"
+    ],
+    "company_url": "https://simplify.jobs/c/Boeing",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "f25d9a33-87a9-4c4e-aaed-bfece1216ae7",
+    "title": "Trading Assistant",
+    "active": true,
+    "date_updated": 1763232647,
+    "date_posted": 1763232647,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400037545",
+    "locations": [
+      "Aldershot, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "29eca946-823b-4680-ada9-f5449c92a3a5",
+    "title": "Trading Assistant",
+    "active": true,
+    "date_updated": 1763232646,
+    "date_posted": 1763232646,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400034816",
+    "locations": [
+      "Stockbridge, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
