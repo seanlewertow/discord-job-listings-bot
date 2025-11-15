@@ -40944,5 +40944,65 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Meta",
+    "id": "9b823414-09fe-41ff-a0d4-846fa2802650",
+    "title": "Data Scientist - Product Analytics",
+    "active": true,
+    "date_updated": 1763205489,
+    "date_posted": 1763192711,
+    "url": "https://www.metacareers.com/jobs/1474404313779164",
+    "locations": [
+      "Seattle, WA",
+      "Menlo Park, CA",
+      "NYC",
+      "Bellevue, WA"
+    ],
+    "company_url": "https://simplify.jobs/c/Meta",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Certificate"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Meta",
+    "id": "63c202f9-4f14-4eac-bfdc-b553355b98b9",
+    "title": "Data Developer",
+    "active": true,
+    "date_updated": 1763205315,
+    "date_posted": 1763192624,
+    "url": "https://www.metacareers.com/jobs/1245571270931878",
+    "locations": [
+      "Austin, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Meta",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Gladia",
+    "id": "81082748-e64e-4a0a-8e66-123e254abef8",
+    "title": "Forward Deployed Engineer",
+    "active": true,
+    "date_updated": 1763205344,
+    "date_posted": 1761899413,
+    "url": "https://jobs.ashbyhq.com/gladia/b8dfd875-9b1e-4d23-9da9-24bb8a892fcd/application",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Gladia",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
