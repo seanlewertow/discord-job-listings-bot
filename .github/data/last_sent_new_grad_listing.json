@@ -40818,5 +40818,95 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "abf1c82b-c9fe-41e5-8a70-1b8ae6b9b8b2",
+    "title": "Trading Assistant - Shift",
+    "active": true,
+    "date_updated": 1763192589,
+    "date_posted": 1763192589,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400037489",
+    "locations": [
+      "Chesterfield, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "5fc6ef26-3beb-4954-a275-15b75cd26648",
+    "title": "Trading Assistant - Shift",
+    "active": true,
+    "date_updated": 1763192578,
+    "date_posted": 1763192578,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400037495",
+    "locations": [
+      "Basingstoke, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Dover",
+    "id": "036615d5-011e-400b-8248-10d5db6ea5c3",
+    "title": "RMA Technician",
+    "active": true,
+    "date_updated": 1763192217,
+    "date_posted": 1763192217,
+    "url": "https://careers.dovercorporation.com/job/Livonia-RMA-Technician-MI/1258775601/?ats=successfactors",
+    "locations": [
+      "Livonia, MI"
+    ],
+    "company_url": "https://simplify.jobs/c/511130a6-b974-4ccb-a78b-14049de141bb",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "ba4b7b5c-ba43-4923-ad2a-4d389ff2ff74",
+    "title": "Trading Assistant - Shift",
+    "active": true,
+    "date_updated": 1763192587,
+    "date_posted": 1763192587,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400037491",
+    "locations": [
+      "Peterborough, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "skillz",
+    "id": "1d1d8683-9e1c-4c90-b8de-cec1c8aefd56",
+    "title": "Associate Software Engineer",
+    "active": true,
+    "date_updated": 1763192315,
+    "date_posted": 1763192315,
+    "url": "http://corp.skillz.com/careers-list/?gh_jid=7295606",
+    "locations": [
+      "Las Vegas, NV"
+    ],
+    "company_url": "https://simplify.jobs/c/c955eac9-1026-451b-95fe-582bb7c07c4c",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
