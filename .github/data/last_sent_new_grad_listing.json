@@ -40564,5 +40564,95 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "EOS",
+    "id": "c629d5c9-29cb-4152-b5f6-3111b7896581",
+    "title": "Data Center Repair Technician - Breakfix",
+    "active": true,
+    "date_updated": 1763162302,
+    "date_posted": 1763162302,
+    "url": "https://eosits.com/company/careers/?gh_jid=8207450002",
+    "locations": [
+      "Augusta, GA"
+    ],
+    "company_url": "https://simplify.jobs/c/EOS",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "RTX",
+    "id": "bb299be6-e894-4600-a33c-4ffc05c4b83e",
+    "title": "FPGA Design Engineer 1 - Onsite Tucson - AZ",
+    "active": true,
+    "date_updated": 1763162794,
+    "date_posted": 1763162794,
+    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/AZ852-RMS-AP-Bldg-M02-1151-East-Hermans-Road-Building-M02-Tucson-AZ-85756-USA/FPGA-Design-Engineer-I---Onsite-Tucson--AZ_01804230",
+    "locations": [
+      "Tucson, AZ"
+    ],
+    "company_url": "https://simplify.jobs/c/RTX",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Acuity",
+    "id": "a19a54f5-8835-4875-bcbd-e8dec182ff27",
+    "title": "Leadership Program - Data Engineer/AI",
+    "active": true,
+    "date_updated": 1763162729,
+    "date_posted": 1763162729,
+    "url": "https://careers.acuityinc.com/job/Atlanta-Leadership-Program-Data-EngineeringAI-(Hybrid)-GA-30309/1338235100/?ats=successfactors",
+    "locations": [
+      "Atlanta, GA"
+    ],
+    "company_url": "https://simplify.jobs/c/Acuity",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Internet Brands",
+    "id": "0af1e703-1fe1-4db8-9b24-e13c6b286418",
+    "title": "Associate AI Software Engineer Job ID 2025",
+    "active": true,
+    "date_updated": 1763161875,
+    "date_posted": 1763161875,
+    "url": "https://jobs.jobvite.com/internetbrands/job/o63Oyfwf?nl=1&nl=1&fr=false",
+    "locations": [
+      "El Segundo, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Internet-Brands",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "NV5 Global",
+    "id": "abe91c19-9936-46ff-b2c3-1f08cdfb15cb",
+    "title": "Technician",
+    "active": true,
+    "date_updated": 1763162566,
+    "date_posted": 1760250019,
+    "url": "https://careers-nv5.icims.com/jobs/11388/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Lexington, KY"
+    ],
+    "company_url": "https://simplify.jobs/c/NV5-Global",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
