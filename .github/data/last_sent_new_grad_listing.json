@@ -40908,5 +40908,41 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Vanderlande Industries",
+    "id": "12b3f303-f368-4944-963b-d60407917218",
+    "title": "Service Technician 1",
+    "active": true,
+    "date_updated": 1763201853,
+    "date_posted": 1761900093,
+    "url": "https://vanderlande.wd3.myworkdayjobs.com/careers/job/TorontoOntario/Service-Technician-I_JR34583",
+    "locations": [
+      "Toronto, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/7ab55595-a241-4468-bf77-178371480131",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Intel",
+    "id": "34f0cb72-cc35-409f-b179-0c7255276de0",
+    "title": "Software Application Development Engineer",
+    "active": true,
+    "date_updated": 1763201437,
+    "date_posted": 1761992670,
+    "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Arizona-Phoenix/Software-Application-Development-Engineer_JR0277566-1",
+    "locations": [
+      "Phoenix, AZ"
+    ],
+    "company_url": "https://simplify.jobs/c/Intel",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
