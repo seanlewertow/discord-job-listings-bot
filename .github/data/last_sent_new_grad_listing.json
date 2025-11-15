@@ -41167,5 +41167,41 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "b7ed665e-6b23-4ad0-bb5e-cd80e4de2fa0",
+    "title": "Trading Assistant",
+    "active": true,
+    "date_updated": 1763232647,
+    "date_posted": 1763232647,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400037543",
+    "locations": [
+      "Hereford, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Susquehanna International Group (SIG)",
+    "id": "53bd44b1-ca36-45a5-a3fd-c8377fe45574",
+    "title": "Quantitative Strategy Developer",
+    "active": true,
+    "date_updated": 1763232652,
+    "date_posted": 1757793162,
+    "url": "https://careers-sig.icims.com/jobs/9531/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Ardmore, PA"
+    ],
+    "company_url": "https://simplify.jobs/c/Susquehanna",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
