@@ -41076,5 +41076,96 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "c497e0ea-588a-4af3-a104-929942700bc6",
+    "title": "Trading Assistant",
+    "active": true,
+    "date_updated": 1763232641,
+    "date_posted": 1763232641,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400036384",
+    "locations": [
+      "Cambridge, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "ec810782-5f34-4388-a566-4b2f64c5a2a6",
+    "title": "Trading Assistant - Shift",
+    "active": true,
+    "date_updated": 1763232641,
+    "date_posted": 1763232641,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400035054",
+    "locations": [
+      "Yeovil, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "b7ba086b-0ffd-4b9c-8c22-c99368da825e",
+    "title": "Trading Assistant",
+    "active": true,
+    "date_updated": 1763232647,
+    "date_posted": 1763232647,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400037544",
+    "locations": [
+      "Aldershot, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Thales",
+    "id": "d4162a38-acb9-4e62-8872-19cb8fc9bc38",
+    "title": "Firmware Research Engineer",
+    "active": true,
+    "date_updated": 1763233521,
+    "date_posted": 1763233521,
+    "url": "https://thales.wd3.myworkdayjobs.com/en-US/Careers/job/Reading/Firmware-Research-Engineer_R0301492-2",
+    "locations": [
+      "Reading, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Thales",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "9d0995fb-739d-4837-90be-0e300de99781",
+    "title": "Trading Assistant - Local",
+    "active": true,
+    "date_updated": 1763232648,
+    "date_posted": 1763232648,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400037513",
+    "locations": [
+      "Durham, UK",
+      "Thirsk, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
