@@ -41420,5 +41420,95 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "08e4a0bb-4f60-4e25-be9a-5aa08843802b",
+    "title": "Trading Assistant - Shift",
+    "active": true,
+    "date_updated": 1763340203,
+    "date_posted": 1763340203,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400037825",
+    "locations": [
+      "Nottingham, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "005cbaaf-c802-4fd6-a2b9-20caeb814bce",
+    "title": "Trading Assistant - Local",
+    "active": true,
+    "date_updated": 1763340204,
+    "date_posted": 1763340204,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400037788",
+    "locations": [
+      "Nottingham, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "416cffdc-702b-4b90-b293-bad28bd66fc7",
+    "title": "Trading Assistant",
+    "active": true,
+    "date_updated": 1763339925,
+    "date_posted": 1763339925,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400030048",
+    "locations": [
+      "Cambridge, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "05007348-45fd-41a2-9b76-1eadc63c62c3",
+    "title": "Trading Assistant - Shift",
+    "active": true,
+    "date_updated": 1763339980,
+    "date_posted": 1763339980,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400034475",
+    "locations": [
+      "Stoke-on-Trent, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "date_updated": 1763345369,
+    "sponsorship": "Does Not Offer Sponsorship",
+    "active": true,
+    "degrees": [],
+    "url": "https://jobs.citi.com/job/new-york/technology-production-support-full-time-analyst-new-york-new-jersey-usa-2026/287/88356984496",
+    "company_name": "Citibank",
+    "title": "Technology, Production Support, Full-Time Analyst",
+    "locations": [
+      "New York, NY"
+    ],
+    "category": "Software Engineering",
+    "source": "eren-s-chang",
+    "id": "908a0f99-7c8b-4922-a9cc-e3634fd5acdb",
+    "date_posted": 1763345369,
+    "company_url": "",
+    "is_visible": true
   }
 ]
