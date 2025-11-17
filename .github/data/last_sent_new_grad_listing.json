@@ -41510,5 +41510,55 @@
     "date_posted": 1763345369,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Circle",
+    "id": "1dca36e3-277a-47ae-b37e-c41abb106aef",
+    "title": "New Grad Software Engineer - Backend 2026",
+    "active": true,
+    "date_updated": 1763351590,
+    "date_posted": 1763351590,
+    "url": "https://careers.circle.com/us/en/job/JR100011-EG",
+    "locations": [
+      "Salt Lake City, UT",
+      "Boston, MA",
+      "Seattle, WA",
+      "Washington, DC",
+      "SF",
+      "Austin, TX",
+      "LA",
+      "Miami, FL",
+      "Chicago, IL",
+      "NYC",
+      "Phoenix, AZ",
+      "Atlanta, GA"
+    ],
+    "company_url": "https://simplify.jobs/c/Circle",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "RTX",
+    "id": "95ca0b3b-e0ac-4a4e-a5de-0949dbd6efaf",
+    "title": "SETC Effectors Systems Engineer 1",
+    "active": true,
+    "date_updated": 1763351068,
+    "date_posted": 1763351068,
+    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/AZ805-RMS-AP-Bldg-805-1151-East-Hermans-Road-Building-805-Tucson-AZ-85756-USA/SETC-Effectors-Systems-Engineer-I_01806514-1",
+    "locations": [
+      "Tucson, AZ"
+    ],
+    "company_url": "https://simplify.jobs/c/RTX",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
   }
 ]
