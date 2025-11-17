@@ -41709,5 +41709,23 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Electronic Arts",
+    "id": "904092e4-9605-4713-96d1-2f623661786f",
+    "title": "Software Engineer AI Automation",
+    "active": true,
+    "date_updated": 1762821935,
+    "date_posted": 1762821935,
+    "url": "https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-AI-Automation/210718",
+    "locations": [
+      "Vancouver, BC, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Electronic-Arts",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
