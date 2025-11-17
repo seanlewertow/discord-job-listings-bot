@@ -42107,5 +42107,95 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Apex Fintech Solutions",
+    "id": "d24b8b2c-a64e-4171-9027-2cceeb1e2b7b",
+    "title": "Software Engineer 1 - Aldp",
+    "active": true,
+    "date_updated": 1763421565,
+    "date_posted": 1763421565,
+    "url": "https://peak6group.wd1.myworkdayjobs.com/apexfintechsolutions/job/Austin-TX/Software-Engineer-I--ALDP-_JR103499",
+    "locations": [
+      "Austin, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Apex-Fintech-Solutions",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "BTI Solutions",
+    "id": "fe729341-d7ae-464f-a0bf-34203fda9d7c",
+    "title": "Development Engineer",
+    "active": true,
+    "date_updated": 1763421002,
+    "date_posted": 1763421002,
+    "url": "https://btisolutions.wd12.myworkdayjobs.com/External/job/ALISO-VIEJO-CA/Development-Engineer-l--TL--Aliso-Viejo--CA_JR101432-1",
+    "locations": [
+      "Aliso Viejo, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/BTI-Solutions",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "The Wharton School",
+    "id": "cd97b351-6ee4-4972-95e1-abeaf8b2228f",
+    "title": "Pre-Doctoral Research Specialist",
+    "active": true,
+    "date_updated": 1763420837,
+    "date_posted": 1763420837,
+    "url": "https://wd1.myworkdaysite.com/recruiting/upenn/Wharton/job/SD---Wharton-Accounting-Dept/Pre-Doctoral-Research-Specialist_JR00114176",
+    "locations": [
+      "Philadelphia, PA"
+    ],
+    "company_url": "https://simplify.jobs/c/The-Wharton-School",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "The Wharton School",
+    "id": "2940d24e-88aa-4676-abb5-cbe6e91ac8c2",
+    "title": "Pre-Doctoral Research Specialist",
+    "active": true,
+    "date_updated": 1763420841,
+    "date_posted": 1763420841,
+    "url": "https://wd1.myworkdaysite.com/recruiting/upenn/Wharton/job/SD---Wharton-Finance/Pre-Doctoral-Research-Specialist_JR00114193",
+    "locations": [
+      "Philadelphia, PA"
+    ],
+    "company_url": "https://simplify.jobs/c/The-Wharton-School",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "SDSU Research Foundation",
+    "id": "aa3663c0-e0d6-43a7-a761-4dbbd5f6bdc4",
+    "title": "Niwc Senior - Multiple Teams",
+    "active": true,
+    "date_updated": 1763421131,
+    "date_posted": 1757541157,
+    "url": "https://careers-sdsurf.icims.com/jobs/19750/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "San Diego, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/SDSU-Research-Foundation",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
