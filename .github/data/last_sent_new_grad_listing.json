@@ -41614,5 +41614,23 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Fermilab",
+    "id": "28c24f75-bdb2-4c93-81ef-8bd13ff02fe5",
+    "title": "Research Associate/ECA",
+    "active": true,
+    "date_updated": 1763364032,
+    "date_posted": 1763364032,
+    "url": "https://fermilab.wd5.myworkdayjobs.com/FermilabCareers/job/Batavia/Research-Associate-ECA_R_009154",
+    "locations": [
+      "Batavia, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/Fermilab",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
