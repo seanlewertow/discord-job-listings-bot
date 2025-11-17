@@ -42089,5 +42089,23 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Field AI",
+    "id": "1a5043e6-7db1-437b-b960-1636287c7070",
+    "title": "Robotics Hardware Engineer - Mechanical Systems",
+    "active": true,
+    "date_updated": 1763372402,
+    "date_posted": 1755034989,
+    "url": "https://jobs.lever.co/field-ai/c6d6d504-d01a-4ba5-9b33-f3e857f630d4/apply",
+    "locations": [
+      "Irvine, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Field-AI",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
