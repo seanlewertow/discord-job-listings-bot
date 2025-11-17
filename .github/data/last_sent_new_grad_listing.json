@@ -41853,5 +41853,59 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "L3Harris Technologies",
+    "id": "e47a89dd-0f00-4357-b302-1ea78ab94997",
+    "title": "Associate \u2013 Systems Engineer",
+    "active": true,
+    "date_updated": 1763396618,
+    "date_posted": 1763396618,
+    "url": "https://jobs.l3harris.com/job/Ottawa-Associate,-Systems-Engineer-ON-K2H-9N6/1343330400/?ats=successfactors",
+    "locations": [
+      "Ottawa, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "University of Virginia",
+    "id": "57ef4d6f-f823-4df3-8105-878f60b1d8f1",
+    "title": "CCL Digital Humanities and Engagement SRA - Student Wage",
+    "active": true,
+    "date_updated": 1763395665,
+    "date_posted": 1763395665,
+    "url": "https://uva.wd1.myworkdayjobs.com/uvastudentjobs/job/Charlottesville-VA/CCL-Digital-Humanities-and-Engagement-SRA--Student-Wage-_R0078089-1",
+    "locations": [
+      "Charlottesville, VA"
+    ],
+    "company_url": "https://simplify.jobs/c/University-Of-Virginia",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Scientific Research Corporation",
+    "id": "be6d091e-e4a3-4463-ba08-d765a55e5fd4",
+    "title": "Salesforce Database Administrator",
+    "active": true,
+    "date_updated": 1763396248,
+    "date_posted": 1757611408,
+    "url": "https://careers-scires.icims.com/jobs/10598/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "North Charleston, SC"
+    ],
+    "company_url": "https://simplify.jobs/c/Scientific-Research-Corporation",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
