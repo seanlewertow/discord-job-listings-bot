@@ -41907,5 +41907,95 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Lloyds Bank",
+    "id": "dab60363-2411-410c-8651-d507ad8ca664",
+    "title": "Software Engineer",
+    "active": true,
+    "date_updated": 1763397883,
+    "date_posted": 1763397883,
+    "url": "https://lbg.wd3.myworkdayjobs.com/LBG_Careers/job/Edinburgh/Software-Engineer_142814-2",
+    "locations": [
+      "Edinburgh, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Lloyds-Bank",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "RTX",
+    "id": "eced7627-7ac2-47ce-85cb-81b8fd78954a",
+    "title": "Software Engineer 1",
+    "active": true,
+    "date_updated": 1763396886,
+    "date_posted": 1763396886,
+    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/MA803-Marlborough-MA-Building-3-1001-Boston-Post-Road-Building-3-Marlborough-MA-01752-USA/Software-Engineer-I--Onsite-_01806424",
+    "locations": [
+      "Marlborough, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/RTX",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "RTX",
+    "id": "e3ac0d73-f38e-4346-bfd9-ce721c36a724",
+    "title": "Software Engineer 1",
+    "active": true,
+    "date_updated": 1763396882,
+    "date_posted": 1763396882,
+    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/FL410-Largo-FL-MFG-7887-Bryan-Dairy-Road---Largo-FL-33777-USA/Software-Engineer-I--Onsite-_01806704",
+    "locations": [
+      "Largo, FL"
+    ],
+    "company_url": "https://simplify.jobs/c/RTX",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "RTX",
+    "id": "090d6179-e43f-4ba2-98e9-7d2aa343eeed",
+    "title": "Engineering Services & Support Technician",
+    "active": true,
+    "date_updated": 1763396881,
+    "date_posted": 1763396881,
+    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/104-30-Edgewater-Drive-Ottawa-Ontario-K2L-1V8-Canada/Engineering-Services---Support-Technician--T1---Onsite-_01807033",
+    "locations": [
+      "Ottawa, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/RTX",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Grayce",
+    "id": "d2a622eb-338d-4f28-8e50-ae11ab00581b",
+    "title": "Graduate Software Engineer",
+    "active": true,
+    "date_updated": 1763397090,
+    "date_posted": 1763397090,
+    "url": "https://apply.workable.com/grayce/j/B616AAA415/apply",
+    "locations": [
+      "Cardiff, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/ece08408-be43-4331-9af6-746c6e9977ec",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
