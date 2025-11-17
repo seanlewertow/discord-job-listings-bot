@@ -41997,5 +41997,97 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "d0afbbc2-a101-4677-b5e8-d905f6a9f41d",
+    "title": "Trading Assistant - Shift",
+    "active": true,
+    "date_updated": 1763398492,
+    "date_posted": 1763398492,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400038032",
+    "locations": [
+      "Harrogate, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "General Dynamics Mission Systems",
+    "id": "c1a658e1-a5e2-4b72-bc95-0b3284d1a5c7",
+    "title": "Entry Level Systems Engineer - Conventional Prompt Strike Program",
+    "active": true,
+    "date_updated": 1763398292,
+    "date_posted": 1763398292,
+    "url": "https://careers-gdms.icims.com/jobs/69097/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Pittsfield, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/General-Dynamics-Mission-Systems",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "a3b22c18-21b1-4c84-a8d9-a80d1e136468",
+    "title": "Trading Assistant",
+    "active": true,
+    "date_updated": 1763398505,
+    "date_posted": 1763398505,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400038050",
+    "locations": [
+      "Whiteley, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "8e759b15-b438-4c51-a89f-d0d95fd2907a",
+    "title": "Trading Assistant",
+    "active": true,
+    "date_updated": 1763398485,
+    "date_posted": 1763398485,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400037890",
+    "locations": [
+      "Ipswich, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Warner Bros.",
+    "id": "8d2f11c4-f580-416a-bbe4-e961f716faf7",
+    "title": "Data Scientist 1 - Media Mix Modeling",
+    "active": true,
+    "date_updated": 1763398566,
+    "date_posted": 1763398566,
+    "url": "https://warnerbros.wd5.myworkdayjobs.com/global/job/GA-Atlanta-1050-Techwood-Drive-NW/Data-Scientist-I---Media-Mix-Modeling_R000093713",
+    "locations": [
+      "Atlanta, GA"
+    ],
+    "company_url": "https://simplify.jobs/c/Warner-Bros",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
