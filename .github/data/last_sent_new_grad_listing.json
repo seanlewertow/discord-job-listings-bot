@@ -42518,5 +42518,41 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "AGCO",
+    "id": "49137f2a-ed09-4305-9a0c-74ed7003f721",
+    "title": "Industry Analyst",
+    "active": true,
+    "date_updated": 1763456534,
+    "date_posted": 1763456534,
+    "url": "https://careers.agcocorp.com/job/Johannesburg-Industry-Analyst-APA/1338544900/?ats=successfactors",
+    "locations": [
+      "Omaha, NE"
+    ],
+    "company_url": "https://simplify.jobs/c/AGCO",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Formlabs",
+    "id": "0921bbb1-42de-4e67-8a6f-42386849cf4e",
+    "title": "Engineering Technician",
+    "active": true,
+    "date_updated": 1763459767,
+    "date_posted": 1762618870,
+    "url": "https://careers.formlabs.com/job/7384787/apply/?gh_jid=7384787",
+    "locations": [
+      "Cambridge, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/Formlabs",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
