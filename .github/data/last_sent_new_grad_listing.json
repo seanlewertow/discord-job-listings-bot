@@ -42608,5 +42608,41 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "date_updated": 1763482649,
+    "sponsorship": "Other",
+    "active": true,
+    "degrees": [],
+    "url": "https://zoom.wd5.myworkdayjobs.com/Zoom/job/Remote--WA/Software-Development_R17786-1",
+    "company_name": "Zoom",
+    "title": "Software Development",
+    "locations": [
+      "Remote in USA"
+    ],
+    "category": "Software Engineering",
+    "source": "angie-hue",
+    "id": "2316e6fd-7d71-44bb-a671-cde022188740",
+    "date_posted": 1763482649,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1763482717,
+    "sponsorship": "Other",
+    "active": true,
+    "degrees": [],
+    "url": "https://jobs.apple.com/en-us/details/200627852-3956/software-engineer-is-t-early-career",
+    "company_name": "Apple",
+    "title": "Software Engineer, IS&T Early Career",
+    "locations": [
+      "Sunnyvale, CA"
+    ],
+    "category": "Software Engineering",
+    "source": "angie-hue",
+    "id": "5913752b-66db-42f5-b735-95de34f2e57e",
+    "date_posted": 1763482717,
+    "company_url": "",
+    "is_visible": true
   }
 ]
