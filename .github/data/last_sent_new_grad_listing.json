@@ -42197,5 +42197,103 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Keysight Technologies",
+    "id": "4c0dda97-812d-4941-b760-a843e5a65fc7",
+    "title": "R&D Engineer 1 - Software",
+    "active": true,
+    "date_updated": 1763426066,
+    "date_posted": 1763426066,
+    "url": "https://jobs.keysight.com/jobs/50862?lang=en-us&icims=1",
+    "locations": [
+      "Santa Rosa, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Keysight-Technologies-Inc",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Meta",
+    "id": "e6ebdbc0-75f6-41cc-bef2-7f14c1208f03",
+    "title": "Visiting Researcher - AI Mentorship Program - PhD",
+    "active": true,
+    "date_updated": 1763425557,
+    "date_posted": 1763425557,
+    "url": "https://www.metacareers.com/jobs/25103806402642203",
+    "locations": [
+      "Seattle, WA",
+      "SF",
+      "Pittsburgh, PA",
+      "Menlo Park, CA",
+      "NYC",
+      "Bellevue, WA"
+    ],
+    "company_url": "https://simplify.jobs/c/Meta",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Emerson Electric",
+    "id": "50243072-ba20-4499-9e93-2facb78c2d6c",
+    "title": "Software Engineering Development Program - Sedp",
+    "active": true,
+    "date_updated": 1763425539,
+    "date_posted": 1763425539,
+    "url": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25028990",
+    "locations": [
+      "Elyria, OH"
+    ],
+    "company_url": "https://simplify.jobs/c/Emerson-Electric",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Meta",
+    "id": "3b369c04-e30d-49d1-9bcf-8f62a6356e3f",
+    "title": "Visiting Researcher - AI Mentorship Program - PhD",
+    "active": true,
+    "date_updated": 1763425547,
+    "date_posted": 1763425547,
+    "url": "https://www.metacareers.com/jobs/1145458217260177",
+    "locations": [
+      "Montreal, QC, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Meta",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Walmart",
+    "id": "74ae478a-698c-41f5-a48a-ba0b192a25ad",
+    "title": "Senior Analyst - Advanced Analytics",
+    "active": true,
+    "date_updated": 1763428491,
+    "date_posted": 1763428491,
+    "url": "https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Hoboken-NJ/Senior-Analyst--Advanced-Analytics_R-2355992-1",
+    "locations": [
+      "Union City, NJ"
+    ],
+    "company_url": "https://simplify.jobs/c/Walmart",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
