@@ -42425,5 +42425,23 @@
     "date_posted": 1763443877,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Air Liquide",
+    "id": "0ff6a28b-0c9e-4962-867c-73a635ac4f7a",
+    "title": "Modelling & Simulation Engineer",
+    "active": true,
+    "date_updated": 1763445076,
+    "date_posted": 1763445076,
+    "url": "https://airliquidehr.wd3.myworkdayjobs.com/AirLiquideExternalCareer/job/Houston-TX-HO/VIE---Modelling---Simulation-Engineer-M-F-D-_R10080193",
+    "locations": [
+      "Houston, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Air-Liquide",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
