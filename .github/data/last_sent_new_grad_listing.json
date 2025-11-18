@@ -42443,5 +42443,23 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Major League Baseball",
+    "id": "0f805f93-2b26-438c-8c49-629bed07db92",
+    "title": "Associate Software Engineer - Full-Stack Development",
+    "active": true,
+    "date_updated": 1763455207,
+    "date_posted": 1763455207,
+    "url": "https://job-boards.greenhouse.io/philliesbaseballoperations/jobs/7500695003",
+    "locations": [
+      "Philadelphia, PA"
+    ],
+    "company_url": "https://simplify.jobs/c/MLB",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
