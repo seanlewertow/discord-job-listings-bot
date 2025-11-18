@@ -42644,5 +42644,42 @@
     "date_posted": 1763482717,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "date_updated": 1763482797,
+    "sponsorship": "U.S. Citizenship is Required",
+    "active": true,
+    "degrees": [],
+    "url": "https://jobs.lever.co/parallelwireless/0608a395-7c6d-4e01-acfe-ade970b991dd/",
+    "company_name": "Parallel Wireless",
+    "title": "Junior RT Software Engineer 5G Stack",
+    "locations": [
+      "Nashua, NH"
+    ],
+    "category": "Hardware Engineering",
+    "source": "angie-hue",
+    "id": "343d1734-5ba1-4337-ae45-088cf64f7eda",
+    "date_posted": 1763482797,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1763482852,
+    "sponsorship": "Does Not Offer Sponsorship",
+    "active": true,
+    "degrees": [],
+    "url": "https://kar.wd1.myworkdayjobs.com/en-US/OPENLANE_Careers/job/Remote-United-States/Junior-Software-Engineer_R-253158",
+    "company_name": "OPENLANE",
+    "title": "Junior Software Engineer",
+    "locations": [
+      "Remote in USA",
+      "Remote in Canada"
+    ],
+    "category": "Software Engineering",
+    "source": "angie-hue",
+    "id": "4333b214-19cf-4982-88ce-2454e740701a",
+    "date_posted": 1763482852,
+    "company_url": "",
+    "is_visible": true
   }
 ]
