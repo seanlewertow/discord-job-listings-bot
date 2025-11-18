@@ -42590,5 +42590,23 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Visa",
+    "id": "4c34bbce-42bc-4b9a-ba9d-ecfeb9db1820",
+    "title": "Graduate Software Engineer",
+    "active": true,
+    "date_updated": 1763470847,
+    "date_posted": 1763470847,
+    "url": "https://jobs.smartrecruiters.com/Visa/744000094151680",
+    "locations": [
+      "Cambridge, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Visa",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
