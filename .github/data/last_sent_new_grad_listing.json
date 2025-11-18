@@ -42461,5 +42461,62 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Major League Baseball",
+    "id": "3e6c6676-620d-4ed3-b372-fd8020e224c5",
+    "title": "Video & Technology Associate",
+    "active": true,
+    "date_updated": 1763455222,
+    "date_posted": 1763455222,
+    "url": "https://job-boards.greenhouse.io/philliesbaseballoperations/jobs/7327636003",
+    "locations": [
+      "Reading, PA",
+      "Allentown, PA",
+      "Lakewood, NJ",
+      "Clearwater, FL"
+    ],
+    "company_url": "https://simplify.jobs/c/MLB",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Major League Baseball",
+    "id": "79844fa3-ab56-40d6-88d2-9ca7c8c116e7",
+    "title": "Major League Video and Technology Associate",
+    "active": true,
+    "date_updated": 1763455213,
+    "date_posted": 1763455213,
+    "url": "https://job-boards.greenhouse.io/philliesbaseballoperations/jobs/7511281003",
+    "locations": [
+      "Philadelphia, PA"
+    ],
+    "company_url": "https://simplify.jobs/c/MLB",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Major League Baseball",
+    "id": "fc59870f-7fa7-48e6-aa9b-37caaafd8fb1",
+    "title": "Associate Software Engineer - Data Engineering",
+    "active": true,
+    "date_updated": 1763455209,
+    "date_posted": 1763455209,
+    "url": "https://job-boards.greenhouse.io/philliesbaseballoperations/jobs/7500706003",
+    "locations": [
+      "Philadelphia, PA"
+    ],
+    "company_url": "https://simplify.jobs/c/MLB",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
