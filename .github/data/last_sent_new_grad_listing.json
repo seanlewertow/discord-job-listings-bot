@@ -42295,5 +42295,41 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Kettering Health",
+    "id": "4f7b4275-b8b5-443c-88ba-f969a8383109",
+    "title": "Clinical Analytics Analyst - Information Systems Analytic Health",
+    "active": true,
+    "date_updated": 1763441246,
+    "date_posted": 1763441246,
+    "url": "https://careers-ketteringhealth.icims.com/jobs/57003/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Miamisburg, OH"
+    ],
+    "company_url": "https://simplify.jobs/c/Kettering-Health",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Trace3",
+    "id": "b57a0780-0ccb-4518-b7da-f56802389d58",
+    "title": "Java DevSecOps Software Engineer",
+    "active": true,
+    "date_updated": 1763441473,
+    "date_posted": 1761504900,
+    "url": "https://job-boards.greenhouse.io/trace3/jobs/7350861",
+    "locations": [
+      "Colorado Springs, CO"
+    ],
+    "company_url": "https://simplify.jobs/c/Trace3",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
