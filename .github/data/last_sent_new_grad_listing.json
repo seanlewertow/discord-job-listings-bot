@@ -42681,5 +42681,98 @@
     "date_posted": 1763482852,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "RELX",
+    "id": "f1a3b603-6205-44e9-92e1-b6d2e4ee9c47",
+    "title": "Product Manager 1 - Insurance",
+    "active": true,
+    "date_updated": 1763507888,
+    "date_posted": 1763507888,
+    "url": "https://relx.wd3.myworkdayjobs.com/en-US/relx/job/Alpharetta-GA/Product-Manager-I--Insurance--Hybrid-_R104428-1",
+    "locations": [
+      "Alpharetta, GA"
+    ],
+    "company_url": "https://simplify.jobs/c/RELX",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Ocean Optics",
+    "id": "60de757d-4f28-4386-a3dc-abb5c9f52fe9",
+    "title": "Electronics Field Service Engineer",
+    "active": true,
+    "date_updated": 1763507984,
+    "date_posted": 1763507984,
+    "url": "https://halma.wd3.myworkdayjobs.com/halma/job/Abingdon/Electronics-Field-Service-Engineer---Based-Swindon---M4---M5-Corridor_JR25_001160",
+    "locations": [
+      "Oxford, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Ocean-Optics",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "PennState University",
+    "id": "3598a345-b0b5-4e14-af68-4b5409a20062",
+    "title": "Research Assistant",
+    "active": true,
+    "date_updated": 1763507304,
+    "date_posted": 1763507304,
+    "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/College-of-IST-Research-Assistant-w--Dr-Squicciarini_REQ_0000073686",
+    "locations": [
+      "State College, PA"
+    ],
+    "company_url": "https://simplify.jobs/c/Penn-State",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "The University of Chicago Medicine",
+    "id": "4ed199fd-524f-4b6b-af2b-4c2b2a3710d5",
+    "title": "Clinical Data Analyst - Same Day Surgery/Observation Coder",
+    "active": true,
+    "date_updated": 1763507855,
+    "date_posted": 1761469700,
+    "url": "https://careers-ucm.icims.com/jobs/80172/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/The-University-Of-Chicago-Medicine",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Bernhard",
+    "id": "38397afb-0492-458e-94ec-89b7bddd369a",
+    "title": "Site Build Analyst 1",
+    "active": true,
+    "date_updated": 1763507435,
+    "date_posted": 1760025315,
+    "url": "https://careers-enfra.icims.com/jobs/8764/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Tempe, AZ"
+    ],
+    "company_url": "https://simplify.jobs/c/Bernhard",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
