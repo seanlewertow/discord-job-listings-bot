@@ -42774,5 +42774,95 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Northrop Grumman",
+    "id": "66231be6-8f37-4e7d-bc0d-8a24ae85dd78",
+    "title": "Data Scientist - DTW Algorithm Engineer",
+    "active": true,
+    "date_updated": 1763510566,
+    "date_posted": 1763510566,
+    "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/Data-Scientist--DTW-Algorithm-Engineer-_R10214875-1",
+    "locations": [
+      "Melbourne, FL"
+    ],
+    "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "DraftKings",
+    "id": "1fceeea0-cbc9-4928-8639-6244452bf532",
+    "title": "Product Manager 1",
+    "active": true,
+    "date_updated": 1763510291,
+    "date_posted": 1763510291,
+    "url": "https://draftkings.wd1.myworkdayjobs.com/draftkings/job/Boston-MA/Product-Manager-I_JR13189-1",
+    "locations": [
+      "Boston, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/DraftKings",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Metropolitan Transportation Authority",
+    "id": "0fc9a9ed-ae8f-4f20-9025-df78fc58a895",
+    "title": "Computer Specialist",
+    "active": true,
+    "date_updated": 1763510348,
+    "date_posted": 1763510348,
+    "url": "https://jobs.jobvite.com/metropolitantransportationauthority/job/oQhNyfwc?nl=1&nl=1&fr=false",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Metropolitan-Transportation-Authority",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Mass General Brigham",
+    "id": "fadfe69a-47d6-40a2-a6bc-1832c4436ee2",
+    "title": "Research Fellow - Deep Learning",
+    "active": true,
+    "date_updated": 1763510004,
+    "date_posted": 1763510004,
+    "url": "https://massgeneralbrigham.wd1.myworkdayjobs.com/mgbexternal/job/Boston-MA/Research-Fellow---Deep-Learning_RQ4030525",
+    "locations": [
+      "Boston, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/Mass-General-Brigham",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Figure",
+    "id": "91e63edf-634a-438a-8645-8b316d48cfcf",
+    "title": "Helix Data Creator",
+    "active": true,
+    "date_updated": 1763511201,
+    "date_posted": 1755191855,
+    "url": "https://job-boards.greenhouse.io/figureai/jobs/4585080006",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Figure-AI",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
