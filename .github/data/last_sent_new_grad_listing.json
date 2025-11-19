@@ -43368,5 +43368,23 @@
     "date_posted": 1763569349,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "IXL Learning",
+    "id": "04de72ee-25b1-4499-b768-3054a39ce9ae",
+    "title": "Software Engineer",
+    "active": true,
+    "date_updated": 1763594869,
+    "date_posted": 1763594869,
+    "url": "https://www.ixl.com/company/jobs?gh_jid=8299912002",
+    "locations": [
+      "San Mateo, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/IXL-Learning",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
