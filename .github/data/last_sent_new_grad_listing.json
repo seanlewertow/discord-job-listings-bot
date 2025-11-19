@@ -43221,5 +43221,97 @@
     "date_posted": 1763558581,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "date_updated": 1763558961,
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "degrees": [],
+    "url": "https://job-boards.greenhouse.io/flexport/jobs/7354795",
+    "company_name": "Flexport",
+    "title": "Software Engineer I, Finance",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "category": "Software Engineering",
+    "source": "DereC4",
+    "id": "d4721527-227a-4fe0-aead-5f222ffa6d22",
+    "date_posted": 1763558961,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1763559123,
+    "sponsorship": "Does Not Offer Sponsorship",
+    "active": true,
+    "degrees": [],
+    "url": "https://www.alticeusacareers.com/job/Bethpage-Software-Development-Engineer-I-NY-11714/1327484300/",
+    "company_name": "Optimum",
+    "title": "Software Development Engineer I",
+    "locations": [
+      "Bethpage, NY",
+      "Plano TX"
+    ],
+    "category": "Software Engineering",
+    "source": "DereC4",
+    "id": "7a717584-07e6-42cf-a189-423b7308030b",
+    "date_posted": 1763559123,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1763559469,
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "degrees": [],
+    "url": "https://job-boards.greenhouse.io/amaehealth/jobs/4050820009",
+    "company_name": "Amae Health",
+    "title": "Associate Software Engineer",
+    "locations": [
+      "New York, NY"
+    ],
+    "category": "Software Engineering",
+    "source": "DereC4",
+    "id": "8f66b6bc-3b74-4805-8d01-473ea18572d7",
+    "date_posted": 1763559469,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1763559550,
+    "sponsorship": "Does Not Offer Sponsorship",
+    "active": true,
+    "degrees": [],
+    "url": "https://q2ebanking.wd5.myworkdayjobs.com/Q2/job/Austin-TX/Software-Engineer_REQ-11821",
+    "company_name": "Q2",
+    "title": "Software Engineer",
+    "locations": [
+      "Austin, TX"
+    ],
+    "category": "Software Engineering",
+    "source": "DereC4",
+    "id": "208839bf-6563-4d7c-97d2-4b53fbe51ca0",
+    "date_posted": 1763559550,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1763559741,
+    "sponsorship": "Other",
+    "active": true,
+    "degrees": [],
+    "url": "https://app.dover.com/apply/wanderlog/561b05dd-36f6-43ab-aeb9-93b04d97b3fb?rs=42706078",
+    "company_name": "Wanderlog",
+    "title": "Full-Stack Software Engineer",
+    "locations": [
+      "San Francisco, CA",
+      "Remote in USA"
+    ],
+    "category": "Software Engineering",
+    "source": "DereC4",
+    "id": "f8d189f8-3a86-4d9e-ad7a-0fdfd87b3298",
+    "date_posted": 1763559741,
+    "company_url": "",
+    "is_visible": true
   }
 ]
