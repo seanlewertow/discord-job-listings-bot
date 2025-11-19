@@ -43119,5 +43119,23 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "Adelaide Metrics",
+    "id": "c0eb23d2-e5c2-415f-99e3-194019922c4c",
+    "title": "Product Manager, Publishers",
+    "active": true,
+    "date_updated": 1763552162,
+    "date_posted": 1761873265,
+    "url": "https://ats.rippling.com/adelaide/jobs/058be31e-2338-49e6-8e15-3abc6eaf332b",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/Adelaide-Metrics",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
