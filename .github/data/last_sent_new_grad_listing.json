@@ -43010,5 +43010,96 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "80bb0b84-0015-41cb-b750-a0447b552d35",
+    "title": "Trading Assistant - Shift",
+    "active": true,
+    "date_updated": 1763540348,
+    "date_posted": 1763540348,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400038465",
+    "locations": [
+      "United Kingdom"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "0f1ff007-da8b-4723-97c9-d11e8df85ed5",
+    "title": "Trading Assistant - Shift",
+    "active": true,
+    "date_updated": 1763540041,
+    "date_posted": 1763540041,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400038466",
+    "locations": [
+      "Exeter, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "0a0e954d-15fd-420f-93fc-bf89809d66d1",
+    "title": "Trading Assistant - Shift",
+    "active": true,
+    "date_updated": 1763540047,
+    "date_posted": 1763540047,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400032257",
+    "locations": [
+      "Northwich, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "T-Mobile",
+    "id": "9bd0a5a9-8841-422b-9ff8-474fce66015e",
+    "title": "Analyst - Credit Risk - Data Science & Modeling",
+    "active": true,
+    "date_updated": 1763539881,
+    "date_posted": 1763539881,
+    "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Frisco-Texas/Analyst--Credit-Risk---Data-Science---Modeling_REQ324699",
+    "locations": [
+      "Frisco, TX",
+      "Overland Park, KS"
+    ],
+    "company_url": "https://simplify.jobs/c/T-Mobile",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "S&P Global ",
+    "id": "6b1dac83-6802-4178-a489-5d858df7edac",
+    "title": "Financial Risk Analytics - Analyst",
+    "active": true,
+    "date_updated": 1763539558,
+    "date_posted": 1763539558,
+    "url": "https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Careers/job/London-UK/Financial-Risk-Analytics---Analyst_321616",
+    "locations": [
+      "London, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/SP-Global",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
