@@ -43422,5 +43422,41 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Draper",
+    "id": "a1f70e2d-a55f-47bf-904e-f5ccb5b8d818",
+    "title": "MES Programmer",
+    "active": true,
+    "date_updated": 1763607111,
+    "date_posted": 1763607111,
+    "url": "https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/MES-Programmer--Eyelit-_JR001892",
+    "locations": [
+      "Cambridge, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/Draper",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "SpaceX",
+    "id": "99628bf9-ff98-4548-b4ae-5d2053ced717",
+    "title": "Full Stack Software Engineer - Constellation Tools - Starlink",
+    "active": true,
+    "date_updated": 1763606343,
+    "date_posted": 1763606343,
+    "url": "https://boards.greenhouse.io/spacex/jobs/8288010002",
+    "locations": [
+      "Redmond, WA"
+    ],
+    "company_url": "https://simplify.jobs/c/SpaceX",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
