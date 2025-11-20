@@ -43852,5 +43852,77 @@
     "degrees": [
       "Associate's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Northrop Grumman",
+    "id": "abbca3ab-e0af-45c3-bfb6-041a5b2fd0a8",
+    "title": "Principal Software Engineer - Embedded and Real Time",
+    "active": true,
+    "date_updated": 1763666439,
+    "date_posted": 1763666439,
+    "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/Principal-Engineer-Software---Embedded-and-Real-Time--Melbourne-Florida-_R10206610",
+    "locations": [
+      "Melbourne, FL"
+    ],
+    "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Earnest",
+    "id": "3bdd4f8f-4acf-4ae6-aee9-6b4202afa459",
+    "title": "Senior Analytics Engineer",
+    "active": true,
+    "date_updated": 1763666098,
+    "date_posted": 1763666098,
+    "url": "https://app.careerpuck.com/job-board/earnest/job/7407303?gh_jid=7407303",
+    "locations": [
+      "SF"
+    ],
+    "company_url": "https://simplify.jobs/c/Earnest",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Atlas Copco Group",
+    "id": "1fe52c0d-d5c6-4d08-a18c-17ae799298b5",
+    "title": "Test Setup Technician",
+    "active": true,
+    "date_updated": 1763666139,
+    "date_posted": 1763666139,
+    "url": "https://www.careers.homeofindustrialideas.com/job/Burlington-TestSet-up-Technician-Onta/1269151101/?ats=successfactors",
+    "locations": [
+      "Burlington, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Atlas-Copco-Group",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "CenturyLink",
+    "id": "36460f67-042f-46cb-8129-afd54bbfd341",
+    "title": "Telecommunications Technician",
+    "active": true,
+    "date_updated": 1763665272,
+    "date_posted": 1763665272,
+    "url": "https://internaljobs.centurylink.com/job/OMAHA-Telecommunications-Technician-NE-68122/1342839900/?ats=successfactors",
+    "locations": [
+      "Omaha, NE"
+    ],
+    "company_url": "https://simplify.jobs/c/CenturyLink",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
