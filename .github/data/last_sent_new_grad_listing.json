@@ -44394,5 +44394,103 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Analytic Partners",
+    "id": "accec887-081f-4b04-ad3e-ef589feac5b6",
+    "title": "Marketing Science Analyst",
+    "active": true,
+    "date_updated": 1763666236,
+    "date_posted": 1763666236,
+    "url": "https://jobs.lever.co/analyticpartners/d6fb7c83-57a2-4f73-9e7a-0bc2e3e7fb62/apply",
+    "locations": [
+      "Miami, FL",
+      "Florida",
+      "United States"
+    ],
+    "company_url": "https://simplify.jobs/c/Analytic-Partners",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Clearway Energy",
+    "id": "5788ffae-aa00-49c6-9964-10c8303f0a16",
+    "title": "Analyst \u2013 Power Market Fundamentals",
+    "active": true,
+    "date_updated": 1763664785,
+    "date_posted": 1763664785,
+    "url": "https://job-boards.greenhouse.io/clearwayjobs/jobs/4935477007",
+    "locations": [
+      "San Diego, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Clearway-Energy",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "The Boeing Company",
+    "id": "4a34035d-7476-415e-a4de-c3ba64bfbd62",
+    "title": "Graduate Product Support Engineer",
+    "active": true,
+    "date_updated": 1763665790,
+    "date_posted": 1763665790,
+    "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/GBR---Bristol-UK/Graduate-Product-Support-Engineer---2026_JR2025478561-1",
+    "locations": [
+      "Bristol, UK",
+      "Yeovil, UK",
+      "Portsmouth, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Boeing",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "GE Healthcare",
+    "id": "2a094414-86a2-4579-a593-023efaa09b49",
+    "title": "Field Service Engineer 1 - Seattle - WA",
+    "active": true,
+    "date_updated": 1763664559,
+    "date_posted": 1763664559,
+    "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Service-Engineer-1---Seattle--WA--Downtown-_R4028436-1",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "company_url": "https://simplify.jobs/c/GE-Healthcare",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Milwaukee Tool",
+    "id": "06473ec5-06c4-4fb3-8064-cdeaafaf65d9",
+    "title": "Repair Technician 1",
+    "active": true,
+    "date_updated": 1763666292,
+    "date_posted": 1763666292,
+    "url": "https://tti.wd1.myworkdayjobs.com/en-US/Milwaukee/job/Greenwood-MS/Repair-Tech-1_R66661",
+    "locations": [
+      "Greenwood, MS"
+    ],
+    "company_url": "https://simplify.jobs/c/Milwaukee-Tool",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
