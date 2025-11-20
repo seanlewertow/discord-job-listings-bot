@@ -44014,5 +44014,60 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Bank of America",
+    "id": "ed236d8c-366e-4b58-8207-3cb3f7642d19",
+    "title": "Software Engineer 1 - Year Up",
+    "active": true,
+    "date_updated": 1763669854,
+    "date_posted": 1763669854,
+    "url": "https://ghr.wd1.myworkdayjobs.com/en-US/Lateral-US/job/Charlotte/Software-Engineer-I---Year-Up---Charlotte--NC_25044048-1",
+    "locations": [
+      "Charlotte, NC"
+    ],
+    "company_url": "https://simplify.jobs/c/043a00ac-6fd9-4afc-991a-4d845205ab9a",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "American Express",
+    "id": "560e8f3e-7e26-4c26-a835-c64e2119be4a",
+    "title": "Campus Undergraduate Full-Time - Associate Digital Product Management - Technology",
+    "active": true,
+    "date_updated": 1763669661,
+    "date_posted": 1763669661,
+    "url": "https://aexp.eightfold.ai/careers/job/38887410",
+    "locations": [
+      "Phoenix, AZ"
+    ],
+    "company_url": "https://simplify.jobs/c/American-Express",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Linamar",
+    "id": "dca32202-3cb8-4f37-a08e-77d42b6d9936",
+    "title": "Mechatronics Engineer/Designer - Intermediate",
+    "active": true,
+    "date_updated": 1763669207,
+    "date_posted": 1763669207,
+    "url": "https://fa-epmd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3001/job/12157",
+    "locations": [
+      "Oakland, ON, Canada",
+      "London, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Linamar",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
