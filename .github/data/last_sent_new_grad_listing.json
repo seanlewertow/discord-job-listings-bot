@@ -43605,5 +43605,77 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "date_updated": 1763656654,
+    "sponsorship": "Does Not Offer Sponsorship",
+    "active": true,
+    "degrees": [],
+    "url": "https://wellsky.wd1.myworkdayjobs.com/en-US/WellSkyCareers/job/Overland-Park-KS/Associate-Software-Engineer_JR3933",
+    "company_name": "WellSky",
+    "title": "Associate Software Engineer",
+    "locations": [
+      "Overland Park, KS"
+    ],
+    "category": "Software Engineering",
+    "source": "angie-hue",
+    "id": "8ed61c7c-b120-494f-a466-b359d74daaef",
+    "date_posted": 1763656654,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1763656703,
+    "sponsorship": "U.S. Citizenship is Required",
+    "active": true,
+    "degrees": [],
+    "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-New-York-Buffalo/XMLNAME-2026-Associate-Embedded-Software-Embedded-Software-Engineer---Buffalo-NY_R10215183-1",
+    "company_name": "Northrop Grumman",
+    "title": "2026 Associate Embedded Software/Embedded Software Engineer",
+    "locations": [
+      "Buffalo NY"
+    ],
+    "category": "Hardware Engineering",
+    "source": "angie-hue",
+    "id": "b68c9871-c894-41f5-8f3d-f85956bb894a",
+    "date_posted": 1763656703,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1763656743,
+    "sponsorship": "Other",
+    "active": true,
+    "degrees": [],
+    "url": "https://cvshealth.wd1.myworkdayjobs.com/en-US/cvs_health_careers/job/TX---Richardson/Associate-Software-Development-Engineer_R0745817-1",
+    "company_name": "CVS Health",
+    "title": "Associate Software Development Engineer",
+    "locations": [
+      "Richardson, TX"
+    ],
+    "category": "Software Engineering",
+    "source": "angie-hue",
+    "id": "f699ccfb-49f8-4469-b35e-f0ad4d2a2285",
+    "date_posted": 1763656743,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1763656787,
+    "sponsorship": "Does Not Offer Sponsorship",
+    "active": true,
+    "degrees": [],
+    "url": "https://assetmark.wd5.myworkdayjobs.com/en-US/AssetMark_Careers/job/Charlotte-NC/Associate-Data-Engineer_Req-003533",
+    "company_name": "AssetMark",
+    "title": "Associate Data Engineer",
+    "locations": [
+      "Charlotte, NC"
+    ],
+    "category": "Data Science, AI & Machine Learning",
+    "source": "angie-hue",
+    "id": "aeffba1e-6fcb-4058-9ed6-5040eec8671d",
+    "date_posted": 1763656787,
+    "company_url": "",
+    "is_visible": true
   }
 ]
