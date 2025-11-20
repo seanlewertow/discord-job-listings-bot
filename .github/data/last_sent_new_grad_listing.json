@@ -43924,5 +43924,95 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Rolls-Royce",
+    "id": "74c6c47f-5b40-4ff9-bc9b-6ed972d90c35",
+    "title": "Software Engineer-Aerospace Controls",
+    "active": true,
+    "date_updated": 1763668278,
+    "date_posted": 1763668278,
+    "url": "https://rollsroyce.wd3.myworkdayjobs.com/professional/job/Indianapolis/Control-System-Senior-Software-Engineer_JR6136710",
+    "locations": [
+      "Indianapolis, IN"
+    ],
+    "company_url": "https://simplify.jobs/c/Rolls-Royce",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Caterpillar Inc.",
+    "id": "c8a1d9b6-462a-4d69-af52-2dfa17b77023",
+    "title": "Performance Simulation/Application Associate Engineer",
+    "active": true,
+    "date_updated": 1763668005,
+    "date_posted": 1763668005,
+    "url": "https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Tucson-Arizona/Performance-Simulation-Application-Associate-Engineer_R0000336454",
+    "locations": [
+      "Tucson, AZ"
+    ],
+    "company_url": "https://simplify.jobs/c/Caterpillar-Inc",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "NBCUniversal",
+    "id": "6a2d9df3-6af1-42df-a2b2-3523a5d0ca37",
+    "title": "Associate Data Engineer",
+    "active": true,
+    "date_updated": 1763666673,
+    "date_posted": 1763666673,
+    "url": "https://jobs.smartrecruiters.com/NBCUniversal3/744000094660032",
+    "locations": [
+      "Hammersmith, London, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/NBCUniversal",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Cummins",
+    "id": "417da780-015f-4144-87ab-2d0dcfeff7ad",
+    "title": "Digital Tools Software Developer",
+    "active": true,
+    "date_updated": 1763666549,
+    "date_posted": 1763666549,
+    "url": "https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2422106",
+    "locations": [
+      "Columbus, IN"
+    ],
+    "company_url": "https://simplify.jobs/c/Cummins",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Cummins",
+    "id": "63abf19e-10c8-470d-a5c5-a48cd00053fd",
+    "title": "Product Engineer: System Performance Engineer",
+    "active": true,
+    "date_updated": 1763666558,
+    "date_posted": 1763666558,
+    "url": "https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2420763",
+    "locations": [
+      "Columbus, IN"
+    ],
+    "company_url": "https://simplify.jobs/c/Cummins",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
