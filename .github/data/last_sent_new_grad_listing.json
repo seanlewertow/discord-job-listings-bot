@@ -43386,5 +43386,41 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "IXL Learning",
+    "id": "f6cb41c0-f28e-437b-8bac-5282e061c12e",
+    "title": "Associate Product Manager \u2013 New Grad",
+    "active": true,
+    "date_updated": 1763594846,
+    "date_posted": 1763594846,
+    "url": "https://www.ixl.com/company/jobs?gh_jid=8299944002",
+    "locations": [
+      "San Mateo, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/IXL-Learning",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "IXL Learning",
+    "id": "e4a20789-f425-41f1-aa35-d3b057d6188d",
+    "title": "Software Engineer",
+    "active": true,
+    "date_updated": 1763594866,
+    "date_posted": 1763594866,
+    "url": "https://www.ixl.com/company/jobs?gh_jid=8299922002",
+    "locations": [
+      "Raleigh, NC"
+    ],
+    "company_url": "https://simplify.jobs/c/IXL-Learning",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
