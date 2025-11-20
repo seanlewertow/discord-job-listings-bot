@@ -44200,5 +44200,102 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Cisco",
+    "id": "d429909a-8374-4fde-afa9-c1fb684e2b9d",
+    "title": "Software Engineer 2 - Full Stack and Application Development",
+    "active": true,
+    "date_updated": 1763664387,
+    "date_posted": 1763664387,
+    "url": "https://careers.cisco.com/global/en/job/2000127",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Cisco",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Cisco",
+    "id": "752cc127-39ae-4bed-977a-4fcbab271df8",
+    "title": "Software Developer 1",
+    "active": true,
+    "date_updated": 1763664416,
+    "date_posted": 1763664416,
+    "url": "https://careers.cisco.com/global/en/job/2001076",
+    "locations": [
+      "Montreal, QC, Canada",
+      "Calgary, AB, Canada",
+      "Kanata, Ottawa, ON, Canada",
+      "Ottawa, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Cisco",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "DXC Technology",
+    "id": "f40be7e1-20e8-44dd-b21d-179f8d0ee1c7",
+    "title": "DXC Graduate Programme",
+    "active": true,
+    "date_updated": 1763664406,
+    "date_posted": 1763664406,
+    "url": "https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/GBR---LAN---MANCHESTER/DXC-Graduate-Programme-2026_51565840",
+    "locations": [
+      "Manchester, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/DXC-Technology",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "L3Harris Technologies",
+    "id": "2fe1a970-e19c-4892-8f9c-72915f411219",
+    "title": "Manufacturing Technician A",
+    "active": true,
+    "date_updated": 1763664181,
+    "date_posted": 1763664181,
+    "url": "https://jobs.l3harris.com/job/Rochester-Manufacturing-Technician-A-NY-14623/1344237800/?ats=successfactors",
+    "locations": [
+      "Rochester, NY"
+    ],
+    "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Akima",
+    "id": "3671237e-3222-4845-8fc2-b9e9b0841fc6",
+    "title": "Game Developer",
+    "active": true,
+    "date_updated": 1763664134,
+    "date_posted": 1763664134,
+    "url": "https://careers.akima.com/jobs/20304?lang=en-us&icims=1",
+    "locations": [
+      "Huntsville, AL"
+    ],
+    "company_url": "https://simplify.jobs/c/Akima",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
