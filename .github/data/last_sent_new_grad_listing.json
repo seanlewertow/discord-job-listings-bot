@@ -43569,5 +43569,41 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "JP Morgan Chase",
+    "id": "07db15c0-db09-4080-98b3-1ac4ee4fa1cc",
+    "title": "Single Stock Flow Trading - Analyst",
+    "active": true,
+    "date_updated": 1763640933,
+    "date_posted": 1763514446,
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210685265",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/JP-Morgan-Chase",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "PA Consulting",
+    "id": "db53eec0-88a0-4d9f-9d9e-b9644d8db5ae",
+    "title": "2026 Industrial Placement - Digital - Digital & Data",
+    "active": true,
+    "date_updated": 1763643253,
+    "date_posted": 1763643253,
+    "url": "https://jobs.smartrecruiters.com/PAConsulting/744000094587784",
+    "locations": [
+      "Bristol, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/PA-Consulting",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
