@@ -44069,5 +44069,98 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "mthree",
+    "id": "fd083378-a283-4812-a196-d7c5e2914da3",
+    "title": "Junior Software Developer",
+    "active": true,
+    "date_updated": 1763663529,
+    "date_posted": 1763663529,
+    "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4619372006",
+    "locations": [
+      "Montreal, QC, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Mthree",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Amentum",
+    "id": "2ec8cd19-6608-4ec9-8b35-2dbe7348d3bc",
+    "title": "Graduate Physicist - North West",
+    "active": true,
+    "date_updated": 1763673032,
+    "date_posted": 1763673032,
+    "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/OCONUS-UK-Warrington/Graduate-Physicist--North-West-_R0146968-2",
+    "locations": [
+      "Warrington, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Amentum",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "BNY",
+    "id": "6b6b9dd5-56c7-4082-a137-ddf0b3014769",
+    "title": "BNY Analyst Program - Product and Innovation",
+    "active": true,
+    "date_updated": 1763663920,
+    "date_posted": 1763663920,
+    "url": "https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/72226",
+    "locations": [
+      "London, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/BNY",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Malvern Panalytical",
+    "id": "76ad1d2b-26b1-4604-a357-17819cf1caea",
+    "title": "Graduate Software Engineer",
+    "active": true,
+    "date_updated": 1763663429,
+    "date_posted": 1763663429,
+    "url": "https://spectris.wd3.myworkdayjobs.com/Malvern_Panalytical_Careers/job/Northampton-MA/Graduate-Software-Engineer_16693",
+    "locations": [
+      "Northampton, MA",
+      "Hereford, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Malvern-Panalytical",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Kimley-Horn",
+    "id": "55f5d9e4-a505-4fd8-867a-3dad3080ccca",
+    "title": "GIS Analyst",
+    "active": true,
+    "date_updated": 1763667150,
+    "date_posted": 1762535048,
+    "url": "https://careers-kimley-horn.icims.com/jobs/20773/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Fort Worth, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Kimley-Horn",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
