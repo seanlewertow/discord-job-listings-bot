@@ -43696,5 +43696,43 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Schweitzer Engineering Laboratories",
+    "id": "df23ccde-7af7-43d5-acff-b2a829cecd29",
+    "title": "Associate Trend Insight Analyst",
+    "active": true,
+    "date_updated": 1763662550,
+    "date_posted": 1763662550,
+    "url": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Associate-Trend-Insight-Analyst_2025-18678",
+    "locations": [
+      "Moscow, ID"
+    ],
+    "company_url": "https://simplify.jobs/c/SEL",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Schweitzer Engineering Laboratories",
+    "id": "07212bbc-e593-46dc-bd93-84599b9e2d30",
+    "title": "Data Analyst",
+    "active": true,
+    "date_updated": 1763662563,
+    "date_posted": 1763662563,
+    "url": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Data-Analyst_2025-18806",
+    "locations": [
+      "Moscow, ID"
+    ],
+    "company_url": "https://simplify.jobs/c/SEL",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
