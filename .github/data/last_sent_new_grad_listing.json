@@ -43677,5 +43677,24 @@
     "date_posted": 1763656787,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Draper",
+    "id": "e50d1450-8a91-4a28-ac8c-47efd6bd4176",
+    "title": "ASIC/FPGA Hardware Engineer for Cryptographic Systems",
+    "active": true,
+    "date_updated": 1763660542,
+    "date_posted": 1761874249,
+    "url": "https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Senior-ASIC-FPGA-Hardware-Engineer-for-Cryptographic-Systems_JR001787",
+    "locations": [
+      "Cambridge, MA",
+      "Hill AFB, UT"
+    ],
+    "company_url": "https://simplify.jobs/c/Draper",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
