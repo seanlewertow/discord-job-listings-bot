@@ -44297,5 +44297,102 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "CAE",
+    "id": "68efe34a-9fde-4ee6-8702-b8a7274d6103",
+    "title": "Simulator Technician 1",
+    "active": true,
+    "date_updated": 1763665832,
+    "date_posted": 1763665832,
+    "url": "https://cae.wd3.myworkdayjobs.com/career/job/Las-Vegas/Simulator-Technician-I_118193",
+    "locations": [
+      "Las Vegas, NV"
+    ],
+    "company_url": "https://simplify.jobs/c/0584b8e0-c24c-4b9b-9e06-b2484d8779bf",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "MBA"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Northrop Grumman",
+    "id": "dd2b3439-6db2-4650-8796-9f6b1c3d6a20",
+    "title": "Software Engineer Intern",
+    "active": true,
+    "date_updated": 1763666432,
+    "date_posted": 1763666432,
+    "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-Kingdom-Cheltenham/Software-Engineer-Industrial-Placement_R10214530",
+    "locations": [
+      "Gloucester, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Northrop Grumman",
+    "id": "589b4bae-baf1-44a2-8106-e98f759e58fb",
+    "title": "Associate Embedded Software Engineer - Multiple Teams",
+    "active": true,
+    "date_updated": 1763666442,
+    "date_posted": 1763666442,
+    "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-New-York-Buffalo/XMLNAME-2026-Associate-Embedded-Software-Embedded-Software-Engineer---Buffalo-NY_R10215183-1",
+    "locations": [
+      "Buffalo, NY"
+    ],
+    "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "University of Chicago",
+    "id": "25d6b63a-722f-4761-97e7-186d8963983d",
+    "title": "Program Administrator - Community Centered Data Science",
+    "active": true,
+    "date_updated": 1763665390,
+    "date_posted": 1763665390,
+    "url": "https://uchicago.wd5.myworkdayjobs.com/External/job/Chicago-IL/Program-Administrator--Community-Centered-Data-Science_JR32069",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/University-Of-Chicago",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "General Dynamics",
+    "id": "14559dae-4954-4777-b9a5-7806e3df103d",
+    "title": "SWS Fleet Support Engineer 1 / 2",
+    "active": true,
+    "date_updated": 1763667047,
+    "date_posted": 1761871686,
+    "url": "https://careers-gdeb.icims.com/jobs/15343/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Groton, CT"
+    ],
+    "company_url": "https://simplify.jobs/c/General-Dynamics",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
