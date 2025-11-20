@@ -43458,5 +43458,44 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Cisco",
+    "id": "fdae5a64-1c52-49be-b26c-d4ceabecac4e",
+    "title": "Hardware Engineer 1 - Full time - United States",
+    "active": true,
+    "date_updated": 1763607781,
+    "date_posted": 1763607781,
+    "url": "https://careers.cisco.com/global/en/job/2000108",
+    "locations": [
+      "Austin, TX",
+      "San Jose, CA",
+      "Carlsbad, CA",
+      "Acton, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/Cisco",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Cisco",
+    "id": "26a9b835-5ce3-4639-9c03-48ada3108211",
+    "title": "Software Engineer Security & Automation 1",
+    "active": true,
+    "date_updated": 1763607651,
+    "date_posted": 1763607651,
+    "url": "https://careers.cisco.com/global/en/job/2000123",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Cisco",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
