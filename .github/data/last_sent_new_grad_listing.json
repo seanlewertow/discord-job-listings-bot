@@ -45414,5 +45414,23 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Microchip Technology",
+    "id": "66b9f2d2-c4f0-4845-9264-f8b71e1ffd00",
+    "title": "Python Software Engineer",
+    "active": true,
+    "date_updated": 1763759307,
+    "date_posted": 1763713553,
+    "url": "https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/Canada---Burnaby/Senior-System-Validation-Engineer_R773-25",
+    "locations": [
+      "Burnaby, BC, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Microchip-Technology",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
