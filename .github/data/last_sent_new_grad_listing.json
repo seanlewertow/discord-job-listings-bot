@@ -44882,5 +44882,100 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Charles Schwab",
+    "id": "51c0ac82-bbc2-4845-9cb2-3e6122b4c960",
+    "title": "Junior Software Development Engineer",
+    "active": true,
+    "date_updated": 1763714192,
+    "date_posted": 1763714192,
+    "url": "https://career-schwab.icims.com/jobs/117180/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/Charles-Schwab",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "44cb0ad4-6669-4a31-93dc-5ca8ea4c0d81",
+    "title": "Trading Assistant - Shift",
+    "active": true,
+    "date_updated": 1763717716,
+    "date_posted": 1763717716,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400038992",
+    "locations": [
+      "Edinburgh, UK",
+      "Midlothian, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Zeiss",
+    "id": "85281894-5d9f-437a-a073-f56049182653",
+    "title": "3D Tomography Application Engineer",
+    "active": true,
+    "date_updated": 1763717647,
+    "date_posted": 1763717647,
+    "url": "https://zeissgroup.wd3.myworkdayjobs.com/External/job/Boise/XMLNAME-3D-Tomography-Application-Engineer_JR_1044312-1",
+    "locations": [
+      "Boise, ID"
+    ],
+    "company_url": "https://simplify.jobs/c/Zeiss",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "ed4b7de0-4c59-45f6-948d-a6a1472c3ddd",
+    "title": "Trading Assistant",
+    "active": true,
+    "date_updated": 1763715764,
+    "date_posted": 1763715764,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400038963",
+    "locations": [
+      "Fleet, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Roblox",
+    "id": "0a568cca-1a93-4d8f-8ac5-9837e25134ff",
+    "title": "Senior Machine Learning - Core AI",
+    "active": true,
+    "date_updated": 1761878576,
+    "date_posted": 1761878576,
+    "url": "https://careers.roblox.com/jobs/7249513?gh_jid=7249513",
+    "locations": [
+      "San Mateo, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Roblox",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
