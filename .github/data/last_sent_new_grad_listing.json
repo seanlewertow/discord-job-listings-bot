@@ -44699,5 +44699,95 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Booz Allen",
+    "id": "4a9acc43-430a-43a8-a027-5134b2722f3c",
+    "title": "Data Scientist",
+    "active": true,
+    "date_updated": 1763711056,
+    "date_posted": 1763711056,
+    "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/San-Diego-CA/Data-Scientist_R0229618",
+    "locations": [
+      "San Diego, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Booz-Allen",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "L3Harris Technologies",
+    "id": "0b854df4-1e8f-47aa-a825-4a11b996820c",
+    "title": "Associate \u2013 Software Engineering - Wilmington - MA",
+    "active": true,
+    "date_updated": 1763711846,
+    "date_posted": 1763711846,
+    "url": "https://jobs.l3harris.com/job/Wilmington-Associate,-Software-Engineering-(Wilmington,-MA)-MA-01887/1344556300/?ats=successfactors",
+    "locations": [
+      "Burlington, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "The Voleon Group",
+    "id": "71afb9eb-0467-4cf6-b814-513aef008e8f",
+    "title": "Data Analyst",
+    "active": true,
+    "date_updated": 1763712083,
+    "date_posted": 1763712083,
+    "url": "https://jobs.lever.co/voleon/e47d5699-5c1a-4b17-bbf4-c948efc0151d/apply",
+    "locations": [
+      "Berkeley, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/The-Voleon-Group",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "AtkinsR\u00e9alis",
+    "id": "824f83b7-4edd-497a-9f23-eae41d406870",
+    "title": "Technical Services Intern",
+    "active": true,
+    "date_updated": 1763712715,
+    "date_posted": 1763712715,
+    "url": "https://slihrms.wd3.myworkdayjobs.com/careers/job/CABCRichmond9851-VanHorne-Way/Technical-Services-Student_R-141403",
+    "locations": [
+      "Richmond, BC, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/AtkinsRealis",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Kimley-Horn",
+    "id": "8b5f5a84-f7d4-4961-8471-1e7abf6269eb",
+    "title": "Software Analyst",
+    "active": true,
+    "date_updated": 1763713569,
+    "date_posted": 1763713569,
+    "url": "https://careers-kimley-horn.icims.com/jobs/20825/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Norcross, GA"
+    ],
+    "company_url": "https://simplify.jobs/c/Kimley-Horn",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
