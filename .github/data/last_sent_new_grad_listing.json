@@ -44492,5 +44492,98 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Johnson & Johnson",
+    "id": "bf858219-82c0-488f-9ff0-c1925e76d21b",
+    "title": "Digital Solutions - Student Placement",
+    "active": true,
+    "date_updated": 1763673240,
+    "date_posted": 1763673240,
+    "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Leeds-West-Yorkshire-United-Kingdom/Digital-Solutions---Student-Placement_R-045500",
+    "locations": [
+      "Leeds, UK",
+      "Bracknell, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Johnson-Johnson",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Bank of America",
+    "id": "d79519de-39ad-46ca-9e77-8a41e128dcbd",
+    "title": "Software Engineer 1",
+    "active": true,
+    "date_updated": 1763669849,
+    "date_posted": 1763669849,
+    "url": "https://ghr.wd1.myworkdayjobs.com/en-US/Lateral-US/job/Plano/Software-Engineer-I---Year-Up_25044050",
+    "locations": [
+      "Plano, TX",
+      "Sugar Land, TX",
+      "Addison, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/043a00ac-6fd9-4afc-991a-4d845205ab9a",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "T-Mobile",
+    "id": "a88c5ae9-d239-449b-8fe9-5e7bd247452b",
+    "title": "Associate Software Engineer",
+    "active": true,
+    "date_updated": 1763670926,
+    "date_posted": 1763670926,
+    "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Atlanta-Georgia/Associate-Software-Engineer_REQ337809-1",
+    "locations": [
+      "Atlanta, GA"
+    ],
+    "company_url": "https://simplify.jobs/c/T-Mobile",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "S&P Global ",
+    "id": "2821b6ae-6dbd-4825-ade6-45b0d1688c68",
+    "title": "Analyst  Data Management - Fixed Income Indices",
+    "active": true,
+    "date_updated": 1763669292,
+    "date_posted": 1763669292,
+    "url": "https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Careers/job/Dallas-TX/Analyst--Data-Management---Fixed-Income-Indices_319188",
+    "locations": [
+      "Dallas, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/SP-Global",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Aflac",
+    "id": "62b49907-3df7-4736-9e4e-8e65ccfe78ce",
+    "title": "Software Engineer 1",
+    "active": true,
+    "date_updated": 1763669879,
+    "date_posted": 1763669879,
+    "url": "https://careers.aflac.com/job/New-York-City-Software-Engineer-I-NY-10005/1344238100/?ats=successfactors",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Aflac",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
