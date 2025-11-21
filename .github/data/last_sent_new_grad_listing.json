@@ -44789,5 +44789,98 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Comcast",
+    "id": "4b4902e4-d88a-413e-a711-410111dcaea6",
+    "title": "Analyst - Enterprise Analytics",
+    "active": true,
+    "date_updated": 1763715015,
+    "date_posted": 1763715015,
+    "url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1701-John-F-Kennedy-Blvd/Analyst--Enterprise-Analytics_R424630",
+    "locations": [
+      "Philadelphia, PA"
+    ],
+    "company_url": "https://simplify.jobs/c/Comcast",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "3204e227-d24c-44aa-b2d3-20703bac9ee8",
+    "title": "Trading Assistant",
+    "active": true,
+    "date_updated": 1763715757,
+    "date_posted": 1763715757,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400038896",
+    "locations": [
+      "Crawley, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Entrata",
+    "id": "e4e487c8-0a16-484f-b842-6f15e52975ba",
+    "title": "Data Analyst 1",
+    "active": true,
+    "date_updated": 1763714981,
+    "date_posted": 1763714981,
+    "url": "https://jobs.lever.co/entrata/e53e2bfd-e02c-48b3-9528-53d860847655/apply",
+    "locations": [
+      "United States"
+    ],
+    "company_url": "https://simplify.jobs/c/Entrata",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Early Warning",
+    "id": "a8775cd5-5e4b-4a99-929e-c57aa9baab79",
+    "title": "Software Engineer - Java - Contract",
+    "active": true,
+    "date_updated": 1763714328,
+    "date_posted": 1763714328,
+    "url": "https://earlywarning.wd5.myworkdayjobs.com/earlywarningcareers/job/New-York-City/Software-Engineer---Java--Contract-_REQ2025955",
+    "locations": [
+      "SF",
+      "Chicago, IL",
+      "Scottsdale, AZ",
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Early-Warning",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Slice (slicelife.com)",
+    "id": "a6a3e049-7705-4778-b661-940154f9d584",
+    "title": "Software Developer",
+    "active": true,
+    "date_updated": 1763716845,
+    "date_posted": 1757356848,
+    "url": "https://slice.careers/careers-listing?gh_jid=7228672",
+    "locations": [
+      "Remote in Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Slicelife",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
