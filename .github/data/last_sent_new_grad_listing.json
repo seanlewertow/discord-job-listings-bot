@@ -44977,5 +44977,99 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Apple",
+    "id": "df4874c5-3d1f-48dc-81e3-1c1a4af07422",
+    "title": "Systems Software Engineer",
+    "active": true,
+    "date_updated": 1763719700,
+    "date_posted": 1763719700,
+    "url": "https://jobs.apple.com/en-us/details/200617621",
+    "locations": [
+      "San Diego, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Apple",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Wash U",
+    "id": "fd036970-0ab3-4e64-956d-18f23f96440c",
+    "title": "Database Analyst - Part-Time/Remote - School of Law",
+    "active": true,
+    "date_updated": 1763719484,
+    "date_posted": 1763719484,
+    "url": "https://wustl.wd1.myworkdayjobs.com/external/job/St-Louis-MO/Database-Analyst--Part-Time-Remote----School-of-Law_JR91345",
+    "locations": [
+      "St. Louis, MO"
+    ],
+    "company_url": "https://simplify.jobs/c/Wash-U",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "0e26e6ec-16f9-4374-988c-8c6d04d06c04",
+    "title": "Trading Assistant - Shift",
+    "active": true,
+    "date_updated": 1763719390,
+    "date_posted": 1763719390,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400039004",
+    "locations": [
+      "Birmingham, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Oracle",
+    "id": "2a174ecc-736d-49a5-9e8e-7e8f41ad712b",
+    "title": "Java Software Engineer - Oracle Health and Analytics",
+    "active": true,
+    "date_updated": 1763719131,
+    "date_posted": 1763719131,
+    "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/316172",
+    "locations": [
+      "Seattle, WA",
+      "San Carlos, CA",
+      "Pleasanton, CA",
+      "Santa Clara, CA",
+      "Kansas City, MO"
+    ],
+    "company_url": "https://simplify.jobs/c/Oracle",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Man Group",
+    "id": "3dc0c4ab-5530-4c89-a624-3ce9c9486147",
+    "title": "Python Associate Engineer",
+    "active": true,
+    "date_updated": 1763719700,
+    "date_posted": 1762273072,
+    "url": "https://job-boards.eu.greenhouse.io/mangroup/jobs/4688792101",
+    "locations": [
+      "London, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Man-Group",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
