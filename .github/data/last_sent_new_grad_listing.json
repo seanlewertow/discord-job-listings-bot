@@ -45377,5 +45377,24 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Oregon State Government",
+    "id": "7f6c63f5-0813-4289-aab2-4da7580cea52",
+    "title": "Engineering Geologist",
+    "active": true,
+    "date_updated": 1763755148,
+    "date_posted": 1762386985,
+    "url": "https://oregon.wd5.myworkdayjobs.com/sor_external_career_site/job/Roseburg--ODOT--Headquarters/Professional-Geologist-1---Engineering-Geologist_REQ-188874",
+    "locations": [
+      "Oregon",
+      "Roseburg, OR"
+    ],
+    "company_url": "https://simplify.jobs/c/Oregon-State-Government",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
