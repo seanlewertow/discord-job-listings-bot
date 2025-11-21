@@ -45071,5 +45071,59 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "5a684458-648b-433e-aa6c-9068fc16762e",
+    "title": "Trading Assistant - Shift",
+    "active": true,
+    "date_updated": 1763722389,
+    "date_posted": 1763722389,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400038986",
+    "locations": [
+      "Christchurch, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "68b60184-70f2-47e2-bcb9-2f9d95c25d39",
+    "title": "Trading Assistant - Shift",
+    "active": true,
+    "date_updated": 1763721354,
+    "date_posted": 1763721354,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400035637",
+    "locations": [
+      "Birmingham, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Arcadis",
+    "id": "5944bd0c-d567-4e8c-8b09-f9496bd428b7",
+    "title": "Geologist",
+    "active": true,
+    "date_updated": 1763722114,
+    "date_posted": 1762824549,
+    "url": "https://ebcs.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/33794",
+    "locations": [
+      "Sacramento, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Arcadis",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
