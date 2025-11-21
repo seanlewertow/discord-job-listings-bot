@@ -45432,5 +45432,95 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "RWS",
+    "id": "6633ab88-c275-4e0a-b739-629e858824f6",
+    "title": "AI Data Specialist - AI Data Specialist Team",
+    "active": true,
+    "date_updated": 1763766943,
+    "date_posted": 1763766943,
+    "url": "https://jobs.lever.co/rws/9fe421ef-db2e-43f1-bcfd-43eb37db08d3/apply",
+    "locations": [
+      "Tennessee"
+    ],
+    "company_url": "https://simplify.jobs/c/RWS",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "RWS",
+    "id": "1c4d8d25-46e8-4ab2-9cf7-6dc05d6ec04a",
+    "title": "AI Data Specialist - Georgia - US",
+    "active": true,
+    "date_updated": 1763766945,
+    "date_posted": 1763766945,
+    "url": "https://jobs.lever.co/rws/d5edfc8c-508f-496b-964e-66077dfcb995/apply",
+    "locations": [
+      "Georgia"
+    ],
+    "company_url": "https://simplify.jobs/c/RWS",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "RWS",
+    "id": "0bf985c1-a393-4d84-a7d4-19712de80960",
+    "title": "AI Data Specialist - Maryland - US",
+    "active": true,
+    "date_updated": 1763766957,
+    "date_posted": 1763766957,
+    "url": "https://jobs.lever.co/rws/238d902e-90f6-41e1-8831-8cfb6bb64eb8/apply",
+    "locations": [
+      "Tennessee"
+    ],
+    "company_url": "https://simplify.jobs/c/RWS",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "RWS",
+    "id": "027507e9-609a-411e-b87d-cfc9c095286b",
+    "title": "AI Data Specialist - Ukrainian",
+    "active": true,
+    "date_updated": 1763766972,
+    "date_posted": 1763766972,
+    "url": "https://jobs.lever.co/rws/3afdf3a4-fd26-4ec0-9af7-4a36312d8b01/apply",
+    "locations": [
+      "Arizona"
+    ],
+    "company_url": "https://simplify.jobs/c/RWS",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Rambus",
+    "id": "443c0dc1-14ad-4d74-b897-01a058125ddf",
+    "title": "Digital Design Engineer",
+    "active": true,
+    "date_updated": 1763766681,
+    "date_posted": 1763666207,
+    "url": "https://careers-rambus.icims.com/jobs/22433/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Westlake Village, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Rambus",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
