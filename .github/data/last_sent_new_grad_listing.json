@@ -44605,5 +44605,99 @@
     "degrees": [
       "PharmD"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "TD Synnex",
+    "id": "63acdd5e-eaa1-42c3-8ae7-f81c233e0b32",
+    "title": "Production Test Technician 2 - Conv",
+    "active": true,
+    "date_updated": 1763712218,
+    "date_posted": 1763712218,
+    "url": "https://synnex.wd5.myworkdayjobs.com/tdsynnexcareers/job/Olive-Branch-Mississippi-United-States/Production-test-tech-II--CONV-_R42666",
+    "locations": [
+      "Olive Branch, MS"
+    ],
+    "company_url": "https://simplify.jobs/c/TD-Synnex",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "The Travelers Companies",
+    "id": "01b22571-2c64-4333-b6ce-4c6e4f2de55f",
+    "title": "Software Engineer 1 - MERN - AWS",
+    "active": true,
+    "date_updated": 1763712325,
+    "date_posted": 1763712325,
+    "url": "https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Software-Engineer-I--MERN-_R-48121",
+    "locations": [
+      "Sparks, MD",
+      "Hartford, CT",
+      "St Paul, MN"
+    ],
+    "company_url": "https://simplify.jobs/c/Travelers",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Geosyntec Consultants",
+    "id": "a61a955c-2b9b-403c-9927-0e4b185d3b97",
+    "title": "Staff or Sr. Staff Environmental Engineer - Geologist - Or Scientist",
+    "active": true,
+    "date_updated": 1763712348,
+    "date_posted": 1759849177,
+    "url": "https://careers-geosyntec.icims.com/jobs/3292/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Anchorage, AK"
+    ],
+    "company_url": "https://simplify.jobs/c/Geosyntec-Consultants",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Yusen Logistics",
+    "id": "87d544ea-2e0b-4424-b70d-d3eba688d8ee",
+    "title": "Business Solutions Data Specialist",
+    "active": true,
+    "date_updated": 1763712730,
+    "date_posted": 1759492043,
+    "url": "https://careers-yusen-logistics.icims.com/jobs/6050/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Long Beach, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Yusen-Logistics",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "General Dynamics",
+    "id": "6bc957ff-b7af-4a67-95e7-463ab4f0971d",
+    "title": "Communications Systems Engineer - Ship Control",
+    "active": true,
+    "date_updated": 1763713544,
+    "date_posted": 1761879674,
+    "url": "https://careers-gdeb.icims.com/jobs/15600/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Groton, CT"
+    ],
+    "company_url": "https://simplify.jobs/c/General-Dynamics",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
