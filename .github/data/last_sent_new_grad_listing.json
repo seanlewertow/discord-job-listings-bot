@@ -45522,5 +45522,97 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Becker Friedman Institute for Economics",
+    "id": "68135bed-89a9-4222-80a4-6077cdedb922",
+    "title": "Research Professional",
+    "active": true,
+    "date_updated": 1763769568,
+    "date_posted": 1763769568,
+    "url": "https://job-boards.greenhouse.io/universityofchicago/jobs/7491304003",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/Becker-Friedman-Institute-For-Economics",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "The Boeing Company",
+    "id": "5b4be754-2860-4730-bf9a-6a750da601e3",
+    "title": "Systems Engineer - Operations/Systems Analyst",
+    "active": true,
+    "date_updated": 1763769703,
+    "date_posted": 1763769703,
+    "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Arlington-VA/Systems-Engineer--Operations-Systems-Analyst---Associate-and-Experienced-_JR2025485949-1",
+    "locations": [
+      "Arlington, VA"
+    ],
+    "company_url": "https://simplify.jobs/c/Boeing",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Grayce",
+    "id": "4f10db9c-c3d2-4510-8235-e65f85830bd1",
+    "title": "Graduate Digital Analyst",
+    "active": true,
+    "date_updated": 1763769395,
+    "date_posted": 1763769395,
+    "url": "https://apply.workable.com/grayce/j/FFAB3FD7DB/apply",
+    "locations": [
+      "Essex, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/ece08408-be43-4331-9af6-746c6e9977ec",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Integration Innovation (i3)",
+    "id": "56e75b96-959a-4f69-b56b-d5243c171370",
+    "title": "Data Analyst",
+    "active": true,
+    "date_updated": 1763770056,
+    "date_posted": 1763606571,
+    "url": "https://careers-i3-corps.icims.com/jobs/4967/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Huntsville, AL"
+    ],
+    "company_url": "https://simplify.jobs/c/I3",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "General Dynamics",
+    "id": "27a24335-8bd8-40cd-bfc6-cf337d566cde",
+    "title": "IPS CTF Engineer",
+    "active": true,
+    "date_updated": 1763770783,
+    "date_posted": 1759966979,
+    "url": "https://careers-gdeb.icims.com/jobs/16864/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Philadelphia, PA"
+    ],
+    "company_url": "https://simplify.jobs/c/General-Dynamics",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
