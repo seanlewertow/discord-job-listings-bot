@@ -46033,5 +46033,23 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "6d36f8cf-6aa6-4e98-a833-204bca1dd140",
+    "title": "Trading Assistant - Shift",
+    "active": true,
+    "date_updated": 1763924885,
+    "date_posted": 1763924885,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400039479",
+    "locations": [
+      "Nuneaton, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
