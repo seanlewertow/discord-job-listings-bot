@@ -45925,5 +45925,41 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Northwood Space",
+    "id": "c4881d6a-5c33-4e9d-a384-0fd643a7e3b4",
+    "title": "Global Sites Engineer \u2013 Early Career",
+    "active": true,
+    "date_updated": 1763889035,
+    "date_posted": 1763889035,
+    "url": "https://jobs.ashbyhq.com/NorthwoodSpace/baa85b78-5718-4e74-9b21-170776dc4185/application",
+    "locations": [
+      "Carson, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Northwood-Space",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Perle",
+    "id": "e983d45d-84fe-4928-bdf7-17bee9b88f4c",
+    "title": "Portuguese Language Specialist",
+    "active": true,
+    "date_updated": 1763889050,
+    "date_posted": 1763889050,
+    "url": "https://ats.rippling.com/perle/jobs/fdf883df-c148-45ee-8c75-673d1c4b005d",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/Perle",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
