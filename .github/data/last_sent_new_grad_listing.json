@@ -45888,5 +45888,42 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "VaynerMedia",
+    "id": "f84c5882-e532-4698-9cda-06d17e0c48dd",
+    "title": "Resident \u2013 Data Analytics",
+    "active": true,
+    "date_updated": 1763889419,
+    "date_posted": 1763889419,
+    "url": "https://vaynermedia.com/careers?gh_jid=7417014",
+    "locations": [
+      "Toronto, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/VaynerMedia",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Perle",
+    "id": "4e072999-95e3-42e4-b687-0c26c23c6770",
+    "title": "Ukrainian Language Specialist (Canada or US-based)",
+    "active": true,
+    "date_updated": 1763889089,
+    "date_posted": 1763889089,
+    "url": "https://ats.rippling.com/perle/jobs/b344304f-21d2-4604-9778-1afac2c3f354",
+    "locations": [
+      "Remote in USA",
+      "Remote in Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Perle",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
