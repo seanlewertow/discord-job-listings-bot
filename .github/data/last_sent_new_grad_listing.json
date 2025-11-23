@@ -45780,5 +45780,41 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Centene",
+    "id": "4bfaf25c-a9a8-482b-835b-849803bb2865",
+    "title": "Business Solutions Developer 1",
+    "active": true,
+    "date_updated": 1763889011,
+    "date_posted": 1763889011,
+    "url": "https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-OH/Business-Solutions-Developer-I_1601216",
+    "locations": [
+      "New Mexico",
+      "Cunningham, KS",
+      "Kansas",
+      "Pennsylvania",
+      "Oconomowoc, WI",
+      "Texas",
+      "Florida",
+      "Wichita, KS",
+      "South Carolina",
+      "Edmond, OK",
+      "Tennessee",
+      "Minnesota",
+      "Kentucky",
+      "Fort Gibson, OK",
+      "Wisconsin",
+      "North Carolina",
+      "Missouri",
+      "Illinois",
+      "McKenzie, TN"
+    ],
+    "company_url": "https://simplify.jobs/c/Centene",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
