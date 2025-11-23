@@ -46105,5 +46105,23 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "c5030fc3-6214-482f-bfdd-c376db95e85c",
+    "title": "Trading Assistant - Shift",
+    "active": true,
+    "date_updated": 1763891047,
+    "date_posted": 1763891047,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400039455",
+    "locations": [
+      "Whiteley, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
