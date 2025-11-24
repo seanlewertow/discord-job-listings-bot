@@ -46378,5 +46378,96 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Anduril",
+    "id": "538530de-89f8-4a80-af1b-2891b24079f1",
+    "title": "Skillbridge Software Engineer",
+    "active": true,
+    "date_updated": 1763898814,
+    "date_posted": 1763898814,
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/4989142007",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "company_url": "https://simplify.jobs/c/Anduril",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "54ab35b3-558e-4eda-a8e8-4a3458ad819d",
+    "title": "Trading Assistant",
+    "active": true,
+    "date_updated": 1763898309,
+    "date_posted": 1763898309,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400039426",
+    "locations": [
+      "Brighton, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Viridien",
+    "id": "ea30bf77-1030-4770-992a-b3687c59a3d2",
+    "title": "Seismic Imaging Analyst",
+    "active": true,
+    "date_updated": 1763910016,
+    "date_posted": 1763910016,
+    "url": "https://cgg.wd103.myworkdayjobs.com/viridiencareers/job/Houston-United-States-of-America/Seismic-Imaging-Analyst_JR101070-2",
+    "locations": [
+      "Houston, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Viridien",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "EXL",
+    "id": "9953d6ee-08cc-45e8-bdf5-b877c5e260b1",
+    "title": "Data Scientist",
+    "active": true,
+    "date_updated": 1763910911,
+    "date_posted": 1763910911,
+    "url": "https://fa-ewjt-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/7049",
+    "locations": [
+      "United States"
+    ],
+    "company_url": "https://simplify.jobs/c/EXL",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Microchip Technology",
+    "id": "eb1cfbe4-c730-4b6a-af3d-2cde7bf58b9b",
+    "title": "Python Software Engineer - w/m/d",
+    "active": true,
+    "date_updated": 1763983887,
+    "date_posted": 1763713618,
+    "url": "https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/Germany---Karlsruhe/Senior-System-Validation-Engineer_R912-25-1",
+    "locations": [
+      "Bellheim, Germany",
+      "Burnaby, BC, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Microchip-Technology",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
