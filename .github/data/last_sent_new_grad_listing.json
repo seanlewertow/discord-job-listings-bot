@@ -46179,5 +46179,96 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "457c5de2-efe8-4407-8f02-ebb0b64189a8",
+    "title": "Trading Assistant",
+    "active": true,
+    "date_updated": 1763947041,
+    "date_posted": 1763947041,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400039499",
+    "locations": [
+      "United Kingdom"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "3aba9275-09af-4bc8-82e6-f4854da62857",
+    "title": "Trading Assistant - Shift",
+    "active": true,
+    "date_updated": 1763947046,
+    "date_posted": 1763947046,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400039489",
+    "locations": [
+      "Derby, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "35932ab5-f5c1-498e-b70f-0330e6a3e3e0",
+    "title": "Trading Assistant",
+    "active": true,
+    "date_updated": 1763947041,
+    "date_posted": 1763947041,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400039563",
+    "locations": [
+      "Belfast, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "0747281d-92db-47f5-aa23-4b62fdc808e2",
+    "title": "Trading Assistant - Local",
+    "active": true,
+    "date_updated": 1763947057,
+    "date_posted": 1763947057,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400039591",
+    "locations": [
+      "Ipswich, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "JP Morgan Chase",
+    "id": "bebc5b44-c939-4989-8365-944d2037b032",
+    "title": "Data Scientist Associate",
+    "active": true,
+    "date_updated": 1763946660,
+    "date_posted": 1763946660,
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210686901",
+    "locations": [
+      "Washington, DC",
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/JP-Morgan-Chase",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
