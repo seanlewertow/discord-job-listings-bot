@@ -46523,5 +46523,23 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "BNY",
+    "id": "0bd3f695-239d-48fc-a182-53e0330fb39c",
+    "title": "Loans Administrator and Data Analyst",
+    "active": true,
+    "date_updated": 1764026498,
+    "date_posted": 1764026498,
+    "url": "https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/68974",
+    "locations": [
+      "Manchester, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/BNY",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
