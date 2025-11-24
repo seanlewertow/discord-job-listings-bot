@@ -46487,5 +46487,41 @@
     "date_posted": 1763999342,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "RWS",
+    "id": "9ed2762e-b80e-4b6f-b52a-ce4fe7a1db64",
+    "title": "Search Quality Rater - English - Delaware",
+    "active": true,
+    "date_updated": 1764023660,
+    "date_posted": 1763766958,
+    "url": "https://jobs.lever.co/rws/aa69d147-a07a-41ef-a90c-c11fc6a82c3f/apply",
+    "locations": [
+      "Wilmington, DE"
+    ],
+    "company_url": "https://simplify.jobs/c/RWS",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "RWS",
+    "id": "187609d3-e5ce-44bf-8fe4-1ab3257e570a",
+    "title": "Search Quality Rater - English - Arizona",
+    "active": true,
+    "date_updated": 1764023649,
+    "date_posted": 1763766957,
+    "url": "https://jobs.lever.co/rws/2796f9cf-bfec-47c7-a0d0-70b484db9c3d/apply",
+    "locations": [
+      "Phoenix, AZ"
+    ],
+    "company_url": "https://simplify.jobs/c/RWS",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
