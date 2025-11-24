@@ -46123,5 +46123,61 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "L3Harris Technologies",
+    "id": "7c87b129-7d03-4ebb-bd00-0264cba78220",
+    "title": "Associate Software Engineer",
+    "active": true,
+    "date_updated": 1763942211,
+    "date_posted": 1763942211,
+    "url": "https://jobs.l3harris.com/job/Waco-Assoc,-Software-Engineer-(Waco,-TX)-TX-76705/1345039600/?ats=successfactors",
+    "locations": [
+      "Waco, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "L3Harris Technologies",
+    "id": "07a89285-0761-4f66-b50d-e8564e3bfbc6",
+    "title": "Assoc \u2013 Software Engineer - Waco - TX",
+    "active": true,
+    "date_updated": 1763942211,
+    "date_posted": 1763942211,
+    "url": "https://jobs.l3harris.com/job/Waco-Assoc,-Software-Engineer-(Waco,-TX)-TX-76705/1345039700/?ats=successfactors",
+    "locations": [
+      "Waco, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Caesars Entertainment",
+    "id": "793f994b-40cf-45e9-a577-d1e2ff36d468",
+    "title": "Slot Technician - Slot Machines",
+    "active": true,
+    "date_updated": 1763944762,
+    "date_posted": 1763944762,
+    "url": "https://edmn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/76420",
+    "locations": [
+      "Elgin, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/Caesars-Entertainment",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
