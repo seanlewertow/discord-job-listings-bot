@@ -46288,5 +46288,23 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "07f3ba90-c827-40d3-a8ab-4ecc361cb6a2",
+    "title": "Trading Assistant - Shift",
+    "active": true,
+    "date_updated": 1763893199,
+    "date_posted": 1763893199,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400039285",
+    "locations": [
+      "Northern Ireland, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
