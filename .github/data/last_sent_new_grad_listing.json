@@ -47103,5 +47103,23 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "e679b6bf-7f6f-4fa6-be9d-5321a0a084a0",
+    "title": "Trading Assistant - Shift",
+    "active": true,
+    "date_updated": 1764055112,
+    "date_posted": 1764055112,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400039736",
+    "locations": [
+      "Bracknell, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
