@@ -46865,5 +46865,60 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "f363b0ab-588a-4d55-a2a7-93aeb8a22e61",
+    "title": "Trading Assistant",
+    "active": true,
+    "date_updated": 1764044667,
+    "date_posted": 1764044667,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400028818",
+    "locations": [
+      "Essex, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "IMEG",
+    "id": "63abed04-2df1-4c3b-9fc9-30e1ef8b192f",
+    "title": "Building Performance Engineering New Grad - St. Louis - MO",
+    "active": true,
+    "date_updated": 1764043266,
+    "date_posted": 1764043266,
+    "url": "https://wd1.myworkdaysite.com/recruiting/imeg/Imeg_Careers/job/St-Louis-MO/Building-Performance-Engineering-New-Grad----St-Louis--MO_R-15526",
+    "locations": [
+      "Chicago, IL",
+      "St. Louis, MO"
+    ],
+    "company_url": "https://simplify.jobs/c/IMEG",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "664657d3-fba8-4c28-99e9-9cc26e47486a",
+    "title": "Trading Assistant - Shift",
+    "active": true,
+    "date_updated": 1764043184,
+    "date_posted": 1764043184,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400039854",
+    "locations": [
+      "Bedford, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
