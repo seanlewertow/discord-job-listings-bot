@@ -47361,5 +47361,33 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Boston Consulting Group",
+    "id": "450be4dd-71c9-45b4-a844-28b9c529e092",
+    "title": "AI Engineer",
+    "active": true,
+    "date_updated": 1764077526,
+    "date_posted": 1764032535,
+    "url": "https://careers.bcg.com/global/en/job/55995",
+    "locations": [
+      "Boston, MA",
+      "Seattle, WA",
+      "SF",
+      "LA",
+      "Miami, FL",
+      "Dallas, TX",
+      "Chicago, IL",
+      "Pittsburgh, PA",
+      "NYC",
+      "Brooklyn, NY",
+      "El Segundo, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Boston-Consulting-Group",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
