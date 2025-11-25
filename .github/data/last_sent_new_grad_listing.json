@@ -47443,5 +47443,59 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "date_updated": 1764087943,
+    "sponsorship": "U.S. Citizenship is Required",
+    "active": true,
+    "degrees": [],
+    "url": "https://guidehouse.wd1.myworkdayjobs.com/en-US/External/job/US---VA-Arlington/Junior-Data-Scientist_34033",
+    "company_name": "Guidehouse",
+    "title": "Junior Data Scientist",
+    "locations": [
+      "Arlington, VA"
+    ],
+    "category": "Data Science, AI & Machine Learning",
+    "source": "angie-hue",
+    "id": "75a88053-120b-4ec6-9fd4-4295fbb98125",
+    "date_posted": 1764087943,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1764088015,
+    "sponsorship": "U.S. Citizenship is Required",
+    "active": true,
+    "degrees": [],
+    "url": "https://jobs.baesystems.com/global/en/job/BAE1US118690BREXTERNAL/Entry-Level-Software-Engineer",
+    "company_name": "BAE Systems",
+    "title": "Entry Level Software Engineer",
+    "locations": [
+      "Totowa, NJ"
+    ],
+    "category": "Software Engineering",
+    "source": "angie-hue",
+    "id": "cdbda0b6-3175-4a45-a415-912d3acee1c4",
+    "date_posted": 1764088015,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Nielsen",
+    "id": "2dfbcd68-152f-4af6-a3a4-ef91db1e7463",
+    "title": "Data Analyst",
+    "active": true,
+    "date_updated": 1764087895,
+    "date_posted": 1764087895,
+    "url": "https://jobs.smartrecruiters.com/NielsenIQ/744000095409894",
+    "locations": [
+      "Manchester, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Nielsen",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
