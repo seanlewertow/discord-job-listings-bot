@@ -47139,5 +47139,60 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "827099d0-99b3-4218-8213-e2dc6d2ab3c2",
+    "title": "Trading Assistant",
+    "active": true,
+    "date_updated": 1764059051,
+    "date_posted": 1764059051,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400037233",
+    "locations": [
+      "Norwich, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "GE Aerospace",
+    "id": "3a3e46c7-fd41-4d94-96db-1644cbf38be0",
+    "title": "Digital Technology Leadership Program",
+    "active": true,
+    "date_updated": 1764058949,
+    "date_posted": 1764058949,
+    "url": "https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Cheltenham/Digital-Technology-Leadership-Program---UK_R5022929-2",
+    "locations": [
+      "Remote in UK",
+      "Gloucester, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/GE-Aerospace",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "GE Vernova",
+    "id": "f7948a21-e77a-4e8a-b18e-bfa9a4c5beff",
+    "title": "Logistics Data Analyst - Month Fixed Term Contract",
+    "active": true,
+    "date_updated": 1764058613,
+    "date_posted": 1764058613,
+    "url": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Markham/Logistics-Data-Analyst---12-Month-Fixed-Term-Contract_R5017473-3",
+    "locations": [
+      "Markham, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/GE-Vernova",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
