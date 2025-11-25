@@ -47389,5 +47389,41 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Qualtrics",
+    "id": "298c8073-8027-44ee-8cbb-f3b08d2fb8be",
+    "title": "Senior Specialist - People Analytics",
+    "active": true,
+    "date_updated": 1764080566,
+    "date_posted": 1764080566,
+    "url": "https://www.qualtrics.com/careers/us/en/job/7268113?gh_jid=7268113",
+    "locations": [
+      "Provo, UT"
+    ],
+    "company_url": "https://simplify.jobs/c/Qualtrics",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "TikTok",
+    "id": "1ada89a0-c765-47f9-8ed0-e353250a765d",
+    "title": "Software Engineer Graduate - Capital Platform - 2026 Start','BS/MS",
+    "active": true,
+    "date_updated": 1764079056,
+    "date_posted": 1761907980,
+    "url": "https://lifeattiktok.com/search/7532009150009755911",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/TikTok",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
