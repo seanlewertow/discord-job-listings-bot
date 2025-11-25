@@ -47121,5 +47121,23 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Assurant",
+    "id": "4e6726d7-f9ec-4da8-9eed-297b7db9bd33",
+    "title": "Smartphone Repair Technician-Croydon",
+    "active": true,
+    "date_updated": 1764057396,
+    "date_posted": 1764057396,
+    "url": "https://assurant.wd1.myworkdayjobs.com/en-US/Assurant_Careers/job/Croydon-Boxpark/Smartphone-Repair-Technician-Croydon_R-110124-1",
+    "locations": [
+      "Croydon, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Assurant",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
