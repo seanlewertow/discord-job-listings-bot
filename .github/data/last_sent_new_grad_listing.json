@@ -46721,5 +46721,77 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "University of Chicago",
+    "id": "f599247e-d208-41d9-9e4c-9a0a667afcc4",
+    "title": "Data Science Analyst",
+    "active": true,
+    "date_updated": 1764040828,
+    "date_posted": 1764040828,
+    "url": "https://uchicago.wd5.myworkdayjobs.com/External/job/Chicago-IL/Data-Science-Analyst--TCOM_JR32117",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/University-Of-Chicago",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "039a1f94-d568-4fdf-b0fa-080fdf45b399",
+    "title": "Trading Assistant",
+    "active": true,
+    "date_updated": 1764040801,
+    "date_posted": 1764040801,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400039705",
+    "locations": [
+      "Bath, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Northern Trust",
+    "id": "6515c4b9-ea5d-4807-ac3b-58ab3eafc98e",
+    "title": "Senior Analyst Artificial Intelligence Enterprise Engineer",
+    "active": true,
+    "date_updated": 1764040684,
+    "date_posted": 1764040684,
+    "url": "https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/Chicago-IL/Sr-Analyst-Artificial-Intelligence-Enterprise-Engineer_R148471",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/Northern-Trust",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Samsung",
+    "id": "4879b9cc-1f5b-4663-a635-9f479feb0342",
+    "title": "Failure Analysis Technician",
+    "active": true,
+    "date_updated": 1764040281,
+    "date_posted": 1764040281,
+    "url": "https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/1530-FM-973-Taylor-TX-USA/Failure-Analysis-Technician_R111241-1",
+    "locations": [
+      "Pflugerville, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Samsung",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
