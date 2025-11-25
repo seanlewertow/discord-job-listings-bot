@@ -47497,5 +47497,59 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "AGILE Space Industries",
+    "id": "89323c4a-81af-4d54-bd8c-21187d9b5312",
+    "title": "Test Operations Technician",
+    "active": true,
+    "date_updated": 1764112966,
+    "date_posted": 1764112966,
+    "url": "https://job-boards.greenhouse.io/agilespaceindustries/jobs/4631702005",
+    "locations": [
+      "Dolores, CO"
+    ],
+    "company_url": "https://simplify.jobs/c/AGILE-Space-Industries",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Stackline",
+    "id": "5cba0867-9dba-4f74-ad53-b596f293ced9",
+    "title": "Data Scientist 1",
+    "active": true,
+    "date_updated": 1764112457,
+    "date_posted": 1764112457,
+    "url": "https://job-boards.greenhouse.io/stackline/jobs/4633616005",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "company_url": "https://simplify.jobs/c/Stackline",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "The Allen Institute for AI",
+    "id": "9cb8387c-7993-45e7-8f17-15f180a5e0ff",
+    "title": "Young Investigator - Flexolmo",
+    "active": true,
+    "date_updated": 1764112114,
+    "date_posted": 1764112114,
+    "url": "https://job-boards.greenhouse.io/thealleninstitute/jobs/7417128",
+    "locations": [
+      "Berkeley, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/allenai",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
