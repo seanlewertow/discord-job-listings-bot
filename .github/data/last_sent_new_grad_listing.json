@@ -47896,5 +47896,23 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Nuro",
+    "id": "ccf80725-3b98-4388-9611-60ee77fe1f67",
+    "title": "Fleet Technician - Houston",
+    "active": true,
+    "date_updated": 1764149744,
+    "date_posted": 1763192564,
+    "url": "https://nuro.ai/careersitem?gh_jid=7396413",
+    "locations": [
+      "Houston, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Nuro",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
