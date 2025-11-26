@@ -48016,5 +48016,95 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "15e21a54-5183-496b-97b6-0027474cc1f9",
+    "title": "Trading Assistant - Local",
+    "active": true,
+    "date_updated": 1764156233,
+    "date_posted": 1764156233,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400039829",
+    "locations": [
+      "Harrogate, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "General Dynamics Mission Systems",
+    "id": "e4a7fa0f-109b-41aa-b0a9-5765f6e5cc2e",
+    "title": "Systems Engineer \u2013 Entry Level",
+    "active": true,
+    "date_updated": 1764155043,
+    "date_posted": 1764155043,
+    "url": "https://careers-gdms.icims.com/jobs/68794/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Scottsdale, AZ"
+    ],
+    "company_url": "https://simplify.jobs/c/General-Dynamics-Mission-Systems",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "EliseAI",
+    "id": "ac55084b-ad6d-4871-9591-5df7eee5118f",
+    "title": "Software Engineer",
+    "active": true,
+    "date_updated": 1764154188,
+    "date_posted": 1764154188,
+    "url": "https://jobs.ashbyhq.com/EliseAI/1ffbd278-a5fe-443c-984f-521d61a97353/application",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/EliseAI",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Auto-Owners Insurance",
+    "id": "8c4720ae-5554-4048-993d-3d7fabab889c",
+    "title": "Business Intelligence Engineer",
+    "active": true,
+    "date_updated": 1764154900,
+    "date_posted": 1764154900,
+    "url": "https://aoins.wd5.myworkdayjobs.com/AutoOwners/job/Lansing-MI/Business-Intelligence-Engineer_R_12122-1",
+    "locations": [
+      "East Lansing, MI"
+    ],
+    "company_url": "https://simplify.jobs/c/Auto-Owners-Insurance",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Intuit",
+    "id": "f5b9aaa5-8805-4a48-8a6b-1717f850b7eb",
+    "title": "Software Engineer 1",
+    "active": true,
+    "date_updated": 1764154052,
+    "date_posted": 1764154052,
+    "url": "https://jobs.intuit.com/job/mountain-view/software-engineer-1/27595/88846669312",
+    "locations": [
+      "Mountain View, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Intuit",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
