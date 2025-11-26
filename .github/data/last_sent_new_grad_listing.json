@@ -47551,5 +47551,98 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "EquipmentShare",
+    "id": "7ad150ad-6a77-491f-9aa8-5cf10dc50b93",
+    "title": "Telematics Installer",
+    "active": true,
+    "date_updated": 1764117051,
+    "date_posted": 1764117051,
+    "url": "https://www.equipmentshare.com/careers/openings/?gh_jid=7425497",
+    "locations": [
+      "Fort Worth, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Equipment-Share",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "The Museum of Science",
+    "id": "11bdc472-12e0-4b72-9895-ad52d1fb7c15",
+    "title": "Associate CRM Systems Developer",
+    "active": true,
+    "date_updated": 1764117053,
+    "date_posted": 1764117053,
+    "url": "https://job-boards.greenhouse.io/themuseumofscience/jobs/5011562008",
+    "locations": [
+      "Boston, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/The-Museum-Of-Science",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Northrop Grumman",
+    "id": "9bbc6321-d352-48c5-a8d7-1fdffa6d3c71",
+    "title": "Systems Engineer",
+    "active": true,
+    "date_updated": 1764119672,
+    "date_posted": 1764119672,
+    "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Sunnyvale/Systems-Engineer-Level-2-3_R10215560",
+    "locations": [
+      "Sunnyvale, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Intel",
+    "id": "32783462-8b9b-4c5b-85f6-00f1318afc44",
+    "title": "SOC Design Verification Engineer",
+    "active": true,
+    "date_updated": 1764119187,
+    "date_posted": 1764119187,
+    "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/Virtual-US/SOC-Design-Verification-Engineer_JR0278430",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/Intel",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "SHI International ",
+    "id": "7c2fd6c2-3894-42c0-a2bc-bdc160bb51f2",
+    "title": "Pubsec Project Admin",
+    "active": true,
+    "date_updated": 1764119149,
+    "date_posted": 1764119149,
+    "url": "https://shi.wd12.myworkdayjobs.com/shicareers/job/US---NC---Home-Office/PubSec-Project-Admin_JR2239",
+    "locations": [
+      "Remote in USA",
+      "North Carolina"
+    ],
+    "company_url": "https://simplify.jobs/c/SHI-International",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
