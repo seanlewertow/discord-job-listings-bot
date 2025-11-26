@@ -47878,5 +47878,23 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Stripe",
+    "id": "ba107b4e-21bd-4329-b45b-0ee5e6e7b0a5",
+    "title": "Backend Engineer - Payments and Risk",
+    "active": true,
+    "date_updated": 1763198226,
+    "date_posted": 1761875015,
+    "url": "https://stripe.com/jobs/search?gh_jid=6163230",
+    "locations": [
+      "United States"
+    ],
+    "company_url": "https://simplify.jobs/c/Stripe",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
