@@ -47644,5 +47644,97 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "Sainsbury's",
+    "id": "24e83456-8722-44f3-8fb7-505e7521b637",
+    "title": "Product Manager - Media Agency",
+    "active": true,
+    "date_updated": 1764124718,
+    "date_posted": 1764124718,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400038510",
+    "locations": [
+      "London, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "16311703-24d8-42d4-a001-3527e06e15dd",
+    "title": "Trading Assistant - Shift",
+    "active": true,
+    "date_updated": 1764124712,
+    "date_posted": 1764124712,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400039877",
+    "locations": [
+      "Edinburgh, UK",
+      "Midlothian, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "109a3e6d-3943-4882-b294-e6eaac96f067",
+    "title": "Trading Assistant - Local",
+    "active": true,
+    "date_updated": 1764124711,
+    "date_posted": 1764124711,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400039882",
+    "locations": [
+      "Durham, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "053afa82-4969-4dd5-af98-086e929b0d2c",
+    "title": "Trading Assistant",
+    "active": true,
+    "date_updated": 1764124699,
+    "date_posted": 1764124699,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400030554",
+    "locations": [
+      "Liverpool, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Morgan Stanley",
+    "id": "95cbe458-a7fd-408b-8b27-d51548b5b1ed",
+    "title": "IED Quantitative Trading Assistant - Analyst/Associate",
+    "active": true,
+    "date_updated": 1764123842,
+    "date_posted": 1764123842,
+    "url": "https://ms.wd5.myworkdayjobs.com/External/job/Salt-Lake-City-Utah-United-States-of-America/IED---Quantitative-Trading-Assistant---Analyst-Associate_JR025328-1",
+    "locations": [
+      "Salt Lake City, UT",
+      "South Jordan, UT"
+    ],
+    "company_url": "https://simplify.jobs/c/Morgan-Stanley",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
