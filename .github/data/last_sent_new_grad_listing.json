@@ -48180,5 +48180,78 @@
     "date_posted": 1764174118,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "dea59f44-ae6a-4e46-9214-862bc2ccfd6c",
+    "title": "Trading Assistant - Shift",
+    "active": true,
+    "date_updated": 1764196648,
+    "date_posted": 1764196648,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400040167",
+    "locations": [
+      "Oxford, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "d19ff531-1683-47cf-aab9-b02ef1f5d704",
+    "title": "Trading Assistant - Shift",
+    "active": true,
+    "date_updated": 1764196649,
+    "date_posted": 1764196649,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400040174",
+    "locations": [
+      "United Kingdom"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "6e5cd1ea-8dda-4359-9ede-7c93a73b2c97",
+    "title": "Trading Assistant",
+    "active": true,
+    "date_updated": 1764196644,
+    "date_posted": 1764196644,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400029945",
+    "locations": [
+      "Brighton, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "S&P Global ",
+    "id": "5f2461cd-4960-4449-b9fd-2098250bb272",
+    "title": "Software Developer",
+    "active": true,
+    "date_updated": 1764196591,
+    "date_posted": 1764196591,
+    "url": "https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Careers/job/CA---TORONTO-22-ADELAIDE-STREET-WEST/Software-Developer_322016",
+    "locations": [
+      "Toronto, ON, Canada",
+      "Remote in Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/SP-Global",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
