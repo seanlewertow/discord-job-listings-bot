@@ -47914,5 +47914,107 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Amazon",
+    "id": "78d4b6a8-069d-49a7-9118-63c5560321ed",
+    "title": "Agentic AI Teacher - Agi Ds",
+    "active": true,
+    "date_updated": 1764153017,
+    "date_posted": 1764153017,
+    "url": "https://amazon.jobs/en/jobs/3132844/agentic-ai-teacher-agi-ds",
+    "locations": [
+      "Boston, MA",
+      "Seattle, WA",
+      "LA",
+      "Bellevue, WA",
+      "United States"
+    ],
+    "company_url": "https://simplify.jobs/c/Amazon",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Amazon",
+    "id": "51e4aba6-718b-43b5-9879-608ef2975290",
+    "title": "Agentic AI Teacher - Agi Ds",
+    "active": true,
+    "date_updated": 1764153020,
+    "date_posted": 1764153020,
+    "url": "https://amazon.jobs/en/jobs/3132851/agentic-ai-teacher-agi-ds",
+    "locations": [
+      "Boston, MA",
+      "Washington",
+      "Bellevue, WA",
+      "Massachusetts",
+      "United States"
+    ],
+    "company_url": "https://simplify.jobs/c/Amazon",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Amazon",
+    "id": "1d7d3a9e-eb11-44e0-b0c7-40553a7eb34f",
+    "title": "Agentic AI Teacher - Agi Ds",
+    "active": true,
+    "date_updated": 1764153018,
+    "date_posted": 1764153018,
+    "url": "https://amazon.jobs/en/jobs/3132850/agentic-ai-teacher-agi-ds",
+    "locations": [
+      "Boston, MA",
+      "Washington",
+      "Bellevue, WA",
+      "Massachusetts",
+      "United States"
+    ],
+    "company_url": "https://simplify.jobs/c/Amazon",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Daktronics",
+    "id": "e5cea4b1-1686-4b8b-84b0-7e1cc6c334b7",
+    "title": "Electronics Technician",
+    "active": true,
+    "date_updated": 1764152750,
+    "date_posted": 1761897309,
+    "url": "https://careers-daktronics.icims.com/jobs/7037/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Marshall, MN"
+    ],
+    "company_url": "https://simplify.jobs/c/Daktronics",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "SCS Engineers",
+    "id": "05efb389-6528-4ac2-a44f-7cb686b3605c",
+    "title": "Field Data Analyst",
+    "active": true,
+    "date_updated": 1764153781,
+    "date_posted": 1761873251,
+    "url": "https://careers-scsengineers.icims.com/jobs/1613/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Modesto, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/SCS-Engineers",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
