@@ -48417,5 +48417,95 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "PennState University",
+    "id": "7c47eed5-d082-43ad-b0af-a478b29da1a7",
+    "title": "Part-Time Research Assistant - Astronomy Department",
+    "active": true,
+    "date_updated": 1764208858,
+    "date_posted": 1764208858,
+    "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Part-Time-Research-Assistant---Astronomy-Department_REQ_0000073928-1",
+    "locations": [
+      "State College, PA"
+    ],
+    "company_url": "https://simplify.jobs/c/Penn-State",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "Fullscript",
+    "id": "3737cdb4-22c7-4ea9-9a0b-941bc2cd83ec",
+    "title": "Product Manager - Journeys",
+    "active": true,
+    "date_updated": 1764209178,
+    "date_posted": 1764209178,
+    "url": "https://jobs.lever.co/fullscript/10c0976e-8b9b-4926-82b6-2fdb66876345/apply",
+    "locations": [
+      "Toronto, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/FullScript",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Phamily",
+    "id": "21800147-af65-4d12-8bac-88adf3e27d3a",
+    "title": "Software Engineer",
+    "active": true,
+    "date_updated": 1764209193,
+    "date_posted": 1764209193,
+    "url": "https://job-boards.greenhouse.io/jobsatphamily/jobs/5013584008",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Phamily",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "PennState University",
+    "id": "0f1b28fb-2b6d-41ce-9ce9-59d83cc282d2",
+    "title": "Part-Time Grad",
+    "active": true,
+    "date_updated": 1764208866,
+    "date_posted": 1764208866,
+    "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Part-Time-Grad_REQ_0000073814-1",
+    "locations": [
+      "State College, PA"
+    ],
+    "company_url": "https://simplify.jobs/c/Penn-State",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Serco North America",
+    "id": "3f36d922-19eb-46e2-9b36-ea3f749e45bd",
+    "title": "Entry Level Systems Engineer",
+    "active": true,
+    "date_updated": 1764208623,
+    "date_posted": 1764208623,
+    "url": "https://careers-sercous.icims.com/jobs/72101/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Orlando, FL"
+    ],
+    "company_url": "https://simplify.jobs/c/Serco-North-America",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
