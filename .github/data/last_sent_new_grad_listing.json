@@ -48946,5 +48946,41 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "William Blair",
+    "id": "0e820fc5-e397-4823-ab37-30fa89b0c301",
+    "title": "Technology - Application Development",
+    "active": true,
+    "date_updated": 1764292309,
+    "date_posted": 1764292309,
+    "url": "https://www.williamblair.com/Careers/job-description?gh_jid=4960398007",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/William-Blair",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Arrowstreet Capital",
+    "id": "75ac9826-0d0a-406b-8cde-ef417f59bfa6",
+    "title": "Quantitative Researcher",
+    "active": true,
+    "date_updated": 1764294335,
+    "date_posted": 1764294335,
+    "url": "https://arrowstreetcapital.wd5.myworkdayjobs.com/Campus_Careers/job/Boston/Quantitative-Researcher_R1381",
+    "locations": [
+      "Boston, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/Arrowstreet-Capital",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
