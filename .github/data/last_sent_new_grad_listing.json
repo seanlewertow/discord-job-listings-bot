@@ -48854,5 +48854,97 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "Ardian",
+    "id": "7d8e2585-2a5b-4543-8f19-db4423757b33",
+    "title": "Product Specialist Analyst",
+    "active": true,
+    "date_updated": 1764286953,
+    "date_posted": 1764286953,
+    "url": "https://ardian.wd103.myworkdayjobs.com/ArdianCareers/job/London/Product-Specialist-Analyst_JR1001563",
+    "locations": [
+      "London, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Ardian",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Ardian",
+    "id": "6b37f7a2-590b-4547-b1d6-1d907d0ab041",
+    "title": "Co-Investment Analyst - Private Equity",
+    "active": true,
+    "date_updated": 1764286952,
+    "date_posted": 1764286952,
+    "url": "https://ardian.wd103.myworkdayjobs.com/ArdianCareers/job/Montreal/Co-Investment-Analyst--Private-Equity-_JR1001392",
+    "locations": [
+      "Montreal, QC, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Ardian",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "AWE",
+    "id": "19cbebef-2829-431b-881c-196f85441cdb",
+    "title": "Year in Industry-Materials and System Modeller",
+    "active": true,
+    "date_updated": 1764286899,
+    "date_posted": 1764286899,
+    "url": "https://awepeople.wd3.myworkdayjobs.com/Grad_Careers/job/Reading-area/Year-in-Industry--Materials-and-System-Modeller_R28797",
+    "locations": [
+      "Newbury, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/AWE",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Phoenix Group",
+    "id": "e9d7fa1d-2c7c-4ce4-9c0c-5dd0018a529a",
+    "title": "Data Management Associate - RS&AM Coo",
+    "active": true,
+    "date_updated": 1764286695,
+    "date_posted": 1764286695,
+    "url": "https://fa-enor-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/19203",
+    "locations": [
+      "Edinburgh, UK",
+      "Birmingham, UK",
+      "Stoke-on-Trent, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Phoenix-Group",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "KCI Technologies",
+    "id": "09b1175f-1fa8-4598-8077-efb8f7abc506",
+    "title": "CE Data Coordinator",
+    "active": true,
+    "date_updated": 1764286682,
+    "date_posted": 1758004029,
+    "url": "https://careers-kci.icims.com/jobs/7220/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "United States"
+    ],
+    "company_url": "https://simplify.jobs/c/KCI-Technologies",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
