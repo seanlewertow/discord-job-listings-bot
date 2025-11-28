@@ -49433,5 +49433,106 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "Deckers Brands",
+    "id": "1a6dba77-0acf-4cbb-9a36-0eebf23a0e2d",
+    "title": "Product Coordinator - UGG Apparel and Accessories",
+    "active": true,
+    "date_updated": 1764367445,
+    "date_posted": 1764367445,
+    "url": "https://deckers.wd5.myworkdayjobs.com/Deckers/job/Goleta-California/Product-Coordinator---UGG-Apparel-and-Accessories_19655",
+    "locations": [
+      "Goleta, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Deckers-Brands",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "Deckers Brands",
+    "id": "d9713ae0-0e02-4237-874d-7b22c4069c71",
+    "title": "Product Coordinator - Lifestyle - Hoka",
+    "active": true,
+    "date_updated": 1764367410,
+    "date_posted": 1764367410,
+    "url": "https://deckers.wd5.myworkdayjobs.com/Deckers/job/Portland-Oregon/Product-Coordinator---Lifestyle--HOKA_19515",
+    "locations": [
+      "Portland, OR"
+    ],
+    "company_url": "https://simplify.jobs/c/Deckers-Brands",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Turntide",
+    "id": "c6452181-bf88-4256-a1ed-04d645937538",
+    "title": "Electrical Hardware Engineer",
+    "active": true,
+    "date_updated": 1764367223,
+    "date_posted": 1764367223,
+    "url": "https://ats.rippling.com/turntide-careers/jobs/afaa3bd8-f5f1-4f4a-a53e-13f00b7ca8fa",
+    "locations": [
+      "Newcastle upon Tyne, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Turntide",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Circle",
+    "id": "a92e003b-37f8-425e-8c24-a7bc40e4cea1",
+    "title": "New Grad Software Engineer - Backend 2026",
+    "active": true,
+    "date_updated": 1764367087,
+    "date_posted": 1764367087,
+    "url": "https://circle.wd1.myworkdayjobs.com/Circle/job/San-Francisco---remote-first-in-US/New-Grad-Software-Engineer--Backend-2024_JR100011-1",
+    "locations": [
+      "Salt Lake City, UT",
+      "Boston, MA",
+      "Seattle, WA",
+      "Washington, DC",
+      "SF",
+      "Austin, TX",
+      "LA",
+      "Miami, FL",
+      "Chicago, IL",
+      "NYC",
+      "Phoenix, AZ",
+      "Atlanta, GA"
+    ],
+    "company_url": "https://simplify.jobs/c/Circle",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "The University of Edinburgh",
+    "id": "4d54d0a7-6995-4c01-9497-1abec913aac9",
+    "title": "Research Fellow",
+    "active": true,
+    "date_updated": 1764367159,
+    "date_posted": 1764367159,
+    "url": "https://elxw.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/13446",
+    "locations": [
+      "Edinburgh, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/The-University-Of-Edinburgh",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
