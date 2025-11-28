@@ -49253,5 +49253,95 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Newfront Insurance",
+    "id": "766d7b3b-8adf-4de7-b3ae-897f7cd44435",
+    "title": "Software Engineer",
+    "active": true,
+    "date_updated": 1764364721,
+    "date_posted": 1764364721,
+    "url": "https://jobs.ashbyhq.com/newfront/6e7a8110-b040-4a99-bc11-25a88727c31f/application",
+    "locations": [
+      "United States"
+    ],
+    "company_url": "https://simplify.jobs/c/Newfront-Insurance",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "IMC Trading",
+    "id": "b438749a-27b5-43f0-98c9-3cc71d7685e0",
+    "title": "Graduate Trader - 2026",
+    "active": true,
+    "date_updated": 1764364478,
+    "date_posted": 1764364478,
+    "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4564495101",
+    "locations": [
+      "London, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/IMC-Trading",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "PennState University",
+    "id": "48f3cfe9-0438-42d1-9ab8-c9e35bbbbf06",
+    "title": "Postdoctoral Researcher Positions at Penn State Center for Exoplanets and Habitable Worlds",
+    "active": true,
+    "date_updated": 1764363751,
+    "date_posted": 1764363751,
+    "url": "https://psu.wd1.myworkdayjobs.com/PSU_Academic/job/Penn-State-University-Park/Postdoctoral-Research-Positions-at-Penn-State-Center-for-Exoplanets---Habitable-Worlds_REQ_0000073486-1",
+    "locations": [
+      "State College, PA"
+    ],
+    "company_url": "https://simplify.jobs/c/Penn-State",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "Blackberry",
+    "id": "9bd5a445-5944-4e88-878c-8bdda4ca2150",
+    "title": "QNX Product Management Student",
+    "active": true,
+    "date_updated": 1764363533,
+    "date_posted": 1764363533,
+    "url": "https://bb.wd3.myworkdayjobs.com/Student/job/Ottawa-Ontario/QNX-Product-Management-Student_20250339",
+    "locations": [
+      "Ottawa, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/BlackBerry",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Kensington",
+    "id": "fd9bc61a-8674-4730-a695-2a30696669a0",
+    "title": "Data & Reporting Analyst - Contract",
+    "active": true,
+    "date_updated": 1764364527,
+    "date_posted": 1762991008,
+    "url": "https://job-boards.greenhouse.io/kensingtontours/jobs/4949104007",
+    "locations": [
+      "Toronto, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Kensington",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
