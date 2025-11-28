@@ -49343,5 +49343,95 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Creation Technologies",
+    "id": "9686f98b-39e5-4236-a0b0-c1b93350007d",
+    "title": "Production Technician",
+    "active": true,
+    "date_updated": 1764366814,
+    "date_posted": 1764366814,
+    "url": "https://creationtech.wd1.myworkdayjobs.com/Creation/job/Newark-NY-USA/Production-Technician_JR5907",
+    "locations": [
+      "Canandaigua, NY"
+    ],
+    "company_url": "https://simplify.jobs/c/Creation-Technologies",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Cogeco",
+    "id": "6703fb5a-2bc0-4c6d-9b47-9b23a52eddaa",
+    "title": "Technician",
+    "active": true,
+    "date_updated": 1764366845,
+    "date_posted": 1764366845,
+    "url": "https://cogeco.wd3.myworkdayjobs.com/Cogeco_Careers/job/Uniontown-PA/Technician--Customer-Facing_JR9144",
+    "locations": [
+      "Uniontown, PA"
+    ],
+    "company_url": "https://simplify.jobs/c/Cogeco",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "CMC Markets",
+    "id": "25435053-db63-4773-b785-5fe5bfd4d6aa",
+    "title": "Quantitative Trader",
+    "active": true,
+    "date_updated": 1764366802,
+    "date_posted": 1764366802,
+    "url": "https://cmcmarkets.wd3.myworkdayjobs.com/CMC_Markets_Careers/job/Toronto/Quantitative-Trader_CMC4730",
+    "locations": [
+      "Toronto, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/CMC-Markets",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Arlington County VA",
+    "id": "a88f40ef-eef9-4e22-86ca-3f3cf9db4d67",
+    "title": "Engineering Support Associate",
+    "active": true,
+    "date_updated": 1764366653,
+    "date_posted": 1764366653,
+    "url": "https://fa-exkk-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1167",
+    "locations": [
+      "Arlington, VA"
+    ],
+    "company_url": "https://simplify.jobs/c/Arlington-County-VA",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "BAE Systems",
+    "id": "67856fae-1de1-4d10-aa33-b872cdd15e87",
+    "title": "Data Analyst - Supply Chain",
+    "active": true,
+    "date_updated": 1764365560,
+    "date_posted": 1764365560,
+    "url": "https://baesystems.taleo.net/careersection/2/jobdetail.ftl?job=00132502",
+    "locations": [
+      "Blackpool, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/BAE-Systems",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
