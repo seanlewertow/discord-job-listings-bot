@@ -49235,5 +49235,23 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Deloitte",
+    "id": "b3734f49-56a8-4a20-af16-f5af5cc9e3e1",
+    "title": "Consultant - Mergers and Acquisitions Data Analytics",
+    "active": true,
+    "date_updated": 1764363012,
+    "date_posted": 1764058835,
+    "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Consultant-Mergers-and-Acquisitions-Data-Analytics/317701",
+    "locations": [
+      "Boston, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/Deloitte",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
