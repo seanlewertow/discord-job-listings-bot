@@ -48982,5 +48982,96 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Danaher Corporation",
+    "id": "1e1c6a35-ee0a-49a6-9fbf-7a3bd6c7d3b5",
+    "title": "Field Service Engineer - Tucson - AZ",
+    "active": true,
+    "date_updated": 1764300134,
+    "date_posted": 1764300134,
+    "url": "https://danaher.wd1.myworkdayjobs.com/danaherjobs/job/Tucson-Arizona-United-States/Field-Service-Engineer---Tucson--AZ_R1297068",
+    "locations": [
+      "Tucson, AZ"
+    ],
+    "company_url": "https://simplify.jobs/c/Danaher-Corporation",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "American Express",
+    "id": "b0945ae7-52df-445c-806f-18240148a916",
+    "title": "Software Engineer 1 - Enterprise Architecture",
+    "active": true,
+    "date_updated": 1764300031,
+    "date_posted": 1764300031,
+    "url": "https://aexp.eightfold.ai/careers/job/38852057",
+    "locations": [
+      "London, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/American-Express",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "American Express",
+    "id": "8a3d0a0c-f52e-41e1-b804-5c6ed8d622b0",
+    "title": "Associate-Digital Product Management",
+    "active": true,
+    "date_updated": 1764300008,
+    "date_posted": 1764300008,
+    "url": "https://aexp.eightfold.ai/careers/job/38962236",
+    "locations": [
+      "Brighton, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/American-Express",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Danaher Corporation",
+    "id": "05c7889b-36d7-4154-8342-d1f6a758afa7",
+    "title": "Field Service Engineer 1",
+    "active": true,
+    "date_updated": 1764300096,
+    "date_posted": 1764300096,
+    "url": "https://danaher.wd1.myworkdayjobs.com/danaherjobs/job/Dallas-Texas-United-States/Field-Service-Engineer-I---Dallas--TX_R1299560",
+    "locations": [
+      "Dallas, TX",
+      "Fort Worth, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Danaher-Corporation",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Unily",
+    "id": "e2554a19-7b03-4cab-b0b6-d02912e6a7da",
+    "title": "Technical Graduate Programme",
+    "active": true,
+    "date_updated": 1764299760,
+    "date_posted": 1764299760,
+    "url": "https://ats.rippling.com/unily/jobs/c387c133-6332-484f-a47e-a9e4e0113fd5",
+    "locations": [
+      "Guildford, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Unily",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
