@@ -49698,5 +49698,95 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "Bass Pro Shops",
+    "id": "75a87e70-0964-4e7f-bfc6-b050a9cbaafb",
+    "title": "Assistant Merchant 1-Fishing",
+    "active": true,
+    "date_updated": 1764373216,
+    "date_posted": 1764373216,
+    "url": "https://basspro.wd1.myworkdayjobs.com/careers/job/Winnipeg-MB-Base-Camp/Assistant-Merchant-I-Fishing_R240797",
+    "locations": [
+      "Winnipeg, MB, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Bass-Pro-Shops",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Bass Pro Shops",
+    "id": "4bcd6c16-0c29-41fd-bf45-a3d102c37e76",
+    "title": "Service Technician",
+    "active": true,
+    "date_updated": 1764372647,
+    "date_posted": 1764372647,
+    "url": "https://basspro.wd1.myworkdayjobs.com/careers/job/Arizona-Tucson-Bass-Pro-Shops/Service-Technician_R242112",
+    "locations": [
+      "Tucson, AZ"
+    ],
+    "company_url": "https://simplify.jobs/c/Bass-Pro-Shops",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "5d0c42ad-1b57-461b-bf2c-af14053c435d",
+    "title": "Trading Assistant - Shift",
+    "active": true,
+    "date_updated": 1764374910,
+    "date_posted": 1764374910,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400040720",
+    "locations": [
+      "Beaconsfield, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "Bass Pro Shops",
+    "id": "64b52113-a9c6-4fda-931e-f93800802ee5",
+    "title": "Product Specialist - Casual Footwear",
+    "active": true,
+    "date_updated": 1764374593,
+    "date_posted": 1764374593,
+    "url": "https://basspro.wd1.myworkdayjobs.com/careers/job/Springfield-MO-Bass-Pro-Shops-Base-Camp/Product-Specialist---Casual-Footwear_R241109",
+    "locations": [
+      "Springfield, MO"
+    ],
+    "company_url": "https://simplify.jobs/c/Bass-Pro-Shops",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "General Dynamics Information Technology",
+    "id": "2af08e03-6ce3-4d09-91e8-e6b3686d0291",
+    "title": "Data Scientist",
+    "active": true,
+    "date_updated": 1764374273,
+    "date_posted": 1764374273,
+    "url": "https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-FL-Tampa/Data-Scientist--On-site-in-Tampa--FL-_RQ210904-1",
+    "locations": [
+      "Tampa, FL"
+    ],
+    "company_url": "https://simplify.jobs/c/GDIT",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
