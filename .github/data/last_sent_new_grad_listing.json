@@ -50167,5 +50167,23 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "TD Bank",
+    "id": "98a00da4-5f65-4d8d-94e9-e7861d7fab2b",
+    "title": "Applied Machine Learning Scientist 1",
+    "active": true,
+    "date_updated": 1764536499,
+    "date_posted": 1764536499,
+    "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Applied-Machine-Learning-Scientist-I_R_1451699",
+    "locations": [
+      "Toronto, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/TD-Bank",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
