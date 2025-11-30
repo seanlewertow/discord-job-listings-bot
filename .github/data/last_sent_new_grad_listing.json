@@ -50022,5 +50022,78 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "True Anomaly",
+    "id": "2536fc43-f3e0-4239-bf31-e8c19894b771",
+    "title": "Quality Assurance Software Engineer 1",
+    "active": true,
+    "date_updated": 1764522857,
+    "date_posted": 1764522857,
+    "url": "https://job-boards.greenhouse.io/trueanomalyinc/jobs/4992321007",
+    "locations": [
+      "Long Beach, CA",
+      "Denver, CO"
+    ],
+    "company_url": "https://simplify.jobs/c/TrueAnomaly",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Varian",
+    "id": "adaef14a-321c-491d-b9e8-94126ae7fffd",
+    "title": "Field Service Tech HW",
+    "active": true,
+    "date_updated": 1764522463,
+    "date_posted": 1764522463,
+    "url": "https://onehealthineers.wd3.myworkdayjobs.com/SHSJB/job/SKH-25/Field-Service-Tech-HW---Minot--ND_R-23354",
+    "locations": [
+      "Minot, ND"
+    ],
+    "company_url": "https://simplify.jobs/c/670da3c5-bce0-4621-b519-da7ce7d528e6",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Texas A&M University - Corpus Christi",
+    "id": "7fa15bdb-3ecc-42aa-a8cf-fbdabc44f4ec",
+    "title": "Postdoctoral Research Associate",
+    "active": true,
+    "date_updated": 1764522405,
+    "date_posted": 1764522405,
+    "url": "https://tamus.wd1.myworkdayjobs.com/TAMUCC_External/job/Corpus-Christi-TX/Postdoctoral-Research-Associate_R-089245-1",
+    "locations": [
+      "Corpus Christi, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Texas-AM-University-Corpus-Christi",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "University of Texas - Austin",
+    "id": "9ac74a13-8611-4414-944f-2db9dba7f8f8",
+    "title": "FAB Equipment Technician Senior - Multiple Teams",
+    "active": true,
+    "date_updated": 1764521855,
+    "date_posted": 1764521855,
+    "url": "https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/PICKLE-RESEARCH-CAMPUS/FAB-Equipment-Technician---Levels-I--II--Sr--or-Master--Texas-Institute-for-Electronics_R_00041137",
+    "locations": [
+      "Austin, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/University-Of-Texas-Austin",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
