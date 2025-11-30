@@ -50239,5 +50239,23 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "Insperity",
+    "id": "a5128fae-6288-45d7-8949-a3d6f49ce65b",
+    "title": "Product Manager - Hris - Workday",
+    "active": true,
+    "date_updated": 1763509639,
+    "date_posted": 1763509639,
+    "url": "https://insperity.wd12.myworkdayjobs.com/NSP/job/Kingwood-TX/Product-Manager--HRIS--Workday-_JR101777",
+    "locations": [
+      "Kingwood, Houston, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Insperity",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
