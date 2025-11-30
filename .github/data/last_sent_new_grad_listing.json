@@ -49932,5 +49932,95 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "9aef7d4a-1a14-4df0-98e1-ba95eea590cf",
+    "title": "Trading Assistant - Local",
+    "active": true,
+    "date_updated": 1764520183,
+    "date_posted": 1764520183,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400040793",
+    "locations": [
+      "Nottingham, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "934e4582-72e9-4ce4-b42f-9ee8132ca594",
+    "title": "Trading Assistant - Local",
+    "active": true,
+    "date_updated": 1764520191,
+    "date_posted": 1764520191,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400040978",
+    "locations": [
+      "Stratford-upon-Avon, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "7b574834-d8f2-4900-82d5-2da0a6726231",
+    "title": "Trading Assistant - Local",
+    "active": true,
+    "date_updated": 1764520189,
+    "date_posted": 1764520189,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400041088",
+    "locations": [
+      "Derby, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "76c273c6-12b7-4748-b11e-f2a0e8639372",
+    "title": "Trading Assistant - Local",
+    "active": true,
+    "date_updated": 1764520183,
+    "date_posted": 1764520183,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400038487",
+    "locations": [
+      "United Kingdom"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "0c99bfa3-57b9-4585-be8f-5d78ab8827f4",
+    "title": "Trading Assistant - Local",
+    "active": true,
+    "date_updated": 1764520184,
+    "date_posted": 1764520184,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400041089",
+    "locations": [
+      "United Kingdom"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
