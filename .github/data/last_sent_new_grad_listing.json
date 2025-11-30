@@ -49896,5 +49896,41 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "ShyftLabs",
+    "id": "f37c77b7-0682-4e48-8559-c8d685f7719b",
+    "title": "Technical Product Manager",
+    "active": true,
+    "date_updated": 1764519646,
+    "date_posted": 1764519646,
+    "url": "https://jobs.lever.co/shyftlabs/116b8142-6898-4056-ae5b-1621914f3249/apply",
+    "locations": [
+      "Toronto, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/ShyftLabs",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Advanced Energy",
+    "id": "f0615ba4-1bf8-47a8-a564-8814bad8e23c",
+    "title": "Product Compliance Engineer 1",
+    "active": true,
+    "date_updated": 1764518730,
+    "date_posted": 1764518730,
+    "url": "https://jobs.advanced-energy.com/job/Fort-Collins-Product-Compliance-Engineer-I-CO-80525/1344925100/?ats=successfactors",
+    "locations": [
+      "Fort Collins, CO"
+    ],
+    "company_url": "https://simplify.jobs/c/Advanced-Energy",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
