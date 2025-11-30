@@ -50257,5 +50257,41 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Four Seasons",
+    "id": "4261c748-a194-4989-ae3f-65b10557a7c4",
+    "title": "Barista - Barista",
+    "active": true,
+    "date_updated": 1764544357,
+    "date_posted": 1764544357,
+    "url": "https://fourseasons.wd3.myworkdayjobs.com/search/job/Hualalai/Trading-Company---Barista---Seasonal_REQ10363532",
+    "locations": [
+      "Hawaii"
+    ],
+    "company_url": "https://simplify.jobs/c/Four-Seasons",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Perle",
+    "id": "50c5b556-fa30-4122-a8b4-6d5b87911017",
+    "title": "Hebrew Language Specialist",
+    "active": true,
+    "date_updated": 1763768987,
+    "date_posted": 1763768987,
+    "url": "https://ats.rippling.com/perle/jobs/4905fb62-b7d5-4fc7-9f2c-b4ed50dc9c9f",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/Perle",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
