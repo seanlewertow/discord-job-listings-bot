@@ -49842,5 +49842,23 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Ramboll",
+    "id": "394cfd31-0636-4063-aed6-1456bc1f089e",
+    "title": "Associate Air Quality Consultant",
+    "active": true,
+    "date_updated": 1764468675,
+    "date_posted": 1764468675,
+    "url": "https://jobs.smartrecruiters.com/Ramboll3/744000096245581",
+    "locations": [
+      "Dublin, OH"
+    ],
+    "company_url": "https://simplify.jobs/c/Ramboll",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
