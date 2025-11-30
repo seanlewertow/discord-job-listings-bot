@@ -49860,5 +49860,23 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Select Milk Producers ",
+    "id": "0d205c8c-ff04-4d71-a305-b0ec4b1867cb",
+    "title": "Data Analyst 1",
+    "active": true,
+    "date_updated": 1764487464,
+    "date_posted": 1764487464,
+    "url": "https://selectmilk.wd12.myworkdayjobs.com/selectmilkproducers/job/La-Crosse-WI/Data-Analyst-I_JR101657",
+    "locations": [
+      "Winona, MN"
+    ],
+    "company_url": "https://simplify.jobs/c/Select-Milk-Producers",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
