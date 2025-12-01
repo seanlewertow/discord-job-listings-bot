@@ -50293,5 +50293,101 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Citadel",
+    "id": "1ad064d1-ddc7-4b14-8862-a0ac04de00ea",
+    "title": "Global Quantitative Strategies",
+    "active": true,
+    "date_updated": 1761829639,
+    "date_posted": 1752196371,
+    "url": "https://www.citadel.com/careers/details/global-quantitative-strategies-post-doctorate-quantitative-researcher/",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Citadel",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Manulife Financial",
+    "id": "28e04146-7926-46e5-9992-96a12902c138",
+    "title": "Investment Analyst",
+    "active": true,
+    "date_updated": 1764549850,
+    "date_posted": 1764549850,
+    "url": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_adminJobs/job/Boston-Massachusetts/Investment-Analyst_JR25091648-2",
+    "locations": [
+      "Boston, MA",
+      "Charlotte, NC",
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Manulife-Financial",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Bevel",
+    "id": "0345db2f-493d-4d1e-b563-f7cb0d4d252b",
+    "title": "iOS Engineer",
+    "active": true,
+    "date_updated": 1763123948,
+    "date_posted": 1762433628,
+    "url": "https://jobs.ashbyhq.com/Bevel/e771c115-5372-43aa-a97b-6db16a0fc97c/application",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Bevel",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Veryable",
+    "id": "f1db527c-e4ea-4925-9a94-9c96342020c1",
+    "title": "Front-End Engineer",
+    "active": true,
+    "date_updated": 1762386713,
+    "date_posted": 1762386713,
+    "url": "https://ats.rippling.com/veryable-careers/jobs/ada3136d-44c6-432c-b5ab-401aed5c4505",
+    "locations": [
+      "Dallas, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Veryable",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "West Virginia University",
+    "id": "200fbf15-4c8b-4d7e-b556-6d614363faa5",
+    "title": "Lecturer",
+    "active": true,
+    "date_updated": 1762919220,
+    "date_posted": 1755890098,
+    "url": "https://wvu.taleo.net/careersection/faculty/jobdetail.ftl?job=25826",
+    "locations": [
+      "Morgantown, WV",
+      "Berkeley Springs, WV",
+      "Beckley, WV"
+    ],
+    "company_url": "https://simplify.jobs/c/West-Virginia-University",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
