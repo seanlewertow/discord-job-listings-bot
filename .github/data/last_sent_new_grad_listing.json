@@ -51385,5 +51385,95 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Cisco",
+    "id": "cf3b588f-f5bd-4e8b-b8a0-f6f4271c636c",
+    "title": "Software Engineer Full Stack & Application Development 1",
+    "active": true,
+    "date_updated": 1764630574,
+    "date_posted": 1764630574,
+    "url": "https://careers.cisco.com/global/en/job/2000087",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Cisco",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "ION Group",
+    "id": "553f373e-6fa1-429a-9f62-100f5f614f2c",
+    "title": "Software Developer - Leadership Development Program - Uniondale",
+    "active": true,
+    "date_updated": 1764630711,
+    "date_posted": 1764630711,
+    "url": "https://jobs.lever.co/ion/2b8f5185-70e2-4c73-8c85-3a961af411fd/apply",
+    "locations": [
+      "Uniondale, NY"
+    ],
+    "company_url": "https://simplify.jobs/c/ION-Group",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Nexthop.ai",
+    "id": "4a0ac2bd-9aed-42eb-88de-3663340e79b5",
+    "title": "Software Engineer \u2013 New Grad",
+    "active": true,
+    "date_updated": 1764630605,
+    "date_posted": 1764630605,
+    "url": "https://nexthopai.bamboohr.com/careers/24/",
+    "locations": [
+      "Santa Clara, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Nexthopai",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Anaplan",
+    "id": "bfed99bf-e463-4a0a-bbcf-d3c157685e6c",
+    "title": "Associate Software Engineer",
+    "active": true,
+    "date_updated": 1764630197,
+    "date_posted": 1764630197,
+    "url": "https://job-boards.greenhouse.io/anaplan/jobs/8308966002",
+    "locations": [
+      "York, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Anaplan",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Rambus",
+    "id": "7964399c-6339-4e74-92d7-2ee750a7b21c",
+    "title": "Digital Design Engineer \u2013 New College Grad",
+    "active": true,
+    "date_updated": 1764630417,
+    "date_posted": 1762385458,
+    "url": "https://careers-rambus.icims.com/jobs/22434/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Rambus",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
