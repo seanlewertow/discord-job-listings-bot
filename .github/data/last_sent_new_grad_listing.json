@@ -50597,5 +50597,23 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Goodnotes",
+    "id": "eed9ada6-79db-4b83-aa0e-6d02cc99d6d0",
+    "title": "Full Stack Engineer",
+    "active": true,
+    "date_updated": 1764574071,
+    "date_posted": 1764574071,
+    "url": "https://job-boards.greenhouse.io/goodnotes/jobs/5724185004",
+    "locations": [
+      "Remote in UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Goodnotes",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
