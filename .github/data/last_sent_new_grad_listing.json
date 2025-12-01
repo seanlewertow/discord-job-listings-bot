@@ -50519,5 +50519,23 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "NVIDIA",
+    "id": "39219bba-57e9-418a-b45d-4e8e5804beb0",
+    "title": "ASIC Design Engineer",
+    "active": true,
+    "date_updated": 1764567868,
+    "date_posted": 1764567868,
+    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/ASIC-Design-Engineer---New-College-Grad-2026_JR2003628",
+    "locations": [
+      "Santa Clara, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/NVIDIA",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
