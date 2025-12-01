@@ -51017,5 +51017,83 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "RTX",
+    "id": "d315730d-066b-42d4-9899-a4e6fbf5560f",
+    "title": "Systems Engineer 1",
+    "active": true,
+    "date_updated": 1764611381,
+    "date_posted": 1764611381,
+    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/MD440-8170-Maple-Lawn-Blvd-Fulton-MD-8170-Maple-Lawn-Boulevard---Fulton-MD-20759-USA/Systems-Engineer-I--Onsite-_01801525",
+    "locations": [
+      "Fulton, MD"
+    ],
+    "company_url": "https://simplify.jobs/c/RTX",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "1bfe4c88-57c9-4da6-9ad0-de3006d5c7c0",
+    "title": "Trading Assistant - Shift",
+    "active": true,
+    "date_updated": 1764499192,
+    "date_posted": 1764499192,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400040996",
+    "locations": [
+      "Edinburgh, UK",
+      "Midlothian, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "SS&C",
+    "id": "f4f4937b-0a0f-4412-a00c-9f364560c29a",
+    "title": "Government Programs Product Manager",
+    "active": true,
+    "date_updated": 1764498795,
+    "date_posted": 1764498795,
+    "url": "https://wd1.myworkdaysite.com/recruiting/ssctech/SSCTechnologies/job/Kansas-City-MO/Government-Programs-Product-Manager_R37509",
+    "locations": [
+      "Kansas",
+      "Jackson Township, NJ",
+      "Florida",
+      "Kansas City, MO",
+      "Massachusetts",
+      "Missouri"
+    ],
+    "company_url": "https://simplify.jobs/c/SSC",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "db9ffbda-dd04-48b4-9fde-11a8f1ef09c6",
+    "title": "Trading Assistant - Shift",
+    "active": true,
+    "date_updated": 1764499191,
+    "date_posted": 1764499191,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400040836",
+    "locations": [
+      "Belfast, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
