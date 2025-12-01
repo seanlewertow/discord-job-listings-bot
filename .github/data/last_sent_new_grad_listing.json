@@ -51185,5 +51185,95 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "3c220a2f-159e-4185-b495-47a7f84d8ebb",
+    "title": "Trading Assistant - Shift",
+    "active": true,
+    "date_updated": 1764499200,
+    "date_posted": 1764499200,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400040816",
+    "locations": [
+      "Wellington, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "6521454f-60c6-4a96-8331-bcd069bd716f",
+    "title": "Trading Assistant - Shift",
+    "active": true,
+    "date_updated": 1764499202,
+    "date_posted": 1764499202,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400040819",
+    "locations": [
+      "Brighton, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "f826a1a9-56a5-4205-9926-6aa6d49832c2",
+    "title": "Trading Assistant - Shift",
+    "active": true,
+    "date_updated": 1764499195,
+    "date_posted": 1764499195,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400040846",
+    "locations": [
+      "Camberley, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "ea8a5765-119b-4315-8e7d-ec8f36ee7a90",
+    "title": "Trading Assistant - Local",
+    "active": true,
+    "date_updated": 1764499192,
+    "date_posted": 1764499192,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400040909",
+    "locations": [
+      "United Kingdom"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "EquipmentShare",
+    "id": "2bdc8d75-6e29-4b67-9fbd-e510ad0873e9",
+    "title": "Telematics Installer",
+    "active": true,
+    "date_updated": 1764615592,
+    "date_posted": 1764615592,
+    "url": "https://www.equipmentshare.com/careers/openings/?gh_jid=7434256",
+    "locations": [
+      "Salt Lake City, UT"
+    ],
+    "company_url": "https://simplify.jobs/c/Equipment-Share",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
