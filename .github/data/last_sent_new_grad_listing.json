@@ -50579,5 +50579,23 @@
     "degrees": [
       "PhD"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "96b1ad76-389c-409c-bbe4-c43ab4fb103d",
+    "title": "Trading Assistant - Shift",
+    "active": true,
+    "date_updated": 1764573255,
+    "date_posted": 1764573255,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400041139",
+    "locations": [
+      "Cardiff, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
