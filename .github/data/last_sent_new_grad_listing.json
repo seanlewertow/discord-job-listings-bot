@@ -50389,5 +50389,43 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Intel",
+    "id": "9a9ae9b6-d15e-46e0-8eef-a6fca332b718",
+    "title": "CPU Verification Engineer",
+    "active": true,
+    "date_updated": 1764560696,
+    "date_posted": 1764560696,
+    "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Texas-Austin/CPU-Verification-Engineer_JR0278559",
+    "locations": [
+      "Austin, TX",
+      "Hillsboro, OR"
+    ],
+    "company_url": "https://simplify.jobs/c/Intel",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "KION Group",
+    "id": "219bf330-0086-4c47-b67d-d7796b4c88e7",
+    "title": "Autonomous Mobile Robot Systems Engineer",
+    "active": true,
+    "date_updated": 1764563010,
+    "date_posted": 1764563010,
+    "url": "https://kiongroup.wd3.myworkdayjobs.com/kiongroup/job/Mississauga-Canada/AMR-Systems-Engineer_JR-0079898-1",
+    "locations": [
+      "Montreal, QC, Canada",
+      "Mississauga, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/KION-Group",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
