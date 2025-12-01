@@ -50687,5 +50687,77 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Qualcomm",
+    "id": "e232907d-54a5-4e77-9ee2-eedabdebc9f2",
+    "title": "Physical Design Engineer - ASICS Engineering",
+    "active": true,
+    "date_updated": 1764374682,
+    "date_posted": 1764374682,
+    "url": "https://qualcomm.eightfold.ai/careers/job/446714867469",
+    "locations": [
+      "Austin, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Qualcomm",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "RAPP",
+    "id": "1186a4db-1c88-4a79-b9aa-8d931c778a4d",
+    "title": "Data Analyst - Fixed Term Contract",
+    "active": true,
+    "date_updated": 1764583934,
+    "date_posted": 1764124088,
+    "url": "https://job-boards.greenhouse.io/rapp/jobs/7423477",
+    "locations": [
+      "London, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/RAPP",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Qualcomm",
+    "id": "c31f4c38-36c2-42aa-8272-3691f0e26d08",
+    "title": "Engineer AI Systems Architecture - Machine Learning Engineering",
+    "active": true,
+    "date_updated": 1764583832,
+    "date_posted": 1762912683,
+    "url": "https://qualcomm.eightfold.ai/careers/job/446715431063",
+    "locations": [
+      "Markham, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Qualcomm",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "American Express",
+    "id": "f45c8006-5c60-4bf4-bca0-2dec803bcf30",
+    "title": "Senior Associate - Digital Product Management",
+    "active": true,
+    "date_updated": 1762822170,
+    "date_posted": 1762822170,
+    "url": "https://aexp.eightfold.ai/careers/job/38673802",
+    "locations": [
+      "Phoenix, AZ"
+    ],
+    "company_url": "https://simplify.jobs/c/American-Express",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
