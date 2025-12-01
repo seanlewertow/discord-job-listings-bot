@@ -50926,5 +50926,96 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Cummins",
+    "id": "f5b0ca0a-2d35-4998-849e-a931e44ad2d5",
+    "title": "AI/ML Systems Engineer",
+    "active": true,
+    "date_updated": 1764606159,
+    "date_posted": 1764606159,
+    "url": "https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2418409",
+    "locations": [
+      "Columbus, IN"
+    ],
+    "company_url": "https://simplify.jobs/c/Cummins",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "f39eb1af-14f1-4ec0-8236-60f8abc33476",
+    "title": "Trading Assistant - Local",
+    "active": true,
+    "date_updated": 1764606059,
+    "date_posted": 1764606059,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400040532",
+    "locations": [
+      "Durham, UK",
+      "Thirsk, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "cb491f4d-7107-4cca-a5b6-e46e4b904e8e",
+    "title": "Trading Assistant - Local",
+    "active": true,
+    "date_updated": 1764606055,
+    "date_posted": 1764606055,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400041270",
+    "locations": [
+      "Nottingham, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "ae3a002a-fcc9-4768-b9d4-140c56c39bf1",
+    "title": "Trading Assistant - Local",
+    "active": true,
+    "date_updated": 1764606059,
+    "date_posted": 1764606059,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400041279",
+    "locations": [
+      "Beckton, London, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "18b4b6fd-fe39-4685-bfd4-997bc373e07b",
+    "title": "Trading Assistant - Local",
+    "active": true,
+    "date_updated": 1764606063,
+    "date_posted": 1764606063,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400041040",
+    "locations": [
+      "United Kingdom"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
