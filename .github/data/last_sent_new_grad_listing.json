@@ -50777,5 +50777,23 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Oracle",
+    "id": "c1c41da7-34ad-48d1-961b-1360aefe657c",
+    "title": "Software Developer 1",
+    "active": true,
+    "date_updated": 1764594580,
+    "date_posted": 1764594580,
+    "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/316967",
+    "locations": [
+      "Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Oracle",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
