@@ -51095,5 +51095,95 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "17140dc0-d9a6-4732-880d-1a4c21594ef8",
+    "title": "Trading Assistant",
+    "active": true,
+    "date_updated": 1764499194,
+    "date_posted": 1764499194,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400040942",
+    "locations": [
+      "Hereford, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "d4666de8-b9ff-4792-81be-d4eb3be0fd0d",
+    "title": "Trading Assistant - Shift",
+    "active": true,
+    "date_updated": 1764499189,
+    "date_posted": 1764499189,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400033660",
+    "locations": [
+      "Belfast, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "c447dc16-d9b4-4dfe-8422-12f8523e1e6d",
+    "title": "Trading Assistant - Shift",
+    "active": true,
+    "date_updated": 1764499192,
+    "date_posted": 1764499192,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400041017",
+    "locations": [
+      "Gloucester, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Geico",
+    "id": "f5d0feea-69a5-499d-b44a-372653fb7bfd",
+    "title": "RAD Business Systems Analyst",
+    "active": true,
+    "date_updated": 1764613361,
+    "date_posted": 1764613361,
+    "url": "https://geico.wd1.myworkdayjobs.com/en-US/External/job/Chevy-Chase-MD/RAD-Business-Systems-Analyst_R0059698",
+    "locations": [
+      "Bethesda, MD"
+    ],
+    "company_url": "https://simplify.jobs/c/Geico",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Strata Decision Technology",
+    "id": "15b1f2f8-7ea4-4c87-bf2e-7131c1f01d84",
+    "title": "Analyst \u2013 Data Integration",
+    "active": true,
+    "date_updated": 1764614990,
+    "date_posted": 1764568998,
+    "url": "https://job-boards.greenhouse.io/stratacareers/jobs/7542763003",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/Strata-Decision-Technology",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
