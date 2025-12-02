@@ -51475,5 +51475,103 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "Markel Group, Inc.",
+    "id": "eb7d4dff-5c82-4f2f-a79c-baf2bdbb8a59",
+    "title": "Product Development Specialist",
+    "active": true,
+    "date_updated": 1764634681,
+    "date_posted": 1764634681,
+    "url": "https://markelcorp.wd5.myworkdayjobs.com/GlobalCareers/job/Any-Markel-Office/Product-Development-Specialist_R0021802",
+    "locations": [
+      "Houston, TX",
+      "Austin, TX",
+      "Plano, TX",
+      "Richmond, VA",
+      "Alpharetta, GA",
+      "Henderson, NV",
+      "Omaha, NE",
+      "Lake Oswego, OR",
+      "Denver, CO"
+    ],
+    "company_url": "https://simplify.jobs/c/Markel-Group",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "CACI",
+    "id": "e80cee5f-d0e3-4b37-b7d3-4dc120192926",
+    "title": "GenAI Developer",
+    "active": true,
+    "date_updated": 1764634672,
+    "date_posted": 1764634672,
+    "url": "https://caci.wd1.myworkdayjobs.com/external/job/US-VA-Ashburn/GenAI-Developer_320044",
+    "locations": [
+      "Ashburn, VA"
+    ],
+    "company_url": "https://simplify.jobs/c/CACI",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "ION Group",
+    "id": "ecf0fbe8-6f13-4aa0-900a-a6a0d55fa204",
+    "title": "Product Management Analyst - 2026 Leadership Development Program - Uniondale",
+    "active": true,
+    "date_updated": 1764630895,
+    "date_posted": 1764630895,
+    "url": "https://jobs.lever.co/ion/67bee706-333f-4677-b207-b0a02ef22b80/apply",
+    "locations": [
+      "Uniondale, NY"
+    ],
+    "company_url": "https://simplify.jobs/c/ION-Group",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "University of Wyoming",
+    "id": "18cdf436-c1a3-43e9-a4a9-3aa37a1d0e3d",
+    "title": "Assistant Professor",
+    "active": true,
+    "date_updated": 1764630978,
+    "date_posted": 1764630978,
+    "url": "https://eeik.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/253301",
+    "locations": [
+      "Laramie, WY"
+    ],
+    "company_url": "https://simplify.jobs/c/University-Of-Wyoming",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Varian",
+    "id": "9d7253c6-7e61-4d45-9427-de316d88d0eb",
+    "title": "Data Analysis and Simulation Professional 2",
+    "active": true,
+    "date_updated": 1764635499,
+    "date_posted": 1764635499,
+    "url": "https://onehealthineers.wd3.myworkdayjobs.com/SHSJB/job/CYA-GR/Data-Analysis-and-Simulation-Professional-2_R-24837-1",
+    "locations": [
+      "Morrisville, NC"
+    ],
+    "company_url": "https://simplify.jobs/c/670da3c5-bce0-4621-b519-da7ce7d528e6",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
