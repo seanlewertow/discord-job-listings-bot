@@ -51873,5 +51873,41 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "CVS Health",
+    "id": "5c72cac7-8e65-4a0c-8277-5a7d50f5db43",
+    "title": "Data Scientist - Retail Analytics",
+    "active": true,
+    "date_updated": 1764653403,
+    "date_posted": 1764653403,
+    "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/MA---Wellesley/Data-Scientist---Retail-Analytics_R0653105",
+    "locations": [
+      "Needham, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/CVS-Health",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "FNZ",
+    "id": "c0ff6a74-42e8-46d6-b069-21572809d739",
+    "title": "Graduate Software Developer",
+    "active": true,
+    "date_updated": 1764653229,
+    "date_posted": 1764653229,
+    "url": "https://fnz.wd3.myworkdayjobs.com/fnz_careers/job/Newcastle---United-Kingdom/Graduate-Software-Developer_REQ-12942",
+    "locations": [
+      "Newcastle upon Tyne, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/FNZ",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
