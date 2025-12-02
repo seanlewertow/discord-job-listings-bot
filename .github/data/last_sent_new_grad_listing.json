@@ -52076,5 +52076,78 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Ultra",
+    "id": "0ffbed53-90fc-4686-b9b2-9335acc871aa",
+    "title": "Change Coordinator",
+    "active": true,
+    "date_updated": 1764673943,
+    "date_posted": 1764673943,
+    "url": "https://ultra.wd3.myworkdayjobs.com/ultra-careers/job/Loudwater-Buckinghamshire-England-UK/Change-Coordinator_REQ-11186-1",
+    "locations": [
+      "Dorchester, UK",
+      "High Wycombe, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Ultra",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Tencent",
+    "id": "170e087d-4693-4aaf-984e-5ca1c9f1674c",
+    "title": "Associate Machine Learning Engineer",
+    "active": true,
+    "date_updated": 1764673856,
+    "date_posted": 1764673856,
+    "url": "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Palo-Alto/Machine-Learning-Engineer-Associate_R106543",
+    "locations": [
+      "Palo Alto, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Tencent",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "880616fa-2d1c-495a-8588-badf128b2f60",
+    "title": "Trading Assistant - Shift",
+    "active": true,
+    "date_updated": 1764673515,
+    "date_posted": 1764673515,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400041375",
+    "locations": [
+      "Trowbridge, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Talan",
+    "id": "dfd5b2ca-dee2-4563-bc35-edab86cd2717",
+    "title": "Python Dev - Financial services",
+    "active": true,
+    "date_updated": 1764673345,
+    "date_posted": 1763198945,
+    "url": "https://jobs.smartrecruiters.com/Talan/744000096568120",
+    "locations": [
+      "London, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Talan",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
