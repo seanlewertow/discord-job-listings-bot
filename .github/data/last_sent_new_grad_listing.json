@@ -52000,5 +52000,81 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "General Dynamics Information Technology",
+    "id": "f6d37408-76e8-4f9f-ba62-b91c0812d44d",
+    "title": "AI Prompt Engineer Associate",
+    "active": true,
+    "date_updated": 1764672860,
+    "date_posted": 1764672860,
+    "url": "https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-Falls-Church/AI-Prompt-Engineer-Associate_RQ210788-2",
+    "locations": [
+      "Arlington, VA"
+    ],
+    "company_url": "https://simplify.jobs/c/GDIT",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "RTX",
+    "id": "0e8976ac-2e45-4f5e-a12d-a4bab0e0222c",
+    "title": "2026 Full-time - Java Software Engineer I - Onsite (Onsite will be removed)",
+    "active": true,
+    "date_updated": 1764671345,
+    "date_posted": 1764671345,
+    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/PA602-302-Science-Park-Road-Bldg-5C-302-Science-Park-Road-Building-5C-State-College-PA-16803-2214-USA/XMLNAME-2026-Full-time---Java-Software-Engineer-I---Onsite--PA-_01809812",
+    "locations": [
+      "State College, PA"
+    ],
+    "company_url": "https://simplify.jobs/c/RTX",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "CoStar Group",
+    "id": "027c8c73-9734-4a05-b2fc-dee04993ed53",
+    "title": "Associate Machine Learning Engineer",
+    "active": true,
+    "date_updated": 1764670929,
+    "date_posted": 1764670929,
+    "url": "https://costar.wd1.myworkdayjobs.com/Costar_Campus/job/Sunnyvale/Associate-Machine-Learning-Engineer_R37862",
+    "locations": [
+      "Sunnyvale, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/CoStar",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Digital Realty",
+    "id": "c867beef-d7fb-4818-bf68-5cf068fb3bea",
+    "title": "Engineer \u2013 Network Observability Platform and Automation",
+    "active": true,
+    "date_updated": 1764672726,
+    "date_posted": 1755568984,
+    "url": "https://hdep.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/6177",
+    "locations": [
+      "Boston, MA",
+      "Austin, TX",
+      "Dallas, TX",
+      "Chicago, IL",
+      "Ashburn, VA"
+    ],
+    "company_url": "https://simplify.jobs/c/Digital-Realty",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
