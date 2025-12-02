@@ -51963,5 +51963,23 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Morningstar",
+    "id": "dddeb8a2-30ca-4cbc-8067-32cabb8b80fb",
+    "title": "Associate Software Engineer",
+    "active": true,
+    "date_updated": 1764658702,
+    "date_posted": 1764658702,
+    "url": "https://morningstar.wd5.myworkdayjobs.com/Americas/job/Chicago/Associate-Software-Engineer_REQ-054479",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/Morningstar",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
