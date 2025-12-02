@@ -51668,5 +51668,96 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "TD Bank",
+    "id": "c819be1e-c7c5-45c5-898e-209bae1c5153",
+    "title": "Machine Learning Engineer 1",
+    "active": true,
+    "date_updated": 1764642507,
+    "date_posted": 1764642507,
+    "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Machine-Learning-Engineer-I_R_1459537",
+    "locations": [
+      "Toronto, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/TD-Bank",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Optiver",
+    "id": "16d09a37-a7b7-4047-8157-801b17f02ac3",
+    "title": "Sales Trading Assistant - Trade Booking & Onboarding",
+    "active": true,
+    "date_updated": 1764641537,
+    "date_posted": 1764641537,
+    "url": "https://optiver.com/working-at-optiver/career-opportunities/8161718002/?gh_jid=8161718002",
+    "locations": [
+      "London, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Optiver",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Lyft",
+    "id": "fc726abc-e5bd-4fff-bc01-71c8366f4297",
+    "title": "Data Scientist - Algorithms Pricing - Optimization",
+    "active": true,
+    "date_updated": 1764641536,
+    "date_posted": 1764641536,
+    "url": "https://app.careerpuck.com/job-board/lyft/job/8148208002?gh_jid=8148208002",
+    "locations": [
+      "SF"
+    ],
+    "company_url": "https://simplify.jobs/c/Lyft",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Qualcomm",
+    "id": "3da2f12b-d440-446b-bef2-c791ec898aed",
+    "title": "Software Engineer - Core Platform Test - Software Engineering",
+    "active": true,
+    "date_updated": 1764641636,
+    "date_posted": 1764641636,
+    "url": "https://qualcomm.eightfold.ai/careers/job/446715563394",
+    "locations": [
+      "San Diego, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Qualcomm",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "e2cfe589-9c7c-4771-871b-974ba7fc21c9",
+    "title": "Trading Assistant - Shift",
+    "active": true,
+    "date_updated": 1764641820,
+    "date_posted": 1764641820,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400041386",
+    "locations": [
+      "Edinburgh, UK",
+      "Midlothian, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
