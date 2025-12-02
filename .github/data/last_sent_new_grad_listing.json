@@ -52520,5 +52520,95 @@
     "degrees": [
       "Master's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Citizen Health",
+    "id": "665ff02b-badb-48f0-96f9-987ef0a38bdf",
+    "title": "Early Career Software Engineer",
+    "active": true,
+    "date_updated": 1764717223,
+    "date_posted": 1764717223,
+    "url": "https://jobs.ashbyhq.com/Citizen%20Health/8dd7987e-2f3b-4e1e-9773-4bb2f136dd22/application",
+    "locations": [
+      "SF"
+    ],
+    "company_url": "https://simplify.jobs/c/Citizen-Health",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "NextEra Energy",
+    "id": "3a6a7247-48e0-461d-a336-06aea316329b",
+    "title": "Associate AI & Analytics Engineer",
+    "active": true,
+    "date_updated": 1764717194,
+    "date_posted": 1764717194,
+    "url": "https://jobs.nexteraenergy.com/job/Juno-Beach-Associate-AI-&-Analytics-Engineer-FL-33408/1346759200/?ats=successfactors",
+    "locations": [
+      "Palm Beach Gardens, FL"
+    ],
+    "company_url": "https://simplify.jobs/c/NextEra-Energy",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "Catbird",
+    "id": "61d8d502-2769-41df-8c56-e63f320e7156",
+    "title": "Product Development Assistant",
+    "active": true,
+    "date_updated": 1764716707,
+    "date_posted": 1764716707,
+    "url": "https://jobs.lever.co/Catbird/b4b6a954-35eb-4012-8706-6bf5226bcefd/apply",
+    "locations": [
+      "Brooklyn, NY"
+    ],
+    "company_url": "https://simplify.jobs/c/Catbird",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "Verisk",
+    "id": "4dff686e-c99f-4ea6-a046-fa19c501133c",
+    "title": "Digital Solutions Product Analyst",
+    "active": true,
+    "date_updated": 1764716832,
+    "date_posted": 1764716832,
+    "url": "https://fa-ewmy-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2795",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Verisk",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Berkshire Hathaway Energy",
+    "id": "3eb205a8-2517-4a62-889f-6b52ecc100b5",
+    "title": "Tech 1 \u2013 Mapping",
+    "active": true,
+    "date_updated": 1764716679,
+    "date_posted": 1764716679,
+    "url": "https://fa-essf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10003893",
+    "locations": [
+      "Las Vegas, NV"
+    ],
+    "company_url": "https://simplify.jobs/c/Berkshire-Hathaway-Energy",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
