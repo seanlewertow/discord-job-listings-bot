@@ -52297,5 +52297,96 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "OneMain Financial",
+    "id": "a373e53a-88af-4217-a742-145707396a1a",
+    "title": "Data Science Analyst",
+    "active": true,
+    "date_updated": 1764701483,
+    "date_posted": 1764701483,
+    "url": "https://myhrhome.wd1.myworkdayjobs.com/en-US/OneMainCareers/job/Wilmington-DE/Data-Science-Analyst_R2508-47530",
+    "locations": [
+      "Charlotte, NC",
+      "Wilmington, DE"
+    ],
+    "company_url": "https://simplify.jobs/c/b4966f20-7ca2-4e09-9e76-ea8708e860ec",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Medtronic",
+    "id": "3b7dba70-dc92-4a44-8f14-d02db3a4c13b",
+    "title": "Associate Advanced Analytics Analyst",
+    "active": true,
+    "date_updated": 1764700939,
+    "date_posted": 1764700939,
+    "url": "https://medtronic.wd1.myworkdayjobs.com/redeploymentmedtroniccareers/job/Minneapolis-Minnesota-United-States-of-America/Assoc-Adv-Analytics-Analyst_R53734-1",
+    "locations": [
+      "Minneapolis, MN"
+    ],
+    "company_url": "https://simplify.jobs/c/Medtronic",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Booz Allen",
+    "id": "3249a108-d85f-4cff-aa5b-4b77e75284ff",
+    "title": "Full-Stack Developer - Junior",
+    "active": true,
+    "date_updated": 1764700837,
+    "date_posted": 1764700837,
+    "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Huntsville-AL/Full-Stack-Developer--Junior_R0230138",
+    "locations": [
+      "Huntsville, AL"
+    ],
+    "company_url": "https://simplify.jobs/c/Booz-Allen",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "City of Amarillo",
+    "id": "93aba62b-ba72-476e-9595-9565078fdfb1",
+    "title": "GIS Analyst 1",
+    "active": true,
+    "date_updated": 1764700695,
+    "date_posted": 1764700695,
+    "url": "https://amarillo.wd5.myworkdayjobs.com/amarillo_external_career_site/job/Simms-Municipal-Building/GIS-ANALYST-I_JR2267",
+    "locations": [
+      "Amarillo, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/City-Of-Amarillo",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "CACI",
+    "id": "30d8847b-9ac9-46b5-9e2b-53f43d6fbc52",
+    "title": "Research Data Analyst",
+    "active": true,
+    "date_updated": 1764700683,
+    "date_posted": 1764700683,
+    "url": "https://caci.wd1.myworkdayjobs.com/external/job/US-NC-Fort-Bragg/Research-Data-Analyst_320026",
+    "locations": [
+      "Fort Bragg, NC"
+    ],
+    "company_url": "https://simplify.jobs/c/CACI",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
