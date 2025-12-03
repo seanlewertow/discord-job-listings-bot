@@ -53372,5 +53372,96 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Vanderlande Industries",
+    "id": "15304295-2be6-4005-8574-7361eee3a9ca",
+    "title": "Integration Engineer",
+    "active": true,
+    "date_updated": 1764782068,
+    "date_posted": 1764782068,
+    "url": "https://vanderlande.wd3.myworkdayjobs.com/careers/job/Marietta-Atlanta/Integration-Engineer_JR34733",
+    "locations": [
+      "Marietta, GA"
+    ],
+    "company_url": "https://simplify.jobs/c/7ab55595-a241-4468-bf77-178371480131",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Auto-Owners Insurance",
+    "id": "f5dfe658-eae8-4382-968f-8b9afa61c9f5",
+    "title": "Business Intelligence Developer",
+    "active": true,
+    "date_updated": 1764781789,
+    "date_posted": 1764781789,
+    "url": "https://aoins.wd5.myworkdayjobs.com/AutoOwners/job/Lansing-MI/Business-Intelligence-Developer_R_12154",
+    "locations": [
+      "East Lansing, MI"
+    ],
+    "company_url": "https://simplify.jobs/c/Auto-Owners-Insurance",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "Applied Fluid Power",
+    "id": "c208acb6-228d-43a0-9c9e-ff23ce5023fe",
+    "title": "SOD Product Manager",
+    "active": true,
+    "date_updated": 1764781767,
+    "date_posted": 1764781767,
+    "url": "https://applied.wd501.myworkdayjobs.com/applied/job/Strongsville-OH/SOD-Product-Manager_JR102927",
+    "locations": [
+      "Strongsville, OH"
+    ],
+    "company_url": "https://simplify.jobs/c/Applied-Fluid-Power",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Nielsen",
+    "id": "e4227ff8-f1ce-4f85-9753-430fa2bd10a6",
+    "title": "Analyst \u2013 Retail",
+    "active": true,
+    "date_updated": 1764781589,
+    "date_posted": 1764781589,
+    "url": "https://jobs.smartrecruiters.com/NielsenIQ/744000096809290",
+    "locations": [
+      "Toronto, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Nielsen",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "HCSC",
+    "id": "3c454ab5-df1d-42d8-9f82-2a59738565dd",
+    "title": "Data Scientist",
+    "active": true,
+    "date_updated": 1764780952,
+    "date_posted": 1764780952,
+    "url": "https://hcsc.wd1.myworkdayjobs.com/en-US/HCSC_External/job/IL---Chicago/Data-Scientist_R0045413-1",
+    "locations": [
+      "Chicago, IL",
+      "Richardson, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/de9db5fc-93ac-4e2a-873c-61d8a830873c",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
