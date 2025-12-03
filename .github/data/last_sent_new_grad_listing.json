@@ -52993,5 +52993,41 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Huntington Bancshares",
+    "id": "6cc1ba6c-eccb-4f52-99ff-67aa1e69df5b",
+    "title": "Technology Delivery Analyst",
+    "active": true,
+    "date_updated": 1764743124,
+    "date_posted": 1764743124,
+    "url": "https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/Technology-Delivery-Analyst_R0067555",
+    "locations": [
+      "Columbus, OH"
+    ],
+    "company_url": "https://simplify.jobs/c/Huntington-Bancshares",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Huntington Bancshares",
+    "id": "cf6ad78a-9ad9-4769-865a-cfbbe02137d6",
+    "title": "Technology Delivery Analyst - Elevate",
+    "active": true,
+    "date_updated": 1764742979,
+    "date_posted": 1764742979,
+    "url": "https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/Technology-Delivery-Analyst--Elevate-_R0067576",
+    "locations": [
+      "Columbus, OH"
+    ],
+    "company_url": "https://simplify.jobs/c/Huntington-Bancshares",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
