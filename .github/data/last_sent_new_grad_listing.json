@@ -52798,5 +52798,99 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Cadent",
+    "id": "3115fe69-bbc7-48e9-8f86-7b98df182455",
+    "title": "Data Analytics - Junior Associate",
+    "active": true,
+    "date_updated": 1764728856,
+    "date_posted": 1764728856,
+    "url": "https://careers-cadent.icims.com/jobs/1271/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Cadent",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "BlackRock",
+    "id": "7cce112a-69b9-4b36-af4b-35412e16c9b2",
+    "title": "Analyst \u2013 Python Engineer",
+    "active": true,
+    "date_updated": 1764731032,
+    "date_posted": 1764731032,
+    "url": "https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/Wilmington-DE/Analyst---Python-Engineer_R258097",
+    "locations": [
+      "Wilmington, DE"
+    ],
+    "company_url": "https://simplify.jobs/c/BlackRock",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "MatX",
+    "id": "11867e76-7abe-457e-bdd0-0882784e5c24",
+    "title": "Machine Learning Researcher \u2013 New College Grad 2025",
+    "active": true,
+    "date_updated": 1764731154,
+    "date_posted": 1764731154,
+    "url": "https://job-boards.greenhouse.io/matx/jobs/4461372008",
+    "locations": [
+      "Mountain View, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/MatX",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "090bf65b-665b-4895-b8e1-01788fdab23e",
+    "title": "Trading Assistant - Shift",
+    "active": true,
+    "date_updated": 1764728620,
+    "date_posted": 1764728620,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400039861",
+    "locations": [
+      "Bedford, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Magnite",
+    "id": "06576287-01ec-4aaf-8bce-8448965cf9ee",
+    "title": "Backend Engineer \u2013 Entry Level",
+    "active": true,
+    "date_updated": 1764731110,
+    "date_posted": 1764731110,
+    "url": "https://osv-rubicon.wd5.myworkdayjobs.com/en-US/MagniteCareers/job/United-Kingdom---Belfast/Backend-Engineer--Entry-Level-_R-01154",
+    "locations": [
+      "Belfast, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/ee8236a0-5b6a-4389-a774-e10fe29442a2",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
