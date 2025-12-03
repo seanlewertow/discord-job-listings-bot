@@ -53174,5 +53174,59 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Finix",
+    "id": "f3aeeee5-d243-46e3-9cbb-ea3d8c13ca51",
+    "title": "Software Engineer \u2013 Early Career",
+    "active": true,
+    "date_updated": 1764754534,
+    "date_posted": 1764717629,
+    "url": "https://jobs.lever.co/finix/d6f2a487-01ab-4909-aaad-89fc5cbec3ff/apply",
+    "locations": [
+      "SF"
+    ],
+    "company_url": "https://simplify.jobs/c/Finix",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Whoop",
+    "id": "0001e78e-935c-4221-967c-4650d23adccc",
+    "title": "Software Engineer 1 - Fullstack - Hardware Accelerate",
+    "active": true,
+    "date_updated": 1764755535,
+    "date_posted": 1764606203,
+    "url": "https://jobs.lever.co/whoop/e52bfb59-5a57-4e23-9991-88ef1b3dd745/apply",
+    "locations": [
+      "Boston, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/Whoop",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "Teamworks",
+    "id": "29f8d745-1f9e-430a-9a1e-b294532ab0ce",
+    "title": "Product Manager 1 (Wallet) - Wallet",
+    "active": true,
+    "date_updated": 1764756560,
+    "date_posted": 1764756560,
+    "url": "https://ats.rippling.com/teamworks-careers/jobs/fec90307-1bf7-4996-9551-2aaa485de6cc",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/Teamworks",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
