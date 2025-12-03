@@ -53540,5 +53540,95 @@
       "Bachelor's",
       "Master's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Citizen Health",
+    "id": "94c3db7a-db15-4d1c-8d8e-7425013a1448",
+    "title": "Early Career Software Engineer",
+    "active": true,
+    "date_updated": 1764803795,
+    "date_posted": 1764803795,
+    "url": "https://jobs.ashbyhq.com/Citizen%20Health/0ab1726b-a78b-482f-9946-fe3906977b8b/application",
+    "locations": [
+      "SF"
+    ],
+    "company_url": "https://simplify.jobs/c/Citizen-Health",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "3e25d03a-4c54-4adf-a0fa-bb5f6b2a5884",
+    "title": "Trading Assistant - Local",
+    "active": true,
+    "date_updated": 1764803745,
+    "date_posted": 1764803745,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400041718",
+    "locations": [
+      "Gloucester, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Lawrence Berkeley National Laboratory",
+    "id": "6cbd4c2c-b5a9-4a72-8e9c-d22c38b160db",
+    "title": "Postdoc AI-Enhanced Soft X-ray Spectroscopy for Microelectronics",
+    "active": true,
+    "date_updated": 1764803316,
+    "date_posted": 1764803316,
+    "url": "https://lbl.taleo.net/careersection/5/jobdetail.ftl?job=105624",
+    "locations": [
+      "Berkeley, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Lawrence-Berkeley-National-Laboratory",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Hologic",
+    "id": "5af3d58b-370b-4947-91a3-f2c7a3659522",
+    "title": "Software Development Engineer",
+    "active": true,
+    "date_updated": 1764803525,
+    "date_posted": 1764803525,
+    "url": "https://ebwb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/10516",
+    "locations": [
+      "San Diego, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Hologic",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "PennState University",
+    "id": "2f4d97e6-6152-4a9d-a04d-f743174707e3",
+    "title": "Postdoctoral Researcher",
+    "active": true,
+    "date_updated": 1764803425,
+    "date_posted": 1764803425,
+    "url": "https://psu.wd1.myworkdayjobs.com/PSU_Academic/job/Penn-State-University-Park/Postdoctoral-Researcher_REQ_0000073974-1",
+    "locations": [
+      "State College, PA"
+    ],
+    "company_url": "https://simplify.jobs/c/Penn-State",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
