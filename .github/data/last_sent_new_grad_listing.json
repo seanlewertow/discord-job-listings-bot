@@ -53463,5 +53463,82 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "TJX",
+    "id": "6fa2da19-c727-4a4f-ad73-1b30db63c4eb",
+    "title": "Logistics Specialist - Data Analyst",
+    "active": true,
+    "date_updated": 1764787993,
+    "date_posted": 1764787993,
+    "url": "https://wd1.myworkdaysite.com/recruiting/tjx/TJX_EXTERNAL/job/Watford-HER-WD17-1TX/Logistics-Specialist---Data-Analyst_REQ81315",
+    "locations": [
+      "Watford, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/TJX",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "RTX",
+    "id": "e5d592b2-3a0c-4563-a1dc-ef071d9d8276",
+    "title": "2026 Full-time - Software Engineer I - Onsite - CA",
+    "active": true,
+    "date_updated": 1764787194,
+    "date_posted": 1764787194,
+    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA520-Point-Mugu-NAWC-13th-Street-and-South-L-Street-Building-TR20-Point-Mugu-NAWC-CA-93042-USA/XMLNAME-2026-Full-time---Software-Engineer-I---Onsite--CA-_01810035",
+    "locations": [
+      "California"
+    ],
+    "company_url": "https://simplify.jobs/c/RTX",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Johnson & Johnson",
+    "id": "d5cb55cf-e94a-475d-b836-318e55db4b26",
+    "title": "Post Doc LLM for Clinical Trials",
+    "active": true,
+    "date_updated": 1764786848,
+    "date_posted": 1764786848,
+    "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Raritan-New-Jersey-United-States-of-America/Post-Doc-LLM-for-Clinical-Trials_R-047138-1",
+    "locations": [
+      "New Hope, PA",
+      "Bridgewater Township, NJ",
+      "Ambler, PA"
+    ],
+    "company_url": "https://simplify.jobs/c/Johnson-Johnson",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "LSEG",
+    "id": "f8d60baf-308c-4fc1-812e-4d1b50ff8bfe",
+    "title": "Quantitative Product Manager",
+    "active": true,
+    "date_updated": 1764786715,
+    "date_posted": 1764786715,
+    "url": "https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/London-United-Kingdom/Quantitative-Product-Manager_R0113232-1",
+    "locations": [
+      "London, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/LSEG",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
   }
 ]
