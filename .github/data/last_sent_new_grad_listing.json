@@ -53084,5 +53084,95 @@
     "date_posted": 1764747334,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "d9d392f5-6143-4d58-9806-620050c8cb88",
+    "title": "Trading Assistant - Shift",
+    "active": true,
+    "date_updated": 1764746351,
+    "date_posted": 1764746351,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400041622",
+    "locations": [
+      "Leeds, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "NVIDIA",
+    "id": "c090ab78-1086-4d42-b6b2-287508806101",
+    "title": "Software Engineer \u2013 New College Graduate 2026 - Deep Learning Libraries",
+    "active": true,
+    "date_updated": 1764746404,
+    "date_posted": 1764746404,
+    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--Deep-Learning-Libraries---New-College-Graduate-2026_JR2009134-1",
+    "locations": [
+      "Santa Clara, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/NVIDIA",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Intuit",
+    "id": "6a593c29-48e1-4591-b803-ad9576a0b1ff",
+    "title": "Software Engineer 1",
+    "active": true,
+    "date_updated": 1764745848,
+    "date_posted": 1764745848,
+    "url": "https://jobs.intuit.com/job/mountain-view/software-engineer-1/27595/89104315984",
+    "locations": [
+      "Mountain View, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Intuit",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "NVIDIA",
+    "id": "0984d416-5cfc-4c84-a5a0-5664bbd695b7",
+    "title": "Research Scientist - Efficient Deep Learning",
+    "active": true,
+    "date_updated": 1764746404,
+    "date_posted": 1764746404,
+    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--Efficient-Deep-Learning---New-College-Grad-2026_JR2008674",
+    "locations": [
+      "Santa Clara, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/NVIDIA",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "DRW Holdings",
+    "id": "1b68f9ac-f076-4687-bb3a-f8a86fb01494",
+    "title": "AI Researcher",
+    "active": true,
+    "date_updated": 1764747025,
+    "date_posted": 1764747025,
+    "url": "https://job-boards.greenhouse.io/drwuniversityjobs/jobs/7039382",
+    "locations": [
+      "Palo Alto, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/DRW-Holdings",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
