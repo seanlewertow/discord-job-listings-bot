@@ -53300,5 +53300,77 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Vitol",
+    "id": "693fa4c1-65c1-4712-bedb-6534d07a23f5",
+    "title": "Early Careers - Technology",
+    "active": true,
+    "date_updated": 1764779836,
+    "date_posted": 1764779836,
+    "url": "https://jobs.smartrecruiters.com/Vitol/744000096852824",
+    "locations": [
+      "London, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Vitol",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Intuit",
+    "id": "44e4ad5b-76e7-435a-927d-989073975db2",
+    "title": "Software Engineer - Full Stack",
+    "active": true,
+    "date_updated": 1764778436,
+    "date_posted": 1764778436,
+    "url": "https://jobs.intuit.com/job/new-york/software-engineer-full-stack/27595/89117477792",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Intuit",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Estes Forwarding Worldwide",
+    "id": "b9e39a25-b614-4973-9233-a9072238b731",
+    "title": "Software Engineer 1 - Core Services",
+    "active": true,
+    "date_updated": 1764779124,
+    "date_posted": 1764779124,
+    "url": "https://careers-efwnow.icims.com/jobs/6859/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Richmond, VA"
+    ],
+    "company_url": "https://simplify.jobs/c/Estes-Forwarding-Worldwide",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "AeroVironment",
+    "id": "4a44e78b-7014-400b-ab4e-e6121937749b",
+    "title": "Software Engineer 1 - Embedded",
+    "active": true,
+    "date_updated": 1764779264,
+    "date_posted": 1764779264,
+    "url": "https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Moorpark-CA/Software-Engineer-I--Embedded-_6243-1",
+    "locations": [
+      "Moorpark, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/AeroVironment",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
