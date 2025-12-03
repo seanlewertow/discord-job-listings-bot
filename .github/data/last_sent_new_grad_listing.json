@@ -52708,5 +52708,95 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Commerce Architects",
+    "id": "1f7a29cf-68e7-48ec-9968-729026c01ca8",
+    "title": "Software Engineer",
+    "active": true,
+    "date_updated": 1764727948,
+    "date_posted": 1764727948,
+    "url": "https://jobs.lever.co/commercearchitects/ec4bd3b5-3219-4524-805a-d9dff354c5ec/apply",
+    "locations": [
+      "Spokane, WA"
+    ],
+    "company_url": "https://simplify.jobs/c/Commerce-Architects",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Commerce Architects",
+    "id": "1899df58-ab9d-4b0f-b0f5-4bc4205892a9",
+    "title": "Associate Software Engineer",
+    "active": true,
+    "date_updated": 1764727949,
+    "date_posted": 1764727949,
+    "url": "https://jobs.lever.co/commercearchitects/bb9cd77a-8b08-4260-8fb0-fcd2e703a271/apply",
+    "locations": [
+      "Spokane, WA"
+    ],
+    "company_url": "https://simplify.jobs/c/Commerce-Architects",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Qualcomm",
+    "id": "ec8ad564-829a-4344-a665-37030a4fa928",
+    "title": "Sensors Software Engineer - Software Engineering",
+    "active": true,
+    "date_updated": 1764727750,
+    "date_posted": 1764727750,
+    "url": "https://qualcomm.eightfold.ai/careers/job/446715712169",
+    "locations": [
+      "Santa Clara, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Qualcomm",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Fermat",
+    "id": "ad3cabe6-a5fb-404f-a81f-db46781d4494",
+    "title": "Software Engineer \u2013 New Grad",
+    "active": true,
+    "date_updated": 1764727735,
+    "date_posted": 1764727735,
+    "url": "https://jobs.ashbyhq.com/fermat/6a40e7b5-d9bb-40a6-8b5e-cdcf566d60f1/application",
+    "locations": [
+      "SF"
+    ],
+    "company_url": "https://simplify.jobs/c/Fermat",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "KOHO",
+    "id": "8e56d335-db60-4a06-ab4f-8f8c660feb41",
+    "title": "Main Template - 2025",
+    "active": true,
+    "date_updated": 1764727745,
+    "date_posted": 1764727745,
+    "url": "https://jobs.ashbyhq.com/koho/17f522d4-20d0-4633-8d61-a755cf9380b8/application",
+    "locations": [
+      "Remote in Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/KOHO",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
