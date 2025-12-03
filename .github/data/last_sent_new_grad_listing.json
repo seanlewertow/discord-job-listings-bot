@@ -52610,5 +52610,103 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Motional",
+    "id": "0e9e4a98-bdc2-4405-b36b-b5ff37182561",
+    "title": "Machine Learning Engineer - Prediction",
+    "active": true,
+    "date_updated": 1764722467,
+    "date_posted": 1764722467,
+    "url": "https://motional.com/open-positions/?gh_jid=7545187003#/7545187003",
+    "locations": [
+      "Boston, MA",
+      "Remote in USA",
+      "Pittsburgh, PA"
+    ],
+    "company_url": "https://simplify.jobs/c/Motional",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Motional",
+    "id": "ca2d9d19-4db9-4063-8077-4d8e6135da02",
+    "title": "Machine Learning Engineer - Machine Learning Planner",
+    "active": true,
+    "date_updated": 1764722457,
+    "date_posted": 1764722457,
+    "url": "https://motional.com/open-positions/?gh_jid=7545197003#/7545197003",
+    "locations": [
+      "Boston, MA",
+      "Remote in USA",
+      "Pittsburgh, PA"
+    ],
+    "company_url": "https://simplify.jobs/c/Motional",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Motional",
+    "id": "5eaff5ec-26dd-4021-9510-4052c78750ef",
+    "title": "Machine Learning Engineer - Behaviors",
+    "active": true,
+    "date_updated": 1764722460,
+    "date_posted": 1764722460,
+    "url": "https://motional.com/open-positions/?gh_jid=7545098003#/7545098003",
+    "locations": [
+      "Boston, MA",
+      "Remote in USA",
+      "Pittsburgh, PA"
+    ],
+    "company_url": "https://simplify.jobs/c/Motional",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "PhD"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Yext",
+    "id": "27b5e3df-9426-413d-8df0-69796c890028",
+    "title": "Software Engineer",
+    "active": true,
+    "date_updated": 1764721886,
+    "date_posted": 1764721886,
+    "url": "https://job-boards.greenhouse.io/yext/jobs/7011931",
+    "locations": [
+      "Washington, DC"
+    ],
+    "company_url": "https://simplify.jobs/c/Yext",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "xAI",
+    "id": "b5e21310-b7f6-4c5c-b3a9-765143788139",
+    "title": "Multilingual Tutor",
+    "active": true,
+    "date_updated": 1764722349,
+    "date_posted": 1757813658,
+    "url": "https://job-boards.greenhouse.io/xai/jobs/4879853007",
+    "locations": [
+      "Palo Alto, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/XAI",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
