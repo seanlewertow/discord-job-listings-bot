@@ -53228,5 +53228,41 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "0215072c-31e0-48e5-a79f-304c18beb935",
+    "title": "Trading Assistant - Shift",
+    "active": true,
+    "date_updated": 1764759277,
+    "date_posted": 1764759277,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400041624",
+    "locations": [
+      "York, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Halliburton",
+    "id": "f08c4ef0-f61a-4807-9d3f-64b0dc61e90e",
+    "title": "Mineral / Hydrogen Geoscientist",
+    "active": true,
+    "date_updated": 1764756600,
+    "date_posted": 1764756600,
+    "url": "https://jobs.halliburton.com/job/Abingdon-Mineral-Hydrogen-Geoscientist-OXF-OX14-4RW/1346932000/?ats=successfactors",
+    "locations": [
+      "Oxford, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Halliburton",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
