@@ -53946,5 +53946,41 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Esri",
+    "id": "f5d0496c-4d41-40e7-96d7-13f1e767ef50",
+    "title": "Java Software Engineer 1",
+    "active": true,
+    "date_updated": 1764831016,
+    "date_posted": 1764831016,
+    "url": "https://www.esri.com/careers/4997266007?gh_jid=4997266007",
+    "locations": [
+      "West Redlands, Redlands, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Esri",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Astranis",
+    "id": "afd58e1f-48b3-4ec8-9f26-6d6662197729",
+    "title": "Software Engineer - Backend - Platform",
+    "active": true,
+    "date_updated": 1764830986,
+    "date_posted": 1764830986,
+    "url": "https://job-boards.greenhouse.io/astranis/jobs/4622097006",
+    "locations": [
+      "SF"
+    ],
+    "company_url": "https://simplify.jobs/c/Astranis",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
