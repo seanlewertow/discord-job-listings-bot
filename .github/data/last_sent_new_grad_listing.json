@@ -54235,5 +54235,23 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "Macy's",
+    "id": "4f96efef-863e-43fa-8c3c-38d508e3fc6a",
+    "title": "Product Management Assistant",
+    "active": true,
+    "date_updated": 1764873254,
+    "date_posted": 1764873254,
+    "url": "https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/83275",
+    "locations": [
+      "Tampa, FL"
+    ],
+    "company_url": "https://simplify.jobs/c/Macys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
