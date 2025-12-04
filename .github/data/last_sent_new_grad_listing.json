@@ -54019,5 +54019,95 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "GumGum",
+    "id": "7a8fd154-7ffd-4c8a-bc2d-e13893a9e033",
+    "title": "Software Engineer 1",
+    "active": true,
+    "date_updated": 1764841117,
+    "date_posted": 1764841117,
+    "url": "https://job-boards.greenhouse.io/gumgum/jobs/7546755003",
+    "locations": [
+      "Santa Monica, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/4b9634f9-1c18-4665-9cc5-f9120d189673",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Mechanize",
+    "id": "680f8a7f-e866-4cbe-88ec-869de8ca10ab",
+    "title": "Senior Software Engineer",
+    "active": true,
+    "date_updated": 1764840564,
+    "date_posted": 1763712712,
+    "url": "https://jobs.ashbyhq.com/mechanize/4e401df6-49cc-4db3-a840-0ee2f68c019b/application",
+    "locations": [
+      "SF"
+    ],
+    "company_url": "https://simplify.jobs/c/Mechanize",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "EliseAI",
+    "id": "926bde69-745f-4eeb-ba1b-5eb012d536ce",
+    "title": "Senior Product Solutions Analyst - Housing",
+    "active": true,
+    "date_updated": 1764840701,
+    "date_posted": 1761878342,
+    "url": "https://jobs.ashbyhq.com/EliseAI/676b89a9-7066-4557-94f0-0465715c6708/application",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/EliseAI",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "GAP",
+    "id": "f464f7ba-7847-4b66-9734-912e6266c635",
+    "title": "Data Scientist 1",
+    "active": true,
+    "date_updated": 1764843287,
+    "date_posted": 1764843287,
+    "url": "https://gapinc.wd1.myworkdayjobs.com/GAPINC/job/4440-Rosewood-Drive/Data-Scientist-1_R204471",
+    "locations": [
+      "SF"
+    ],
+    "company_url": "https://simplify.jobs/c/GAP",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Lifepoint Health",
+    "id": "f6215821-4208-42f9-82ed-12a2ea200544",
+    "title": "Outpatient Therapist - PHP - Behavioral Health",
+    "active": true,
+    "date_updated": 1764843039,
+    "date_posted": 1761900215,
+    "url": "https://ibnjjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/307036",
+    "locations": [
+      "Columbus, OH"
+    ],
+    "company_url": "https://simplify.jobs/c/Lifepoint-Health",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
