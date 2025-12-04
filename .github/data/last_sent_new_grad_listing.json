@@ -53856,5 +53856,59 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Leidos",
+    "id": "91859c98-d2b0-41cf-9106-79b61cdc9589",
+    "title": "Entry Level Software Developer",
+    "active": true,
+    "date_updated": 1764814443,
+    "date_posted": 1764814443,
+    "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Bethesda-MD/Entry-Level-Software-Developer_R-00171449",
+    "locations": [
+      "Bethesda, MD"
+    ],
+    "company_url": "https://simplify.jobs/c/Leidos",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Goldman Sachs",
+    "id": "32e0176a-1349-4a8b-830d-4b45bfa6fa45",
+    "title": "Global Banking & Markets Public - FX Options Trading",
+    "active": true,
+    "date_updated": 1764814132,
+    "date_posted": 1764814132,
+    "url": "https://higher.gs.com/roles/154301",
+    "locations": [
+      "London, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Goldman-Sachs",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Goldman Sachs",
+    "id": "b9c58ec7-c30f-405a-b7e5-c48271eb29fc",
+    "title": "Risk - Quantitative Engineering",
+    "active": true,
+    "date_updated": 1764814127,
+    "date_posted": 1764814127,
+    "url": "https://higher.gs.com/roles/149640",
+    "locations": [
+      "Dallas, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Goldman-Sachs",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
