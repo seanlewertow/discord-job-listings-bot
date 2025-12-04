@@ -54001,5 +54001,23 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Mechanize",
+    "id": "20fe605e-9125-4857-b077-cf256888994c",
+    "title": "Software Engineer",
+    "active": true,
+    "date_updated": 1764840269,
+    "date_posted": 1763712708,
+    "url": "https://jobs.ashbyhq.com/mechanize/1ef28bb2-6251-4da6-a590-a4a7606368cb/application",
+    "locations": [
+      "SF"
+    ],
+    "company_url": "https://simplify.jobs/c/Mechanize",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
