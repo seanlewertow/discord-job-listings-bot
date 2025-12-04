@@ -53765,5 +53765,96 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Redis",
+    "id": "2bce9d58-7d72-4b6d-bed7-b53373fe3a58",
+    "title": "Senior Applied AI Engineer",
+    "active": true,
+    "date_updated": 1764812967,
+    "date_posted": 1764725317,
+    "url": "https://job-boards.greenhouse.io/redis/jobs/5722089004",
+    "locations": [
+      "Remote in USA",
+      "Remote in Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Redis",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "pony.ai",
+    "id": "b8b36f02-80d0-42d0-85c2-b1172504f9c5",
+    "title": "Software Engineer - Perception Infrastructure",
+    "active": true,
+    "date_updated": 1764814446,
+    "date_posted": 1764814446,
+    "url": "https://apply.workable.com/pony-dot-ai/j/A776E97605/apply",
+    "locations": [
+      "Fremont, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Pony-AI",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "NVIDIA",
+    "id": "50965bb0-197e-4c96-bf4a-dd68d94198f8",
+    "title": "Software Engineer \u2013 New College Grad 2025 - Tensorrt Specialized Platforms",
+    "active": true,
+    "date_updated": 1764814568,
+    "date_posted": 1764814568,
+    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--TensorRT-Specialized-Platforms---New-College-Grad-2025_JR2002870",
+    "locations": [
+      "Santa Clara, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/NVIDIA",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Leidos",
+    "id": "d72cccfe-e9a3-40f9-ad25-00f25b615aa0",
+    "title": "Software Engineer",
+    "active": true,
+    "date_updated": 1764814462,
+    "date_posted": 1764814462,
+    "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Software-Engineer_R-00171275",
+    "locations": [
+      "Huntsville, AL"
+    ],
+    "company_url": "https://simplify.jobs/c/Leidos",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Goldman Sachs",
+    "id": "8ad98a50-8e59-4952-ad48-fac36b70cb39",
+    "title": "2026 \u2013 Americas - New York City Area - Engineering",
+    "active": true,
+    "date_updated": 1764813894,
+    "date_posted": 1764813894,
+    "url": "https://higher.gs.com/roles/150845?type=students",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Goldman-Sachs",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
