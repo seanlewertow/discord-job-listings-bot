@@ -54127,5 +54127,41 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "18ac55bc-088a-45a9-bcc7-a35428e1aa84",
+    "title": "Trading Assistant - Shift",
+    "active": true,
+    "date_updated": 1764859022,
+    "date_posted": 1764859022,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400040910",
+    "locations": [
+      "Tunbridge Wells, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "PolyAI",
+    "id": "72d03c31-11db-477f-937a-651216793057",
+    "title": "Agent Designer",
+    "active": true,
+    "date_updated": 1764774337,
+    "date_posted": 1764613713,
+    "url": "https://job-boards.eu.greenhouse.io/polyai/jobs/4721383101",
+    "locations": [
+      "London, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/PolyAI",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
