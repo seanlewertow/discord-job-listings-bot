@@ -54163,5 +54163,23 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "JP Morgan Chase",
+    "id": "339e6b24-34ea-4e35-aec1-7b728845e4ef",
+    "title": "Trading Services Analyst",
+    "active": true,
+    "date_updated": 1764868095,
+    "date_posted": 1764868095,
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210691071",
+    "locations": [
+      "Christchurch, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/JP-Morgan-Chase",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
