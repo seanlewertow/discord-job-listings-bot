@@ -54289,5 +54289,41 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "1dced786-6bb2-4286-ae05-cc1a78e26482",
+    "title": "Trading Assistant - Shift",
+    "active": true,
+    "date_updated": 1764883776,
+    "date_posted": 1764883776,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400041963",
+    "locations": [
+      "Oxford, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "1a0e6b24-77fc-4ed6-a4ef-4b41663c023a",
+    "title": "Trading Assistant - Shift",
+    "active": true,
+    "date_updated": 1764883748,
+    "date_posted": 1764883748,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400041959",
+    "locations": [
+      "Wimborne Minster, Wimborne, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
