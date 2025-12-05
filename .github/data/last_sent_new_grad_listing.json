@@ -54913,5 +54913,42 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "Obsidian Security",
+    "id": "112f1e50-0f97-45ca-915c-62b3c57c84cd",
+    "title": "AI Product Manager",
+    "active": true,
+    "date_updated": 1764928680,
+    "date_posted": 1764928680,
+    "url": "https://job-boards.greenhouse.io/obsidiansecurity/jobs/5019969008",
+    "locations": [
+      "Palo Alto, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Obsidian-Security",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Google",
+    "id": "5c523fd0-20ca-4274-b6d8-88b79a97dbd4",
+    "title": "Software Engineer 3 - Infrastructure - Core",
+    "active": true,
+    "date_updated": 1764929505,
+    "date_posted": 1745466578,
+    "url": "https://www.google.com/about/careers/applications/jobs/results/142162245663498950",
+    "locations": [
+      "NYC",
+      "Sunnyvale, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Google",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
