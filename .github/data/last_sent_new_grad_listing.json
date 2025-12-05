@@ -54877,5 +54877,41 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Micron Technology",
+    "id": "01636a45-622b-490a-8679-adafcb9f0e34",
+    "title": "New College Grad - Yield Analysis Engineer",
+    "active": true,
+    "date_updated": 1764924212,
+    "date_posted": 1764924212,
+    "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---ID1/New-College-Grad---Yield-Analysis-Engineer_JR86340",
+    "locations": [
+      "Boise, ID"
+    ],
+    "company_url": "https://simplify.jobs/c/Micron-Technology",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Northrop Grumman",
+    "id": "c6392457-93ae-4ad1-80ad-c24198bf1988",
+    "title": "Automation Engineer",
+    "active": true,
+    "date_updated": 1764921439,
+    "date_posted": 1764921439,
+    "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Linthicum/Automation-Engineer_R10216104",
+    "locations": [
+      "Halethorpe, MD"
+    ],
+    "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
