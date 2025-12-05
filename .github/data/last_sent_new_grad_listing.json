@@ -54697,5 +54697,95 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "The Boeing Company",
+    "id": "d8b2b9f1-a762-47e8-9b4a-3843ca106abd",
+    "title": "Audiovisual Programmer",
+    "active": true,
+    "date_updated": 1764920215,
+    "date_posted": 1764920215,
+    "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Herndon-VA/Audiovisual-Programmer_JR2025487536-1",
+    "locations": [
+      "Reston, VA"
+    ],
+    "company_url": "https://simplify.jobs/c/Boeing",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "CAE",
+    "id": "c6ccaaa1-b266-4ceb-b03a-7cb0cddb5fd0",
+    "title": "Simulator Technician",
+    "active": true,
+    "date_updated": 1764920339,
+    "date_posted": 1764920339,
+    "url": "https://cae.wd3.myworkdayjobs.com/career/job/Edmonton/Simulator-Technician_116201-1",
+    "locations": [
+      "Edmonton, AB, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/0584b8e0-c24c-4b9b-9e06-b2484d8779bf",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "The Boeing Company",
+    "id": "67c10f90-4db1-48fb-8aa8-6e07309c95b5",
+    "title": "Audio Visual Programmer",
+    "active": true,
+    "date_updated": 1764920245,
+    "date_posted": 1764920245,
+    "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Herndon-VA/Audio-Visual-Programmer_JR2025482477-1",
+    "locations": [
+      "Reston, VA"
+    ],
+    "company_url": "https://simplify.jobs/c/Boeing",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "The Boeing Company",
+    "id": "5ad03da9-e168-440f-a668-65106b59e2a8",
+    "title": "Entry-Level Software Engineer - Secure Networks & Protocols",
+    "active": true,
+    "date_updated": 1764920240,
+    "date_posted": 1764920240,
+    "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Oklahoma-City-OK/Entry-Level-Software-Engineer---Secure-Networks---Protocols_JR2025487455-1",
+    "locations": [
+      "Oklahoma City, OK"
+    ],
+    "company_url": "https://simplify.jobs/c/Boeing",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "PennState University",
+    "id": "19faa2cd-61e4-44cd-8b67-5a1787c1d97d",
+    "title": "Part-Time Research Support",
+    "active": true,
+    "date_updated": 1764920106,
+    "date_posted": 1764920106,
+    "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Part-Time-Research-Support_REQ_0000074058-2",
+    "locations": [
+      "State College, PA"
+    ],
+    "company_url": "https://simplify.jobs/c/Penn-State",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
