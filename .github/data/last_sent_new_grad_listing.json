@@ -54787,5 +54787,95 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Cadence Design Systems",
+    "id": "d8045f85-ca05-4b6e-813e-775127be0373",
+    "title": "Verification Application Engineer",
+    "active": true,
+    "date_updated": 1764922336,
+    "date_posted": 1764922336,
+    "url": "https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/Burlington-MA/Verification-Application-Engineer_R51964",
+    "locations": [
+      "Burlington, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/Cadence-Design-Systems",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Warner Bros.",
+    "id": "6536604b-afe1-43af-96f0-d9ca89112d90",
+    "title": "Concepteur.trice technique associ\u00e9.e / Associate Technical Designer",
+    "active": true,
+    "date_updated": 1764922347,
+    "date_posted": 1764922347,
+    "url": "https://warnerbros.wd5.myworkdayjobs.com/francais/job/Montreal-888-boul-De-Maisonneuve-Est/Concepteurtrice-technique-associe---Associate-Technical-Designer_R000101064",
+    "locations": [
+      "Montreal, QC, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Warner-Bros",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Caterpillar Inc.",
+    "id": "8ce40e7a-a8d0-4b50-9a02-47ad995ba5a2",
+    "title": "Mining Application Specialist",
+    "active": true,
+    "date_updated": 1764922110,
+    "date_posted": 1764922110,
+    "url": "https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Home-in-Ontario/Mining-Application-Specialist---Early-Career_R0000338800",
+    "locations": [
+      "Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Caterpillar-Inc",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "AlphaSights",
+    "id": "7d72f983-f3bd-466e-9eee-49a7f2096b9d",
+    "title": "Graduate \u2013 Associate Product Manager",
+    "active": true,
+    "date_updated": 1764921466,
+    "date_posted": 1764921466,
+    "url": "https://www.alphasights.com/careers/open-roles?gh_jid=7441197",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/AlphaSights",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Northrop Grumman",
+    "id": "44c93c0a-c66f-4c78-903f-6bb426a90fd4",
+    "title": "Vehicle Management Systems Engineer / Principal Engineer",
+    "active": true,
+    "date_updated": 1764921454,
+    "date_posted": 1764921454,
+    "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/Vehicle-Management-Systems-Engineer---Principal-Engineer_R10216212",
+    "locations": [
+      "Melbourne, FL"
+    ],
+    "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
