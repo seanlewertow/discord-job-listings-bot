@@ -55005,5 +55005,23 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Datadog",
+    "id": "19f9c8b9-e662-47cb-a14f-4d4b9570f3f2",
+    "title": "Enablement Operations Data Analyst - NYC",
+    "active": true,
+    "date_updated": 1764944875,
+    "date_posted": 1764944875,
+    "url": "https://careers.datadoghq.com/detail/7378476/?gh_jid=7378476",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Datadog",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
