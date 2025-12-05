@@ -55059,5 +55059,41 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "ONYX Insight",
+    "id": "68b629ea-0b83-47ce-8cbb-cc425b323320",
+    "title": "Condition Monitoring Engineer",
+    "active": true,
+    "date_updated": 1764955568,
+    "date_posted": 1764955568,
+    "url": "https://onyx-insight.breezy.hr/p/c5b7ac562f7301/apply",
+    "locations": [
+      "Broomfield, CO"
+    ],
+    "company_url": "https://simplify.jobs/c/ONYX-Insight",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Coherent ",
+    "id": "cc602364-6684-4b9b-ba8e-2a46ae9919c8",
+    "title": "Optical Fiber Test and Assembly Technician",
+    "active": true,
+    "date_updated": 1764955586,
+    "date_posted": 1762820965,
+    "url": "https://hcwp.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2009352",
+    "locations": [
+      "Simsbury, CT"
+    ],
+    "company_url": "https://simplify.jobs/c/Coherent",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
