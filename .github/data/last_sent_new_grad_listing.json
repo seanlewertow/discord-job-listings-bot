@@ -55113,5 +55113,96 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Jerry",
+    "id": "3a35095c-849d-406a-a6c7-315ca4200229",
+    "title": "Software Engineer - Entry",
+    "active": true,
+    "date_updated": 1764976975,
+    "date_posted": 1764976975,
+    "url": "https://jobs.ashbyhq.com/jerry.ai/f5ec8417-6fec-4630-a138-30e7670a8993/application",
+    "locations": [
+      "Toronto, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Jerry",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Computershare",
+    "id": "1c00b706-c71c-4bcf-9a9f-9a9f1c7cbfad",
+    "title": "Reporting Analyst",
+    "active": true,
+    "date_updated": 1764976849,
+    "date_posted": 1764976849,
+    "url": "https://fa-evdq-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/10170",
+    "locations": [
+      "Edinburgh, UK",
+      "Bristol, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Computershare",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "759341bd-8a33-411c-9996-f7ac46dbb8d5",
+    "title": "Trading Assistant - Local",
+    "active": true,
+    "date_updated": 1764976422,
+    "date_posted": 1764976422,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400042035",
+    "locations": [
+      "Warrington, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "6ef62f7f-4c40-43ad-b4a6-bf1e5bfc86a4",
+    "title": "Trading Assistant - Local",
+    "active": true,
+    "date_updated": 1764976425,
+    "date_posted": 1764976425,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400042057",
+    "locations": [
+      "Harrogate, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Netflix",
+    "id": "cfe1aee7-be71-4f8f-a1f9-6f80e1122805",
+    "title": "New Grad Software Engineer - 2026",
+    "active": true,
+    "date_updated": 1764976105,
+    "date_posted": 1764976105,
+    "url": "https://explore.jobs.netflix.net/careers/job/790313102199",
+    "locations": [
+      "Los Gatos, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Netflix",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
