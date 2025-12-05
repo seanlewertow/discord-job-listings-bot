@@ -54325,5 +54325,95 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Netflix",
+    "id": "35101b7d-7ae7-4117-a1a9-ae52fc1c392f",
+    "title": "Asset Assembly Technical Assistant",
+    "active": true,
+    "date_updated": 1764891408,
+    "date_posted": 1764891408,
+    "url": "https://explore.jobs.netflix.net/careers/job/790313144715",
+    "locations": [
+      "Vancouver, BC, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Netflix",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "L3Harris Technologies",
+    "id": "2b984c65-eb6e-4aad-ac4e-f0173feadacb",
+    "title": "Engineering Technician B - Rochester NY",
+    "active": true,
+    "date_updated": 1764891309,
+    "date_posted": 1764891309,
+    "url": "https://jobs.l3harris.com/job/Rochester-Engineering-Technician-B-(Rochester-NY)-NY-14606/1347435300/?ats=successfactors",
+    "locations": [
+      "Rochester, NY"
+    ],
+    "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "8b68923d-2c62-4146-b727-80388d5808fb",
+    "title": "Trading Assistant - Shift",
+    "active": true,
+    "date_updated": 1764892910,
+    "date_posted": 1764892910,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400042014",
+    "locations": [
+      "United Kingdom"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "269cde80-ab21-49c1-83d7-3ecc61b8854f",
+    "title": "Trading Assistant - Shift",
+    "active": true,
+    "date_updated": 1764892904,
+    "date_posted": 1764892904,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400041847",
+    "locations": [
+      "Cardiff, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Lightmatter",
+    "id": "68aabed5-be0c-483b-b5c8-4cf9dd8420b0",
+    "title": "Photonics Characterization - Temp",
+    "active": true,
+    "date_updated": 1764892943,
+    "date_posted": 1762817007,
+    "url": "https://boards.greenhouse.io/lightmatter/jobs/4981728008",
+    "locations": [
+      "Boston, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/Lightmatter",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
