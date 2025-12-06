@@ -55843,5 +55843,23 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "GE Healthcare",
+    "id": "c45614b9-e67f-42ce-9adc-f9cef0c97f1e",
+    "title": "Field Service Engineer 1 PCS/Anesthesia - Santa Barbara - CA",
+    "active": true,
+    "date_updated": 1765047332,
+    "date_posted": 1765047332,
+    "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Service-Engineer-1-PCS-Anesthesia---Santa-Barbara--CA_R4029815-1",
+    "locations": [
+      "Santa Barbara, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/GE-Healthcare",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
