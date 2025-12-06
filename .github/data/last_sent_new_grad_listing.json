@@ -55825,5 +55825,23 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Caesars Entertainment",
+    "id": "0e4eacf8-57ca-465f-8ba9-efd48fa8e14b",
+    "title": "Analyst 1 - Rotational Program",
+    "active": true,
+    "date_updated": 1765042561,
+    "date_posted": 1761516992,
+    "url": "https://edmn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/72821",
+    "locations": [
+      "Las Vegas, NV"
+    ],
+    "company_url": "https://simplify.jobs/c/Caesars-Entertainment",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
