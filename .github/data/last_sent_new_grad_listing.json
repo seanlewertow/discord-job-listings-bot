@@ -55204,5 +55204,102 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Nutanix",
+    "id": "fa0aa67d-e954-4438-abe5-52f646513377",
+    "title": "Software Engineer - Performance and Observability",
+    "active": true,
+    "date_updated": 1764977087,
+    "date_posted": 1764977087,
+    "url": "https://jobs.jobvite.com/nutanix/job/o7NWyfw8?nl=1&nl=1&fr=false",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Nutanix",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Electronic Arts",
+    "id": "e8c1ca35-16fa-4cc6-a091-01e6ca098e49",
+    "title": "Software Engineer 1",
+    "active": true,
+    "date_updated": 1764976825,
+    "date_posted": 1758724210,
+    "url": "https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-I/210201",
+    "locations": [
+      "Vancouver, BC, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Electronic-Arts",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Intel",
+    "id": "91dabd9c-d12b-4af8-b041-9f654de48391",
+    "title": "SOC Logic Design Engineer",
+    "active": true,
+    "date_updated": 1764980156,
+    "date_posted": 1764980156,
+    "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/Virtual-US/SOC-Logic-Design-Engineer_JR0278603-1",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/Intel",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Jerry",
+    "id": "b20f18e5-4561-4269-ba7c-9790929a70ef",
+    "title": "Software Engineer 1",
+    "active": true,
+    "date_updated": 1764977663,
+    "date_posted": 1764977663,
+    "url": "https://jobs.ashbyhq.com/jerry.ai/6c80fb6e-7e35-42df-ad27-ed4cdb92cc27/application",
+    "locations": [
+      "Toronto, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Jerry",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Geosyntec Consultants",
+    "id": "bb9dfba3-bd85-45cc-9c21-9be7da4faa56",
+    "title": "Early-Career Water Resources / Modeling Professional",
+    "active": true,
+    "date_updated": 1764980483,
+    "date_posted": 1759093148,
+    "url": "https://careers-geosyntec.icims.com/jobs/3946/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Orlando, FL",
+      "Tampa, FL",
+      "Tallahassee, FL",
+      "Gainesville, FL",
+      "Jacksonville, FL",
+      "Clearwater, FL"
+    ],
+    "company_url": "https://simplify.jobs/c/Geosyntec-Consultants",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
