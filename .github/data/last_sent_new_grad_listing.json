@@ -55663,5 +55663,41 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "6e40b92d-95d0-4217-b1d4-75085731e49b",
+    "title": "Trading Assistant - Shift",
+    "active": true,
+    "date_updated": 1765005824,
+    "date_posted": 1765005824,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400042192",
+    "locations": [
+      "Basingstoke, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Intuit",
+    "id": "35dad45a-30f2-4f75-9a81-dda3c4eca60f",
+    "title": "Software Engineer 1",
+    "active": true,
+    "date_updated": 1765005816,
+    "date_posted": 1765005816,
+    "url": "https://jobs.intuit.com/job/mountain-view/software-engineer-1/27595/89210463728",
+    "locations": [
+      "Mountain View, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Intuit",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
