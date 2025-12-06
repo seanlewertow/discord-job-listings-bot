@@ -55537,5 +55537,95 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "JP Morgan Chase",
+    "id": "ad81ea58-79f1-4194-bc9f-49011f4e799e",
+    "title": "Digital Markets - CRM Product Manager - Associate",
+    "active": true,
+    "date_updated": 1764998748,
+    "date_posted": 1764998748,
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210691681",
+    "locations": [
+      "London, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/JP-Morgan-Chase",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "JP Morgan Chase",
+    "id": "119be83c-661c-48c1-ac5a-b813135d8b03",
+    "title": "Global Equities - Digital Products - Associate",
+    "active": true,
+    "date_updated": 1764998700,
+    "date_posted": 1764998700,
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210691740",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/JP-Morgan-Chase",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "3cbed226-8a43-4cc2-8b50-3f947a1a9202",
+    "title": "Trading Assistant - Shift",
+    "active": true,
+    "date_updated": 1764998199,
+    "date_posted": 1764998199,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400042189",
+    "locations": [
+      "United Kingdom"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Caesars Entertainment",
+    "id": "0e3d3e4c-4a04-4685-8472-38338f070d59",
+    "title": "Analyst 1",
+    "active": true,
+    "date_updated": 1764998233,
+    "date_posted": 1764998233,
+    "url": "https://edmn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/76888",
+    "locations": [
+      "Las Vegas, NV"
+    ],
+    "company_url": "https://simplify.jobs/c/Caesars-Entertainment",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Akamai Technologies",
+    "id": "b1df1869-d97a-4962-9a33-6abec7285509",
+    "title": "Hardware Engineer 2",
+    "active": true,
+    "date_updated": 1764997920,
+    "date_posted": 1764997920,
+    "url": "https://fa-extu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2010",
+    "locations": [
+      "Cambridge, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/Akamai",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
