@@ -55301,5 +55301,97 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "PolyAI",
+    "id": "21797258-f5ee-476b-82f9-a9b95f5024a4",
+    "title": "Turkish Language Specialist",
+    "active": true,
+    "date_updated": 1764984793,
+    "date_posted": 1764984793,
+    "url": "https://job-boards.eu.greenhouse.io/polyai/jobs/4725072101",
+    "locations": [
+      "United Kingdom"
+    ],
+    "company_url": "https://simplify.jobs/c/PolyAI",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "ASM International",
+    "id": "08b790c3-b1ed-4ca8-ac18-4e3fe1927f47",
+    "title": "Software Engineer \u2013 Early Career - Spring 2026",
+    "active": true,
+    "date_updated": 1764987195,
+    "date_posted": 1764987195,
+    "url": "https://www.asm.com/open-vacancies/?gh_jid=4677615101",
+    "locations": [
+      "Phoenix, AZ"
+    ],
+    "company_url": "https://simplify.jobs/c/ASM-International",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Nexthop.ai",
+    "id": "36340c4d-5f81-4c62-876c-3159e88b62c3",
+    "title": "Software Engineer New Grad",
+    "active": true,
+    "date_updated": 1764986957,
+    "date_posted": 1764986957,
+    "url": "https://nexthopai.bamboohr.com/careers/62/",
+    "locations": [
+      "Burnaby, BC, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Nexthopai",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Oracle",
+    "id": "fc85ce95-cb3a-4fad-93ef-9c90558467ce",
+    "title": "Undergrad Product Engineer - Oracle Cloud Infrastructure - Oci",
+    "active": true,
+    "date_updated": 1764986465,
+    "date_posted": 1764986465,
+    "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/318361",
+    "locations": [
+      "Santa Clara, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Oracle",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Chewy",
+    "id": "65da747b-d671-4732-b707-87c43e78beda",
+    "title": "Software Engineer 1",
+    "active": true,
+    "date_updated": 1764986291,
+    "date_posted": 1764986291,
+    "url": "https://boards.greenhouse.io/embed/job_app?token=7420795",
+    "locations": [
+      "Boston, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/Chewy",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
