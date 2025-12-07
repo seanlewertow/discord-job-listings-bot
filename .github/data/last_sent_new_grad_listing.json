@@ -56046,5 +56046,60 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "fcfe8f0c-b3e8-4373-a1b4-bbc815d9e097",
+    "title": "Trading Assistant - Shift",
+    "active": true,
+    "date_updated": 1765143637,
+    "date_posted": 1765143637,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400042391",
+    "locations": [
+      "Beaconsfield, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "1bbe5a64-a728-40cb-a129-93fd9c2a121a",
+    "title": "Trading Assistant - Local",
+    "active": true,
+    "date_updated": 1765143638,
+    "date_posted": 1765143638,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400042373",
+    "locations": [
+      "Canterbury, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Moog ",
+    "id": "b3415a03-953f-4161-80ca-2c4849c9c562",
+    "title": "Associate Product Engineer",
+    "active": true,
+    "date_updated": 1765134303,
+    "date_posted": 1764700976,
+    "url": "https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Eng--Assc-Product_R-25-14762-1",
+    "locations": [
+      "Boston, NY",
+      "Buffalo, NY"
+    ],
+    "company_url": "https://simplify.jobs/c/Moog",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
