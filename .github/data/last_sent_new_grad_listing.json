@@ -55990,5 +55990,25 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Truist Bank",
+    "id": "cb88afc8-f6d2-4739-917f-2e6ad16b9a64",
+    "title": "Business Data Steward - Consumer and Small Business Banking",
+    "active": true,
+    "date_updated": 1765092285,
+    "date_posted": 1765092285,
+    "url": "https://truist.wd1.myworkdayjobs.com/en-US/Careers/job/Charlotte-NC/Business-Data-Steward---Consumer-and-Small-Business-Banking_R0107465",
+    "locations": [
+      "Richmond, VA",
+      "Charlotte, NC",
+      "Atlanta, GA"
+    ],
+    "company_url": "https://simplify.jobs/c/Truist-Bank",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
