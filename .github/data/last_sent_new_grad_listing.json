@@ -56209,5 +56209,60 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Alliant Energy",
+    "id": "d99b42ef-ee09-4a5a-b424-c133bd85f5ec",
+    "title": "Meter Data Analyst 1",
+    "active": true,
+    "date_updated": 1765223225,
+    "date_posted": 1765223225,
+    "url": "https://alliantenergy.wd1.myworkdayjobs.com/alliant/job/Madison-WI/Meter-Data-Analyst-I_JR-9238",
+    "locations": [
+      "Madison, WI",
+      "Cedar Rapids, IA"
+    ],
+    "company_url": "https://simplify.jobs/c/Alliant-Energy",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "The University of Edinburgh",
+    "id": "c9f6b4da-3107-4bb3-943e-7c8ddd079368",
+    "title": "Data Analyst Programmer",
+    "active": true,
+    "date_updated": 1765222254,
+    "date_posted": 1765222254,
+    "url": "https://elxw.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/13439",
+    "locations": [
+      "Edinburgh, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/The-University-Of-Edinburgh",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Wiltshire Farm Foods",
+    "id": "a8417f0b-125d-40e5-b964-54ea3e26e35e",
+    "title": "Graduate Data Engineer",
+    "active": true,
+    "date_updated": 1765222682,
+    "date_posted": 1759754329,
+    "url": "https://wiltshirefarmfoods-apetito.icims.com/jobs/7794/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Trowbridge, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Wiltshire-Farm-Foods",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
