@@ -56428,5 +56428,95 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Dominion Energy",
+    "id": "0a53aeba-18f3-4baf-a229-0f3102ca4e3e",
+    "title": "Associate Engineer / Engineer / Senior Engineer - Electric Transmission Operations Analytics",
+    "active": true,
+    "date_updated": 1765232233,
+    "date_posted": 1765232233,
+    "url": "https://careers.dominionenergy.com/job/GLEN-ALLEN-Associate-Engineer-Engineer-Sr_-Engineer-Electric-Transmission-Operations-Analytics-VA-23060/1348026900/?ats=successfactors",
+    "locations": [
+      "Glen Allen, VA"
+    ],
+    "company_url": "https://simplify.jobs/c/Dominion-Energy",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "LabCorp",
+    "id": "090b90d6-fcc2-4c0a-9619-89ba045b87d4",
+    "title": "Clinical Data Analyst",
+    "active": true,
+    "date_updated": 1765232391,
+    "date_posted": 1765232391,
+    "url": "https://labcorp.wd1.myworkdayjobs.com/external/job/Baltimore-MD/Clinical-Data-Analyst_2539799",
+    "locations": [
+      "Baltimore, MD"
+    ],
+    "company_url": "https://simplify.jobs/c/LabCorp",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "MGM Resorts International",
+    "id": "bd9f5c91-fa0e-4015-89a7-bc5f710574a6",
+    "title": "Vlt Tech 2 - MGM Northfield Park",
+    "active": true,
+    "date_updated": 1765232216,
+    "date_posted": 1765232216,
+    "url": "https://mgmresorts.wd5.myworkdayjobs.com/MGMCareers/job/Property---MGM-Northfield-Park/VLT-Tech-II---MGM-Northfield-Park_269649",
+    "locations": [
+      "Northfield, OH"
+    ],
+    "company_url": "https://simplify.jobs/c/MGM-Resorts-International",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Fanatics",
+    "id": "991618f8-1294-4779-aefb-c8c2c906b7c7",
+    "title": "Associate Trader",
+    "active": true,
+    "date_updated": 1765232147,
+    "date_posted": 1765232147,
+    "url": "https://fa-exki-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25642",
+    "locations": [
+      "Denver, CO"
+    ],
+    "company_url": "https://simplify.jobs/c/Fanatics",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "HEXAWARE",
+    "id": "7b821c63-6ca7-47f1-8f3e-f450dc12f8a0",
+    "title": "Java Full Stack Engineer - Associate",
+    "active": true,
+    "date_updated": 1765232098,
+    "date_posted": 1765232098,
+    "url": "https://fa-etqo-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/549450",
+    "locations": [
+      "United States"
+    ],
+    "company_url": "https://simplify.jobs/c/HEXAWARE",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
