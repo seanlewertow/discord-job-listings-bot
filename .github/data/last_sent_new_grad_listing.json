@@ -56101,5 +56101,41 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "Service Corporation International",
+    "id": "24717486-0de1-483c-98ca-741d80791222",
+    "title": "Product Specialist 1",
+    "active": true,
+    "date_updated": 1765116250,
+    "date_posted": 1763888785,
+    "url": "https://sci.wd5.myworkdayjobs.com/sci/job/OH---Cincinnati/Product-Specialist-I_Req155437",
+    "locations": [
+      "Cincinnati, OH"
+    ],
+    "company_url": "https://simplify.jobs/c/981ac81d-186b-4d3b-a98f-1bce1b03c41a",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "L3Harris Technologies",
+    "id": "c3bb7752-ed83-4bdf-aa22-bb1891b0aea5",
+    "title": "Graduate Hardware Engineer",
+    "active": true,
+    "date_updated": 1765160383,
+    "date_posted": 1765160383,
+    "url": "https://jobs.l3harris.com/job/Tewkesbury-Graduate-Hardware-Engineer-(Sept-2026)-1-GLS-GL20-8GB/1347062400/?ats=successfactors",
+    "locations": [
+      "Gloucester, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
