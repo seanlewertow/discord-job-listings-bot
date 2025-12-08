@@ -56300,5 +56300,23 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Citizen Health",
+    "id": "3c85c8fb-ba8c-4bbf-a0f1-e67d58dbb10e",
+    "title": "Early Career Software Engineer",
+    "active": true,
+    "date_updated": 1765225692,
+    "date_posted": 1765225692,
+    "url": "https://jobs.ashbyhq.com/Citizen%20Health/ebc4c080-319d-4348-ada1-6ded3c803ec7/application",
+    "locations": [
+      "SF"
+    ],
+    "company_url": "https://simplify.jobs/c/Citizen-Health",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
