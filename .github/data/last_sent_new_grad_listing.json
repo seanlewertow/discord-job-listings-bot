@@ -56318,5 +56318,97 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Intuit",
+    "id": "db6d881d-d68c-4716-ba2a-3594bb759346",
+    "title": "Software Developer 1",
+    "active": true,
+    "date_updated": 1765228894,
+    "date_posted": 1765228894,
+    "url": "https://jobs.intuit.com/job/toronto/software-developer-1/27595/89297106576",
+    "locations": [
+      "Toronto, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Intuit",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Jerry",
+    "id": "9725f563-454e-47af-ac52-16a11eb27a00",
+    "title": "Software Engineer 1",
+    "active": true,
+    "date_updated": 1765228931,
+    "date_posted": 1765228931,
+    "url": "https://jobs.ashbyhq.com/jerry.ai/548f4655-9fef-46da-a9e5-e68ef350fb73/application",
+    "locations": [
+      "Toronto, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Jerry",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "HUMAN",
+    "id": "6bc8dd1d-643a-481d-b6f4-31099e58c6a7",
+    "title": "Product Marketing Manager - Application Protection",
+    "active": true,
+    "date_updated": 1765228967,
+    "date_posted": 1765228967,
+    "url": "https://jobs.ashbyhq.com/HUMAN/8394c678-2aee-4efd-b316-a950786a3b7e/application",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/HUMAN",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Jerry",
+    "id": "c54904e9-0991-4014-88f0-8b2c2897378d",
+    "title": "Software Engineer - Entry",
+    "active": true,
+    "date_updated": 1765228241,
+    "date_posted": 1765228241,
+    "url": "https://jobs.ashbyhq.com/jerry.ai/10ac15d0-80ae-49f7-8c42-947fa35b7d34/application",
+    "locations": [
+      "Toronto, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Jerry",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Panthalassa",
+    "id": "0b5a46f5-39a6-4866-87ee-b8861391e121",
+    "title": "Prototype Engineer - Electromechanical Integration",
+    "active": true,
+    "date_updated": 1765227686,
+    "date_posted": 1765227686,
+    "url": "https://job-boards.greenhouse.io/panthalassa/jobs/5721244004",
+    "locations": [
+      "Portland, OR"
+    ],
+    "company_url": "https://simplify.jobs/c/Panthalassa",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
