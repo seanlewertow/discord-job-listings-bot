@@ -56518,5 +56518,95 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Northrop Grumman",
+    "id": "d0a13584-ef08-4e1f-a76f-e2b6342eaa4a",
+    "title": "Principal Mission Assurance Engineer",
+    "active": true,
+    "date_updated": 1765234067,
+    "date_posted": 1765234067,
+    "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/Engineer-Principal-Engineer-Mission-Assurance---16584_R10216305",
+    "locations": [
+      "Hill AFB, UT"
+    ],
+    "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "f8c0acf3-9cdc-46ba-90b5-1b1e7e071d9f",
+    "title": "Trading Assistant - Local",
+    "active": true,
+    "date_updated": 1765233225,
+    "date_posted": 1765233225,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400042030",
+    "locations": [
+      "Leeds, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "GuideWell Mutual",
+    "id": "f5450c02-9e23-402f-943b-710b8b525a8e",
+    "title": "Associate Software Developer",
+    "active": true,
+    "date_updated": 1765233200,
+    "date_posted": 1765233200,
+    "url": "http://fa-etum-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41204",
+    "locations": [
+      "Irving, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/GuideWell-Mutual",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "b20bbe27-a900-4414-86f8-5ecb17216536",
+    "title": "Trading Assistant - Local",
+    "active": true,
+    "date_updated": 1765233216,
+    "date_posted": 1765233216,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400042031",
+    "locations": [
+      "Leeds, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "The University of Edinburgh",
+    "id": "a678b901-21b4-4995-abfd-aeeee93392a9",
+    "title": "Postdoctoral Data Analyst",
+    "active": true,
+    "date_updated": 1765233491,
+    "date_posted": 1765233491,
+    "url": "https://elxw.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/13487",
+    "locations": [
+      "Edinburgh, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/The-University-Of-Edinburgh",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
