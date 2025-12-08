@@ -56608,5 +56608,96 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Meijer",
+    "id": "907cb949-4776-4573-b119-2ec0517e1fb8",
+    "title": "Pricing Data Analyst 1",
+    "active": true,
+    "date_updated": 1765235846,
+    "date_posted": 1765235846,
+    "url": "https://meijer.wd5.myworkdayjobs.com/en-US/Meijer/job/Grand-Rapids-MI/Analyst--Pricing-Data-I_R000630750",
+    "locations": [
+      "Grand Rapids, MI"
+    ],
+    "company_url": "https://simplify.jobs/c/64266d7e-3396-4232-b0e2-6d27da163273",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Telesat",
+    "id": "9027a11b-eff4-4511-ad77-cd6fdbb26bef",
+    "title": "Software Engineer",
+    "active": true,
+    "date_updated": 1765235266,
+    "date_posted": 1765235266,
+    "url": "https://jobs.lever.co/telesat/e5f565c8-68bb-40eb-a62b-b2cda5cbc5be/apply",
+    "locations": [
+      "Ottawa, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Telesat",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Twitch",
+    "id": "1fb0181e-5de7-4583-9f08-3822a4a687d9",
+    "title": "Software Engineer 1 - Ad Demand",
+    "active": true,
+    "date_updated": 1765235036,
+    "date_posted": 1765235036,
+    "url": "https://job-boards.greenhouse.io/twitch/jobs/8326594002",
+    "locations": [
+      "SF"
+    ],
+    "company_url": "https://simplify.jobs/c/Twitch",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Red Hat",
+    "id": "f6044bfa-4d98-45e9-ba3f-df735dc0c319",
+    "title": "Associate Software Engineer - Red Hat Satellite",
+    "active": true,
+    "date_updated": 1765234864,
+    "date_posted": 1765234864,
+    "url": "https://redhat.wd5.myworkdayjobs.com/jobs/job/Raleigh/Associate-Software-Engineer---Red-Hat-Satellite_R-052903",
+    "locations": [
+      "Remote in USA",
+      "Raleigh, NC"
+    ],
+    "company_url": "https://simplify.jobs/c/Red-Hat",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Regal Rexnord",
+    "id": "15110e02-196f-4063-a475-3c0f8dbb74f5",
+    "title": "Manual Machinist",
+    "active": true,
+    "date_updated": 1765234175,
+    "date_posted": 1765234175,
+    "url": "https://regalrexnord.wd1.myworkdayjobs.com/careers/job/Cambridge-Maryland-United-States/Manual-Machinist_R25_06103-1",
+    "locations": [
+      "Easton, MD"
+    ],
+    "company_url": "https://simplify.jobs/c/37e0cd83-539e-4474-a63a-abc8ce7b4694",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
