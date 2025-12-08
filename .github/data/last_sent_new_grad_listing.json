@@ -56410,5 +56410,23 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Amazon",
+    "id": "c011a25f-9ac1-48aa-a7c0-86759053b09d",
+    "title": "Software Engineer 1 - Frontend",
+    "active": true,
+    "date_updated": 1765229676,
+    "date_posted": 1765229676,
+    "url": "https://amazon.jobs/en/jobs/3117137/software-engineer-i-frontend",
+    "locations": [
+      "SF"
+    ],
+    "company_url": "https://simplify.jobs/c/Amazon",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
