@@ -56173,5 +56173,23 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "TSC",
+    "id": "63f2f324-80fd-469d-97b6-9fc209022ec1",
+    "title": "Electromechanical Technician",
+    "active": true,
+    "date_updated": 1765132140,
+    "date_posted": 1763712584,
+    "url": "https://tsc.wd12.myworkdayjobs.com/en-US/TSC-Careers/job/Plymouth-MA/Engineering-Technician_JR2294",
+    "locations": [
+      "Plymouth, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/3d3125df-3bbc-48fc-993c-8e2d0db65649",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
