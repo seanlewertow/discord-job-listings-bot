@@ -57032,5 +57032,41 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Deutsche Bank",
+    "id": "6f6db197-c4a0-4105-af58-973c3e5c434e",
+    "title": "Corporate Bank Technology - Payments Initiation - Java Engineer",
+    "active": true,
+    "date_updated": 1765273656,
+    "date_posted": 1765273656,
+    "url": "https://db.wd3.myworkdayjobs.com/DBWebsite/job/Cary-3000-CentreGreen-Way/Corporate-Bank-Technology---Payments-Initiation---Java-Engineer---Associate_R0414615-3",
+    "locations": [
+      "Morrisville, NC"
+    ],
+    "company_url": "https://simplify.jobs/c/Deutsche-Bank",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "Sysdig",
+    "id": "ea1072f7-4023-4d97-b51a-840d9b6e5864",
+    "title": "Senior Product Manager - East Coast",
+    "active": true,
+    "date_updated": 1765273656,
+    "date_posted": 1763771995,
+    "url": "https://jobs.lever.co/sysdig/2e7dc196-49b3-47cd-b5d3-66a5c2fce21d/apply",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/Sysdig",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
