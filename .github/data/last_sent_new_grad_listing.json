@@ -56699,5 +56699,95 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Honeywell",
+    "id": "7becbd09-f982-4159-bfe0-fa59192ce149",
+    "title": "Hardware Engineer 1 - Radar Team",
+    "active": true,
+    "date_updated": 1765240838,
+    "date_posted": 1765240838,
+    "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/129850",
+    "locations": [
+      "Phoenix, AZ"
+    ],
+    "company_url": "https://simplify.jobs/c/Honeywell",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Honeywell",
+    "id": "3d80156f-1f64-4bce-b6e2-ffc49fc91c9d",
+    "title": "Software Engineer 1",
+    "active": true,
+    "date_updated": 1765240852,
+    "date_posted": 1765240852,
+    "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/130270",
+    "locations": [
+      "Phoenix, AZ"
+    ],
+    "company_url": "https://simplify.jobs/c/Honeywell",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "Thermo Fisher Scientific",
+    "id": "06f02892-1a80-40a5-99b5-3b9f32a36417",
+    "title": "Product Management Specialist 1",
+    "active": true,
+    "date_updated": 1765242705,
+    "date_posted": 1765242705,
+    "url": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Pittsburgh-Pennsylvania-USA/Product-Management-Specialist-I_R-01336588",
+    "locations": [
+      "Pittsburgh, PA"
+    ],
+    "company_url": "https://simplify.jobs/c/Thermo-Fisher-Scientific",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Abbott",
+    "id": "65be1a52-2afd-4880-ac68-f082057dadad",
+    "title": "Software Engineer",
+    "active": true,
+    "date_updated": 1765242052,
+    "date_posted": 1765242052,
+    "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---California---San-Diego/Software-Engineer_31134512-1",
+    "locations": [
+      "San Diego, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Abbott",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Skild AI",
+    "id": "589eda5f-6e37-44b6-bbfd-2b18500dd181",
+    "title": "Robot Operator",
+    "active": true,
+    "date_updated": 1765242388,
+    "date_posted": 1750913715,
+    "url": "https://job-boards.greenhouse.io/skildai-careers/jobs/4782103008",
+    "locations": [
+      "San Mateo, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Skild-AI",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
