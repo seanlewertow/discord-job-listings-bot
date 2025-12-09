@@ -56898,5 +56898,41 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "8853a5a7-a3fe-491e-99db-acc13f07e728",
+    "title": "Trading Assistant - Shift",
+    "active": true,
+    "date_updated": 1765254451,
+    "date_posted": 1765254451,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400042581",
+    "locations": [
+      "Edinburgh, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Athena Health",
+    "id": "83b6d713-b228-464b-9534-09830fda36bb",
+    "title": "Analyst-Trading Partner Operations",
+    "active": true,
+    "date_updated": 1765257281,
+    "date_posted": 1765257281,
+    "url": "https://athenahealth.wd1.myworkdayjobs.com/en-US/External/job/Belfast-ME/Analyst--Trading-Partner-Operations_R13961",
+    "locations": [
+      "Bangor, ME"
+    ],
+    "company_url": "https://simplify.jobs/c/e955406a-7989-4ed8-aff1-01032b96e141",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
