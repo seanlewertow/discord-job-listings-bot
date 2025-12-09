@@ -57251,5 +57251,60 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "RTX",
+    "id": "95994a77-fbf7-4281-9204-e86c6333010c",
+    "title": "2026 Full-time - Software Engineer I - Onsite/CO",
+    "active": true,
+    "date_updated": 1765284841,
+    "date_posted": 1765284841,
+    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CO102-16800-E-Centretech-PkwyAurora-16800-East-Centretech-Pkwy-Building-S75-Aurora-CO-80011-USA/XMLNAME-2026-Full-time---Software-Engineer-I---Onsite--CO-_01810840",
+    "locations": [
+      "Aurora, CO"
+    ],
+    "company_url": "https://simplify.jobs/c/RTX",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "1X",
+    "id": "9f09f9dc-840e-404e-a376-4155306e95d5",
+    "title": "Data Analyst",
+    "active": true,
+    "date_updated": 1765284784,
+    "date_posted": 1759965820,
+    "url": "https://1x.recruitee.com/o/data-analyst",
+    "locations": [
+      "Palo Alto, CA",
+      "Hayward, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/1x",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Qualcomm",
+    "id": "8d4f1bea-93b8-4fa5-8f8f-6877e092b800",
+    "title": "Display Software Engineer - Software Engineering",
+    "active": true,
+    "date_updated": 1765284672,
+    "date_posted": 1763233576,
+    "url": "https://qualcomm.eightfold.ai/careers/job/446715352351",
+    "locations": [
+      "San Diego, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Qualcomm",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
