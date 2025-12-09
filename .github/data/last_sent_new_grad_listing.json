@@ -57472,5 +57472,23 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Hudson River Trading",
+    "id": "29099208-ccd7-46d8-a388-0c637f8b6c02",
+    "title": "Junior Crypto Electronic Trading Support Engineer",
+    "active": true,
+    "date_updated": 1765295710,
+    "date_posted": 1764642004,
+    "url": "https://www.hudsonrivertrading.com/careers/job/?gh_jid=7351141",
+    "locations": [
+      "London, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Hudson-River-Trading",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
