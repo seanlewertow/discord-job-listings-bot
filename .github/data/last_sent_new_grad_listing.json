@@ -56789,5 +56789,96 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "SpotOn",
+    "id": "4866aaea-e156-4428-93c0-80ea1e8467f2",
+    "title": "Product Partnerships Manager",
+    "active": true,
+    "date_updated": 1765246070,
+    "date_posted": 1765246070,
+    "url": "https://job-boards.greenhouse.io/spotonproduct/jobs/7546092003",
+    "locations": [
+      "Austin, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/SpotOn",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Leidos",
+    "id": "dfcb4de4-43e3-4358-9b43-736132a4af55",
+    "title": "Software Engineer C++",
+    "active": true,
+    "date_updated": 1765245494,
+    "date_posted": 1765245494,
+    "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Tewksbury-MA/Software-Engineer-C--_R-00171680",
+    "locations": [
+      "Tewksbury, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/Leidos",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Uhaul",
+    "id": "d0a946e0-7d84-4553-a15a-484f79bd207a",
+    "title": "Hitch Service Technician",
+    "active": true,
+    "date_updated": 1765245475,
+    "date_posted": 1765245475,
+    "url": "https://uhaul.wd1.myworkdayjobs.com/UhaulJobs/job/Albany-New-York/Hitch-Professional_R230384",
+    "locations": [
+      "Albany, NY"
+    ],
+    "company_url": "https://simplify.jobs/c/Uhaul",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "RTX",
+    "id": "c5f177db-b8b9-4b28-b489-86bf59cc91a9",
+    "title": "Software Engineer - Software Engineer",
+    "active": true,
+    "date_updated": 1765245469,
+    "date_posted": 1765245469,
+    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/RI101-1847-W-Main-Rd-1847-W-Main-Road-Nimitz-Building-Portsmouth-RI-02871-USA/XMLNAME-2026-Full-Time---Software-Engineer---Onsite--RI-_01810896",
+    "locations": [
+      "Bristol, RI"
+    ],
+    "company_url": "https://simplify.jobs/c/RTX",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "True Anomaly",
+    "id": "d0ea5e05-9a10-4412-9184-835f03f44abe",
+    "title": "Software Engineer 1 - Elixir",
+    "active": true,
+    "date_updated": 1765246584,
+    "date_posted": 1764291883,
+    "url": "https://job-boards.greenhouse.io/trueanomalyinc/jobs/4971623007",
+    "locations": [
+      "Long Beach, CA",
+      "Denver, CO"
+    ],
+    "company_url": "https://simplify.jobs/c/TrueAnomaly",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
