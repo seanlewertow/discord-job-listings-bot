@@ -57306,5 +57306,41 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Baselayer",
+    "id": "d3c8c2b7-4f6e-4828-a985-358b1b469a10",
+    "title": "Senior Backend Engineer",
+    "active": true,
+    "date_updated": 1765286266,
+    "date_posted": 1765286266,
+    "url": "https://job-boards.greenhouse.io/baselayer/jobs/5023887008",
+    "locations": [
+      "SF"
+    ],
+    "company_url": "https://simplify.jobs/c/Baselayer",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Four Seasons",
+    "id": "5e48bf0d-ce01-49f5-a717-6510b84c7ec9",
+    "title": "Trading Company Attendant",
+    "active": true,
+    "date_updated": 1765285234,
+    "date_posted": 1765285234,
+    "url": "https://fourseasons.wd3.myworkdayjobs.com/search/job/Naples/Trading-Company-Attendant_REQ10365525",
+    "locations": [
+      "Naples, FL"
+    ],
+    "company_url": "https://simplify.jobs/c/Four-Seasons",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
