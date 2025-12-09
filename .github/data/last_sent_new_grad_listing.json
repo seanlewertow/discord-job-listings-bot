@@ -57490,5 +57490,78 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "1aee91fe-64b6-498e-bd28-c03538e2f326",
+    "title": "Trading Assistant - Local",
+    "active": true,
+    "date_updated": 1765301773,
+    "date_posted": 1765301773,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400042653",
+    "locations": [
+      "Warrington, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "71033aec-f2ec-4c34-8668-a731a8a6518a",
+    "title": "Trading Assistant - Local",
+    "active": true,
+    "date_updated": 1765301774,
+    "date_posted": 1765301774,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400042650",
+    "locations": [
+      "Durham, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Corning",
+    "id": "c1b875ad-a151-4291-9a22-0cfac83b1842",
+    "title": "Measurement Technician",
+    "active": true,
+    "date_updated": 1765302062,
+    "date_posted": 1765302062,
+    "url": "https://corningjobs.corning.com/job/Wilmington-Measurement-Technician-NC-28405/1304713600/?ats=successfactors",
+    "locations": [
+      "Elmira, NY",
+      "Wilmington, NC"
+    ],
+    "company_url": "https://simplify.jobs/c/Corning",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "General Dynamics",
+    "id": "b9cdce49-691d-4644-ae87-8aa3c4cac069",
+    "title": "Web Application Developer",
+    "active": true,
+    "date_updated": 1765302018,
+    "date_posted": 1765302018,
+    "url": "https://careers-gdeb.icims.com/jobs/17081/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Groton, CT"
+    ],
+    "company_url": "https://simplify.jobs/c/General-Dynamics",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
