@@ -57068,5 +57068,43 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Cadence Design Systems",
+    "id": "fb26dd40-8917-45b8-b4b8-7d1f3398c046",
+    "title": "Software Development Engineer",
+    "active": true,
+    "date_updated": 1765275811,
+    "date_posted": 1765275811,
+    "url": "https://cadence.wd1.myworkdayjobs.com/University_Talent_NCG/job/Burlington-MA/Software-Development-Engineer--SDA--New-College-Grad-2026-_R52042",
+    "locations": [
+      "Burlington, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/Cadence-Design-Systems",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "QBE Insurance",
+    "id": "acb7fcc3-5228-4b54-9433-49cc2bfd8b8c",
+    "title": "Software Engineering Associate",
+    "active": true,
+    "date_updated": 1765275415,
+    "date_posted": 1765275415,
+    "url": "https://qbe.wd3.myworkdayjobs.com/qbe-careers/job/PHL---ThreeNEO/Software-Engineering-Associate_347265",
+    "locations": [
+      "Philadelphia, PA"
+    ],
+    "company_url": "https://simplify.jobs/c/QBE-Insurance",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
