@@ -57636,5 +57636,79 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Space Dynamics Laboratory",
+    "id": "71648b3d-e9d9-45a6-a608-6b3cb9002792",
+    "title": "Entry-Level AI&T Multidisciplinary Systems Engineer",
+    "active": true,
+    "date_updated": 1765321893,
+    "date_posted": 1765321893,
+    "url": "https://spacedynamicslaboratory.applytojob.com/apply/3jr6524YhM/EntryLevel-AIT-Multidisciplinary-Systems-Engineer",
+    "locations": [
+      "Logan, UT"
+    ],
+    "company_url": "https://simplify.jobs/c/Space-Dynamics-Laboratory",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "L3Harris Technologies",
+    "id": "da125702-3afb-4492-9623-de56591f2b8d",
+    "title": "Associate \u2013 Systems Engineer - Rochester - NY",
+    "active": true,
+    "date_updated": 1765321647,
+    "date_posted": 1765321647,
+    "url": "https://jobs.l3harris.com/job/Rochester-Associate,-Systems-Engineer-(Rochester,-NY)-NY-14610/1348562900/?ats=successfactors",
+    "locations": [
+      "Rochester, NY"
+    ],
+    "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Bernhard",
+    "id": "dc449cec-b3c3-4542-80e8-9b8ca16de746",
+    "title": "Utility Analyst 1",
+    "active": true,
+    "date_updated": 1765322306,
+    "date_posted": 1759310753,
+    "url": "https://careers-enfra.icims.com/jobs/8884/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Baton Rouge, LA"
+    ],
+    "company_url": "https://simplify.jobs/c/Bernhard",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Lucid Motors",
+    "id": "3a2d537a-294f-4bf6-948f-c85366952994",
+    "title": "Manufacturing Technician",
+    "active": true,
+    "date_updated": 1765322328,
+    "date_posted": 1758971664,
+    "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/4869582007",
+    "locations": [
+      "Casa Grande, AZ"
+    ],
+    "company_url": "https://simplify.jobs/c/Lucid-Motors",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
