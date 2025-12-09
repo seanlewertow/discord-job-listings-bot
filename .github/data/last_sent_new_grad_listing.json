@@ -57014,5 +57014,23 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Fermilab",
+    "id": "fe378e10-306c-4e88-b331-ddee2b81add2",
+    "title": "Compact Muon Solenoid Postdoctoral Research Associate",
+    "active": true,
+    "date_updated": 1765271288,
+    "date_posted": 1765271288,
+    "url": "https://fermilab.wd5.myworkdayjobs.com/FermilabCareers/job/Batavia/CMS-Postdoc--2026-number-1-of-2-_R_009151",
+    "locations": [
+      "Batavia, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/Fermilab",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
