@@ -57106,5 +57106,60 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Freeform",
+    "id": "b9b45c23-1024-4631-b390-9c8aeb92814f",
+    "title": "Software Engineer \u2013 New Grad Summer 2026",
+    "active": true,
+    "date_updated": 1765277006,
+    "date_posted": 1765277006,
+    "url": "https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7551045003",
+    "locations": [
+      "West Athens, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/FreeformFuture",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Horizon media",
+    "id": "58bee9c2-16b8-405f-b808-99db75ea28df",
+    "title": "Associate Data Science",
+    "active": true,
+    "date_updated": 1765276720,
+    "date_posted": 1765276720,
+    "url": "https://horizonmedia.wd1.myworkdayjobs.com/en-US/CareerOpportunities/job/New-York-New-York/Associate--Data-Science_R0016354",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/783568f2-87b3-4222-8741-7766d21bf8a7",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Equifax",
+    "id": "a4539cbf-3643-4984-86d7-d40d6e1a8089",
+    "title": "Product Support Engineer - Google Cloud Platform",
+    "active": true,
+    "date_updated": 1765276365,
+    "date_posted": 1765276365,
+    "url": "https://equifax.wd5.myworkdayjobs.com/external/job/CAN---Ontario---Toronto/Product-Support-Engineer---Google-Cloud-Platform_J00173249",
+    "locations": [
+      "Montreal, QC, Canada",
+      "Toronto, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Equifax",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
