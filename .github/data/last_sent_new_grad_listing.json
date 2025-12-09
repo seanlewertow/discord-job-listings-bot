@@ -57581,5 +57581,23 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Westwood",
+    "id": "465402d3-97d2-412c-8ce6-9bd15b721957",
+    "title": "GIS Specialist",
+    "active": true,
+    "date_updated": 1765308589,
+    "date_posted": 1761875056,
+    "url": "https://careers-westwoodps.icims.com/jobs/7494/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Hopkins, MN"
+    ],
+    "company_url": "https://simplify.jobs/c/Westwood",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
