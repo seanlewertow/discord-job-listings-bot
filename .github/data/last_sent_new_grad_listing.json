@@ -57599,5 +57599,42 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "eBay",
+    "id": "e4c18e61-5dfa-43f2-a7e8-6a4a903dfee0",
+    "title": "Applied Researcher 2 - Search Ranking",
+    "active": true,
+    "date_updated": 1765319811,
+    "date_posted": 1765319811,
+    "url": "https://ebay.wd5.myworkdayjobs.com/apply/job/San-Francisco/Applied-Researcher-1---Search-Ranking_R0066187",
+    "locations": [
+      "SF",
+      "San Jose, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/E-Bay",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "StepStone Group",
+    "id": "3e82fe50-bac7-4e86-a41b-c483e71879ad",
+    "title": "Analyst \u2013 Portfolio Management",
+    "active": true,
+    "date_updated": 1765321009,
+    "date_posted": 1764723373,
+    "url": "https://boards.greenhouse.io/embed/job_app?token=7438476",
+    "locations": [
+      "La Jolla, San Diego, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/StepStoneGroup",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
