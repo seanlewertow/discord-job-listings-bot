@@ -57342,5 +57342,99 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "date_updated": 1765288939,
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "degrees": [],
+    "url": "https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/645-Clyde-Avenue-Mountain-View-CA-USA/Staff-Engineer-I--Software-Process-Engineering_R112003",
+    "company_name": "Samsung",
+    "title": "Staff Engineer I, Software Process Engineering",
+    "locations": [
+      "Mountain View, CA"
+    ],
+    "category": "Software Engineering",
+    "source": "AlmondCroffle",
+    "id": "7379cf63-4a92-45c4-be55-7dee6a1f686c",
+    "date_posted": 1765288939,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1765288996,
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "degrees": [],
+    "url": "https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/6625-Excellence-Way-Plano-TX-USA/Software-Quality-Assurance-Associate_R111947",
+    "company_name": "Samsung",
+    "title": "Software Quality Assurance Associate",
+    "locations": [
+      "Plano, TX"
+    ],
+    "category": "Software Engineering",
+    "source": "AlmondCroffle",
+    "id": "f9f11ea1-225d-4bf0-9400-591d6e02eb0c",
+    "date_posted": 1765288996,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1765289063,
+    "sponsorship": "U.S. Citizenship is Required",
+    "active": true,
+    "degrees": [],
+    "url": "https://jobs.lever.co/wyetechllc/c1b8f940-b5ab-4647-832f-f8cdb3c360fa",
+    "company_name": "Wyetech",
+    "title": "Software Engineer 1",
+    "locations": [
+      "Annapolis Junction, MD"
+    ],
+    "category": "Software Engineering",
+    "source": "AlmondCroffle",
+    "id": "ad8e8528-09af-42f6-99da-800982f3277d",
+    "date_posted": 1765289063,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1765289113,
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "degrees": [
+      "Master's"
+    ],
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--Embodied-and-Agentic-AI---New-College-Grad-2026_JR2009464",
+    "company_name": "NVIDIA",
+    "title": "Research Scientist, Embodied and Agentic AI",
+    "locations": [
+      "Santa Clara, CA"
+    ],
+    "category": "Data Science, AI & Machine Learning",
+    "source": "AlmondCroffle",
+    "id": "a4b0b7fd-5550-42a5-af6d-8f7270f65929",
+    "date_posted": 1765289113,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1765289185,
+    "sponsorship": "U.S. Citizenship is Required",
+    "active": true,
+    "degrees": [
+      "Master's"
+    ],
+    "url": "https://bnl.wd1.myworkdayjobs.com/en-US/externa/job/Upton-NY/Machine-Learning-X-Ray-Spectroscopy_JR102174",
+    "company_name": "Brookhaven Lab",
+    "title": "Postdoctoral Research Associate - Machine Learning X-Ray Spectroscopy",
+    "locations": [
+      "Upton, NY"
+    ],
+    "category": "Data Science, AI & Machine Learning",
+    "source": "AlmondCroffle",
+    "id": "5de63f02-a48b-47e8-a16f-3d417b1c7a3d",
+    "date_posted": 1765289185,
+    "company_url": "",
+    "is_visible": true
   }
 ]
