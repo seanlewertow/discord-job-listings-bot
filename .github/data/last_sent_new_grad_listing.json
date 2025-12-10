@@ -58252,5 +58252,59 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "10a Labs",
+    "id": "ed300a7c-e2ed-47cc-b31e-30a29b54082a",
+    "title": "Data Assistant",
+    "active": true,
+    "date_updated": 1765371906,
+    "date_posted": 1765371906,
+    "url": "https://job-boards.greenhouse.io/10alabs/jobs/4075498009",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/10a-Labs",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Microsoft",
+    "id": "7d745b87-8bdf-4e77-a908-0673dc743c31",
+    "title": "Software Engineer 1",
+    "active": true,
+    "date_updated": 1765371435,
+    "date_posted": 1765371435,
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393556629509",
+    "locations": [
+      "Redmond, WA"
+    ],
+    "company_url": "https://simplify.jobs/c/Microsoft",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "EOS",
+    "id": "fccb2493-8f1a-498e-86d1-3a5ad1479180",
+    "title": "Data Center Repair Technician - Breakfix",
+    "active": true,
+    "date_updated": 1765371522,
+    "date_posted": 1764208706,
+    "url": "https://eosits.com/company/careers/?gh_jid=8310522002",
+    "locations": [
+      "Cheyenne, WY"
+    ],
+    "company_url": "https://simplify.jobs/c/EOS",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
