@@ -58580,5 +58580,96 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "GE Aerospace",
+    "id": "669f42bb-9a0f-4432-a13c-bb4a4c7ed3b2",
+    "title": "Assembly Technician",
+    "active": true,
+    "date_updated": 1765377678,
+    "date_posted": 1765377678,
+    "url": "https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Gloucester/Assembly-Technician_R5024469-1",
+    "locations": [
+      "Gloucester, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/GE-Aerospace",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "NiSource",
+    "id": "5ff557ac-fedb-421e-a5b7-46562188c726",
+    "title": "GIS Technician",
+    "active": true,
+    "date_updated": 1765376006,
+    "date_posted": 1765376006,
+    "url": "https://nisource.wd1.myworkdayjobs.com/NiSource/job/Chester-VA-Op-Ctr/GIS-Technician_R00941372-1",
+    "locations": [
+      "Petersburg, VA",
+      "Suffolk, VA"
+    ],
+    "company_url": "https://simplify.jobs/c/NiSource",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "O'Reilly Auto Parts",
+    "id": "0e71a04c-a5b5-403e-9fb1-565a492f217a",
+    "title": "Product Analyst - Data Analytics",
+    "active": true,
+    "date_updated": 1765379019,
+    "date_posted": 1765379019,
+    "url": "https://oreillyauto.wd1.myworkdayjobs.com/oreilly/job/Remote-Missouri/Product-Analyst---Data-Analytics_R146913",
+    "locations": [
+      "Missouri"
+    ],
+    "company_url": "https://simplify.jobs/c/OReilly-Auto-Parts",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Cadence Design Systems",
+    "id": "f18eacf5-c945-4376-ba11-5376a98b90fa",
+    "title": "Application Engineer",
+    "active": true,
+    "date_updated": 1765377631,
+    "date_posted": 1765377631,
+    "url": "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SAN-JOSE/Application-Engineer_R52105",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Cadence-Design-Systems",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Acelero",
+    "id": "69a948d0-8b45-4033-99f9-1e9ed2d76f3e",
+    "title": "Data Analysis Coordinator",
+    "active": true,
+    "date_updated": 1765377675,
+    "date_posted": 1765377675,
+    "url": "https://acelero.wd1.myworkdayjobs.com/acelerolearningcareers/job/DE---Milton---Prime-Hook-Road/Data-Services-Coordinator_JR7544",
+    "locations": [
+      "Georgetown, DE"
+    ],
+    "company_url": "https://simplify.jobs/c/Acelero",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
