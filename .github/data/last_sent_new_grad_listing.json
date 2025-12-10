@@ -58999,5 +58999,103 @@
     "date_posted": 1765391143,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Astreya",
+    "id": "a667c8b8-1982-49dc-b006-11f921bdb59f",
+    "title": "Fiber Network Mapping Specialist 4",
+    "active": true,
+    "date_updated": 1765390513,
+    "date_posted": 1765390513,
+    "url": "https://astreya.wd5.myworkdayjobs.com/life-at-astreya-opportunities/job/Remote-CO/Fiber-Network-Mapping-Specialist-IV_R0014038",
+    "locations": [
+      "Denver, CO"
+    ],
+    "company_url": "https://simplify.jobs/c/Astreya",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "date_updated": 1765391477,
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "degrees": [],
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210691366",
+    "company_name": "JP Morgan Chase",
+    "title": "Quantitative Analytics Associate- Remediations & Corrections",
+    "locations": [
+      "Tempe, TX",
+      "Plano, TX",
+      "Fort Worth, TX",
+      "Columbus, OH"
+    ],
+    "category": "Quantitative Finance",
+    "source": "AlmondCroffle",
+    "id": "84bafbd7-e444-4373-b094-4b2e5430e5e0",
+    "date_posted": 1765391477,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1765391510,
+    "sponsorship": "U.S. Citizenship is Required",
+    "active": true,
+    "degrees": [],
+    "url": "https://leidos.wd5.myworkdayjobs.com/en-US/External/job/McLean-VA/Junior-Transportation-Data-Scientist_R-00171849",
+    "company_name": "Leidos",
+    "title": "Junior Transportation Data Scientist",
+    "locations": [
+      "McLean, VA"
+    ],
+    "category": "Data Science, AI & Machine Learning",
+    "source": "AlmondCroffle",
+    "id": "5d66c3d9-bdb2-4ce5-8a4d-b4aa93357bf8",
+    "date_posted": 1765391510,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1765391603,
+    "sponsorship": "Other",
+    "active": true,
+    "degrees": [
+      "Master's"
+    ],
+    "url": "https://ms.wd5.myworkdayjobs.com/en-US/external/job/New-York-New-York-United-States-of-America/Market-Risk-Analytics-Associate--Stress-Testing-and-AI-Integration_PT-JR025318",
+    "company_name": "Morgan Stanley",
+    "title": "Market Risk Analytics Associate, Stress Testing and AI Integration",
+    "locations": [
+      "New York, NY"
+    ],
+    "category": "Data Science, AI & Machine Learning",
+    "source": "AlmondCroffle",
+    "id": "f79aafda-9e50-4377-8305-c04b4f824cf0",
+    "date_posted": 1765391603,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1765391665,
+    "sponsorship": "Other",
+    "active": true,
+    "degrees": [
+      "Master's"
+    ],
+    "url": "https://truist.wd1.myworkdayjobs.com/en-US/Careers/job/Charlotte-NC/Quantitative-Model-Validation-Officer-I_R0108804",
+    "company_name": "Truist",
+    "title": "Quantitative Model Validation Officer I",
+    "locations": [
+      "Charlotte, NC",
+      "Atlanta, GA"
+    ],
+    "category": "Quantitative Finance",
+    "source": "AlmondCroffle",
+    "id": "d7f88680-2fb6-4d69-aac6-507d0607141e",
+    "date_posted": 1765391665,
+    "company_url": "",
+    "is_visible": true
   }
 ]
