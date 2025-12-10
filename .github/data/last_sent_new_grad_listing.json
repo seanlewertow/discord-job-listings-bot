@@ -58671,5 +58671,43 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Northrop Grumman",
+    "id": "20343fac-1cbf-41bd-8e1f-99543bd3e649",
+    "title": "Software Engineer - Level 2 or 3",
+    "active": true,
+    "date_updated": 1765381642,
+    "date_posted": 1765381642,
+    "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Boulder/Software-Engineer---Level-2-or-3_R10216455-1",
+    "locations": [
+      "Boulder, CO"
+    ],
+    "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "VCU Health",
+    "id": "f67e3a1d-6d50-4efb-81ff-86611c63798a",
+    "title": "AI Engineer 2",
+    "active": true,
+    "date_updated": 1765376955,
+    "date_posted": 1765376955,
+    "url": "https://vcuhealth.wd1.myworkdayjobs.com/vcuhealth_careers/job/Remote/AI-Engineer-II_R40510",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/VCU-Health",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
