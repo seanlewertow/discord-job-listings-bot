@@ -58098,5 +58098,46 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Mechanize",
+    "id": "95cfcae1-13a4-46ee-998d-53e2d76bbe2f",
+    "title": "Junior Software Engineer",
+    "active": true,
+    "date_updated": 1765360795,
+    "date_posted": 1763712704,
+    "url": "https://jobs.ashbyhq.com/mechanize/b50c89dc-001c-4fb6-a4fc-a9f52f35b490/application",
+    "locations": [
+      "SF"
+    ],
+    "company_url": "https://simplify.jobs/c/Mechanize",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Pathward",
+    "id": "775172f8-8baa-46d6-adb1-ebee221807cf",
+    "title": "Data Scientist 1",
+    "active": true,
+    "date_updated": 1765360778,
+    "date_posted": 1765360778,
+    "url": "https://job-boards.greenhouse.io/pathward/jobs/5722623004",
+    "locations": [
+      "Louisville, KY",
+      "Easton, PA",
+      "Sioux Falls, SD",
+      "Franklin, TN",
+      "Troy, MI",
+      "Scottsdale, AZ"
+    ],
+    "company_url": "https://simplify.jobs/c/Pathward",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
