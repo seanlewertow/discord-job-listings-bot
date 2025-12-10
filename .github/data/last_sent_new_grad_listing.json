@@ -59115,5 +59115,95 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Westinghouse Electric Company",
+    "id": "0879a0f7-f900-4c5a-960b-703449a0c206",
+    "title": "Engineer 1",
+    "active": true,
+    "date_updated": 1765408387,
+    "date_posted": 1765408387,
+    "url": "https://careers.westinghousenuclear.com/job/Warrendale-Engineer-I-OR/1248858200/?ats=successfactors",
+    "locations": [
+      "Cranberry Twp, PA"
+    ],
+    "company_url": "https://simplify.jobs/c/Westinghouse-Electric-Company",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Ensora Health",
+    "id": "f6bbfb2d-0fb5-4ba9-99b6-fbc43765bafe",
+    "title": "Associate Mobile App Developer",
+    "active": true,
+    "date_updated": 1765408071,
+    "date_posted": 1765408071,
+    "url": "https://therapybrands.wd1.myworkdayjobs.com/EnsoraHealth/job/Remote---North-Carolina/Associate-Mobile-App-Developer_R402",
+    "locations": [
+      "North Carolina"
+    ],
+    "company_url": "https://simplify.jobs/c/Ensora-Health",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "CommScope",
+    "id": "d9222782-cc94-4016-b09f-5bcb3ad80b01",
+    "title": "Engineering Technician",
+    "active": true,
+    "date_updated": 1765407895,
+    "date_posted": 1765407895,
+    "url": "https://jobs.commscope.com/job/Lowell-Engineering-Technician-Mass-01854/1344576900/?ats=successfactors",
+    "locations": [
+      "Lowell, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/CommScope",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Whoop",
+    "id": "acd8252f-d339-4122-aef7-4c65e5952c6f",
+    "title": "Software Engineer 1 - Backend - Healthcare",
+    "active": true,
+    "date_updated": 1765407988,
+    "date_posted": 1765407988,
+    "url": "https://jobs.lever.co/whoop/02b3ba78-ccb4-40a4-94b3-6b14c71eed9e/apply",
+    "locations": [
+      "Boston, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/Whoop",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Utah State University",
+    "id": "89c25834-99f4-4895-b8a3-34a98c253a3b",
+    "title": "ServiceNow Junior Developer",
+    "active": true,
+    "date_updated": 1765408457,
+    "date_posted": 1763167443,
+    "url": "https://careers-usu.icims.com/jobs/9751/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Logan, UT"
+    ],
+    "company_url": "https://simplify.jobs/c/Utah-State-University",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
