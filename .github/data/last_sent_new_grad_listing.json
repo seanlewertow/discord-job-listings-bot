@@ -58727,5 +58727,95 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Cintas",
+    "id": "26eccba9-0270-43c3-b777-fdc458fbff94",
+    "title": "SAP Developer - Level 1",
+    "active": true,
+    "date_updated": 1765383999,
+    "date_posted": 1765383999,
+    "url": "https://careers.cintas.com/job/Mason-SAP-Developer-Level-1-OH-45040/1348727800/?ats=successfactors",
+    "locations": [
+      "Mason, OH"
+    ],
+    "company_url": "https://simplify.jobs/c/Cintas",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "RTX",
+    "id": "bf57d499-c530-4912-ac5e-65f02063a5c5",
+    "title": "Software Engineer 1",
+    "active": true,
+    "date_updated": 1765384527,
+    "date_posted": 1765384527,
+    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA826-200-Holger-WaySan-Jose-200-Holger-Way---San-Jose-CA-95134-USA/Software-Engineer-I--Onsite-_01811717",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/RTX",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "b7787cb7-6935-458a-bf19-1bd887d79a4a",
+    "title": "Trading Assistant - Local",
+    "active": true,
+    "date_updated": 1765383783,
+    "date_posted": 1765383783,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400042822",
+    "locations": [
+      "Stratford-upon-Avon, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "The University of Edinburgh",
+    "id": "9a0d451f-53ca-4a30-99e2-690465435126",
+    "title": "CDT Administrator for Designing Responsible Natural Language Processing CDT",
+    "active": true,
+    "date_updated": 1765383930,
+    "date_posted": 1765383930,
+    "url": "https://elxw.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/13482",
+    "locations": [
+      "Edinburgh, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/The-University-Of-Edinburgh",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "South West Water",
+    "id": "55903b12-b0f1-45ed-80fb-41dbc8059915",
+    "title": "Alarm Optimisation Technical Assistant",
+    "active": true,
+    "date_updated": 1765383767,
+    "date_posted": 1765383767,
+    "url": "https://jobs.lever.co/southwestwater/0a25ce82-a8fe-4332-8c97-9bb55fd0ab65/apply",
+    "locations": [
+      "Exeter, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/South-West-Water",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
