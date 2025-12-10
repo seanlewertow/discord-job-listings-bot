@@ -58044,5 +58044,59 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "EquipmentShare",
+    "id": "89d7f2d3-acfd-4e4a-9d0c-a2ca53f9fcfc",
+    "title": "Telematics Installer",
+    "active": true,
+    "date_updated": 1765360042,
+    "date_posted": 1765360042,
+    "url": "https://www.equipmentshare.com/careers/openings/?gh_jid=7453450",
+    "locations": [
+      "Denver, CO"
+    ],
+    "company_url": "https://simplify.jobs/c/Equipment-Share",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "EquipmentShare",
+    "id": "1a7c227d-712c-445a-b5d5-0697eeec1ffc",
+    "title": "MDM \u2013 Master Data Management - Parts Specialist",
+    "active": true,
+    "date_updated": 1765360030,
+    "date_posted": 1765360030,
+    "url": "https://www.equipmentshare.com/careers/openings/?gh_jid=7426308",
+    "locations": [
+      "Columbia, MO"
+    ],
+    "company_url": "https://simplify.jobs/c/Equipment-Share",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Quest Global",
+    "id": "f39d990f-860a-4e96-bb81-459b2aa38db4",
+    "title": "Data Analyst - Python/SQL + Finance knowledge",
+    "active": true,
+    "date_updated": 1765359356,
+    "date_posted": 1765359356,
+    "url": "https://careers.quest-global.com/global/en/job/P-113946",
+    "locations": [
+      "Houston, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Quest-Global",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
