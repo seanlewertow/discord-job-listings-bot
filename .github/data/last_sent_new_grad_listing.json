@@ -58398,5 +58398,97 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "T-Mobile",
+    "id": "13dcf8d2-7a29-4347-8364-c6f4f28fe982",
+    "title": "Associate Engineer - Software",
+    "active": true,
+    "date_updated": 1765376221,
+    "date_posted": 1765376221,
+    "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Frisco-Texas/Assoc-Engineer--Software_REQ338019",
+    "locations": [
+      "Frisco, TX",
+      "Bellevue, WA",
+      "Overland Park, KS"
+    ],
+    "company_url": "https://simplify.jobs/c/T-Mobile",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "TD Synnex",
+    "id": "d0a762e4-086c-40b5-8641-67cbce3a61c0",
+    "title": "Intergration Technician 1 Technicien - Ne - En int\u00e9gration I - Conv",
+    "active": true,
+    "date_updated": 1765375805,
+    "date_posted": 1765375805,
+    "url": "https://synnex.wd5.myworkdayjobs.com/tdsynnexcareers/job/Mississauga-Ontario-Canada/Intergration-Technician-I-Technicien--ne--en-intgration-I--CONV-_R45672",
+    "locations": [
+      "Mississauga, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/TD-Synnex",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Samsung",
+    "id": "3ceb09d4-f2d3-4df9-8c90-f70f76668048",
+    "title": "CVD Equipment Technician - Days",
+    "active": true,
+    "date_updated": 1765375994,
+    "date_posted": 1765375994,
+    "url": "https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/12100-Samsung-Blvd-Austin-TX-USA/CVD-Equipment-Technician---Days_R110094-1",
+    "locations": [
+      "Austin, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Samsung",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Huntington Bancshares",
+    "id": "e9521723-a8b4-4add-97bf-a939f408a05b",
+    "title": "Technology Delivery Analyst - Elevate",
+    "active": true,
+    "date_updated": 1765374524,
+    "date_posted": 1765374524,
+    "url": "https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Minnetonka-MN/Technology-Delivery-Analyst--Elevate-_R0067569",
+    "locations": [
+      "Hopkins, MN"
+    ],
+    "company_url": "https://simplify.jobs/c/Huntington-Bancshares",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "RTX",
+    "id": "75876bc9-7218-4153-8ed2-b1270d05c522",
+    "title": "System Engineer 2",
+    "active": true,
+    "date_updated": 1765375087,
+    "date_posted": 1765375087,
+    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CO210-9970-Federal-Drive-Colo-Spr-9970-Federal-Drive---Colorado-Springs-CO-80921-USA/System-Engineer-II--Onsite-_01811453",
+    "locations": [
+      "Colorado Springs, CO"
+    ],
+    "company_url": "https://simplify.jobs/c/RTX",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
