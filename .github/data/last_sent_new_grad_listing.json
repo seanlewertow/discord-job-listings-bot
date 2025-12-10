@@ -58490,5 +58490,95 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "The Boeing Company",
+    "id": "8810576f-b428-42bd-ab6c-fdb329728fb6",
+    "title": "Audiovisual Engineer",
+    "active": true,
+    "date_updated": 1765378024,
+    "date_posted": 1765378024,
+    "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Herndon-VA/Audiovisual-Engineer_JR2025488037-1",
+    "locations": [
+      "Reston, VA"
+    ],
+    "company_url": "https://simplify.jobs/c/Boeing",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Uhaul",
+    "id": "4a96e4d2-c0e7-4234-bbc5-a7a09657cf00",
+    "title": "Business Intelligence Analyst",
+    "active": true,
+    "date_updated": 1765378214,
+    "date_posted": 1765378214,
+    "url": "https://uhaul.wd1.myworkdayjobs.com/UhaulJobs/job/Phoenix-Arizona/Business-Intelligence-Analyst_R233902",
+    "locations": [
+      "Phoenix, AZ"
+    ],
+    "company_url": "https://simplify.jobs/c/Uhaul",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Manulife Financial",
+    "id": "245b74c0-fa2d-4b6f-8613-61cbd94722c3",
+    "title": "Associate Full Stack Engineer",
+    "active": true,
+    "date_updated": 1765377768,
+    "date_posted": 1765377768,
+    "url": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Toronto-Ontario/Associate-Full-Stack-Engineer_JR25111609-1",
+    "locations": [
+      "Toronto, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Manulife-Financial",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "CACI",
+    "id": "24aab221-d10a-43e8-8c31-b7d270bf4a74",
+    "title": "Entry-Level AI/ML Software Engineer",
+    "active": true,
+    "date_updated": 1765377597,
+    "date_posted": 1765377597,
+    "url": "https://caci.wd1.myworkdayjobs.com/external/job/Remote-Any-State/Entry-Level-AI-ML-Software-Engineer_320317",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/CACI",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Marvell",
+    "id": "17fc1f39-e2cd-4ac5-88ce-a1d879ae9648",
+    "title": "Analog Layout \u2013 Entry Level Professional - Elp - Bachelor's Degree",
+    "active": true,
+    "date_updated": 1765377761,
+    "date_posted": 1765377761,
+    "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Toronto-Canada/Analog-Layout---Entry-Level-Professional---ELP----Bachelor-s-Degree_2503795-2",
+    "locations": [
+      "Toronto, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Marvell",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
