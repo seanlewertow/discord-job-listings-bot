@@ -58177,5 +58177,80 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "D2L",
+    "id": "4f5e74ec-73cb-4c30-887b-3f97e6fdacd6",
+    "title": "Software Developer \u2013 New Graduate",
+    "active": true,
+    "date_updated": 1765365281,
+    "date_posted": 1765365281,
+    "url": "https://www.d2l.com/careers/jobs/?job_id=7455458&gh_jid=7455458",
+    "locations": [
+      "Winnipeg, MB, Canada",
+      "Toronto, ON, Canada",
+      "Kitchener, ON, Canada",
+      "Vancouver, BC, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/D2L",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Baselayer",
+    "id": "268a946b-7b26-445c-95e3-f7d0e6aac6af",
+    "title": "Senior Data Engineer",
+    "active": true,
+    "date_updated": 1765364809,
+    "date_posted": 1765364809,
+    "url": "https://job-boards.greenhouse.io/baselayer/jobs/5023888008",
+    "locations": [
+      "SF"
+    ],
+    "company_url": "https://simplify.jobs/c/Baselayer",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Lucid Motors",
+    "id": "114c3bfa-3cb4-4fc3-9236-cdbbb804d74f",
+    "title": "Perception Software Engineer - Adas",
+    "active": true,
+    "date_updated": 1765365376,
+    "date_posted": 1765261674,
+    "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/4873959007",
+    "locations": [
+      "Southfield, MI"
+    ],
+    "company_url": "https://simplify.jobs/c/Lucid-Motors",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Lucid Motors",
+    "id": "0de23d2f-eec2-4d79-b45a-faa5ffa6c130",
+    "title": "Vehicle Development Engineer 1 - Vehicle Test",
+    "active": true,
+    "date_updated": 1765365740,
+    "date_posted": 1759608209,
+    "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/4872264007",
+    "locations": [
+      "Newark, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Lucid-Motors",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
