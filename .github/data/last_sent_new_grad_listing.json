@@ -57859,5 +57859,23 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Palo Alto Networks",
+    "id": "5d1c78fd-b791-4511-bc48-46cd4aeae96b",
+    "title": "Senior Software Engineer in Test Prisma Access - AI Automation Engineer",
+    "active": true,
+    "date_updated": 1765342076,
+    "date_posted": 1765342076,
+    "url": "https://jobs.smartrecruiters.com/PaloAltoNetworks2/744000097858455",
+    "locations": [
+      "Santa Clara, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Palo-Alto-Networks",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
