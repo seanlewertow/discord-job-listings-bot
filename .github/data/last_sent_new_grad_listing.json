@@ -57805,5 +57805,23 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "ServiceNow",
+    "id": "c542787b-6af7-42d4-ad4e-4d22e0b3ac20",
+    "title": "Software Engineer",
+    "active": true,
+    "date_updated": 1765332936,
+    "date_posted": 1765332936,
+    "url": "https://jobs.smartrecruiters.com/ServiceNow/744000097842868",
+    "locations": [
+      "Santa Clara, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/ServiceNow",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
