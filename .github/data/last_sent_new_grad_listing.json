@@ -57877,5 +57877,41 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "RTX",
+    "id": "8da6ac2c-50fd-4bb6-88e4-a7f84647739b",
+    "title": "Modeling Simulation and Analysis Engineer 2",
+    "active": true,
+    "date_updated": 1765355212,
+    "date_posted": 1765355212,
+    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/AZ849-RMS-AP-Bldg-849-1151-East-Hermans-Road-Building-849-Tucson-AZ-85756-USA/XMLNAME-2026-Modeling-Simulation-and-Analysis-Engineer-II---Onsite---Tucson--AZ_01794105",
+    "locations": [
+      "Tucson, AZ"
+    ],
+    "company_url": "https://simplify.jobs/c/RTX",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Huntington Bancshares",
+    "id": "485e3db8-2c54-414c-a9ad-04068a47c9a8",
+    "title": "Technology Delivery Analyst - Elevate",
+    "active": true,
+    "date_updated": 1765354762,
+    "date_posted": 1765354762,
+    "url": "https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Minnetonka-MN/Technology-Delivery-Analyst--Elevate-_R0067554",
+    "locations": [
+      "Hopkins, MN"
+    ],
+    "company_url": "https://simplify.jobs/c/Huntington-Bancshares",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
