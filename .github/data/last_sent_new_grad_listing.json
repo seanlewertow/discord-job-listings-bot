@@ -58306,5 +58306,97 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "The Pok\u00e9mon Company",
+    "id": "5118fe87-b0c9-4ea1-ae38-d14424d00636",
+    "title": "Associate Game Producer",
+    "active": true,
+    "date_updated": 1765372892,
+    "date_posted": 1765372892,
+    "url": "https://job-boards.greenhouse.io/pokemoncareers/jobs/7519801003",
+    "locations": [
+      "Bellevue, WA"
+    ],
+    "company_url": "https://simplify.jobs/c/Pokemon",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "Liberis",
+    "id": "24e9fec6-f41c-43f4-b955-7874d3cb1f74",
+    "title": "Product Operations Associate",
+    "active": true,
+    "date_updated": 1765374562,
+    "date_posted": 1765374562,
+    "url": "https://job-boards.greenhouse.io/liberis/jobs/7454679",
+    "locations": [
+      "London, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Liberis",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Microsoft",
+    "id": "d925fe35-58b3-4aa8-97dc-e0d2878cf8e3",
+    "title": "Applied Scientist",
+    "active": true,
+    "date_updated": 1765371885,
+    "date_posted": 1765371885,
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393556619598",
+    "locations": [
+      "Redmond, WA"
+    ],
+    "company_url": "https://simplify.jobs/c/Microsoft",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Leidos",
+    "id": "deb07f7d-f3d0-4255-a529-010cf9b5c39c",
+    "title": "Electronics Mechanical Assembly Technician",
+    "active": true,
+    "date_updated": 1765372138,
+    "date_posted": 1763889847,
+    "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Electronics-Mechanical-Assembly-Technician_R-00168633",
+    "locations": [
+      "Huntsville, AL"
+    ],
+    "company_url": "https://simplify.jobs/c/Leidos",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Roku",
+    "id": "47208504-b97d-4aa9-8953-4c4fa8d4555a",
+    "title": "Software Engineer - Frontend",
+    "active": true,
+    "date_updated": 1765370923,
+    "date_posted": 1763666036,
+    "url": "https://www.weareroku.com/jobs/7405998?gh_jid=7405998",
+    "locations": [
+      "Cambridge, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Roku",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
