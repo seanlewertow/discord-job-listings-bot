@@ -57710,5 +57710,100 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "ServiceNow",
+    "id": "843e165a-f7bf-4702-9673-58a73d16094a",
+    "title": "Software Engineer",
+    "active": true,
+    "date_updated": 1765325177,
+    "date_posted": 1765325177,
+    "url": "https://jobs.smartrecruiters.com/ServiceNow/744000097810940",
+    "locations": [
+      "Santa Clara, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/ServiceNow",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "General Dynamics",
+    "id": "bcd1bd1f-d5ee-42ab-b92f-29e3007cbd3e",
+    "title": "Engineer - Obsolescence",
+    "active": true,
+    "date_updated": 1765328886,
+    "date_posted": 1765328886,
+    "url": "https://careers-gdeb.icims.com/jobs/15327/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Groton, CT"
+    ],
+    "company_url": "https://simplify.jobs/c/General-Dynamics",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "JP Morgan Chase",
+    "id": "27dda11d-5c70-4b20-a5a5-8b786a272bcc",
+    "title": "Product Implementation Specialist - Foundations",
+    "active": true,
+    "date_updated": 1765329279,
+    "date_posted": 1765329279,
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210666016",
+    "locations": [
+      "Plano, TX",
+      "Chicago, IL",
+      "Charlotte, NC"
+    ],
+    "company_url": "https://simplify.jobs/c/JP-Morgan-Chase",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Liberty Mutual",
+    "id": "451d2bfc-0e94-4f70-89bb-a014fa685008",
+    "title": "Analyst 1 - Data Science",
+    "active": true,
+    "date_updated": 1765328500,
+    "date_posted": 1765328500,
+    "url": "https://careers-libertymutual.icims.com/jobs/73511/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Boston, MA",
+      "Seattle, WA",
+      "Plano, TX",
+      "Columbus, OH"
+    ],
+    "company_url": "https://simplify.jobs/c/Liberty-Mutual",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Intuit",
+    "id": "efc0dbf7-31a4-4029-a359-c618fda541ae",
+    "title": "SWE1 \u2013 Data",
+    "active": true,
+    "date_updated": 1765328311,
+    "date_posted": 1765328311,
+    "url": "https://jobs.intuit.com/job/mountain-view/swe1-data/27595/89339344192",
+    "locations": [
+      "Mountain View, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Intuit",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
