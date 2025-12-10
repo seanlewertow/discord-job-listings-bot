@@ -57913,5 +57913,100 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "NVIDIA",
+    "id": "a9d02b6a-d453-49e8-9bd5-b811d7a57d8f",
+    "title": "ASIC Clocks Design Engineer \u2013 New College Grad 2025",
+    "active": true,
+    "date_updated": 1765356525,
+    "date_posted": 1765356525,
+    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/ASIC-Clocks-Design-Engineer---New-College-Grad-2025_JR2004939",
+    "locations": [
+      "Austin, TX",
+      "Santa Clara, CA",
+      "United States"
+    ],
+    "company_url": "https://simplify.jobs/c/NVIDIA",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "NVIDIA",
+    "id": "8657ccb9-ad7b-4d2b-b96b-b309c1dee25a",
+    "title": "Research Scientist \u2013 New College Grad 2026 - Embodied and Agentic AI",
+    "active": true,
+    "date_updated": 1765356533,
+    "date_posted": 1765356533,
+    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--Embodied-and-Agentic-AI---New-College-Grad-2026_JR2009464",
+    "locations": [
+      "Santa Clara, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/NVIDIA",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "PhD"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Sierra Nevada Corporation",
+    "id": "5c5e4083-324c-4c0a-8e02-6b95c8a27a1d",
+    "title": "Business Intelligence Developer 1",
+    "active": true,
+    "date_updated": 1765356515,
+    "date_posted": 1765356515,
+    "url": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Sparks-NV/Business-Intelligence-Developer-I_R0028996-1",
+    "locations": [
+      "Hagerstown, MD",
+      "Sparks, NV"
+    ],
+    "company_url": "https://simplify.jobs/c/Sierra-Nevada-Corporation",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "NVIDIA",
+    "id": "27cfd8f1-5567-4d58-a5d0-c70682b6ce19",
+    "title": "ASIC Hardware Design Engineer",
+    "active": true,
+    "date_updated": 1765356520,
+    "date_posted": 1765356520,
+    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-TX-Austin/ASIC-Hardware-Design-Engineer---New-College-Grad-2025_JR1999119",
+    "locations": [
+      "Austin, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/NVIDIA",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "RTX",
+    "id": "4ff19075-d71e-4cf2-83cc-984836fcf3bd",
+    "title": "2026 Fulltime Raytheon Systems Engineer 2",
+    "active": true,
+    "date_updated": 1765355237,
+    "date_posted": 1765355237,
+    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/GA202-1230-Carl-Vinson-Pkwy-RobinsEC-1230-Carl-Vinson-Parkway-Robins-Engineering-Center-Warner-Robins-GA-31093-USA/XMLNAME-2026-Fulltime-Raytheon-Systems-Engineer-II---Onsite_01807691",
+    "locations": [
+      "Warner Robins, GA"
+    ],
+    "company_url": "https://simplify.jobs/c/RTX",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
