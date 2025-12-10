@@ -58139,5 +58139,43 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Colorado School of Mines",
+    "id": "e66f8b81-c7b4-4385-8d53-5dedd89aaeaa",
+    "title": "Post-Doctoral Fellow - Metallurgical and Materials Engineering",
+    "active": true,
+    "date_updated": 1765363961,
+    "date_posted": 1765222792,
+    "url": "https://mines.wd1.myworkdayjobs.com/mines_careers/job/Colorado/Post-Doctoral-Fellow--Physics_JR107789",
+    "locations": [
+      "Golden, CO"
+    ],
+    "company_url": "https://simplify.jobs/c/Colorado-School-Of-Mines",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "PhD"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Leidos",
+    "id": "cd6d795e-898f-4ac1-9e32-9371ffe6150b",
+    "title": "GenAI Contact Center as a Service Application Developer",
+    "active": true,
+    "date_updated": 1765363947,
+    "date_posted": 1763889795,
+    "url": "https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/GENAI-CCAS-Application-Developer_R-00170128",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/Leidos",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
