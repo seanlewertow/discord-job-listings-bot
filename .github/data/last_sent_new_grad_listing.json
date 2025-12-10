@@ -58709,5 +58709,23 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Bank of Montreal",
+    "id": "fb99e53e-97f7-4412-a86f-92f0ad8f8870",
+    "title": "Associate Full Stack Engineer",
+    "active": true,
+    "date_updated": 1765382273,
+    "date_posted": 1765382273,
+    "url": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Associate--Full-Stack-Engineer_R250030896",
+    "locations": [
+      "Toronto, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/BMO",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
