@@ -58907,5 +58907,97 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "date_updated": 1765390836,
+    "sponsorship": "U.S. Citizenship is Required",
+    "active": true,
+    "degrees": [],
+    "url": "https://caci.wd1.myworkdayjobs.com/en-US/External/job/US-MD-Hanover/Data-Dictionary-Software-Engineer-1_320288",
+    "company_name": "CACI",
+    "title": "Data Dictionary Software Engineer 1",
+    "locations": [
+      "Hanover, MD"
+    ],
+    "category": "Software Engineering",
+    "source": "AlmondCroffle",
+    "id": "9a7dcd35-74b9-4041-a1bd-6a2296846e86",
+    "date_posted": 1765390836,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1765390964,
+    "sponsorship": "U.S. Citizenship is Required",
+    "active": true,
+    "degrees": [],
+    "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Maryland-Linthicum/Data-Engineer_R10213226",
+    "company_name": "Northrop Grumman",
+    "title": "Associate Data Engineer/ Data Engineer",
+    "locations": [
+      "Linthicum, MD",
+      "Annapolis Junction, MD"
+    ],
+    "category": "Data Science, AI & Machine Learning",
+    "source": "AlmondCroffle",
+    "id": "940053f0-36ed-4460-ba73-aca622ff9fee",
+    "date_posted": 1765390964,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1765391052,
+    "sponsorship": "U.S. Citizenship is Required",
+    "active": true,
+    "degrees": [],
+    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/MA801-Marlborough-MA-1001-Boston-Post-Road-Building-2-Marlborough-MA-01752-USA/Software-Infrastructure-Engineer-I--Onsite-_01811499",
+    "company_name": "RTX",
+    "title": "Software Infrastructure Engineer I (Onsite)",
+    "locations": [
+      "Marlborough, MA"
+    ],
+    "category": "Software Engineering",
+    "source": "AlmondCroffle",
+    "id": "a9996892-84d2-4651-922e-6d13a73c698a",
+    "date_posted": 1765391052,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1765391104,
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "degrees": [],
+    "url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareerdc/job/Bristol-CT-USA/Software-Engineer-I_10137037",
+    "company_name": "Disney",
+    "title": "Software Engineer I",
+    "locations": [
+      "Bristol, CT"
+    ],
+    "category": "Software Engineering",
+    "source": "AlmondCroffle",
+    "id": "a0765687-b194-4e84-9eb7-4b4f86a66d3c",
+    "date_posted": 1765391104,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1765391143,
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "degrees": [],
+    "url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareerdc/job/Santa-Monica-CA-USA/Software-Engineer-I_10136358",
+    "company_name": "Disney",
+    "title": "Software Engineer I",
+    "locations": [
+      "Santa Monica, CA",
+      "Glendale, CA"
+    ],
+    "category": "Software Engineering",
+    "source": "AlmondCroffle",
+    "id": "92566a63-5dd5-4828-9a72-6b2e768f09bf",
+    "date_posted": 1765391143,
+    "company_url": "",
+    "is_visible": true
   }
 ]
