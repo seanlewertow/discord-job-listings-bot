@@ -58817,5 +58817,95 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Northrop Grumman",
+    "id": "b379f264-174d-4e2a-9dbd-8500a1acfa76",
+    "title": "Lab Design Engineer / Principal Lab Design Engineer - Multiple Teams",
+    "active": true,
+    "date_updated": 1765385958,
+    "date_posted": 1765385958,
+    "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/Lab-Design-Engineer---Principal-Lab-Design-Engineer_R10215095",
+    "locations": [
+      "Melbourne, FL"
+    ],
+    "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Synthomer",
+    "id": "8aec4244-673e-43c3-8f95-915e9d869dac",
+    "title": "Scientist \u2013 Akron Technical Center",
+    "active": true,
+    "date_updated": 1765384734,
+    "date_posted": 1765384734,
+    "url": "https://synthomer.wd3.myworkdayjobs.com/synthomercareers/job/US-OH-Akron-ATC/Scientist---Akron-Technical-Center---Onsite_R6616",
+    "locations": [
+      "Akron, OH"
+    ],
+    "company_url": "https://simplify.jobs/c/Synthomer",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Cintas",
+    "id": "4f953f1a-13d4-477c-aeb0-edb57e802b74",
+    "title": "SAP Developer - Level 1",
+    "active": true,
+    "date_updated": 1765384006,
+    "date_posted": 1765384006,
+    "url": "https://careers.cintas.com/job/Mason-SAP-Developer-Level-1-OH-45040/1348730900/?ats=successfactors",
+    "locations": [
+      "Mason, OH"
+    ],
+    "company_url": "https://simplify.jobs/c/Cintas",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "LabCorp",
+    "id": "02d310b8-85a2-4be3-b22d-10d09ae55842",
+    "title": "Associate Salesforce Developer",
+    "active": true,
+    "date_updated": 1765384411,
+    "date_posted": 1765384411,
+    "url": "https://labcorp.wd1.myworkdayjobs.com/external/job/Durham-NC/Associate-Salesforce-Developer_2530652",
+    "locations": [
+      "Durham, NC"
+    ],
+    "company_url": "https://simplify.jobs/c/LabCorp",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "McGill University",
+    "id": "00c1f21e-ac56-45dd-aa2b-77804e7cb7b8",
+    "title": "Research Assistant 2",
+    "active": true,
+    "date_updated": 1765385988,
+    "date_posted": 1765385988,
+    "url": "https://mcgill.wd3.myworkdayjobs.com/McGill_Careers/job/Burnside-Hall/Research-Assistant-2_JR0000072299",
+    "locations": [
+      "Montreal, QC, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/McGill-University",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
