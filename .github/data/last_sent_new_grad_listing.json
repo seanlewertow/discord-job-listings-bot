@@ -58008,5 +58008,41 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "The Pharmacy Hub",
+    "id": "04984ace-606d-4c4b-9a46-8c8fd572d60c",
+    "title": "Machine Builder",
+    "active": true,
+    "date_updated": 1765358315,
+    "date_posted": 1765358315,
+    "url": "https://job-boards.greenhouse.io/thepharmacyhub/jobs/5015938008",
+    "locations": [
+      "Fort Lauderdale, FL"
+    ],
+    "company_url": "https://simplify.jobs/c/The-Pharmacy-Hub",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Metergy Solutions",
+    "id": "dde4d9f9-3bf8-4c44-a9d3-ab94b9dc0781",
+    "title": "Meter Data Analyst",
+    "active": true,
+    "date_updated": 1765357817,
+    "date_posted": 1764891748,
+    "url": "https://jobs.lever.co/metergysolutions/1cdef6e6-22fb-4204-90ea-3723f55eed9d/apply",
+    "locations": [
+      "Toronto, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Metergy-Solutions",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
