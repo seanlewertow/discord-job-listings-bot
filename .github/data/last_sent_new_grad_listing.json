@@ -59736,5 +59736,95 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "The Boeing Company",
+    "id": "f64d8289-ecab-40ed-a5ad-49eb6e1c6677",
+    "title": "Associate Electronic & Electrical Technician",
+    "active": true,
+    "date_updated": 1765471857,
+    "date_posted": 1765471857,
+    "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Seattle-WA/Associate-Electronic---Electrical-Technician_JR2025486335",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "company_url": "https://simplify.jobs/c/Boeing",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "The Boeing Company",
+    "id": "41c3545c-4641-4c3c-b84a-eada9c54ed57",
+    "title": "Early Career Product Data Management Specialist",
+    "active": true,
+    "date_updated": 1765471856,
+    "date_posted": 1765471856,
+    "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Hazelwood-MO/Early-Career-Product-Data-Management-Specialist_JR2025488062",
+    "locations": [
+      "Hazelwood, MO"
+    ],
+    "company_url": "https://simplify.jobs/c/Boeing",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Fullsteam",
+    "id": "a76ad1a6-ca9f-4d85-b694-18dfe920597e",
+    "title": "Software Engineer",
+    "active": true,
+    "date_updated": 1765471466,
+    "date_posted": 1765471466,
+    "url": "https://fullsteam.wd1.myworkdayjobs.com/external/job/Remote---US/Software-Engineer_JR101949",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/Fullsteam",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Turner & Townsend",
+    "id": "8db2cf5f-6d38-4656-beb0-bf4ef180261d",
+    "title": "P3M Data & Reporting Analyst - Consultant - Bristol",
+    "active": true,
+    "date_updated": 1765471226,
+    "date_posted": 1765471226,
+    "url": "https://jobs.smartrecruiters.com/TurnerTownsend/744000098324976",
+    "locations": [
+      "Bristol, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Turner-And-Townsend",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "Visa",
+    "id": "23b418cb-ac90-4044-8a94-4c11c8266b7f",
+    "title": "Analyst \u2013 Data Products",
+    "active": true,
+    "date_updated": 1765471148,
+    "date_posted": 1765471148,
+    "url": "https://jobs.smartrecruiters.com/Visa/744000098401785",
+    "locations": [
+      "San Mateo, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Visa",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
