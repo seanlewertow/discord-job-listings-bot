@@ -60082,5 +60082,95 @@
     "date_posted": 1765484487,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Caesars Entertainment",
+    "id": "88a0886e-53c1-4714-ba3c-6a66d16dc7b3",
+    "title": "Graduate Data Scientist",
+    "active": true,
+    "date_updated": 1765494938,
+    "date_posted": 1765494938,
+    "url": "https://edmn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/73987",
+    "locations": [
+      "Las Vegas, NV"
+    ],
+    "company_url": "https://simplify.jobs/c/Caesars-Entertainment",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "SciTec",
+    "id": "4b82692b-c26a-4ef0-a342-fb92e340f1fe",
+    "title": "Associate / Staff Mission Data Analyst",
+    "active": true,
+    "date_updated": 1765494685,
+    "date_posted": 1765494685,
+    "url": "https://apply.workable.com/scitec/j/301788B4BF/apply",
+    "locations": [
+      "Aurora, CO"
+    ],
+    "company_url": "https://simplify.jobs/c/SciTec",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "KIKOFF Leagues",
+    "id": "32f8c1be-1330-41e0-bfd2-1bc801c17885",
+    "title": "Product Operations Specialist",
+    "active": true,
+    "date_updated": 1765494784,
+    "date_posted": 1765494784,
+    "url": "https://jobs.ashbyhq.com/kikoff/8feee287-db5c-4efd-ba43-15ad164c400f/application",
+    "locations": [
+      "SF"
+    ],
+    "company_url": "https://simplify.jobs/c/KIKOFF-Leagues",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "Cartesia",
+    "id": "0f6c5b00-7b7a-45a7-8e1a-62e3f456d631",
+    "title": "Product Operations Analyst",
+    "active": true,
+    "date_updated": 1765494902,
+    "date_posted": 1765494902,
+    "url": "https://jobs.ashbyhq.com/cartesia/dafe489f-2af2-4355-b6d7-241b6a97179a/application",
+    "locations": [
+      "SF"
+    ],
+    "company_url": "https://simplify.jobs/c/Cartesia",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Vanderlande Industries",
+    "id": "84a57df6-3ae1-450d-9025-b000e585a3e6",
+    "title": "Integration Engineer",
+    "active": true,
+    "date_updated": 1765494570,
+    "date_posted": 1765494570,
+    "url": "https://vanderlande.wd3.myworkdayjobs.com/careers/job/Marietta-Atlanta/Integration-Engineer_JR34735",
+    "locations": [
+      "Marietta, GA"
+    ],
+    "company_url": "https://simplify.jobs/c/7ab55595-a241-4468-bf77-178371480131",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
