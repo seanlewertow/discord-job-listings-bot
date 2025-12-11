@@ -59205,5 +59205,95 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "AspenTech",
+    "id": "b965d7f9-d6c4-4c04-8ffc-be7be5187104",
+    "title": "Software Developer",
+    "active": true,
+    "date_updated": 1765410508,
+    "date_posted": 1765410508,
+    "url": "https://aspentech.wd5.myworkdayjobs.com/aspentech/job/Medina-Minnesota/Software-Developer_R8219",
+    "locations": [
+      "Wayzata, MN"
+    ],
+    "company_url": "https://simplify.jobs/c/AspenTech",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Auto-Owners Insurance",
+    "id": "10dfa180-ce2a-4371-b388-ad2f94af199f",
+    "title": "Investment Analyst",
+    "active": true,
+    "date_updated": 1765410368,
+    "date_posted": 1765410368,
+    "url": "https://aoins.wd5.myworkdayjobs.com/AutoOwners/job/Lansing-MI/Investment-Analyst_R_12858-1",
+    "locations": [
+      "East Lansing, MI"
+    ],
+    "company_url": "https://simplify.jobs/c/Auto-Owners-Insurance",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Applied Materials",
+    "id": "82d1fc17-d60c-4350-917d-51cf5db8c062",
+    "title": "Supplier Engineering - New College Grad-Bachelor's - Santa Clara, CA",
+    "active": true,
+    "date_updated": 1765410782,
+    "date_posted": 1765410782,
+    "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Supplier-Engineering--New-College-Grad--Bachelor-s--Santa-Clara--CA-_R2519061",
+    "locations": [
+      "Santa Clara, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Applied-Materials",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Jabil",
+    "id": "2b80d819-0535-41d5-87d6-bf027b969848",
+    "title": "Rework Operator",
+    "active": true,
+    "date_updated": 1765410460,
+    "date_posted": 1765410460,
+    "url": "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/St-PetersburgTampa-FL/Rework-Operator_J2434311-1",
+    "locations": [
+      "St. Petersburg, FL"
+    ],
+    "company_url": "https://simplify.jobs/c/Jabil",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "CompassX Group",
+    "id": "e68e1e4a-c341-4c22-8070-bca60715535f",
+    "title": "Software Engineer",
+    "active": true,
+    "date_updated": 1765408580,
+    "date_posted": 1765408580,
+    "url": "https://jobs.lever.co/compassx/a37f62e9-f2fc-4d1a-9d67-5b7778abefdb/apply",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/CompassX-Group",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
