@@ -59295,5 +59295,23 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "University of Southern California",
+    "id": "1d79933e-adab-49dc-9389-e55a03941dfd",
+    "title": "WordPress Website Administrator & Designer",
+    "active": true,
+    "date_updated": 1765418597,
+    "date_posted": 1765418597,
+    "url": "https://usc.wd5.myworkdayjobs.com/ExternalUSCCareers/job/San-Diego-CA/WordPress-Website-Administrator---Designer_REQ20168294",
+    "locations": [
+      "San Diego, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/University-Of-Southern-California",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
