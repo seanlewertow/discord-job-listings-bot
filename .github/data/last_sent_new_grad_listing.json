@@ -59512,5 +59512,59 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "4769b150-036b-4652-8323-8e5e7282b48a",
+    "title": "Trading Assistant - Shift",
+    "active": true,
+    "date_updated": 1765451226,
+    "date_posted": 1765451226,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400041832",
+    "locations": [
+      "Belfast, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Welocalize",
+    "id": "7d423055-a6c5-4792-802e-a6973ab34caa",
+    "title": "Multilingual Audio Personalization Evaluator - English - United States",
+    "active": true,
+    "date_updated": 1765450719,
+    "date_posted": 1765450719,
+    "url": "https://jobs.lever.co/welocalize/907a2767-8d04-4a7a-9b61-9d8e373fe695/apply",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/Welocalize",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Vanasse Hangen Brustlin (VHB)",
+    "id": "5949fd52-3d6b-4954-8794-b5996adc1d26",
+    "title": "Data Analyst",
+    "active": true,
+    "date_updated": 1765451660,
+    "date_posted": 1762817807,
+    "url": "https://careers-vhb.icims.com/jobs/5751/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Raleigh, NC"
+    ],
+    "company_url": "https://simplify.jobs/c/Vanasse-Hangen-Brustlin",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
