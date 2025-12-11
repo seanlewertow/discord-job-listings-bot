@@ -59313,5 +59313,78 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Internet Brands",
+    "id": "704e611d-80d2-43c7-b9dd-e5a0eb1932c4",
+    "title": "Associate AI Engineer",
+    "active": true,
+    "date_updated": 1765418968,
+    "date_posted": 1765418968,
+    "url": "https://jobs.jobvite.com/internetbrands/job/o33Oyfwc?nl=1&nl=1&fr=false",
+    "locations": [
+      "El Segundo, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Internet-Brands",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Intuit",
+    "id": "a3b641f3-6486-42dd-a04a-d1469da9cba5",
+    "title": "Software Engineer 1",
+    "active": true,
+    "date_updated": 1765419318,
+    "date_posted": 1765419318,
+    "url": "https://jobs.intuit.com/job/mountain-view/software-engineer-1/27595/89386696112",
+    "locations": [
+      "Mountain View, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Intuit",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "St. Johns Riverside Hospital",
+    "id": "85f2293e-89a4-4c4a-82e9-cb771e21a515",
+    "title": "Rehabilitation Aide Physical Therapy",
+    "active": true,
+    "date_updated": 1765419570,
+    "date_posted": 1762435097,
+    "url": "https://careers-riversidehealth.icims.com/jobs/9339/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Arlington, VA",
+      "United States"
+    ],
+    "company_url": "https://simplify.jobs/c/St-Johns-Riverside-Hospital",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "The Boeing Company",
+    "id": "b2a2603f-00a5-45b8-bd47-5078aaa42cf9",
+    "title": "Associate Programmer Analyst",
+    "active": true,
+    "date_updated": 1765419952,
+    "date_posted": 1765419952,
+    "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Hazelwood-MO/Associate-Programmer-Analyst_JR2025487618-1",
+    "locations": [
+      "Hazelwood, MO"
+    ],
+    "company_url": "https://simplify.jobs/c/Boeing",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
