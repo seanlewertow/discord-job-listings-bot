@@ -59458,5 +59458,41 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Marriott International",
+    "id": "7fff6e2c-7422-4713-8aab-70eeb5db55ed",
+    "title": "Senior Systems Engineer - Corporate Systems",
+    "active": true,
+    "date_updated": 1765241649,
+    "date_posted": 1765241649,
+    "url": "https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25195783",
+    "locations": [
+      "Bethesda, MD"
+    ],
+    "company_url": "https://simplify.jobs/c/Marriott-International",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Saronic",
+    "id": "6cc3e0f0-b990-4807-80c0-c746ca6952d0",
+    "title": "Perception and Autonomy Engineer",
+    "active": true,
+    "date_updated": 1765445653,
+    "date_posted": 1761867638,
+    "url": "https://jobs.lever.co/saronic/30af5320-d158-4127-969f-de7ee92504ce/apply",
+    "locations": [
+      "Austin, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Saronic",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
