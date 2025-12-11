@@ -59644,5 +59644,97 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "JP Morgan Chase",
+    "id": "ffe19e42-c866-4d26-ac16-c3be14e91487",
+    "title": "Trading Services Associate",
+    "active": true,
+    "date_updated": 1765469811,
+    "date_posted": 1765469811,
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210692709",
+    "locations": [
+      "Christchurch, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/JP-Morgan-Chase",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "ION Group",
+    "id": "a32d8e14-2e43-42c1-accf-75de3b3a7232",
+    "title": "Software Developer - 2026 Leadership Development Program - Houston",
+    "active": true,
+    "date_updated": 1765469543,
+    "date_posted": 1765469543,
+    "url": "https://jobs.lever.co/ion/beb910e6-7ad4-4c72-9b6d-f2666a7ed4aa/apply",
+    "locations": [
+      "Houston, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/ION-Group",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "90cd493d-a475-4b47-aa16-7c44a4d93177",
+    "title": "Trading Assistant - Local",
+    "active": true,
+    "date_updated": 1765469607,
+    "date_posted": 1765469607,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400042916",
+    "locations": [
+      "United Kingdom"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "16c99725-e38f-40cd-bd84-6618e85ca9dc",
+    "title": "Trading Assistant - Local",
+    "active": true,
+    "date_updated": 1765469606,
+    "date_posted": 1765469606,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400042919",
+    "locations": [
+      "United Kingdom"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Geosyntec Consultants",
+    "id": "01532371-85cb-4633-847e-33d323c3546e",
+    "title": "Early-Career Subsurface Modeler",
+    "active": true,
+    "date_updated": 1765469868,
+    "date_posted": 1758053076,
+    "url": "https://careers-geosyntec.icims.com/jobs/4105/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Newport Beach, CA",
+      "Ventura, CA",
+      "Santa Barbara, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Geosyntec-Consultants",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
