@@ -59566,5 +59566,41 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "Athena Health",
+    "id": "21113b0b-fe53-4ddd-9b01-113924083018",
+    "title": "Senior Associate - Product Management",
+    "active": true,
+    "date_updated": 1765453597,
+    "date_posted": 1764977922,
+    "url": "https://athenahealth.wd1.myworkdayjobs.com/en-US/External/job/Boston-MA/Senior-Associate--Product-Management_R14016",
+    "locations": [
+      "Boston, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/e955406a-7989-4ed8-aff1-01032b96e141",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "M&T Bank",
+    "id": "7f95cfb1-aa2d-4b6d-add5-77edfd84f25b",
+    "title": "Product Owner 1 - Consumer Capital Markets",
+    "active": true,
+    "date_updated": 1765454751,
+    "date_posted": 1764498277,
+    "url": "https://mtb.wd5.myworkdayjobs.com/MTB/job/Buffalo-NY/Product-Owner-I_R80004-1",
+    "locations": [
+      "Buffalo, NY"
+    ],
+    "company_url": "https://simplify.jobs/c/M-And-T-Bank",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
