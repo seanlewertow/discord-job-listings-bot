@@ -59920,5 +59920,41 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Leidos",
+    "id": "f3859148-d98f-4e9e-bb63-fe83b7422cc4",
+    "title": "Engineering Technician 1",
+    "active": true,
+    "date_updated": 1765474046,
+    "date_posted": 1765474046,
+    "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Newport-RI/Engineering-Technician-I_R-00171945",
+    "locations": [
+      "Newport, RI"
+    ],
+    "company_url": "https://simplify.jobs/c/Leidos",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Leidos",
+    "id": "5adf35a8-1ed7-45bf-a2b7-99e812ce5f4a",
+    "title": "Ground Control Station Technician",
+    "active": true,
+    "date_updated": 1765474036,
+    "date_posted": 1765474036,
+    "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Clovis-NM/Ground-Control-Station-Technician_R-00171977",
+    "locations": [
+      "Clovis, NM"
+    ],
+    "company_url": "https://simplify.jobs/c/Leidos",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
