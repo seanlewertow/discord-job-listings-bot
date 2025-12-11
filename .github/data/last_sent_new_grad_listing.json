@@ -59386,5 +59386,41 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "4642e4f4-9049-4282-bf85-401b8985b740",
+    "title": "Trading Assistant - Shift",
+    "active": true,
+    "date_updated": 1765437261,
+    "date_posted": 1765437261,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400042882",
+    "locations": [
+      "Cornwall, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "General Dynamics Information Technology",
+    "id": "0631a258-1e46-41a5-91dd-d20c3cc151b8",
+    "title": "UiPath Robotic Process Automation Developer Associate",
+    "active": true,
+    "date_updated": 1765438688,
+    "date_posted": 1765438688,
+    "url": "https://gdit.wd5.myworkdayjobs.com/external_career_site/job/Any-Location--Remote/UiPath-Robotic-Process-Automation-Developer-Associate_RQ211136",
+    "locations": [
+      "Shreveport, LA"
+    ],
+    "company_url": "https://simplify.jobs/c/GDIT",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
