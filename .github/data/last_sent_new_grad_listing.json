@@ -59494,5 +59494,23 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Huntington Ingalls Industries",
+    "id": "1f70554a-6800-4d25-8c6e-5b23fb2568b9",
+    "title": "Database Administrator 1",
+    "active": true,
+    "date_updated": 1765449515,
+    "date_posted": 1765449515,
+    "url": "https://careers.huntingtoningalls.com/job/Newport-News-DATABASE-ADMINISTRATOR-1-Virg/1349037400/?ats=successfactors",
+    "locations": [
+      "Newport News, VA"
+    ],
+    "company_url": "https://simplify.jobs/c/Huntington-Ingalls-Industries",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
