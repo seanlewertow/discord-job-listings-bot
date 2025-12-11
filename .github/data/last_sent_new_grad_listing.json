@@ -59956,5 +59956,41 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "date_updated": 1765483417,
+    "sponsorship": "Does Not Offer Sponsorship",
+    "active": true,
+    "degrees": [],
+    "url": "https://www.publicstoragejobs.com/jobs/associate-cloud-engineer-location-plano-tx-united-states-jobs-category-marketing-744000098165225",
+    "company_name": "Public Storage",
+    "title": "Associate Cloud Engineer",
+    "locations": [
+      "Plano, TX"
+    ],
+    "category": "Software Engineering",
+    "source": "AlmondCroffle",
+    "id": "5cda4348-66f4-4692-ab26-49383c68a23c",
+    "date_posted": 1765483417,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1765483888,
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "degrees": [],
+    "url": "https://aspentech.wd5.myworkdayjobs.com/AspenTech/job/Medina-Minnesota/Associate-Software-Quality-Engineer-I_R8298-1",
+    "company_name": "AspenTech",
+    "title": "Associate Software Quality Engineer I",
+    "locations": [
+      "Medina, MN"
+    ],
+    "category": "Software Engineering",
+    "source": "AlmondCroffle",
+    "id": "a6bf2d4d-c4bb-4416-97eb-84d2ad3b08e3",
+    "date_posted": 1765483888,
+    "company_url": "",
+    "is_visible": true
   }
 ]
