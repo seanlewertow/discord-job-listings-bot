@@ -60262,5 +60262,62 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Masimo",
+    "id": "01787301-065c-4294-86d1-3e878401aa19",
+    "title": "Data Analytics Engineer",
+    "active": true,
+    "date_updated": 1765505835,
+    "date_posted": 1765505835,
+    "url": "https://egcu.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/3539",
+    "locations": [
+      "Irvine, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Masimo",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Matic",
+    "id": "bf1be2c5-3e07-48b2-8d3b-373aeffdfde5",
+    "title": "Backend Software Engineer",
+    "active": true,
+    "date_updated": 1765505888,
+    "date_posted": 1765505888,
+    "url": "https://jobs.ashbyhq.com/MaticRobots/230e365c-de86-4f7b-b971-2d25a021b0d4/application",
+    "locations": [
+      "Mountain View, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/MaticRobots",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Steampunk",
+    "id": "1c6d8e07-04c0-4f23-8204-0be3836156c3",
+    "title": "Data Engineer",
+    "active": true,
+    "date_updated": 1765506326,
+    "date_posted": 1758054605,
+    "url": "https://careers-steampunk.icims.com/jobs/6514/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "McLean, VA"
+    ],
+    "company_url": "https://simplify.jobs/c/Steampunk",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
