@@ -60610,5 +60610,95 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Hastings Direct",
+    "id": "9474df5b-301c-493d-9f83-6754ec4e331f",
+    "title": "Data Engineering Graduate",
+    "active": true,
+    "date_updated": 1765555619,
+    "date_posted": 1765555619,
+    "url": "https://hastingsdirect.wd3.myworkdayjobs.com/external_careers/job/Bexhill/Data-Engineering-Graduate_60012750",
+    "locations": [
+      "Tunbridge Wells, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Hastings-Direct",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Hastings Direct",
+    "id": "1d2d7db2-e5c1-4657-a905-961b366c584d",
+    "title": "Data Engineering Graduate",
+    "active": true,
+    "date_updated": 1765555622,
+    "date_posted": 1765555622,
+    "url": "https://hastingsdirect.wd3.myworkdayjobs.com/external_careers/job/Leicester/Data-Engineering-Graduate_60012752",
+    "locations": [
+      "Leicester, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Hastings-Direct",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Huntington Bancshares",
+    "id": "f63f8fdf-22e9-4bc6-bbad-f097a4cf746b",
+    "title": "Technology Delivery Analyst - Elevate",
+    "active": true,
+    "date_updated": 1765555453,
+    "date_posted": 1765555453,
+    "url": "https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/Technology-Delivery-Analyst--Elevate-_R0067565",
+    "locations": [
+      "Columbus, OH"
+    ],
+    "company_url": "https://simplify.jobs/c/Huntington-Bancshares",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Huntington Bancshares",
+    "id": "b619b0c1-a4da-4fcb-8eed-4f2ce4b2c38b",
+    "title": "Technology Delivery Analyst - Elevate",
+    "active": true,
+    "date_updated": 1765555449,
+    "date_posted": 1765555449,
+    "url": "https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/Technology-Delivery-Analyst--Elevate-_R0067564",
+    "locations": [
+      "Columbus, OH"
+    ],
+    "company_url": "https://simplify.jobs/c/Huntington-Bancshares",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Huntington Bancshares",
+    "id": "059085f6-2928-4d5a-a83d-9989673ea40f",
+    "title": "Technology Delivery Analyst",
+    "active": true,
+    "date_updated": 1765555429,
+    "date_posted": 1765555429,
+    "url": "https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/Technology-Delivery-Analyst_R0067561",
+    "locations": [
+      "Columbus, OH"
+    ],
+    "company_url": "https://simplify.jobs/c/Huntington-Bancshares",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
