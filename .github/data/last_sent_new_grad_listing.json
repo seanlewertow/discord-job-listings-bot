@@ -60700,5 +60700,77 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "Sensor Tower",
+    "id": "fd3931c0-1f08-43cb-9e75-39aca12e587c",
+    "title": "Product Analyst - Digital Advertising",
+    "active": true,
+    "date_updated": 1765556774,
+    "date_posted": 1765556774,
+    "url": "https://jobs.lever.co/sensortower/60624cbe-4c13-4133-bf14-5e6624ed54b9/apply",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Sensor-Tower",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Semtech",
+    "id": "f21db808-e3ad-427f-b19b-fa857ceea73f",
+    "title": "Associate Analog Design Engineer",
+    "active": true,
+    "date_updated": 1765556896,
+    "date_posted": 1765556896,
+    "url": "https://semtech.wd1.myworkdayjobs.com/SemtechCareers/job/CAN---Ottawa-ON/Associate-Analog-Design-Engineer_REQ3031",
+    "locations": [
+      "Ottawa, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Semtech",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "EquipmentShare",
+    "id": "f09c003e-9368-4386-89e6-af7c97074325",
+    "title": "Traveling Technician",
+    "active": true,
+    "date_updated": 1765556337,
+    "date_posted": 1765556337,
+    "url": "https://www.equipmentshare.com/careers/openings/?gh_jid=7463933",
+    "locations": [
+      "Houston, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Equipment-Share",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "General Dynamics Mission Systems",
+    "id": "817c64ed-8b2b-4834-8932-b222ea2eb293",
+    "title": "Senior Engineering Technician",
+    "active": true,
+    "date_updated": 1765557230,
+    "date_posted": 1765557230,
+    "url": "https://careers-gdms.icims.com/jobs/69772/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Bloomington, MN"
+    ],
+    "company_url": "https://simplify.jobs/c/General-Dynamics-Mission-Systems",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
