@@ -60172,5 +60172,95 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "AspenTech",
+    "id": "784b70e4-83c6-47b6-9465-45e2dfc34e16",
+    "title": "Associate GIS Model Engineer",
+    "active": true,
+    "date_updated": 1765498134,
+    "date_posted": 1765498134,
+    "url": "https://aspentech.wd5.myworkdayjobs.com/aspentech/job/Medina-Minnesota/Associate-GIS-Model-Engineer_R8192",
+    "locations": [
+      "Wayzata, MN"
+    ],
+    "company_url": "https://simplify.jobs/c/AspenTech",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Ryan Specialty",
+    "id": "8c438439-d10a-4aa5-a416-161f0cd1baf0",
+    "title": "Business Intelligence Analyst",
+    "active": true,
+    "date_updated": 1765496881,
+    "date_posted": 1765496881,
+    "url": "https://ryansg.wd5.myworkdayjobs.com/en-US/Ryan_Specialty_Career_Site/job/Nashville---Tennessee---Burton/Business-Intelligence-Analyst_JR25-3719",
+    "locations": [
+      "Nashville, TN"
+    ],
+    "company_url": "https://simplify.jobs/c/08d94549-6f90-4b80-b697-5cd7d8f77ec9",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Microsoft",
+    "id": "446875de-8721-4e92-bd16-baec6bdf5b7a",
+    "title": "Quantum Software Engineer",
+    "active": true,
+    "date_updated": 1765494411,
+    "date_posted": 1765494411,
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393556640339",
+    "locations": [
+      "Redmond, WA"
+    ],
+    "company_url": "https://simplify.jobs/c/Microsoft",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Mastercard",
+    "id": "6fdd1f3d-eebd-4659-8521-c6b369818c38",
+    "title": "Software Engineer 1 - 1",
+    "active": true,
+    "date_updated": 1765499005,
+    "date_posted": 1765499005,
+    "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/OFallon-Missouri/Software-Engineer-I-1_R-266543-1",
+    "locations": [
+      "O'Fallon, MO"
+    ],
+    "company_url": "https://simplify.jobs/c/Mastercard",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Danaher Corporation",
+    "id": "66ee1e04-b621-4bc2-b6c2-67020175a728",
+    "title": "Machine Assembly Technician 1",
+    "active": true,
+    "date_updated": 1765499148,
+    "date_posted": 1765499148,
+    "url": "https://danaher.wd1.myworkdayjobs.com/danaherjobs/job/USA---Coralville---Integrated-DNA-Technologies-Inc/Machine-Assembly-Technician-I_R1297686-1",
+    "locations": [
+      "Coralville, IA"
+    ],
+    "company_url": "https://simplify.jobs/c/Danaher-Corporation",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
