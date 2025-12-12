@@ -60898,5 +60898,101 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "23657c7a-35d0-497c-9278-962cafb2c0ba",
+    "title": "Trading Assistant - Shift",
+    "active": true,
+    "date_updated": 1765581506,
+    "date_posted": 1765581506,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400043128",
+    "locations": [
+      "Bristol, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Tinder",
+    "id": "20a8a792-fa8b-4398-a480-f0c4932ee0c2",
+    "title": "Data Scientist 2 - Growth",
+    "active": true,
+    "date_updated": 1765581348,
+    "date_posted": 1765581348,
+    "url": "https://jobs.lever.co/matchgroup/aff4cec0-abaf-44bc-adfc-e99e740f5c3a/apply",
+    "locations": [
+      "Palo Alto, CA",
+      "SF",
+      "LA",
+      "Dallas, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Tinder",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "CenturyLink",
+    "id": "1430b4c1-87ce-44e1-91e7-c783c8205244",
+    "title": "Telecommunications Technician",
+    "active": true,
+    "date_updated": 1765581410,
+    "date_posted": 1765581410,
+    "url": "https://internaljobs.centurylink.com/job/OMAHA-Telecommunications-Technician-NE-68122/1336406800/?ats=successfactors",
+    "locations": [
+      "Omaha, NE"
+    ],
+    "company_url": "https://simplify.jobs/c/CenturyLink",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Microsoft",
+    "id": "b9819e33-d5db-410a-8cfc-58920c2e4094",
+    "title": "Software Engineer 2",
+    "active": true,
+    "date_updated": 1765580719,
+    "date_posted": 1765580719,
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393556636929",
+    "locations": [
+      "Redmond, WA"
+    ],
+    "company_url": "https://simplify.jobs/c/Microsoft",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Microsoft",
+    "id": "78183c0c-df08-4ca9-9cee-99b1896d12b0",
+    "title": "Software Engineer - Full Stack",
+    "active": true,
+    "date_updated": 1765580773,
+    "date_posted": 1765580773,
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393556640934",
+    "locations": [
+      "Redmond, WA"
+    ],
+    "company_url": "https://simplify.jobs/c/Microsoft",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
