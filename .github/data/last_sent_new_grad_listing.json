@@ -60520,5 +60520,41 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Lightfield",
+    "id": "741d8e02-7115-446e-a53f-21eda887c7e0",
+    "title": "AI Product Engineer \u2013 New Grad",
+    "active": true,
+    "date_updated": 1765532868,
+    "date_posted": 1763660980,
+    "url": "https://jobs.ashbyhq.com/Lightfield/bb758825-5422-46c4-86c3-0be1cc89148f/application",
+    "locations": [
+      "SF"
+    ],
+    "company_url": "https://simplify.jobs/c/Lightfield",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "HomeVision",
+    "id": "19a6f62b-2298-4a15-81e2-c19701cf6e1d",
+    "title": "Application Support Engineer",
+    "active": true,
+    "date_updated": 1763363819,
+    "date_posted": 1763363819,
+    "url": "https://jobs.ashbyhq.com/homevision/cb8e1f54-b045-4d7f-a851-26f23926fe3c/application",
+    "locations": [
+      "United States"
+    ],
+    "company_url": "https://simplify.jobs/c/HomeVision",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
