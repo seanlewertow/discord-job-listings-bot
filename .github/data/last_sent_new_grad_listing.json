@@ -60412,5 +60412,41 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Amazon",
+    "id": "2ec0e060-61ca-44df-9c0f-7144e8d3ce86",
+    "title": "Software Dev Engineer 1",
+    "active": true,
+    "date_updated": 1765523649,
+    "date_posted": 1765523649,
+    "url": "https://amazon.jobs/en/jobs/3140907/software-dev-engineer-i",
+    "locations": [
+      "Sunnyvale, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Amazon",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Nordstrom",
+    "id": "8f9682a0-fe2f-40c8-87d4-6d229a41634b",
+    "title": "Data Engineer 1 - Seattle/WA",
+    "active": true,
+    "date_updated": 1765523446,
+    "date_posted": 1765523446,
+    "url": "https://nordstrom.wd501.myworkdayjobs.com/nordstrom_careers/job/Seattle-WA/Data-Engineer-1--Hybrid---Seattle--WA-_R-805047",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "company_url": "https://simplify.jobs/c/Nordstrom",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
