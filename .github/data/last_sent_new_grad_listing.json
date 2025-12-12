@@ -60574,5 +60574,41 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "e3fbf3b1-b0d8-4a93-98c0-55cf49fdb18d",
+    "title": "Trading Assistant - Local",
+    "active": true,
+    "date_updated": 1765535303,
+    "date_posted": 1765535303,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400043019",
+    "locations": [
+      "Leeds, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "Vetcor",
+    "id": "920bf035-113d-45ba-8cfd-a774bbd34c47",
+    "title": "Veterinarian - Interlachen, FL",
+    "active": true,
+    "date_updated": 1765534632,
+    "date_posted": 1760570204,
+    "url": "https://careers-vet.icims.com/jobs/9849/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Merrimack, NH"
+    ],
+    "company_url": "https://simplify.jobs/c/Vetcor",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
