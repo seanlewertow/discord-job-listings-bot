@@ -60556,5 +60556,23 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Base Power",
+    "id": "15ff3701-ad4b-40af-aa6e-9f2840556520",
+    "title": "Engineering Technician",
+    "active": true,
+    "date_updated": 1765533867,
+    "date_posted": 1761876773,
+    "url": "https://jobs.ashbyhq.com/base-power/850a7098-61c2-439e-a890-1b4b178548b7/application",
+    "locations": [
+      "SF"
+    ],
+    "company_url": "https://simplify.jobs/c/Base-Power",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
