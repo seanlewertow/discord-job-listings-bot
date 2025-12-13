@@ -61304,5 +61304,41 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Brandes Associates",
+    "id": "f50e27a9-62a5-4794-9149-451108af754c",
+    "title": "Program/Project/Management Analyst - Junior",
+    "active": true,
+    "date_updated": 1765623414,
+    "date_posted": 1765622714,
+    "url": "https://careers-brandesassociates.icims.com/jobs/1942/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Long Island City, Queens, NY"
+    ],
+    "company_url": "https://simplify.jobs/c/Brandes-Associates",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Advocates",
+    "id": "7989cf37-f46d-41c3-b368-a72b0a3c2152",
+    "title": "Direct Support Staff - Developmental Services",
+    "active": true,
+    "date_updated": 1765623188,
+    "date_posted": 1760111615,
+    "url": "https://careers-advocatesinc.icims.com/jobs/12459/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Wilmington, DE"
+    ],
+    "company_url": "https://simplify.jobs/c/Advocates",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
