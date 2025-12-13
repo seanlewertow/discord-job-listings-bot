@@ -61358,5 +61358,41 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "17fdf2bc-9646-4c21-8ff9-937c38ab536d",
+    "title": "Trading Assistant",
+    "active": true,
+    "date_updated": 1765642372,
+    "date_posted": 1765642372,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400043151",
+    "locations": [
+      "Birmingham, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "blend360",
+    "id": "bda3c7a5-122a-4370-b324-b42acce48864",
+    "title": "Junior Data Scientist",
+    "active": true,
+    "date_updated": 1765642015,
+    "date_posted": 1765642015,
+    "url": "https://jobs.smartrecruiters.com/Blend360/744000098779875",
+    "locations": [
+      "Atlanta, GA"
+    ],
+    "company_url": "https://simplify.jobs/c/ca86fdf5-6866-42d6-ab98-efbef6cf7861",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
