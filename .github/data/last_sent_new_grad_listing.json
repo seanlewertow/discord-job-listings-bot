@@ -61340,5 +61340,23 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Light & Wonder",
+    "id": "9a2b268f-2fc9-4040-99d6-8f9d4455c290",
+    "title": "Mathematician",
+    "active": true,
+    "date_updated": 1765637068,
+    "date_posted": 1763890332,
+    "url": "https://lnw.wd5.myworkdayjobs.com/lightwonderexternalcareers/job/Las-Vegas-NV/Senior-Mathematician_R320859",
+    "locations": [
+      "Las Vegas, NV"
+    ],
+    "company_url": "https://simplify.jobs/c/Light-And-Wonder",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
