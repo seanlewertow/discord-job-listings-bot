@@ -60994,5 +60994,95 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Optiver",
+    "id": "69cc4bbd-0cd7-4b8f-85be-f27f6e2e85c0",
+    "title": "Graduate Software Engineer - 2026 Start - Austin",
+    "active": true,
+    "date_updated": 1765582973,
+    "date_posted": 1765582973,
+    "url": "https://job-boards.greenhouse.io/optiverprivate/jobs/7986421002",
+    "locations": [
+      "Austin, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Optiver",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Alpha FMC",
+    "id": "d6c2dd7e-6708-403b-b90f-cacd608b8a77",
+    "title": "Junior Data Analyst - Aiviq",
+    "active": true,
+    "date_updated": 1765583538,
+    "date_posted": 1765583538,
+    "url": "https://job-boards.greenhouse.io/alphafmcroles/jobs/7990630002",
+    "locations": [
+      "London, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Alpha-FMC",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Yahoo",
+    "id": "95feec72-7f32-4863-8661-a165c9c15175",
+    "title": "Software Developer Engineer 1",
+    "active": true,
+    "date_updated": 1765583827,
+    "date_posted": 1765583827,
+    "url": "https://ouryahoo.wd5.myworkdayjobs.com/en-US/careers/job/United-States-of-America/Software-Dev-Engineer-I_JR0026780-1",
+    "locations": [
+      "United States"
+    ],
+    "company_url": "https://simplify.jobs/c/Yahoo",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "DaVita",
+    "id": "e853b307-2ae6-433a-b673-1bc9e37b61fc",
+    "title": "Associate Analyst - Systems - Rops",
+    "active": true,
+    "date_updated": 1765583780,
+    "date_posted": 1765583780,
+    "url": "https://davita.wd1.myworkdayjobs.com/DKC_External/job/06998---Team-Evergreen-North-CBO-Federal-Way-Business-Office/Associate-Analyst--Systems--ROPS-_R0432559",
+    "locations": [
+      "Federal Way, WA"
+    ],
+    "company_url": "https://simplify.jobs/c/DaVita",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Jerry",
+    "id": "c1aec67e-fd98-4cb8-b5e5-07a833b72052",
+    "title": "Software Engineer - Entry",
+    "active": true,
+    "date_updated": 1765581590,
+    "date_posted": 1765581590,
+    "url": "https://jobs.ashbyhq.com/jerry.ai/8f6f7641-db23-4aab-8c62-213035711560/application",
+    "locations": [
+      "Toronto, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Jerry",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
