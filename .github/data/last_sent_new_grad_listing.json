@@ -61213,5 +61213,24 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Google",
+    "id": "a778f36e-8a91-4430-a64d-f2eeafd272e9",
+    "title": "Software Engineer 3 - Multiple Teams",
+    "active": true,
+    "date_updated": 1765617072,
+    "date_posted": 1764813961,
+    "url": "https://www.google.com/about/careers/applications/jobs/results/128765145907110598",
+    "locations": [
+      "SF",
+      "Mountain View, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Google",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
