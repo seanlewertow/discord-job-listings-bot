@@ -61232,5 +61232,23 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Hersha Hospitality Management",
+    "id": "80b1a200-25cc-4cd0-9c1b-f08b9c42355a",
+    "title": "Accounting Clerk",
+    "active": true,
+    "date_updated": 1765623236,
+    "date_posted": 1758077921,
+    "url": "https://careers-hhmlp.icims.com/jobs/68040/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Scottsdale, AZ"
+    ],
+    "company_url": "https://simplify.jobs/c/Hersha-Hospitality-Management",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
