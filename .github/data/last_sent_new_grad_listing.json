@@ -61176,5 +61176,23 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "KPH Healthcare Services",
+    "id": "fe96cb32-29c4-470b-8062-c4def431de2f",
+    "title": "Pharmacy Technician",
+    "active": true,
+    "date_updated": 1765610480,
+    "date_posted": 1761950644,
+    "url": "https://kphcareers-kphhealthcareservices.icims.com/jobs/13343/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Fort Bragg, NC"
+    ],
+    "company_url": "https://simplify.jobs/c/KPH-Healthcare-Services",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
