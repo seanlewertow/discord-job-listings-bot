@@ -61084,5 +61084,25 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "American Electric Power",
+    "id": "4bceff24-e47d-47d8-8012-a6d1cca898ab",
+    "title": "Data Scientist \u2013 Sr - Mid - TRANSMISSION Systems & Asset Health",
+    "active": true,
+    "date_updated": 1765591658,
+    "date_posted": 1765591658,
+    "url": "https://aep.wd1.myworkdayjobs.com/AEPCareerSite/job/New-Albany-OH/Data-Scientist--Mid---Sr----TRANSMISSION-Systems---Asset-Health_R12729",
+    "locations": [
+      "New Albany, OH"
+    ],
+    "company_url": "https://simplify.jobs/c/American-Electric-Power",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
