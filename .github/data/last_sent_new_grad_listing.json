@@ -61250,5 +61250,23 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "ASML",
+    "id": "f62681e0-b3a4-4fcb-ac61-6eda329fa3c5",
+    "title": "Software Engineer",
+    "active": true,
+    "date_updated": 1765626374,
+    "date_posted": 1763892815,
+    "url": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Diego-CA-USA/Software-Engineer_J-00330610",
+    "locations": [
+      "San Diego, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/ASML",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
