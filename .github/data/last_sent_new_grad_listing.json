@@ -61286,5 +61286,23 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Shield AI",
+    "id": "9f626991-8396-479f-af83-2f161feb45ad",
+    "title": "Production Technician",
+    "active": true,
+    "date_updated": 1761727211,
+    "date_posted": 1761727211,
+    "url": "https://jobs.lever.co/shieldai/efe94990-c80b-45b6-949b-71dde71235d2/apply",
+    "locations": [
+      "Dallas, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Shield-AI",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
