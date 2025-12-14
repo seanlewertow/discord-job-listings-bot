@@ -61538,5 +61538,24 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Optimove",
+    "id": "1ff68951-d491-48ca-8c2a-ea5043fcc859",
+    "title": "ETL Developer",
+    "active": true,
+    "date_updated": 1765729724,
+    "date_posted": 1765729724,
+    "url": "https://job-boards.eu.greenhouse.io/optimove/jobs/4737242101",
+    "locations": [
+      "London, UK",
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Optimove",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
