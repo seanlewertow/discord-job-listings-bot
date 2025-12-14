@@ -61520,5 +61520,23 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "08505f1d-f204-49a4-93c6-8ce72fa7b554",
+    "title": "Trading Assistant",
+    "active": true,
+    "date_updated": 1765728686,
+    "date_posted": 1765728686,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400043206",
+    "locations": [
+      "Midlothian, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
