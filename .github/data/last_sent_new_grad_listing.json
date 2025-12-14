@@ -61575,5 +61575,77 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Palo Alto Networks",
+    "id": "d697b1da-2306-4b4e-8fe8-a6df68607340",
+    "title": "Senior Software Engineer in Test Prisma Access - AI Automation Engineer",
+    "active": true,
+    "date_updated": 1765754259,
+    "date_posted": 1765754259,
+    "url": "https://jobs.smartrecruiters.com/PaloAltoNetworks2/744000098830255",
+    "locations": [
+      "Santa Clara, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Palo-Alto-Networks",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "aa54b15c-d1ef-412d-8211-6a6d2c656ad1",
+    "title": "Trading Assistant",
+    "active": true,
+    "date_updated": 1765754035,
+    "date_posted": 1765754035,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400043236",
+    "locations": [
+      "Highland Council, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "16c6bc7c-0c29-4960-81a9-b7d0a54b962f",
+    "title": "Trading Assistant",
+    "active": true,
+    "date_updated": 1765754035,
+    "date_posted": 1765754035,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400043230",
+    "locations": [
+      "Birmingham, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "04b4bfaf-342e-404d-95de-e8b4511ceec5",
+    "title": "Trading Assistant",
+    "active": true,
+    "date_updated": 1765754034,
+    "date_posted": 1765754034,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400043235",
+    "locations": [
+      "Highland Council, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
