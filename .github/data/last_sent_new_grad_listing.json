@@ -61412,5 +61412,59 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "cc472a6b-34f0-4cd5-b992-1f41dc7b19a6",
+    "title": "Trading Assistant",
+    "active": true,
+    "date_updated": 1765667565,
+    "date_posted": 1765667565,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400043187",
+    "locations": [
+      "Blackpool, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "986a6e54-f8a4-49be-9b0b-20f2fcbe2a7d",
+    "title": "Trading Assistant",
+    "active": true,
+    "date_updated": 1765667564,
+    "date_posted": 1765667564,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400043183",
+    "locations": [
+      "Blackpool, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "5a4378ac-1fc0-4d75-b305-09bc71d0f0d1",
+    "title": "Trading Assistant",
+    "active": true,
+    "date_updated": 1765667569,
+    "date_posted": 1765667569,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400043177",
+    "locations": [
+      "Derby, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
