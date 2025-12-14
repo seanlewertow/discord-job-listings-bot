@@ -61502,5 +61502,23 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "NV5 Global",
+    "id": "319fd885-e095-4470-a4b4-1d2ae4a6a624",
+    "title": "Electrical Engineer 1",
+    "active": true,
+    "date_updated": 1765696687,
+    "date_posted": 1757612918,
+    "url": "https://careers-nv5.icims.com/jobs/10285/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Atlanta, GA"
+    ],
+    "company_url": "https://simplify.jobs/c/NV5-Global",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
