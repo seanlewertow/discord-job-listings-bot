@@ -61466,5 +61466,41 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "IDEMIA",
+    "id": "f160c994-a9b1-425e-997b-3ef89b7cd8dc",
+    "title": "Quality Inspector 1",
+    "active": true,
+    "date_updated": 1765678808,
+    "date_posted": 1763712544,
+    "url": "https://uscareers-idemia.icims.com/jobs/8050/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "St. Louis, MO"
+    ],
+    "company_url": "https://simplify.jobs/c/Idemia",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Liberty Mutual",
+    "id": "c94e40b2-b209-467d-a96a-6223a7672b3e",
+    "title": "Insurance Agent",
+    "active": true,
+    "date_updated": 1765678913,
+    "date_posted": 1757565192,
+    "url": "https://careers-libertymutual.icims.com/jobs/71564/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Austin, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Liberty-Mutual",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
