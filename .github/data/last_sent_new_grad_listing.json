@@ -62028,5 +62028,23 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Upbring",
+    "id": "9dea62b1-285d-45e0-bd21-edf8db653629",
+    "title": "Early Head Start Teacher",
+    "active": true,
+    "date_updated": 1765793988,
+    "date_posted": 1761900858,
+    "url": "https://careers-upbring.icims.com/jobs/6832/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "McLean, VA"
+    ],
+    "company_url": "https://simplify.jobs/c/Upbring",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
