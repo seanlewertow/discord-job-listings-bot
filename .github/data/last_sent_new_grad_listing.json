@@ -62226,5 +62226,59 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "mthree",
+    "id": "585063e9-9a66-4c9e-a73d-4e7c4a7d4934",
+    "title": "Junior Software Developer - Bournemouth",
+    "active": true,
+    "date_updated": 1765819014,
+    "date_posted": 1765819014,
+    "url": "https://mthree.com/careers/job/?gh_jid=4625805006",
+    "locations": [
+      "Christchurch, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Mthree",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "NBCUniversal",
+    "id": "4154a5c7-9935-4aac-abce-292d4b67a239",
+    "title": "Analyst \u2013 Data Product Management",
+    "active": true,
+    "date_updated": 1765816163,
+    "date_posted": 1765816163,
+    "url": "https://jobs.smartrecruiters.com/NBCUniversal3/744000098935120",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/NBCUniversal",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Qualcomm",
+    "id": "15285081-a634-4f80-a6b3-e49ec2525305",
+    "title": "Software Engineer - Software Engineering",
+    "active": true,
+    "date_updated": 1765815754,
+    "date_posted": 1765815754,
+    "url": "https://qualcomm.eightfold.ai/careers/job/446715747052",
+    "locations": [
+      "San Diego, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Qualcomm",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
