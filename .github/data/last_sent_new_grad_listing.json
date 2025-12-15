@@ -61956,5 +61956,77 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "DCH Health System",
+    "id": "5aaea3e0-eb7b-4548-8be4-217d0156b004",
+    "title": "Medical Assistant",
+    "active": true,
+    "date_updated": 1765793572,
+    "date_posted": 1764197999,
+    "url": "https://careers-dchsystem.icims.com/jobs/11631/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Atlanta, GA"
+    ],
+    "company_url": "https://simplify.jobs/c/DCH-Health-System",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Campus Apartments",
+    "id": "8fbbb306-3384-40ce-8d52-8b8cbf87991b",
+    "title": "Apartment Groundsperson",
+    "active": true,
+    "date_updated": 1765793362,
+    "date_posted": 1764112055,
+    "url": "https://careers-campusapts.icims.com/jobs/3338/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Occoquan Historic District, VA"
+    ],
+    "company_url": "https://simplify.jobs/c/Campus-Apartments",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "Better Health Group",
+    "id": "017c454f-6d2d-4f7a-a36f-4d94ceafa936",
+    "title": "Medical Assistant",
+    "active": true,
+    "date_updated": 1765793728,
+    "date_posted": 1759759293,
+    "url": "https://careers-betterhealthgroup.icims.com/jobs/2440/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Addison, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Better-Health-Group",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Upbring",
+    "id": "4a56623a-9da0-45a8-8ecb-a4f415c1c803",
+    "title": "Early Head Start Teacher",
+    "active": true,
+    "date_updated": 1765794007,
+    "date_posted": 1757614776,
+    "url": "https://careers-upbring.icims.com/jobs/6520/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "McLean, VA"
+    ],
+    "company_url": "https://simplify.jobs/c/Upbring",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
