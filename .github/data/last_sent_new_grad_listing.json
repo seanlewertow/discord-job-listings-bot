@@ -61881,5 +61881,80 @@
     "date_posted": 1765784848,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "General Dynamics Information Technology",
+    "id": "aa1931b3-8fec-4aa6-9d26-81e261d22cb9",
+    "title": "Software Engineer",
+    "active": true,
+    "date_updated": 1765784173,
+    "date_posted": 1765784173,
+    "url": "https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-FL-MacDill-AFB/Software-Engineer_RQ211472-1",
+    "locations": [
+      "Tampa, FL"
+    ],
+    "company_url": "https://simplify.jobs/c/GDIT",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "The Boeing Company",
+    "id": "92b8c623-f11d-4dc8-9ae7-6a17ea95d8e3",
+    "title": "Software Engineer-Hardware Emulation - Hardware Emulation - 1",
+    "active": true,
+    "date_updated": 1765783870,
+    "date_posted": 1765783870,
+    "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/United-States---Remote/Software-Engineer-Hardware-Emulation--Hardware-Emulation--1_JR2025471476-1",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/Boeing",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Centene",
+    "id": "e1296237-180a-4687-a790-b6f3be7e78fe",
+    "title": "Data Engineer 1",
+    "active": true,
+    "date_updated": 1765783592,
+    "date_posted": 1765783592,
+    "url": "https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-WI/Data-Engineer-I_1624077",
+    "locations": [
+      "New Mexico",
+      "Kansas",
+      "Pennsylvania",
+      "Iowa",
+      "Texas",
+      "Florida",
+      "South Carolina",
+      "Georgia",
+      "Tennessee",
+      "Arkansas",
+      "Minnesota",
+      "Utah",
+      "Wisconsin",
+      "North Carolina",
+      "Oklahoma",
+      "Missouri",
+      "Ohio",
+      "Michigan",
+      "Illinois",
+      "Alabama"
+    ],
+    "company_url": "https://simplify.jobs/c/Centene",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
