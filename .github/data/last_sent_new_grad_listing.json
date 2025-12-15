@@ -61647,5 +61647,41 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "Clerkie",
+    "id": "123e8c6b-d651-4788-8e76-3051f3e136d4",
+    "title": "Associate Product Manager",
+    "active": true,
+    "date_updated": 1765754034,
+    "date_posted": 1765754034,
+    "url": "http://getfiber.ai/careers?gh_jid=5004501007",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/Clerkie",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Seminole Hard Rock",
+    "id": "1f1b66bc-d224-42ec-b83d-43d28e063bfc",
+    "title": "Slot Technician 1",
+    "active": true,
+    "date_updated": 1765754839,
+    "date_posted": 1765754839,
+    "url": "https://careers-seminole.icims.com/jobs/63225/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Tampa, FL"
+    ],
+    "company_url": "https://simplify.jobs/c/Seminole-Hard-Rock",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
