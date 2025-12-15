@@ -61719,5 +61719,95 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "date_updated": 1765784053,
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "degrees": [],
+    "url": "https://jobs.lever.co/inductiveautomation/5cdc7a76-69f7-4979-8971-72e5e06015a0",
+    "company_name": "Inductive Automation",
+    "title": "Software Quality Assurance Engineer I",
+    "locations": [
+      "Folsom, CA"
+    ],
+    "category": "Software Engineering",
+    "source": "AlmondCroffle",
+    "id": "54379f3c-4e4d-4406-a68a-893b3da865f3",
+    "date_posted": 1765784053,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1765784174,
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "degrees": [],
+    "url": "https://jobs.ashbyhq.com/sentra/3c9729ca-67b3-4f9f-9c64-5e1e10be1719",
+    "company_name": "Sentra",
+    "title": "Software Engineer - New Grad",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "category": "Software Engineering",
+    "source": "AlmondCroffle",
+    "id": "8749b18a-be8b-41f9-aaee-c326d236f90a",
+    "date_posted": 1765784174,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1765784252,
+    "sponsorship": "U.S. Citizenship is Required",
+    "active": true,
+    "degrees": [],
+    "url": "https://apply.workable.com/thorlabs/j/EA6A31C779/",
+    "company_name": "Thorlabs",
+    "title": "Software Engineer I",
+    "locations": [
+      "West Columbia, SC"
+    ],
+    "category": "Software Engineering",
+    "source": "AlmondCroffle",
+    "id": "23b1cb19-288b-4f6a-9bcd-63147af4178d",
+    "date_posted": 1765784252,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1765784337,
+    "sponsorship": "U.S. Citizenship is Required",
+    "active": true,
+    "degrees": [],
+    "url": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Huntsville-AL/Full-Stack-Developer--Junior_R0230619",
+    "company_name": "Booz Allen",
+    "title": "Full-Stack Developer, Junior",
+    "locations": [
+      "Huntsville, AL"
+    ],
+    "category": "Software Engineering",
+    "source": "AlmondCroffle",
+    "id": "180bef9c-342f-433a-9d18-e40fe57d04fa",
+    "date_posted": 1765784337,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1765784431,
+    "sponsorship": "U.S. Citizenship is Required",
+    "active": true,
+    "degrees": [],
+    "url": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Huntsville-AL/Data-Engineer--Junior_R0230617",
+    "company_name": "Booz Allen",
+    "title": "Data Engineer, Junior",
+    "locations": [
+      "Huntsville, AL"
+    ],
+    "category": "Data Science, AI & Machine Learning",
+    "source": "AlmondCroffle",
+    "id": "0a0f1d90-089b-4067-a331-105cb43d667d",
+    "date_posted": 1765784431,
+    "company_url": "",
+    "is_visible": true
   }
 ]
