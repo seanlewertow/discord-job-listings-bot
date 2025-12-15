@@ -62064,5 +62064,77 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "EquipmentShare",
+    "id": "c1390841-d93c-44d4-982b-0a679faf798f",
+    "title": "Telematics Installer",
+    "active": true,
+    "date_updated": 1765815392,
+    "date_posted": 1765815392,
+    "url": "https://www.equipmentshare.com/careers/openings/?gh_jid=7471729",
+    "locations": [
+      "Memphis, TN"
+    ],
+    "company_url": "https://simplify.jobs/c/Equipment-Share",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Visa",
+    "id": "47230078-9a36-4f79-b960-71ddab02d312",
+    "title": "Software Engineer",
+    "active": true,
+    "date_updated": 1765815582,
+    "date_posted": 1765815582,
+    "url": "https://jobs.smartrecruiters.com/Visa/744000098974315",
+    "locations": [
+      "Bellevue, WA"
+    ],
+    "company_url": "https://simplify.jobs/c/Visa",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "34695ff6-ed6d-404d-92e7-7929649187c8",
+    "title": "Trading Assistant",
+    "active": true,
+    "date_updated": 1765815447,
+    "date_posted": 1765815447,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400043292",
+    "locations": [
+      "Guildford, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Google",
+    "id": "641414b2-be58-43ec-9313-0c779f7b28d4",
+    "title": "Signal and Power Integrity Engineer",
+    "active": true,
+    "date_updated": 1765815207,
+    "date_posted": 1765815207,
+    "url": "https://www.google.com/about/careers/applications/jobs/results/126168225606968006",
+    "locations": [
+      "Sunnyvale, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Google",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
