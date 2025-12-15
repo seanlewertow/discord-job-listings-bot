@@ -62136,5 +62136,95 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "WPP Media",
+    "id": "279f4f43-0d98-492a-9fc5-853bfb2a5195",
+    "title": "Research and Insight Executive",
+    "active": true,
+    "date_updated": 1765816939,
+    "date_posted": 1765816939,
+    "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5024596008",
+    "locations": [
+      "Manchester, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/WPP-Media",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "e16d6341-ccc1-4679-944d-1379cdbf36ac",
+    "title": "Trading Assistant",
+    "active": true,
+    "date_updated": 1765815477,
+    "date_posted": 1765815477,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400043300",
+    "locations": [
+      "Stoke-on-Trent, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "c4e80c16-394e-4f0f-9bf3-74d35b8b8058",
+    "title": "Trading Assistant",
+    "active": true,
+    "date_updated": 1765815467,
+    "date_posted": 1765815467,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400043303",
+    "locations": [
+      "Stoke-on-Trent, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "37a26267-3f18-46b8-a81b-0abfa9a4fcce",
+    "title": "Trading Assistant - Local",
+    "active": true,
+    "date_updated": 1765815446,
+    "date_posted": 1765815446,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400042944",
+    "locations": [
+      "Oxford, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "08462ab9-dd19-49be-8934-b2a9a71ace1d",
+    "title": "Trading Assistant - Local",
+    "active": true,
+    "date_updated": 1765815450,
+    "date_posted": 1765815450,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400041931",
+    "locations": [
+      "Brighton, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
