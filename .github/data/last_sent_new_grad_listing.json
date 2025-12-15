@@ -62336,5 +62336,95 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Monterey Technologies",
+    "id": "258c0966-8116-42e2-bdc7-91e90606e6e5",
+    "title": "Junior Software Engineer",
+    "active": true,
+    "date_updated": 1765840235,
+    "date_posted": 1765840235,
+    "url": "https://jobs.lever.co/mti-inc/6b5e1aff-24f6-42e0-b858-6ffe6071b126/apply",
+    "locations": [
+      "Park City, UT"
+    ],
+    "company_url": "https://simplify.jobs/c/Monterey-Technologies",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Wyetech",
+    "id": "f98b41ea-7f13-40df-9d6f-f58edcf14013",
+    "title": "Software Engineer 2",
+    "active": true,
+    "date_updated": 1765840162,
+    "date_posted": 1765840162,
+    "url": "https://jobs.lever.co/wyetechllc/a1ca17f8-bbf2-48d0-ba3a-e80f121e4f8d/apply",
+    "locations": [
+      "Laurel, MD"
+    ],
+    "company_url": "https://simplify.jobs/c/Wyetech-LLC",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Microsoft",
+    "id": "b95cf25c-30e2-452c-bf5b-427d4cd9127e",
+    "title": "Software Engineer",
+    "active": true,
+    "date_updated": 1765840182,
+    "date_posted": 1765840182,
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393556631977",
+    "locations": [
+      "Redmond, WA"
+    ],
+    "company_url": "https://simplify.jobs/c/Microsoft",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Microsoft",
+    "id": "2340b871-788a-498a-94e9-d7f8f7bb0b1b",
+    "title": "Software Engineer - Windows Servicing and Delivery",
+    "active": true,
+    "date_updated": 1765840194,
+    "date_posted": 1765840194,
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393556631972",
+    "locations": [
+      "Redmond, WA"
+    ],
+    "company_url": "https://simplify.jobs/c/Microsoft",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Ciena",
+    "id": "6433928c-553c-4393-9b86-db1b03e1afbe",
+    "title": "Wavelogic Firmware Developer \u2013 New Grad",
+    "active": true,
+    "date_updated": 1765839901,
+    "date_posted": 1765839901,
+    "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Atlanta/Wavelogic-Firmware-Developer---New-Grad_R029612",
+    "locations": [
+      "Atlanta, GA"
+    ],
+    "company_url": "https://simplify.jobs/c/Ciena",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
