@@ -62280,5 +62280,24 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Google",
+    "id": "ebbc3156-da67-4f36-9c2e-963dd5a888ea",
+    "title": "Software Engineer 3 - Infrastructure - Google Cloud Global Networking",
+    "active": true,
+    "date_updated": 1765790152,
+    "date_posted": 1748756012,
+    "url": "https://www.google.com/about/careers/applications/jobs/results/80928836794884806",
+    "locations": [
+      "Sunnyvale, CA",
+      "Atlanta, GA"
+    ],
+    "company_url": "https://simplify.jobs/c/Google",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
