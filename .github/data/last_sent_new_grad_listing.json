@@ -61683,5 +61683,41 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Utah State University",
+    "id": "ebc7feb3-17a0-4f49-9cdd-89d6d8fdf83b",
+    "title": "Junior Aggies Academy Caregiver",
+    "active": true,
+    "date_updated": 1765764924,
+    "date_posted": 1759493017,
+    "url": "https://careers-usu.icims.com/jobs/8878/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Ardmore, PA"
+    ],
+    "company_url": "https://simplify.jobs/c/Utah-State-University",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Electronic Therapy",
+    "id": "c8bcb32c-6b4c-4089-a41e-66225db9e494",
+    "title": "Speech Language Pathologist Clinical Fellow",
+    "active": true,
+    "date_updated": 1765765652,
+    "date_posted": 1757564729,
+    "url": "https://careers-electronic-therapy.icims.com/jobs/2721/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Annapolis Junction, MD"
+    ],
+    "company_url": "https://simplify.jobs/c/Electronic-Therapy",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
