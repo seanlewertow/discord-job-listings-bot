@@ -62952,5 +62952,23 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Safelite",
+    "id": "3775dbc6-90f2-4798-b66d-2bd95e9efaf2",
+    "title": "Auto Glass Technician Trainee",
+    "active": true,
+    "date_updated": 1765891542,
+    "date_posted": 1765891542,
+    "url": "https://belron.wd3.myworkdayjobs.com/Safelite_Careers/job/SPRINGDALE-AR/Auto-Glass-Technician-Trainee_JR63270",
+    "locations": [
+      "Springdale, AR"
+    ],
+    "company_url": "https://simplify.jobs/c/Safelite",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
