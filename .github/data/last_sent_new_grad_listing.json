@@ -62426,5 +62426,97 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Rochester Regional Health",
+    "id": "51196b9f-8ee4-4165-a06b-e2bb7d2eed60",
+    "title": "EMR Analyst",
+    "active": true,
+    "date_updated": 1765842508,
+    "date_posted": 1765842508,
+    "url": "https://rrhs.wd5.myworkdayjobs.com/RRH/job/Riedman---Remote/EMR-Analyst_REQ_227863",
+    "locations": [
+      "Rochester, NY"
+    ],
+    "company_url": "https://simplify.jobs/c/Rochester-Regional-Health",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Amentum",
+    "id": "61e9539c-1b54-4c8b-a8bd-1eaeadeec906",
+    "title": "Entry Level Software Engineer",
+    "active": true,
+    "date_updated": 1765842476,
+    "date_posted": 1765842476,
+    "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/Entry-Level-Software-Engineer_R0150489",
+    "locations": [
+      "Dahlgren, VA"
+    ],
+    "company_url": "https://simplify.jobs/c/Amentum",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Danaher Corporation",
+    "id": "19f1e04d-2f81-4474-b05a-122355ab4e54",
+    "title": "Field Service Engineer",
+    "active": true,
+    "date_updated": 1765842918,
+    "date_posted": 1765842918,
+    "url": "https://danaher.wd1.myworkdayjobs.com/danaherjobs/job/Seattle-Washington-United-States/Field-Service-Engineer--Seattle--WA_R1299825",
+    "locations": [
+      "Seattle, WA",
+      "Bothell, WA",
+      "Bellevue, WA"
+    ],
+    "company_url": "https://simplify.jobs/c/Danaher-Corporation",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Curtiss-Wright Corporation",
+    "id": "d30db10d-b71c-4298-bb53-dd172fb3af0d",
+    "title": "Graduate Engineer",
+    "active": true,
+    "date_updated": 1765842382,
+    "date_posted": 1765842382,
+    "url": "https://curtisswright.wd1.myworkdayjobs.com/cw_external_career_site/job/US-MD-Frederick-Nuclear/Graduate-Engineer_JR10597",
+    "locations": [
+      "Frederick, MD"
+    ],
+    "company_url": "https://simplify.jobs/c/Curtiss-Wright",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Allied Solutions",
+    "id": "52e6e755-37ab-4583-a05e-ae848190352a",
+    "title": "Data Integration Analyst 1",
+    "active": true,
+    "date_updated": 1765842189,
+    "date_posted": 1765842189,
+    "url": "https://alliedsolutions.wd501.myworkdayjobs.com/Allied_External/job/Carmel-IN/Data-File-Analyst--On-Site--IN-_R-010442",
+    "locations": [
+      "Carmel, IN"
+    ],
+    "company_url": "https://simplify.jobs/c/Allied-Solutions",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
