@@ -62518,5 +62518,95 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "RTX",
+    "id": "1a168743-f85e-46dd-ba57-077c21be8b3e",
+    "title": "Java Software Engineer 1",
+    "active": true,
+    "date_updated": 1765851810,
+    "date_posted": 1765851810,
+    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/PA602-302-Science-Park-Road-Bldg-5C-302-Science-Park-Road-Building-5C-State-College-PA-16803-2214-USA/XMLNAME-2026-Fulltime---Raytheon-Java-Software-Engineer-I--Onsite-_01812452",
+    "locations": [
+      "State College, PA"
+    ],
+    "company_url": "https://simplify.jobs/c/RTX",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Intuit",
+    "id": "63371e90-5343-4df1-9daa-3c82937d7467",
+    "title": "Software Engineer 1",
+    "active": true,
+    "date_updated": 1765851426,
+    "date_posted": 1765851426,
+    "url": "https://jobs.intuit.com/job/mountain-view/software-engineer-1/27595/89565714160",
+    "locations": [
+      "Mountain View, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Intuit",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Brightview Senior Living",
+    "id": "0fb81508-24a7-466f-ba5d-7b53eb0d98dc",
+    "title": "Caregiver N A or CHHA",
+    "active": true,
+    "date_updated": 1765852045,
+    "date_posted": 1762385767,
+    "url": "https://careers-brightviewseniorliving.icims.com/jobs/10171/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Calgary, AB, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Brightview-Senior-Living",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "Barnes & Noble Education",
+    "id": "a45f3c7e-b0ff-44cc-b4f7-33bc3ff4e57e",
+    "title": "MS State Campus Retail Associate - Temporary",
+    "active": true,
+    "date_updated": 1765852174,
+    "date_posted": 1761896490,
+    "url": "https://careers-bncollege.icims.com/jobs/20017/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Dublin, OH"
+    ],
+    "company_url": "https://simplify.jobs/c/Barnes-And-Noble-Education",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "General Dynamics",
+    "id": "e6e22b2c-6462-498c-9766-61e85e4a2b0a",
+    "title": "Entry Level Draftsman-Learners",
+    "active": true,
+    "date_updated": 1765852170,
+    "date_posted": 1761879409,
+    "url": "https://careers-gdeb.icims.com/jobs/17137/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Groton, CT"
+    ],
+    "company_url": "https://simplify.jobs/c/General-Dynamics",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
