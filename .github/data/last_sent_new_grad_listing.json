@@ -63301,5 +63301,97 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Alphataraxia",
+    "id": "8b55c551-2249-4f32-8cc7-9773e333ee8a",
+    "title": "Investment Engineer",
+    "active": true,
+    "date_updated": 1765927245,
+    "date_posted": 1765927245,
+    "url": "https://job-boards.greenhouse.io/alphataraxia/jobs/5006221007",
+    "locations": [
+      "Washington, DC"
+    ],
+    "company_url": "https://simplify.jobs/c/Alphataraxia",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Daimler Truck",
+    "id": "6e5bb4f9-f30c-487a-aa36-8fdf4ae6bff5",
+    "title": "Data Engineer Visualization and Solutions",
+    "active": true,
+    "date_updated": 1765927088,
+    "date_posted": 1765927088,
+    "url": "https://dtna.wd5.myworkdayjobs.com/DTNA_external/job/Portland-OR-US/Data-Engineer-Visualization-and-Solutions_DT-16278-2",
+    "locations": [
+      "Portland, OR"
+    ],
+    "company_url": "https://simplify.jobs/c/Daimler-Truck",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Boson Ai",
+    "id": "776be54d-e757-40f1-bb85-8e84b34f44f7",
+    "title": "Data Annotation - QC and Crawling - Spanish and Portuguese",
+    "active": true,
+    "date_updated": 1765926904,
+    "date_posted": 1765926904,
+    "url": "https://jobs.lever.co/bosonai/92c7bc04-9eab-4f19-a81d-de03b9f311ac/apply",
+    "locations": [
+      "Santa Clara, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/0a12c14b-a812-45a9-a0c2-a61a2802d9f2",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "Kontoor Brands",
+    "id": "74ffbd8e-1190-4f60-8068-5be2a5dd69bb",
+    "title": "Associate Product Developer",
+    "active": true,
+    "date_updated": 1765926306,
+    "date_posted": 1765926306,
+    "url": "https://kbi.wd5.myworkdayjobs.com/Kontoor/job/Greensboro-NC/Associate-Product-Developer_R-20251009-0007",
+    "locations": [
+      "Greensboro, NC"
+    ],
+    "company_url": "https://simplify.jobs/c/Kontoor-Brands",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Westinghouse Electric Company",
+    "id": "64f60e78-e14b-4581-90ed-2d926f206701",
+    "title": "Electrical Technician",
+    "active": true,
+    "date_updated": 1765926627,
+    "date_posted": 1765926627,
+    "url": "https://careers.westinghousenuclear.com/job/Warrendale-Electrical-Technician-C-OR/1350143800/?ats=successfactors",
+    "locations": [
+      "Cranberry Twp, PA"
+    ],
+    "company_url": "https://simplify.jobs/c/Westinghouse-Electric-Company",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
