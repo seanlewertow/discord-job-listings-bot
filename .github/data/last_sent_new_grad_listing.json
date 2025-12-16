@@ -62880,5 +62880,77 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Amazing Lash Studios",
+    "id": "ebee1357-430d-42c6-962c-ad664d4a332f",
+    "title": "Retail Sales Associate / Customer Service",
+    "active": true,
+    "date_updated": 1765880892,
+    "date_posted": 1765840339,
+    "url": "https://amazinglashstudio-wellbizbrands.icims.com/jobs/21376/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Princeton, NJ"
+    ],
+    "company_url": "https://simplify.jobs/c/Amazing-Lash-Studios",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "WPP Media",
+    "id": "15a02fb8-0081-4957-90d1-9c7e39881b5e",
+    "title": "Data Scientist \u2013 Entry Level",
+    "active": true,
+    "date_updated": 1765881243,
+    "date_posted": 1764199610,
+    "url": "https://job-boards.greenhouse.io/wppmedia/jobs/4992067008",
+    "locations": [
+      "London, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/WPP-Media",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Ohio State University Physicians",
+    "id": "488a7295-310f-45ad-b191-4f4822778dd4",
+    "title": "Medical Assistant or Licensed Practical Nurse - Urgent Care Clintonville",
+    "active": true,
+    "date_updated": 1765881077,
+    "date_posted": 1762819705,
+    "url": "https://careers-osuphysicians.icims.com/jobs/4944/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Huntsville, AL"
+    ],
+    "company_url": "https://simplify.jobs/c/Ohio-State-University-Physicians",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "The Salvation Army",
+    "id": "64f6c272-c4af-416c-be64-fd7357383fe4",
+    "title": "Recreation Assistant",
+    "active": true,
+    "date_updated": 1765880694,
+    "date_posted": 1760057643,
+    "url": "https://careers-usesalvationarmy.icims.com/jobs/14729/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Colorado Springs, CO"
+    ],
+    "company_url": "https://simplify.jobs/c/The-Salvation-Army",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
