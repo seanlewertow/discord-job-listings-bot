@@ -62988,5 +62988,26 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "date_updated": 1765896070,
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "degrees": [],
+    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/DGX-Cloud-Performance-Engineer---New-Grad-2026_JR2009610",
+    "company_name": "NVIDIA",
+    "title": "DGX Cloud Performance Engineer",
+    "locations": [
+      "Santa Clara, CA",
+      "Remote in TX",
+      "Remote in WA",
+      "Remote in CA"
+    ],
+    "category": "Software Engineering",
+    "source": "AlmondCroffle",
+    "id": "9fae528d-53fc-4c43-9806-ea9338ceba5d",
+    "date_posted": 1765896070,
+    "company_url": "",
+    "is_visible": true
   }
 ]
