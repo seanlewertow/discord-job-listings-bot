@@ -62626,5 +62626,59 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Intuit",
+    "id": "f0bab965-a781-406a-84ce-7a1af4db890b",
+    "title": "Software Engineer 1",
+    "active": true,
+    "date_updated": 1765869376,
+    "date_posted": 1765869376,
+    "url": "https://jobs.intuit.com/job/mountain-view/software-engineer-1/27595/89571716016",
+    "locations": [
+      "Mountain View, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Intuit",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Intuit",
+    "id": "8c008053-8b6d-45dc-b343-934fa1783546",
+    "title": "Softare Engineer 1",
+    "active": true,
+    "date_updated": 1765869375,
+    "date_posted": 1765869375,
+    "url": "https://jobs.intuit.com/job/mountain-view/softare-engineer-1/27595/89568852704",
+    "locations": [
+      "Mountain View, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Intuit",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "Davidson Hospitality Group",
+    "id": "059b1a8c-45e1-4493-ae0d-7ff3b10b7be4",
+    "title": "AM Maintenance Engineer",
+    "active": true,
+    "date_updated": 1765870027,
+    "date_posted": 1761898628,
+    "url": "https://careers-davidsonhospitality.icims.com/jobs/21731/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Philadelphia, PA"
+    ],
+    "company_url": "https://simplify.jobs/c/Davidson-Hospitality-Group",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
