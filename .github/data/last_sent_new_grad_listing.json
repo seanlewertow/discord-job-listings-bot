@@ -63027,5 +63027,77 @@
     "date_posted": 1765901414,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "date_updated": 1765902060,
+    "sponsorship": "Does Not Offer Sponsorship",
+    "active": true,
+    "degrees": [],
+    "url": "https://encore.wd1.myworkdayjobs.com/confidential/job/CA---San-Diego/Software-Engineer_HR-19575-2",
+    "company_name": "Encore Capital Group",
+    "title": "Associate Software Engineer",
+    "locations": [
+      "San Diego, CA"
+    ],
+    "category": "Software Engineering",
+    "source": "AlmondCroffle",
+    "id": "2557817a-960e-4e25-b1ff-fc1a147d6d4c",
+    "date_posted": 1765902060,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1765902221,
+    "sponsorship": "Does Not Offer Sponsorship",
+    "active": true,
+    "degrees": [],
+    "url": "https://morningstar.wd5.myworkdayjobs.com/confidential/job/Chicago/Associate-Software-Engineer_REQ-054479-2",
+    "company_name": "Morningstar",
+    "title": "Associate Software Engineer",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "category": "Software Engineering",
+    "source": "AlmondCroffle",
+    "id": "0cb08fe2-e679-4a04-9a86-4cabde181ed8",
+    "date_posted": 1765902221,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "ec55f686-fcfd-4f3d-9d21-8b0c3a9f478c",
+    "title": "Trading Assistant",
+    "active": true,
+    "date_updated": 1765901730,
+    "date_posted": 1765901730,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400043407",
+    "locations": [
+      "Aldershot, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "URBN",
+    "id": "fa3e3506-4e3c-4b03-b53d-f383eeced249",
+    "title": "Styling Assistant - Styling",
+    "active": true,
+    "date_updated": 1765902113,
+    "date_posted": 1759458359,
+    "url": "https://homeoffice-na-urbn.icims.com/jobs/20780/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Detroit, MI"
+    ],
+    "company_url": "https://simplify.jobs/c/URBN",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
