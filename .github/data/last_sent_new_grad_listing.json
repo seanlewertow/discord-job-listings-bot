@@ -62608,5 +62608,23 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "WSP",
+    "id": "84331b99-748e-41d8-ae96-ad480a053962",
+    "title": "Assistant Consultant / Consultant - Air Quality - Cardiff",
+    "active": true,
+    "date_updated": 1765851634,
+    "date_posted": 1765851634,
+    "url": "https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/76989",
+    "locations": [
+      "Cardiff, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/WSP",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
