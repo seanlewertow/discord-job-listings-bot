@@ -63193,5 +63193,95 @@
     "degrees": [
       "PhD"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "Google",
+    "id": "896cf800-a20e-4a61-83ee-2d37dfa000bf",
+    "title": "Product Manager 1 - Youtube Youth - Trust and Safety",
+    "active": true,
+    "date_updated": 1765901710,
+    "date_posted": 1765901710,
+    "url": "https://www.google.com/about/careers/applications/jobs/results/124603036445090502",
+    "locations": [
+      "San Bruno, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Google",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "6551602c-9594-4ed3-99b0-e1bb29a27df8",
+    "title": "Trading Assistant",
+    "active": true,
+    "date_updated": 1765901731,
+    "date_posted": 1765901731,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400043388",
+    "locations": [
+      "Leeds, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "373c5c22-ba35-45a0-bf9b-19881dcad64e",
+    "title": "Trading Assistant",
+    "active": true,
+    "date_updated": 1765901729,
+    "date_posted": 1765901729,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400043409",
+    "locations": [
+      "Aldershot, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "2af0c5f8-e787-4c5e-b09b-1ee321792fd7",
+    "title": "Trading Assistant",
+    "active": true,
+    "date_updated": 1765901727,
+    "date_posted": 1765901727,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400043410",
+    "locations": [
+      "Aldershot, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Jensen Hughes",
+    "id": "394846bb-97bb-4df7-8cc3-f8902f7b9f0c",
+    "title": "Consultant/Engineer",
+    "active": true,
+    "date_updated": 1765902366,
+    "date_posted": 1764990008,
+    "url": "https://job-boards.greenhouse.io/jensenhughes/jobs/4892742008",
+    "locations": [
+      "West Chester, PA"
+    ],
+    "company_url": "https://simplify.jobs/c/Jensen-Hughes",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
