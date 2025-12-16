@@ -62718,5 +62718,23 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Medtronic",
+    "id": "21ea3d17-9d33-4c2d-9a49-b6460fa89fa8",
+    "title": "Technician 1",
+    "active": true,
+    "date_updated": 1765872237,
+    "date_posted": 1765872237,
+    "url": "https://medtronic.wd1.myworkdayjobs.com/redeploymentmedtroniccareers/job/Fort-Worth-Texas-United-States-of-America/Technician-I_R50672-2",
+    "locations": [
+      "Fort Worth, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Medtronic",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
