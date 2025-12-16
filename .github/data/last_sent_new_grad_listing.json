@@ -62736,5 +62736,41 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Wyetech",
+    "id": "b831f444-2739-4c17-bbc4-71d0acfa10c2",
+    "title": "Software Engineer 2",
+    "active": true,
+    "date_updated": 1765840156,
+    "date_posted": 1765840156,
+    "url": "https://jobs.lever.co/wyetechllc/9585d817-be05-461c-bd89-7f55b469a64f/apply",
+    "locations": [
+      "Laurel, MD"
+    ],
+    "company_url": "https://simplify.jobs/c/Wyetech-LLC",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "Portwest",
+    "id": "ba283465-9d58-44e3-a731-ed32bad56e5e",
+    "title": "Product Graduate Program",
+    "active": true,
+    "date_updated": 1765877641,
+    "date_posted": 1760411731,
+    "url": "https://portwest.com/market/careers?gh_jid=4678944101",
+    "locations": [
+      "Manchester, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Portwest",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
