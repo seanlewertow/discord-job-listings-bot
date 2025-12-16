@@ -62970,5 +62970,23 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Amgen",
+    "id": "fa04c2fb-9f81-4926-ac6f-10d3ae04f150",
+    "title": "Associate Director - Machine Learning Engineer",
+    "active": true,
+    "date_updated": 1765893392,
+    "date_posted": 1765626370,
+    "url": "https://amgen.wd1.myworkdayjobs.com/careers/job/US---California---Thousand-Oaks/Principal-Agentic-AI-Chatbot-Engineer_R-232923",
+    "locations": [
+      "Thousand Oaks, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Amgen",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
