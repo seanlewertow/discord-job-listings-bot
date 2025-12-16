@@ -62844,5 +62844,41 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Vetcor",
+    "id": "809b346c-8700-4408-a9c6-5ffc308c21fe",
+    "title": "Veterinarian - Champion/ Warren - OH",
+    "active": true,
+    "date_updated": 1765881034,
+    "date_posted": 1764026109,
+    "url": "https://careers-vet.icims.com/jobs/10688/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Fort Campbell, KY"
+    ],
+    "company_url": "https://simplify.jobs/c/Vetcor",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "S:US",
+    "id": "1b5d3b69-67e4-479a-9695-419cdbb88228",
+    "title": "Direct Support Professional",
+    "active": true,
+    "date_updated": 1765880943,
+    "date_posted": 1757922609,
+    "url": "https://careeropportunity-sus.icims.com/jobs/17500/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Bloomington, IN"
+    ],
+    "company_url": "https://simplify.jobs/c/S-US",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
