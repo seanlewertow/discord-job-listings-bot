@@ -62680,5 +62680,43 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Intuit",
+    "id": "1ac9cbab-38da-4a81-bcaa-1aba87f91ae2",
+    "title": "Software Engineer 1",
+    "active": true,
+    "date_updated": 1765869363,
+    "date_posted": 1765869363,
+    "url": "https://jobs.intuit.com/job/mountain-view/software-engineer-1/27595/89571715968",
+    "locations": [
+      "NYC",
+      "Mountain View, CA",
+      "Atlanta, GA"
+    ],
+    "company_url": "https://simplify.jobs/c/Intuit",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Intuit",
+    "id": "dc50e619-dd10-4750-a395-bc387ab07362",
+    "title": "Software Engineer 1",
+    "active": true,
+    "date_updated": 1765869372,
+    "date_posted": 1765869372,
+    "url": "https://jobs.intuit.com/job/san-diego/software-engineer-1/27595/89571716080",
+    "locations": [
+      "San Diego, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Intuit",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
