@@ -63283,5 +63283,23 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "GE Aerospace",
+    "id": "d1817f16-d61b-4a7f-94f3-9df1685baab0",
+    "title": "Engineer \u2013 Software",
+    "active": true,
+    "date_updated": 1765903412,
+    "date_posted": 1765903412,
+    "url": "https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Cheltenham/Engineer---Software_R5024861",
+    "locations": [
+      "Gloucester, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/GE-Aerospace",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
