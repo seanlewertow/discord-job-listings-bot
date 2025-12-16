@@ -62772,5 +62772,77 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Apple",
+    "id": "27256e9f-dafd-42fd-a3e6-44fc95d63a7e",
+    "title": "Software Engineer \u2013 IS&T Early Career - Sap",
+    "active": true,
+    "date_updated": 1765879056,
+    "date_posted": 1763514599,
+    "url": "https://jobs.apple.com/en-us/details/200614664",
+    "locations": [
+      "Austin, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Apple",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "FutureCare",
+    "id": "4b078f86-5055-4a77-983d-22c698c13fc0",
+    "title": "GNA Certified Geriatric Nursing Assistant",
+    "active": true,
+    "date_updated": 1765880480,
+    "date_posted": 1763161837,
+    "url": "https://careers-futurecarehealth.icims.com/jobs/24277/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Dahlgren, VA"
+    ],
+    "company_url": "https://simplify.jobs/c/FutureCare",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Master Halco",
+    "id": "23f6e5e9-358d-4c30-9c21-5f5b8856288a",
+    "title": "Inside Sales Associate - Des Moines",
+    "active": true,
+    "date_updated": 1765880501,
+    "date_posted": 1758327898,
+    "url": "https://careers-masterhalco.icims.com/jobs/8230/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Radford, VA"
+    ],
+    "company_url": "https://simplify.jobs/c/Master-Halco",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Quantcast",
+    "id": "62bdff90-1a5c-45f6-baa6-7614f62cc52b",
+    "title": "Software Engineer",
+    "active": true,
+    "date_updated": 1765879043,
+    "date_posted": 1761874099,
+    "url": "https://jobs.lever.co/quantcast/fb62370c-e6a6-418e-b116-09de79ad50cf/apply",
+    "locations": [
+      "SF"
+    ],
+    "company_url": "https://simplify.jobs/c/Quantcast",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
