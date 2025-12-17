@@ -63688,5 +63688,59 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Covenant Health",
+    "id": "169ab55f-64d0-453a-a3b9-5b5f2055c540",
+    "title": "Certified Nursing Assistant - Oncology",
+    "active": true,
+    "date_updated": 1765967441,
+    "date_posted": 1763442831,
+    "url": "https://careers-covenanthealth.icims.com/jobs/69327/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Huntsville, AL"
+    ],
+    "company_url": "https://simplify.jobs/c/Covenant-Health",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "FutureCare",
+    "id": "0b823f4e-278b-4861-a686-460156d5a3ef",
+    "title": "Licensed Practical Nurse LPN - All Shifts",
+    "active": true,
+    "date_updated": 1765967104,
+    "date_posted": 1763161837,
+    "url": "https://careers-futurecarehealth.icims.com/jobs/24283/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Plano, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/FutureCare",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Foley & Lardner LLP",
+    "id": "7c94aca3-ea9a-4a4b-a18d-59e4a8cff7f6",
+    "title": "Tax & Trust Administration Paralegal",
+    "active": true,
+    "date_updated": 1765967730,
+    "date_posted": 1757612005,
+    "url": "https://careers-foley.icims.com/jobs/3397/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Annapolis Junction, MD"
+    ],
+    "company_url": "https://simplify.jobs/c/Foley",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
