@@ -63598,5 +63598,59 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Whoop",
+    "id": "f3fb4b9e-2950-44a9-ab85-7ef46d4b5ec6",
+    "title": "Senior Embedded Engineer",
+    "active": true,
+    "date_updated": 1765963774,
+    "date_posted": 1765840159,
+    "url": "https://jobs.lever.co/whoop/964e7efb-5d8e-4043-a775-4dc9d589644a/apply",
+    "locations": [
+      "Boston, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/Whoop",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Microsoft",
+    "id": "b175e405-3b6c-4015-9324-02577e008b0c",
+    "title": "Software Engineer",
+    "active": true,
+    "date_updated": 1765964140,
+    "date_posted": 1765580664,
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393556631142",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/Microsoft",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Mintlify",
+    "id": "52bf00f3-b325-414e-b820-7e50eb8c5314",
+    "title": "Support Engineer",
+    "active": true,
+    "date_updated": 1765964682,
+    "date_posted": 1758158624,
+    "url": "https://jobs.ashbyhq.com/Mintlify/4b5b6945-1a80-49fe-8bcb-64b3075e7b5f/application",
+    "locations": [
+      "SF"
+    ],
+    "company_url": "https://simplify.jobs/c/Mintlify",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
