@@ -63393,5 +63393,95 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "IDEX",
+    "id": "23958874-ec38-4eb7-921f-e3cda130cd44",
+    "title": "Tool Technician 1",
+    "active": true,
+    "date_updated": 1765927972,
+    "date_posted": 1765927972,
+    "url": "https://idexcorp.wd5.myworkdayjobs.com/idex_careers/job/Denver-Colorado/Tool-Technician-I_R-08247-1",
+    "locations": [
+      "Denver, CO"
+    ],
+    "company_url": "https://simplify.jobs/c/IDEX",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "The Boeing Company",
+    "id": "1a1e822f-dd11-4df0-b66d-954072655289",
+    "title": "Associate Systems Engineer",
+    "active": true,
+    "date_updated": 1765928314,
+    "date_posted": 1765928314,
+    "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Colorado-Springs-CO/Associate-Systems-Engineer_JR2025486525-2",
+    "locations": [
+      "Colorado Springs, CO"
+    ],
+    "company_url": "https://simplify.jobs/c/Boeing",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "DraftKings",
+    "id": "b7661b08-f643-4455-9804-bb0bc9135f1a",
+    "title": "Sports Trader",
+    "active": true,
+    "date_updated": 1765928957,
+    "date_posted": 1765928957,
+    "url": "https://draftkings.wd1.myworkdayjobs.com/draftkings/job/Las-Vegas-NV/Sports-Trader_JR10526-1",
+    "locations": [
+      "Las Vegas, NV"
+    ],
+    "company_url": "https://simplify.jobs/c/DraftKings",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Flowserve",
+    "id": "85050f76-8ef4-4799-bc6b-76670589524c",
+    "title": "AI Software Engineer",
+    "active": true,
+    "date_updated": 1765931435,
+    "date_posted": 1765931435,
+    "url": "https://flowserve.wd1.myworkdayjobs.com/applied/job/Irving-Texas-US/AI-Software-Engineer_R-17366",
+    "locations": [
+      "Irving, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Flowserve",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Alation",
+    "id": "c356b5a0-b62b-44db-b30f-35f8fb0affe1",
+    "title": "AI/ML Engineer",
+    "active": true,
+    "date_updated": 1765928491,
+    "date_posted": 1765928491,
+    "url": "https://alation.wd503.myworkdayjobs.com/ExternalSite/job/USA-CA-REDWOOD-CITY/AI-ML-Engineer_R10000621",
+    "locations": [
+      "San Carlos, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Alation",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
