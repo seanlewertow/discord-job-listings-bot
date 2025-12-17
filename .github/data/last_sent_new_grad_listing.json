@@ -64097,5 +64097,77 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "DTCC",
+    "id": "0454890b-3e66-4b87-b48f-59083acd8204",
+    "title": "Software Engineer",
+    "active": true,
+    "date_updated": 1766012975,
+    "date_posted": 1766012975,
+    "url": "https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/212337",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/DTCC",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "CesiumAstro",
+    "id": "a4f87b59-df45-48a4-b2dc-4f94189e81e7",
+    "title": "FPGA Engineer 1",
+    "active": true,
+    "date_updated": 1766012674,
+    "date_posted": 1766012674,
+    "url": "https://jobs.lever.co/CesiumAstro/09e4de23-05be-4849-99d6-1cc2d3c8e90e/apply",
+    "locations": [
+      "Milton Keynes, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/CesiumAstro",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "LinkedIn",
+    "id": "b32f81a2-3c58-43e9-bc3e-1db272b6fb5f",
+    "title": "Software Engineer - Frontend",
+    "active": true,
+    "date_updated": 1766012610,
+    "date_posted": 1766012610,
+    "url": "https://jobs.smartrecruiters.com/LinkedIn3/744000099403125",
+    "locations": [
+      "Mountain View, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/LinkedIn",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "AmTrust Financial",
+    "id": "ce547041-ca8f-4f1c-9d79-b7217550ad93",
+    "title": "Technology Operations Specialist 1",
+    "active": true,
+    "date_updated": 1766013163,
+    "date_posted": 1758007090,
+    "url": "https://careers-amtrustgroup.icims.com/jobs/19657/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/AmTrust-Financial",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
