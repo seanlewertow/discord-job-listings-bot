@@ -63778,5 +63778,41 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "Michael Kors",
+    "id": "6ab2c6e3-cccd-47f4-85c3-b0beef145074",
+    "title": "Assistant Merchandiser Accessories FTC",
+    "active": true,
+    "date_updated": 1765981561,
+    "date_posted": 1765981561,
+    "url": "https://capri.wd1.myworkdayjobs.com/michael_kors/job/London/Assistant-Merchandiser-FTC_R_781826-1",
+    "locations": [
+      "London, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Michael-Kors",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Astreya",
+    "id": "5d97d628-594b-413e-8cfe-5b96633029e8",
+    "title": "Fiber Network Mapping Specialist 3",
+    "active": true,
+    "date_updated": 1765981189,
+    "date_posted": 1765981189,
+    "url": "https://astreya.wd5.myworkdayjobs.com/life-at-astreya-opportunities/job/Remote-CO/Fiber-Network-Mapping-Specialist-III_R0014034",
+    "locations": [
+      "Denver, CO"
+    ],
+    "company_url": "https://simplify.jobs/c/Astreya",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
