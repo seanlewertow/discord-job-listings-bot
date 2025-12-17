@@ -63905,5 +63905,64 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "RTX",
+    "id": "c74d9180-1670-47ee-8d8e-734b09ae7e16",
+    "title": "Product Test Development Graduate Engineer - GDP",
+    "active": true,
+    "date_updated": 1765988367,
+    "date_posted": 1765988367,
+    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/GBR02-Glenrothes-Scotland-Queensway-Industrial-Estate-Glenrothes-KY7-5PY/Product-Test-Development-Graduate-Engineer--GDP---September-2026-Start-_01812628",
+    "locations": [
+      "Edinburgh, UK",
+      "Livingston, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/RTX",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Moog ",
+    "id": "9e95a192-1ba6-4c24-89fa-54379ea7294c",
+    "title": "Associate Product Engineer",
+    "active": true,
+    "date_updated": 1765988369,
+    "date_posted": 1765988369,
+    "url": "https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Associate-Product-Engineer_R-25-15337",
+    "locations": [
+      "Buffalo, NY"
+    ],
+    "company_url": "https://simplify.jobs/c/Moog",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "IEM",
+    "id": "a7760c0f-ce42-421a-bfa4-fe4b3e5c3016",
+    "title": "Senior Product Engineer",
+    "active": true,
+    "date_updated": 1765988619,
+    "date_posted": 1765988619,
+    "url": "https://job-boards.greenhouse.io/industrialelectricmanufacturing/jobs/4086436009",
+    "locations": [
+      "Fremont, CA",
+      "Franklin, TN",
+      "Tualatin, OR",
+      "Jacksonville, FL",
+      "Vancouver, BC, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/IEM",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
