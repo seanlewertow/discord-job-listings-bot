@@ -63814,5 +63814,96 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "date_updated": 1765987945,
+    "sponsorship": "U.S. Citizenship is Required",
+    "active": true,
+    "degrees": [],
+    "url": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/HCA44-2006-E-El-Segundo-Blvd-BldgE04-2006-East-El-Segundo-Boulevard-Building-E04-El-Segundo-CA-90245-USA/Software-Engineer-I--Onsite-_01813181",
+    "company_name": "RTX",
+    "title": "Software Engineer I (Onsite)",
+    "locations": [
+      "El Segundo, CA"
+    ],
+    "category": "Software Engineering",
+    "source": "AlmondCroffle",
+    "id": "1b2b7eb0-c939-45c6-a572-37a9ab36a65c",
+    "date_posted": 1765987945,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1765988317,
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "degrees": [],
+    "url": "https://career-schwab.icims.com/jobs/117865/associate-analyst%2c-quantitative-investment-research/job",
+    "company_name": "Charles Schwab",
+    "title": "Associate Analyst, Quantitative Investment Research",
+    "locations": [
+      "Westlake, TX",
+      "Raleigh, NC"
+    ],
+    "category": "Quantitative Finance",
+    "source": "AlmondCroffle",
+    "id": "628cabf9-4a22-42b0-8b3f-34eb927752a7",
+    "date_posted": 1765988317,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Shield AI",
+    "id": "616cda01-dd3d-4b6d-b1c2-fa536ab45cf4",
+    "title": "Electrical Test and Rapid Prototype Engineer",
+    "active": true,
+    "date_updated": 1765988312,
+    "date_posted": 1765988312,
+    "url": "https://jobs.lever.co/shieldai/111b6b5d-debc-4c39-abac-3aa43e723b27/apply",
+    "locations": [
+      "Dallas, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Shield-AI",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "JP Morgan Chase",
+    "id": "14d1a8fb-7dea-42f3-867d-6bcc6fc421e9",
+    "title": "Quantitative Research - Data Analytics - Analyst",
+    "active": true,
+    "date_updated": 1765988349,
+    "date_posted": 1765988349,
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210678649",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/JP-Morgan-Chase",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "Tradeweb",
+    "id": "08d901fc-771e-4d36-87a0-aeb70718cc92",
+    "title": "Product Implementation",
+    "active": true,
+    "date_updated": 1765987619,
+    "date_posted": 1765987619,
+    "url": "https://ecnf.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/301522",
+    "locations": [
+      "London, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Tradeweb",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
