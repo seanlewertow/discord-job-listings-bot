@@ -63964,5 +63964,102 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Centene",
+    "id": "f7184af5-014f-4f30-ad43-2e1f7cff174b",
+    "title": "Provider Data Management Analyst 1",
+    "active": true,
+    "date_updated": 1765989269,
+    "date_posted": 1765989269,
+    "url": "https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/Provider-Data-Management-Analyst-I_1623950",
+    "locations": [
+      "Missouri"
+    ],
+    "company_url": "https://simplify.jobs/c/Centene",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "55f8b148-a149-452b-9895-9c74e1d9f846",
+    "title": "Trading Assistant - Local",
+    "active": true,
+    "date_updated": 1765988807,
+    "date_posted": 1765988807,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400043429",
+    "locations": [
+      "United Kingdom"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Northrop Grumman",
+    "id": "4b446b39-8677-4bcb-9005-94e7620efe2b",
+    "title": "Data Engineer - People Analytics",
+    "active": true,
+    "date_updated": 1765989916,
+    "date_posted": 1765989916,
+    "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Unknown-City/Data-Engineer-2-3---People-Analytics_R10217513",
+    "locations": [
+      "Virginia"
+    ],
+    "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "IEM",
+    "id": "a3d99d50-18bc-40a9-8293-7ecc931ab16b",
+    "title": "Senior Product Engineer",
+    "active": true,
+    "date_updated": 1765988614,
+    "date_posted": 1765988614,
+    "url": "https://job-boards.greenhouse.io/industrialelectricmanufacturing/jobs/4086419009",
+    "locations": [
+      "Fremont, CA",
+      "Remote in USA",
+      "Franklin, TN",
+      "Tualatin, OR",
+      "Jacksonville, FL",
+      "Vancouver, BC, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/IEM",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Perle",
+    "id": "6d46561b-2664-4677-b8f3-c9bc940c5606",
+    "title": "Arabic Language Specialist",
+    "active": true,
+    "date_updated": 1765988348,
+    "date_posted": 1765988348,
+    "url": "https://ats.rippling.com/perle/jobs/e8cb67a6-f419-49c3-a122-9cb9da12d4da",
+    "locations": [
+      "Arizona"
+    ],
+    "company_url": "https://simplify.jobs/c/Perle",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
