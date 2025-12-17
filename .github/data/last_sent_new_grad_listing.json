@@ -63652,5 +63652,41 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Vertiv",
+    "id": "b8174309-8533-4cf7-9b71-20d0dcf5fea2",
+    "title": "Customer Engineer - Atlanta",
+    "active": true,
+    "date_updated": 1761913700,
+    "date_posted": 1761913700,
+    "url": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20256846",
+    "locations": [
+      "Atlanta, GA"
+    ],
+    "company_url": "https://simplify.jobs/c/Vertiv",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Park Dental",
+    "id": "5b792763-312e-445e-9659-38bdc12d5196",
+    "title": "Licensed Dental Hygienist - Brookpark",
+    "active": true,
+    "date_updated": 1765966347,
+    "date_posted": 1757633704,
+    "url": "https://parkdentalcareers-parkdental.icims.com/jobs/5608/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "McLean, VA"
+    ],
+    "company_url": "https://simplify.jobs/c/Park-Dental",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
