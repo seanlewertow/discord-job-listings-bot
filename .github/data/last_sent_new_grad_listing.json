@@ -64839,5 +64839,98 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "L3Harris Technologies",
+    "id": "1b1f7980-ddbf-41b8-983f-3f2852e4d20b",
+    "title": "Associate Software Engineer",
+    "active": true,
+    "date_updated": 1766099882,
+    "date_posted": 1766099882,
+    "url": "https://jobs.l3harris.com/job/Greenville-Associate,-Software-Engineer-(Greenville,-TX)-TX-75402/1350980200/?ats=successfactors",
+    "locations": [
+      "Greenville, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Uber",
+    "id": "00af498a-93ea-4455-bd19-2138fb8042dd",
+    "title": "Graduate Software Engineer 1",
+    "active": true,
+    "date_updated": 1766099861,
+    "date_posted": 1766099861,
+    "url": "https://www.uber.com/global/en/careers/list/152427/",
+    "locations": [
+      "Seattle, WA",
+      "SF",
+      "NYC",
+      "Sunnyvale, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Uber",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Hawk-Eye Innovations",
+    "id": "eaefc6f9-db46-45d2-9200-637288332478",
+    "title": "Tracking Systems Operator - Basingstoke",
+    "active": true,
+    "date_updated": 1766099253,
+    "date_posted": 1766099253,
+    "url": "https://jobs.ashbyhq.com/hawkeyeinnovations/f77404a6-fbe5-447d-a982-51ec1fdfa1c8/application",
+    "locations": [
+      "Basingstoke, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Hawk-Eye-Innovations",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Altamira Technologies",
+    "id": "a7e21ab7-76e5-43ac-a2ff-59d90092b7c7",
+    "title": "Junior Software Engineer",
+    "active": true,
+    "date_updated": 1766099265,
+    "date_posted": 1766099265,
+    "url": "https://jobs.jobvite.com/altamiracorps/job/oms6yfwc?nl=1&nl=1&fr=false",
+    "locations": [
+      "Wright-Patterson AFB, OH"
+    ],
+    "company_url": "https://simplify.jobs/c/Altamira-Technologies",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "University of Texas - Austin",
+    "id": "9ed485ca-3a21-45ea-ac2e-a5e6d9008b04",
+    "title": "Algorithm and Analysis Software Engineer Scientist Associate",
+    "active": true,
+    "date_updated": 1766098912,
+    "date_posted": 1766098912,
+    "url": "https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/PICKLE-RESEARCH-CAMPUS/Algorithm-and-Analysis-Software-Engineering-Scientist-Associate_R_00043737",
+    "locations": [
+      "Austin, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/University-Of-Texas-Austin",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
