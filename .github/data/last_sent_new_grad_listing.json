@@ -64657,5 +64657,41 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "L3Harris Technologies",
+    "id": "e2389061-0e9a-41b1-be96-f596f4cc92a0",
+    "title": "Associate \u2013 Software Engineer - Carlsbad - CA",
+    "active": true,
+    "date_updated": 1766074404,
+    "date_posted": 1766074404,
+    "url": "https://jobs.l3harris.com/job/Carlsbad-Associate,-Software-Engineer-(Carlsbad,-CA)-CA-92009/1336882300/?ats=successfactors",
+    "locations": [
+      "Carlsbad, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Cummins",
+    "id": "7265936b-cd7a-4f4a-9aa9-47fd8a104e9c",
+    "title": "Electronic Systems Product Engineer",
+    "active": true,
+    "date_updated": 1766074169,
+    "date_posted": 1766074169,
+    "url": "https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2422826",
+    "locations": [
+      "Columbus, IN"
+    ],
+    "company_url": "https://simplify.jobs/c/Cummins",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
