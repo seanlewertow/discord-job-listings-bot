@@ -64259,5 +64259,95 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Intuit",
+    "id": "147a4d6f-ca02-4b29-a1ef-be527cc0a971",
+    "title": "Software Engineer 1",
+    "active": true,
+    "date_updated": 1766024403,
+    "date_posted": 1766024403,
+    "url": "https://jobs.intuit.com/job/new-york/software-engineer-1/27595/89635830432",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Intuit",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Intuit",
+    "id": "6f2590f2-2541-42b3-b282-4c916dddc55d",
+    "title": "Software Engineer 1",
+    "active": true,
+    "date_updated": 1766024206,
+    "date_posted": 1766024206,
+    "url": "https://jobs.intuit.com/job/new-york/software-engineer-1/27595/89635832192",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Intuit",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Intuit",
+    "id": "6231b9e5-46fa-49e4-93e3-d5e7686d2714",
+    "title": "Software Engineer 1",
+    "active": true,
+    "date_updated": 1766024218,
+    "date_posted": 1766024218,
+    "url": "https://jobs.intuit.com/job/new-york/software-engineer-1/27595/89635830480",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Intuit",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "Google",
+    "id": "b4160f6c-468f-4d18-93af-6283bfc3c0cd",
+    "title": "Product Manager 1 - Google Cloud",
+    "active": true,
+    "date_updated": 1766023789,
+    "date_posted": 1766023789,
+    "url": "https://www.google.com/about/careers/applications/jobs/results/109636922254467782",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Google",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Intuit",
+    "id": "70a3e572-f730-4153-b6e8-1c40ffddec95",
+    "title": "Software Engineer 1",
+    "active": true,
+    "date_updated": 1766024398,
+    "date_posted": 1766024398,
+    "url": "https://jobs.intuit.com/job/new-york/software-engineer-1/27595/89635832160",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Intuit",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
