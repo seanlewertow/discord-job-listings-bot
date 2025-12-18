@@ -64529,5 +64529,23 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Carnegie Mellon University",
+    "id": "2ff848db-ef66-4ad1-8093-5257bc6a9568",
+    "title": "Research Associate - Lti - School of Computer Science",
+    "active": true,
+    "date_updated": 1766065047,
+    "date_posted": 1765927997,
+    "url": "https://cmu.wd5.myworkdayjobs.com/cmu/job/Pittsburgh-PA/Research-Intern---LTI---School-of-Computer-Science_2023968",
+    "locations": [
+      "Pittsburgh, PA"
+    ],
+    "company_url": "https://simplify.jobs/c/Carnegie-Mellon-University",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
