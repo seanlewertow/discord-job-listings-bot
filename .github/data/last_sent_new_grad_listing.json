@@ -64639,5 +64639,23 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "NVIDIA",
+    "id": "b3e9803f-4d07-4db7-846c-9c3bc1419991",
+    "title": "Systems Software Engineer",
+    "active": true,
+    "date_updated": 1766067825,
+    "date_posted": 1766067825,
+    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-OR-Hillsboro/Systems-Software-Engineer---New-College-Grad-2026_JR2009926",
+    "locations": [
+      "Hillsboro, OR"
+    ],
+    "company_url": "https://simplify.jobs/c/NVIDIA",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
