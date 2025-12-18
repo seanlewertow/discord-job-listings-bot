@@ -64439,5 +64439,23 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Arcadis",
+    "id": "54c62921-2852-44a7-a632-7fbb1ad4c9e8",
+    "title": "Field Geologist",
+    "active": true,
+    "date_updated": 1766049089,
+    "date_posted": 1765927352,
+    "url": "https://ebcs.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/36628",
+    "locations": [
+      "Clifton Park, NY"
+    ],
+    "company_url": "https://simplify.jobs/c/Arcadis",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
