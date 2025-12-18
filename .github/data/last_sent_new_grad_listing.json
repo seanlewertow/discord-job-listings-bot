@@ -64693,5 +64693,97 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Draper",
+    "id": "9b0a70c9-7ffa-45e4-ab41-d860f0d0e484",
+    "title": "Flight Software Engineer",
+    "active": true,
+    "date_updated": 1766075224,
+    "date_posted": 1766075224,
+    "url": "https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Flight-Software-Engineer_JR002069",
+    "locations": [
+      "Cambridge, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/Draper",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Health Research",
+    "id": "9078138a-f178-46ff-b456-417d23f1c092",
+    "title": "Software Engineer/Developer",
+    "active": true,
+    "date_updated": 1766075080,
+    "date_posted": 1766075080,
+    "url": "https://healthresearch.wd1.myworkdayjobs.com/hri_careers/job/Albany-NY/Software-Engineer-Developer_JR-0001933",
+    "locations": [
+      "Albany, NY"
+    ],
+    "company_url": "https://simplify.jobs/c/Health-Research",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "Fannie Mae",
+    "id": "170ebef4-c429-454f-b2c9-1f441c53a8bd",
+    "title": "Product Management Associate - Customer Engagement Platforms",
+    "active": true,
+    "date_updated": 1766077114,
+    "date_posted": 1766077114,
+    "url": "https://fanniemae.wd1.myworkdayjobs.com/FannieMaeCareers/job/Washington-DC/Product-Management-Associate---Customer-Engagement-Platforms_JR1845",
+    "locations": [
+      "Washington, DC",
+      "Reston, VA"
+    ],
+    "company_url": "https://simplify.jobs/c/Fannie-Mae",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "WGU",
+    "id": "0d5beb0a-7297-472f-9e2c-2767e4ed8085",
+    "title": "Associate Software Engineer",
+    "active": true,
+    "date_updated": 1766076456,
+    "date_posted": 1766076456,
+    "url": "https://wgu.wd5.myworkdayjobs.com/en-US/External/job/Salt-Lake-City-Office/Associate-Software-Engineer_JR-023879",
+    "locations": [
+      "Salt Lake City, UT"
+    ],
+    "company_url": "https://simplify.jobs/c/e05ef31f-f120-4063-adad-2b2fdde995cb",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Rogers Behavioral Health",
+    "id": "fcb84a8f-4444-4b72-a2ed-9694ef65e74f",
+    "title": "Therapist - Child & Adolescent",
+    "active": true,
+    "date_updated": 1766075519,
+    "date_posted": 1766075519,
+    "url": "https://rogersbh.wd1.myworkdayjobs.com/rbhcareer/job/St-Paul-Clinic-Woodbury-MN/Therapist---Child---Adolescent---PHP-IOP_R5758",
+    "locations": [
+      "St Paul, MN",
+      "Woodbury, MN"
+    ],
+    "company_url": "https://simplify.jobs/c/b92a810e-00da-4d83-9a36-b7d609699d59",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
