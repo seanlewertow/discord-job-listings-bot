@@ -65575,5 +65575,41 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Astreya",
+    "id": "6c059df0-3235-401d-818c-251a059c9f6c",
+    "title": "Fiber Network Mapping Specialist 4",
+    "active": true,
+    "date_updated": 1766171528,
+    "date_posted": 1766171528,
+    "url": "https://astreya.wd5.myworkdayjobs.com/life-at-astreya-opportunities/job/Remote-CO/Fiber-Network-Mapping-Specialist-IV_R0014039",
+    "locations": [
+      "Colorado"
+    ],
+    "company_url": "https://simplify.jobs/c/Astreya",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Blue Origin",
+    "id": "1cadf152-9616-47a9-b59f-5a7d4c1dcd1f",
+    "title": "Technician - Assembly & Integration - Gs2','All Levels/Off Shifts','Evergreen",
+    "active": true,
+    "date_updated": 1765987631,
+    "date_posted": 1765987631,
+    "url": "https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Space-Coast-FL/Technician---GS2-Final-Integration---All-Levels---Off-Shifts_R57720",
+    "locations": [
+      "Florida"
+    ],
+    "company_url": "https://simplify.jobs/c/Blue-Origin",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
