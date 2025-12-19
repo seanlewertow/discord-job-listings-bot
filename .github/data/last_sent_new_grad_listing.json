@@ -65760,5 +65760,77 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "DL Trading",
+    "id": "0ea795ba-17a3-44a2-b227-e95d68de404a",
+    "title": "Quantitative Developer",
+    "active": true,
+    "date_updated": 1766186260,
+    "date_posted": 1766186260,
+    "url": "https://www.dltrading.io/careers?gh_jid=7568652003",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/6e0ddcae-2349-4505-af44-ed47b11ad363",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Prairie View A&M University",
+    "id": "f9f54085-79e3-4cf5-9168-c4b313965ace",
+    "title": "Postdoctoral Researcher - Pier - Trustworthy Artificial Intelligence",
+    "active": true,
+    "date_updated": 1766185545,
+    "date_posted": 1766185545,
+    "url": "https://tamus.wd1.myworkdayjobs.com/pvamu_external/job/Prairie-View-TX/Postdoctoral-Researcher--PIER---Trustworthy-Artificial-Intelligence--2_R-089885-1",
+    "locations": [
+      "Prairie View, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Prairie-View-AM-University",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "CTB",
+    "id": "79186791-bbac-41d7-8dea-1405215fae51",
+    "title": "Sales and Product Development Engineer",
+    "active": true,
+    "date_updated": 1766185846,
+    "date_posted": 1766185846,
+    "url": "https://emsl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2021718",
+    "locations": [
+      "Elkhart, IN"
+    ],
+    "company_url": "https://simplify.jobs/c/CTB",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Varian",
+    "id": "a9fa5a6e-296a-48ff-a9e3-653b9470abcb",
+    "title": "Field Service Engineer",
+    "active": true,
+    "date_updated": 1766186364,
+    "date_posted": 1766186364,
+    "url": "https://onehealthineers.wd3.myworkdayjobs.com/SHSJB/job/WAS-PA/Field-Service-Engineer--PT---Voorhees--NJ_R-24872-1",
+    "locations": [
+      "Cherry Hill, NJ"
+    ],
+    "company_url": "https://simplify.jobs/c/670da3c5-bce0-4621-b519-da7ce7d528e6",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
