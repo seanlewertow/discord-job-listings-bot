@@ -65467,5 +65467,95 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Cambridge Mobile Telematics",
+    "id": "7c53845d-e388-475a-81d4-049b03c3f2c9",
+    "title": "Software Engineer - Backend",
+    "active": true,
+    "date_updated": 1766163038,
+    "date_posted": 1766163038,
+    "url": "https://www.cmtelematics.com/who-we-are/join-our-team/job-posting/?gh_jid=7487382",
+    "locations": [
+      "Cambridge, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/CMTelematics",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "S&P Global ",
+    "id": "398b1c10-fc5a-4cff-9b81-7b25f65d89a7",
+    "title": "Associate Data Analyst - Mobility",
+    "active": true,
+    "date_updated": 1766162476,
+    "date_posted": 1766162476,
+    "url": "https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Careers/job/California-US/Data-Analyst_322809-1",
+    "locations": [
+      "California"
+    ],
+    "company_url": "https://simplify.jobs/c/SP-Global",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "bbc8a254-7fa7-4945-986c-9a32fe8c0de6",
+    "title": "Trading Assistant",
+    "active": true,
+    "date_updated": 1766161003,
+    "date_posted": 1766161003,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400043625",
+    "locations": [
+      "Bracknell, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "L3Harris Technologies",
+    "id": "8d4b267a-7b82-4cd0-86b9-7fb984301210",
+    "title": "Associate Software Engineer",
+    "active": true,
+    "date_updated": 1766160948,
+    "date_posted": 1766160948,
+    "url": "https://jobs.l3harris.com/job/Greenville-Associate,-Software-Engineer-(Greenville,-TX)-TX-75402/1351121100/?ats=successfactors",
+    "locations": [
+      "Greenville, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "PitchBook",
+    "id": "b35a0fd8-95ac-4c84-a7ac-b1465f91d481",
+    "title": "Associate Machine Learning Engineer",
+    "active": true,
+    "date_updated": 1766161655,
+    "date_posted": 1766161655,
+    "url": "https://job-boards.greenhouse.io/pitchbookdata/jobs/4625767006",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/PitchBook",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
