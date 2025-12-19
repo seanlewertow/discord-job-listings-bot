@@ -65557,5 +65557,23 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "PitchBook",
+    "id": "d8b68811-4d27-44f3-b50d-5d7e40a0b7d8",
+    "title": "Associate Machine Learning Engineer",
+    "active": true,
+    "date_updated": 1766161652,
+    "date_posted": 1766161652,
+    "url": "https://job-boards.greenhouse.io/pitchbookdata/jobs/4625765006",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "company_url": "https://simplify.jobs/c/PitchBook",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
