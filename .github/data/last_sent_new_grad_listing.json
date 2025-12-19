@@ -65225,5 +65225,63 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "L3Harris Technologies",
+    "id": "25260598-0034-4439-bf76-19d0773a8ce6",
+    "title": "Electronics Technician",
+    "active": true,
+    "date_updated": 1766141420,
+    "date_posted": 1765901553,
+    "url": "https://jobs.l3harris.com/job/Amityville-Electronics-Technician-NY-11701/1350028200/?ats=successfactors",
+    "locations": [
+      "Wantagh, NY"
+    ],
+    "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "NVIDIA",
+    "id": "78eea7c3-07fe-4d33-8010-414f29b7e9bf",
+    "title": "Research Scientist \u2013 PhD New College Grad 2026 - Autonomous Vehicles",
+    "active": true,
+    "date_updated": 1766141346,
+    "date_posted": 1765637818,
+    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--Autonomous-Vehicles---New-College-Grad-2026_JR2008395",
+    "locations": [
+      "Santa Clara, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/NVIDIA",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "PhD"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "American Express",
+    "id": "16dc3108-505f-4294-90cc-fb767a55226f",
+    "title": "Senior Program Analyst - Data Management Program",
+    "active": true,
+    "date_updated": 1762927882,
+    "date_posted": 1761517097,
+    "url": "https://aexp.eightfold.ai/careers/job/38568463",
+    "locations": [
+      "Phoenix, AZ"
+    ],
+    "company_url": "https://simplify.jobs/c/American-Express",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
