@@ -64932,5 +64932,95 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "NV5 Global",
+    "id": "a9f870e3-70b7-455d-99ef-add8fa664c58",
+    "title": "GIS Technician",
+    "active": true,
+    "date_updated": 1766100814,
+    "date_posted": 1766100814,
+    "url": "https://careers-nv5.icims.com/jobs/11006/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "St. Petersburg, FL"
+    ],
+    "company_url": "https://simplify.jobs/c/NV5-Global",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Intuit",
+    "id": "3da7dc80-8908-44b9-aab4-41e474802b00",
+    "title": "Software Engineer 1",
+    "active": true,
+    "date_updated": 1766100812,
+    "date_posted": 1766100812,
+    "url": "https://jobs.intuit.com/job/mountain-view/software-engineer-1/27595/89660152512",
+    "locations": [
+      "Mountain View, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Intuit",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Visa",
+    "id": "c17c5c97-1845-4f9b-a44e-a27edac54868",
+    "title": "Data Engineer - Data Science Platform",
+    "active": true,
+    "date_updated": 1766100210,
+    "date_posted": 1766100210,
+    "url": "https://jobs.smartrecruiters.com/Visa/744000099608999",
+    "locations": [
+      "San Mateo, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Visa",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "854460cf-8db3-4c01-a418-39d23341ea48",
+    "title": "Trading Assistant - Shift",
+    "active": true,
+    "date_updated": 1766100038,
+    "date_posted": 1766100038,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400043579",
+    "locations": [
+      "Edinburgh, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Cook Systems",
+    "id": "eca06b9d-5d74-45e1-80c3-7e2d647563f4",
+    "title": "Data Governance Analyst",
+    "active": true,
+    "date_updated": 1766101856,
+    "date_posted": 1765816213,
+    "url": "https://job-boards.greenhouse.io/cooksys/jobs/5034213008",
+    "locations": [
+      "Atlanta, GA"
+    ],
+    "company_url": "https://simplify.jobs/c/Cook-Systems",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
