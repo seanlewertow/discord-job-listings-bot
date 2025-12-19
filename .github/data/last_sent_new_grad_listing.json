@@ -65377,5 +65377,95 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "Sherwin-Williams",
+    "id": "0b5908be-12ff-42bf-ae2f-5e21df2a4bbd",
+    "title": "Assistant Product Manager-Retail",
+    "active": true,
+    "date_updated": 1766161148,
+    "date_posted": 1766161148,
+    "url": "https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2544647",
+    "locations": [
+      "Cleveland, OH"
+    ],
+    "company_url": "https://simplify.jobs/c/Sherwin-Williams",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Vertiv",
+    "id": "b67a6b03-1465-4f38-a30d-171b0286802c",
+    "title": "NETA Testing Technician-Charleston - SC",
+    "active": true,
+    "date_updated": 1766160825,
+    "date_posted": 1766160825,
+    "url": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20264459",
+    "locations": [
+      "Charleston, SC"
+    ],
+    "company_url": "https://simplify.jobs/c/Vertiv",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Grayce",
+    "id": "0cf4e16a-d2de-4495-8b50-230622375371",
+    "title": "Graduate Data Analyst",
+    "active": true,
+    "date_updated": 1766160742,
+    "date_posted": 1766160742,
+    "url": "https://apply.workable.com/grayce/j/6CD0332293/apply",
+    "locations": [
+      "Sheffield, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/ece08408-be43-4331-9af6-746c6e9977ec",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Hawk-Eye Innovations",
+    "id": "d485a670-74e6-41f1-a20f-f0f338dcd3f3",
+    "title": "Growth Sports Systems Operator",
+    "active": true,
+    "date_updated": 1766160445,
+    "date_posted": 1766160445,
+    "url": "https://jobs.ashbyhq.com/hawkeyeinnovations/7233a665-95c1-47e9-bc1a-095648f7a9a1/application",
+    "locations": [
+      "Basingstoke, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Hawk-Eye-Innovations",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Microsoft",
+    "id": "55165be0-ddb9-4546-b3a3-5ae4196c3515",
+    "title": "Machine Learning Engineer",
+    "active": true,
+    "date_updated": 1766160464,
+    "date_posted": 1766160464,
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393556641984",
+    "locations": [
+      "Redmond, WA"
+    ],
+    "company_url": "https://simplify.jobs/c/Microsoft",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
