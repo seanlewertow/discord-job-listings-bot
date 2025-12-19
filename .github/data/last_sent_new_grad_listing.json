@@ -65022,5 +65022,99 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Dematic",
+    "id": "073dcfef-629e-4ca1-aef7-2018f1525a0d",
+    "title": "Warehouse Automation Software Engineer",
+    "active": true,
+    "date_updated": 1766100755,
+    "date_posted": 1766100755,
+    "url": "https://kiongroup.wd3.myworkdayjobs.com/kion_scs/job/Atlanta-GA-United-States/Software-Engineer_JR-0083243",
+    "locations": [
+      "Grand Rapids, MI",
+      "Atlanta, GA"
+    ],
+    "company_url": "https://simplify.jobs/c/Dematic",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "TD Bank",
+    "id": "11a9bc04-59ed-49fc-95c0-f86007a7eea2",
+    "title": "Machine Learning Engineer 1",
+    "active": true,
+    "date_updated": 1766107629,
+    "date_posted": 1766107629,
+    "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Machine-Learning-Engineer-I--B3617-_R_1463238",
+    "locations": [
+      "Toronto, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/TD-Bank",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "PURE Insurance",
+    "id": "8fa75099-0c6b-425e-8185-3bec7223de6b",
+    "title": "Associate Data Analyst",
+    "active": true,
+    "date_updated": 1766107291,
+    "date_posted": 1766107291,
+    "url": "https://pureinsurance.wd5.myworkdayjobs.com/pure/job/Remote---US/Associate-Data-Analyst_R2551",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/fc808eea-5bbd-47f2-b012-c26bad545ecd",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Harris Computer",
+    "id": "7ab71e5b-2af0-4f0b-80d2-f6d2db40dd8c",
+    "title": "Associate Software Developer",
+    "active": true,
+    "date_updated": 1766107941,
+    "date_posted": 1766107941,
+    "url": "https://harriscomputer.wd3.myworkdayjobs.com/1/job/Ontario-Canada/Associate-Software-Developer_R0038814-6",
+    "locations": [
+      "Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Harris-Computer",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Genuine Parts Company",
+    "id": "5715707e-3f3f-4298-be7e-4092f77857b9",
+    "title": "Software Engineer 1",
+    "active": true,
+    "date_updated": 1766108028,
+    "date_posted": 1766108028,
+    "url": "https://genpt.wd1.myworkdayjobs.com/Careers/job/Birmingham-AL-USA/Software-Engineer-I_R25_0000044321",
+    "locations": [
+      "Birmingham, AL",
+      "Fort Worth, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Genuine-Parts-Company",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
