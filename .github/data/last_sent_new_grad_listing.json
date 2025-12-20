@@ -65924,5 +65924,77 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Blissway",
+    "id": "fd27c862-4103-4dfd-93c8-a7f5f107a3b4",
+    "title": "Software Engineer",
+    "active": true,
+    "date_updated": 1766196674,
+    "date_posted": 1766196674,
+    "url": "https://jobs.ashbyhq.com/blissway/206ceeef-4283-481c-a46d-e7273f597844/application",
+    "locations": [
+      "Denver, CO"
+    ],
+    "company_url": "https://simplify.jobs/c/Blissway",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Netflix",
+    "id": "d0fff61d-beda-4708-9ddf-93dffcd773b1",
+    "title": "CFX Technical Assistant",
+    "active": true,
+    "date_updated": 1766196919,
+    "date_posted": 1766196919,
+    "url": "https://explore.jobs.netflix.net/careers/job/790313346383",
+    "locations": [
+      "Vancouver, BC, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Netflix",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Netflix",
+    "id": "3e6c855c-3d2c-4119-aadb-6939faf701d8",
+    "title": "CFX Technical Assistant",
+    "active": true,
+    "date_updated": 1766196914,
+    "date_posted": 1766196914,
+    "url": "https://explore.jobs.netflix.net/careers/job/790313347047",
+    "locations": [
+      "Vancouver, BC, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Netflix",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Motorola",
+    "id": "1cbd14b8-a612-469a-bee7-65d58ee43d93",
+    "title": "Electronics Test and Assembly Technician - AM Shift",
+    "active": true,
+    "date_updated": 1766196067,
+    "date_posted": 1766196067,
+    "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Los-Angeles-CA/Electronics-Test-and-Assembly-Technician--AM-Shift---Entry-Level-_R60590",
+    "locations": [
+      "LA"
+    ],
+    "company_url": "https://simplify.jobs/c/MotorolaSolutions",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
