@@ -66306,5 +66306,26 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "Adobe",
+    "id": "0fd09da2-fdea-4252-bebd-1a78fbe13003",
+    "title": "MBA University Graduate - Product Marketing Manager",
+    "active": true,
+    "date_updated": 1766250174,
+    "date_posted": 1765626218,
+    "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2026-MBA-University-Graduate---Product-Marketing-Manager_R158926",
+    "locations": [
+      "SF",
+      "San Jose, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Adobe",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "MBA"
+    ]
   }
 ]
