@@ -66270,5 +66270,41 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "OneBlood",
+    "id": "8a269186-6b08-4564-8123-efb8b003aac7",
+    "title": "Phlebotomist Team Leader",
+    "active": true,
+    "date_updated": 1766248208,
+    "date_posted": 1766101368,
+    "url": "https://application-oneblood.icims.com/jobs/15636/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Groton, CT"
+    ],
+    "company_url": "https://simplify.jobs/c/OneBlood",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "iHeartMedia",
+    "id": "96a7551e-121f-4976-9d7c-40c177dc23a8",
+    "title": "Audio Video Engineer - NYC",
+    "active": true,
+    "date_updated": 1766248992,
+    "date_posted": 1765055919,
+    "url": "https://iheartmedia.wd5.myworkdayjobs.com/External_iHM/job/New-York-NY-55th-St/Audio-Video-Engineer---NYC_Req36490-4",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/IHeartMedia",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
