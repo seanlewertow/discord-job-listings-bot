@@ -66105,5 +66105,44 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Blue Origin",
+    "id": "b351769a-5210-41cb-b9db-281decb1b23b",
+    "title": "Technician-Assembly & Integration-All Levels/Off Shifts-Paints and Coatings-Evergreen",
+    "active": true,
+    "date_updated": 1766229831,
+    "date_posted": 1766015455,
+    "url": "https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Space-Coast-FL/Technician-Assembly---Integration--All-Levels-Off-Shifts-Paints-and-Coatings_R57760",
+    "locations": [
+      "Florida"
+    ],
+    "company_url": "https://simplify.jobs/c/Blue-Origin",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Certificate"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "StubHub",
+    "id": "bf7ae117-4aab-448e-bb24-5aaf13a1f3c8",
+    "title": "Software Engineer 2 - Direct Issuance - Frontend",
+    "active": true,
+    "date_updated": 1766229468,
+    "date_posted": 1765926966,
+    "url": "https://job-boards.eu.greenhouse.io/stubhubinc/jobs/4739143101",
+    "locations": [
+      "Aliso Viejo, CA",
+      "Santa Monica, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/StubHub",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
