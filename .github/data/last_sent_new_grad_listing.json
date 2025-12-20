@@ -65996,5 +65996,96 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Intuit",
+    "id": "cf380b5b-0bd5-4b3b-a2d4-a755170da462",
+    "title": "Software Engineer 1",
+    "active": true,
+    "date_updated": 1766197429,
+    "date_posted": 1766197429,
+    "url": "https://jobs.intuit.com/job/new-york/software-engineer-1/27595/89706909344",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Intuit",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Marqeta",
+    "id": "32096ed3-db20-456d-a011-438594501283",
+    "title": "Software Engineer 1 - Data Infrastructure",
+    "active": true,
+    "date_updated": 1766197831,
+    "date_posted": 1766197831,
+    "url": "https://job-boards.greenhouse.io/mqreferrals/jobs/7463255",
+    "locations": [
+      "Toronto, ON, Canada",
+      "Vancouver, BC, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Marqeta",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Intuit",
+    "id": "2b884353-413b-4813-be81-d6b39e24154b",
+    "title": "Software Engineer 1",
+    "active": true,
+    "date_updated": 1766197878,
+    "date_posted": 1766197878,
+    "url": "https://jobs.intuit.com/job/new-york/software-engineer-1/27595/89706909312",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Intuit",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "IXL Learning",
+    "id": "94b32e45-6450-4d60-99d8-2b58dfd7bc7d",
+    "title": "Software Developer \u2013 New Grad",
+    "active": true,
+    "date_updated": 1766198047,
+    "date_posted": 1766198047,
+    "url": "https://www.ixl.com/company/jobs?gh_jid=8335624002",
+    "locations": [
+      "Toronto, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/IXL-Learning",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "f63b261e-be03-401d-964a-035f3cb570b8",
+    "title": "Trading Assistant",
+    "active": true,
+    "date_updated": 1766197099,
+    "date_posted": 1766197099,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400043638",
+    "locations": [
+      "Blackpool, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
