@@ -66162,5 +66162,41 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Stellant Systems",
+    "id": "50131012-a04b-496a-b734-f8d0c07b7fed",
+    "title": "Automation Software Engineer",
+    "active": true,
+    "date_updated": 1766233041,
+    "date_posted": 1760453525,
+    "url": "https://careers-stellantsystems.icims.com/jobs/2011/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Carson, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Stellant-Systems",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Electronic Therapy",
+    "id": "4b8b73d4-d40e-4388-b736-72b18084829f",
+    "title": "Speech Language Pathologist - Speech Language Pathologist",
+    "active": true,
+    "date_updated": 1766232574,
+    "date_posted": 1757615088,
+    "url": "https://careers-electronic-therapy.icims.com/jobs/2703/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Houston, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Electronic-Therapy",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
