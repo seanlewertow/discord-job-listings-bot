@@ -65832,5 +65832,97 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "L3Harris Technologies",
+    "id": "da1a3574-079a-404e-9839-64cf1ce5afd1",
+    "title": "Associate Software Engineer",
+    "active": true,
+    "date_updated": 1766185942,
+    "date_posted": 1766185942,
+    "url": "https://jobs.l3harris.com/job/Greenville-Associate,-Software-Engineer-(Greenville,-TX)-TX-75402/1351309300/?ats=successfactors",
+    "locations": [
+      "Greenville, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Draper",
+    "id": "38815bab-a146-4381-9223-4b6c76ce03d6",
+    "title": "System Concepts Engineer",
+    "active": true,
+    "date_updated": 1766186940,
+    "date_posted": 1766186940,
+    "url": "https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/System-Concepts-Engineer_JR002065",
+    "locations": [
+      "Cambridge, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/Draper",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Vertiv",
+    "id": "c5d288a5-d6fe-47db-ae10-b34dde2b6d47",
+    "title": "Electrical Testing Technician",
+    "active": true,
+    "date_updated": 1766185656,
+    "date_posted": 1766185656,
+    "url": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20259649",
+    "locations": [
+      "Stamford, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Vertiv",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Adobe",
+    "id": "ef4516e4-681a-43b2-94cc-3877710733a7",
+    "title": "2026 University Graduate - Research Scientist/Engineer",
+    "active": true,
+    "date_updated": 1766186070,
+    "date_posted": 1766186070,
+    "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2026-University-Graduate---Research-Scientist-Engineer_R158869",
+    "locations": [
+      "Seattle, WA",
+      "SF",
+      "San Jose, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Adobe",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Carnegie Mellon University",
+    "id": "100280c9-9300-41a5-865a-b23540a18fc6",
+    "title": "Research Assistant - Electrical and Computer Engineering",
+    "active": true,
+    "date_updated": 1766187227,
+    "date_posted": 1766187227,
+    "url": "https://cmu.wd5.myworkdayjobs.com/cmu/job/Pittsburgh-PA/Research-Assistant---College-of-Engineering---Electrical-and-Computer-Engineering_2023955",
+    "locations": [
+      "Pittsburgh, PA"
+    ],
+    "company_url": "https://simplify.jobs/c/Carnegie-Mellon-University",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
