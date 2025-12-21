@@ -66381,5 +66381,41 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Aramark",
+    "id": "30bcc6f2-ac27-48df-a91b-0b79884eec5a",
+    "title": "Food Service Worker - Shamrock Trading Corporation",
+    "active": true,
+    "date_updated": 1766302543,
+    "date_posted": 1766302543,
+    "url": "https://aramarkcareers.com/UnitedStates/job/Overland-Park-Food-Service-Worker-Shamrock-Trading-Corporation-KS-66212/1346922200/?ats=successfactors",
+    "locations": [
+      "Overland Park, KS"
+    ],
+    "company_url": "https://simplify.jobs/c/Aramark",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Aramark",
+    "id": "13d14458-51aa-4ed6-9b04-cdf96926aa6e",
+    "title": "Barista",
+    "active": true,
+    "date_updated": 1766302238,
+    "date_posted": 1766302238,
+    "url": "https://aramarkcareers.com/UnitedStates/job/Overland-Park-Barista-Shamrock-Trading-Corporation-KS-66212/1346922100/?ats=successfactors",
+    "locations": [
+      "Overland Park, KS"
+    ],
+    "company_url": "https://simplify.jobs/c/Aramark",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
