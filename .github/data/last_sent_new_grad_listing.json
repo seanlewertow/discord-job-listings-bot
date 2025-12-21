@@ -66327,5 +66327,23 @@
     "degrees": [
       "MBA"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "1X",
+    "id": "057e0940-4860-4f51-b379-eb0df9e13d5b",
+    "title": "Compliance Testing Technician",
+    "active": true,
+    "date_updated": 1766272077,
+    "date_posted": 1766272077,
+    "url": "https://1x.recruitee.com/o/compliance-testing-technician",
+    "locations": [
+      "Hayward, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/1x",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
