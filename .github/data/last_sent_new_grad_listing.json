@@ -66345,5 +66345,23 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Wieland",
+    "id": "d7e04084-26f6-4d1e-b4c3-369840634eb3",
+    "title": "Learning Technology Specialist",
+    "active": true,
+    "date_updated": 1766284271,
+    "date_posted": 1761032824,
+    "url": "https://careers-chasebrass.icims.com/jobs/3674/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Louisville, KY"
+    ],
+    "company_url": "https://simplify.jobs/c/Wieland",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
