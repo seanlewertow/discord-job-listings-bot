@@ -66471,5 +66471,60 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Covenant Health",
+    "id": "e3d0687f-5b0a-4fe4-89c8-e46681d0886f",
+    "title": "Medical Technologist",
+    "active": true,
+    "date_updated": 1766396073,
+    "date_posted": 1763088892,
+    "url": "https://careers-covenanthealth.icims.com/jobs/69256/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Dedham, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/Covenant-Health",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "date_updated": 1766399217,
+    "sponsorship": "Does Not Offer Sponsorship",
+    "active": true,
+    "degrees": [],
+    "url": "https://jobs.ashbyhq.com/mechanize/b50c89dc-001c-4fb6-a4fc-a9f52f35b490",
+    "company_name": "Mechanize",
+    "title": "Junior Software Engineer",
+    "locations": [
+      "San Francisco, CA",
+      "Remote in USA"
+    ],
+    "category": "Software Engineering",
+    "source": "max-niederman",
+    "id": "a31d2dc4-d9cf-4ab8-9a57-b08515080e7a",
+    "date_posted": 1766399217,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "U.S. Bank",
+    "id": "12bfa895-d9ac-4529-9cc2-368f2c33e3a3",
+    "title": "Senior React Engineer - Wealth Management",
+    "active": true,
+    "date_updated": 1766397771,
+    "date_posted": 1766397771,
+    "url": "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Atlanta-GA/Senior-React-Engineer--Wealth-Management--multiple-positions--in-Atlanta--GA_2025-0030119",
+    "locations": [
+      "Atlanta, GA"
+    ],
+    "company_url": "https://simplify.jobs/c/US-Bank",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
