@@ -66526,5 +66526,60 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "date_updated": 1766402714,
+    "sponsorship": "Other",
+    "active": true,
+    "degrees": [],
+    "url": "https://job-boards.greenhouse.io/oklo/jobs/5739861004",
+    "company_name": "Oklo",
+    "title": "Junior Software Engineer",
+    "locations": [
+      "Santa Clara, CA",
+      "Remote in USA"
+    ],
+    "category": "Software Engineering",
+    "source": "AlmondCroffle",
+    "id": "279e7051-e541-4865-b50d-cd10a4f29571",
+    "date_posted": 1766402714,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1766402760,
+    "sponsorship": "U.S. Citizenship is Required",
+    "active": true,
+    "degrees": [],
+    "url": "https://careers-peraton.icims.com/jobs/162138/junior-product-software-engineer/job",
+    "company_name": "Peraton",
+    "title": "Junior Product Software Engineer",
+    "locations": [
+      "Annapolis Junction, MD"
+    ],
+    "category": "Software Engineering",
+    "source": "AlmondCroffle",
+    "id": "1af1e7b2-61fe-4951-9c45-6565a2ddac6c",
+    "date_posted": 1766402760,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1766402827,
+    "sponsorship": "U.S. Citizenship is Required",
+    "active": true,
+    "degrees": [],
+    "url": "https://job-boards.greenhouse.io/astranis/jobs/4621916006",
+    "company_name": "Astranis",
+    "title": "Software Developer, Network Software Associate",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "category": "Software Engineering",
+    "source": "AlmondCroffle",
+    "id": "033c08b9-8893-4e39-bc61-6952c5c483ab",
+    "date_posted": 1766402827,
+    "company_url": "",
+    "is_visible": true
   }
 ]
