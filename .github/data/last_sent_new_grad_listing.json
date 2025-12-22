@@ -66581,5 +66581,23 @@
     "date_posted": 1766402827,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "date_updated": 1766403316,
+    "sponsorship": "Other",
+    "active": true,
+    "degrees": [],
+    "url": "https://warnerbros.wd5.myworkdayjobs.com/en-US/global/job/IL-Chicago-2650A-W-Bradley-Place/Associate-Software-Engineer--Temporary-_R000101071",
+    "company_name": "Warner Bros.",
+    "title": "Associate Software Engineer (Temporary)",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "category": "Software Engineering",
+    "source": "AlmondCroffle",
+    "id": "ff557fb7-a47f-4294-b778-3a5306e3c94f",
+    "date_posted": 1766403316,
+    "company_url": "",
+    "is_visible": true
   }
 ]
