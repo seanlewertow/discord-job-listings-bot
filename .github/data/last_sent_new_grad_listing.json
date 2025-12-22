@@ -66453,5 +66453,23 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Sayari",
+    "id": "98cb35fc-a9e8-45cd-a086-814100a7e49e",
+    "title": "Junior Data Engineer",
+    "active": true,
+    "date_updated": 1766360583,
+    "date_posted": 1766360583,
+    "url": "https://job-boards.greenhouse.io/sayari/jobs/4069553009",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/Sayari",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
