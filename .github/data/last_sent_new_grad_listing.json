@@ -66599,5 +66599,77 @@
     "date_posted": 1766403316,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "date_updated": 1766409312,
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "degrees": [],
+    "url": "https://ffin.wd1.myworkdayjobs.com/en-US/First_Financial_Bank/job/Operations-Center/AI-Developer-I--Call-Center_JR102406",
+    "company_name": "First Financial Bank",
+    "title": "AI Developer I- Call Center",
+    "locations": [
+      "Abilene, TX"
+    ],
+    "category": "Data Science, AI & Machine Learning",
+    "source": "AlmondCroffle",
+    "id": "75ac02c5-e608-44a8-a166-f03fa86d82ab",
+    "date_posted": 1766409312,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1766409383,
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "degrees": [],
+    "url": "https://Quantitative Financial Risk Analyst",
+    "company_name": "Susquehanna",
+    "title": "Quantitative Financial Risk Analyst",
+    "locations": [
+      "Bala Cynwyd, PA"
+    ],
+    "category": "Quantitative Finance",
+    "source": "AlmondCroffle",
+    "id": "631d6707-4530-4d31-b838-40064d5e3a6f",
+    "date_posted": 1766409383,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1766409480,
+    "sponsorship": "Other",
+    "active": true,
+    "degrees": [],
+    "url": "https://cliftonlarsonallen.wd1.myworkdayjobs.com/en-US/CLA/job/St-Louis-MO/Data-Analyst-Associate_R16544",
+    "company_name": "CliftonLarsonAllen",
+    "title": "Data Analyst Associate",
+    "locations": [
+      "St Louis, MO"
+    ],
+    "category": "Data Science, AI & Machine Learning",
+    "source": "AlmondCroffle",
+    "id": "e6643c4c-b164-4a19-8600-01f41ca1fe59",
+    "date_posted": 1766409480,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1766409574,
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "degrees": [],
+    "url": "https://compass.wd501.myworkdayjobs.com/en-US/radian_external_career_site/job/New-York-NY/Data-Scientist-I---Hybrid_R20250160",
+    "company_name": "Radian",
+    "title": "Data Scientist I - Hybrid",
+    "locations": [
+      "New York, NY"
+    ],
+    "category": "Data Science, AI & Machine Learning",
+    "source": "AlmondCroffle",
+    "id": "b2cfe407-2dcd-46b8-9e57-7d95300f2542",
+    "date_posted": 1766409574,
+    "company_url": "",
+    "is_visible": true
   }
 ]
