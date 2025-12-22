@@ -66943,5 +66943,81 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "Markel Group, Inc.",
+    "id": "ba995610-3b5a-4049-8e76-92895f1b1923",
+    "title": "Associate Product Analyst",
+    "active": true,
+    "date_updated": 1766444628,
+    "date_posted": 1766444628,
+    "url": "https://markelcorp.wd5.myworkdayjobs.com/GlobalCareers/job/Milwaukee-WI/Associate-Product-Analyst_R0022287",
+    "locations": [
+      "Milwaukee, WI"
+    ],
+    "company_url": "https://simplify.jobs/c/Markel-Group",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "CACI",
+    "id": "8d636d6b-81b0-4749-8a15-58038f437a66",
+    "title": "Data Scientist",
+    "active": true,
+    "date_updated": 1766444761,
+    "date_posted": 1766444761,
+    "url": "https://caci.wd1.myworkdayjobs.com/external/job/US-MD-Bethesda/Data-Scientist_320662",
+    "locations": [
+      "Bethesda, MD"
+    ],
+    "company_url": "https://simplify.jobs/c/CACI",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Georgetown University",
+    "id": "402498d6-4762-4407-981e-5b4b651ba523",
+    "title": "AV Engineer 1",
+    "active": true,
+    "date_updated": 1766444542,
+    "date_posted": 1766444542,
+    "url": "https://georgetown.wd1.myworkdayjobs.com/Georgetown_Admin_Careers/job/Law-Center/AV-Engineer-I_JR24489",
+    "locations": [
+      "Washington, DC"
+    ],
+    "company_url": "https://simplify.jobs/c/Georgetown-University",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Daifuku",
+    "id": "109a3aca-2ab0-4dfc-9f2b-4f5c71185497",
+    "title": "Junior IT Software Developer",
+    "active": true,
+    "date_updated": 1766445561,
+    "date_posted": 1764210886,
+    "url": "https://careers-daifuku-america.icims.com/jobs/20879/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Novi, MI"
+    ],
+    "company_url": "https://simplify.jobs/c/Daifuku",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
