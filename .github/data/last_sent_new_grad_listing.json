@@ -66671,5 +66671,96 @@
     "date_posted": 1766409574,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "665ad8f3-796f-46eb-8571-1a6c0517b932",
+    "title": "Trading Assistant - Local",
+    "active": true,
+    "date_updated": 1766420002,
+    "date_posted": 1766420002,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400043742",
+    "locations": [
+      "Manchester, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "31319dec-0fb5-453e-8f21-325bff85a981",
+    "title": "Trading Assistant",
+    "active": true,
+    "date_updated": 1766419989,
+    "date_posted": 1766419989,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400043727",
+    "locations": [
+      "Edinburgh, UK",
+      "Midlothian, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "11036663-aa59-4f94-abcb-da1c812a5665",
+    "title": "Trading Assistant",
+    "active": true,
+    "date_updated": 1766419987,
+    "date_posted": 1766419987,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400043719",
+    "locations": [
+      "Manchester, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "05cc19a5-e6d3-4a87-987c-c8a043684739",
+    "title": "Trading Assistant",
+    "active": true,
+    "date_updated": 1766419987,
+    "date_posted": 1766419987,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400043739",
+    "locations": [
+      "Liverpool, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Tokamak Energy",
+    "id": "39131b39-106a-4aaf-a897-49a1486ec2ea",
+    "title": "High Power Radio Frequency Engineer",
+    "active": true,
+    "date_updated": 1766419832,
+    "date_posted": 1766419832,
+    "url": "https://apply.workable.com/tokamak-energy/j/BFB067D1F7/apply",
+    "locations": [
+      "Oxford, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Tokamak-Energy",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
