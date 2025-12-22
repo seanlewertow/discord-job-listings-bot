@@ -66762,5 +66762,60 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "ASSA ABLOY",
+    "id": "dc9bfcee-9d39-4ba5-9e5e-96bc01522a0e",
+    "title": "Product Engineer",
+    "active": true,
+    "date_updated": 1766419735,
+    "date_posted": 1766419735,
+    "url": "https://assaabloy.jobs2web.com/job/Mason-City-Product-Engineer-IA-50401/1278600401/?ats=successfactors",
+    "locations": [
+      "Mason City, IA",
+      "Montgomery, AL"
+    ],
+    "company_url": "https://simplify.jobs/c/ASSA-ABLOY",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "4e6852e1-99a3-4a3e-b1c8-f5b99dbbf374",
+    "title": "Trading Assistant",
+    "active": true,
+    "date_updated": 1766420015,
+    "date_posted": 1766420015,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400043740",
+    "locations": [
+      "Manchester, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "1f398976-f463-44c7-9a29-d9fd99c89b2a",
+    "title": "Trading Assistant",
+    "active": true,
+    "date_updated": 1766420005,
+    "date_posted": 1766420005,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400043741",
+    "locations": [
+      "Manchester, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
