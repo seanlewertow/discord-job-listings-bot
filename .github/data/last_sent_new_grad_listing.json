@@ -66925,5 +66925,23 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Heidi Health",
+    "id": "c3503a82-a241-4574-8e3a-7072c29e5b19",
+    "title": "Frontend Website Developer",
+    "active": true,
+    "date_updated": 1766400778,
+    "date_posted": 1766400778,
+    "url": "https://jobs.ashbyhq.com/heidihealth.com.au/026f306a-beab-47dd-bf86-f1d4ec34884a/application",
+    "locations": [
+      "London, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Heidi-Health",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
