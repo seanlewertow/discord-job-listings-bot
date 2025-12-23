@@ -67304,5 +67304,23 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "The Boeing Company",
+    "id": "4f3c9355-5740-4f15-8ebb-bb06c9b6a314",
+    "title": "Embedded Software Engineer",
+    "active": true,
+    "date_updated": 1766475624,
+    "date_posted": 1766475624,
+    "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/United-States---Remote/Embedded-Software-Engineer--Associate--Experienced--or-Senior---Virtual-_JR2025489517-1",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/Boeing",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
