@@ -67217,5 +67217,24 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Anglian Water",
+    "id": "3f138d49-0bba-4541-9391-5476780300a9",
+    "title": "Associate Data Scientist",
+    "active": true,
+    "date_updated": 1766429584,
+    "date_posted": 1766429584,
+    "url": "https://awg.wd3.myworkdayjobs.com/broadbean_external/job/Huntingdon/Associate-Data-Scientist_R34902",
+    "locations": [
+      "Peterborough, UK",
+      "Molesworth, Huntingdon, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Anglian-Water",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
