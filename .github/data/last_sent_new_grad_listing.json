@@ -67358,5 +67358,95 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "KBR",
+    "id": "a6b09df4-5008-4fac-911e-813f175a7c49",
+    "title": "Early Careers Electronic Warfare Engineer",
+    "active": true,
+    "date_updated": 1766484488,
+    "date_posted": 1766188406,
+    "url": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Jacksonville-Florida/Entry-Level--Electronic-Warfare-Engineer_R2116796",
+    "locations": [
+      "Jacksonville, FL"
+    ],
+    "company_url": "https://simplify.jobs/c/KBR",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "South West Water",
+    "id": "26498fea-28cc-4ae9-89e9-3f0b326cd0a3",
+    "title": "Commercial Recoveries Analyst",
+    "active": true,
+    "date_updated": 1766484551,
+    "date_posted": 1766185899,
+    "url": "https://jobs.lever.co/southwestwater/c59da805-7836-4e68-b2ab-95975339b210/apply",
+    "locations": [
+      "Exeter, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/South-West-Water",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Howard Hughes Medical Institute (HHMI)",
+    "id": "a97b0192-87d6-45a0-8a7a-2d79e18691ed",
+    "title": "Scientific Computing Associate - VR Technologies for Social Neuroscience",
+    "active": true,
+    "date_updated": 1766488127,
+    "date_posted": 1765624282,
+    "url": "https://hhmi.wd1.myworkdayjobs.com/external/job/Janelia-Research-Campus/Scientific-Computing-Associate---VR-Technologies-for-Social-Neuroscience_R-3911",
+    "locations": [
+      "Ashburn, VA"
+    ],
+    "company_url": "https://simplify.jobs/c/Howard-Hughes-Medical-Institute",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Stanley Black & Decker",
+    "id": "e10f850d-1cd9-4a0f-9f88-41bfc23fb938",
+    "title": "Engineering Technician - Engines",
+    "active": true,
+    "date_updated": 1766488206,
+    "date_posted": 1765090106,
+    "url": "https://sbdinc.wd1.myworkdayjobs.com/en-US/Stanley_Black_Decker_Career_Site/job/Valley-City-OH-United-States/Engineering-Technician---Engines_REQ-1000044130",
+    "locations": [
+      "Strongsville, OH"
+    ],
+    "company_url": "https://simplify.jobs/c/Stanley-Black-Decker",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Electronic Arts",
+    "id": "4ca4b5db-4fdf-43d9-aca5-e675235730cc",
+    "title": "Generalist Software Engineer",
+    "active": true,
+    "date_updated": 1766484755,
+    "date_posted": 1762677684,
+    "url": "https://jobs.ea.com/en_US/careers/JobDetail/Generalist-Software-Engineer/211695",
+    "locations": [
+      "Victoria, BC, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Electronic-Arts",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
