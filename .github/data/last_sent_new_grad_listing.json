@@ -67621,5 +67621,59 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "BlackRock",
+    "id": "bf411f5f-c75a-4413-b374-39d0f68d2a5d",
+    "title": "Associate \u2013 Index Fixed Income Algo Engineer",
+    "active": true,
+    "date_updated": 1766517320,
+    "date_posted": 1766517320,
+    "url": "https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/San-Francisco-CA/Associate--Index-Fixed-Income-Algo-Engineer_R258382",
+    "locations": [
+      "SF"
+    ],
+    "company_url": "https://simplify.jobs/c/BlackRock",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Microchip Technology",
+    "id": "9d4e6e34-9bd9-42ee-be1c-31ddcdc05a4e",
+    "title": "Engineer 1 - Test",
+    "active": true,
+    "date_updated": 1766517446,
+    "date_posted": 1766517446,
+    "url": "https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/TX---Austin---Park-Centre/Engineer-I--Test_R2514-25",
+    "locations": [
+      "Austin, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Microchip-Technology",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "TJX",
+    "id": "196d6282-b612-4918-a2ad-e7bb39684a70",
+    "title": "Online Trading Assistant",
+    "active": true,
+    "date_updated": 1766517168,
+    "date_posted": 1766517168,
+    "url": "https://wd1.myworkdaysite.com/recruiting/tjx/TJX_EXTERNAL/job/Watford-HER-WD17-1TX/Online-Trading-Assistant_REQ84941",
+    "locations": [
+      "Watford, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/TJX",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
