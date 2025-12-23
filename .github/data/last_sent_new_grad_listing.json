@@ -67322,5 +67322,41 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "Salesloft",
+    "id": "da030c18-5d1e-483b-b995-efdefdf607d3",
+    "title": "Associate Product Marketing Manager",
+    "active": true,
+    "date_updated": 1766482621,
+    "date_posted": 1766101328,
+    "url": "https://www.salesloft.com/careers/?gh_jid=7482663",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/Salesloft",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "TikTok",
+    "id": "83242868-b225-4b80-995f-1df772d000ee",
+    "title": "Data Scientist Graduate - Product Analytics - BS/MS -> Master of Science",
+    "active": true,
+    "date_updated": 1766482697,
+    "date_posted": 1754554792,
+    "url": "https://lifeattiktok.com/search/7364146718924163337",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/TikTok",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
