@@ -67520,5 +67520,50 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "WSP",
+    "id": "0c7af71f-09b3-44bb-a0d8-609054569a5d",
+    "title": "Assistant Digital Solutions Consultant - Sharepoint & Power Platform",
+    "active": true,
+    "date_updated": 1766508259,
+    "date_posted": 1766508259,
+    "url": "https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/77552",
+    "locations": [
+      "London, UK",
+      "Leeds, UK",
+      "Bristol, UK",
+      "Newcastle upon Tyne, UK",
+      "Belfast, UK",
+      "Birmingham, UK",
+      "Bath, UK",
+      "Glasgow, UK",
+      "Manchester, UK",
+      "Northern Ireland, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/WSP",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Blackhawk Network Holdings",
+    "id": "93ef514d-929c-4719-92d2-6ccbc4385c9c",
+    "title": "Software Engineer",
+    "active": true,
+    "date_updated": 1766508047,
+    "date_posted": 1766508047,
+    "url": "https://careers-blackhawknetwork.icims.com/jobs/24910/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Coppell, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Blackhawk-Network-Holdings",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
