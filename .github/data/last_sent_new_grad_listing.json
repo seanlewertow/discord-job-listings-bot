@@ -67019,5 +67019,95 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "The Walt Disney Company",
+    "id": "43d46557-1c45-4115-8f7c-5a0b997d320f",
+    "title": "Associate Data Scientist",
+    "active": true,
+    "date_updated": 1766446246,
+    "date_posted": 1766446246,
+    "url": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/New-York-NY-USA/Associate-Data-Scientist_10138200",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Disney",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Barnard College",
+    "id": "e88096fd-3bc0-4ba9-bfad-bf19da1be975",
+    "title": "Data Analyst Graduate Assistant - Neuroscience and Behavior",
+    "active": true,
+    "date_updated": 1766446121,
+    "date_posted": 1766446121,
+    "url": "https://barnard.wd1.myworkdayjobs.com/Staff/job/New-York-City-NY/Data-Analyst-Graduate-Assistant--Neuroscience-and-Behavior-_JR5303-1",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Barnard-College",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "L3Harris Technologies",
+    "id": "460c8496-c355-48fc-8bf7-f65dfd3804bd",
+    "title": "Graduate FPGA Engineer",
+    "active": true,
+    "date_updated": 1766446323,
+    "date_posted": 1766446323,
+    "url": "https://jobs.l3harris.com/job/Tewkesbury-Graduate-FPGA-Engineer-(Sept-2026)-GLS-GL20-8GB/1334006200/?ats=successfactors",
+    "locations": [
+      "Gloucester, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Daifuku",
+    "id": "085d2efc-a205-4f8d-8d83-616789f34024",
+    "title": "Software Implementation Engineer 1",
+    "active": true,
+    "date_updated": 1766445577,
+    "date_posted": 1764210885,
+    "url": "https://careers-daifuku-america.icims.com/jobs/20889/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Savannah, GA"
+    ],
+    "company_url": "https://simplify.jobs/c/Daifuku",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "KBR",
+    "id": "9f54691d-ad41-4185-b3a8-dc9b3b8863d0",
+    "title": "Software Engineer - Full Stack Entry - Mid",
+    "active": true,
+    "date_updated": 1766451475,
+    "date_posted": 1766451475,
+    "url": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Sioux-Falls-South-Dakota/Software-Engineer---Full-Stack-Entry---Mid_R2116871",
+    "locations": [
+      "Sioux Falls, SD"
+    ],
+    "company_url": "https://simplify.jobs/c/KBR",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
