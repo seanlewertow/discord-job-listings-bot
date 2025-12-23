@@ -67675,5 +67675,97 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "eef72fdc-5c0a-46b0-845a-1b09f067dc00",
+    "title": "Trading Assistant - Shift",
+    "active": true,
+    "date_updated": 1766531460,
+    "date_posted": 1766531460,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400043823",
+    "locations": [
+      "Hereford, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Honeywell",
+    "id": "db7dda8c-49ca-464c-8ca6-292009127af4",
+    "title": "Software Engineer 1",
+    "active": true,
+    "date_updated": 1766531550,
+    "date_posted": 1766531550,
+    "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/132319",
+    "locations": [
+      "Phoenix, AZ"
+    ],
+    "company_url": "https://simplify.jobs/c/Honeywell",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Fiserv",
+    "id": "540a3cfe-8c02-48a6-acec-e8d934907596",
+    "title": "Hardware Support Engineer - Advisor I",
+    "active": true,
+    "date_updated": 1766531480,
+    "date_posted": 1766531480,
+    "url": "https://fiserv.wd5.myworkdayjobs.com/ext/job/Omaha-Nebraska/Hardware-Support-Engineer---Advisor-I_R-10382138",
+    "locations": [
+      "Omaha, NE"
+    ],
+    "company_url": "https://simplify.jobs/c/Fiserv",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "156464fb-5b47-44a9-bda4-4a258a0c13f6",
+    "title": "Trading Assistant",
+    "active": true,
+    "date_updated": 1766531442,
+    "date_posted": 1766531442,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400043817",
+    "locations": [
+      "Guildford, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "NTT Data",
+    "id": "10d58886-a205-4542-9dc7-4f44532f2908",
+    "title": "Data & Business Insights Associate",
+    "active": true,
+    "date_updated": 1766531369,
+    "date_posted": 1766531369,
+    "url": "https://careers-inc.nttdata.com/job/Plano-Data-&-Business-Insights-Associate-TX/1351885800/?ats=successfactors",
+    "locations": [
+      "Plano, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/NTT-Data",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
