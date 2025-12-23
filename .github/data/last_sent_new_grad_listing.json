@@ -67565,5 +67565,43 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Voyager Technologies",
+    "id": "442f8448-261c-487e-a638-988427211697",
+    "title": "Software Engineer - Manufacturing Integration",
+    "active": true,
+    "date_updated": 1766509624,
+    "date_posted": 1766509624,
+    "url": "https://job-boards.greenhouse.io/voyagertechnologiesinc/jobs/4087905009",
+    "locations": [
+      "Seattle, WA",
+      "Washington, DC",
+      "LA"
+    ],
+    "company_url": "https://simplify.jobs/c/Voyager-Technologies",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Peraton",
+    "id": "77a181c4-c4ac-48d7-8afc-921fbe47d7cd",
+    "title": "Data Scientist",
+    "active": true,
+    "date_updated": 1766509304,
+    "date_posted": 1766509304,
+    "url": "https://careers-peraton.icims.com/jobs/162252/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Reston, VA"
+    ],
+    "company_url": "https://simplify.jobs/c/Peraton",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
