@@ -67127,5 +67127,95 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Walmart",
+    "id": "bfe86098-e003-43cb-b97c-8f8d39cc598b",
+    "title": "USA \u2013 Staff - Data Scientist",
+    "active": true,
+    "date_updated": 1766459181,
+    "date_posted": 1766459181,
+    "url": "https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Bentonville-AR/XMLNAME--USA--Staff--Data-Scientist_R-2331754",
+    "locations": [
+      "Bentonville, AR"
+    ],
+    "company_url": "https://simplify.jobs/c/Walmart",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "University of Chicago",
+    "id": "637048bc-f75f-416e-9f6d-2f00fe0926d9",
+    "title": "Data Analyst",
+    "active": true,
+    "date_updated": 1766457106,
+    "date_posted": 1766457106,
+    "url": "https://uchicago.wd5.myworkdayjobs.com/External/job/Chicago-IL/Data-Analyst_JR32225",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/University-Of-Chicago",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "ASML",
+    "id": "2099405f-c756-4833-be05-f9e2cdea4246",
+    "title": "Field Service Engineer - HMI",
+    "active": true,
+    "date_updated": 1766457299,
+    "date_posted": 1766457299,
+    "url": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/Chandler-AZ-USA/Field-Service-Engineer---HMI_J-00332597",
+    "locations": [
+      "Chandler, AZ"
+    ],
+    "company_url": "https://simplify.jobs/c/ASML",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "PPG Industries",
+    "id": "b7ed1852-8d68-43cb-a9c4-73e4ae36edbc",
+    "title": "Manufacturing Data Analyst",
+    "active": true,
+    "date_updated": 1766458872,
+    "date_posted": 1766458872,
+    "url": "https://ppg.wd5.myworkdayjobs.com/PPG_CAREERS/job/USA---Delaware-Plant/Manufacturing-Data-Analyst_JR2518708",
+    "locations": [
+      "Ohio"
+    ],
+    "company_url": "https://simplify.jobs/c/PPG-Industries",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "The Boeing Company",
+    "id": "54ba30d4-2242-40be-a586-1cbde3d054a5",
+    "title": "Test & Evaluation Engineer - Multiple Teams",
+    "active": true,
+    "date_updated": 1766458528,
+    "date_posted": 1766458528,
+    "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Berkeley-MO/Test---Evaluation-Engineer--Entry-Level--Associate--and-Experienced-_JR2025467413-1",
+    "locations": [
+      "Hazelwood, MO"
+    ],
+    "company_url": "https://simplify.jobs/c/Boeing",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
