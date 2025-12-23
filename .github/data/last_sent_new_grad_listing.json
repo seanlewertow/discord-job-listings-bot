@@ -67448,5 +67448,77 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Remi",
+    "id": "639a8f32-953e-4c7a-882f-0bf3ad477035",
+    "title": "Software Engineer 1/2",
+    "active": true,
+    "date_updated": 1766507077,
+    "date_posted": 1766507077,
+    "url": "https://jobs.ashbyhq.com/remi/f83d1104-3501-403f-bfb8-55ae59b6723c/application",
+    "locations": [
+      "Lehi, UT"
+    ],
+    "company_url": "https://simplify.jobs/c/Remi",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Remi",
+    "id": "38a2eab9-2ef7-4842-b85a-f5fa502b2105",
+    "title": "Software Engineer 1/2 - SF",
+    "active": true,
+    "date_updated": 1766507093,
+    "date_posted": 1766507093,
+    "url": "https://jobs.ashbyhq.com/remi/b818286a-d389-42bd-a4d8-47020981ec57/application",
+    "locations": [
+      "SF"
+    ],
+    "company_url": "https://simplify.jobs/c/Remi",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Experian",
+    "id": "78ecd91c-1a1d-47ad-b37f-6b1a7da7aac6",
+    "title": "Analyst",
+    "active": true,
+    "date_updated": 1766506809,
+    "date_posted": 1766506809,
+    "url": "https://jobs.smartrecruiters.com/Experian/744000100264211",
+    "locations": [
+      "Nottingham, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Experian",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Google",
+    "id": "17a7361a-87ac-4c99-86a6-7fae8ed6c8c6",
+    "title": "Physical Design Engineer \u2013 University Graduate - 3D Technology - PhD",
+    "active": true,
+    "date_updated": 1766506660,
+    "date_posted": 1766506660,
+    "url": "https://www.google.com/about/careers/applications/jobs/results/106741356235236038",
+    "locations": [
+      "Sunnyvale, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Google",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
