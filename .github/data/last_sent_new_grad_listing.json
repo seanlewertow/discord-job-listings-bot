@@ -68027,5 +68027,23 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "UBS",
+    "id": "82f17a36-38b0-4a90-80a7-5ac025f7c75c",
+    "title": "QIS Quantitative Analyst",
+    "active": true,
+    "date_updated": 1766569199,
+    "date_posted": 1765610297,
+    "url": "https://jobs.ubs.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25008&siteid=5155&PageType=JobDetails&jobid=334026",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/UBS",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
