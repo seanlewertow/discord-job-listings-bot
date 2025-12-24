@@ -67971,5 +67971,61 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Northrop Grumman",
+    "id": "aec478e1-b79a-49bb-98c7-10fcdd2645e4",
+    "title": "Associate Software Engineer / Software Engineer",
+    "active": true,
+    "date_updated": 1766561731,
+    "date_posted": 1766561731,
+    "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Oklahoma-Oklahoma-City/XMLNAME-2026-Associate-Software-Engineer-Software-Engineer_R10217878",
+    "locations": [
+      "Oklahoma City, OK"
+    ],
+    "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Honeywell",
+    "id": "adf08302-4c30-4375-a2eb-4be6a1f1b947",
+    "title": "Technician - Test - Level 3",
+    "active": true,
+    "date_updated": 1766560286,
+    "date_posted": 1766560286,
+    "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/132655",
+    "locations": [
+      "North Wales, PA"
+    ],
+    "company_url": "https://simplify.jobs/c/Honeywell",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Western Governors University",
+    "id": "f674357b-69c9-4e41-add0-1d6305c4c848",
+    "title": "Associate Software Engineer",
+    "active": true,
+    "date_updated": 1766561466,
+    "date_posted": 1766561466,
+    "url": "https://wgu.wd5.myworkdayjobs.com/External/job/Salt-Lake-City-Office/Associate-Software-Engineer_JR-023918",
+    "locations": [
+      "Salt Lake City, UT"
+    ],
+    "company_url": "https://simplify.jobs/c/Western-Governors-University",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
