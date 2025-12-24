@@ -68172,5 +68172,23 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "L3Harris Technologies",
+    "id": "cb836f35-ebcf-4cb7-a325-706e08b5e3a5",
+    "title": "Senior Associate - Software Engineer",
+    "active": true,
+    "date_updated": 1766593321,
+    "date_posted": 1764209376,
+    "url": "https://jobs.l3harris.com/job/Salt-Lake-City-Sr_-Associate,-Software-Engineering-UT-84116/1345896800/?ats=successfactors",
+    "locations": [
+      "Salt Lake City, UT"
+    ],
+    "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
