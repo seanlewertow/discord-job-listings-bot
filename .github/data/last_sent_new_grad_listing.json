@@ -67857,5 +67857,23 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Huron",
+    "id": "bba49d0a-aa99-49ce-aac7-98bdd4457efa",
+    "title": "Data Scientist - Associate",
+    "active": true,
+    "date_updated": 1766536041,
+    "date_posted": 1766536041,
+    "url": "https://huron.wd1.myworkdayjobs.com/huroncareers/job/Chicago---550-Van-Buren/Data-Scientist--Associate-_JR-0013624",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/Huron",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
