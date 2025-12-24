@@ -68226,5 +68226,41 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Newmont",
+    "id": "ce95491e-72ed-4b6b-bb6b-1cc041d49347",
+    "title": "Analyst \u2013 Geoscience Data Americas",
+    "active": true,
+    "date_updated": 1766618230,
+    "date_posted": 1766618230,
+    "url": "https://jobs.newmont.com/us/en/job/41058",
+    "locations": [
+      "Vancouver, BC, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/90e0373e-e60e-4722-bb8f-06f1471a1c38",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "BBB",
+    "id": "add962d5-3ec3-4dbf-bde0-8e689d06f334",
+    "title": "Data Analyst - Entry Level",
+    "active": true,
+    "date_updated": 1766617920,
+    "date_posted": 1766617920,
+    "url": "https://bbbne.bamboohr.com/careers/49/",
+    "locations": [
+      "Omaha, NE"
+    ],
+    "company_url": "https://simplify.jobs/c/BBB",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
