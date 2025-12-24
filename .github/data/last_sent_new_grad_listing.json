@@ -68099,5 +68099,23 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Lennar Corporation",
+    "id": "e902b464-c6c5-42dc-99a1-75ff916e5671",
+    "title": "Systems Analyst 1",
+    "active": true,
+    "date_updated": 1766533364,
+    "date_posted": 1766533364,
+    "url": "https://lennar.wd1.myworkdayjobs.com/Lennar_Jobs/job/Irving-TX-Job-Posting-Location/Systems-Analyst-I_R25_0000005020",
+    "locations": [
+      "Irving, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Lennar-Corporation",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
