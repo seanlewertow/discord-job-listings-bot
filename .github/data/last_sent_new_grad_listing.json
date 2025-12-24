@@ -67767,5 +67767,95 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "General Dynamics UK",
+    "id": "817b02e3-70af-4688-b84c-2f5d6a45e35e",
+    "title": "Junior Software Engineer",
+    "active": true,
+    "date_updated": 1766532651,
+    "date_posted": 1766532651,
+    "url": "https://jobs.smartrecruiters.com/GDMSI/744000100315845",
+    "locations": [
+      "Calgary, AB, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/General-Dynamics-UK",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Citizen Health",
+    "id": "68284839-4202-46e7-9bf7-01dad3d4bcdf",
+    "title": "Early Career Software Engineer",
+    "active": true,
+    "date_updated": 1766531794,
+    "date_posted": 1766531794,
+    "url": "https://jobs.ashbyhq.com/Citizen%20Health/5caf6697-43c6-41b5-92ef-20a8c85db322/application",
+    "locations": [
+      "SF"
+    ],
+    "company_url": "https://simplify.jobs/c/Citizen-Health",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "General Dynamics UK",
+    "id": "34a728e8-2a81-496e-aab2-3399a7f5c0cc",
+    "title": "Junior Software Engineer",
+    "active": true,
+    "date_updated": 1766532653,
+    "date_posted": 1766532653,
+    "url": "https://jobs.smartrecruiters.com/GDMSI/744000100316725",
+    "locations": [
+      "Ottawa, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/General-Dynamics-UK",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "GE Healthcare",
+    "id": "1777952b-87ed-4bd8-ad96-74653b0e0124",
+    "title": "Field Engineer 1",
+    "active": true,
+    "date_updated": 1766532505,
+    "date_posted": 1766532505,
+    "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Phoenix/Field-Engineer-1_R4033509",
+    "locations": [
+      "Phoenix, AZ"
+    ],
+    "company_url": "https://simplify.jobs/c/GE-Healthcare",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "MatX",
+    "id": "5ee92fd5-4f65-4605-a36d-f12ee6220235",
+    "title": "Software Engineer - Simulators",
+    "active": true,
+    "date_updated": 1766532414,
+    "date_posted": 1765001965,
+    "url": "https://job-boards.greenhouse.io/matx/jobs/4102858008",
+    "locations": [
+      "Mountain View, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/MatX",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
