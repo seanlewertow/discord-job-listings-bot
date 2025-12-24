@@ -67875,5 +67875,101 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "The Boeing Company",
+    "id": "80c24d8a-6826-40aa-8903-f07957119e14",
+    "title": "Nondestructive Test - NDT",
+    "active": true,
+    "date_updated": 1766544082,
+    "date_posted": 1766544082,
+    "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Berkeley-MO/Nondestructive-Test--NDT--Technician--Associate-or-Experienced-_JR2025489685",
+    "locations": [
+      "New Orleans, LA",
+      "Mesa, AZ",
+      "Hazelwood, MO"
+    ],
+    "company_url": "https://simplify.jobs/c/Boeing",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Genuine Parts Company",
+    "id": "ccb34b5d-2a8b-4772-bef3-30a2089a70d6",
+    "title": "Software Engineer 1",
+    "active": true,
+    "date_updated": 1766544763,
+    "date_posted": 1766544763,
+    "url": "https://genpt.wd1.myworkdayjobs.com/Careers/job/Birmingham-AL-USA/Software-Engineer-I_R25_0000044313",
+    "locations": [
+      "Birmingham, AL"
+    ],
+    "company_url": "https://simplify.jobs/c/Genuine-Parts-Company",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "ByteDance",
+    "id": "39ebfdd7-702f-4997-a082-6bd4e62e24d2",
+    "title": "Research Scientist Graduate - 3D/4D Generation - 2026 Start",
+    "active": true,
+    "date_updated": 1766542472,
+    "date_posted": 1766542472,
+    "url": "https://jobs.bytedance.com/en/position/7585034854077778181/detail",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/ByteDance",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "PURE Insurance",
+    "id": "072b5831-4de4-4667-923b-48f952980c71",
+    "title": "Technology Analyst Program",
+    "active": true,
+    "date_updated": 1766545515,
+    "date_posted": 1766545515,
+    "url": "https://pureinsurance.wd5.myworkdayjobs.com/pure/job/Warren/Technology-Analyst-Program--September-2026_R2561",
+    "locations": [
+      "Middlesex, NJ",
+      "White Plains, NY"
+    ],
+    "company_url": "https://simplify.jobs/c/fc808eea-5bbd-47f2-b012-c26bad545ecd",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Accenture",
+    "id": "2b576432-c1a4-4fa1-aa48-c114f25988f0",
+    "title": "Atc \u2013 Software and Platform Analyst",
+    "active": true,
+    "date_updated": 1766545314,
+    "date_posted": 1766545314,
+    "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Atlanta-75-Fifth-Corp/ATC---Software-and-Platform-Analyst---NAELFY26_R00304885",
+    "locations": [
+      "Tampa, FL",
+      "Columbus, OH",
+      "Atlanta, GA",
+      "St. Petersburg, FL"
+    ],
+    "company_url": "https://simplify.jobs/c/Accenture-FS",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
