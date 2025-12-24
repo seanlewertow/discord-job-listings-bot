@@ -68063,5 +68063,41 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "b5a5e520-a750-45f4-8fd5-d0c54405a502",
+    "title": "Trading Assistant",
+    "active": true,
+    "date_updated": 1766572782,
+    "date_posted": 1766572782,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400043831",
+    "locations": [
+      "Manchester, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Amazing Lash Studios",
+    "id": "af77ee0d-8141-4d59-95cd-d628c00b3165",
+    "title": "Sales Associate / Customer Service",
+    "active": true,
+    "date_updated": 1766571952,
+    "date_posted": 1757636261,
+    "url": "https://amazinglashstudio-wellbizbrands.icims.com/jobs/9595/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Amazing-Lash-Studios",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
