@@ -68262,5 +68262,100 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Five Rings Capital",
+    "id": "2a8e337d-9b44-4504-ab4e-201369e5ab53",
+    "title": "Trading Assistant - Trading Assistant",
+    "active": true,
+    "date_updated": 1766619954,
+    "date_posted": 1766619954,
+    "url": "https://job-boards.greenhouse.io/fiveringsllc/jobs/5047415008",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Five-Rings",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Microchip Technology",
+    "id": "2e28a8ff-11d7-40a8-8db0-4548cb788beb",
+    "title": "Software Developer",
+    "active": true,
+    "date_updated": 1766619879,
+    "date_posted": 1766619879,
+    "url": "https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/Canada---Burnaby/Software-Developer_R2827-25",
+    "locations": [
+      "Burnaby, BC, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Microchip-Technology",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Microchip Technology",
+    "id": "0ee004d3-565d-431e-b683-cff2829a7427",
+    "title": "Software Developer",
+    "active": true,
+    "date_updated": 1766619882,
+    "date_posted": 1766619882,
+    "url": "https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/Canada---Saskatoon/Software-Developer_R2826-25",
+    "locations": [
+      "Saskatoon, SK, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Microchip-Technology",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Voyager Technologies",
+    "id": "9f6fb5df-8de7-479b-b29d-45f1fcf227da",
+    "title": "AI Software Engineer - Agents - Ace",
+    "active": true,
+    "date_updated": 1766619489,
+    "date_posted": 1766509609,
+    "url": "https://job-boards.greenhouse.io/voyagertechnologiesinc/jobs/4087903009",
+    "locations": [
+      "Seattle, WA",
+      "Washington, DC",
+      "LA"
+    ],
+    "company_url": "https://simplify.jobs/c/Voyager-Technologies",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "ERM",
+    "id": "f7b1bc6a-38b1-429c-8705-419eaacb6fc4",
+    "title": "Consulting Associate - Engineering or Geology",
+    "active": true,
+    "date_updated": 1766619011,
+    "date_posted": 1766619011,
+    "url": "https://erm.wd3.myworkdayjobs.com/ERM_Careers/job/Charlotte-North-Carolina/Consulting-Associate--Engineering-or-Geology_R00028751-1",
+    "locations": [
+      "Raleigh, NC",
+      "Charlotte, NC"
+    ],
+    "company_url": "https://simplify.jobs/c/ERM",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
