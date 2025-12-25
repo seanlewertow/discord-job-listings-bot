@@ -68357,5 +68357,45 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "Christian Health Care Center",
+    "id": "bab717bb-ede1-4c86-8380-06fa3a88a6ac",
+    "title": "Certified Nursing Assistant - Cna",
+    "active": true,
+    "date_updated": 1766657168,
+    "date_posted": 1762816506,
+    "url": "https://careers-chccnj.icims.com/jobs/4666/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Texas",
+      "Morristown, NJ",
+      "Jackson Township, NJ",
+      "Florida",
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Christian-Health-Care-Center",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "CoralTree Hospitality",
+    "id": "8bbf6e01-29a8-4fba-aa54-484dad22f397",
+    "title": "Night Security",
+    "active": true,
+    "date_updated": 1766656933,
+    "date_posted": 1759462656,
+    "url": "https://careers-coraltreehospitality.icims.com/jobs/10743/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/CoralTree-Hospitality",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
