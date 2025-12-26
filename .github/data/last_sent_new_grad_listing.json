@@ -68397,5 +68397,59 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Covenant Health",
+    "id": "a0007d61-e7d4-4c16-8442-a81fbe50f041",
+    "title": "Certified Nursing Assistant",
+    "active": true,
+    "date_updated": 1766744505,
+    "date_posted": 1765242588,
+    "url": "https://careers-covenanthealth.icims.com/jobs/69607/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Kitsap County, WA"
+    ],
+    "company_url": "https://simplify.jobs/c/Covenant-Health",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Daktronics",
+    "id": "34910496-a13a-4233-9673-fa6867e6cdec",
+    "title": "Metal Machine Operator",
+    "active": true,
+    "date_updated": 1766743984,
+    "date_posted": 1760499714,
+    "url": "https://careers-daktronics.icims.com/jobs/7101/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "McLean, VA"
+    ],
+    "company_url": "https://simplify.jobs/c/Daktronics",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "SeniorLIFE",
+    "id": "8c44363e-6e2e-424c-ae3b-30212747153c",
+    "title": "Driver \u2013 Washington",
+    "active": true,
+    "date_updated": 1766744164,
+    "date_posted": 1758327728,
+    "url": "https://careers-seniorlifepa.icims.com/jobs/11348/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/SeniorLIFE",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
