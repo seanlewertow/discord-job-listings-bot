@@ -68543,5 +68543,30 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Jerry",
+    "id": "b36d38e5-534e-40aa-be9c-77c85b42cbed",
+    "title": "Software Engineer - Entry",
+    "active": true,
+    "date_updated": 1766791194,
+    "date_posted": 1766791194,
+    "url": "https://jobs.ashbyhq.com/jerry.ai/bbbced3d-d1c4-43a0-9b72-98e40b2df110/application",
+    "locations": [
+      "Palo Alto, CA",
+      "Boston, MA",
+      "Toronto, ON, Canada",
+      "SF",
+      "LA",
+      "Chicago, IL",
+      "NYC",
+      "Atlanta, GA"
+    ],
+    "company_url": "https://simplify.jobs/c/Jerry",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
