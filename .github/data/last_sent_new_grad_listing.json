@@ -68487,5 +68487,61 @@
     "date_posted": 1766764112,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Gallup",
+    "id": "bca22fd3-8179-4ece-897a-08fca5342097",
+    "title": "Senior Backend Developer",
+    "active": true,
+    "date_updated": 1766767397,
+    "date_posted": 1766767397,
+    "url": "https://job-boards.greenhouse.io/gallup/jobs/4077186009",
+    "locations": [
+      "Omaha, NE"
+    ],
+    "company_url": "https://simplify.jobs/c/Gallup",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Children's Hospital of Philadelphia",
+    "id": "7083f555-b788-45ea-87e1-0db6ed228468",
+    "title": "Research IS Business Systems Analyst",
+    "active": true,
+    "date_updated": 1766768350,
+    "date_posted": 1766768350,
+    "url": "https://chop.wd5.myworkdayjobs.com/CHOPExternalCareers/job/HomeRemote-Office-Location/Research-IS-Business-Systems-Analyst_1021184-1",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/Childrens-Hospital-Of-Philadelphia",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Uhaul",
+    "id": "fa26f8ce-2c9a-47b4-a462-74ffbcc50704",
+    "title": "Hitch Installer",
+    "active": true,
+    "date_updated": 1766767431,
+    "date_posted": 1766767431,
+    "url": "https://uhaul.wd1.myworkdayjobs.com/UhaulJobs/job/Moncton-New-Brunswick/Hitch-Installer_R234672",
+    "locations": [
+      "Dieppe, NB, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Uhaul",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
