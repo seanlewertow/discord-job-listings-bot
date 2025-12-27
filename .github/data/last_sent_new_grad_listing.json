@@ -68838,5 +68838,23 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "33901cdc-28b5-4b90-a22b-0dc8fa1c020f",
+    "title": "Trading Assistant",
+    "active": true,
+    "date_updated": 1766854442,
+    "date_posted": 1766854442,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400043946",
+    "locations": [
+      "Bath, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
