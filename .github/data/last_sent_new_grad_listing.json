@@ -68712,5 +68712,23 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Fanatics",
+    "id": "879de7d3-d505-4b41-8f52-58f0cfe9c3c1",
+    "title": "Software Engineer 1 - Backend",
+    "active": true,
+    "date_updated": 1766819603,
+    "date_posted": 1766819603,
+    "url": "https://fa-exki-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25910",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/Fanatics",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
