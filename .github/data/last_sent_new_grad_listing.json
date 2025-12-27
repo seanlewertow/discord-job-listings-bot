@@ -68640,5 +68640,77 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Axle",
+    "id": "77c25c6e-e383-4778-9e3a-585383dd8401",
+    "title": "Computer Systems Analyst",
+    "active": true,
+    "date_updated": 1766797261,
+    "date_posted": 1766797261,
+    "url": "https://job-boards.greenhouse.io/axle/jobs/4918044007",
+    "locations": [
+      "Baltimore, MD"
+    ],
+    "company_url": "https://simplify.jobs/c/2fb4f27c-8f47-47fe-a3ad-4b033c6586da",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Airbus",
+    "id": "f97051ba-ff6b-4eab-9ff7-4aac1be471b2",
+    "title": "ADU Technician - Contract",
+    "active": true,
+    "date_updated": 1766798944,
+    "date_posted": 1766798944,
+    "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Mobile-Area-AL/ADU-Technician--CONTRACT-_JR10364652",
+    "locations": [
+      "Mobile, AL"
+    ],
+    "company_url": "https://simplify.jobs/c/Airbus",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Certik",
+    "id": "ecae65d4-5a3d-48fa-be81-16c38bd63343",
+    "title": "Business Data Analyst",
+    "active": true,
+    "date_updated": 1766802478,
+    "date_posted": 1766802478,
+    "url": "https://jobs.lever.co/certik/20f8e282-fd1a-4f17-8dcf-358e2200c1cf/apply",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Certik",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "Shure",
+    "id": "9e3271cd-e6be-4ba0-bf0f-569280cef96e",
+    "title": "Analyst 1 \u2013 Product Management",
+    "active": true,
+    "date_updated": 1766802601,
+    "date_posted": 1757644855,
+    "url": "https://careersus-shure.icims.com/jobs/4601/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Morton Grove, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/Shure",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
