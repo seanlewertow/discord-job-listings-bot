@@ -68748,5 +68748,23 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "EyeSouth Partners",
+    "id": "5c5a4c02-10fe-452f-b4d0-365c3a975487",
+    "title": "Ophthalmic Technician 1",
+    "active": true,
+    "date_updated": 1766830765,
+    "date_posted": 1757628380,
+    "url": "https://careers-eyesouthpartners.icims.com/jobs/8450/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Wright-Patterson AFB, OH"
+    ],
+    "company_url": "https://simplify.jobs/c/EyeSouth-Partners",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
