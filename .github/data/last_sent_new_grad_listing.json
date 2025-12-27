@@ -68766,5 +68766,41 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Vetcor",
+    "id": "94480067-6f31-409c-a63a-2026a195873a",
+    "title": "Veterinarian - Loves Park - IL",
+    "active": true,
+    "date_updated": 1766830892,
+    "date_posted": 1765408576,
+    "url": "https://careers-vet.icims.com/jobs/10490/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "North Charleston, SC"
+    ],
+    "company_url": "https://simplify.jobs/c/Vetcor",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Fanatics",
+    "id": "dc63f858-a3b5-42ed-ab88-8fb756946fb9",
+    "title": "Trader 1",
+    "active": true,
+    "date_updated": 1766832657,
+    "date_posted": 1764892010,
+    "url": "https://fa-exki-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25739",
+    "locations": [
+      "Leeds, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Fanatics",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
