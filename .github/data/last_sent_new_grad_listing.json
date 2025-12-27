@@ -68802,5 +68802,41 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "f802b764-cd70-4607-8b4d-f3f88741207b",
+    "title": "Trading Assistant",
+    "active": true,
+    "date_updated": 1766854443,
+    "date_posted": 1766854443,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400043947",
+    "locations": [
+      "Bristol, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Amazon",
+    "id": "d5d34deb-c097-4ca6-b8e6-6bb16ee6f2a7",
+    "title": "Data Engineer 1 - ITA - Candidate Conversion",
+    "active": true,
+    "date_updated": 1766854551,
+    "date_posted": 1766854551,
+    "url": "https://amazon.jobs/en/jobs/3149437/data-engineer-i-ita-candidate-conversion",
+    "locations": [
+      "London, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Amazon",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
