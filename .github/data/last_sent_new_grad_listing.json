@@ -68568,5 +68568,77 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "27366855-1aed-4d9c-b699-bcecb17f14c8",
+    "title": "Trading Assistant - Shift",
+    "active": true,
+    "date_updated": 1766791000,
+    "date_posted": 1766791000,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400043909",
+    "locations": [
+      "Dorchester, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Internet Brands",
+    "id": "49f108f0-471b-4f89-aee1-628150a94dec",
+    "title": "Associate AI Research & Operations Analyst",
+    "active": true,
+    "date_updated": 1766790696,
+    "date_posted": 1766790696,
+    "url": "https://jobs.jobvite.com/internetbrands/job/oDnbzfwu?nl=1&nl=1&fr=false",
+    "locations": [
+      "El Segundo, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Internet-Brands",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "12371aaf-cff8-4615-8e58-678ea7fffbfa",
+    "title": "Trading Assistant - Shift",
+    "active": true,
+    "date_updated": 1766791000,
+    "date_posted": 1766791000,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400043821",
+    "locations": [
+      "Dorchester, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "American Fidelity",
+    "id": "cabc8be4-67c2-4714-b35e-9b100c51999c",
+    "title": "Product Analyst 1",
+    "active": true,
+    "date_updated": 1766796110,
+    "date_posted": 1766796110,
+    "url": "https://americanfidelity.wd5.myworkdayjobs.com/External/job/Oklahoma-City-Oklahoma/Products-Analyst-I_JR375-1",
+    "locations": [
+      "Oklahoma City, OK"
+    ],
+    "company_url": "https://simplify.jobs/c/American-Fidelity",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
