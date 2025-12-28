@@ -69018,5 +69018,23 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "d6182b9b-1cae-4736-928c-b1a7dc7d5c0d",
+    "title": "Trading Assistant - Shift",
+    "active": true,
+    "date_updated": 1766939036,
+    "date_posted": 1766939036,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400044037",
+    "locations": [
+      "Thurrock, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
