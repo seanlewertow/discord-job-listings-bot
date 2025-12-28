@@ -68874,5 +68874,41 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "5dd608ea-e3c9-41f2-a4cb-4af668c70df3",
+    "title": "Trading Assistant - Shift",
+    "active": true,
+    "date_updated": 1766887941,
+    "date_posted": 1766887941,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400044011",
+    "locations": [
+      "Bath, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "KPH Healthcare Services",
+    "id": "6e8faf9d-16b7-4838-984e-c49b564085cd",
+    "title": "Pharmacy Clerk",
+    "active": true,
+    "date_updated": 1766888517,
+    "date_posted": 1757622409,
+    "url": "https://kphcareers-kphhealthcareservices.icims.com/jobs/13461/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/KPH-Healthcare-Services",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
