@@ -69074,5 +69074,100 @@
     "degrees": [
       "PhD"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "0eb0622b-a27c-497d-a95b-7eea288fe7b8",
+    "title": "Trading Assistant",
+    "active": true,
+    "date_updated": 1767029221,
+    "date_posted": 1767029221,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400044156",
+    "locations": [
+      "York, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Peraton",
+    "id": "6d9eef74-1b50-45ad-825a-2d9282b69d4f",
+    "title": "Junior Software Engineer",
+    "active": true,
+    "date_updated": 1767030027,
+    "date_posted": 1767030027,
+    "url": "https://careers-peraton.icims.com/jobs/162269/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Hill AFB, UT"
+    ],
+    "company_url": "https://simplify.jobs/c/Peraton",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "MUFG",
+    "id": "de029ee8-2ee1-44b1-b2e7-73f20d55d87b",
+    "title": "Machine Learning Engineer - Data Pipelines",
+    "active": true,
+    "date_updated": 1767030923,
+    "date_posted": 1767030923,
+    "url": "https://mufgub.wd3.myworkdayjobs.com/mufg-careers/job/Jersey-City-NJ/Machine-Learning-Engineer---Data-Pipelines--Analyst_10074067-WD",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/MUFG",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "American Institutes for Research",
+    "id": "a8986370-14ab-4b09-a1b0-7249b3c14f0e",
+    "title": "Data Scientist Assistant",
+    "active": true,
+    "date_updated": 1767030927,
+    "date_posted": 1767030927,
+    "url": "https://job-boards.greenhouse.io/americaninstitutesforresearch/jobs/5046338008",
+    "locations": [
+      "Carrboro, NC",
+      "Austin, TX",
+      "Remote in USA",
+      "Chicago, IL",
+      "Arlington, VA",
+      "Sacramento, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/American-Institutes-For-Research",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "L3Harris Technologies",
+    "id": "740ed01a-a6a1-4ce6-b710-904d1e619dde",
+    "title": "Associate \u2013 Test Systems Engineer - Salt Lake City - UT",
+    "active": true,
+    "date_updated": 1767029130,
+    "date_posted": 1767029130,
+    "url": "https://jobs.l3harris.com/job/Salt-Lake-City-Associate,-Test-Systems-Engineer-(Salt-Lake-City,-UT)-UT-84117/1352227200/?ats=successfactors",
+    "locations": [
+      "Salt Lake City, UT"
+    ],
+    "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
