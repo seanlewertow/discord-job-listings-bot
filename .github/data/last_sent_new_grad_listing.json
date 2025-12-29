@@ -69169,5 +69169,63 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "GE Vernova",
+    "id": "cb921a38-09c7-4a03-b137-476a89fe7cfd",
+    "title": "Post Doc \u2013 Advanced Computational Methods & Simulation",
+    "active": true,
+    "date_updated": 1767030316,
+    "date_posted": 1767030316,
+    "url": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Niskayuna/Post-Doc---Advanced-Computational-Methods---Simulation_R5021476-1",
+    "locations": [
+      "Schenectady, NY"
+    ],
+    "company_url": "https://simplify.jobs/c/GE-Vernova",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "Sentry Insurance",
+    "id": "3bec9af6-7462-4922-92d8-d2f327a39975",
+    "title": "Business Product Analyst-Personal Lines",
+    "active": true,
+    "date_updated": 1767029884,
+    "date_posted": 1767029884,
+    "url": "https://sentryinsurance.wd1.myworkdayjobs.com/en-US/SentryCareers/job/Madison-WI/Business-Product-Analyst-Personal-Lines_JR-140929",
+    "locations": [
+      "Plover, WI",
+      "Madison, WI"
+    ],
+    "company_url": "https://simplify.jobs/c/782e6c3f-aff3-4aed-9d50-50676cb8ed7f",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Citi",
+    "id": "2ea68e3f-6b01-4991-a8b2-add68785890f",
+    "title": "Applications Development Intermediate Programmer Analyst",
+    "active": true,
+    "date_updated": 1767030254,
+    "date_posted": 1767030254,
+    "url": "https://citi.wd5.myworkdayjobs.com/2/job/Tampa-Florida-United-States/Apps-Dev-Intmd-Programmer-Analyst---Officer_25926282",
+    "locations": [
+      "Tampa, FL",
+      "Irving, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Citigroup",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
