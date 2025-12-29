@@ -69227,5 +69227,95 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "5bf09d16-e488-45d1-ae23-09dbde9da6ba",
+    "title": "Trading Assistant - Shift",
+    "active": true,
+    "date_updated": 1767050095,
+    "date_posted": 1767050095,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400043641",
+    "locations": [
+      "Cambridge, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "21223547-3404-4e2c-968e-c74954860cf5",
+    "title": "Trading Assistant - Shift",
+    "active": true,
+    "date_updated": 1767050074,
+    "date_posted": 1767050074,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400044245",
+    "locations": [
+      "Essex, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "0f7f1079-756a-4855-8b08-cf61377e34f4",
+    "title": "Trading Assistant - Shift",
+    "active": true,
+    "date_updated": 1767050078,
+    "date_posted": 1767050078,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400044246",
+    "locations": [
+      "Essex, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Western Digital",
+    "id": "085295d6-9003-4f6d-b42c-98d33a1c2325",
+    "title": "Early Career Talent - Applications Engineer - Data Science/Automation",
+    "active": true,
+    "date_updated": 1767049513,
+    "date_posted": 1767049513,
+    "url": "https://jobs.smartrecruiters.com/WesternDigital/744000100914956",
+    "locations": [
+      "Fremont, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Western-Digital",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Daifuku",
+    "id": "2863790e-e6a5-489f-978b-8fc6fd5d3d16",
+    "title": "Field Service Engineer 1",
+    "active": true,
+    "date_updated": 1767050478,
+    "date_posted": 1762385266,
+    "url": "https://careers-daifuku-america.icims.com/jobs/20880/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Pflugerville, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Daifuku",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
