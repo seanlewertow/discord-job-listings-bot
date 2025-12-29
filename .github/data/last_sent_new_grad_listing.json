@@ -69036,5 +69036,43 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Sainsbury's",
+    "id": "3c76577c-d783-412b-b8da-88f031b793be",
+    "title": "Associate Analyst",
+    "active": true,
+    "date_updated": 1767004906,
+    "date_posted": 1767004906,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400043439",
+    "locations": [
+      "London, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Qualcomm",
+    "id": "fcd572b0-df12-4d6c-bb70-90664e33d004",
+    "title": "Machine Learning Researcher - Deep Reinforcement Learning and Optimization - Machine Learning Researcher",
+    "active": true,
+    "date_updated": 1767003976,
+    "date_posted": 1765419348,
+    "url": "https://qualcomm.eightfold.ai/careers/job/446715744852",
+    "locations": [
+      "Markham, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Qualcomm",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "PhD"
+    ]
   }
 ]
