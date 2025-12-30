@@ -69462,5 +69462,42 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "KPH Healthcare Services",
+    "id": "fdce107d-1a3e-460d-9e0e-070212933495",
+    "title": "Patient Benefit Specialist",
+    "active": true,
+    "date_updated": 1767091435,
+    "date_posted": 1763769593,
+    "url": "https://kphcareers-kphhealthcareservices.icims.com/jobs/13192/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Washington, DC",
+      "Vienna, VA"
+    ],
+    "company_url": "https://simplify.jobs/c/KPH-Healthcare-Services",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Covenant Health",
+    "id": "42653215-9acb-4093-825f-ee1f400b88ae",
+    "title": "CT Tech",
+    "active": true,
+    "date_updated": 1767090807,
+    "date_posted": 1761907743,
+    "url": "https://careers-covenanthealth.icims.com/jobs/68495/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Colorado Springs, CO"
+    ],
+    "company_url": "https://simplify.jobs/c/Covenant-Health",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
