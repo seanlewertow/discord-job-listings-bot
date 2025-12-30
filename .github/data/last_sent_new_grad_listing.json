@@ -69499,5 +69499,23 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Qualtrics",
+    "id": "47f440b0-3fe8-4f10-a730-29481356d643",
+    "title": "Data Scientist - People Analytics",
+    "active": true,
+    "date_updated": 1767093186,
+    "date_posted": 1765384024,
+    "url": "https://www.qualtrics.com/careers/us/en/job/7445366?gh_jid=7445366",
+    "locations": [
+      "Provo, UT"
+    ],
+    "company_url": "https://simplify.jobs/c/Qualtrics",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
