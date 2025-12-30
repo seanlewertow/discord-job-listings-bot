@@ -69571,5 +69571,81 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Centene",
+    "id": "060e04bf-e267-459e-89c4-c329ac5c593c",
+    "title": "Business Intelligence Engineer 1",
+    "active": true,
+    "date_updated": 1767114899,
+    "date_posted": 1767114899,
+    "url": "https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/Business-Intelligence-Engineer-I_1625414",
+    "locations": [
+      "Texas",
+      "Florida",
+      "South Carolina",
+      "North Carolina",
+      "Missouri"
+    ],
+    "company_url": "https://simplify.jobs/c/Centene",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "GXO Logistics",
+    "id": "fbd0f886-db3b-4c48-9809-44b0a0a68ddc",
+    "title": "Digital & Tech Graduate",
+    "active": true,
+    "date_updated": 1767112033,
+    "date_posted": 1767112033,
+    "url": "https://jobs.gxo.com/job/Northampton-Digital-&-Tech-Graduate-ENG-NN1-5GE/1352453600/?ats=successfactors",
+    "locations": [
+      "Northamptonshire, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/GXO-Logistics",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Parsons",
+    "id": "6c2a47ae-d112-4d65-b0d6-6e2e742e50ca",
+    "title": "C-UAS Test Analyst",
+    "active": true,
+    "date_updated": 1767114377,
+    "date_posted": 1767114377,
+    "url": "https://parsons.wd5.myworkdayjobs.com/en-US/search/job/US-WV---Summit-Point/C-UAS-Test-Analyst_R175918-2",
+    "locations": [
+      "Bluemont, VA"
+    ],
+    "company_url": "https://simplify.jobs/c/Parsons",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "CACI",
+    "id": "2b0c9b6f-1c73-4fa0-9db1-6bbf3bc1f4d8",
+    "title": "Applications Programmer 1",
+    "active": true,
+    "date_updated": 1767114144,
+    "date_posted": 1767114144,
+    "url": "https://caci.wd1.myworkdayjobs.com/external/job/US-VA-Norfolk/Applications-Programmer-I_313830",
+    "locations": [
+      "Norfolk, VA"
+    ],
+    "company_url": "https://simplify.jobs/c/CACI",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
