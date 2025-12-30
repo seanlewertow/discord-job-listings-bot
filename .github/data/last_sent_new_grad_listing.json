@@ -69665,5 +69665,60 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "96235c20-8ae8-4f9e-a0c9-e0c82c1a718f",
+    "title": "Trading Assistant",
+    "active": true,
+    "date_updated": 1767136668,
+    "date_posted": 1767136668,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400044395",
+    "locations": [
+      "Dundee, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "6648cfe4-c30b-47ee-9876-398558bc0f15",
+    "title": "Trading Assistant",
+    "active": true,
+    "date_updated": 1767136663,
+    "date_posted": 1767136663,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400044398",
+    "locations": [
+      "Edinburgh, UK",
+      "Midlothian, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "CACI",
+    "id": "8017af04-e8dd-4b04-8b13-1fd3b9e1b53a",
+    "title": "Entry/Mid Software Developer",
+    "active": true,
+    "date_updated": 1767136579,
+    "date_posted": 1767136579,
+    "url": "https://caci.wd1.myworkdayjobs.com/external/job/US-DC-Washington/Entry-Mid-Software-Developer_320762",
+    "locations": [
+      "Washington, DC"
+    ],
+    "company_url": "https://simplify.jobs/c/CACI",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
