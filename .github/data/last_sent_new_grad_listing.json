@@ -69444,5 +69444,23 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Savvy",
+    "id": "3a6f991e-7d1e-422e-a2e0-c53222d4bec3",
+    "title": "Software Engineer",
+    "active": true,
+    "date_updated": 1767089160,
+    "date_posted": 1761899586,
+    "url": "https://jobs.ashbyhq.com/savvy/073aefc5-5eb1-4e67-9cb3-d4059dd8ce58/application",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Savvy",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
