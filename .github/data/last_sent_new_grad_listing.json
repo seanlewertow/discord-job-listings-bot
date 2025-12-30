@@ -69317,5 +69317,95 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Wash U",
+    "id": "0c0bcfce-15ff-4bc2-b2f4-e8d22b7ea5ff",
+    "title": "Environmental Health & Safety Data Management Specialist",
+    "active": true,
+    "date_updated": 1767050788,
+    "date_posted": 1767050788,
+    "url": "https://wustl.wd1.myworkdayjobs.com/external/job/Washington-University-Medical-Campus/Environmental-Health---Safety-Data-Management-Specialist--Hybrid-_JR91800",
+    "locations": [
+      "St. Louis, MO"
+    ],
+    "company_url": "https://simplify.jobs/c/Wash-U",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Care Access",
+    "id": "131ccd8f-396f-4f49-8673-03ca04b1c08e",
+    "title": "Enterprise Performance Analytics Engineer",
+    "active": true,
+    "date_updated": 1767053280,
+    "date_posted": 1761769148,
+    "url": "https://job-boards.greenhouse.io/careaccess/jobs/4052147009",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/Care-Access",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Capital One",
+    "id": "646ce403-5f8d-440b-bcb2-eb5429c6a98e",
+    "title": "Associate \u2013 Data Analyst - Part Time - 2026",
+    "active": true,
+    "date_updated": 1767055725,
+    "date_posted": 1767055725,
+    "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Associate--Data-Analyst---Part-Time--2026_R232422-2",
+    "locations": [
+      "Toronto, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Capital-One",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Hitachi",
+    "id": "22fb3f13-63ee-47c6-9bbc-804fcbd62906",
+    "title": "Engineering Graduate - Cheadle",
+    "active": true,
+    "date_updated": 1767057933,
+    "date_posted": 1767057933,
+    "url": "https://gtsgbu.wd3.myworkdayjobs.com/Careers/job/Cheadle/Engineering-Graduate---Cheadle_R1011432-1",
+    "locations": [
+      "Trafford, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Hitachi",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Pattern Data",
+    "id": "8173c0a2-41b6-4618-aabf-5e2f8900deee",
+    "title": "Software Engineer 1",
+    "active": true,
+    "date_updated": 1767056971,
+    "date_posted": 1767056971,
+    "url": "https://job-boards.greenhouse.io/patterndata/jobs/5012589007",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/Pattern-Data",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
