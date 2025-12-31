@@ -69828,5 +69828,23 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "KLA",
+    "id": "affbbb29-05ea-41d7-9677-b0e8b41669f5",
+    "title": "Software Engineer",
+    "active": true,
+    "date_updated": 1767165092,
+    "date_posted": 1767165092,
+    "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Software-Engineer_2533374",
+    "locations": [
+      "Milpitas, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/KLA",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
