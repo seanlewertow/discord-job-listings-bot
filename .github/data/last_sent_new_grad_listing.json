@@ -70102,5 +70102,24 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Salesforce",
+    "id": "b9da7ae2-7b06-40d5-8531-9aeded90f06e",
+    "title": "Software Engineering AMTS \u2013 College Grad",
+    "active": true,
+    "date_updated": 1767205661,
+    "date_posted": 1767205661,
+    "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Texas---Dallas/Software-Engineering-AMTS--College-Grad-_JR322433-1",
+    "locations": [
+      "Indianapolis, IN",
+      "Dallas, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Salesforce",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
