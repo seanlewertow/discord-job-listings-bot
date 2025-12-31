@@ -69864,5 +69864,41 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "6eabd460-a6df-483c-8468-4a782bbea687",
+    "title": "Trading Assistant",
+    "active": true,
+    "date_updated": 1767176819,
+    "date_posted": 1767176819,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400043744",
+    "locations": [
+      "Durham, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Advocates",
+    "id": "21d051df-c55b-4cf0-a56b-75beeb3d9375",
+    "title": "Direct Service Worker",
+    "active": true,
+    "date_updated": 1767177863,
+    "date_posted": 1758961940,
+    "url": "https://careers-advocatesinc.icims.com/jobs/12496/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Pontiac, MI"
+    ],
+    "company_url": "https://simplify.jobs/c/Advocates",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
