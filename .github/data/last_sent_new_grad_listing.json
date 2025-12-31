@@ -69900,5 +69900,23 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Brookhaven Lab",
+    "id": "d5dd2efe-52b5-4004-936c-2ec42b50cf90",
+    "title": "Research Associate - Accelerator Physics",
+    "active": true,
+    "date_updated": 1767179114,
+    "date_posted": 1765928927,
+    "url": "https://bnl.wd1.myworkdayjobs.com/externa/job/Upton-NY/Research-Associate---Accelerator-Physics_JR102182",
+    "locations": [
+      "Shirley, NY"
+    ],
+    "company_url": "https://simplify.jobs/c/Brookhaven-Lab",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
