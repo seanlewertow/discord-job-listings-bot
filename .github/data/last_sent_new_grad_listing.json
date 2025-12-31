@@ -69720,5 +69720,95 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "0a8fc7a4-a2f1-4c71-9d59-f47f9e2921a2",
+    "title": "Trading Assistant",
+    "active": true,
+    "date_updated": 1767136667,
+    "date_posted": 1767136667,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400044393",
+    "locations": [
+      "Dundee, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "9ac623ef-d886-4eb9-bad6-6e6913432bf9",
+    "title": "Trading Assistant",
+    "active": true,
+    "date_updated": 1767136666,
+    "date_posted": 1767136666,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400044373",
+    "locations": [
+      "Durham, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Varex Imaging Corporation",
+    "id": "97d12a51-6d4c-44a1-9c3e-40ca55c21160",
+    "title": "Software Engineer",
+    "active": true,
+    "date_updated": 1767138876,
+    "date_posted": 1767138876,
+    "url": "https://vareximaging.wd103.myworkdayjobs.com/External_Career_Site/job/Salt-Lake-City/Software-Engineer_R0005510",
+    "locations": [
+      "Salt Lake City, UT"
+    ],
+    "company_url": "https://simplify.jobs/c/Varex-Imaging-Corporation",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "806ac27f-587f-4a1a-aaab-9718e157ab94",
+    "title": "Trading Assistant",
+    "active": true,
+    "date_updated": 1767136665,
+    "date_posted": 1767136665,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400044392",
+    "locations": [
+      "Dundee, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "SpaceX",
+    "id": "0e8985fb-c588-4891-a34c-10476927d9be",
+    "title": "Application Software Engineer",
+    "active": true,
+    "date_updated": 1767137892,
+    "date_posted": 1764208723,
+    "url": "https://boards.greenhouse.io/spacex/jobs/8310481002",
+    "locations": [
+      "Brownsville, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/SpaceX",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
