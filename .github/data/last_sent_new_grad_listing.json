@@ -70048,5 +70048,59 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "6ad07485-94a9-4567-88db-45b19febd4af",
+    "title": "Trading Assistant",
+    "active": true,
+    "date_updated": 1767198863,
+    "date_posted": 1767198863,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400044447",
+    "locations": [
+      "Camberley, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Versaterm",
+    "id": "e5b615e2-7034-494b-a209-7fc2c64c4948",
+    "title": "Software Engineer - Geographic Information System",
+    "active": true,
+    "date_updated": 1767198857,
+    "date_posted": 1766532172,
+    "url": "https://job-boards.greenhouse.io/versaterm/jobs/5046646008",
+    "locations": [
+      "Mesa, AZ"
+    ],
+    "company_url": "https://simplify.jobs/c/Versaterm",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Versaterm",
+    "id": "35a3beb4-d5f6-4296-9d2d-6924f415fe30",
+    "title": "Software Engineer 2 - AI Services",
+    "active": true,
+    "date_updated": 1767198855,
+    "date_posted": 1762619167,
+    "url": "https://job-boards.greenhouse.io/versaterm/jobs/4981370008",
+    "locations": [
+      "Vancouver, BC, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Versaterm",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
