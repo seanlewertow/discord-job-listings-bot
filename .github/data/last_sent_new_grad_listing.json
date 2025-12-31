@@ -70121,5 +70121,78 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Citizen Health",
+    "id": "a88b01b0-7daa-4382-bfcb-f4f574b4831a",
+    "title": "Early Career Software Engineer",
+    "active": true,
+    "date_updated": 1767223033,
+    "date_posted": 1767223033,
+    "url": "https://jobs.ashbyhq.com/Citizen%20Health/7133dff5-e5a0-425b-81da-b6f78e78d944/application",
+    "locations": [
+      "SF"
+    ],
+    "company_url": "https://simplify.jobs/c/Citizen-Health",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "JP Morgan Chase",
+    "id": "91efd26e-2489-4706-9791-0ac475e9e703",
+    "title": "Trading Lifecycle Associate",
+    "active": true,
+    "date_updated": 1767223111,
+    "date_posted": 1767223111,
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210696214",
+    "locations": [
+      "Newark, DE"
+    ],
+    "company_url": "https://simplify.jobs/c/JP-Morgan-Chase",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "1b258c94-b6e8-4bb4-913a-c4607d7a70a7",
+    "title": "Trading Assistant",
+    "active": true,
+    "date_updated": 1767222970,
+    "date_posted": 1767222970,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400044513",
+    "locations": [
+      "East Midlands, UK",
+      "York, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Solace Health",
+    "id": "8ab6ec1b-9e5c-428a-8f10-90f7d89c2dd0",
+    "title": "Associate Software Engineer \u2013 College Grad 2026",
+    "active": true,
+    "date_updated": 1767222836,
+    "date_posted": 1767222836,
+    "url": "https://jobs.ashbyhq.com/solace/d7906c8c-395f-4d6b-8e64-e2c7be52b929/application",
+    "locations": [
+      "San Carlos, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Solace-Health",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
