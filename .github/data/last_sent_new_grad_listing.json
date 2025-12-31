@@ -69846,5 +69846,23 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "L3Harris Technologies",
+    "id": "b26c1808-64c8-4f06-ad00-97d3dd770a18",
+    "title": "Radio Frequency Electronics Technician",
+    "active": true,
+    "date_updated": 1767175002,
+    "date_posted": 1763231784,
+    "url": "https://jobs.l3harris.com/job/San-Diego-Radio-Frequency-Electronics-Technician-CA-92123/1341196200/?ats=successfactors",
+    "locations": [
+      "San Diego, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
