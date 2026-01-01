@@ -70348,5 +70348,41 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "GXO Logistics",
+    "id": "89c254ef-0627-45c6-bef3-5f7b5eab4ea4",
+    "title": "Automation Engineering Assistant",
+    "active": true,
+    "date_updated": 1767112000,
+    "date_posted": 1767112000,
+    "url": "https://jobs.gxo.com/job/Northampton-Automation-Engineering-Assistant-ENG-NN6-7GZ/1352481100/?ats=successfactors",
+    "locations": [
+      "England, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/GXO-Logistics",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "L3Harris Technologies",
+    "id": "973e70f7-6431-42e3-985d-316e5853e6b4",
+    "title": "Engineering Technician - Non-Destructive Testing",
+    "active": true,
+    "date_updated": 1763508668,
+    "date_posted": 1763508668,
+    "url": "https://jobs.l3harris.com/job/Camden-Engineering-Technician-(NDT)-AR-71701/1343809100/?ats=successfactors",
+    "locations": [
+      "El Dorado, AR"
+    ],
+    "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
