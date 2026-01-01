@@ -71898,5 +71898,62 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Acuren",
+    "id": "47034ee1-96ca-4d21-a4dc-ea3a9280ac8b",
+    "title": "NDT Assistant",
+    "active": true,
+    "date_updated": 1765274453,
+    "date_posted": 1764510829,
+    "url": "https://uscareers-acuren.icims.com/jobs/16901/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Billings, MT"
+    ],
+    "company_url": "https://simplify.jobs/c/Acuren",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Daktronics",
+    "id": "b1bc0312-5e70-4308-89eb-0b4494485643",
+    "title": "Game Day Technician",
+    "active": true,
+    "date_updated": 1767309076,
+    "date_posted": 1761486784,
+    "url": "https://careers-daktronics.icims.com/jobs/7035/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Washington, DC",
+      "Fairfax, VA",
+      "Arlington, VA",
+      "Alexandria, VA"
+    ],
+    "company_url": "https://simplify.jobs/c/Daktronics",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Sysmex",
+    "id": "c1fba69e-d208-4604-914c-d6ea1dc22ef6",
+    "title": "Field Service Technician - Field Service",
+    "active": true,
+    "date_updated": 1767309591,
+    "date_posted": 1759865260,
+    "url": "https://careers-sysmex.icims.com/jobs/4486/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "California"
+    ],
+    "company_url": "https://simplify.jobs/c/Sysmex",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
