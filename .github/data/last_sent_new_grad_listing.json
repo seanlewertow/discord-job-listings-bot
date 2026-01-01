@@ -71482,5 +71482,41 @@
       "Bachelor's",
       "Master's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Four Seasons",
+    "id": "0e3049e8-deea-4462-9eb5-6b9e9abfd22e",
+    "title": "Trading Company - Barista - Seasonal",
+    "active": true,
+    "date_updated": 1767253586,
+    "date_posted": 1767253586,
+    "url": "https://fourseasons.wd3.myworkdayjobs.com/search/job/Hualalai/Trading-Company---Barista---Seasonal_REQ10363527",
+    "locations": [
+      "Kailua-Kona, HI"
+    ],
+    "company_url": "https://simplify.jobs/c/Four-Seasons",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Uncountable",
+    "id": "aa501df4-bf6c-4ff7-9047-2516b1be4999",
+    "title": "Chemical Data Annotation Specialist",
+    "active": true,
+    "date_updated": 1761896784,
+    "date_posted": 1761896784,
+    "url": "https://jobs.lever.co/uncountable/16362d95-0ded-479d-a54b-9a5b9f29b762/apply",
+    "locations": [
+      "United States"
+    ],
+    "company_url": "https://simplify.jobs/c/Uncountable",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
