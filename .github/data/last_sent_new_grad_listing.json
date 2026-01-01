@@ -70402,5 +70402,41 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Wash U",
+    "id": "98ccda3b-6930-4bc1-b2ea-b7fa0121c554",
+    "title": "Neuroimaging Engineer - Radiology - Neuroimaging Labs Research Center",
+    "active": true,
+    "date_updated": 1765624669,
+    "date_posted": 1765624669,
+    "url": "https://wustl.wd1.myworkdayjobs.com/external/job/Washington-University-Medical-Campus/Neuroimaging-Engineer---Radiology---Neuroimaging-Labs-Research-Center_JR89315-1",
+    "locations": [
+      "St. Louis, MO"
+    ],
+    "company_url": "https://simplify.jobs/c/Wash-U",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "Prudential Financial",
+    "id": "64bf9cdc-14db-45ea-802b-f06b4eae9fbd",
+    "title": "Project Analyst - Strategic Investment Research Group",
+    "active": true,
+    "date_updated": 1767182687,
+    "date_posted": 1764497048,
+    "url": "https://pru.wd5.myworkdayjobs.com/Careers/job/Newark-NJ-USA/PGIM-Global-Wealth---Project-Analyst--Strategic-Investment-Research-Group-_R-122583-1",
+    "locations": [
+      "Newark, NJ"
+    ],
+    "company_url": "https://simplify.jobs/c/Prudential-Financial",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
