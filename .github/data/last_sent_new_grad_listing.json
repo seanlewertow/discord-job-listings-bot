@@ -70716,5 +70716,96 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Vertiv",
+    "id": "2d7c6669-662a-428c-b12d-0f9dad5d1860",
+    "title": "ERS NETA Electrical Testing Technician - Abilene",
+    "active": true,
+    "date_updated": 1762386143,
+    "date_posted": 1762386143,
+    "url": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20259647",
+    "locations": [
+      "Stamford, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Vertiv",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "CoreWeave",
+    "id": "1d7f7986-c281-4f0a-8687-61a05ad3b233",
+    "title": "Data Center Technician - Round Rock",
+    "active": true,
+    "date_updated": 1762936886,
+    "date_posted": 1762298210,
+    "url": "https://coreweave.com/careers/job?4615522006&board=coreweave&gh_jid=4615522006",
+    "locations": [
+      "Round Rock, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/CoreWeave",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "CoreWeave",
+    "id": "d1894a78-306e-46ca-8748-513224324392",
+    "title": "Data Center Technician - Dalton",
+    "active": true,
+    "date_updated": 1762936834,
+    "date_posted": 1761755481,
+    "url": "https://coreweave.com/careers/job?4613586006&board=coreweave&gh_jid=4613586006",
+    "locations": [
+      "Calhoun, GA"
+    ],
+    "company_url": "https://simplify.jobs/c/CoreWeave",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Vertiv",
+    "id": "99d74019-a1e3-4be6-8e81-54c6d34604df",
+    "title": "ERS Electrical Testing Technician - Austin",
+    "active": true,
+    "date_updated": 1761502468,
+    "date_posted": 1761502468,
+    "url": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20252876",
+    "locations": [
+      "Austin, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Vertiv",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Flock Safety",
+    "id": "4a83a7c2-e85f-4f50-8342-28fb3b079b21",
+    "title": "Install Technician - Chicago - IL",
+    "active": true,
+    "date_updated": 1765878120,
+    "date_posted": 1761488837,
+    "url": "https://jobs.ashbyhq.com/Flock%20Safety/927fe12e-9a8d-4c50-827e-ed09840ee156/application",
+    "locations": [
+      "Rockford, IL",
+      "Chicago, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/FlockSafety",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
