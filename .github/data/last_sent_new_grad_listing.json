@@ -71646,5 +71646,59 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Freeform",
+    "id": "c2888899-2fd1-4c48-93bb-be212ac1db61",
+    "title": "Materials Lab Technician",
+    "active": true,
+    "date_updated": 1767138994,
+    "date_posted": 1767138994,
+    "url": "https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7575047003",
+    "locations": [
+      "West Athens, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/FreeformFuture",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Honeywell",
+    "id": "e35d4972-b9e4-4035-9a64-7ce3b6f52af0",
+    "title": "Systems Engineer 1",
+    "active": true,
+    "date_updated": 1766456849,
+    "date_posted": 1766456849,
+    "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/132570",
+    "locations": [
+      "Tempe, AZ"
+    ],
+    "company_url": "https://simplify.jobs/c/Honeywell",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Honeywell",
+    "id": "57519c4d-0d0f-497b-b863-a78676df3e11",
+    "title": "Electronic Machine Builder",
+    "active": true,
+    "date_updated": 1765329305,
+    "date_posted": 1765329305,
+    "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/130796",
+    "locations": [
+      "Minneapolis, MN"
+    ],
+    "company_url": "https://simplify.jobs/c/Honeywell",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
