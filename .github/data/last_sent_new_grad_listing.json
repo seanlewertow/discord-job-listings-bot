@@ -70533,5 +70533,98 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Pfizer",
+    "id": "e4dd0561-d460-4d68-b553-8ef1ab1305e8",
+    "title": "Postdoctoral Fellow in AI/ML Applications for Vaccine Research and Development",
+    "active": true,
+    "date_updated": 1766188497,
+    "date_posted": 1766188497,
+    "url": "https://pfizer.wd1.myworkdayjobs.com/en-US/PfizerCareers/job/United-States---New-York---Pearl-River/Postdoctoral-Fellow-in-AI-ML-Applications-for-Vaccine-Research---Development_4948673-2",
+    "locations": [
+      "New City, NY"
+    ],
+    "company_url": "https://simplify.jobs/c/Pfizer",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "AtkinsR\u00e9alis",
+    "id": "a8a00bd4-91f9-4cbd-983d-6bc22d916562",
+    "title": "Assistant Water Engineer",
+    "active": true,
+    "date_updated": 1765652280,
+    "date_posted": 1765652280,
+    "url": "https://slihrms.wd3.myworkdayjobs.com/careers/job/GBEdinburgh---Stamp-Office/Assistant-Water-Engineer_R-133534",
+    "locations": [
+      "Edinburgh, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/AtkinsRealis",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "PennState University",
+    "id": "45a31df6-b9dd-4a07-bd12-0ea40d5ad34c",
+    "title": "Electrical / Computer Engineering Research & Development Engineer",
+    "active": true,
+    "date_updated": 1765642299,
+    "date_posted": 1765642299,
+    "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Electrical---Computer-Engineering--Research---Development-Engineer_REQ_0000072093-2",
+    "locations": [
+      "State College, PA"
+    ],
+    "company_url": "https://simplify.jobs/c/Penn-State",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "GHD",
+    "id": "438a1168-f84c-43fc-86f1-f2bb9caad346",
+    "title": "Graduate Geoscientist",
+    "active": true,
+    "date_updated": 1765372510,
+    "date_posted": 1765372510,
+    "url": "https://ejov.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/24512",
+    "locations": [
+      "London, UK",
+      "Guildford, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/GHD",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Fortive",
+    "id": "012ba089-497b-48d2-ac50-1bc7fd22e337",
+    "title": "Operations Analyst",
+    "active": true,
+    "date_updated": 1764236059,
+    "date_posted": 1762473290,
+    "url": "https://ejta.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/8088",
+    "locations": [
+      "Austin, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Fortive",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
