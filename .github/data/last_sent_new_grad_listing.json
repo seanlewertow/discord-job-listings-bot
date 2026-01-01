@@ -70194,5 +70194,84 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "LG Electronics",
+    "id": "051a79ce-586c-4571-be27-83f64584f957",
+    "title": "Project Engineer 1 - LGE Display - Direct View",
+    "active": true,
+    "date_updated": 1767224525,
+    "date_posted": 1767224525,
+    "url": "https://job-boards.greenhouse.io/lgelectronics/jobs/4925016008",
+    "locations": [
+      "Washington",
+      "Oregon",
+      "LA",
+      "Texas",
+      "Colorado",
+      "Missouri",
+      "Indiana",
+      "Illinois"
+    ],
+    "company_url": "https://simplify.jobs/c/LG-Electronics",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "5a1b406f-b753-408b-85ad-db07e9bba5ba",
+    "title": "Trading Assistant",
+    "active": true,
+    "date_updated": 1767222965,
+    "date_posted": 1767222965,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400044515",
+    "locations": [
+      "Durham, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Chicago Trading Company",
+    "id": "8a9a21b4-1237-4430-ae32-2cc489475ebb",
+    "title": "Associate C++ Engineer",
+    "active": true,
+    "date_updated": 1767223756,
+    "date_posted": 1767223756,
+    "url": "https://job-boards.greenhouse.io/chicagotradingcampus/jobs/4645115005",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/ChicagoTradingCo",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Steampunk",
+    "id": "e48b9d4c-e7e6-4a4b-ae61-d05ef669c228",
+    "title": "Data Governance Specialist",
+    "active": true,
+    "date_updated": 1767223949,
+    "date_posted": 1762298589,
+    "url": "https://careers-steampunk.icims.com/jobs/7259/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "McLean, VA"
+    ],
+    "company_url": "https://simplify.jobs/c/Steampunk",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
