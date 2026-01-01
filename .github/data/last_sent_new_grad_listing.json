@@ -71808,5 +71808,77 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "GlobalFoundries",
+    "id": "b645edc9-b29a-457c-81b1-5602355b8625",
+    "title": "Manufacturing Operator",
+    "active": true,
+    "date_updated": 1767253629,
+    "date_posted": 1767253629,
+    "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/Essex-Junction/Manufacturing-Operators---Up-To--5-000-Sign-On-Bonus-_JR-2504471",
+    "locations": [
+      "Burlington, VT"
+    ],
+    "company_url": "https://simplify.jobs/c/GlobalFoundries",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "National Renewable Energy Laboratory",
+    "id": "1c571d67-36aa-463d-a3d8-873627fe2b24",
+    "title": "Director's Fellowship Postdoctoral Researcher",
+    "active": true,
+    "date_updated": 1767253313,
+    "date_posted": 1767253313,
+    "url": "https://nrel.wd5.myworkdayjobs.com/nrel/job/Golden-CO/Director-s-Fellowship-Postdoctoral-Researcher_R14061",
+    "locations": [
+      "Golden, CO"
+    ],
+    "company_url": "https://simplify.jobs/c/National-Renewable-Energy-Laboratory",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "RPA",
+    "id": "f2c5d935-32e8-4b15-9ebc-3dd5e946b400",
+    "title": "Process Automation Analyst - AI & Systems Focus",
+    "active": true,
+    "date_updated": 1765939177,
+    "date_posted": 1765939177,
+    "url": "https://job-boards.greenhouse.io/rpa/jobs/4636347005",
+    "locations": [
+      "Santa Monica, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/RPA",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "RPA",
+    "id": "9fc20e6a-e74e-4b0a-9ada-49c3d657de1b",
+    "title": "Process Automation Specialist",
+    "active": true,
+    "date_updated": 1765928370,
+    "date_posted": 1765928370,
+    "url": "https://job-boards.greenhouse.io/rpa/jobs/4636346005",
+    "locations": [
+      "Santa Monica, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/RPA",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
