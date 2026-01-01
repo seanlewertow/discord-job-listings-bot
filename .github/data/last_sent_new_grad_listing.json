@@ -70384,5 +70384,23 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "PDI Technologies",
+    "id": "72eefba8-5a0d-45ca-82e7-bb47fe29ac30",
+    "title": "Field Service Engineer",
+    "active": true,
+    "date_updated": 1761874103,
+    "date_posted": 1761874103,
+    "url": "https://jobs.lever.co/pditechnologies/a0b6f563-7437-490a-86e5-048635013dc7/apply",
+    "locations": [
+      "Croydon, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/PDI-Technologies",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
