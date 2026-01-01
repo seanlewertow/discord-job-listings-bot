@@ -70951,5 +70951,42 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "The Boeing Company",
+    "id": "3616f8b2-17da-4478-b31d-35503346b871",
+    "title": "Systems Engineer",
+    "active": true,
+    "date_updated": 1765938978,
+    "date_posted": 1765938978,
+    "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Layton-UT/Systems-Engineer--Associate-and-Experienced-Level_JR2025468538-1",
+    "locations": [
+      "Layton, UT",
+      "Hill AFB, UT"
+    ],
+    "company_url": "https://simplify.jobs/c/Boeing",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Horizon media",
+    "id": "b1669a44-b18d-47c7-9940-ab6bc951be0c",
+    "title": "Assistant Programmatic",
+    "active": true,
+    "date_updated": 1764561506,
+    "date_posted": 1764561506,
+    "url": "https://horizonmedia.wd1.myworkdayjobs.com/en-US/CareerOpportunities/job/New-York-New-York/Assistant--Programmatic_R0015427",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/783568f2-87b3-4222-8741-7766d21bf8a7",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
