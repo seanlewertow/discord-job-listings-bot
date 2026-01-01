@@ -70438,5 +70438,100 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Fortive",
+    "id": "f3cef07d-66de-440d-bed3-6ad2e508a07d",
+    "title": "Operations Analyst",
+    "active": true,
+    "date_updated": 1764123480,
+    "date_posted": 1764123480,
+    "url": "https://ejta.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/8330",
+    "locations": [
+      "Austin, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Fortive",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Analog Devices",
+    "id": "ff763df4-1004-4999-a59b-e66141e0cc4f",
+    "title": "Digital Design Engineer",
+    "active": true,
+    "date_updated": 1763889435,
+    "date_posted": 1763889435,
+    "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Chelmsford-Alpha/Digital-Design-Engineer_R255049",
+    "locations": [
+      "Toronto, ON, Canada",
+      "Centennial, CO",
+      "Colorado Springs, CO",
+      "Dallas, TX",
+      "Durham, NC",
+      "Lowell, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/Analog-Devices",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "AtkinsR\u00e9alis",
+    "id": "36328d95-1d3d-4128-9a15-c51b6cedbda7",
+    "title": "Assistant Engineer",
+    "active": true,
+    "date_updated": 1765626656,
+    "date_posted": 1765626656,
+    "url": "https://slihrms.wd3.myworkdayjobs.com/careers/job/GBBelfast---The-Vantage/Assistant-Engineer_R-133710",
+    "locations": [
+      "Belfast, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/AtkinsRealis",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "University of Texas - Austin",
+    "id": "27b16d3d-0298-439a-a080-3b6b90f58fd1",
+    "title": "Postdoctoral Fellow",
+    "active": true,
+    "date_updated": 1763885755,
+    "date_posted": 1763885755,
+    "url": "https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/AUSTIN-TX/Postdoctoral-Fellow_R_00030888",
+    "locations": [
+      "Austin, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/University-Of-Texas-Austin",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "SHI International ",
+    "id": "fb4bb353-437c-413f-9e57-98e9d1a70b92",
+    "title": "FinOps Analyst",
+    "active": true,
+    "date_updated": 1762926771,
+    "date_posted": 1762241442,
+    "url": "https://shi.wd12.myworkdayjobs.com/shicareers/job/Austin-TX-USA/FinOps-Analyst_JR2047-1",
+    "locations": [
+      "Austin, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/SHI-International",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
