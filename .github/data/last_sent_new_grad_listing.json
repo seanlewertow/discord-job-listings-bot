@@ -70861,5 +70861,95 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Vertiv",
+    "id": "b08ee6a0-4a58-4ef9-9fad-a10a411784b4",
+    "title": "Customer Engineer 1 - San Antonio - TX",
+    "active": true,
+    "date_updated": 1765555870,
+    "date_posted": 1765555870,
+    "url": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20264120",
+    "locations": [
+      "San Antonio, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Vertiv",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Northrop Grumman",
+    "id": "f8a9e971-75d1-4426-9f0f-ba82b37124e4",
+    "title": "Dimension Control Technician Level",
+    "active": true,
+    "date_updated": 1765003326,
+    "date_posted": 1765003326,
+    "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Mississippi-Iuka/Dimension-Control-Technician-Level-2-3_R10216375",
+    "locations": [
+      "Hackleburg, AL"
+    ],
+    "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Vertiv",
+    "id": "41d80ff2-7a7c-4b84-bd0d-d1b0517c6dd2",
+    "title": "Customer Engineer 1 - Houston - TX",
+    "active": true,
+    "date_updated": 1762909109,
+    "date_posted": 1761900636,
+    "url": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20259085",
+    "locations": [
+      "Houston, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Vertiv",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Boston Scientific",
+    "id": "0558e4a2-39b6-41a9-ae0b-e4d56e023b4a",
+    "title": "Research & Development Engineer 1 - Engineering",
+    "active": true,
+    "date_updated": 1761859250,
+    "date_posted": 1761859250,
+    "url": "https://bostonscientific.eightfold.ai/careers/job/563602803080648",
+    "locations": [
+      "Maple Grove, MN"
+    ],
+    "company_url": "https://simplify.jobs/c/Boston-Scientific",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "ASM Global",
+    "id": "06a16008-4006-4a03-8aac-3e4c21c80d85",
+    "title": "Audio/Visual Technician",
+    "active": true,
+    "date_updated": 1761993979,
+    "date_posted": 1761993979,
+    "url": "https://asmglobal.wd1.myworkdayjobs.com/careers/job/Sanford-Center---Bemidji-MN/Production-Staff_R100110674",
+    "locations": [
+      "Bemidji, MN"
+    ],
+    "company_url": "https://simplify.jobs/c/ASM-Global",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
