@@ -70626,5 +70626,95 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Vertiv",
+    "id": "2213f2a5-4f9b-4d40-a947-9aaa5d874d4e",
+    "title": "ERS NETA Electrical Testing Technician",
+    "active": true,
+    "date_updated": 1762386145,
+    "date_posted": 1762386145,
+    "url": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20259652",
+    "locations": [
+      "Stamford, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Vertiv",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Vertiv",
+    "id": "ab4465d8-3caa-4bf5-8f4a-534b5c27985f",
+    "title": "Electrical Testing Technician",
+    "active": true,
+    "date_updated": 1761940240,
+    "date_posted": 1761900758,
+    "url": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20252504",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "company_url": "https://simplify.jobs/c/Vertiv",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Riot Platforms",
+    "id": "02e5e20e-9eda-4ba0-a382-35ea2a103787",
+    "title": "Electrical Technician",
+    "active": true,
+    "date_updated": 1764582297,
+    "date_posted": 1756867419,
+    "url": "https://ats.rippling.com/riot-platforms-careers/jobs/8c630f22-84dc-4216-aba1-c4cf876c8eb2",
+    "locations": [
+      "Palmer, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Riot-Platforms",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Texas Capital Bank",
+    "id": "2f78c4b9-a8ac-448b-8e31-a9e8c0763f7d",
+    "title": "Technology Platform Associate",
+    "active": true,
+    "date_updated": 1755820481,
+    "date_posted": 1755820481,
+    "url": "https://texascapitalbank.wd12.myworkdayjobs.com/Careers/job/Richardson-TX/Technology-Platform-Associate_JR104228",
+    "locations": [
+      "Richardson, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Texas-Capital-Bank",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Anduril",
+    "id": "553a1a10-f1b3-4959-8c01-70ce3c671955",
+    "title": "Electronics Technician",
+    "active": true,
+    "date_updated": 1762992391,
+    "date_posted": 1747438854,
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/4737743007",
+    "locations": [
+      "Rhode Island"
+    ],
+    "company_url": "https://simplify.jobs/c/Anduril",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
