@@ -70988,5 +70988,78 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "c9d349f5-26df-45f7-8679-37a18a008f6e",
+    "title": "Trading Assistant",
+    "active": true,
+    "date_updated": 1767283803,
+    "date_posted": 1767283803,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400044553",
+    "locations": [
+      "Bristol, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "36e69acf-49fa-4281-b925-8e13b96fc3a0",
+    "title": "Trading Assistant",
+    "active": true,
+    "date_updated": 1767283804,
+    "date_posted": 1767283804,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400044239",
+    "locations": [
+      "Leicester, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Sartorius",
+    "id": "4d6838fa-658b-4bd9-b2f9-e8c2c8fbc659",
+    "title": "Field Service Engineer - Lab Instruments",
+    "active": true,
+    "date_updated": 1765636964,
+    "date_posted": 1765636964,
+    "url": "https://sartorius.wd3.myworkdayjobs.com/sartoriuscareers/job/Home-Office-United-Kingdom/Field-Service-Engineer---Lab-Instruments---Gloucestershire_R38449",
+    "locations": [
+      "Gloucester, UK",
+      "United Kingdom"
+    ],
+    "company_url": "https://simplify.jobs/c/Sartorius",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Sinclair",
+    "id": "5cb3b07d-4ba7-48fe-8cfc-86c6a5a57a48",
+    "title": "Studio Crew",
+    "active": true,
+    "date_updated": 1762921925,
+    "date_posted": 1761899186,
+    "url": "https://edyy.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2002/job/15378",
+    "locations": [
+      "Salt Lake City, UT"
+    ],
+    "company_url": "https://simplify.jobs/c/Sinclair",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
