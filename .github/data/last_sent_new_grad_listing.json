@@ -71061,5 +71061,95 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Jabil",
+    "id": "c565a820-ea0d-402a-a133-4dbe26c2152e",
+    "title": "Tester-Conversions-CVG200",
+    "active": true,
+    "date_updated": 1763913587,
+    "date_posted": 1763913587,
+    "url": "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Florence-KY/Tester--Conversions--CVG200_J2413699",
+    "locations": [
+      "Florence, KY"
+    ],
+    "company_url": "https://simplify.jobs/c/Jabil",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Trexon",
+    "id": "df865cd7-a849-4f72-a20a-cbfbcaf237b0",
+    "title": "Molding Technician",
+    "active": true,
+    "date_updated": 1763509740,
+    "date_posted": 1760411609,
+    "url": "https://job-boards.greenhouse.io/tpcengineeringholdingsllc/jobs/4688875007",
+    "locations": [
+      "Everett, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/Trexon",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Trexon",
+    "id": "e16b9944-2572-4257-9e09-42f0be01e74a",
+    "title": "Termination Technician",
+    "active": true,
+    "date_updated": 1762906536,
+    "date_posted": 1760411593,
+    "url": "https://job-boards.greenhouse.io/tpcengineeringholdingsllc/jobs/4594771007",
+    "locations": [
+      "Quincy, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/Trexon",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "360 IT Professionals",
+    "id": "ad12d5c7-519c-4c63-b379-9937ab14e8b8",
+    "title": "Salesforce BA",
+    "active": true,
+    "date_updated": 1761825261,
+    "date_posted": 1755292679,
+    "url": "https://jobs.smartrecruiters.com/360ITProfessionals1/743999659854838",
+    "locations": [
+      "Charlotte, NC"
+    ],
+    "company_url": "https://simplify.jobs/c/360-IT-Professionals",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "360 IT Professionals",
+    "id": "87a5253c-2be1-41ed-bd53-8e86b363015c",
+    "title": "SAP ERP Analyst",
+    "active": true,
+    "date_updated": 1755062456,
+    "date_posted": 1755062456,
+    "url": "https://jobs.smartrecruiters.com/360ITProfessionals1/743999658533708",
+    "locations": [
+      "Holland, MI"
+    ],
+    "company_url": "https://simplify.jobs/c/360-IT-Professionals",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
