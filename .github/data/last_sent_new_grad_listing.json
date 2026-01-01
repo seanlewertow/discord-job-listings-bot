@@ -71151,5 +71151,95 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "ExxonMobil",
+    "id": "259ab1e0-6a07-4b54-9ec2-9b3871cac52a",
+    "title": "Fluid Properties Technologist",
+    "active": true,
+    "date_updated": 1765322091,
+    "date_posted": 1765322091,
+    "url": "https://jobs.exxonmobil.com/ExxonMobil/job/Spring-Fluid-Properties-Technologist-TX-77024/1348491100/?ats=successfactors",
+    "locations": [
+      "Spring, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/ExxonMobil",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Thales",
+    "id": "fb945f2b-7e0a-40a2-b802-431189736aae",
+    "title": "2026 Engineering Graduate",
+    "active": true,
+    "date_updated": 1765626051,
+    "date_posted": 1765626051,
+    "url": "https://thales.wd3.myworkdayjobs.com/en-US/Careers/job/Cheadle/XMLNAME-2026-Engineering-Graduate_R0298344",
+    "locations": [
+      "Trafford, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Thales",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Riot Platforms",
+    "id": "d62aceb8-86f1-4a1e-ba70-769794fb5031",
+    "title": "Data Center Technician",
+    "active": true,
+    "date_updated": 1764933457,
+    "date_posted": 1761912066,
+    "url": "https://ats.rippling.com/riot-platforms-careers/jobs/d4f223f5-714e-44b4-ae34-6ff78e2720d6",
+    "locations": [
+      "Palmer, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Riot-Platforms",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Emerson Electric",
+    "id": "2a70c5fc-1e65-4a36-be54-b5f965a2a2e8",
+    "title": "Hardware Analog Engineer",
+    "active": true,
+    "date_updated": 1757727233,
+    "date_posted": 1757727233,
+    "url": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs/job/25024108",
+    "locations": [
+      "Austin, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Emerson-Electric",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Quanta Services",
+    "id": "5ff43534-ed69-4d43-87f1-949713a50f03",
+    "title": "Low Voltage Technician--Savannah - Georgia",
+    "active": true,
+    "date_updated": 1767285089,
+    "date_posted": 1757553579,
+    "url": "https://careers-quanta.icims.com/jobs/12763/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Buford, GA"
+    ],
+    "company_url": "https://simplify.jobs/c/Quanta-Services",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
