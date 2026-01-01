@@ -71296,5 +71296,95 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Snap",
+    "id": "bf4b96f6-f64a-4fe4-9759-d784853d0e60",
+    "title": "Fab Operator",
+    "active": true,
+    "date_updated": 1767251075,
+    "date_posted": 1767251075,
+    "url": "https://wd1.myworkdaysite.com/recruiting/snapchat/snap/job/Chandler---300-N-56th-St/Fab-Operator_H225FO-1",
+    "locations": [
+      "Chandler, AZ"
+    ],
+    "company_url": "https://simplify.jobs/c/Snap",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Aramark",
+    "id": "810e713a-d12d-4265-92a4-4a4b270841e0",
+    "title": "Java City \u2013 Hhs - AM Food Service Worker - Western Carolina University",
+    "active": true,
+    "date_updated": 1767251665,
+    "date_posted": 1767251665,
+    "url": "https://aramarkcareers.com/UnitedStates/job/Cullowhee-Java-City-(HHS)-AM-Food-Service-Worker-Western-Carolina-University-NC-28723/1346909400/?ats=successfactors",
+    "locations": [
+      "Arden, NC"
+    ],
+    "company_url": "https://simplify.jobs/c/Aramark",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "KION Group",
+    "id": "b3926380-dfd6-4b40-87e2-1307072f6ad5",
+    "title": "Mech Pre-Comm Tech 1",
+    "active": true,
+    "date_updated": 1765636811,
+    "date_posted": 1765636811,
+    "url": "https://kiongroup.wd3.myworkdayjobs.com/kiongroup/job/Grand-Rapids-MI-United-States/Mech-Pre-Comm-Tech-1_JR-0082526-1",
+    "locations": [
+      "Grand Rapids, MI"
+    ],
+    "company_url": "https://simplify.jobs/c/KION-Group",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "Nestle",
+    "id": "a9aafff1-3f31-44f0-84a1-9bd2cc8123b0",
+    "title": "Product Developer Graduate",
+    "active": true,
+    "date_updated": 1764031960,
+    "date_posted": 1764031960,
+    "url": "https://jobdetails.nestle.com/job/York-Product-Developer-Graduate-YN-YO91-1XY/1268641501/?ats=successfactors",
+    "locations": [
+      "York, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Nestle",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Weston Solutions",
+    "id": "3217f638-e5e0-49c0-839b-4d0a4d8d238c",
+    "title": "Associate Scientist or Geoscientist - Emergency Response Team",
+    "active": true,
+    "date_updated": 1762816690,
+    "date_posted": 1761872176,
+    "url": "https://jobs.jobvite.com/weston/job/o1nOyfwu?nl=1&nl=1&fr=false",
+    "locations": [
+      "Portland, OR"
+    ],
+    "company_url": "https://simplify.jobs/c/Weston-Solutions",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
