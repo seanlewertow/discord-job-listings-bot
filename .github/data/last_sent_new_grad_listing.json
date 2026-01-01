@@ -71386,5 +71386,101 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "RTX",
+    "id": "92833aa6-7232-411c-b935-ac8d67d39afa",
+    "title": "Assembly/Test 1",
+    "active": true,
+    "date_updated": 1767251602,
+    "date_posted": 1767251602,
+    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/HKS31-US041-Lenexa-KS-15701-W-95th-Street---Lenexa-KS-66219-USA/Assembly-Test-I_01800497",
+    "locations": [
+      "Lenexa, KS"
+    ],
+    "company_url": "https://simplify.jobs/c/RTX",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Q2",
+    "id": "6ec6dab0-0313-4b56-9db8-7e1a88d7bcc2",
+    "title": "Software Engineer",
+    "active": true,
+    "date_updated": 1767269642,
+    "date_posted": 1766101927,
+    "url": "https://q2ebanking.wd5.myworkdayjobs.com/Q2/job/Cary-North-Carolina/Software-Engineer_REQ-11939",
+    "locations": [
+      "Morrisville, NC"
+    ],
+    "company_url": "https://simplify.jobs/c/Q2Software",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Kimley-Horn",
+    "id": "2085df2c-23a4-4b10-9bbe-3ffdfdb1bc87",
+    "title": "Transportation Planning Analyst",
+    "active": true,
+    "date_updated": 1767284517,
+    "date_posted": 1766013774,
+    "url": "https://careers-kimley-horn.icims.com/jobs/21496/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Austin, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Kimley-Horn",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Jensen Hughes",
+    "id": "423f6c6e-e5cf-42fd-8227-6e06c2283e57",
+    "title": "Associate Nuclear Consultant/Engineer",
+    "active": true,
+    "date_updated": 1765315554,
+    "date_posted": 1765315554,
+    "url": "https://job-boards.greenhouse.io/jensenhughes/jobs/4932805008",
+    "locations": [
+      "West Chester, PA"
+    ],
+    "company_url": "https://simplify.jobs/c/Jensen-Hughes",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "WSP",
+    "id": "93ae63b3-e7d3-48d0-b4f5-94147dfd8030",
+    "title": "Early Career Geologist",
+    "active": true,
+    "date_updated": 1765029388,
+    "date_posted": 1765029388,
+    "url": "https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/76719",
+    "locations": [
+      "Atlanta, GA"
+    ],
+    "company_url": "https://simplify.jobs/c/WSP",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
   }
 ]
