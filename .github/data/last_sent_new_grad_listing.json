@@ -70310,5 +70310,43 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Redwood Materials",
+    "id": "eee0aaa0-7232-4960-b815-63940b4fa9f9",
+    "title": "Development Engineering Technician - Electrochemistry",
+    "active": true,
+    "date_updated": 1765496964,
+    "date_posted": 1765410204,
+    "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/5734480004",
+    "locations": [
+      "McCarran, NV"
+    ],
+    "company_url": "https://simplify.jobs/c/Redwood-Materials",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Analytic Partners",
+    "id": "1be82b3f-41fd-406c-91f2-30139ee6803e",
+    "title": "Marketing Science Analyst - February 16th - 2026 Start",
+    "active": true,
+    "date_updated": 1761096000,
+    "date_posted": 1761096000,
+    "url": "https://jobs.lever.co/analyticpartners/f7d06503-9067-4fbe-833c-089db235cb8e/apply",
+    "locations": [
+      "Colorado",
+      "Denver, CO",
+      "United States"
+    ],
+    "company_url": "https://simplify.jobs/c/Analytic-Partners",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
