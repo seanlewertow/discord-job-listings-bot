@@ -71610,5 +71610,41 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "AT&T",
+    "id": "d280566c-d2e8-4e3c-9ccf-8896d56326d9",
+    "title": "Engineering Technician",
+    "active": true,
+    "date_updated": 1766075485,
+    "date_posted": 1766075485,
+    "url": "https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Columbia-Maryland/Engineering-Technician--Government-_R-93954-1",
+    "locations": [
+      "Columbia, MD"
+    ],
+    "company_url": "https://simplify.jobs/c/ATT",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "SRI International",
+    "id": "812207af-aa78-4ab4-958c-e69a03a508e5",
+    "title": "Manufacturing Technicians",
+    "active": true,
+    "date_updated": 1767284755,
+    "date_posted": 1757608842,
+    "url": "https://careers-sri.icims.com/jobs/6254/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Princeton, NJ"
+    ],
+    "company_url": "https://simplify.jobs/c/SRI-International",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
