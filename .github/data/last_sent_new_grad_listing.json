@@ -71880,5 +71880,23 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Acuren",
+    "id": "5253c886-22c2-4645-a7ba-fe663f826caa",
+    "title": "Full-Time PLI Techs - Pipeline Integrity - Duluth, MN",
+    "active": true,
+    "date_updated": 1767284733,
+    "date_posted": 1766014266,
+    "url": "https://uscareers-acuren.icims.com/jobs/17109/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Duluth, MN"
+    ],
+    "company_url": "https://simplify.jobs/c/Acuren",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
