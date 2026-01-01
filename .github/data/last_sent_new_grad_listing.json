@@ -71518,5 +71518,97 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Horizon Surgical Systems",
+    "id": "17c9c836-b0e4-4256-bc03-a6822df4a9bd",
+    "title": "Optical Systems Technician",
+    "active": true,
+    "date_updated": 1764812374,
+    "date_posted": 1764812374,
+    "url": "https://job-boards.greenhouse.io/horizonsurgicalsystems/jobs/4997423007",
+    "locations": [
+      "LA"
+    ],
+    "company_url": "https://simplify.jobs/c/Horizon-Surgical-Systems",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "Good American",
+    "id": "0779b0da-64cc-4afb-ae9b-ef02f84adf25",
+    "title": "Product Development Assistant - Temp",
+    "active": true,
+    "date_updated": 1764209375,
+    "date_posted": 1764209375,
+    "url": "https://jobs.lever.co/goodamerican/8b1f6156-5627-48cd-8c12-87cea9200827/apply",
+    "locations": [
+      "Hollywood, LA"
+    ],
+    "company_url": "https://simplify.jobs/c/Good-American",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Primetals Technologies",
+    "id": "45c94582-3063-4327-b109-024e04f0c592",
+    "title": "Technical Translator 1",
+    "active": true,
+    "date_updated": 1763191707,
+    "date_posted": 1763191707,
+    "url": "https://mhicareers.com/job/Orlando-Technical-Translator-I-FL-32809/1261635101/?ats=successfactors",
+    "locations": [
+      "Orlando, FL"
+    ],
+    "company_url": "https://simplify.jobs/c/Primetals-Technologies",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Vantage Point Solutions",
+    "id": "494340e2-9fde-4290-803c-56b2653f56d5",
+    "title": "Field Services Technician",
+    "active": true,
+    "date_updated": 1762037646,
+    "date_posted": 1762037646,
+    "url": "https://vantage-point-solutions-inc.breezy.hr/p/fb1ad5c8457e/apply",
+    "locations": [
+      "Dallas, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Vantage-Point-Solutions",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Secretariat",
+    "id": "6128d92f-5ce5-49d9-881b-6469fceaa359",
+    "title": "Associate \u2013 Entry Level",
+    "active": true,
+    "date_updated": 1762906488,
+    "date_posted": 1760067328,
+    "url": "https://job-boards.greenhouse.io/secretariatadvisorsllc/jobs/4034185009",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Secretariat",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
