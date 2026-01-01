@@ -71241,5 +71241,60 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "ERM",
+    "id": "e72753a1-a211-4f5e-a4f9-45d2cc82cf31",
+    "title": "Consulting Associate - EHS Management Information Systems",
+    "active": true,
+    "date_updated": 1765636772,
+    "date_posted": 1765636772,
+    "url": "https://erm.wd3.myworkdayjobs.com/ERM_Careers/job/Atlanta-Georgia/Consulting-Associate--EHS-Management-Information-Systems--Entry-Level-_R00025970",
+    "locations": [
+      "Houston, TX",
+      "Atlanta, GA"
+    ],
+    "company_url": "https://simplify.jobs/c/ERM",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "GEHA",
+    "id": "1b8d3153-c344-40e0-ab93-4d3beecd3b4e",
+    "title": "Associate Analytics Engineer",
+    "active": true,
+    "date_updated": 1767271205,
+    "date_posted": 1764839513,
+    "url": "https://geha.wd5.myworkdayjobs.com/en-US/GEHACareers/job/Missouri-Remote/Associate-Analytics-Engineer_R-005112-1",
+    "locations": [
+      "Missouri"
+    ],
+    "company_url": "https://simplify.jobs/c/b41d30d5-14c9-4328-9741-f8a45e378976",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Otto Aviation",
+    "id": "21389894-5727-453b-8d6e-16641806982a",
+    "title": "Associate Engineer - Systems Test",
+    "active": true,
+    "date_updated": 1761505003,
+    "date_posted": 1755105251,
+    "url": "https://job-boards.greenhouse.io/ottoaviation/jobs/4882828008",
+    "locations": [
+      "Fort Worth, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Otto-Aviation",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
