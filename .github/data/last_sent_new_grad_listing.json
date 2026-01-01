@@ -70291,5 +70291,24 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Scale AI",
+    "id": "d141e3c3-993b-4c91-8814-a556ef92e775",
+    "title": "Vibe Marketer",
+    "active": true,
+    "date_updated": 1765359624,
+    "date_posted": 1765359624,
+    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4638305005",
+    "locations": [
+      "SF",
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Scale-AI",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
