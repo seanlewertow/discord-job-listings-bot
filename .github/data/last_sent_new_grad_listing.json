@@ -71700,5 +71700,23 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "AES",
+    "id": "3314dbc2-37c7-47af-8dcd-8e7d887b1a72",
+    "title": "Short Term Trader/Dispatcher 1",
+    "active": true,
+    "date_updated": 1766445635,
+    "date_posted": 1766445635,
+    "url": "https://aes.wd1.myworkdayjobs.com/AES_US/job/US-Dayton-OH/Short-Term-Trader-Dispatcher-I_R1061617-1",
+    "locations": [
+      "Dayton, OH"
+    ],
+    "company_url": "https://simplify.jobs/c/AES",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
