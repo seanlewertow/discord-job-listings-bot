@@ -71718,5 +71718,95 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Watts Water",
+    "id": "480f0a4d-7510-4f72-b89d-95903fe68573",
+    "title": "Engineering Support 1",
+    "active": true,
+    "date_updated": 1765061259,
+    "date_posted": 1765061259,
+    "url": "https://wattswater.wd5.myworkdayjobs.com/external/job/Franklin-NH/Engineering-Support-I_10015998-1",
+    "locations": [
+      "Concord, NH"
+    ],
+    "company_url": "https://simplify.jobs/c/Watts-Water",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "KBR",
+    "id": "c4a20ee7-7152-4d61-8856-51f18d4aef28",
+    "title": "Operations Research Analyst-Foundational",
+    "active": true,
+    "date_updated": 1763916593,
+    "date_posted": 1763916593,
+    "url": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Arlington-Virginia/Operations-Research-Analyst--Foundational_R2114720",
+    "locations": [
+      "Arlington, VA"
+    ],
+    "company_url": "https://simplify.jobs/c/KBR",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "KBR",
+    "id": "2bf81655-31f0-4733-86a8-c1e4be4a19de",
+    "title": "Operations Research Analyst-Foundational",
+    "active": true,
+    "date_updated": 1763808111,
+    "date_posted": 1763808111,
+    "url": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Arlington-Virginia/Operations-Research-Analyst--Foundational_R2111121",
+    "locations": [
+      "Arlington, VA"
+    ],
+    "company_url": "https://simplify.jobs/c/KBR",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "SharkNinja",
+    "id": "a16c9c2e-c4eb-43dd-8e6e-6f8ef66cc86d",
+    "title": "Software Development Engineer Testing 1",
+    "active": true,
+    "date_updated": 1766059969,
+    "date_posted": 1758224752,
+    "url": "https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4582666006",
+    "locations": [
+      "Needham, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/SharkNinja",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Hermeus",
+    "id": "886b0f8c-3cfc-432f-a44a-99cb6b217844",
+    "title": "Build Engineer - Structures",
+    "active": true,
+    "date_updated": 1759969365,
+    "date_posted": 1757550821,
+    "url": "https://jobs.lever.co/hermeus/2930579e-6cc2-4c96-bb9c-c3009bf22d07/apply",
+    "locations": [
+      "LA"
+    ],
+    "company_url": "https://simplify.jobs/c/Hermeus",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
