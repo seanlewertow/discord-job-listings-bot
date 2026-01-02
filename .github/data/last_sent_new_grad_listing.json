@@ -72537,5 +72537,95 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Dave & Busters",
+    "id": "f16fb1ff-be66-44c9-ad1c-ec557499e0fc",
+    "title": "Game Support Technician",
+    "active": true,
+    "date_updated": 1763946429,
+    "date_posted": 1763946429,
+    "url": "https://daveandbusters.wd1.myworkdayjobs.com/dave_and_busters_careers/job/Frisco-TX/Game-Support-Technician_R-1005493",
+    "locations": [
+      "Frisco, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Dave-And-Busters",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Dave & Busters",
+    "id": "017889ff-d999-48f6-aa9d-01f701522904",
+    "title": "Support Technician",
+    "active": true,
+    "date_updated": 1767180927,
+    "date_posted": 1765626455,
+    "url": "https://daveandbusters.wd1.myworkdayjobs.com/dave_and_busters_careers/job/Niles-OH/Support-Technician_R-1007281-1",
+    "locations": [
+      "Youngstown, OH"
+    ],
+    "company_url": "https://simplify.jobs/c/Dave-And-Busters",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Dave & Busters",
+    "id": "3427e6e9-f08c-42fe-9680-1494b93c0b86",
+    "title": "Games Support Technician",
+    "active": true,
+    "date_updated": 1763916524,
+    "date_posted": 1763916524,
+    "url": "https://daveandbusters.wd1.myworkdayjobs.com/dave_and_busters_careers/job/St-Louis-MO/Games-Support-Technician_R-1009531",
+    "locations": [
+      "St. Louis, MO"
+    ],
+    "company_url": "https://simplify.jobs/c/Dave-And-Busters",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Genesis ",
+    "id": "6ee8d089-895a-436d-94b9-25e915189a4c",
+    "title": "Graduate Environmental Engineer / Specialist - Aberdeen Q3 2026 Intake",
+    "active": true,
+    "date_updated": 1758753393,
+    "date_posted": 1758753393,
+    "url": "https://hcxg.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/13096",
+    "locations": [
+      "Aberdeen, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Genesis",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Genesis ",
+    "id": "1c6c103d-7666-4a34-97da-edd190315336",
+    "title": "Graduate Environmental Engineer / Specialist - London Q3 2026 Intake",
+    "active": true,
+    "date_updated": 1761256787,
+    "date_posted": 1758753391,
+    "url": "https://hcxg.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/13097",
+    "locations": [
+      "London, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Genesis",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
