@@ -72236,5 +72236,95 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Flock Safety",
+    "id": "9392410f-c01e-4fe5-b1ae-47886455bb57",
+    "title": "Traveling Installation Technician - Utica - NY",
+    "active": true,
+    "date_updated": 1766531786,
+    "date_posted": 1766531786,
+    "url": "https://jobs.ashbyhq.com/Flock%20Safety/0f89dbe2-c9bf-41de-bf0b-9e553562c057/application",
+    "locations": [
+      "Utica, NY"
+    ],
+    "company_url": "https://simplify.jobs/c/FlockSafety",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "AeroVironment",
+    "id": "74b2d4ff-f0ec-41d4-bc51-c06875faa9b7",
+    "title": "CNO Developer",
+    "active": true,
+    "date_updated": 1766446090,
+    "date_posted": 1766446090,
+    "url": "https://avav.wd1.myworkdayjobs.com/en-US/avav/job/420-National-Business-Parkway-Jessup-MD/CNO-Developer_6358",
+    "locations": [
+      "Annapolis Junction, MD"
+    ],
+    "company_url": "https://simplify.jobs/c/AeroVironment",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "L3Harris Technologies",
+    "id": "a7edebff-644f-439b-b98f-c9480d1b1737",
+    "title": "Electronics Assembly Technician 1",
+    "active": true,
+    "date_updated": 1766013338,
+    "date_posted": 1766013338,
+    "url": "https://jobs.l3harris.com/job/Camden-Electronics-Assembly-Technician-1-NJ-08103/1350550200/?ats=successfactors",
+    "locations": [
+      "Philadelphia, PA"
+    ],
+    "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Asurion",
+    "id": "a56d3cb1-9ddb-433d-8feb-d0624eb06b47",
+    "title": "Cell Phone Repair Technician-Partnership Store - Google",
+    "active": true,
+    "date_updated": 1765374499,
+    "date_posted": 1765374499,
+    "url": "https://asurion.wd5.myworkdayjobs.com/asurioncareers_us/job/UBIF-IL---Oakbrook---63-Oakbrook-Ctr/Cell-Phone-Repair-Technician--Partnership-Store--Google-_ASU0018168",
+    "locations": [
+      "Western Springs, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/Asurion",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Caesars Entertainment",
+    "id": "fd91b288-d269-4827-99a7-cca733b27519",
+    "title": "Slot Technician",
+    "active": true,
+    "date_updated": 1762541006,
+    "date_posted": 1762541006,
+    "url": "https://edmn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/74288",
+    "locations": [
+      "Pompano Beach, FL"
+    ],
+    "company_url": "https://simplify.jobs/c/Caesars-Entertainment",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
