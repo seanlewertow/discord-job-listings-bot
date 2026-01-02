@@ -73993,5 +73993,103 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Jerry",
+    "id": "49b8155f-e5f1-4bb0-b7a5-b41d77b95515",
+    "title": "Software Engineer - Entry",
+    "active": true,
+    "date_updated": 1767396111,
+    "date_posted": 1767396111,
+    "url": "https://jobs.ashbyhq.com/jerry.ai/6b4cf72d-3809-45f8-b38f-1b4686434a51/application",
+    "locations": [
+      "Palo Alto, CA",
+      "Boston, MA",
+      "Toronto, ON, Canada",
+      "SF",
+      "LA",
+      "Chicago, IL",
+      "NYC",
+      "Atlanta, GA"
+    ],
+    "company_url": "https://simplify.jobs/c/Jerry",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "L3Harris Technologies",
+    "id": "752adbc9-bd79-4593-b9de-0f28c4fbd3f2",
+    "title": "Manufacturing Technician A",
+    "active": true,
+    "date_updated": 1767395614,
+    "date_posted": 1767395614,
+    "url": "https://jobs.l3harris.com/job/Londonderry-Manufacturing-Technician-A-NH-03053/1352996300/?ats=successfactors",
+    "locations": [
+      "Merrimack, NH"
+    ],
+    "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "RTX",
+    "id": "5818c99c-d75f-4af9-82ca-6555042a0885",
+    "title": "2026 Full-Time - Software Engineer II",
+    "active": true,
+    "date_updated": 1767395751,
+    "date_posted": 1767395751,
+    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/MA133-Tewksbury-Ma-Bldg-3-Concord-50-Apple-Hill-Drive-Concord---Building-3-Tewksbury-MA-01876-USA/XMLNAME-2026-Full-Time---Software-Engineer-II---Onsite--MA-_01813935",
+    "locations": [
+      "Concord, MA",
+      "Tewksbury, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/RTX",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "L3Harris Technologies",
+    "id": "1710862c-4ac5-4f32-bbff-e5a81fbe38cc",
+    "title": "Manufacturing Technician A",
+    "active": true,
+    "date_updated": 1767395634,
+    "date_posted": 1767395634,
+    "url": "https://jobs.l3harris.com/job/Londonderry-Manufacturing-Technician-A-NH-03053/1352996900/?ats=successfactors",
+    "locations": [
+      "Merrimack, NH"
+    ],
+    "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Princeton University",
+    "id": "54927487-210b-455c-be94-c6d629536e78",
+    "title": "Senior Research Specialist 1",
+    "active": true,
+    "date_updated": 1767395999,
+    "date_posted": 1758324626,
+    "url": "https://main-princeton.icims.com/jobs/21017/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Princeton, NJ"
+    ],
+    "company_url": "https://simplify.jobs/c/Princeton-University",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
