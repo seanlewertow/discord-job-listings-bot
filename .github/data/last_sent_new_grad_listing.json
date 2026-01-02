@@ -72993,5 +72993,100 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Vantage Point Solutions",
+    "id": "f761fda5-fd0c-4f96-9251-563e2d82e9fe",
+    "title": "Field Services Technician",
+    "active": true,
+    "date_updated": 1765409493,
+    "date_posted": 1765409493,
+    "url": "https://vantage-point-solutions-inc.breezy.hr/p/d0c16589951a/apply",
+    "locations": [
+      "Dallas, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Vantage-Point-Solutions",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Intertek",
+    "id": "48006c9d-7e84-4e25-a745-9f28609cb328",
+    "title": "Engineer Energy Efficiency Testing",
+    "active": true,
+    "date_updated": 1764153431,
+    "date_posted": 1764153431,
+    "url": "https://hcog.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/13339",
+    "locations": [
+      "Homer, NY"
+    ],
+    "company_url": "https://simplify.jobs/c/Intertek",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "ENFRA",
+    "id": "e2f4f477-3c22-4f58-854f-e56b5a336511",
+    "title": "Metering Specialist 1",
+    "active": true,
+    "date_updated": 1765221860,
+    "date_posted": 1765221860,
+    "url": "https://careers-enfra.icims.com/jobs/8425/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Sharon Hill, PA",
+      "Raleigh, NC",
+      "Durham, NC",
+      "Newark, NJ"
+    ],
+    "company_url": "https://simplify.jobs/c/ENFRA",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Nokia",
+    "id": "887e3194-6c4c-41ca-ba78-2912f660374c",
+    "title": "Semi Mfg Technician 2",
+    "active": true,
+    "date_updated": 1762907687,
+    "date_posted": 1762907687,
+    "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26887",
+    "locations": [
+      "United States"
+    ],
+    "company_url": "https://simplify.jobs/c/Nokia",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "ByteDance",
+    "id": "7dba0c84-47fd-40f3-b305-4b9b97f77d54",
+    "title": "Graduate Research Scientist - Biomolecular Structure Foundation Models - Seed AI-for-Science",
+    "active": true,
+    "date_updated": 1763118993,
+    "date_posted": 1761902078,
+    "url": "https://jobs.bytedance.com/en/position/7515908698011601159/detail",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "company_url": "https://simplify.jobs/c/ByteDance",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "PhD"
+    ]
   }
 ]
