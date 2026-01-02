@@ -73393,5 +73393,77 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "NCR Atleos",
+    "id": "a818c50f-80ad-44f1-b284-5f71ca947341",
+    "title": "Service Technician 1 - San Antonio TX",
+    "active": true,
+    "date_updated": 1765384765,
+    "date_posted": 1765384765,
+    "url": "https://ncratleos.wd1.myworkdayjobs.com/ext_atleos_us/job/TEXAS-VIRTUAL-USA/Service-Technician-I--San-Antonio-TX_R1150443",
+    "locations": [
+      "San Antonio, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/NCR-Atleos",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Loft",
+    "id": "6db76919-8a6e-4e69-b533-376cafce6a0c",
+    "title": "Analyst \u2013 Customer Insights",
+    "active": true,
+    "date_updated": 1765462273,
+    "date_posted": 1765273534,
+    "url": "https://knitwellgroup.wd1.myworkdayjobs.com/US_Corporate_Jobs/job/Times-Square-Tower-ANN-New-York-NY-10036/Analyst--Customer-Insights_R-2019782",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Loft",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Devon Energy",
+    "id": "d7d37bf2-d81b-4ca0-b4ed-ef84ed36599d",
+    "title": "Master Data Maintainer",
+    "active": true,
+    "date_updated": 1763905890,
+    "date_posted": 1763905890,
+    "url": "https://wd5.myworkdaysite.com/en-US/recruiting/devonenergy/Careers/job/Cuero-TX/Master-Data-Maintainer_R25275",
+    "locations": [
+      "Victoria, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Devon-Energy",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "University of Chicago",
+    "id": "f58c3d6e-513d-4cfe-be52-45d63fd22264",
+    "title": "Research Professional",
+    "active": true,
+    "date_updated": 1763809190,
+    "date_posted": 1763809190,
+    "url": "https://uchicago.wd5.myworkdayjobs.com/External/job/Chicago-IL/Research-Professional_JR31451",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/University-Of-Chicago",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
