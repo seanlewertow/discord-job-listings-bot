@@ -72645,5 +72645,41 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Accenture",
+    "id": "8b4d0a2c-e5b4-4518-83e0-07d2ad8cdf78",
+    "title": "Technology Analyst",
+    "active": true,
+    "date_updated": 1766447313,
+    "date_posted": 1766447313,
+    "url": "https://boards.greenhouse.io/accenturefederalservices/jobs/4599649006",
+    "locations": [
+      "Washington, DC"
+    ],
+    "company_url": "https://simplify.jobs/c/Accenture-FS",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Vanderlande Industries",
+    "id": "ccdde9e1-34c1-4d9c-bba7-22fcda883eaf",
+    "title": "Engineering Support Operative",
+    "active": true,
+    "date_updated": 1765651271,
+    "date_posted": 1765651271,
+    "url": "https://vanderlande.wd3.myworkdayjobs.com/careers/job/Daventry/Engineering-Support-Operative_JR35098",
+    "locations": [
+      "Daventry, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/7ab55595-a241-4468-bf77-178371480131",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
