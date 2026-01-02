@@ -72363,5 +72363,80 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "General Dynamics Information Technology",
+    "id": "671a0e3c-555f-413a-90d1-470e9e3a7f1f",
+    "title": "Capabilities Development Engineer",
+    "active": true,
+    "date_updated": 1765639362,
+    "date_posted": 1765639362,
+    "url": "https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-MD-Hanover/Capabilities-Development-Engineer_RQ207029",
+    "locations": [
+      "Hanover, MD"
+    ],
+    "company_url": "https://simplify.jobs/c/GDIT",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "University of Chicago",
+    "id": "2f74f145-c5f1-48cd-9813-71d4f57af0ec",
+    "title": "Research Specialist",
+    "active": true,
+    "date_updated": 1765638868,
+    "date_posted": 1765638868,
+    "url": "https://uchicago.wd5.myworkdayjobs.com/External/job/Chicago-IL/Research-Specialist_JR31936",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/University-Of-Chicago",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Goldman Sachs",
+    "id": "afd42d17-c20e-41ca-96f6-d7a9a41280e4",
+    "title": "Asset & Wealth Management - Quantitative Engineer - Analyst",
+    "active": true,
+    "date_updated": 1765494812,
+    "date_posted": 1765494812,
+    "url": "https://higher.gs.com/roles/151102",
+    "locations": [
+      "Dallas, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Goldman-Sachs",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Michael Baker International",
+    "id": "9b655826-974a-4643-a722-0a5857ef7bb9",
+    "title": "Transportation Planner 1",
+    "active": true,
+    "date_updated": 1762937064,
+    "date_posted": 1762273885,
+    "url": "https://ebxs.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/308745",
+    "locations": [
+      "Phoenix, AZ"
+    ],
+    "company_url": "https://simplify.jobs/c/Michael-Baker-International",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
