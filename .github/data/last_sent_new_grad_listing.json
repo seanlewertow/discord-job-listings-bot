@@ -73775,5 +73775,95 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Stanley Black & Decker",
+    "id": "38264953-8f78-4dde-9065-e0b08e751811",
+    "title": "Service Technician 1",
+    "active": true,
+    "date_updated": 1765064338,
+    "date_posted": 1765064338,
+    "url": "https://sbdinc.wd1.myworkdayjobs.com/en-US/Stanley_Black_Decker_Career_Site/job/Denver-CO-United-States/Service-Technician-I_REQ-1000042994",
+    "locations": [
+      "Denver, CO"
+    ],
+    "company_url": "https://simplify.jobs/c/Stanley-Black-Decker",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "The University of Kansas Hospital",
+    "id": "e920132f-8139-4b5d-857e-ab674858ff4f",
+    "title": "Clinical Analyst 1",
+    "active": true,
+    "date_updated": 1766172497,
+    "date_posted": 1764496064,
+    "url": "https://kansashealthsystem.wd1.myworkdayjobs.com/careers/job/Shawnee-Mission-KS/Clinical-Analyst-I_R-45381-1",
+    "locations": [
+      "Leawood, KS"
+    ],
+    "company_url": "https://simplify.jobs/c/The-University-Of-Kansas-Hospital",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "DXC Technology",
+    "id": "2f875912-0e72-4d1e-8b06-482801386a04",
+    "title": "DXC Graduate Programme",
+    "active": true,
+    "date_updated": 1764209934,
+    "date_posted": 1764209934,
+    "url": "https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/GBR---GLS---TEWKESBURY/DXC-Graduate-Programme-2026_51567299",
+    "locations": [
+      "Gloucester, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/DXC-Technology",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Microchip Technology",
+    "id": "8c22edd5-37f2-4ea3-b8bb-0d6e527b5cb0",
+    "title": "New College Graduate Engineer - Design",
+    "active": true,
+    "date_updated": 1763900154,
+    "date_posted": 1763900154,
+    "url": "https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/United-Kingdom---Cambridge/New-College-Graduate-Engineer---Design_R2345-25",
+    "locations": [
+      "Cambridge, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Microchip-Technology",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Stanley Black & Decker",
+    "id": "06d9ae25-525f-4e6a-b4d8-e93f340982e9",
+    "title": "Service Technician 1",
+    "active": true,
+    "date_updated": 1763814399,
+    "date_posted": 1763814399,
+    "url": "https://sbdinc.wd1.myworkdayjobs.com/en-US/Stanley_Black_Decker_Career_Site/job/Norcross-GA-United-States/Service-Technician-I_REQ-1000041386",
+    "locations": [
+      "Norcross, GA"
+    ],
+    "company_url": "https://simplify.jobs/c/Stanley-Black-Decker",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
