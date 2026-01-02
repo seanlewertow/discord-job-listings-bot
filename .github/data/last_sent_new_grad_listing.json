@@ -73465,5 +73465,95 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Fermilab",
+    "id": "cbbcc26b-441f-43a3-9ed8-fb8d540730af",
+    "title": "Lederman Fellow",
+    "active": true,
+    "date_updated": 1765047186,
+    "date_posted": 1765047186,
+    "url": "https://fermilab.wd5.myworkdayjobs.com/FermilabCareers/job/Batavia/Lederman-Fellow_R_008876",
+    "locations": [
+      "Batavia, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/Fermilab",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Becton Dickinson",
+    "id": "4fc11207-512e-41cc-8e1c-08a268e71335",
+    "title": "Electro-Mechanical Technician",
+    "active": true,
+    "date_updated": 1764642231,
+    "date_posted": 1764642231,
+    "url": "https://bdx.wd1.myworkdayjobs.com/EXTERNAL_CAREER_SITE_USA/job/USA-NE---Columbus-West/North-Molding-Electro-Mechanical-Tech---B-shift_R-516958-1",
+    "locations": [
+      "Norfolk, NE"
+    ],
+    "company_url": "https://simplify.jobs/c/Becton-Dickinson",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "United Rentals",
+    "id": "33966b48-57cc-4161-b11a-77320265b0b6",
+    "title": "Service Technician 1 - Flooring Solutions",
+    "active": true,
+    "date_updated": 1764496594,
+    "date_posted": 1764496594,
+    "url": "https://ur.wd1.myworkdayjobs.com/en-US/URcareers/job/Chesapeake-VA-USA/Service-Technician-I---Flooring-Solutions_77799-1",
+    "locations": [
+      "Chesapeake, VA"
+    ],
+    "company_url": "https://simplify.jobs/c/United-Rentals",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Northrop Grumman",
+    "id": "24e6a0fd-67b2-417b-a2de-1a28d44898e5",
+    "title": "Associate / Engineer Systems Architect",
+    "active": true,
+    "date_updated": 1763898775,
+    "date_posted": 1763898775,
+    "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/Associate---Engineer-Systems-Architect_R10213736",
+    "locations": [
+      "Melbourne, FL"
+    ],
+    "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Argonne National Laboratory",
+    "id": "7955530e-eddd-477a-82b5-624a0b5ffefa",
+    "title": "Postdoctoral Appointee - Electrocatalysis - Center for Nanoscale Materials",
+    "active": true,
+    "date_updated": 1763904117,
+    "date_posted": 1763904117,
+    "url": "https://argonne.wd1.myworkdayjobs.com/Argonne_Careers/job/Lemont-IL-USA/Postdoctoral-Appointee---Electrocatalysis--Center-for-Nanoscale-Materials-_421178",
+    "locations": [
+      "Woodridge, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/Argonne-National-Laboratory",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
