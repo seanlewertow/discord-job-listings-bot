@@ -73555,5 +73555,98 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "7a603273-9b90-4097-924a-cd9faccbe8a9",
+    "title": "Trading Assistant",
+    "active": true,
+    "date_updated": 1767370641,
+    "date_posted": 1767370641,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400044618",
+    "locations": [
+      "Durham, UK",
+      "Thirsk, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Amazon",
+    "id": "ea350374-45a3-4978-8d43-f194c7994b7f",
+    "title": "Engineering Operation Technician - DCC Communities",
+    "active": true,
+    "date_updated": 1767370365,
+    "date_posted": 1767370365,
+    "url": "https://amazon.jobs/en/jobs/3151262/engineering-operation-technician-dcc-communities",
+    "locations": [
+      "Ridgeland, MS"
+    ],
+    "company_url": "https://simplify.jobs/c/Amazon",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "University of Chicago",
+    "id": "44b34929-d2dd-41df-b655-e23892f2149f",
+    "title": "Research Specialist",
+    "active": true,
+    "date_updated": 1765621235,
+    "date_posted": 1765621235,
+    "url": "https://uchicago.wd5.myworkdayjobs.com/External/job/Chicago-IL/Research-Specialist_JR31878",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/University-Of-Chicago",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "FOX",
+    "id": "879cbb8b-667d-40f3-a244-30f0fc4fa83e",
+    "title": "Per Diem Technician",
+    "active": true,
+    "date_updated": 1764561835,
+    "date_posted": 1764561835,
+    "url": "https://fox.wd1.myworkdayjobs.com/Domestic/job/Philadelphia-Pennsylvania-USA/Per-Diem-Technician_R50029312-1",
+    "locations": [
+      "Philadelphia, PA"
+    ],
+    "company_url": "https://simplify.jobs/c/Fox",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Utah State University",
+    "id": "31061437-adab-482a-9fdd-0bae6c4dacdc",
+    "title": "Postdoctoral Fellow 1",
+    "active": true,
+    "date_updated": 1767370447,
+    "date_posted": 1757612972,
+    "url": "https://careers-usu.icims.com/jobs/9610/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Logan, UT"
+    ],
+    "company_url": "https://simplify.jobs/c/Utah-State-University",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "PhD"
+    ]
   }
 ]
