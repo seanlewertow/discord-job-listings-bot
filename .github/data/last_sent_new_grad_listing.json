@@ -71955,5 +71955,101 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Uline",
+    "id": "f52a3c9c-831a-4ba0-9eb2-4a3bc3d54824",
+    "title": "Business Systems Analyst - International",
+    "active": true,
+    "date_updated": 1767280442,
+    "date_posted": 1764780545,
+    "url": "https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/Business-Systems-Analyst---International_R259571-1",
+    "locations": [
+      "Waukegan, IL",
+      "Milwaukee, WI",
+      "Pleasant Prairie, WI",
+      "Morton Grove, IL",
+      "Kenosha, WI"
+    ],
+    "company_url": "https://simplify.jobs/c/Uline",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Endurance Lift Solutions",
+    "id": "156fbb22-101d-4be2-a006-1672eed62175",
+    "title": "ESP Shop Technician",
+    "active": true,
+    "date_updated": 1757110084,
+    "date_posted": 1757110084,
+    "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/2449757",
+    "locations": [
+      "Oklahoma City, OK"
+    ],
+    "company_url": "https://simplify.jobs/c/277ab406-217f-45ac-b285-f48603ac23d5",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Welocalize",
+    "id": "7e002038-b321-49a1-852b-0c65e1db736a",
+    "title": "Scout Search Quality Rater",
+    "active": true,
+    "date_updated": 1750308210,
+    "date_posted": 1750308210,
+    "url": "https://jobs.lever.co/welocalize/f1ac8f2e-aafa-474a-a9a6-5c7d86f883d3/apply",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/Welocalize",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Cable One",
+    "id": "d7c2f0c4-99af-4d6f-978b-58cfd5813bb1",
+    "title": "Field Technician",
+    "active": true,
+    "date_updated": 1765630923,
+    "date_posted": 1764919085,
+    "url": "https://cableone.wd1.myworkdayjobs.com/Cable_One_External_Careers/job/Parsons-KS/Field-Tech_R-106119",
+    "locations": [
+      "Cherryvale, KS"
+    ],
+    "company_url": "https://simplify.jobs/c/Cable-One",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "GCI",
+    "id": "41e02fcf-47ce-4f69-abdb-16914ddd9964",
+    "title": "Estimating & Planning Engineer 1 - Future Opening",
+    "active": true,
+    "date_updated": 1763121348,
+    "date_posted": 1758762820,
+    "url": "https://edqv.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/21002688",
+    "locations": [
+      "United States"
+    ],
+    "company_url": "https://simplify.jobs/c/GCI",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
