@@ -73648,5 +73648,96 @@
     "degrees": [
       "PhD"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "d6bccc89-58df-43f8-b028-b60917e74974",
+    "title": "Trading Assistant",
+    "active": true,
+    "date_updated": 1767370638,
+    "date_posted": 1767370638,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400043255",
+    "locations": [
+      "Newcastle upon Tyne, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "7866a83f-9793-4b31-bda7-c951e0209d0b",
+    "title": "Trading Assistant",
+    "active": true,
+    "date_updated": 1767370639,
+    "date_posted": 1767370639,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400044496",
+    "locations": [
+      "East Midlands, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "54a724f8-c268-4645-8dd4-e6617b2c2525",
+    "title": "Trading Assistant",
+    "active": true,
+    "date_updated": 1767370639,
+    "date_posted": 1767370639,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400044202",
+    "locations": [
+      "York, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "3a3f4a94-c001-4ced-9403-15f2e5e6bfb7",
+    "title": "Trading Assistant",
+    "active": true,
+    "date_updated": 1767370634,
+    "date_posted": 1767370634,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400044649",
+    "locations": [
+      "Bristol, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Liberty Mutual",
+    "id": "6e1e76cf-5639-486d-901c-7c226d9d7fd3",
+    "title": "Analyst 2",
+    "active": true,
+    "date_updated": 1767371253,
+    "date_posted": 1767371253,
+    "url": "https://careers-libertymutual.icims.com/jobs/72739/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Boston, MA",
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/Liberty-Mutual",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
