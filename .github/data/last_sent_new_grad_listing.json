@@ -73975,5 +73975,23 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Howard University",
+    "id": "58810439-f891-49c3-a699-cdf374f329b3",
+    "title": "Assistant Professor",
+    "active": true,
+    "date_updated": 1763886075,
+    "date_posted": 1763886075,
+    "url": "https://howard.wd1.myworkdayjobs.com/HU/job/Classroom-Building-4-School-of-Business/Assistant-Professor_JR107320-1",
+    "locations": [
+      "Washington, DC"
+    ],
+    "company_url": "https://simplify.jobs/c/Howard-University",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
