@@ -72326,5 +72326,42 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Westinghouse Electric Company",
+    "id": "092dca9d-0438-419a-82d3-be0bc0018949",
+    "title": "Probabilistic Risk Assessment Engineer 1",
+    "active": true,
+    "date_updated": 1765409383,
+    "date_posted": 1765409383,
+    "url": "https://careers.westinghousenuclear.com/job/Dallas-Probabilistic-Risk-Assessment-Engineer-1-TX-75201/1320348400/?ats=successfactors",
+    "locations": [
+      "Dallas, TX",
+      "Cranberry Twp, PA"
+    ],
+    "company_url": "https://simplify.jobs/c/Westinghouse-Electric-Company",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Zeta Global",
+    "id": "6d692bbf-24ae-4ba0-9a71-49ad0db16075",
+    "title": "Associate \u2013 Data Cloud Solutions",
+    "active": true,
+    "date_updated": 1764639581,
+    "date_posted": 1764639581,
+    "url": "https://zetaglobal.com/jobs/jobs-at-zeta-global?gh_jid=5710438004",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/Zeta-Global",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
