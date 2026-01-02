@@ -73739,5 +73739,41 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "University of Central Florida",
+    "id": "48efe510-628a-4757-b2dd-894f29cfb247",
+    "title": "Assistant Professor - Renewable Energy and Chemical Transformations",
+    "active": true,
+    "date_updated": 1764488806,
+    "date_posted": 1764488806,
+    "url": "https://ucf.wd1.myworkdayjobs.com/careers/job/Orlando-FL-Main-Campus/Assistant-Professor--Renewable-Energy-and-Chemical-Transformations_R111507",
+    "locations": [
+      "Orlando, FL"
+    ],
+    "company_url": "https://simplify.jobs/c/UCF",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Nexstar",
+    "id": "d7785e5d-3ff8-4dd3-ba83-f589b7edb336",
+    "title": "Hub Master Control Operator",
+    "active": true,
+    "date_updated": 1761991846,
+    "date_posted": 1761991846,
+    "url": "https://nexstar.wd5.myworkdayjobs.com/nexstar/job/TX-Dallas8001-John-Carpenter-Freeway-KDAF/Hub-Master-Control-Operator_REQ-25533",
+    "locations": [
+      "Dallas, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Nexstar",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
