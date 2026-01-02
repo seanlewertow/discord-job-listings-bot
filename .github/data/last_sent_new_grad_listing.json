@@ -72775,5 +72775,97 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Amazon",
+    "id": "4f2c327e-3d13-4164-bffc-fb7bfc682a24",
+    "title": "Agentic AI Teacher - Agi Ds - Agi Ds",
+    "active": true,
+    "date_updated": 1767337733,
+    "date_posted": 1767337733,
+    "url": "https://amazon.jobs/en/jobs/3150966/agentic-ai-teacher-agi-ds-agi-ds",
+    "locations": [
+      "Boston, MA",
+      "Bellevue, WA"
+    ],
+    "company_url": "https://simplify.jobs/c/Amazon",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Amazon",
+    "id": "241aa5fc-0b8e-42b5-8382-61aa8e644c6f",
+    "title": "Agentic AI Teacher - Agi Ds - Agi Ds",
+    "active": true,
+    "date_updated": 1767337725,
+    "date_posted": 1767337725,
+    "url": "https://amazon.jobs/en/jobs/3150955/agentic-ai-teacher-agi-ds-agi-ds",
+    "locations": [
+      "Boston, MA",
+      "Bellevue, WA"
+    ],
+    "company_url": "https://simplify.jobs/c/Amazon",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Seminole Hard Rock",
+    "id": "a69d5b50-fb7e-4fa6-961b-12b7fa4be566",
+    "title": "Slot Technician 1",
+    "active": true,
+    "date_updated": 1766767026,
+    "date_posted": 1766767026,
+    "url": "https://careers-seminole.icims.com/jobs/63916/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Coconut Creek, FL"
+    ],
+    "company_url": "https://simplify.jobs/c/Seminole-Hard-Rock",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "EquipmentShare",
+    "id": "e742675a-b614-4296-acf2-1b7a6541204f",
+    "title": "Telematics Installer",
+    "active": true,
+    "date_updated": 1765496222,
+    "date_posted": 1765496222,
+    "url": "https://www.equipmentshare.com/careers/openings/?gh_jid=7458028",
+    "locations": [
+      "Phoenix, AZ"
+    ],
+    "company_url": "https://simplify.jobs/c/Equipment-Share",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "L3Harris Technologies",
+    "id": "0905ab59-9b64-45fd-978e-84d8417dc496",
+    "title": "Composite Technician B",
+    "active": true,
+    "date_updated": 1763768071,
+    "date_posted": 1763768071,
+    "url": "https://jobs.l3harris.com/job/Huntsville-Composite-Technician-B-AL-35773/1344990100/?ats=successfactors",
+    "locations": [
+      "Huntsville, AL"
+    ],
+    "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
