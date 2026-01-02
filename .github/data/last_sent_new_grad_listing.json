@@ -73865,5 +73865,97 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "DXC Technology",
+    "id": "d8806fe8-ec39-4641-8b00-fe3a2d30c5db",
+    "title": "DXC Graduate Programme",
+    "active": true,
+    "date_updated": 1765047237,
+    "date_posted": 1765047237,
+    "url": "https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/GBR---HAM---FARNBOROUGH/DXC-Graduate-Programme-2026_51567289",
+    "locations": [
+      "Aldershot, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/DXC-Technology",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "DXC Technology",
+    "id": "32748cb4-b7e7-4f3d-8c49-a2b238fc0fd7",
+    "title": "DXC Graduate Programme",
+    "active": true,
+    "date_updated": 1764209943,
+    "date_posted": 1764209943,
+    "url": "https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/GBR---RFW---ERSKINE/DXC-Graduate-Programme-2026_51567253",
+    "locations": [
+      "Glasgow, UK",
+      "United Kingdom"
+    ],
+    "company_url": "https://simplify.jobs/c/DXC-Technology",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "DXC Technology",
+    "id": "19ec4fd6-b5b7-43fc-8474-7d021334b158",
+    "title": "DXC Graduate Programme",
+    "active": true,
+    "date_updated": 1764209945,
+    "date_posted": 1764209945,
+    "url": "https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/GBR---RFW---ERSKINE/DXC-Graduate-Programme-2026_51567258",
+    "locations": [
+      "Glasgow, UK",
+      "United Kingdom"
+    ],
+    "company_url": "https://simplify.jobs/c/DXC-Technology",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Stanley Black & Decker",
+    "id": "100b9aad-ec08-4134-a3c7-4f8c2a11e847",
+    "title": "Service Technician 1",
+    "active": true,
+    "date_updated": 1763893569,
+    "date_posted": 1763893569,
+    "url": "https://sbdinc.wd1.myworkdayjobs.com/en-US/Stanley_Black_Decker_Career_Site/job/Norcross-GA-United-States/Service-Technician-I_REQ-1000042992",
+    "locations": [
+      "Norcross, GA"
+    ],
+    "company_url": "https://simplify.jobs/c/Stanley-Black-Decker",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "PennState University",
+    "id": "3386e777-8a2d-4f32-a918-94adc10dfcf6",
+    "title": "Assistant or Associate Research Professor",
+    "active": true,
+    "date_updated": 1763885517,
+    "date_posted": 1763885517,
+    "url": "https://psu.wd1.myworkdayjobs.com/PSU_Academic/job/Penn-State-University-Park/Assistant-or-Associate-Research-Professor--The-Thomas-D-Larson-Transportation-Institute_REQ_0000073124-2",
+    "locations": [
+      "State College, PA"
+    ],
+    "company_url": "https://simplify.jobs/c/Penn-State",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
