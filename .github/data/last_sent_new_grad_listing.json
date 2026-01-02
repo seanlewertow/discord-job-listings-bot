@@ -73234,5 +73234,59 @@
     "degrees": [
       "PhD"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Plexus",
+    "id": "d4f5fb26-4ac9-4889-bc3e-2df68380884f",
+    "title": "Systems Integration Technician",
+    "active": true,
+    "date_updated": 1765889803,
+    "date_posted": 1765889803,
+    "url": "https://plexus.wd5.myworkdayjobs.com/en-US/Plexus_Careers/job/Nampa-ID/Systems-Integration-Technician---A-Shift_R035452",
+    "locations": [
+      "Nampa, ID"
+    ],
+    "company_url": "https://simplify.jobs/c/Plexus",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "University of Southern California",
+    "id": "b929cc29-fbb5-494f-ac27-f072b61bd3a2",
+    "title": "Postdoctoral Scholar Research Associate",
+    "active": true,
+    "date_updated": 1764486499,
+    "date_posted": 1764486499,
+    "url": "https://usc.wd5.myworkdayjobs.com/ExternalUSCCareers/job/Los-Angeles-CA---Downtown/Postdoctoral-Scholar-Research-Associate_REQ20165823",
+    "locations": [
+      "LA"
+    ],
+    "company_url": "https://simplify.jobs/c/University-Of-Southern-California",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Seminole Hard Rock",
+    "id": "4088b9d5-71c9-4d8c-9f9f-76080c1caa11",
+    "title": "Slot Machine Technician 1",
+    "active": true,
+    "date_updated": 1767350673,
+    "date_posted": 1761872194,
+    "url": "https://careers-seminole.icims.com/jobs/40228/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Bonita Springs, FL"
+    ],
+    "company_url": "https://simplify.jobs/c/Seminole-Hard-Rock",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
