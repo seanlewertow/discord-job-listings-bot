@@ -72681,5 +72681,99 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Intertek",
+    "id": "b03e7a37-7ebc-4029-a12e-68da258ed562",
+    "title": "Horizontal Transmission Acoustical Technician",
+    "active": true,
+    "date_updated": 1767136855,
+    "date_posted": 1767136855,
+    "url": "https://hcog.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/13591",
+    "locations": [
+      "York, PA"
+    ],
+    "company_url": "https://simplify.jobs/c/Intertek",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "GE Healthcare",
+    "id": "9f37593c-3b1a-45f3-97b9-dc7e31947d79",
+    "title": "Field Service Engineer 1 - Chicago - IL",
+    "active": true,
+    "date_updated": 1766517030,
+    "date_posted": 1766517030,
+    "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Service-Engineer-1---Chicago--IL_R4033664-1",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/GE-Healthcare",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "GE Healthcare",
+    "id": "d34312f2-2212-4b26-b187-1760628a0952",
+    "title": "Field Service Engineer 1 - Bradenton or Lakeland FL",
+    "active": true,
+    "date_updated": 1765638790,
+    "date_posted": 1765638790,
+    "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Service-Engineer-1---Bradenton-or-Lakeland-FL_R4029753-1",
+    "locations": [
+      "Lakeland, FL",
+      "Ellenton, FL"
+    ],
+    "company_url": "https://simplify.jobs/c/GE-Healthcare",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "GE Healthcare",
+    "id": "cbd0222c-f9dd-44fb-985c-c877282da256",
+    "title": "Field Engineer 1 - New Orleans - LA",
+    "active": true,
+    "date_updated": 1763888635,
+    "date_posted": 1763888635,
+    "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Engineer-1---New-Orleans--LA_R4030428-1",
+    "locations": [
+      "New Orleans, LA",
+      "Cocodrie, LA"
+    ],
+    "company_url": "https://simplify.jobs/c/GE-Healthcare",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "GE Healthcare",
+    "id": "226bcc7d-be34-4de5-8c0d-6411522dc313",
+    "title": "Field Engineer 1 - Monitoring Solutions",
+    "active": true,
+    "date_updated": 1763812288,
+    "date_posted": 1763812288,
+    "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Engineer-I---Monitoring-Solutions-Nashville--TN_R4024407-1",
+    "locations": [
+      "Knoxville, TN"
+    ],
+    "company_url": "https://simplify.jobs/c/GE-Healthcare",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
