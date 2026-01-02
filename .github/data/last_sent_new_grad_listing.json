@@ -73178,5 +73178,61 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "GE Appliances",
+    "id": "2b34afae-51c1-455e-a5b2-cafd34b82b4a",
+    "title": "Edison Engineering Development Program - Eedp - Software",
+    "active": true,
+    "date_updated": 1765637540,
+    "date_posted": 1765637540,
+    "url": "https://haier.wd3.myworkdayjobs.com/ge_appliances/job/USA-Louisville-KY/Edison-Engineering-Development-Program--EEDP----Software---2026_REQ-23079",
+    "locations": [
+      "Louisville, KY"
+    ],
+    "company_url": "https://simplify.jobs/c/GE-Appliances",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "PennState University",
+    "id": "e52a1f82-22c1-4e0b-b92f-6ca89cc0c616",
+    "title": "Part-time digital fabrication assistant - Stuckeman School",
+    "active": true,
+    "date_updated": 1764486462,
+    "date_posted": 1764486462,
+    "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Part-time-digital-fabrication-assistant---Stuckeman-School_REQ_0000068856-1",
+    "locations": [
+      "State College, PA"
+    ],
+    "company_url": "https://simplify.jobs/c/Penn-State",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "University of Southern California",
+    "id": "08bbcda6-b643-4bce-b4d4-98a7423aaed7",
+    "title": "Postdoctoral Research Associate",
+    "active": true,
+    "date_updated": 1763808122,
+    "date_posted": 1763808122,
+    "url": "https://usc.wd5.myworkdayjobs.com/ExternalUSCCareers/job/Los-Angeles-CA---University-Park-Campus/Postdoctoral-Research-Associate_REQ20143778",
+    "locations": [
+      "LA"
+    ],
+    "company_url": "https://simplify.jobs/c/University-Of-Southern-California",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "PhD"
+    ]
   }
 ]
