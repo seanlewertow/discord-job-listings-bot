@@ -72867,5 +72867,77 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "1f86d15a-755e-41dc-b10a-b6d25e4583d7",
+    "title": "Trading Assistant - Shift",
+    "active": true,
+    "date_updated": 1767351033,
+    "date_posted": 1767351033,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400044584",
+    "locations": [
+      "Edinburgh, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Amentum",
+    "id": "95633741-fb55-4f33-ac43-600d1e08521f",
+    "title": "Engineering Assistant - Space Hardware Design and Analysis",
+    "active": true,
+    "date_updated": 1767350117,
+    "date_posted": 1767350117,
+    "url": "https://jacobs.taleo.net/careersection/ex3/jobdetail.ftl?job=ADV000CED",
+    "locations": [
+      "Houston, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Amentum",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Vantage Point Solutions",
+    "id": "70d19d4c-8677-4af2-ad21-8f0a99317b5e",
+    "title": "Field Services Technician",
+    "active": true,
+    "date_updated": 1764559797,
+    "date_posted": 1764559797,
+    "url": "https://vantage-point-solutions-inc.breezy.hr/p/dd335ea8ab5c/apply",
+    "locations": [
+      "Des Moines, IA"
+    ],
+    "company_url": "https://simplify.jobs/c/Vantage-Point-Solutions",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Confluent",
+    "id": "069d5f6a-37b2-4129-af40-6709849c9548",
+    "title": "Senior Software Engineer - Product Security",
+    "active": true,
+    "date_updated": 1762437925,
+    "date_posted": 1761900139,
+    "url": "https://jobs.ashbyhq.com/confluent/967ce671-b03f-4624-a45c-d20c9a352081/application",
+    "locations": [
+      "Remote in Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Confluent",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
