@@ -72143,5 +72143,98 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "TD Synnex",
+    "id": "2e66b203-ef50-4289-9143-d41705bb7e37",
+    "title": "Integration Service Technician 1 - Technicien",
+    "active": true,
+    "date_updated": 1765419697,
+    "date_posted": 1765419697,
+    "url": "https://synnex.wd5.myworkdayjobs.com/tdsynnexcareers/job/Richmond-British-Colombia-Canada/Integration-Service-Technician-I---Technicien-ne--de-service-en-intgration-I_R45568",
+    "locations": [
+      "Richmond, BC, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/TD-Synnex",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "ASSA ABLOY",
+    "id": "e752a412-8939-4c5a-90e7-8474e9c32c2d",
+    "title": "PM Service Technician",
+    "active": true,
+    "date_updated": 1765329158,
+    "date_posted": 1765329158,
+    "url": "https://assaabloy.jobs2web.com/job/Columbia-PM-Service-Technician-MD-21046/1258316801/?ats=successfactors",
+    "locations": [
+      "Columbia, MD"
+    ],
+    "company_url": "https://simplify.jobs/c/ASSA-ABLOY",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Cummins",
+    "id": "63cde8d9-949d-4d63-887d-349c0f229e84",
+    "title": "UTI Technician Prospects",
+    "active": true,
+    "date_updated": 1765232936,
+    "date_posted": 1765232936,
+    "url": "https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2422974",
+    "locations": [
+      "Avondale, AZ"
+    ],
+    "company_url": "https://simplify.jobs/c/Cummins",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "TD Synnex",
+    "id": "9ca0ae8e-fc4e-4087-92fe-c36906b39363",
+    "title": "Rework Repair Technician 1",
+    "active": true,
+    "date_updated": 1765624479,
+    "date_posted": 1765624479,
+    "url": "https://synnex.wd5.myworkdayjobs.com/tdsynnexcareers/job/Roseville-California-United-States/Test-Technician-I_R42508",
+    "locations": [
+      "Roseville, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/TD-Synnex",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Montrose Environmental Group",
+    "id": "eb0c6d6d-5a42-4f55-a92c-504f9b9489f3",
+    "title": "FTIR Field Scientist - Air Emissions",
+    "active": true,
+    "date_updated": 1763887685,
+    "date_posted": 1763887685,
+    "url": "https://montrose.wd1.myworkdayjobs.com/meg/job/USA-CO-Arvada-Joyce-Drive/FTIR-Field-Scientist--Stack-_R7552",
+    "locations": [
+      "Elk Grove Village, IL",
+      "Carson City, MI",
+      "Roanoke, VA",
+      "Wheat Ridge, CO"
+    ],
+    "company_url": "https://simplify.jobs/c/Montrose-Environmental-Group",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
