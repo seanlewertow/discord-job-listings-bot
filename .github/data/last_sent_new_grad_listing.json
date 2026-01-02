@@ -73088,5 +73088,95 @@
     "degrees": [
       "PhD"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Micron Technology",
+    "id": "e9f4c135-7646-4fc9-bc79-b66b5fa87be7",
+    "title": "Staff Engineer - Ce CAD",
+    "active": true,
+    "date_updated": 1763898519,
+    "date_posted": 1763898519,
+    "url": "https://micron.wd1.myworkdayjobs.com/External/job/Richardson-TX/Staff-Engineer--CE-CAD_JR85936",
+    "locations": [
+      "Richardson, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Micron-Technology",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "CSA Group",
+    "id": "a7eadefb-576d-41c7-a208-34d56f7c3c12",
+    "title": "Product Safety Engineer",
+    "active": true,
+    "date_updated": 1765626333,
+    "date_posted": 1765626333,
+    "url": "https://csagroup.wd3.myworkdayjobs.com/csagroup/job/Cleveland/Product-Safety-Engineer--New-Graduates-_R004415",
+    "locations": [
+      "Cleveland, OH"
+    ],
+    "company_url": "https://simplify.jobs/c/CSA-Group",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Procter & Gamble (P&G)",
+    "id": "6a65fd5a-bbfa-4ebc-b2c6-5afd8c79453f",
+    "title": "Distribution Center Automated Technician",
+    "active": true,
+    "date_updated": 1763887377,
+    "date_posted": 1763887377,
+    "url": "https://pg.wd5.myworkdayjobs.com/1000/job/SOUTHEAST-FULFILLMENT-CENTER/Distribution-Center-Automated-Technician_R000135210",
+    "locations": [
+      "McDonough, GA"
+    ],
+    "company_url": "https://simplify.jobs/c/Procter-Gamble-Company",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Holman",
+    "id": "14dc9af6-8932-47c8-85b5-98b6273be47c",
+    "title": "Installation Mechanic C",
+    "active": true,
+    "date_updated": 1765626807,
+    "date_posted": 1765626807,
+    "url": "https://holmanautogroup.wd1.myworkdayjobs.com/HolmanEnterprisesCareers/job/Bartlett-IL-US/Installation-Mechanic-C_R0052540",
+    "locations": [
+      "Bartlett, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/Holman",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "SHI International ",
+    "id": "f8390a30-b8be-4d7d-8ac6-a1a2fcb3d194",
+    "title": "IDCS Quality Control Technician",
+    "active": true,
+    "date_updated": 1763674462,
+    "date_posted": 1762241441,
+    "url": "https://shi.wd12.myworkdayjobs.com/shicareers/job/Piscataway-NJ-USA/IDCS-Quality-Control-Technician_JR1334-1",
+    "locations": [
+      "Middlesex, NJ"
+    ],
+    "company_url": "https://simplify.jobs/c/SHI-International",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
