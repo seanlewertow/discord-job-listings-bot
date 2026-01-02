@@ -73288,5 +73288,110 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "The Federal Reserve System",
+    "id": "9b1001b2-dacd-4394-bbce-cadf13321dd1",
+    "title": "Quantitative Fellowship Program - Federal Reserve System",
+    "active": true,
+    "date_updated": 1767049633,
+    "date_posted": 1767049633,
+    "url": "https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Minneapolis-MN/Quantitative-Fellowship-Program---Federal-Reserve-System_R-0000030982",
+    "locations": [
+      "Boston, MA",
+      "SF",
+      "Cleveland, OH",
+      "Dallas, TX",
+      "Philadelphia, PA",
+      "Richmond, VA",
+      "Chicago, IL",
+      "Charlotte, NC",
+      "St. Louis, MO",
+      "NYC",
+      "Minneapolis, MN",
+      "Atlanta, GA"
+    ],
+    "company_url": "https://simplify.jobs/c/6a7a42d3-327f-4b48-a7a7-c68f405e3396",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Plexus",
+    "id": "bf6c4e5d-0dd4-4cee-a3be-a138ee4fcd1d",
+    "title": "Test Support Technician",
+    "active": true,
+    "date_updated": 1765581645,
+    "date_posted": 1765581645,
+    "url": "https://plexus.wd5.myworkdayjobs.com/en-US/Plexus_Careers/job/Neenah-WI/Test-Support-Technician_R035372",
+    "locations": [
+      "Neenah, WI"
+    ],
+    "company_url": "https://simplify.jobs/c/Plexus",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Teledyne",
+    "id": "5000a4a9-eaa3-4627-b03b-9e4984da50ba",
+    "title": "Optical Technician",
+    "active": true,
+    "date_updated": 1765410250,
+    "date_posted": 1765410250,
+    "url": "https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Freeport-PA/Optical-Technician_REQ31945",
+    "locations": [
+      "Tarentum, PA"
+    ],
+    "company_url": "https://simplify.jobs/c/199b3c43-379a-408c-a6a8-980e79183038",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Vistry Group",
+    "id": "08cbb1df-a9ea-4d14-b47c-e167a717c0e7",
+    "title": "Design and Technical Graduate",
+    "active": true,
+    "date_updated": 1767351436,
+    "date_posted": 1764366134,
+    "url": "https://careers-vistrygroup.icims.com/jobs/7941/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Odenton, MD"
+    ],
+    "company_url": "https://simplify.jobs/c/Vistry-Group",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Prysmian Cables & Systems",
+    "id": "aff198d0-d33a-4ad8-9069-46d8b09e991d",
+    "title": "R&D Laboratory Testing Technician",
+    "active": true,
+    "date_updated": 1765627820,
+    "date_posted": 1765627820,
+    "url": "https://prysmiangroup.wd3.myworkdayjobs.com/careers/job/Willimantic-CT/R-D-Laboratory-Testing-Technician_R-28579",
+    "locations": [
+      "Bozrah, CT"
+    ],
+    "company_url": "https://simplify.jobs/c/de2a7df6-c0fa-4813-9fba-f1d7a2fb0149",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
