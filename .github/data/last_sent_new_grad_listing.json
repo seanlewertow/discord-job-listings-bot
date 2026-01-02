@@ -72438,5 +72438,104 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Amazon",
+    "id": "601de8a1-8e29-4a8c-b433-2c8d2cf5ca0a",
+    "title": "Agentic AI Teacher - Agi Ds - Agi Ds",
+    "active": true,
+    "date_updated": 1767337741,
+    "date_posted": 1767337741,
+    "url": "https://amazon.jobs/en/jobs/3150957/agentic-ai-teacher-agi-ds-agi-ds",
+    "locations": [
+      "Boston, MA",
+      "Bellevue, WA"
+    ],
+    "company_url": "https://simplify.jobs/c/Amazon",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Amazon",
+    "id": "3c172d75-b387-4eb4-bd6e-e84848f2caa0",
+    "title": "Agentic AI Teacher - Agi Ds - Agi Ds",
+    "active": true,
+    "date_updated": 1767337731,
+    "date_posted": 1767337731,
+    "url": "https://amazon.jobs/en/jobs/3150952/agentic-ai-teacher-agi-ds-agi-ds",
+    "locations": [
+      "Boston, MA",
+      "Washington",
+      "Bellevue, WA",
+      "Massachusetts",
+      "United States"
+    ],
+    "company_url": "https://simplify.jobs/c/Amazon",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Amazon",
+    "id": "26cb7c37-1c58-4721-b967-2e948afac6ca",
+    "title": "Agentic AI Teacher - Agi Ds - Agi Ds",
+    "active": true,
+    "date_updated": 1767337728,
+    "date_posted": 1767337728,
+    "url": "https://amazon.jobs/en/jobs/3150953/agentic-ai-teacher-agi-ds-agi-ds",
+    "locations": [
+      "Boston, MA",
+      "Washington",
+      "Bellevue, WA",
+      "Massachusetts",
+      "United States"
+    ],
+    "company_url": "https://simplify.jobs/c/Amazon",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Axis Automation",
+    "id": "67694007-fa7e-43a8-85b0-7a3eae7efe01",
+    "title": "Controls Electrician",
+    "active": true,
+    "date_updated": 1765989964,
+    "date_posted": 1765989964,
+    "url": "https://job-boards.greenhouse.io/axiscompany/jobs/8343454002",
+    "locations": [
+      "Grand Rapids, MI"
+    ],
+    "company_url": "https://simplify.jobs/c/Axis-Automation",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Danaher Corporation",
+    "id": "ca0ee9ba-480e-438f-aae8-325ad589d017",
+    "title": "Field Service Engineer - South West England",
+    "active": true,
+    "date_updated": 1765641077,
+    "date_posted": 1765641077,
+    "url": "https://danaher.wd1.myworkdayjobs.com/danaherjobs/job/GBR---Remote/Field-Service-Engineer--South-West-England-_R1298400-1",
+    "locations": [
+      "United Kingdom"
+    ],
+    "company_url": "https://simplify.jobs/c/Danaher-Corporation",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
