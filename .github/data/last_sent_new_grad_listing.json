@@ -72051,5 +72051,97 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "350d03f6-1f3a-4907-9b19-15310b3dedca",
+    "title": "Trading Assistant - Shift",
+    "active": true,
+    "date_updated": 1767319900,
+    "date_posted": 1767319900,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400044572",
+    "locations": [
+      "Leicester, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Grayce",
+    "id": "e431a77b-abd4-4405-9ec4-7bb96cca3366",
+    "title": "Graduate Digital Analyst",
+    "active": true,
+    "date_updated": 1766592685,
+    "date_posted": 1766592685,
+    "url": "https://apply.workable.com/grayce/j/6D4542F950/apply",
+    "locations": [
+      "Leicester, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/ece08408-be43-4331-9af6-746c6e9977ec",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Ohio State University",
+    "id": "3e73f383-3138-4b24-86a0-4a5419b14c39",
+    "title": "Production Tech",
+    "active": true,
+    "date_updated": 1765637985,
+    "date_posted": 1765637985,
+    "url": "https://osu.wd1.myworkdayjobs.com/OSUCareers/job/Columbus-Campus/Production-Tech_R141210-1",
+    "locations": [
+      "Columbus, OH"
+    ],
+    "company_url": "https://simplify.jobs/c/Ohio-State-University",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Terex",
+    "id": "12df0c46-e128-4871-b69b-ac1fe9cf7d36",
+    "title": "Engineering Leadership Development Program",
+    "active": true,
+    "date_updated": 1764495769,
+    "date_posted": 1764495769,
+    "url": "https://terex.wd1.myworkdayjobs.com/terexcareers/job/USA-WA-Redmond/XMLNAME-2026-Engineering-Leadership-Development-Program_REQ-10144",
+    "locations": [
+      "Bothell, WA",
+      "Redmond, WA",
+      "Quincy, WA"
+    ],
+    "company_url": "https://simplify.jobs/c/Terex",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "GHD",
+    "id": "f28e5a81-c9eb-4b15-8005-441162c1e769",
+    "title": "Graduate Environmental Engineer",
+    "active": true,
+    "date_updated": 1761172617,
+    "date_posted": 1761172617,
+    "url": "https://ejov.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/23921",
+    "locations": [
+      "St Paul, MN"
+    ],
+    "company_url": "https://simplify.jobs/c/GHD",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
