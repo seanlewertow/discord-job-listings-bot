@@ -72627,5 +72627,23 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Nokia",
+    "id": "451c709a-b9df-41c3-b772-b5c0cc805627",
+    "title": "Semi Mfg Technician 2",
+    "active": true,
+    "date_updated": 1762907693,
+    "date_posted": 1762907693,
+    "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26889",
+    "locations": [
+      "United States"
+    ],
+    "company_url": "https://simplify.jobs/c/Nokia",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
