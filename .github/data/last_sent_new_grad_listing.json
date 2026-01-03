@@ -74297,5 +74297,59 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "dedad7e8-0625-4987-88b5-0548b8ed81b9",
+    "title": "Trading Assistant",
+    "active": true,
+    "date_updated": 1767456693,
+    "date_posted": 1767456693,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400044712",
+    "locations": [
+      "Northamptonshire, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "cbef4395-54c4-44c7-837e-2bc17cb670c6",
+    "title": "Trading Assistant",
+    "active": true,
+    "date_updated": 1767456695,
+    "date_posted": 1767456695,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400044720",
+    "locations": [
+      "Bangor, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "898d53e7-59dd-479f-a83d-7fa479bb5272",
+    "title": "Trading Assistant",
+    "active": true,
+    "date_updated": 1767456694,
+    "date_posted": 1767456694,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400044728",
+    "locations": [
+      "Leeds, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
