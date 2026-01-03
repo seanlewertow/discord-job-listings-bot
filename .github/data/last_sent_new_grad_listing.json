@@ -74369,5 +74369,41 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "35e97546-a472-4df4-924f-5975b9e6b3e9",
+    "title": "Trading Assistant - Local",
+    "active": true,
+    "date_updated": 1767456713,
+    "date_posted": 1767456713,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400044691",
+    "locations": [
+      "Liverpool, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "7471e034-0662-4cc5-b4aa-3b702c827edc",
+    "title": "Trading Assistant",
+    "active": true,
+    "date_updated": 1767456697,
+    "date_posted": 1767456697,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400044698",
+    "locations": [
+      "Gloucester, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
