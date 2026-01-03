@@ -74221,5 +74221,23 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Alarm.com",
+    "id": "85f36e33-6329-4296-a7e4-113409ad4e3b",
+    "title": "DVR Technician",
+    "active": true,
+    "date_updated": 1767413859,
+    "date_posted": 1767138613,
+    "url": "https://job-boards.greenhouse.io/alarmcom/jobs/8356160002",
+    "locations": [
+      "Liberty Lake, WA"
+    ],
+    "company_url": "https://simplify.jobs/c/Alarm",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
