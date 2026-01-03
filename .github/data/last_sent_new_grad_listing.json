@@ -74091,5 +74091,98 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "FactSet",
+    "id": "31ce3fd2-7565-42ec-bdb6-a364de28e7ac",
+    "title": "Software Engineer 1",
+    "active": true,
+    "date_updated": 1767397695,
+    "date_posted": 1767397695,
+    "url": "https://factset.wd108.myworkdayjobs.com/FactSetCareers/job/New-York-NY-USA/Software-Engineer-I_R30307",
+    "locations": [
+      "Westport, CT",
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/FactSet",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Booz Allen",
+    "id": "eeabdb03-f1b1-456b-82b4-99cdf1402ac6",
+    "title": "Data Processing Technician",
+    "active": true,
+    "date_updated": 1767395747,
+    "date_posted": 1767395747,
+    "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Aurora-CO/Data-Processing-Technician_R0231593",
+    "locations": [
+      "Aurora, CO"
+    ],
+    "company_url": "https://simplify.jobs/c/Booz-Allen",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Niagara Bottling",
+    "id": "0dd3572b-97cb-4803-a9e0-9164f5151f58",
+    "title": "MFG System Implementations Engineer 1",
+    "active": true,
+    "date_updated": 1767399022,
+    "date_posted": 1767399022,
+    "url": "https://niagarawater.wd5.myworkdayjobs.com/niagara/job/Corp-Offsite---Diamond-Bar-CA/MFG-System-Implementations-Engineer-I_R52026",
+    "locations": [
+      "Walnut, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Niagara-Bottling",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "RTX",
+    "id": "ef0e16a3-a75f-483f-be28-593ea13a725c",
+    "title": "Software Engineer 1 - BMS Software Engineer 1 - IN",
+    "active": true,
+    "date_updated": 1767398402,
+    "date_posted": 1767398402,
+    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/IN301-1010-Production-Rd-Ft-Wayne-IN-1010-Production-Road---Fort-Wayne-IN-46808-USA/XMLNAME-2026-Full-Time---BMS-Software-Engineer-1---Onsite--IN-_01812916",
+    "locations": [
+      "Fort Wayne, IN"
+    ],
+    "company_url": "https://simplify.jobs/c/RTX",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "RWS",
+    "id": "f6244d12-59e1-407a-b66a-806d52a3ba16",
+    "title": "Search Quality Rater",
+    "active": true,
+    "date_updated": 1767395960,
+    "date_posted": 1767395960,
+    "url": "https://jobs.lever.co/rws/5f4471cd-47ad-4ad7-b22d-7f0b30ed96a1/apply",
+    "locations": [
+      "Columbus, OH"
+    ],
+    "company_url": "https://simplify.jobs/c/RWS",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
