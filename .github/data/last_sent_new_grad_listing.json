@@ -74239,5 +74239,63 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "f4c32cec-a47a-4462-8333-1754b46ac421",
+    "title": "Trading Assistant",
+    "active": true,
+    "date_updated": 1767435528,
+    "date_posted": 1767435528,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400044684",
+    "locations": [
+      "United Kingdom"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "ByteDance",
+    "id": "8a1794df-3bfa-482c-8ee4-e138699515f8",
+    "title": "Graduate Research Scientist in Code Generation",
+    "active": true,
+    "date_updated": 1767434243,
+    "date_posted": 1764055795,
+    "url": "https://jobs.bytedance.com/en/position/7561701015045769533/detail",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/ByteDance",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "PhD"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "TensorWave",
+    "id": "eac797e0-e67e-4805-967c-120ffd600a75",
+    "title": "Product Manager",
+    "active": true,
+    "date_updated": 1767434223,
+    "date_posted": 1760688258,
+    "url": "https://jobs.ashbyhq.com/tensorwave/5bd8c71a-203f-4925-b4c3-4cadb3756edc/application",
+    "locations": [
+      "Las Vegas, NV"
+    ],
+    "company_url": "https://simplify.jobs/c/TensorWave",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
