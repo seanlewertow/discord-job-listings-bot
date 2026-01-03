@@ -74184,5 +74184,42 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "FM Global",
+    "id": "e2240a20-567a-451f-8fa3-df028b2c4ca5",
+    "title": "Investment Analyst - Portfolio Construction",
+    "active": true,
+    "date_updated": 1767406481,
+    "date_posted": 1759590240,
+    "url": "https://jobs-fmglobal.icims.com/jobs/16121/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Boston, MA",
+      "Waltham, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/FM-Global",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "ByteDance",
+    "id": "674ce104-670d-44c6-b925-7455c79b77a8",
+    "title": "Software Engineer Graduate - Media Network Global Engineering - 2026 Start",
+    "active": true,
+    "date_updated": 1767406435,
+    "date_posted": 1767406435,
+    "url": "https://jobs.bytedance.com/en/position/7579851430954125621/detail",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/ByteDance",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
