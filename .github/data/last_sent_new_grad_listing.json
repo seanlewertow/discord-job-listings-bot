@@ -74443,5 +74443,46 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "Belden",
+    "id": "a071fa6d-39ad-413b-bcd2-5e7cff890799",
+    "title": "Technical Solutions Track: Launch Early Career Leadership Program",
+    "active": true,
+    "date_updated": 1767510815,
+    "date_posted": 1767510815,
+    "url": "https://careers.belden.com/job/Chicago-Technical-Solutions-Track-Launch-Early-Career-Leadership-Program-IL-60631/1340122600/?ats=successfactors",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/Belden",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "WiSC Enterprises, LLC",
+    "id": "0c13c131-882b-4572-a5c9-a686e952425c",
+    "title": "Technical Advisor",
+    "active": true,
+    "date_updated": 1767511277,
+    "date_posted": 1757612036,
+    "url": "https://careers-wiscenterprises.icims.com/jobs/1607/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Dayton, OH",
+      "Chantilly, VA"
+    ],
+    "company_url": "https://simplify.jobs/c/WiSC-Enterprises",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
