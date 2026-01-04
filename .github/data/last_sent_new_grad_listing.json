@@ -74502,5 +74502,121 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "cd9109a7-f22d-46f2-ad4f-ec6c9510cb51",
+    "title": "Trading Assistant",
+    "active": true,
+    "date_updated": 1767543035,
+    "date_posted": 1767543035,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400044776",
+    "locations": [
+      "Durham, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Amazon",
+    "id": "df9b23de-afba-4621-871f-102fdb6ed910",
+    "title": "Engineering Operations Technician",
+    "active": true,
+    "date_updated": 1767542901,
+    "date_posted": 1767542901,
+    "url": "https://amazon.jobs/en/jobs/3151529/engineering-operations-technician",
+    "locations": [
+      "Ridgeland, MS"
+    ],
+    "company_url": "https://simplify.jobs/c/Amazon",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "MBA",
+      "PhD",
+      "Associate's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Amazon",
+    "id": "a1406c17-1366-4cf9-9f46-c99acdaacf91",
+    "title": "Engineering Operations Technician",
+    "active": true,
+    "date_updated": 1767542903,
+    "date_posted": 1767542903,
+    "url": "https://amazon.jobs/en/jobs/3151540/engineering-operations-technician",
+    "locations": [
+      "Ridgeland, MS"
+    ],
+    "company_url": "https://simplify.jobs/c/Amazon",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "MBA",
+      "PhD",
+      "Associate's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Amazon",
+    "id": "9308a8d0-471f-46de-8566-72690cf91b43",
+    "title": "Engineering Operations Technician",
+    "active": true,
+    "date_updated": 1767542901,
+    "date_posted": 1767542901,
+    "url": "https://amazon.jobs/en/jobs/3151539/engineering-operations-technician",
+    "locations": [
+      "Ridgeland, MS"
+    ],
+    "company_url": "https://simplify.jobs/c/Amazon",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "MBA",
+      "PhD",
+      "Associate's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Amazon",
+    "id": "07c4aa4b-6bb5-4356-a7ce-943cc1e9a156",
+    "title": "Engineering Operations Technician",
+    "active": true,
+    "date_updated": 1767542894,
+    "date_posted": 1767542894,
+    "url": "https://amazon.jobs/en/jobs/3151523/engineering-operations-technician",
+    "locations": [
+      "Ridgeland, MS"
+    ],
+    "company_url": "https://simplify.jobs/c/Amazon",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "MBA",
+      "PhD",
+      "Associate's",
+      "JD",
+      "MD"
+    ]
   }
 ]
