@@ -74484,5 +74484,23 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "L3Harris Technologies",
+    "id": "74659dd5-9025-4d5d-8807-be7528455af6",
+    "title": "Manufacturing Technician A",
+    "active": true,
+    "date_updated": 1767513546,
+    "date_posted": 1767513546,
+    "url": "https://jobs.l3harris.com/job/Londonderry-Manufacturing-Technician-A-NH-03053/1353048800/?ats=successfactors",
+    "locations": [
+      "Merrimack, NH"
+    ],
+    "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
