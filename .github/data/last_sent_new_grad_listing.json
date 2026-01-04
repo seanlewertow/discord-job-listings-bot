@@ -74423,5 +74423,25 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Mohawk",
+    "id": "5880e13b-2648-4708-b7b8-df57ef3c9e5a",
+    "title": "Master Data Coordinator",
+    "active": true,
+    "date_updated": 1767482877,
+    "date_posted": 1767482877,
+    "url": "https://careers.mohawkind.com/job/Dalton-Master-Data-Coordinator-Geor-30721/1353042200/?ats=successfactors",
+    "locations": [
+      "Calhoun, GA"
+    ],
+    "company_url": "https://simplify.jobs/c/Mohawk",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
