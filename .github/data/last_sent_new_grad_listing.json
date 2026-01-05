@@ -74852,5 +74852,114 @@
     "degrees": [
       "Master's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Nasdaq",
+    "id": "98a298a6-d920-400e-a35e-43610be7401c",
+    "title": "Senior Software Developer - Enterprise Onboarding",
+    "active": true,
+    "date_updated": 1767631140,
+    "date_posted": 1767631140,
+    "url": "https://nasdaq.wd1.myworkdayjobs.com/en-US/Global_External_Site/job/Canada---St-Johns---Newfoundland--Labrador/Verafin---Senior-Software-Developer--Enterprise-Onboarding-_R0024695",
+    "locations": [
+      "Toronto, ON, Canada",
+      "St. John's, NL, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Nasdaq",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Crowe",
+    "id": "88b77c22-1549-47ed-9ac6-b356e2434bd4",
+    "title": "NetSuite Implementation Consultant",
+    "active": true,
+    "date_updated": 1767630748,
+    "date_posted": 1767630748,
+    "url": "https://crowe.wd12.myworkdayjobs.com/en-US/external_careers/job/Chicago-IL-USA/NetSuite-Implementation-Consultant_R-50086",
+    "locations": [
+      "Houston, TX",
+      "Chicago, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/Crowe",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Uber",
+    "id": "5f599d1d-871f-4da7-bf05-db884e4eefc4",
+    "title": "Graduate 2026 Software Engineer 1 - Mobile",
+    "active": true,
+    "date_updated": 1767630713,
+    "date_posted": 1767630713,
+    "url": "https://university-uber.icims.com/jobs/152559/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Seattle, WA",
+      "SF",
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Uber",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Uber",
+    "id": "167011d6-2c70-486b-a5d7-75d2e39b0efe",
+    "title": "Graduate 2026 Software Engineer 1 - US",
+    "active": true,
+    "date_updated": 1767630721,
+    "date_posted": 1767630721,
+    "url": "https://university-uber.icims.com/jobs/152427/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Seattle, WA",
+      "SF",
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Uber",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "American Express",
+    "id": "26ee324e-ddad-4cdd-bffb-5171227b722f",
+    "title": "Senior Associate-Digital Product Management",
+    "active": true,
+    "date_updated": 1767630347,
+    "date_posted": 1767630347,
+    "url": "https://aexp.eightfold.ai/careers/job/39272718",
+    "locations": [
+      "Phoenix, AZ"
+    ],
+    "company_url": "https://simplify.jobs/c/American-Express",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
