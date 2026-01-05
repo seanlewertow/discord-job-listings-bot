@@ -74672,5 +74672,41 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "11001ecb-b99f-4cb2-a6a9-0343e983144c",
+    "title": "Trading Assistant - Shift",
+    "active": true,
+    "date_updated": 1767578884,
+    "date_posted": 1767578884,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400044725",
+    "locations": [
+      "Weybridge, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "3ba04848-2ddc-4bab-bf42-c8ce20d8afe9",
+    "title": "Trading Assistant - Shift",
+    "active": true,
+    "date_updated": 1767578881,
+    "date_posted": 1767578881,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400044814",
+    "locations": [
+      "Letchworth Garden City, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
