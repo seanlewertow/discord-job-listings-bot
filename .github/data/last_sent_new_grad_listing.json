@@ -74791,5 +74791,66 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Ohio State University",
+    "id": "1011a322-238e-4051-8f72-e7f9f18bff32",
+    "title": "Research Data Analyst 1 - Center For Biostatistics",
+    "active": true,
+    "date_updated": 1767630003,
+    "date_posted": 1767630003,
+    "url": "https://osu.wd1.myworkdayjobs.com/OSUCareers/job/Columbus-Campus/Research-Data-Analyst-I---Center-For-Biostatistics_R142714-2",
+    "locations": [
+      "Columbus, OH"
+    ],
+    "company_url": "https://simplify.jobs/c/Ohio-State-University",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "Emergent Holdings ",
+    "id": "d057d665-34b8-41bd-a8cd-5876130998de",
+    "title": "Product Development Analyst 1 - P&C",
+    "active": true,
+    "date_updated": 1767629628,
+    "date_posted": 1767629628,
+    "url": "https://ejko.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/13806",
+    "locations": [
+      "New Albany, OH"
+    ],
+    "company_url": "https://simplify.jobs/c/Emergent-Holdings",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "RTX",
+    "id": "4836ddbf-d856-48ac-803a-01bb0274690a",
+    "title": "Full-time Software Engineer - Software Engineer II",
+    "active": true,
+    "date_updated": 1767629836,
+    "date_posted": 1767629836,
+    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/MA801-Marlborough-MA-1001-Boston-Post-Road-Building-2-Marlborough-MA-01752-USA/XMLNAME-2026-Fulltime---Raytheon-Software-Engineer-II----On-site-_01797124",
+    "locations": [
+      "Marlborough, MA",
+      "Tewksbury, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/RTX",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Master's"
+    ]
   }
 ]
