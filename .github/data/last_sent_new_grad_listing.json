@@ -74750,5 +74750,46 @@
       "Bachelor's",
       "Master's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Visa",
+    "id": "34def853-7ce7-47cd-a618-0b2e79d077e8",
+    "title": "Software Engineer",
+    "active": true,
+    "date_updated": 1767597289,
+    "date_posted": 1767597289,
+    "url": "https://jobs.smartrecruiters.com/Visa/744000101541210",
+    "locations": [
+      "Austin, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Visa",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Rolls-Royce",
+    "id": "f96b6db3-cc69-4291-88f0-bd1e85489909",
+    "title": "Launch into Control System Configuration Management",
+    "active": true,
+    "date_updated": 1767597738,
+    "date_posted": 1767597738,
+    "url": "https://rollsroyce.wd3.myworkdayjobs.com/Intern_Graduate/job/Indianapolis/XMLNAME--Launch--into-Control-System-Configuration-Management_JR6148423",
+    "locations": [
+      "Indianapolis, IN"
+    ],
+    "company_url": "https://simplify.jobs/c/Rolls-Royce",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
