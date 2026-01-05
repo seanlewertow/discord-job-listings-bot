@@ -74961,5 +74961,101 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Peraton",
+    "id": "d7bb659c-98c3-4499-be18-d5c2f5ede255",
+    "title": "Junior Software Engineer",
+    "active": true,
+    "date_updated": 1767630910,
+    "date_posted": 1767630910,
+    "url": "https://careers-peraton.icims.com/jobs/162357/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Dulles, VA"
+    ],
+    "company_url": "https://simplify.jobs/c/Peraton",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "TD Bank",
+    "id": "509e7ae3-a4c5-410f-99f6-ec2fc2df1882",
+    "title": "Senior Salesforce Analyst - Marketing",
+    "active": true,
+    "date_updated": 1767632874,
+    "date_posted": 1767632874,
+    "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Senior-Salesforce-Analyst--Marketing-_R_1432667",
+    "locations": [
+      "Toronto, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/TD-Bank",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Skyscanner",
+    "id": "2c4739c6-11c7-4cb3-af94-8ba4ae8bcaf1",
+    "title": "Software Engineering and Teaching Programme",
+    "active": true,
+    "date_updated": 1767630094,
+    "date_posted": 1767630094,
+    "url": "http://www.skyscanner.net/jobs/job/7496222?gh_jid=7496222",
+    "locations": [
+      "Edinburgh, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Skyscanner",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "ATCO",
+    "id": "2302abbf-eb98-410d-a248-5e6db18bfb1e",
+    "title": "Picarro Driver - Temp Labourer",
+    "active": true,
+    "date_updated": 1767630421,
+    "date_posted": 1767630421,
+    "url": "https://eezy.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/19314",
+    "locations": [
+      "Edmonton, AB, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/ATCO",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "AAR",
+    "id": "a9538e68-beab-48d7-9ad8-dab04833f8f2",
+    "title": "Technician - Assembly Test II",
+    "active": true,
+    "date_updated": 1767630085,
+    "date_posted": 1767630085,
+    "url": "https://aarcorp.taleo.net/careersection/aar_mobile/jobdetail.ftl?job=18004",
+    "locations": [
+      "United States"
+    ],
+    "company_url": "https://simplify.jobs/c/AAR",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
