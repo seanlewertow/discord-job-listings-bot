@@ -74708,5 +74708,26 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Visa",
+    "id": "2a371169-abbf-44b3-b904-83da4838425d",
+    "title": "Software Engineer",
+    "active": true,
+    "date_updated": 1767582427,
+    "date_posted": 1767582427,
+    "url": "https://jobs.smartrecruiters.com/Visa/744000101533055",
+    "locations": [
+      "Austin, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Visa",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
   }
 ]
