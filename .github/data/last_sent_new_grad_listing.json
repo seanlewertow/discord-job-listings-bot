@@ -75057,5 +75057,106 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Marvell",
+    "id": "097300c2-15f2-4b72-bf18-17b87115f01a",
+    "title": "AI Engineer",
+    "active": true,
+    "date_updated": 1767655072,
+    "date_posted": 1767655072,
+    "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/AI-Engineer_2503867-1",
+    "locations": [
+      "Santa Clara, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Marvell",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Ciena",
+    "id": "f7d4fb01-447c-4fe2-a99b-4c5910dcfb78",
+    "title": "Graduate Hardware Design Engineer",
+    "active": true,
+    "date_updated": 1767654352,
+    "date_posted": 1767654352,
+    "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Hardware-Design-Engineer---New-Grad_R029709",
+    "locations": [
+      "Ottawa, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Ciena",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Ciena",
+    "id": "82e05f49-590b-4a56-a837-ea37ba47c6cc",
+    "title": "New Grad Digital Verification Engineer - DAC/ADC DSP Correction",
+    "active": true,
+    "date_updated": 1767654475,
+    "date_posted": 1767654475,
+    "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/New-Grad--Digital-Verification-Engineer--DAC-ADC-DSP-Correction-_R029664",
+    "locations": [
+      "Ottawa, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Ciena",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Ciena",
+    "id": "1c2c6b29-dc1e-4a0d-a1c7-2b1d66f0191b",
+    "title": "Modem Hardware & Engineer New Grad",
+    "active": true,
+    "date_updated": 1767654328,
+    "date_posted": 1767654328,
+    "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Modem-Hardware---Engineer-New-Grad_R029462-1",
+    "locations": [
+      "Ottawa, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Ciena",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "Legrand NA",
+    "id": "eed76835-78b9-4d88-9622-de1188f8ad43",
+    "title": "Product Manager 1",
+    "active": true,
+    "date_updated": 1767655038,
+    "date_posted": 1767252248,
+    "url": "https://jobs-legrand.icims.com/jobs/9659/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Markham, ON, Canada",
+      "Richardson, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Legrand-NA",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
