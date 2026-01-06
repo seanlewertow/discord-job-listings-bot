@@ -75933,5 +75933,102 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "GE Aerospace",
+    "id": "e9ade502-116f-4fb5-8c1d-c5776ab8db8c",
+    "title": "Software Engineer - Test Systems",
+    "active": true,
+    "date_updated": 1767721738,
+    "date_posted": 1767721738,
+    "url": "https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Cheltenham/Software-Engineer--Test-Systems-_R5025590-1",
+    "locations": [
+      "Gloucester, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/GE-Aerospace",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Prolific",
+    "id": "6ec751ab-6e68-40ad-a25f-3361f60d841c",
+    "title": "AI Trainer - Advanced Urdu Fluency - UK",
+    "active": true,
+    "date_updated": 1767718361,
+    "date_posted": 1767718361,
+    "url": "https://job-boards.eu.greenhouse.io/prolific/jobs/4747728101",
+    "locations": [
+      "Remote in UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Prolific",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Zebra Technologies",
+    "id": "3347813c-fe68-41e2-85ba-d02f8aa932eb",
+    "title": "Repair Services Associate - Manufacturing",
+    "active": true,
+    "date_updated": 1767716474,
+    "date_posted": 1767716474,
+    "url": "https://zebra.eightfold.ai/careers/job/343636718610",
+    "locations": [
+      "Blackpool, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Zebra-Technologies",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "EquipmentShare",
+    "id": "6e595935-527c-44a9-a366-913709a38a0a",
+    "title": "MDM \u2013 Master Data Management - Parts Specialist",
+    "active": true,
+    "date_updated": 1767717637,
+    "date_posted": 1767717637,
+    "url": "https://www.equipmentshare.com/careers/openings/?gh_jid=7516161",
+    "locations": [
+      "Columbia, MO"
+    ],
+    "company_url": "https://simplify.jobs/c/Equipment-Share",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "MD"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Gore Mutual Insurance",
+    "id": "152e545f-d1b9-41a4-b250-ad1045ccba77",
+    "title": "Data Analyst",
+    "active": true,
+    "date_updated": 1767717696,
+    "date_posted": 1767717696,
+    "url": "https://job-boards.greenhouse.io/goremutualinsurance/jobs/4623933006",
+    "locations": [
+      "Cambridge, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Gore-Mutual-Insurance",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
   }
 ]
