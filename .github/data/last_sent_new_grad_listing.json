@@ -76051,5 +76051,107 @@
       "Bachelor's",
       "Master's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "L3Harris Technologies",
+    "id": "10c09515-8aaf-4e67-b346-b9616e4a8f81",
+    "title": "Manufacturing Technician B",
+    "active": true,
+    "date_updated": 1767741411,
+    "date_posted": 1767741411,
+    "url": "https://jobs.l3harris.com/job/Londonderry-Manufacturing-Technician-B-NH-03053/1353792500/?ats=successfactors",
+    "locations": [
+      "Merrimack, NH"
+    ],
+    "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Associate's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "NBCUniversal",
+    "id": "0f9a2a53-c6ae-4d7f-9705-1b7d703594ca",
+    "title": "Associate Engineer - Ride & Show Engineering - AVP','UK Project",
+    "active": true,
+    "date_updated": 1767741258,
+    "date_posted": 1767741258,
+    "url": "https://jobs.smartrecruiters.com/NBCUniversal3/744000101899303",
+    "locations": [
+      "Bedford, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/NBCUniversal",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "PhD"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "NBCUniversal",
+    "id": "06b3562b-060d-4b6d-8174-bd6358d05c8f",
+    "title": "Associate Data Engineer",
+    "active": true,
+    "date_updated": 1767741238,
+    "date_posted": 1767741238,
+    "url": "https://jobs.smartrecruiters.com/NBCUniversal3/744000101905506",
+    "locations": [
+      "Hammersmith, London, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/NBCUniversal",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Berkshire Hathaway Energy",
+    "id": "683f3d63-422f-4782-95b1-ea2fc697badf",
+    "title": "Engineer 1 \u2013 Senior Engineer \u2013 Senior Engineer 2 \u2013 Principal Engineer System Protection - Principal Engineer System Protection",
+    "active": true,
+    "date_updated": 1767740821,
+    "date_posted": 1767740821,
+    "url": "https://fa-essf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10003191",
+    "locations": [
+      "Davenport, IA"
+    ],
+    "company_url": "https://simplify.jobs/c/Berkshire-Hathaway-Energy",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Graphcore",
+    "id": "2b482c61-059b-4d91-b72e-b538eef56c4b",
+    "title": "Graduate Silicon Engineer",
+    "active": true,
+    "date_updated": 1767740789,
+    "date_posted": 1767740789,
+    "url": "https://job-boards.greenhouse.io/graphcore/jobs/8360506002",
+    "locations": [
+      "Cambridge, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Graphcore",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
