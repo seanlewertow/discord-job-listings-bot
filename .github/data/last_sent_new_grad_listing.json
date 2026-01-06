@@ -75385,5 +75385,45 @@
       "Master's",
       "PhD"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Temporal Technologies",
+    "id": "55daaeb9-b7e9-471d-83c3-bc88383657c7",
+    "title": "Software Engineer - Cloud Growth",
+    "active": true,
+    "date_updated": 1767672938,
+    "date_posted": 1767672938,
+    "url": "https://job-boards.greenhouse.io/temporaltechnologies/jobs/5015157007",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/Temporal-Technologies",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Northrop Grumman",
+    "id": "55380fe4-0842-4921-96b4-8b319e8aeb95",
+    "title": "Crew & Equipment Design Engineer",
+    "active": true,
+    "date_updated": 1767671924,
+    "date_posted": 1767671924,
+    "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/Crew---Equipment-Design-Engineer----Principal-Crew---Equipment-Design-Engineer_R10209077",
+    "locations": [
+      "Melbourne, FL"
+    ],
+    "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "PhD"
+    ]
   }
 ]
