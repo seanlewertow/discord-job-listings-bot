@@ -76030,5 +76030,26 @@
       "Bachelor's",
       "Master's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Northrop Grumman",
+    "id": "16f6b8a2-43d6-4318-bbd1-9fb2f1e20ec8",
+    "title": "Cyber Software Engineer - Aht",
+    "active": true,
+    "date_updated": 1767725305,
+    "date_posted": 1767725305,
+    "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-New-York-Rome/Cyber-Software-Engineer--AHT-_R10218198",
+    "locations": [
+      "Rome, NY"
+    ],
+    "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
   }
 ]
