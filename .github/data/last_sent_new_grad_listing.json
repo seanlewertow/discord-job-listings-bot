@@ -75483,5 +75483,47 @@
       "Master's",
       "Bootcamp"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Twitch",
+    "id": "b33e57c1-694a-4ac0-903a-7cb9ad7ef750",
+    "title": "Software Engineer 1",
+    "active": true,
+    "date_updated": 1767690966,
+    "date_posted": 1767690966,
+    "url": "https://job-boards.greenhouse.io/twitch/jobs/8360103002",
+    "locations": [
+      "Seattle, WA",
+      "SF"
+    ],
+    "company_url": "https://simplify.jobs/c/Twitch",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Twitch",
+    "id": "83ea4c70-03a4-43be-bfcc-4ea45a72a322",
+    "title": "Software Engineer 1",
+    "active": true,
+    "date_updated": 1767690965,
+    "date_posted": 1767690965,
+    "url": "https://job-boards.greenhouse.io/twitch/jobs/8334351002",
+    "locations": [
+      "Seattle, WA",
+      "SF"
+    ],
+    "company_url": "https://simplify.jobs/c/Twitch",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
