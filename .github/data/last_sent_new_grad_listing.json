@@ -75840,5 +75840,98 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "fba0b254-f2d9-4e88-bd6c-2fb36e0fa7da",
+    "title": "Trading Assistant",
+    "active": true,
+    "date_updated": 1767716236,
+    "date_posted": 1767716236,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400045009",
+    "locations": [
+      "Southampton, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "d3489850-cef6-4b19-a209-c7f1227b1bd5",
+    "title": "Trading Assistant",
+    "active": true,
+    "date_updated": 1767716240,
+    "date_posted": 1767716240,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400044982",
+    "locations": [
+      "Midlothian, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Marshall Wace",
+    "id": "fe62bc08-e95f-4f86-8e16-aef26de4338d",
+    "title": "Technology Graduate",
+    "active": true,
+    "date_updated": 1767717192,
+    "date_posted": 1767717192,
+    "url": "https://job-boards.greenhouse.io/mw-tech-grad/jobs/8119127002",
+    "locations": [
+      "London, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Marshall-Wace",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "ICF International",
+    "id": "e5eca099-da91-4fb7-98df-c686c92cedc6",
+    "title": "Energy and Climate Researcher",
+    "active": true,
+    "date_updated": 1767717380,
+    "date_posted": 1767717380,
+    "url": "https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Arlington-VA-VA31/Energy-and-Climate-Researcher_R2600017",
+    "locations": [
+      "Arlington, VA",
+      "Reston, VA"
+    ],
+    "company_url": "https://simplify.jobs/c/ICF-International",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "65454ccd-f6c9-447a-9c1c-ce0bbb8806fb",
+    "title": "Trading Assistant - Shift",
+    "active": true,
+    "date_updated": 1767716239,
+    "date_posted": 1767716239,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400044983",
+    "locations": [
+      "Exeter, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
