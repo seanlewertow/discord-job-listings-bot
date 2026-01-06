@@ -75762,5 +75762,83 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Teledyne",
+    "id": "4cbdc5b2-e777-4367-ad43-8135a563ef5b",
+    "title": "Fiber Optic Technician",
+    "active": true,
+    "date_updated": 1767718286,
+    "date_posted": 1767718286,
+    "url": "https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Daytona-Beach-FL-TDY/Fiber-Optic-Technician_REQ31090-1",
+    "locations": [
+      "Daytona Beach, FL"
+    ],
+    "company_url": "https://simplify.jobs/c/199b3c43-379a-408c-a6a8-980e79183038",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Ultra",
+    "id": "35d00b02-614e-4c07-a976-a53720b433bf",
+    "title": "Software Engineer 1",
+    "active": true,
+    "date_updated": 1767718370,
+    "date_posted": 1767718370,
+    "url": "https://ultra.wd3.myworkdayjobs.com/ultra-careers/job/Dartmouth-NS-Canada/Software-Engineer-I_REQ-11278",
+    "locations": [
+      "Dartmouth, NS, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Ultra",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "EquipmentShare",
+    "id": "3a672747-43ae-4488-b8bf-ff183d143b31",
+    "title": "Telematics Installer",
+    "active": true,
+    "date_updated": 1767717649,
+    "date_posted": 1767717649,
+    "url": "https://www.equipmentshare.com/careers/openings/?gh_jid=7515953",
+    "locations": [
+      "Providence, RI"
+    ],
+    "company_url": "https://simplify.jobs/c/Equipment-Share",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Certificate"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "RTX",
+    "id": "b65e2de0-6641-4ca3-9cba-533a4ad7ee46",
+    "title": "Graduate Systems Engineer - Weapons",
+    "active": true,
+    "date_updated": 1767716149,
+    "date_posted": 1767716149,
+    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/GBR01Harlow-Essex-Kao-One-Kao-Park-Harlow-CM17-9NA/Graduate-Systems-Engineer--GDP---September-2026-Start-_01813720-1",
+    "locations": [
+      "Harlow, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/RTX",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
