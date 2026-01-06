@@ -75666,5 +75666,101 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "04d6f313-3670-4969-a5e8-5b2671021eac",
+    "title": "Trading Assistant",
+    "active": true,
+    "date_updated": 1767716252,
+    "date_posted": 1767716252,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400044987",
+    "locations": [
+      "Midlothian, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Cisco",
+    "id": "f0e5f56a-c715-4562-88b1-22879a24a4c6",
+    "title": "AI Machine Learning Engineer 2",
+    "active": true,
+    "date_updated": 1767716316,
+    "date_posted": 1767716316,
+    "url": "https://careers.cisco.com/global/en/job/2001899",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Cisco",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Shiftsmart",
+    "id": "6b261c06-8ef5-4308-8e98-6436575ff4cf",
+    "title": "Early Career Software Engineer",
+    "active": true,
+    "date_updated": 1767716268,
+    "date_posted": 1767716268,
+    "url": "https://jobs.ashbyhq.com/shiftsmart/e965f643-121a-41b3-bb50-476ea9f78733/application",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Shiftsmart",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "1310f09b-62d4-460b-8165-0fa6f286d6d7",
+    "title": "Trading Assistant",
+    "active": true,
+    "date_updated": 1767716237,
+    "date_posted": 1767716237,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400044993",
+    "locations": [
+      "Edinburgh, UK",
+      "Midlothian, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Graphcore",
+    "id": "e5e156e6-813f-4ef7-a4ee-d6d5a7029f34",
+    "title": "Graduate Silicon Engineer",
+    "active": true,
+    "date_updated": 1767715746,
+    "date_posted": 1767715746,
+    "url": "https://job-boards.greenhouse.io/graphcore/jobs/8360495002",
+    "locations": [
+      "Bristol, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Graphcore",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
