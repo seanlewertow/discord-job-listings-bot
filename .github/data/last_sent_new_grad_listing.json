@@ -75525,5 +75525,65 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "Alpha FMC",
+    "id": "588611aa-5189-4fff-9570-48209f34c71d",
+    "title": "Junior Product Manager - Aiviq",
+    "active": true,
+    "date_updated": 1767692940,
+    "date_posted": 1765583557,
+    "url": "https://job-boards.greenhouse.io/alphafmcroles/jobs/8331745002",
+    "locations": [
+      "London, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Alpha-FMC",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Electronic Arts",
+    "id": "bea30ec6-3ac7-4dd8-b336-1f61d4ed0499",
+    "title": "UI Software Engineer",
+    "active": true,
+    "date_updated": 1767691873,
+    "date_posted": 1764285352,
+    "url": "https://jobs.ea.com/en_US/careers/JobDetail/UI-Software-Engineer-American-Football-SE1-TFT/211913",
+    "locations": [
+      "Victoria, BC, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Electronic-Arts",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "IXL Learning",
+    "id": "ae6a450e-b7ee-4b09-829b-124072ddbcab",
+    "title": "IXL Associate Product Manager",
+    "active": true,
+    "date_updated": 1767693114,
+    "date_posted": 1761529224,
+    "url": "https://www.ixl.com/company/jobs?gh_jid=8227077002",
+    "locations": [
+      "San Mateo, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/IXL-Learning",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
