@@ -75158,5 +75158,108 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Western Digital",
+    "id": "9f2e8671-08bb-40bd-8434-0a97cae8a0a5",
+    "title": "Developer 2 - Programming",
+    "active": true,
+    "date_updated": 1767656213,
+    "date_posted": 1767656213,
+    "url": "https://jobs.smartrecruiters.com/WesternDigital/744000101672270",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Western-Digital",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Allstate Insurance Company",
+    "id": "93d93761-8cf0-47fb-90bc-44e3da3b80ce",
+    "title": "ATS Technology Development Program",
+    "active": true,
+    "date_updated": 1767657084,
+    "date_posted": 1767657084,
+    "url": "https://allstate.wd5.myworkdayjobs.com/sourcing_event/job/USA---CA-Remote/XMLNAME-2026-ATS-Technology-Development-Program_R22128-1",
+    "locations": [
+      "California"
+    ],
+    "company_url": "https://simplify.jobs/c/Allstate-Insurance-Company",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Asset Living",
+    "id": "249055ef-8ba9-472e-acbe-137f8144a73a",
+    "title": "Investment Analyst",
+    "active": true,
+    "date_updated": 1767656975,
+    "date_posted": 1767656975,
+    "url": "https://job-boards.greenhouse.io/assetliving/jobs/5748612004",
+    "locations": [
+      "Phoenix, AZ"
+    ],
+    "company_url": "https://simplify.jobs/c/Asset-Living",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Markon",
+    "id": "a16521c9-53a0-488e-8a3d-b003d079f844",
+    "title": "Software Engineer Level 0",
+    "active": true,
+    "date_updated": 1767656077,
+    "date_posted": 1762819453,
+    "url": "https://careers-markon.icims.com/jobs/7960/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Odenton, MD"
+    ],
+    "company_url": "https://simplify.jobs/c/Markon",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Alamar Biosciences",
+    "id": "f7a0fc0c-a251-45b4-af67-89e455812d52",
+    "title": "Field Service Engineer - US East",
+    "active": true,
+    "date_updated": 1767656620,
+    "date_posted": 1762223265,
+    "url": "https://job-boards.greenhouse.io/alamarbiosciences/jobs/5696574004",
+    "locations": [
+      "Philadelphia, PA",
+      "Baltimore, MD"
+    ],
+    "company_url": "https://simplify.jobs/c/Alamar-Biosciences",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
