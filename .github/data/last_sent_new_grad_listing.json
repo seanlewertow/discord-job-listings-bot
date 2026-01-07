@@ -76779,5 +76779,102 @@
     "degrees": [
       "Associate's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Camping World",
+    "id": "88428818-ee1e-402c-94ed-5f60a34108dd",
+    "title": "Entry-Level Data Analyst",
+    "active": true,
+    "date_updated": 1767803468,
+    "date_posted": 1767803468,
+    "url": "https://campingworld.wd5.myworkdayjobs.com/en-US/Jobs/job/Chicago-IL/Entry-Level-Data-Analyst_26_00211",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/Camping-World",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "NTT Data",
+    "id": "ee0ae77d-d1fc-42a2-a351-20910e7ab987",
+    "title": "BPO Application Support Health",
+    "active": true,
+    "date_updated": 1767802768,
+    "date_posted": 1767802768,
+    "url": "https://careers-inc.nttdata.com/job/Louisville-BPO-Application-Support-Health-KY-40201/1354053200/?ats=successfactors",
+    "locations": [
+      "Louisville, KY"
+    ],
+    "company_url": "https://simplify.jobs/c/NTT-Data",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Oklahoma State Government",
+    "id": "5ee99584-87b1-4383-acf5-783192eaa8de",
+    "title": "Environmental Programs Specialist",
+    "active": true,
+    "date_updated": 1767805734,
+    "date_posted": 1767805734,
+    "url": "https://okgov.wd1.myworkdayjobs.com/okgovjobs/job/Oklahoma-County/Environmental-Programs-Specialist_JR54578",
+    "locations": [
+      "Oklahoma City, OK"
+    ],
+    "company_url": "https://simplify.jobs/c/Oklahoma-State-Government",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "PennState University",
+    "id": "16d8ad08-a38c-4b8b-82d0-d3f58058b0f2",
+    "title": "Research Assistant in Geomorphology-GEOSCI",
+    "active": true,
+    "date_updated": 1767805350,
+    "date_posted": 1767805350,
+    "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Research-Assistant-in-Geomorphology-GEOSCI_REQ_0000074720-1",
+    "locations": [
+      "State College, PA"
+    ],
+    "company_url": "https://simplify.jobs/c/Penn-State",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Argonne National Laboratory",
+    "id": "9f023b83-c3f2-4512-a6a7-4797a576f2d2",
+    "title": "Postbaccalaureate Appointee",
+    "active": true,
+    "date_updated": 1767805007,
+    "date_posted": 1767805007,
+    "url": "https://argonne.wd1.myworkdayjobs.com/Argonne_Careers/job/Lemont-IL-USA/Postbaccalaureate-Appointee_421600",
+    "locations": [
+      "Woodridge, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/Argonne-National-Laboratory",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
