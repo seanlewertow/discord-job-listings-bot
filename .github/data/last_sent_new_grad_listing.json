@@ -76153,5 +76153,105 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "L3Harris Technologies",
+    "id": "684c8243-8d73-4106-8ced-787221223504",
+    "title": "Associate \u2013 Software Engineer - Palm Bay - FL",
+    "active": true,
+    "date_updated": 1767742093,
+    "date_posted": 1767742093,
+    "url": "https://jobs.l3harris.com/job/Palm-Bay-Associate,-Software-Engineer-(Palm-Bay,-FL)-FL-32905/1325302600/?ats=successfactors",
+    "locations": [
+      "Palm Bay, FL"
+    ],
+    "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Peraton",
+    "id": "0041a923-9bd6-4b10-8f26-c9ce59dc4508",
+    "title": "Assembly Screening Technician - On the Job Training",
+    "active": true,
+    "date_updated": 1767742127,
+    "date_posted": 1767742127,
+    "url": "https://careers-peraton.icims.com/jobs/161590/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Topeka, KS"
+    ],
+    "company_url": "https://simplify.jobs/c/Peraton",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "General Dynamics UK",
+    "id": "9007a5cd-faa4-4a39-ac72-dcef4a69d27c",
+    "title": "Junior Systems Integration - Verification - & Validation Engineering Analyst",
+    "active": true,
+    "date_updated": 1767742376,
+    "date_posted": 1767742376,
+    "url": "https://jobs.smartrecruiters.com/GDMSI/744000101936447",
+    "locations": [
+      "Ottawa, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/General-Dynamics-UK",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "EquipmentShare",
+    "id": "d5bbd4bd-f40c-475c-806a-5a6feaa9649d",
+    "title": "Telematics Installer - Telematics",
+    "active": true,
+    "date_updated": 1767742374,
+    "date_posted": 1767742374,
+    "url": "https://www.equipmentshare.com/careers/openings/?gh_jid=7517204",
+    "locations": [
+      "Huntsville, AL"
+    ],
+    "company_url": "https://simplify.jobs/c/Equipment-Share",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Certificate"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Amentum",
+    "id": "ae5509c4-6185-44c5-a39f-3df3ea196a87",
+    "title": "Entry Level Software Engineer",
+    "active": true,
+    "date_updated": 1767742356,
+    "date_posted": 1767742356,
+    "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Fredericksburg/Entry-Level-Software-Engineer_R0151272",
+    "locations": [
+      "Fredericksburg, VA",
+      "Dahlgren, VA"
+    ],
+    "company_url": "https://simplify.jobs/c/Amentum",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
