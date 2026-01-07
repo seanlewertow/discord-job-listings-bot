@@ -76449,5 +76449,25 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "General Dynamics",
+    "id": "c2a22957-0e50-4f7d-beed-2cd97e7dc74d",
+    "title": "Associate Azure Data Engineer",
+    "active": true,
+    "date_updated": 1767782816,
+    "date_posted": 1766532478,
+    "url": "https://jobs.jetaviation.com/job/West-Palm-Beach-Associate-Azure-Data-Engineer-FL-33409/1349081857/?ats=successfactors",
+    "locations": [
+      "West Palm Beach, FL"
+    ],
+    "company_url": "https://simplify.jobs/c/General-Dynamics",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
