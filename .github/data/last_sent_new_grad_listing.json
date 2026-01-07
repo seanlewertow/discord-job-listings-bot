@@ -76356,5 +76356,41 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Baseten",
+    "id": "e4b1c093-8deb-43f0-a25a-c3b74d8db7c1",
+    "title": "Software Engineer - Model Performance Tooling",
+    "active": true,
+    "date_updated": 1767769857,
+    "date_posted": 1767769857,
+    "url": "https://jobs.ashbyhq.com/baseten/75d7beac-0298-40fa-b206-2e0c0c08a64f/application",
+    "locations": [
+      "Vancouver, BC, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Baseten",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Amazon",
+    "id": "0df5cb1d-8ceb-47ab-baf2-2f2f2ad4c03f",
+    "title": "Software Engineer 1 - Builder",
+    "active": true,
+    "date_updated": 1767769724,
+    "date_posted": 1767769724,
+    "url": "https://amazon.jobs/en/jobs/3154041/software-engineer-i-builder",
+    "locations": [
+      "SF"
+    ],
+    "company_url": "https://simplify.jobs/c/Amazon",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
