@@ -76253,5 +76253,108 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "KLA Corporation",
+    "id": "4635b284-5582-45da-87e3-8c698f18ec62",
+    "title": "Analytical Chemist",
+    "active": true,
+    "date_updated": 1767751869,
+    "date_posted": 1767751869,
+    "url": "https://kla.wd1.myworkdayjobs.com/search/job/Totowa-NJ/Analytical-Chemist_2533379-1",
+    "locations": [
+      "Paterson, NJ"
+    ],
+    "company_url": "https://simplify.jobs/c/KLA-Corporation",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "PhD"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Stryker",
+    "id": "37528336-11b2-4c57-9cd8-2f1f5e3f8bbd",
+    "title": "Associate Field Service Representative",
+    "active": true,
+    "date_updated": 1767752790,
+    "date_posted": 1767752790,
+    "url": "https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Vancouver-Canada/Associate-Field-Service-Representative--Vancouver_R555978",
+    "locations": [
+      "Vancouver, BC, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Stryker",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "KCI Technologies",
+    "id": "ad34f0c3-a2a1-474a-bd45-46a2323f2935",
+    "title": "Solutions Analyst - Enterprise Asset Management - Eam",
+    "active": true,
+    "date_updated": 1767753030,
+    "date_posted": 1757614949,
+    "url": "https://careers-kci.icims.com/jobs/7323/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Nashville, TN",
+      "Sparks, MD",
+      "Greenville, SC"
+    ],
+    "company_url": "https://simplify.jobs/c/KCI-Technologies",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "NVIDIA",
+    "id": "525436ab-f52b-47c1-b1e5-5ce600a4652e",
+    "title": "ASIC Verification and Infrastructure Engineer \u2013 New College Grad 2026",
+    "active": true,
+    "date_updated": 1767753339,
+    "date_posted": 1767753339,
+    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/ASIC-Verification-and-Infrastructure-Engineer---New-College-Grad-2026_JR2010195",
+    "locations": [
+      "Austin, TX",
+      "Santa Clara, CA",
+      "United States"
+    ],
+    "company_url": "https://simplify.jobs/c/NVIDIA",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Abbott",
+    "id": "09e5098e-f47a-4b0b-9c63-2b8f63fb8795",
+    "title": "Senior Reliability Technician",
+    "active": true,
+    "date_updated": 1767753998,
+    "date_posted": 1767753998,
+    "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers2/job/United-States---California---Sylmar/Senior-Reliability-Technician_31137557",
+    "locations": [
+      "Pacoima, LA"
+    ],
+    "company_url": "https://simplify.jobs/c/Abbott",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
