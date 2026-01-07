@@ -76682,5 +76682,102 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "EXL",
+    "id": "d85e2b53-23d6-4696-b630-7213b121c9b6",
+    "title": "Healthcare Analyst",
+    "active": true,
+    "date_updated": 1767803109,
+    "date_posted": 1767803109,
+    "url": "https://fa-ewjt-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/8485",
+    "locations": [
+      "United States"
+    ],
+    "company_url": "https://simplify.jobs/c/EXL",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "NTT Data",
+    "id": "b157ec5e-8bfb-4c7a-a505-a518e852c6d4",
+    "title": "BPO-Application Support-Health",
+    "active": true,
+    "date_updated": 1767802766,
+    "date_posted": 1767802766,
+    "url": "https://careers-inc.nttdata.com/job/Louisville-BPO-Application-Support-Health-KY-40201/1354060400/?ats=successfactors",
+    "locations": [
+      "Louisville, KY"
+    ],
+    "company_url": "https://simplify.jobs/c/NTT-Data",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "RTX",
+    "id": "6d1bf9a2-b42f-4e19-bf6d-76bbfab551e9",
+    "title": "Software Engineer 1",
+    "active": true,
+    "date_updated": 1767802657,
+    "date_posted": 1767802657,
+    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/HMN01-SIS-Sensors---Burnsville-14300-Judicial-Rd-Burnsville-MN-55306-USA/Software-Engineer-I--Hybrid-_01810300",
+    "locations": [
+      "Burnsville, MN"
+    ],
+    "company_url": "https://simplify.jobs/c/RTX",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "26ed306c-e646-4f71-922c-2b29cdc6c411",
+    "title": "Trading Assistant",
+    "active": true,
+    "date_updated": 1767802624,
+    "date_posted": 1767802624,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400045144",
+    "locations": [
+      "Edinburgh, UK",
+      "Midlothian, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Persistent Systems",
+    "id": "ade963ce-7b33-4f8e-b0a1-a61767c4e527",
+    "title": "Assembly Technician",
+    "active": true,
+    "date_updated": 1767804429,
+    "date_posted": 1766013985,
+    "url": "https://careers-persistentsystems.icims.com/jobs/2130/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Persistent-Systems",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Associate's"
+    ]
   }
 ]
