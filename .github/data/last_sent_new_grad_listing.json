@@ -76469,5 +76469,23 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Sainsbury's",
+    "id": "071aeb93-c00d-4c8a-b6d2-aceeb8f4999e",
+    "title": "Associate Analyst",
+    "active": true,
+    "date_updated": 1767781686,
+    "date_posted": 1767781686,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400045079",
+    "locations": [
+      "London, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
