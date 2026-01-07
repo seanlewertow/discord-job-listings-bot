@@ -76935,5 +76935,107 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Palo Alto Networks",
+    "id": "b43a2ef0-47b0-4ef7-ba0e-11a38d74663c",
+    "title": "Senior Software Engineer in Test Prisma Access - AI Automation Engineer",
+    "active": true,
+    "date_updated": 1767827959,
+    "date_posted": 1767827959,
+    "url": "https://jobs.smartrecruiters.com/PaloAltoNetworks2/744000102177454",
+    "locations": [
+      "Santa Clara, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Palo-Alto-Networks",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "CACI",
+    "id": "ec06a232-66e0-4d7c-b836-03d14992145d",
+    "title": "Systems Engineer",
+    "active": true,
+    "date_updated": 1767827683,
+    "date_posted": 1767827683,
+    "url": "https://caci.wd1.myworkdayjobs.com/external/job/US-CO-Colorado-Springs/Systems-Engineer_319617",
+    "locations": [
+      "Colorado Springs, CO"
+    ],
+    "company_url": "https://simplify.jobs/c/CACI",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "DRW",
+    "id": "ac762f64-3d78-4924-a744-2cae79702ede",
+    "title": "Prediction Markets Trader",
+    "active": true,
+    "date_updated": 1767827694,
+    "date_posted": 1767827694,
+    "url": "https://job-boards.greenhouse.io/drweng/jobs/7520816",
+    "locations": [
+      "United States"
+    ],
+    "company_url": "https://simplify.jobs/c/DRW",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "MBA",
+      "PhD"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Sandisk",
+    "id": "21064d89-aef6-48cd-ba8b-0b9e9c3aea47",
+    "title": "Field Application Engineer \u2013 New College Graduate - Ncg",
+    "active": true,
+    "date_updated": 1767827590,
+    "date_posted": 1767827590,
+    "url": "https://jobs.smartrecruiters.com/Sandisk/744000102169088",
+    "locations": [
+      "Milpitas, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Sandisk",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Kodak",
+    "id": "0eb54acc-f9cc-4bc2-95ce-5900e157c370",
+    "title": "Opto-Mechanical Technician",
+    "active": true,
+    "date_updated": 1767827024,
+    "date_posted": 1767827024,
+    "url": "https://careers.kodak.com/job/Burnaby-Opto-Mechanical-Technician-Brit-V5G-4P5/1354185400/?ats=successfactors",
+    "locations": [
+      "Burnaby, BC, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Kodak",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
