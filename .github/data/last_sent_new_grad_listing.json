@@ -76589,5 +76589,98 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "837d42d1-57f9-4b13-9259-006bfffc6263",
+    "title": "Trading Assistant",
+    "active": true,
+    "date_updated": 1767802629,
+    "date_posted": 1767802629,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400045143",
+    "locations": [
+      "Edinburgh, UK",
+      "Midlothian, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "RTX",
+    "id": "5273f50b-04b2-4229-836d-2e77fac32f2d",
+    "title": "Software Engineer 1",
+    "active": true,
+    "date_updated": 1767802662,
+    "date_posted": 1767802662,
+    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/HIA32-Cedar-Rapids-IA-400-Collins-Rd-NE---Cedar-Rapids-IA-52498-0505-USA/Software-Engineer-I--Onsite-_01814829",
+    "locations": [
+      "Cedar Rapids, IA"
+    ],
+    "company_url": "https://simplify.jobs/c/RTX",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "4291aeaf-e36b-40d5-8c86-be4c57340ee3",
+    "title": "Trading Assistant",
+    "active": true,
+    "date_updated": 1767802625,
+    "date_posted": 1767802625,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400045134",
+    "locations": [
+      "United Kingdom"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "0d13be02-b0c8-4a18-a52b-4e42f4355fe8",
+    "title": "Trading Assistant",
+    "active": true,
+    "date_updated": 1767802626,
+    "date_posted": 1767802626,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400045159",
+    "locations": [
+      "Aylesbury, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "07fa795b-1f8c-4d57-99f9-f009f231fd51",
+    "title": "Trading Assistant",
+    "active": true,
+    "date_updated": 1767802628,
+    "date_posted": 1767802628,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400045154",
+    "locations": [
+      "Ipswich, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
