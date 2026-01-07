@@ -76487,5 +76487,67 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "155df94a-cf04-4a67-a1d4-60e2b3559600",
+    "title": "Trading Assistant",
+    "active": true,
+    "date_updated": 1767781673,
+    "date_posted": 1767781673,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400045082",
+    "locations": [
+      "Glasgow, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "The Boeing Company",
+    "id": "e406c7bd-fbbb-4212-a25f-ad2003f3534e",
+    "title": "Spacecraft Software Engineer - Early-Career - Millennium Space Systems",
+    "active": true,
+    "date_updated": 1767785955,
+    "date_posted": 1767407973,
+    "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---El-Segundo-CA/Spacecraft-Software-Engineer--Early-Career----Millennium-Space-Systems_JR2026489982",
+    "locations": [
+      "El Segundo, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Boeing",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Uline",
+    "id": "aac75e8c-6c78-46e0-b98d-9d0b8b5e0483",
+    "title": "Business Systems Analyst - International",
+    "active": true,
+    "date_updated": 1767787407,
+    "date_posted": 1767787407,
+    "url": "https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/Business-Systems-Analyst---International_R260243-2",
+    "locations": [
+      "Waukegan, IL",
+      "Milwaukee, WI",
+      "Pleasant Prairie, WI",
+      "Morton Grove, IL",
+      "Kenosha, WI"
+    ],
+    "company_url": "https://simplify.jobs/c/Uline",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
