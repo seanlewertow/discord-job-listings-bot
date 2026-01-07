@@ -76876,5 +76876,64 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "AT&T",
+    "id": "f2c8eb2c-db1c-45a9-8994-0afbc9118633",
+    "title": "Installation Technician",
+    "active": false,
+    "date_updated": 1767803659,
+    "date_posted": 1767803659,
+    "url": "https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Hurst-Texas/Installation-Technician_R-93475",
+    "locations": [
+      "Fort Worth, TX",
+      "Hurst, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/ATT",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "GlobalFoundries",
+    "id": "a2f59ab5-5b84-43ec-973a-47e1af286568",
+    "title": "Manufacturing Operator",
+    "active": true,
+    "date_updated": 1767804615,
+    "date_posted": 1767804615,
+    "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/Essex-Junction/Manufacturing-Operators---Up-To--5-000-Sign-On-Bonus-_JR-2504865",
+    "locations": [
+      "Burlington, VT"
+    ],
+    "company_url": "https://simplify.jobs/c/GlobalFoundries",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Stellant Systems",
+    "id": "b501c0b2-2c2e-4474-afab-40056fb0e544",
+    "title": "Fitter",
+    "active": true,
+    "date_updated": 1767803616,
+    "date_posted": 1766790732,
+    "url": "https://careers-stellantsystems.icims.com/jobs/1983/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Pennsylvania"
+    ],
+    "company_url": "https://simplify.jobs/c/Stellant-Systems",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
