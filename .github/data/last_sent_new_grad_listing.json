@@ -77604,5 +77604,23 @@
       "Master's",
       "PhD"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Dover",
+    "id": "53ea6526-0cb6-45c8-a95c-515a41c04db7",
+    "title": "Data Engineer",
+    "active": true,
+    "date_updated": 1767896475,
+    "date_posted": 1767896475,
+    "url": "https://careers.dovercorporation.com/job/Skelmersdale-Engineer,-Data/1281405901/?ats=successfactors",
+    "locations": [
+      "Liverpool, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/511130a6-b974-4ccb-a78b-14049de141bb",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
