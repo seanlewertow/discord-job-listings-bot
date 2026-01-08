@@ -77404,5 +77404,25 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Brookhaven Lab",
+    "id": "eb9cbf14-5636-4659-9233-694d46d84c01",
+    "title": "Postdoctoral Research Associate - Computational Imaging and Data Science",
+    "active": true,
+    "date_updated": 1767882389,
+    "date_posted": 1765637996,
+    "url": "https://bnl.wd1.myworkdayjobs.com/externa/job/Upton-NY/Postdoctoral-Research-Associate---Computational-Imaging-and-Data-Science-_JR102004-1",
+    "locations": [
+      "Shirley, NY"
+    ],
+    "company_url": "https://simplify.jobs/c/Brookhaven-Lab",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "PhD"
+    ]
   }
 ]
