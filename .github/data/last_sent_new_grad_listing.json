@@ -77037,5 +77037,101 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Western Digital",
+    "id": "d41ec038-efc7-465f-be34-3e294e02c4ca",
+    "title": "Early Career Talent - Data Engineer",
+    "active": true,
+    "date_updated": 1767830111,
+    "date_posted": 1767830111,
+    "url": "https://jobs.smartrecruiters.com/WesternDigital/744000102169342",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Western-Digital",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Dave & Busters",
+    "id": "c6b2af3e-ed84-4876-b4cb-505769465d14",
+    "title": "Games Support Technician",
+    "active": true,
+    "date_updated": 1767832170,
+    "date_posted": 1767832170,
+    "url": "https://daveandbusters.wd1.myworkdayjobs.com/dave_and_busters_careers/job/Long-Beach-CA/Games-Support-Technician_R-1007413",
+    "locations": [
+      "Long Beach, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Dave-And-Busters",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Perficient",
+    "id": "a16668c0-c10d-4441-a131-9a789d7f3690",
+    "title": "Associate Technical Consultant - ServiceNow",
+    "active": true,
+    "date_updated": 1767828523,
+    "date_posted": 1767828523,
+    "url": "https://fa-etqd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2025003905",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/Perficient",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Critical Mass",
+    "id": "f75e7f94-287f-484d-a677-65a246ac43a1",
+    "title": "Marketing Science Associate Analyst",
+    "active": true,
+    "date_updated": 1767829640,
+    "date_posted": 1767829640,
+    "url": "https://job-boards.greenhouse.io/criticalmass/jobs/7354905",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/Critical-Mass",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Jones Lang LaSalle (JLL)",
+    "id": "56dae319-a3db-4159-84a0-fbce8e508bfa",
+    "title": "Research Analyst - Pnw",
+    "active": true,
+    "date_updated": 1767833880,
+    "date_posted": 1767833880,
+    "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Seattle-WA/Research-Analyst--PNW_REQ451478",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "company_url": "https://simplify.jobs/c/Jones-Lang-LaSalle",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
