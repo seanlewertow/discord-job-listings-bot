@@ -77330,5 +77330,79 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "BAE Systems",
+    "id": "6c68abc8-66ca-4fbb-a23d-25cc38873497",
+    "title": "Engineering Assistant",
+    "active": true,
+    "date_updated": 1767867170,
+    "date_posted": 1767867170,
+    "url": "https://baesystems.taleo.net/careersection/2/jobdetail.ftl?job=00132408",
+    "locations": [
+      "Blackpool, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/BAE-Systems",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Dave & Busters",
+    "id": "98487eb4-6510-4c78-b022-4d922c6bca6b",
+    "title": "Support Technician",
+    "active": true,
+    "date_updated": 1767870554,
+    "date_posted": 1765640842,
+    "url": "https://daveandbusters.wd1.myworkdayjobs.com/dave_and_busters_careers/job/Carlsbad-CA/Support-Technician_R-1006185",
+    "locations": [
+      "Carlsbad, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Dave-And-Busters",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Brookhaven Lab",
+    "id": "8ce43adc-3849-4dee-b2f4-91c7d3bd71ec",
+    "title": "Research Associate in Theoretical and Computational Condensed Matter Physics",
+    "active": true,
+    "date_updated": 1767868712,
+    "date_posted": 1763912637,
+    "url": "https://bnl.wd1.myworkdayjobs.com/externa/job/Upton-NY/Research-Associate-in-Theoretical-and-Computational-Condensed-Matter-Physics_JR102043",
+    "locations": [
+      "Shirley, NY"
+    ],
+    "company_url": "https://simplify.jobs/c/Brookhaven-Lab",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "PhD"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Stony Brook Medicine University Physicians",
+    "id": "f0d5af3f-ab4d-4767-9b11-843f39e6945f",
+    "title": "Medical Assistant",
+    "active": true,
+    "date_updated": 1767869805,
+    "date_posted": 1757631471,
+    "url": "https://careers-stonybrookmedicinecpmp.icims.com/jobs/4463/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Morton Grove, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/Stony-Brook-Medicine-University-Physicians",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
