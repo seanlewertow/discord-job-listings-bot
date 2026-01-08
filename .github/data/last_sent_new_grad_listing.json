@@ -77232,5 +77232,25 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "University of Southern California",
+    "id": "7356a192-13d0-44cf-b52a-b3d57a19fcbf",
+    "title": "Business Data Analyst",
+    "active": true,
+    "date_updated": 1767855750,
+    "date_posted": 1767855750,
+    "url": "https://usc.wd5.myworkdayjobs.com/ExternalUSCCareers/job/Los-Angeles-CA/Business-Data-Analyst_REQ20170647-1",
+    "locations": [
+      "LA"
+    ],
+    "company_url": "https://simplify.jobs/c/University-Of-Southern-California",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
