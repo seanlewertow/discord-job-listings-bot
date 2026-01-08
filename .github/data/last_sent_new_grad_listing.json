@@ -77273,5 +77273,44 @@
       "Bachelor's",
       "Master's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Marigold",
+    "id": "9416eb88-37e4-4b63-bd54-1a50e5adb170",
+    "title": "Software Engineer",
+    "active": true,
+    "date_updated": 1767866235,
+    "date_posted": 1767866235,
+    "url": "https://campaignmonitor.wd5.myworkdayjobs.com/marigold/job/Remote-United-States/Software-Engineer_R2356",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/Marigold",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Infleqtion",
+    "id": "6e04e378-3834-47ef-8725-b4ac6dd92fd4",
+    "title": "Quantum Software Engineer",
+    "active": true,
+    "date_updated": 1767866256,
+    "date_posted": 1765301769,
+    "url": "https://apply.workable.com/coldquanta/j/00EC28A7E5/apply",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/Infleqtion",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "PhD"
+    ]
   }
 ]
