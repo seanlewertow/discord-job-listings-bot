@@ -77133,5 +77133,104 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "Applied Materials",
+    "id": "557a8a2a-2148-4734-81ad-b5720674e1ef",
+    "title": "2026 NCG-Technical Product Marketing Manager - Doctorate - Santa Clara, CA",
+    "active": true,
+    "date_updated": 1767840507,
+    "date_posted": 1767840507,
+    "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/XMLNAME-2026-NCG--Technical-Product-Marketing-Manager---Doctorate--Santa-Clara--CA-_R2520002",
+    "locations": [
+      "Santa Clara, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Applied-Materials",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Master's",
+      "PhD"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Children's Hospital of Philadelphia",
+    "id": "ad20a3bc-7f7a-4895-a420-737de7dd1116",
+    "title": "Research Data Analyst 1",
+    "active": true,
+    "date_updated": 1767840440,
+    "date_posted": 1767840440,
+    "url": "https://chop.wd5.myworkdayjobs.com/CHOPExternalCareers/job/Philadelphia-Campus--Roberts-Center-for-Pediatric-Research/Research-Data-Analyst-I_1021666",
+    "locations": [
+      "Philadelphia, PA"
+    ],
+    "company_url": "https://simplify.jobs/c/Childrens-Hospital-Of-Philadelphia",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "IXL Learning",
+    "id": "85a47d97-03ca-4b2c-8361-1dc4681afc87",
+    "title": "Software Engineer",
+    "active": true,
+    "date_updated": 1767840355,
+    "date_posted": 1767840355,
+    "url": "https://www.ixl.com/company/jobs?gh_jid=8364780002",
+    "locations": [
+      "Raleigh, NC"
+    ],
+    "company_url": "https://simplify.jobs/c/IXL-Learning",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "Quantifind",
+    "id": "aa7572ba-4d3e-4403-9a7a-be1290d585cb",
+    "title": "Associate Product Marketing Manager",
+    "active": true,
+    "date_updated": 1767839249,
+    "date_posted": 1767839249,
+    "url": "https://www.quantifind.com/open-positions/?gh_jid=7522110",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Quantifind",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Wells Fargo",
+    "id": "78dd5814-8024-4356-bd74-2ae8f5f09026",
+    "title": "Business Execution Associate - Platform Trading Coaching",
+    "active": true,
+    "date_updated": 1767838610,
+    "date_posted": 1767838610,
+    "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/SAINT-LOUIS-MO/Business-Execution-Associate---Platform-Trading-Coaching_R-512496-1",
+    "locations": [
+      "Charlotte, NC",
+      "St. Louis, MO"
+    ],
+    "company_url": "https://simplify.jobs/c/Wells-Fargo",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
