@@ -77703,5 +77703,108 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Rogers Behavioral Health",
+    "id": "f691dec6-bb15-47ac-9772-96a97c4b22f8",
+    "title": "Therapist-IOP/PHP",
+    "active": true,
+    "date_updated": 1767899251,
+    "date_posted": 1767899251,
+    "url": "https://rogersbh.wd1.myworkdayjobs.com/rbhcareer/job/Nashville-Clinic-Nashville-TN/Therapist--IOP-PHP_R5976",
+    "locations": [
+      "Nashville, TN"
+    ],
+    "company_url": "https://simplify.jobs/c/b92a810e-00da-4d83-9a36-b7d609699d59",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "The Boeing Company",
+    "id": "384025fa-7dad-4e4c-b929-2a6d569a16fe",
+    "title": "Digital Services & Analytics Graduate \u2013 Graduate Rotational Programme",
+    "active": true,
+    "date_updated": 1767899391,
+    "date_posted": 1767899391,
+    "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/GBR---Bristol-UK/Digital-Services---Analytics-Graduate---Graduate-Rotational-Programme-2026_JR2026490808",
+    "locations": [
+      "Milton Keynes, UK",
+      "Bristol, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Boeing",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Motorola",
+    "id": "14966d9b-3cee-4dff-a28c-61248b1a2555",
+    "title": "IOS developer",
+    "active": true,
+    "date_updated": 1767899408,
+    "date_posted": 1767899408,
+    "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/London-UK/iOS-developer_R60900",
+    "locations": [
+      "London, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/MotorolaSolutions",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Valmet",
+    "id": "eccb0b7e-8a15-4414-a4fa-74438517b119",
+    "title": "Field Service Engineer",
+    "active": true,
+    "date_updated": 1767898815,
+    "date_posted": 1767898815,
+    "url": "https://valmet.wd103.myworkdayjobs.com/external/job/Longview-WA/Field-Service-Engineer_R50887-1",
+    "locations": [
+      "Seattle, WA",
+      "Longview, WA",
+      "Portland, OR"
+    ],
+    "company_url": "https://simplify.jobs/c/Valmet",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Certificate"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "LSEG",
+    "id": "3f4e6966-8f1b-47f1-829d-336fdbe6aed6",
+    "title": "Associate Product Manager",
+    "active": true,
+    "date_updated": 1767898721,
+    "date_posted": 1767898721,
+    "url": "https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Buffalo---Fountain-Plaza/Associate-Product-Manager_R0113701-1",
+    "locations": [
+      "Buffalo, NY"
+    ],
+    "company_url": "https://simplify.jobs/c/LSEG",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
