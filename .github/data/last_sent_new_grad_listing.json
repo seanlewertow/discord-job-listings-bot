@@ -78749,5 +78749,25 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Northrop Grumman",
+    "id": "11993d4e-844c-42c6-8739-921e0d18371f",
+    "title": "Software Engineer - Aht",
+    "active": true,
+    "date_updated": 1767980354,
+    "date_posted": 1767980354,
+    "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-New-York-Rome/Software-Engineer--AHT-_R10218776",
+    "locations": [
+      "Rome, NY"
+    ],
+    "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
