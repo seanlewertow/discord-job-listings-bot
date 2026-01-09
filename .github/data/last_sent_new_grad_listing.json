@@ -77898,5 +77898,104 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "General Dynamics Mission Systems",
+    "id": "af8ad8d0-774c-4a07-8289-53ef30990ca7",
+    "title": "ASIC FPGA Engineer \u2013 Entry Level",
+    "active": true,
+    "date_updated": 1767915301,
+    "date_posted": 1765902081,
+    "url": "https://careers-gdms.icims.com/jobs/70009/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Bloomington, MN"
+    ],
+    "company_url": "https://simplify.jobs/c/General-Dynamics-Mission-Systems",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Perpay",
+    "id": "fd094936-c2bb-4f59-85eb-b364f62e31cd",
+    "title": "Junior Strategic Analyst - Super Day",
+    "active": true,
+    "date_updated": 1767914851,
+    "date_posted": 1762472994,
+    "url": "https://job-boards.greenhouse.io/perpay/jobs/4969039007",
+    "locations": [
+      "Philadelphia, PA"
+    ],
+    "company_url": "https://simplify.jobs/c/Perpay",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "LG Electronics",
+    "id": "338b492c-d6c6-465c-9c66-da908e01ff68",
+    "title": "Bilingual Material Handling Automation Specialist - Korean & English",
+    "active": true,
+    "date_updated": 1767915414,
+    "date_posted": 1759373588,
+    "url": "https://job-boards.greenhouse.io/lgelectronics/jobs/4940087008",
+    "locations": [
+      "Clarksville, TN"
+    ],
+    "company_url": "https://simplify.jobs/c/LG-Electronics",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "LexisNexis Risk Solutions",
+    "id": "62294646-564b-46c8-84ce-f08688e196b8",
+    "title": "Software Engineer 2",
+    "active": true,
+    "date_updated": 1767918365,
+    "date_posted": 1767918365,
+    "url": "https://relx.wd3.myworkdayjobs.com/en-US/LexisNexisLegal/job/Toronto/Software-Engineer-II_R107097",
+    "locations": [
+      "Toronto, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/LexisNexis-Risk-Solutions",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "Trepp",
+    "id": "8727eaac-79c3-4675-817b-18dff2d79733",
+    "title": "Client Success Analyst",
+    "active": true,
+    "date_updated": 1767920657,
+    "date_posted": 1767920657,
+    "url": "https://www.trepp.com/joining-trepp?gh_jid=7524006",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Trepp",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
