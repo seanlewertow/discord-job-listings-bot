@@ -78769,5 +78769,61 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "a3869b21-cf5f-486e-a83e-56c4663b5151",
+    "title": "Trading Assistant",
+    "active": true,
+    "date_updated": 1768000904,
+    "date_posted": 1768000904,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400045435",
+    "locations": [
+      "Portadown, Craigavon, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Amazon",
+    "id": "7193690a-a722-4728-ae3a-f0a5d97117c4",
+    "title": "Engineering Operations Technician",
+    "active": true,
+    "date_updated": 1768000165,
+    "date_posted": 1768000165,
+    "url": "https://amazon.jobs/en/jobs/3153274/engineering-operations-technician",
+    "locations": [
+      "Reston, VA"
+    ],
+    "company_url": "https://simplify.jobs/c/Amazon",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Huntington Bancshares",
+    "id": "4c25d13d-a6c3-4c8d-9c56-827631cf89c8",
+    "title": "Full Stack Developer",
+    "active": true,
+    "date_updated": 1768000207,
+    "date_posted": 1768000207,
+    "url": "https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/Full-Stack-Developer_R0068238",
+    "locations": [
+      "Columbus, OH"
+    ],
+    "company_url": "https://simplify.jobs/c/Huntington-Bancshares",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
