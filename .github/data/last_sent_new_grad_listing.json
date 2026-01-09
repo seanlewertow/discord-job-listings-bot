@@ -78200,5 +78200,41 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Southwest Airlines",
+    "id": "c61f2f4b-059a-4fbb-acac-e4bfd48bd433",
+    "title": "Associate Data Engineer - Direct College Hire",
+    "active": true,
+    "date_updated": 1767942911,
+    "date_posted": 1767942911,
+    "url": "https://swa.wd1.myworkdayjobs.com/external/job/TX-Dallas/Associate-Data-Engineer---Direct-College-Hire_R-2025-62511",
+    "locations": [
+      "Dallas, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Southwest-Airlines",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Huntington Ingalls Industries",
+    "id": "341d761e-a217-4d44-92bc-05da25d15980",
+    "title": "Engineer Software 1",
+    "active": true,
+    "date_updated": 1767942456,
+    "date_posted": 1767942456,
+    "url": "https://careers.huntingtoningalls.com/job/Newport-News-ENGINEER-SOFTWARE-1-Virg/1354646300/?ats=successfactors",
+    "locations": [
+      "Newport News, VA"
+    ],
+    "company_url": "https://simplify.jobs/c/Huntington-Ingalls-Industries",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
