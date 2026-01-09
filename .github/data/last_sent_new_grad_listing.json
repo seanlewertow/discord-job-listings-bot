@@ -77997,5 +77997,107 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Intact",
+    "id": "30cb3f06-7507-4f21-b121-1f6b711aea26",
+    "title": "Analyst \u2013 Business Intelligence",
+    "active": true,
+    "date_updated": 1767924417,
+    "date_posted": 1767924417,
+    "url": "https://intactfc.wd3.myworkdayjobs.com/en-US/intactfc/job/St-Johns-Newfoundland-and-Labrador-CAN/Analyst--Business-Intelligence_R151079",
+    "locations": [
+      "Montreal, QC, Canada",
+      "Laval, QC, Canada",
+      "North York, ON, Canada",
+      "St. John's, NL, Canada",
+      "Ottawa, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Intact",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Intuit",
+    "id": "cc9856ce-7362-4043-a3cc-197446cae9f7",
+    "title": "Software Engineer 1 - Service Mesh",
+    "active": true,
+    "date_updated": 1767925077,
+    "date_posted": 1767925077,
+    "url": "https://jobs.intuit.com/job/san-diego/software-engineer-1-service-mesh/27595/90394286240",
+    "locations": [
+      "Mountain View, CA",
+      "San Diego, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Intuit",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Pylon",
+    "id": "02010b6a-61a9-4ea2-b051-b6096d4116bb",
+    "title": "Newgrad Generalist Engineer",
+    "active": true,
+    "date_updated": 1767924828,
+    "date_posted": 1767924828,
+    "url": "https://jobs.ashbyhq.com/pylon/b32c8de1-a8bf-4435-99d4-8d42e12a7e0a/application",
+    "locations": [
+      "Palo Alto, CA",
+      "Menlo Park, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/PylonLending",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Aurora Innovation",
+    "id": "c4d18bda-4e4d-48d2-9a50-c97f58dbc4dd",
+    "title": "Software Engineer 1",
+    "active": true,
+    "date_updated": 1767926461,
+    "date_posted": 1767926461,
+    "url": "https://aurora.tech/jobs/8349379002?gh_jid=8349379002",
+    "locations": [
+      "Mountain View, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Aurora-Innovation",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "General Dynamics Information Technology",
+    "id": "6bdf194b-5437-4835-9fb6-9d6a9831a723",
+    "title": "Software Developer Associate",
+    "active": true,
+    "date_updated": 1767924414,
+    "date_posted": 1767924414,
+    "url": "https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-MD-Annapolis-Junction/Software-Developer-Associate_RQ212586",
+    "locations": [
+      "Annapolis Junction, MD"
+    ],
+    "company_url": "https://simplify.jobs/c/GDIT",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
