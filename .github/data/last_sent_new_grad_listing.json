@@ -78513,5 +78513,43 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Experian",
+    "id": "6825c83f-f12e-4883-96e6-2c3328b4742a",
+    "title": "Graduate Data Analyst",
+    "active": true,
+    "date_updated": 1767975121,
+    "date_posted": 1767975121,
+    "url": "https://jobs.smartrecruiters.com/Experian/744000102595491",
+    "locations": [
+      "Nottingham, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Experian",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Cummins",
+    "id": "d319d360-c480-43cb-b7a2-6cb5590cf28d",
+    "title": "Product Functional Test Technology Engineer",
+    "active": true,
+    "date_updated": 1767974870,
+    "date_posted": 1767974870,
+    "url": "https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2420969",
+    "locations": [
+      "Cardiff, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Cummins",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
