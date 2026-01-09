@@ -78099,5 +78099,106 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Amazon",
+    "id": "92bbc1a1-5277-4279-b200-4346f4c2ee92",
+    "title": "Software Engineer 1",
+    "active": true,
+    "date_updated": 1767924429,
+    "date_posted": 1767924429,
+    "url": "https://amazon.jobs/en/jobs/3155746/software-engineer-i",
+    "locations": [
+      "Seattle, WA",
+      "SF"
+    ],
+    "company_url": "https://simplify.jobs/c/Amazon",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "f445f213-e980-4f3b-bea0-6176b162ad37",
+    "title": "Trading Assistant",
+    "active": true,
+    "date_updated": 1767924582,
+    "date_posted": 1767924582,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400045324",
+    "locations": [
+      "Leeds, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Amazon",
+    "id": "d6a0886e-3840-4ff0-b2f0-5f109753899c",
+    "title": "Software Engineer 1",
+    "active": true,
+    "date_updated": 1767924427,
+    "date_posted": 1767924427,
+    "url": "https://amazon.jobs/en/jobs/3155750/software-engineer-i",
+    "locations": [
+      "Seattle, WA",
+      "SF"
+    ],
+    "company_url": "https://simplify.jobs/c/Amazon",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Blue Origin",
+    "id": "3c9bb2b8-cab4-4bd9-b4eb-a0ba6e1efafd",
+    "title": "Technician - Integration Engineering I - B",
+    "active": true,
+    "date_updated": 1767925817,
+    "date_posted": 1767925817,
+    "url": "https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Technician---Integration-Engineering-I---B_R56858",
+    "locations": [
+      "Washington"
+    ],
+    "company_url": "https://simplify.jobs/c/Blue-Origin",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Associate's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "doTERRA",
+    "id": "b4ae1039-bd1a-4eb4-9ea7-ed3c0f026a42",
+    "title": "Associate Product Manager",
+    "active": true,
+    "date_updated": 1767923922,
+    "date_posted": 1767923922,
+    "url": "https://doterra.wd1.myworkdayjobs.com/doTERRACareers/job/Pleasant-Grove-UT/Associate-Product-Manager--Personal-Care-1_JR2076",
+    "locations": [
+      "American Fork, UT"
+    ],
+    "company_url": "https://simplify.jobs/c/DoTERRA",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
