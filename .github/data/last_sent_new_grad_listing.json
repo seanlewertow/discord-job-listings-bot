@@ -78393,5 +78393,26 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Verisk",
+    "id": "2753f2b8-8a23-4497-8636-2bab54848a1e",
+    "title": "Software Engineer 2 in Test",
+    "active": true,
+    "date_updated": 1767954255,
+    "date_posted": 1766185844,
+    "url": "https://fa-ewmy-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2925",
+    "locations": [
+      "Boston, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/Verisk",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
   }
 ]
