@@ -78236,5 +78236,101 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "USAA",
+    "id": "13263ed0-211c-4984-b337-5375ab7b95ed",
+    "title": "Data Engineer Entry Level",
+    "active": true,
+    "date_updated": 1767944319,
+    "date_posted": 1767944319,
+    "url": "https://usaa.wd1.myworkdayjobs.com/en-US/USAAJOBSWD/job/San-Antonio-Home-Office-I/Data-Engineer-Entry-Level_R0113909-1",
+    "locations": [
+      "San Antonio, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/USAA",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Huntington Ingalls Industries",
+    "id": "d311107d-f960-4e6b-aa57-a7b4cd231ef8",
+    "title": "Software Engineer 1",
+    "active": true,
+    "date_updated": 1767942496,
+    "date_posted": 1767942496,
+    "url": "https://careers.huntingtoningalls.com/job/Newport-News-ENGINEER-SOFTWARE-1-Virg/1354682700/?ats=successfactors",
+    "locations": [
+      "Newport News, VA"
+    ],
+    "company_url": "https://simplify.jobs/c/Huntington-Ingalls-Industries",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Southwest Airlines",
+    "id": "4e4c6a3e-7472-4b04-8a86-714e6448b65f",
+    "title": "Associate Software Engineer - Direct College Hire",
+    "active": true,
+    "date_updated": 1767942905,
+    "date_posted": 1767942905,
+    "url": "https://swa.wd1.myworkdayjobs.com/external/job/TX-Dallas/Associate-Software-Engineer---Direct-College-Hire_R-2025-62537",
+    "locations": [
+      "Dallas, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Southwest-Airlines",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "MrBeast",
+    "id": "14685d4b-d544-4cc2-8c1a-743751a07fc3",
+    "title": "Product Solutions Specialist",
+    "active": true,
+    "date_updated": 1767943716,
+    "date_posted": 1767943716,
+    "url": "https://job-boards.greenhouse.io/mrbeastyoutube/jobs/5754236004",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/MrBeast",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Southwest Airlines",
+    "id": "dfac5af1-f7ea-41af-b189-fcd69589021d",
+    "title": "Associate Software Engineer - Direct College Hire",
+    "active": true,
+    "date_updated": 1767942904,
+    "date_posted": 1767942904,
+    "url": "https://swa.wd1.myworkdayjobs.com/external/job/TX-Dallas/Associate-Software-Engineer---Direct-College-Hire_R-2025-62493",
+    "locations": [
+      "Dallas, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Southwest-Airlines",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
