@@ -78468,5 +78468,29 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Amazon",
+    "id": "5fde436c-570a-464b-9d9c-3a3e457151d0",
+    "title": "Software Development Engineer - Amazon Leo - US",
+    "active": true,
+    "date_updated": 1767957771,
+    "date_posted": 1765926915,
+    "url": "https://amazon.jobs/en/jobs/3144341/software-development-engineer-amazon-leo-us",
+    "locations": [
+      "Washington",
+      "California",
+      "Redmond, WA",
+      "Northridge, LA",
+      "United States"
+    ],
+    "company_url": "https://simplify.jobs/c/Amazon",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
