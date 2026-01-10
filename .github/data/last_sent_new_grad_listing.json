@@ -78825,5 +78825,102 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Clay",
+    "id": "b6134170-6d0f-43eb-9609-ecf728a3ae0f",
+    "title": "Data Analyst",
+    "active": true,
+    "date_updated": 1768000965,
+    "date_posted": 1768000965,
+    "url": "https://jobs.ashbyhq.com/claylabs/7db82522-dd30-4777-bfe2-f7a3aff6b00d/application",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Clay",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "RTX",
+    "id": "a9f00daf-da8b-4331-bdf0-6661d2fe6869",
+    "title": "Software Engineer 1",
+    "active": true,
+    "date_updated": 1768001115,
+    "date_posted": 1768001115,
+    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/HIA32-Cedar-Rapids-IA-400-Collins-Rd-NE---Cedar-Rapids-IA-52498-0505-USA/Software-Engineer-I--Onsite-_01815426-1",
+    "locations": [
+      "Cedar Rapids, IA"
+    ],
+    "company_url": "https://simplify.jobs/c/RTX",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "ITS Logistics",
+    "id": "a5ab742b-8937-4b50-b1ef-ff8788585e03",
+    "title": "Associate Product Manager",
+    "active": true,
+    "date_updated": 1768002817,
+    "date_posted": 1768002817,
+    "url": "https://job-boards.greenhouse.io/itslogisticsllc/jobs/4077522008",
+    "locations": [
+      "Reno, NV"
+    ],
+    "company_url": "https://simplify.jobs/c/ITS-Logistics",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "The Travelers Companies",
+    "id": "936d4258-fddb-4826-a449-26f3e56a3929",
+    "title": "Software Engineer 2 - Multiple Teams",
+    "active": true,
+    "date_updated": 1768001963,
+    "date_posted": 1768001963,
+    "url": "https://travelers.wd5.myworkdayjobs.com/External/job/MN---St-Paul/Software-Engineer-II--Mobile--Node--React--AWS-_R-48003-1",
+    "locations": [
+      "Hartford, CT",
+      "St Paul, MN"
+    ],
+    "company_url": "https://simplify.jobs/c/Travelers",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "University of Nevada Las Vegas (UNLV)",
+    "id": "29d28137-caab-4503-a1a9-c4c888a53fcd",
+    "title": "Postdoctoral Scholar - Interdisciplinary Data Science",
+    "active": true,
+    "date_updated": 1768000724,
+    "date_posted": 1768000724,
+    "url": "https://nshe.wd1.myworkdayjobs.com/unlv-external/job/UNLV1-Main-Campus-Las-Vegas/Postdoctoral-Scholar--Interdisciplinary-Data-Science--College-of-Engineering--R0144891-_R0144891",
+    "locations": [
+      "Las Vegas, NV"
+    ],
+    "company_url": "https://simplify.jobs/c/University-Of-Nevada-Las-Vegas",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "PhD"
+    ]
   }
 ]
