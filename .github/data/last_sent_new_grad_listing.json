@@ -78945,5 +78945,23 @@
       "MBA",
       "PhD"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Microsoft",
+    "id": "10c83b14-9176-4a4c-98ae-5b552494660e",
+    "title": "Software Engineer",
+    "active": true,
+    "date_updated": 1768118870,
+    "date_posted": 1768118870,
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393556643050",
+    "locations": [
+      "Redmond, WA"
+    ],
+    "company_url": "https://simplify.jobs/c/Microsoft",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
