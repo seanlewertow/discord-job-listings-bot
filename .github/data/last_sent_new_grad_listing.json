@@ -79812,5 +79812,26 @@
       "Bachelor's",
       "Master's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Adobe",
+    "id": "29291084-8b1c-4279-8206-6f2ee93a905a",
+    "title": "Software Development Engineer",
+    "active": true,
+    "date_updated": 1768128149,
+    "date_posted": 1768128149,
+    "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Software-Development-Engineer_R161061",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Adobe",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
   }
 ]
