@@ -79063,5 +79063,99 @@
       "Bachelor's",
       "Associate's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Ideogram",
+    "id": "29c793f8-f0f5-4e5a-b508-e169f30f89bc",
+    "title": "Software Engineer - ML Data Infrastructure",
+    "active": true,
+    "date_updated": 1768178472,
+    "date_posted": 1768178472,
+    "url": "https://jobs.ashbyhq.com/ideogram/c6d67226-cca4-453d-b818-efd9d815e55f/application",
+    "locations": [
+      "Toronto, ON, Canada",
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Ideogram",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Autism Spectrum Therapies",
+    "id": "80d8be53-1672-4d85-bced-5ce1f920a4e0",
+    "title": "Behavior Technician",
+    "active": false,
+    "date_updated": 1768179048,
+    "date_posted": 1764804126,
+    "url": "https://autismspectrum-learnbehavioral.icims.com/jobs/41010/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Morrisville, NC"
+    ],
+    "company_url": "https://simplify.jobs/c/Autism-Spectrum-Therapies",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Acts",
+    "id": "129f62f7-ecdc-47b0-8945-414033024e52",
+    "title": "Licensed Practical Nurse - LPN",
+    "active": false,
+    "date_updated": 1768178952,
+    "date_posted": 1757721040,
+    "url": "https://careers-actslife.icims.com/jobs/17536/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Bloomington, IN"
+    ],
+    "company_url": "https://simplify.jobs/c/Acts",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Accenture",
+    "id": "f8c8734f-8fa2-47ca-949a-b72b1e8d1bf2",
+    "title": "Software Engineer",
+    "active": true,
+    "date_updated": 1768185485,
+    "date_posted": 1768185485,
+    "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Mountain-View-650-Castro-Corp/XMLNAME--Software-Engineer---6078916_13942102",
+    "locations": [
+      "Mountain View, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Accenture-FS",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Associate's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Accenture",
+    "id": "81dc4693-a5df-4fe6-a326-456b493ca094",
+    "title": "Software Engineer",
+    "active": true,
+    "date_updated": 1768185481,
+    "date_posted": 1768185481,
+    "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/San-Francisco-415-Mission-Street-Corp/XMLNAME--Software-Engineer---6078908_13942096-1",
+    "locations": [
+      "SF"
+    ],
+    "company_url": "https://simplify.jobs/c/Accenture-FS",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
