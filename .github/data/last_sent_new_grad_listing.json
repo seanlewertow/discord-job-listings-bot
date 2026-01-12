@@ -79677,5 +79677,99 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "e69d5e20-b3df-4c0e-aeb0-01071de54fac",
+    "title": "Trading Assistant - Shift",
+    "active": true,
+    "date_updated": 1768234431,
+    "date_posted": 1768234431,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400045665",
+    "locations": [
+      "Dartford District, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "KBR",
+    "id": "5f06c65c-3985-4fbb-bb1c-153408a1aae4",
+    "title": "Power Apps Developer",
+    "active": true,
+    "date_updated": 1768235548,
+    "date_posted": 1768235548,
+    "url": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Leatherhead-Surrey-United-Kingdom/Power-Apps-Developer---Entry-Level_R2117355",
+    "locations": [
+      "Dorking, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/KBR",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "23321a2d-921b-43d9-8454-d0e0c5142f0a",
+    "title": "Trading Assistant - Shift",
+    "active": true,
+    "date_updated": 1768234425,
+    "date_posted": 1768234425,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400045645",
+    "locations": [
+      "Croydon, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "6d59f547-3f45-49e7-ab06-476dce152983",
+    "title": "Trading Assistant",
+    "active": true,
+    "date_updated": 1768234427,
+    "date_posted": 1768234427,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400045673",
+    "locations": [
+      "Tottenham, London, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "Michaels Stores",
+    "id": "19f04c41-45f9-4d72-8999-0a5303843fca",
+    "title": "Product Development Coordinator",
+    "active": true,
+    "date_updated": 1768235693,
+    "date_posted": 1768235693,
+    "url": "https://michaels.wd5.myworkdayjobs.com/external/job/Irving-Irving-Corporate-Office-3939-West-John-Carpenter-Freeway/Product-Development-Coordinator_R00302287",
+    "locations": [
+      "Irving, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Michaels-Stores",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
