@@ -79428,5 +79428,99 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "c814e261-9509-4322-9653-f271e95d59b6",
+    "title": "Trading Assistant",
+    "active": true,
+    "date_updated": 1768214074,
+    "date_posted": 1768214074,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400045586",
+    "locations": [
+      "Guildford, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "Google",
+    "id": "7a684e50-2fee-4e8d-be69-1c86676b403d",
+    "title": "Product Manager 1 - RCS for Business",
+    "active": true,
+    "date_updated": 1768213878,
+    "date_posted": 1768213878,
+    "url": "https://www.google.com/about/careers/applications/jobs/results/142065652989862598",
+    "locations": [
+      "San Jose, CA",
+      "SF"
+    ],
+    "company_url": "https://simplify.jobs/c/Google",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "HEXAWARE",
+    "id": "110719e4-0073-49c8-816e-f56ac59772ca",
+    "title": "Application Support - Java skills - Associate",
+    "active": true,
+    "date_updated": 1768213966,
+    "date_posted": 1768213966,
+    "url": "https://fa-etqo-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/589735",
+    "locations": [
+      "Plano, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/HEXAWARE",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Klaviyo",
+    "id": "05a3f2cc-1799-45a4-bbfa-b7a4436103d5",
+    "title": "Software Engineer - Internationalisation Platform",
+    "active": true,
+    "date_updated": 1768215700,
+    "date_posted": 1768215700,
+    "url": "https://www.klaviyo.com/careers/jobs?gh_jid=7566655003",
+    "locations": [
+      "London, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Klaviyo",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "0127b0a2-8dee-4705-8a7a-2e76811a1c0b",
+    "title": "Trading Assistant",
+    "active": true,
+    "date_updated": 1768214078,
+    "date_posted": 1768214078,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400045589",
+    "locations": [
+      "Guildford, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
