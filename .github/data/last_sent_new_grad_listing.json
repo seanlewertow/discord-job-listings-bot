@@ -79833,5 +79833,104 @@
       "Bachelor's",
       "Master's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "VCU Health",
+    "id": "f291b05a-cc48-4859-a2f8-e66736fe84df",
+    "title": "Applications Analyst Associate",
+    "active": true,
+    "date_updated": 1768259257,
+    "date_posted": 1768259257,
+    "url": "https://vcuhealth.wd1.myworkdayjobs.com/vcuhealth_careers/job/Richmond-VA/Applications-Analyst-Associate_R40772-1",
+    "locations": [
+      "Richmond, VA"
+    ],
+    "company_url": "https://simplify.jobs/c/VCU-Health",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "McDonald's",
+    "id": "df2f1535-a96f-4e7f-bf6e-60a651a0870c",
+    "title": "Software Engineer 1 - React/ C#",
+    "active": true,
+    "date_updated": 1768259486,
+    "date_posted": 1768259486,
+    "url": "https://jobs.mcdonalds.com/job/Chicago-Software-Engineer-I-(React-C)-IL-60607/1355423100/?ats=successfactors",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/McDonald",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "American Express",
+    "id": "8d38e0aa-b75f-4ac1-bf1c-d88ab5ecacef",
+    "title": "Software Engineer - Full Stack",
+    "active": true,
+    "date_updated": 1768259350,
+    "date_posted": 1768259350,
+    "url": "https://aexp.eightfold.ai/careers/job/39568135",
+    "locations": [
+      "Plantation, FL"
+    ],
+    "company_url": "https://simplify.jobs/c/American-Express",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Washington State University",
+    "id": "c32a60e0-b0cf-4ed7-910f-b7d1501d1848",
+    "title": "IT Application Development - Entry",
+    "active": true,
+    "date_updated": 1768258977,
+    "date_posted": 1768258977,
+    "url": "https://wsu.wd5.myworkdayjobs.com/WSU_Jobs/job/Pullman-WA/IT-APPLICATION-DEVELOPMENT---ENTRY_R-14429",
+    "locations": [
+      "Moscow, ID"
+    ],
+    "company_url": "https://simplify.jobs/c/Washington-State-University",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Liberty University",
+    "id": "6d7b7878-19f6-49cc-bb8f-0dc60d8fdd79",
+    "title": "Electronic Resources Data Analyst 1",
+    "active": true,
+    "date_updated": 1768258912,
+    "date_posted": 1768258912,
+    "url": "https://liberty.wd5.myworkdayjobs.com/lu_job_board_staff/job/Lynchburg-VA/Electronic-Resources-Data-Analyst-I-for-JFL_R0009510",
+    "locations": [
+      "Lynchburg, VA"
+    ],
+    "company_url": "https://simplify.jobs/c/Liberty-University",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
   }
 ]
