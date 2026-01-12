@@ -79522,5 +79522,66 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Iowa State University",
+    "id": "d6a40bc0-145e-44a2-987d-95f580846c7f",
+    "title": "Workday Extend Developer 1",
+    "active": true,
+    "date_updated": 1768218922,
+    "date_posted": 1768218922,
+    "url": "https://isu.wd1.myworkdayjobs.com/IowaStateJobs/job/Ames-IA/Workday-Extend-Developer-I_R18423",
+    "locations": [
+      "Ames, IA"
+    ],
+    "company_url": "https://simplify.jobs/c/Iowa-State-University",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Certificate"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Hewlett Packard (HP)",
+    "id": "c7abf5c0-cb1f-4cb8-a5f0-1f267c8eae5c",
+    "title": "AI Lab Junior Machine Learning Engineer",
+    "active": true,
+    "date_updated": 1768219552,
+    "date_posted": 1768219552,
+    "url": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Sant-Cugat-del-Valles-Barcelona-Spain/AI-Lab---Junior-Machine-Learning-Engineer_3150991-2",
+    "locations": [
+      "Sant Cugat del Vall\u00e8s, Barcelona, Spain",
+      "Palo Alto, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Hewlett-Packard",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Sabre",
+    "id": "5d6d054d-4b88-44c6-9854-8e4eac499237",
+    "title": "Web/Digital Specialist 1",
+    "active": true,
+    "date_updated": 1768219146,
+    "date_posted": 1768219146,
+    "url": "https://sabre.wd1.myworkdayjobs.com/SabreJobs/job/United-Kingdom---Richmond-Church-Rd/Web-Digital-Specialist-I_JR107155",
+    "locations": [
+      "Hammersmith, London, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sabre",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
