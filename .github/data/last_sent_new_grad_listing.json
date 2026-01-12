@@ -79791,5 +79791,26 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "Google",
+    "id": "f402855d-daac-4e75-9600-d2f121cd85b3",
+    "title": "Product Manager 1 - Youtube Youth Responsibility",
+    "active": true,
+    "date_updated": 1768234237,
+    "date_posted": 1768234237,
+    "url": "https://www.google.com/about/careers/applications/jobs/results/102621772855026374",
+    "locations": [
+      "San Bruno, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Google",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
   }
 ]
