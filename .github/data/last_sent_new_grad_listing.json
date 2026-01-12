@@ -79157,5 +79157,66 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Hancock Whitney",
+    "id": "6e8041f0-6f74-403b-a8d2-fd5f22326679",
+    "title": "Financial Crimes Data Analyst 1",
+    "active": true,
+    "date_updated": 1768179321,
+    "date_posted": 1768179321,
+    "url": "https://hancockwhitney.wd5.myworkdayjobs.com/Careers/job/UNO-Center---New-Orleans-LA/Financial-Crimes-Data-Analyst-1_R016047",
+    "locations": [
+      "New Orleans, LA",
+      "Gulfport, MS"
+    ],
+    "company_url": "https://simplify.jobs/c/Hancock-Whitney",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "PitchBook",
+    "id": "643e2fef-1c90-4500-85be-f2cbd539193b",
+    "title": "Associate Machine Learning Engineer",
+    "active": true,
+    "date_updated": 1768179744,
+    "date_posted": 1768179744,
+    "url": "https://job-boards.greenhouse.io/pitchbookdata/jobs/4643736006",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "company_url": "https://simplify.jobs/c/PitchBook",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "PitchBook",
+    "id": "612dde70-7c3a-4973-8867-77105150655c",
+    "title": "Associate Machine Learning Engineer",
+    "active": true,
+    "date_updated": 1768179746,
+    "date_posted": 1768179746,
+    "url": "https://job-boards.greenhouse.io/pitchbookdata/jobs/4643737006",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/PitchBook",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
