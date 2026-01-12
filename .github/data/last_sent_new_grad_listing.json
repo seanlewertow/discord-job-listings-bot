@@ -79315,5 +79315,26 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Hermeus",
+    "id": "88bd0b9d-faf1-41bc-9b0f-949b33d78f42",
+    "title": "Software Engineer Hills",
+    "active": true,
+    "date_updated": 1768210720,
+    "date_posted": 1765494932,
+    "url": "https://jobs.lever.co/hermeus/00b4f74f-2b3e-45f3-963a-1409552c7677/apply",
+    "locations": [
+      "Atlanta, GA"
+    ],
+    "company_url": "https://simplify.jobs/c/Hermeus",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
   }
 ]
