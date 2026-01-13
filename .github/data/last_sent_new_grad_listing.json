@@ -80406,5 +80406,62 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "0deadd36-6e59-4eee-8dbf-370e4cf57e27",
+    "title": "Trading Assistant - Shift",
+    "active": true,
+    "date_updated": 1768300388,
+    "date_posted": 1768300388,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400045717",
+    "locations": [
+      "Maidstone, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Flanigan's Enterprises",
+    "id": "ce47b82a-20d0-424f-b10c-7b71fb4d3cbc",
+    "title": "ID Checker",
+    "active": true,
+    "date_updated": 1768300123,
+    "date_posted": 1764112658,
+    "url": "https://careers-flanigans.icims.com/jobs/22818/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Dahlgren, VA"
+    ],
+    "company_url": "https://simplify.jobs/c/Flanigans-Enterprises",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "FutureCare",
+    "id": "ae51ab62-0f80-4c28-83b3-71b000a84c35",
+    "title": "Licensed Social Worker",
+    "active": true,
+    "date_updated": 1768300235,
+    "date_posted": 1759613008,
+    "url": "https://careers-futurecarehealth.icims.com/jobs/24331/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "San Diego, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/FutureCare",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
   }
 ]
