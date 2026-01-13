@@ -80308,5 +80308,103 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "EyeSouth Partners",
+    "id": "cb5e42ad-7d20-41c0-ae0d-cd722d04d92e",
+    "title": "Call Center Representative",
+    "active": true,
+    "date_updated": 1768300535,
+    "date_posted": 1767914523,
+    "url": "https://careers-eyesouthpartners.icims.com/jobs/8354/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Washington, DC"
+    ],
+    "company_url": "https://simplify.jobs/c/EyeSouth-Partners",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "Certificate"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Cellular Sales",
+    "id": "f95b50f8-69a4-4bf3-96f9-19e8a75548d9",
+    "title": "Verizon Sales Consultant",
+    "active": true,
+    "date_updated": 1768300826,
+    "date_posted": 1765495882,
+    "url": "https://careers-cellularsales.icims.com/jobs/20859/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Columbus, OH"
+    ],
+    "company_url": "https://simplify.jobs/c/Cellular-Sales",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "St. Johns Riverside Hospital",
+    "id": "6b520d32-45d2-4c80-81d7-0c5e2e7a52e0",
+    "title": "Security Officer",
+    "active": true,
+    "date_updated": 1768300601,
+    "date_posted": 1762991405,
+    "url": "https://careers-riversidehealth.icims.com/jobs/7971/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Odenton, MD"
+    ],
+    "company_url": "https://simplify.jobs/c/St-Johns-Riverside-Hospital",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Certificate"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Golden Steps",
+    "id": "f315130e-ac4b-4ff5-aa0e-4c98f871a76e",
+    "title": "Registered Behavior Technician - Registered Behavior Technician",
+    "active": true,
+    "date_updated": 1768300269,
+    "date_posted": 1759462969,
+    "url": "https://careers-goldenstepsaba.icims.com/jobs/1724/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Indianapolis, IN"
+    ],
+    "company_url": "https://simplify.jobs/c/Golden-Steps",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Rhode Island Blood Center",
+    "id": "3df07e60-7b35-45b0-9a96-97dc5ff0e539",
+    "title": "Mobile Flex Team Phlebotomist - Will Train",
+    "active": true,
+    "date_updated": 1768300913,
+    "date_posted": 1759876325,
+    "url": "https://careers-ribc.icims.com/jobs/7975/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Odenton, MD"
+    ],
+    "company_url": "https://simplify.jobs/c/Rhode-Island-Blood-Center",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
