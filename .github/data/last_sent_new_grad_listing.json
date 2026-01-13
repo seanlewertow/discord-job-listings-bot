@@ -80822,5 +80822,61 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Procter & Gamble (P&G)",
+    "id": "1d074836-c07e-4851-8a11-6ade029222ea",
+    "title": "Site Manufacturing Data Engineer",
+    "active": true,
+    "date_updated": 1768321559,
+    "date_posted": 1768321559,
+    "url": "https://pg.wd5.myworkdayjobs.com/1000/job/AUBURN-PLANT/Site-Manufacturing-Data-Engineer_R000142913-1",
+    "locations": [
+      "Lewiston, ME"
+    ],
+    "company_url": "https://simplify.jobs/c/Procter-Gamble-Company",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Leidos",
+    "id": "43c272a0-2273-4609-813f-7a18bbd1db52",
+    "title": "Product Technician",
+    "active": true,
+    "date_updated": 1768322275,
+    "date_posted": 1768322275,
+    "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Chesapeake-VA/Product-Technician_R-00170619",
+    "locations": [
+      "Chesapeake, VA"
+    ],
+    "company_url": "https://simplify.jobs/c/Leidos",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Northrop Grumman",
+    "id": "e99a8528-bbe8-4580-bb9d-e9bc6e729691",
+    "title": "Manufacturing Technician",
+    "active": true,
+    "date_updated": 1768322099,
+    "date_posted": 1768322099,
+    "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Corinne/Manufacturing-Technician-1-2_R10216320-1",
+    "locations": [
+      "Logan, UT"
+    ],
+    "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
