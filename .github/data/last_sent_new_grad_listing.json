@@ -80037,5 +80037,101 @@
       "Master's",
       "PhD"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Vistry Group",
+    "id": "4315fa67-0f6f-470c-9dd6-a0a9bd8cf45f",
+    "title": "Design & Technical Graduate",
+    "active": true,
+    "date_updated": 1768271046,
+    "date_posted": 1764366131,
+    "url": "https://careers-vistrygroup.icims.com/jobs/7945/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Chantilly, VA"
+    ],
+    "company_url": "https://simplify.jobs/c/Vistry-Group",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Vistry Group",
+    "id": "8d4462dc-ccc1-4f1d-947c-fe57800cd715",
+    "title": "Real Estate Graduate",
+    "active": true,
+    "date_updated": 1768270498,
+    "date_posted": 1763507311,
+    "url": "https://careers-vistrygroup.icims.com/jobs/7944/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Odenton, MD"
+    ],
+    "company_url": "https://simplify.jobs/c/Vistry-Group",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Hines",
+    "id": "a558a745-4aab-4d46-8998-1c54e9d84188",
+    "title": "Leasing Professional - Residential",
+    "active": true,
+    "date_updated": 1768271028,
+    "date_posted": 1763351499,
+    "url": "https://careers-hines.icims.com/jobs/13219/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Reston, VA"
+    ],
+    "company_url": "https://simplify.jobs/c/Hines",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": " Cottingham & Butler",
+    "id": "10490415-411f-46b4-bcdf-8fd74bc04a50",
+    "title": "Benefits Technology Analyst",
+    "active": true,
+    "date_updated": 1768272655,
+    "date_posted": 1768272655,
+    "url": "https://boards.greenhouse.io/cottinghambutlerinsuranceservicesinc/jobs/4407035008",
+    "locations": [
+      "Dubuque, IA"
+    ],
+    "company_url": "https://simplify.jobs/c/Cottingham-And-Butler",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Candidly",
+    "id": "915259b9-69e3-4723-a03d-5e0d6e30f3f5",
+    "title": "Data Scientist - AI Engineering",
+    "active": true,
+    "date_updated": 1768271046,
+    "date_posted": 1768271046,
+    "url": "https://job-boards.greenhouse.io/candidly/jobs/5022473007",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/Candidly",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
