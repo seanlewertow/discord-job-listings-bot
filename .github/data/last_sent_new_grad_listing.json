@@ -80720,5 +80720,107 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "Lloyds Bank",
+    "id": "f627c447-9941-4f65-8891-1f8d3321b7df",
+    "title": "Assistant Product Manager",
+    "active": true,
+    "date_updated": 1768322355,
+    "date_posted": 1768322355,
+    "url": "https://lbg.wd3.myworkdayjobs.com/LBG_Careers/job/Leeds-Wellington-Place/Assistant-Product-Manager_149546-1",
+    "locations": [
+      "Leeds, UK",
+      "Liverpool, UK",
+      "Bristol, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Lloyds-Bank",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Visa",
+    "id": "cc9be6b6-2f01-43ef-8dbf-1a1c0674057e",
+    "title": "Software Engineer",
+    "active": true,
+    "date_updated": 1768321082,
+    "date_posted": 1768321082,
+    "url": "https://jobs.smartrecruiters.com/Visa/744000103266367",
+    "locations": [
+      "Austin, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Visa",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Grayce",
+    "id": "99c2bac2-68f0-42f8-909b-3555c998a37c",
+    "title": "Graduate Software Engineer",
+    "active": true,
+    "date_updated": 1768320870,
+    "date_posted": 1768320870,
+    "url": "https://apply.workable.com/grayce/j/6F03729A98/apply",
+    "locations": [
+      "Cardiff, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/ece08408-be43-4331-9af6-746c6e9977ec",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Malvern Panalytical",
+    "id": "d24dabb1-7ba5-4ed6-88ce-9d8d6a5d40ba",
+    "title": "Benchtop Repair Engineer",
+    "active": true,
+    "date_updated": 1768322221,
+    "date_posted": 1768322221,
+    "url": "https://spectris.wd3.myworkdayjobs.com/Malvern_Panalytical_Careers/job/Westborough-MA/Benchtop-Repair-Engineer_16972",
+    "locations": [
+      "Westborough, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/Malvern-Panalytical",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Associate's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "EXL",
+    "id": "a157c35c-5bea-4356-8bf4-9df85e62f570",
+    "title": "Healthcare Analyst",
+    "active": true,
+    "date_updated": 1768321235,
+    "date_posted": 1768321235,
+    "url": "https://fa-ewjt-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/8734",
+    "locations": [
+      "United States"
+    ],
+    "company_url": "https://simplify.jobs/c/EXL",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
