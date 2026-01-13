@@ -80878,5 +80878,105 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Cirrus Logic",
+    "id": "1978e057-e004-4fe1-acef-66723ba4f181",
+    "title": "Engineering Technician",
+    "active": true,
+    "date_updated": 1768345788,
+    "date_posted": 1768345788,
+    "url": "https://jobs.eu.lever.co/cirrus/7712560b-a446-433b-9199-6daabae03c8a/apply",
+    "locations": [
+      "Austin, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Cirrus-Logic",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Associate's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Cummins",
+    "id": "145e2f71-39e1-436c-b4fe-72a172dca850",
+    "title": "Chassis Technician",
+    "active": true,
+    "date_updated": 1768345656,
+    "date_posted": 1768345656,
+    "url": "https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2423741",
+    "locations": [
+      "Ocala, FL"
+    ],
+    "company_url": "https://simplify.jobs/c/Cummins",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Oracle",
+    "id": "035bf5b0-b62c-4b59-b0cc-d4867db47741",
+    "title": "Software Developer 1",
+    "active": true,
+    "date_updated": 1768345747,
+    "date_posted": 1768345747,
+    "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/321657",
+    "locations": [
+      "Pleasanton, CA",
+      "SF",
+      "San Carlos, CA",
+      "United States",
+      "Santa Clara, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Oracle",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "University of Texas - Austin",
+    "id": "c8d2c6a8-870d-4d32-9c28-1e013e1a1f1a",
+    "title": "Software Engineering Scientist Associate",
+    "active": true,
+    "date_updated": 1768345377,
+    "date_posted": 1768345377,
+    "url": "https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/PICKLE-RESEARCH-CAMPUS/NSW-Software-Engineering-Scientist-Associate_R_00043568",
+    "locations": [
+      "Texas"
+    ],
+    "company_url": "https://simplify.jobs/c/University-Of-Texas-Austin",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "AMERICAN SYSTEMS",
+    "id": "5cc84522-d0be-4151-86a7-68db0451e5d3",
+    "title": "Junior Engineer - Software Development - Nasa",
+    "active": true,
+    "date_updated": 1768346536,
+    "date_posted": 1768321238,
+    "url": "https://careers-americansystems.icims.com/jobs/3875/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Edwards AFB, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/AMERICAN-SYSTEMS",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
