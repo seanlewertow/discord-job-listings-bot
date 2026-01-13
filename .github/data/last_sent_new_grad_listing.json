@@ -80463,5 +80463,85 @@
       "Bachelor's",
       "Master's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Arrowstreet Capital",
+    "id": "82b6cdeb-abba-4247-b82e-753eb5697555",
+    "title": "Technology Rotational Development Program",
+    "active": true,
+    "date_updated": 1768235340,
+    "date_posted": 1768235340,
+    "url": "https://arrowstreetcapital.wd5.myworkdayjobs.com/Campus_Careers/job/Boston/Technology-Rotational-Development-Program_R1400",
+    "locations": [
+      "Boston, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/Arrowstreet-Capital",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "ENFRA",
+    "id": "d24cf7cb-5dd8-49ab-ba7e-2de99db176a3",
+    "title": "Controls Technologist 1",
+    "active": true,
+    "date_updated": 1768300840,
+    "date_posted": 1761869862,
+    "url": "https://careers-enfra.icims.com/jobs/7509/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Greenwood Village, CO"
+    ],
+    "company_url": "https://simplify.jobs/c/ENFRA",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "TD Bank",
+    "id": "c6fc8321-0f25-4ba0-88e7-90e02f38b336",
+    "title": "2026 Technology Graduate Analyst - London",
+    "active": true,
+    "date_updated": 1768306688,
+    "date_posted": 1768306688,
+    "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/London-United-Kingdom/XMLNAME-2026-Technology-Graduate-Analyst---London_R_1466394",
+    "locations": [
+      "London, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/TD-Bank",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "TikTok",
+    "id": "5c8331f4-e239-4c6f-a9ad-d69afeeb2da1",
+    "title": "Benefits Operations Data Analyst - HR Operations - San Jose','Third-Party Associate",
+    "active": true,
+    "date_updated": 1768300695,
+    "date_posted": 1768300695,
+    "url": "https://lifeattiktok.com/search/7593570990719306037",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/TikTok",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
