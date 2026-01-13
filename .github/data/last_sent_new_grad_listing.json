@@ -80272,5 +80272,41 @@
       "Bachelor's",
       "Master's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "CrowdGen by Appen",
+    "id": "6bc8d228-cbfb-4a81-843d-d4b5fb78a967",
+    "title": "Project Jigglypuff Transcription - English-United Kingdom",
+    "active": true,
+    "date_updated": 1768296524,
+    "date_posted": 1765333166,
+    "url": "https://jobs.lever.co/appen/425ffbbf-f35f-4295-8bb7-78ddb8696ffe/apply",
+    "locations": [
+      "Remote in UK"
+    ],
+    "company_url": "https://simplify.jobs/c/CrowdGen-By-Appen",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "CrowdGen by Appen",
+    "id": "f676a220-8ba5-4c08-a8f6-7bb00f3a0645",
+    "title": "Project Jigglypuff Transcription - English-United States",
+    "active": true,
+    "date_updated": 1768296511,
+    "date_posted": 1764901408,
+    "url": "https://jobs.lever.co/appen/88569e5a-56e4-4acc-bbd9-32d936ee8142/apply",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/CrowdGen-By-Appen",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
