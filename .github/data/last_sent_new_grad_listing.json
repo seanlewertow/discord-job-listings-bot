@@ -80251,5 +80251,26 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Metergy Solutions",
+    "id": "380869be-abbc-4c56-b80a-fb5c70d46551",
+    "title": "Meter Lab Specialist",
+    "active": true,
+    "date_updated": 1768295812,
+    "date_posted": 1765926857,
+    "url": "https://jobs.lever.co/metergysolutions/9e416a0f-4bd1-44c4-ac3d-7a365fc4f25d/apply",
+    "locations": [
+      "Toronto, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Metergy-Solutions",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
   }
 ]
