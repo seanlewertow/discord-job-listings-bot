@@ -80151,5 +80151,64 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "General Dynamics",
+    "id": "d84dca15-2a15-48f8-9b9e-841dd6a3bced",
+    "title": "Platform Integration Engineer",
+    "active": true,
+    "date_updated": 1768289038,
+    "date_posted": 1761951799,
+    "url": "https://careers-gdeb.icims.com/jobs/17448/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Groton, CT"
+    ],
+    "company_url": "https://simplify.jobs/c/General-Dynamics",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "CHA Consulting",
+    "id": "2068185f-51f5-44ba-875a-e75bed6e6039",
+    "title": "Instrument Operator",
+    "active": true,
+    "date_updated": 1768289085,
+    "date_posted": 1761910673,
+    "url": "https://jobs-challp.icims.com/jobs/7444/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Columbia, SC"
+    ],
+    "company_url": "https://simplify.jobs/c/CHA-Consulting",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Associate's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "360care",
+    "id": "d8ebd5df-b0f1-4c89-8f57-12bf9d16206b",
+    "title": "Mobile Dental Assistant",
+    "active": true,
+    "date_updated": 1768289106,
+    "date_posted": 1757610145,
+    "url": "https://careers-360care.icims.com/jobs/3918/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "United States"
+    ],
+    "company_url": "https://simplify.jobs/c/360care",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
