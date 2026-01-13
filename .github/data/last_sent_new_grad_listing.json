@@ -80543,5 +80543,81 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Las Vegas Valley Water District",
+    "id": "d1dbcc64-2105-40a5-bd3c-ff60201e7b67",
+    "title": "Hydrologist 1",
+    "active": true,
+    "date_updated": 1768305782,
+    "date_posted": 1768305782,
+    "url": "https://lvvwd.wd1.myworkdayjobs.com/lvvwdwaterjobs/job/Molasky-Corporate-Center/Hydrologist-I_R0003445",
+    "locations": [
+      "Las Vegas, NV"
+    ],
+    "company_url": "https://simplify.jobs/c/Las-Vegas-Valley-Water-District",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Sanofi",
+    "id": "0c4f40ae-9864-4484-91e5-624780a43805",
+    "title": "Scientist 1 - Data Science",
+    "active": true,
+    "date_updated": 1768301599,
+    "date_posted": 1765652953,
+    "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Cambridge-MA/Scientist-I--Data-Science_R2822005-1",
+    "locations": [
+      "Cambridge, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/Sanofi",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "PhD"
+    ]
+  },
+  {
+    "date_updated": 1768311526,
+    "sponsorship": "Does Not Offer Sponsorship",
+    "active": true,
+    "degrees": [],
+    "url": "https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&partnerid=25539&siteid=5313&jobId=5208753",
+    "company_name": "General Atomics",
+    "title": "Associate Software Developer",
+    "locations": [
+      "Poway, CA"
+    ],
+    "category": "Software Engineering",
+    "source": "Devonav",
+    "id": "db9a694d-33b1-4f99-a7c9-3a15d72610b3",
+    "date_posted": 1768311526,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1768311596,
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "degrees": [],
+    "url": "https://job-boards.greenhouse.io/cribl/jobs/5739562004",
+    "company_name": "Cribl",
+    "title": "Data Engineer",
+    "locations": [
+      "Remote in USA"
+    ],
+    "category": "Data Science, AI & Machine Learning",
+    "source": "Devonav",
+    "id": "0d00a058-3a05-48b8-9d80-b13249bf23ff",
+    "date_posted": 1768311596,
+    "company_url": "",
+    "is_visible": true
   }
 ]
