@@ -80619,5 +80619,106 @@
     "date_posted": 1768311596,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Visa",
+    "id": "269ef28a-ef62-4536-b465-4108393d7ce0",
+    "title": "Data Engineer",
+    "active": true,
+    "date_updated": 1768321083,
+    "date_posted": 1768321083,
+    "url": "https://jobs.smartrecruiters.com/Visa/744000103271936",
+    "locations": [
+      "San Mateo, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Visa",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Visa",
+    "id": "1194d848-c5ad-4546-ab5b-e2d63fa15aa1",
+    "title": "Software Engineer \u2013 New College Grad - 2026 - Foster City",
+    "active": true,
+    "date_updated": 1768321088,
+    "date_posted": 1768321088,
+    "url": "https://jobs.smartrecruiters.com/Visa/744000103269677",
+    "locations": [
+      "San Mateo, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Visa",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Nextech Systems",
+    "id": "08271dc9-cee1-4e88-98d1-d9cfa7e6b385",
+    "title": "Software Engineer 1 - AI",
+    "active": true,
+    "date_updated": 1768320915,
+    "date_posted": 1768320915,
+    "url": "https://jobs.lever.co/nextech/f5c5c7cb-2295-47ba-b1e9-845b26dcaff0/apply",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/NextechSystems",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "Select Milk Producers ",
+    "id": "cd5e3b52-d191-4e41-86b3-5ef8bf0014f6",
+    "title": "Food Technologist 1",
+    "active": true,
+    "date_updated": 1768320388,
+    "date_posted": 1768320388,
+    "url": "https://selectmilk.wd12.myworkdayjobs.com/selectmilkproducers/job/La-Crosse-WI/Food-Technologist-I_JR101651",
+    "locations": [
+      "Winona, MN"
+    ],
+    "company_url": "https://simplify.jobs/c/Select-Milk-Producers",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Hawk-Eye Innovations",
+    "id": "444b4eea-0b91-4ca9-99cf-8642ec27bb5e",
+    "title": "Data Scientist",
+    "active": true,
+    "date_updated": 1768320512,
+    "date_posted": 1768320512,
+    "url": "https://jobs.ashbyhq.com/hawkeyeinnovations/86c95576-9c33-4a79-bebc-7fff43e2a9ca/application",
+    "locations": [
+      "Basingstoke, UK",
+      "London, UK",
+      "Bristol, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Hawk-Eye-Innovations",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
