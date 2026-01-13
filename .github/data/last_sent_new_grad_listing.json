@@ -79932,5 +79932,110 @@
       "Bachelor's",
       "Master's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "McGill University",
+    "id": "2687375d-af94-4d4b-b58b-080cc5fd661b",
+    "title": "Professor Chai",
+    "active": true,
+    "date_updated": 1768260300,
+    "date_posted": 1768260300,
+    "url": "https://mcgill.wd3.myworkdayjobs.com/McGill_Careers/job/Bronfman-Building/RA2---Prof-Chai_JR0000073081",
+    "locations": [
+      "Montreal, QC, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/McGill-University",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "RF-SMART",
+    "id": "9ccbf520-ccf4-42e0-91c0-dde624c83e9d",
+    "title": "Technical Consultant 1",
+    "active": true,
+    "date_updated": 1768260720,
+    "date_posted": 1768260720,
+    "url": "https://job-boards.greenhouse.io/rfsmart/jobs/5060767008",
+    "locations": [
+      "Jacksonville, FL",
+      "Highlands Ranch, CO"
+    ],
+    "company_url": "https://simplify.jobs/c/f006a158-9398-482e-9a19-a635e79862ae",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Certificate"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "VaynerMedia",
+    "id": "54193433-d540-4532-9fd5-9df2d1db0d31",
+    "title": "Senior Associate - Analytics - Media",
+    "active": true,
+    "date_updated": 1768260770,
+    "date_posted": 1768260770,
+    "url": "https://vaynermedia.com/careers?gh_jid=7531319",
+    "locations": [
+      "LA",
+      "Chicago, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/VaynerMedia",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Sigma Computing",
+    "id": "f04990cc-68fa-4d74-b870-cb6a596c0054",
+    "title": "Software Engineer \u2013 New Grad Program",
+    "active": true,
+    "date_updated": 1768260703,
+    "date_posted": 1768260703,
+    "url": "https://job-boards.greenhouse.io/sigmacomputing/jobs/7587162003",
+    "locations": [
+      "NYC",
+      "SF"
+    ],
+    "company_url": "https://simplify.jobs/c/Sigma-Computing",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Rocket Lab USA",
+    "id": "f362f5cd-2971-43af-8ac1-139a191b896e",
+    "title": "Software Engineer 1/2 - Digital Engineering",
+    "active": true,
+    "date_updated": 1768261224,
+    "date_posted": 1767922719,
+    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7582424003",
+    "locations": [
+      "Littleton, CO"
+    ],
+    "company_url": "https://simplify.jobs/c/Rocket-Lab-USA",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "PhD"
+    ]
   }
 ]
