@@ -81320,5 +81320,65 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "Kaseya",
+    "id": "f481c45d-1584-42f4-ac0e-4f0fb19ae561",
+    "title": "Product Marketing Manager",
+    "active": true,
+    "date_updated": 1768381874,
+    "date_posted": 1766509613,
+    "url": "https://www.kaseya.com/careers/jobs/id/5729960004/?gh_jid=5729960004",
+    "locations": [
+      "Vancouver, BC, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Kaseya",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "MBA"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Rivian",
+    "id": "3a37ecf1-1f51-4e9b-9724-9514c1b11554",
+    "title": "Software Engineer - Infotainment Platform",
+    "active": true,
+    "date_updated": 1768382279,
+    "date_posted": 1765228604,
+    "url": "https://careers.rivian.com/jobs/28107?lang=en-us&icims=1",
+    "locations": [
+      "Palo Alto, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Rivian",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Rivian",
+    "id": "a8a38036-9d8b-4ef0-918a-ee2fb14ed529",
+    "title": "Software Engineer - Engineering Productivity - Infotainment Platform",
+    "active": true,
+    "date_updated": 1768382229,
+    "date_posted": 1764779232,
+    "url": "https://careers.rivian.com/jobs/27934?lang=en-us&icims=1",
+    "locations": [
+      "Palo Alto, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Rivian",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
   }
 ]
