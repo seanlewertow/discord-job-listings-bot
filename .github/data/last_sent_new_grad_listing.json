@@ -81083,5 +81083,105 @@
       "Bachelor's",
       "Master's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "General Dynamics Information Technology",
+    "id": "36c9b7b4-9e96-49e9-adda-25c5ec121022",
+    "title": "Junior Software Developer - Active TS/SCI with Poly Required",
+    "active": true,
+    "date_updated": 1768347209,
+    "date_posted": 1768347209,
+    "url": "https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-MD-Annapolis-Junction/Junior-Software-Developer--Active-TS-SCI-with-Poly-Required-_RQ212931",
+    "locations": [
+      "Annapolis Junction, MD"
+    ],
+    "company_url": "https://simplify.jobs/c/GDIT",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Rocket Lab USA",
+    "id": "a6c0c87c-b335-4682-9080-d7f2b5e4ff0a",
+    "title": "Ground Software Engineer 1/2",
+    "active": true,
+    "date_updated": 1768347490,
+    "date_posted": 1768347490,
+    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7587006003",
+    "locations": [
+      "Littleton, CO"
+    ],
+    "company_url": "https://simplify.jobs/c/Rocket-Lab-USA",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Northrop Grumman",
+    "id": "71ba3c99-1ac0-49a1-bb16-c13815ad8ea5",
+    "title": "Software Engineer / Principal Software Engineer - Dee",
+    "active": true,
+    "date_updated": 1768347191,
+    "date_posted": 1768347191,
+    "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/Software-Engineer---Principal-Software-Engineer--DEE-_R10219028",
+    "locations": [
+      "Melbourne, FL"
+    ],
+    "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "PhD"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "Healthfirst",
+    "id": "4b156af8-f88d-40ab-821c-3e9572e78516",
+    "title": "Technology Early Career Development Program - Product Owner/Business Analyst",
+    "active": true,
+    "date_updated": 1768346807,
+    "date_posted": 1768346807,
+    "url": "https://healthfirst.wd1.myworkdayjobs.com/healthfirst/job/New-York-NY/XMLNAME-2026-Technology-Early-Career-Development-Program---Product-Owner-Business-Analyst_R021432",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Healthfirst",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "The Hartford ",
+    "id": "487ef189-e852-4127-8c0e-5d7d6b7bb91e",
+    "title": "Consultant - Digital Transformation and Reporting",
+    "active": true,
+    "date_updated": 1768346445,
+    "date_posted": 1768346445,
+    "url": "https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Chicago-IL/Consultant--Digital-Transformation-and-Reporting_R2623644",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/Hartford-Financial-Services",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
