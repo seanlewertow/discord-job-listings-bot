@@ -81594,5 +81594,103 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "54e267aa-2a4b-41de-b2f7-e0a5b489334e",
+    "title": "Trading Assistant",
+    "active": true,
+    "date_updated": 1768407151,
+    "date_posted": 1768407151,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400045903",
+    "locations": [
+      "United Kingdom"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "1d5a7c0d-bb92-491a-9b79-b9ac75f544a3",
+    "title": "Trading Assistant",
+    "active": true,
+    "date_updated": 1768407150,
+    "date_posted": 1768407150,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400045913",
+    "locations": [
+      "Bath, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Google",
+    "id": "ec0e884e-d8ba-4921-b49d-9f2f057efab4",
+    "title": "Software Engineer - Spanner Hybrid Search",
+    "active": true,
+    "date_updated": 1768406970,
+    "date_posted": 1768406970,
+    "url": "https://www.google.com/about/careers/applications/jobs/results/118548224553165510",
+    "locations": [
+      "Sunnyvale, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Google",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "PhD"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Amazon",
+    "id": "e9e0ba32-a71a-49a2-9394-a92b212ba170",
+    "title": "Engineering Operations Technician",
+    "active": true,
+    "date_updated": 1768406932,
+    "date_posted": 1768406932,
+    "url": "https://amazon.jobs/en/jobs/3153273/engineering-operations-technician",
+    "locations": [
+      "Palmyra, VA"
+    ],
+    "company_url": "https://simplify.jobs/c/Amazon",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Associate's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Atlantic Health System",
+    "id": "63a26df5-8c66-4cb9-8e3d-1f75de295f6d",
+    "title": "Delivery Technician 1 - Full Time - Days",
+    "active": true,
+    "date_updated": 1768406959,
+    "date_posted": 1768406959,
+    "url": "https://erqh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/23114",
+    "locations": [
+      "Morristown, NJ"
+    ],
+    "company_url": "https://simplify.jobs/c/Atlantic-Health-System",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
