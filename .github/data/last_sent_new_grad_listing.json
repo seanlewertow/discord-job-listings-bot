@@ -81183,5 +81183,104 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Susquehanna International Group (SIG)",
+    "id": "daa77377-eb84-403a-ae0f-a38c4d078f00",
+    "title": "Quantitative Researcher \u2013 Graduate: 2026",
+    "active": true,
+    "date_updated": 1768357127,
+    "date_posted": 1763163777,
+    "url": "https://careers-sig.icims.com/jobs/9553/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Long Beach, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Susquehanna",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Master's",
+      "PhD"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "ChampionX",
+    "id": "5d172087-11fe-4f6d-bbe2-d3aeb44c813f",
+    "title": "Application Engineer 1",
+    "active": true,
+    "date_updated": 1768358113,
+    "date_posted": 1768358113,
+    "url": "https://championx.wd1.myworkdayjobs.com/championx_external/job/USA--TX---Midland-Regional/Application-Engineer-I_R00134579",
+    "locations": [
+      "Midland, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/ChampionX",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "Cellular Sales",
+    "id": "d109d664-0104-4aa3-a2cf-d9bdf8cd9bb3",
+    "title": "Verizon Sales Consultant",
+    "active": true,
+    "date_updated": 1768357563,
+    "date_posted": 1754612923,
+    "url": "https://careers-cellularsales.icims.com/jobs/19692/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Cleveland, OH"
+    ],
+    "company_url": "https://simplify.jobs/c/Cellular-Sales",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "SpaceX",
+    "id": "58e0d3b9-666d-44e1-8e51-7e5376d743bd",
+    "title": "Software Engineer - Beam Planning - Starlink",
+    "active": true,
+    "date_updated": 1768357994,
+    "date_posted": 1768357994,
+    "url": "https://boards.greenhouse.io/spacex/jobs/8373117002",
+    "locations": [
+      "Sunnyvale, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/SpaceX",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "The Boeing Company",
+    "id": "547ddaef-b012-4fd3-bcb0-b7b1fff0d9ff",
+    "title": "Entry-Level Electrical Network & Digital Connectivity System Design Engineer",
+    "active": true,
+    "date_updated": 1768357761,
+    "date_posted": 1768357761,
+    "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Everett-WA/Entry-Level-Electrical-Network---Digital-Connectivity-System-Design-Engineer_JR2025489102-1",
+    "locations": [
+      "Everett, WA"
+    ],
+    "company_url": "https://simplify.jobs/c/Boeing",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
