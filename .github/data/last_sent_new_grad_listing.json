@@ -81793,5 +81793,26 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Buxton ",
+    "id": "8fce1a2b-dd1d-426b-aa33-25b6d6dbfb36",
+    "title": "Data Analyst",
+    "active": true,
+    "date_updated": 1768407276,
+    "date_posted": 1768407276,
+    "url": "https://ats.rippling.com/buxtoncocareers/jobs/d0620c82-5176-4a35-bc55-3984d4ca95f9",
+    "locations": [
+      "Fort Worth, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Buxton",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
   }
 ]
