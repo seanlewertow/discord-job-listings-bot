@@ -81302,5 +81302,23 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "Eucalyptus",
+    "id": "0920ad89-4dd5-45ab-831d-64dfa36944fc",
+    "title": "Product Associate - Community",
+    "active": true,
+    "date_updated": 1768375964,
+    "date_posted": 1766186928,
+    "url": "https://job-boards.greenhouse.io/eucalyptus/jobs/4642590005",
+    "locations": [
+      "London, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Eucalyptus",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
