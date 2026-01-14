@@ -80978,5 +80978,110 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "TD Bank",
+    "id": "908907d2-3609-47fe-9c5b-25cb2cb961b3",
+    "title": "Machine Learning Engineer 1",
+    "active": true,
+    "date_updated": 1768347633,
+    "date_posted": 1768347633,
+    "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Machine-Learning-Engineer-I_R_1465384",
+    "locations": [
+      "Toronto, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/TD-Bank",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "PhD"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Cerebras",
+    "id": "bca2d6a4-9995-47ff-8617-02cd350b0f56",
+    "title": "Early Career Compiler Engineer - LLVM",
+    "active": true,
+    "date_updated": 1768346941,
+    "date_posted": 1768321819,
+    "url": "https://boards.greenhouse.io/embed/job_app?token=7587669003",
+    "locations": [
+      "Toronto, ON, Canada",
+      "Sunnyvale, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Cerebras-Systems",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "PhD"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Huntington Ingalls Industries",
+    "id": "7120874d-8fd2-4a9d-ac24-256249fd321b",
+    "title": "Software Development Engineer",
+    "active": true,
+    "date_updated": 1768346242,
+    "date_posted": 1768346242,
+    "url": "https://careers.huntingtoningalls.com/job/Newport-News-SOFTWARE-DEVELOPMENT-ENGINEER-Virg/1355684900/?ats=successfactors",
+    "locations": [
+      "Newport News, VA"
+    ],
+    "company_url": "https://simplify.jobs/c/Huntington-Ingalls-Industries",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Jabil",
+    "id": "b9014c12-2621-49d4-8d30-77b93a02187c",
+    "title": "Test Engineering Technician 1",
+    "active": true,
+    "date_updated": 1768346953,
+    "date_posted": 1768346953,
+    "url": "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Memphis-TN/Test-Engineering-Technician-I_J2435090",
+    "locations": [
+      "Memphis, TN"
+    ],
+    "company_url": "https://simplify.jobs/c/Jabil",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Microchip Technology",
+    "id": "993f0eb3-7899-44de-b187-ea763e9cfc6a",
+    "title": "Engineer 1 - Validation",
+    "active": true,
+    "date_updated": 1768347338,
+    "date_posted": 1768347338,
+    "url": "https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/AZ---Chandler/Engineer-I-Validation_R2508-25",
+    "locations": [
+      "Chandler, AZ"
+    ],
+    "company_url": "https://simplify.jobs/c/Microchip-Technology",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
   }
 ]
