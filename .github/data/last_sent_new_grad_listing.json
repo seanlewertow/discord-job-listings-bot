@@ -81458,5 +81458,103 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Booz Allen",
+    "id": "fbc8347a-b9f6-4aec-909d-57c7695a8d9a",
+    "title": "Data Scientist",
+    "active": true,
+    "date_updated": 1768389749,
+    "date_posted": 1765390474,
+    "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Arlington-VA/Data-Scientist_R0227412-1",
+    "locations": [
+      "Arlington, VA"
+    ],
+    "company_url": "https://simplify.jobs/c/Booz-Allen",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Draper",
+    "id": "b7079f34-95f8-493e-89a0-b0f8575c8657",
+    "title": "Embedded Software Engineer",
+    "active": true,
+    "date_updated": 1768389208,
+    "date_posted": 1763887640,
+    "url": "https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Senior-Resilient---Fault-Tolerant-Embedded-Software-Engineer_JR000672",
+    "locations": [
+      "Cambridge, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/Draper",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Hersha Hospitality Management",
+    "id": "8d585724-0950-431f-bcce-17b7850be1e7",
+    "title": "Bus Person",
+    "active": true,
+    "date_updated": 1768386779,
+    "date_posted": 1763088892,
+    "url": "https://careers-hhmlp.icims.com/jobs/69253/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Dedham, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/Hersha-Hospitality-Management",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Advocates",
+    "id": "85987423-03ab-4e1c-baf1-f02e1054a7ae",
+    "title": "Direct Care Staff - Female Only",
+    "active": true,
+    "date_updated": 1768386836,
+    "date_posted": 1757721029,
+    "url": "https://careers-advocatesinc.icims.com/jobs/12572/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Grimes, IA"
+    ],
+    "company_url": "https://simplify.jobs/c/Advocates",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Cellular Sales",
+    "id": "d6bf2496-c2fc-4073-9858-360d43fa78bb",
+    "title": "Verizon Sales Consultant",
+    "active": true,
+    "date_updated": 1768387243,
+    "date_posted": 1757636137,
+    "url": "https://careers-cellularsales.icims.com/jobs/20678/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "White Plains, NY",
+      "Cincinnati, OH",
+      "Muskegon, MI"
+    ],
+    "company_url": "https://simplify.jobs/c/Cellular-Sales",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
