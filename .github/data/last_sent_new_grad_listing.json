@@ -81692,5 +81692,106 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "AspenTech",
+    "id": "3649da8c-c537-44d1-9c91-df4d3a1fe218",
+    "title": "Associate Software Developer 1 C++",
+    "active": true,
+    "date_updated": 1768409011,
+    "date_posted": 1768409011,
+    "url": "https://aspentech.wd5.myworkdayjobs.com/aspentech/job/Montreal-Mansfield/Associate-Software-Developer-I-C--_R8445-1",
+    "locations": [
+      "Montreal, QC, Canada",
+      "Mansfield, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/AspenTech",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Centria Autism",
+    "id": "86607fd3-6852-4393-af44-869fadd3e6eb",
+    "title": "Marketing and Sales Data Analyst",
+    "active": true,
+    "date_updated": 1768407630,
+    "date_posted": 1768407630,
+    "url": "https://job-boards.greenhouse.io/centriaautism/jobs/8366397002",
+    "locations": [
+      "Southfield, MI"
+    ],
+    "company_url": "https://simplify.jobs/c/Centria-Autism",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Emory University",
+    "id": "8355e4c6-74e6-4027-ba85-861e7a3c336a",
+    "title": "Data Analyst-School of Medicine - Hematology",
+    "active": true,
+    "date_updated": 1768407629,
+    "date_posted": 1768407629,
+    "url": "https://staff-emory.icims.com/jobs/151025/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Atlanta, GA"
+    ],
+    "company_url": "https://simplify.jobs/c/Emory-University",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "PhD"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Analog Devices",
+    "id": "15968241-8257-42b8-ac36-897239b2c13c",
+    "title": "Software Engineer - Developer Tools & Package Infrastructure",
+    "active": true,
+    "date_updated": 1768408287,
+    "date_posted": 1768408287,
+    "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/United-Kingdom-Edinburgh-SC-Freer/Junior-Software-Engineer---Developer-Tools---Package-Infrastructure_R258816",
+    "locations": [
+      "Edinburgh, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Analog-Devices",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "Sharp Electronics",
+    "id": "b1d0a75b-fc6c-4946-8208-0ea4c28e5745",
+    "title": "Associate Product Marketing Specialist",
+    "active": true,
+    "date_updated": 1768407571,
+    "date_posted": 1761872724,
+    "url": "https://careers-sharpusa.icims.com/jobs/8658/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Mahwah, NJ"
+    ],
+    "company_url": "https://simplify.jobs/c/Sharp-Electronics",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
