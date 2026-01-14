@@ -81282,5 +81282,25 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Huntington Ingalls Industries",
+    "id": "ce6dc923-e84b-4222-89c1-dd5d1921ea1c",
+    "title": "Software Engineer 1",
+    "active": true,
+    "date_updated": 1768374334,
+    "date_posted": 1768374334,
+    "url": "https://careers.huntingtoningalls.com/job/Newport-News-ENGINEER-SOFTWARE-1-Virg/1355744100/?ats=successfactors",
+    "locations": [
+      "Newport News, VA"
+    ],
+    "company_url": "https://simplify.jobs/c/Huntington-Ingalls-Industries",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
