@@ -81380,5 +81380,65 @@
       "Bachelor's",
       "Master's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "Sainsbury's",
+    "id": "70074171-58c1-4c78-bd4a-e5340e397ccd",
+    "title": "Graduate \u2013 Food Technical",
+    "active": true,
+    "date_updated": 1768383620,
+    "date_posted": 1767953488,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400045176",
+    "locations": [
+      "London, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Susquehanna International Group (SIG)",
+    "id": "9176ab13-a88c-4083-a4e2-72bf78318423",
+    "title": "Power Analyst - Power",
+    "active": true,
+    "date_updated": 1768382780,
+    "date_posted": 1765556918,
+    "url": "https://careers-sig.icims.com/jobs/10365/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Ardmore, PA"
+    ],
+    "company_url": "https://simplify.jobs/c/Susquehanna",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Upstart",
+    "id": "0dca8884-d2c0-47ba-93fe-c14e6143e9d7",
+    "title": "Machine Learning Engineer",
+    "active": true,
+    "date_updated": 1768384814,
+    "date_posted": 1761872671,
+    "url": "https://careers.upstart.com/jobs?gh_jid=6709289",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/Upstart",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "PhD"
+    ]
   }
 ]
