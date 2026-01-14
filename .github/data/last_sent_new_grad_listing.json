@@ -81440,5 +81440,23 @@
       "Master's",
       "PhD"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Tuality Healthcare",
+    "id": "c4202bbe-12a8-42eb-97ff-7861531d4272",
+    "title": "Admitting Representative",
+    "active": true,
+    "date_updated": 1768386570,
+    "date_posted": 1764025912,
+    "url": "https://careers-tuality.icims.com/jobs/10551/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Eglin AFB, FL"
+    ],
+    "company_url": "https://simplify.jobs/c/Tuality-Healthcare",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
