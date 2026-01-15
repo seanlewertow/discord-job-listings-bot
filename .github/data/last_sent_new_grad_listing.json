@@ -82910,5 +82910,102 @@
       "Bachelor's",
       "Master's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Arc'teryx Equipment",
+    "id": "d69a1fb3-23ba-4357-89a5-427734458ea8",
+    "title": "Software Engineer 1",
+    "active": true,
+    "date_updated": 1768518615,
+    "date_posted": 1768518615,
+    "url": "https://jobs.lever.co/arcteryx.com/513b3be5-3fd9-46a2-b15b-4ab013212d9a/apply",
+    "locations": [
+      "Vancouver, BC, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Arcteryx-Equipment",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "ServiceNow",
+    "id": "b651f9c1-0524-409d-9fe7-3a042ad4c3ea",
+    "title": "Software Engineer",
+    "active": true,
+    "date_updated": 1768518509,
+    "date_posted": 1768518509,
+    "url": "https://jobs.smartrecruiters.com/ServiceNow/744000103763495",
+    "locations": [
+      "London, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/ServiceNow",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Asurion",
+    "id": "7118c7bb-dc3f-4371-93d5-68fad82b32d0",
+    "title": "Cell Phone Repair Technician-Partnership Store - Google",
+    "active": true,
+    "date_updated": 1768518413,
+    "date_posted": 1768518413,
+    "url": "https://asurion.wd5.myworkdayjobs.com/asurioncareers_us/job/UBIF-CA---Santa-Monica---1460-3rd-Street-Promenade/Cell-Phone-Repair-Technician--Partnership-Store--Google-_ASU0018430",
+    "locations": [
+      "Santa Monica, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Asurion",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Western Digital",
+    "id": "0bd8d2b1-3bcf-4fef-b344-c738a87e974a",
+    "title": "Early Career Talent - Data Engineer",
+    "active": true,
+    "date_updated": 1768518611,
+    "date_posted": 1768518611,
+    "url": "https://jobs.smartrecruiters.com/WesternDigital/744000103778146",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Western-Digital",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Ciena",
+    "id": "8a5e7c53-421d-4705-a250-55c60b5a1004",
+    "title": "Verification and Field Application Engineer \u2013 New Grad",
+    "active": true,
+    "date_updated": 1768518315,
+    "date_posted": 1768518315,
+    "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Atlanta/Verification-and-Field-Application-Engineer---New-Grad_R029794",
+    "locations": [
+      "Atlanta, GA"
+    ],
+    "company_url": "https://simplify.jobs/c/Ciena",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
   }
 ]
