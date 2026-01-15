@@ -82351,5 +82351,105 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "Husqvarna Group",
+    "id": "2a194000-5dec-4735-8412-a1c65245e8dc",
+    "title": "Product Manager",
+    "active": true,
+    "date_updated": 1768436268,
+    "date_posted": 1768436268,
+    "url": "https://husqvarnagroup.wd3.myworkdayjobs.com/External_Career_Site/job/North-Salt-Lake-UT/Product-Manager_R-16064-1",
+    "locations": [
+      "North Salt Lake, UT"
+    ],
+    "company_url": "https://simplify.jobs/c/Husqvarna-Group",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "WTW",
+    "id": "25e4dbff-ab8c-471e-a242-635f7e13bea2",
+    "title": "Data Engineer",
+    "active": true,
+    "date_updated": 1768470211,
+    "date_posted": 1767741244,
+    "url": "https://eedu.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/202508824",
+    "locations": [
+      "Ipswich, UK",
+      "Dorking, UK",
+      "London, UK",
+      "Birmingham, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/WTW",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Light & Wonder",
+    "id": "5c50e2c3-abd5-4a8e-be06-58b7336d17e1",
+    "title": "Field Service Technician 1",
+    "active": true,
+    "date_updated": 1768474407,
+    "date_posted": 1765625620,
+    "url": "https://lnw.wd5.myworkdayjobs.com/lightwonderexternalcareers/job/Minot-ND/Field-Service-Tech-1_R320489",
+    "locations": [
+      "Minot, ND",
+      "Dickinson, United States",
+      "Williston, ND"
+    ],
+    "company_url": "https://simplify.jobs/c/Light-And-Wonder",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "CHA Consulting",
+    "id": "edb37d3a-0d7c-4e15-96cb-7d2f1769239a",
+    "title": "Electric Distribution Planner 1",
+    "active": true,
+    "date_updated": 1768472177,
+    "date_posted": 1759423602,
+    "url": "https://jobs-challp.icims.com/jobs/7386/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "St. Louis, MO"
+    ],
+    "company_url": "https://simplify.jobs/c/CHA-Consulting",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Associate's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Blue Ridge Health",
+    "id": "584d4887-b6a8-4539-ab35-795f98770ab8",
+    "title": "Dental Assistant",
+    "active": true,
+    "date_updated": 1768472088,
+    "date_posted": 1758983163,
+    "url": "https://careers-blueridgehealth.icims.com/jobs/1884/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Twinsburg, OH"
+    ],
+    "company_url": "https://simplify.jobs/c/Blue-Ridge-Health",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
