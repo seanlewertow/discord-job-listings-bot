@@ -82275,5 +82275,81 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Ethena",
+    "id": "d6d5dad6-e849-43c5-92ba-5c4bed54fc7b",
+    "title": "Commercial Operations & Analytics Associate",
+    "active": true,
+    "date_updated": 1768470579,
+    "date_posted": 1768435533,
+    "url": "https://jobs.lever.co/ethena/4843c8de-b04c-45f2-a861-0aa6532e74b3/apply",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/Ethena",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "360care",
+    "id": "046ed9f9-78e4-4850-be9f-e487e26e9d9b",
+    "title": "Mobile Dental Assistant",
+    "active": true,
+    "date_updated": 1768472199,
+    "date_posted": 1766446316,
+    "url": "https://careers-360care.icims.com/jobs/3929/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/360care",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Certificate"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "DataVisor",
+    "id": "4b9bdc38-8554-4af2-90d9-ec0be9fb3047",
+    "title": "AI/Machine Learning Engineer",
+    "active": true,
+    "date_updated": 1768470727,
+    "date_posted": 1765494789,
+    "url": "https://apply.workable.com/datavisor-jobs/j/05C2988E2D/apply",
+    "locations": [
+      "Mountain View, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/DataVisor",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "42 North Dental",
+    "id": "97a64654-d7fd-43e1-87c1-612d24d3f2a1",
+    "title": "Dental Hygienist",
+    "active": true,
+    "date_updated": 1768471491,
+    "date_posted": 1761825167,
+    "url": "https://careers-42northdental.icims.com/jobs/8895/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Coppell, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/42-North-Dental",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
