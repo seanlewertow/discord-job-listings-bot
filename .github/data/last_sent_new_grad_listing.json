@@ -82888,5 +82888,27 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "ASSA ABLOY",
+    "id": "bab969ba-0294-46b6-be7e-1ba685f359b6",
+    "title": "Software Developer",
+    "active": true,
+    "date_updated": 1768493834,
+    "date_posted": 1768493834,
+    "url": "https://assaabloy.jobs2web.com/job/New-Haven-Software-Developer-CT-06511/1283929701/?ats=successfactors",
+    "locations": [
+      "New Haven, CT",
+      "New Britain, CT"
+    ],
+    "company_url": "https://simplify.jobs/c/ASSA-ABLOY",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
   }
 ]
