@@ -82155,5 +82155,104 @@
     "degrees": [
       "Associate's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "Light & Wonder",
+    "id": "8ef8b1e0-8a51-48b1-b620-13abcfaf0dd0",
+    "title": "Game Producer",
+    "active": true,
+    "date_updated": 1768443894,
+    "date_posted": 1768443894,
+    "url": "https://lnw.wd5.myworkdayjobs.com/lightwonderexternalcareers/job/Chicago-IL/Game-Producer_R321028",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/Light-And-Wonder",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "d9057aac-dadf-42e1-9d74-300fd8ebbb9e",
+    "title": "Trading Assistant - Shift",
+    "active": true,
+    "date_updated": 1768461132,
+    "date_posted": 1768461132,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400045557",
+    "locations": [
+      "Letchworth Garden City, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Space Dynamics Laboratory",
+    "id": "f788dbd2-eb43-407d-8b02-2f69975be95d",
+    "title": "Entry Level Multidisciplinary Systems Engineer",
+    "active": true,
+    "date_updated": 1768442991,
+    "date_posted": 1768442991,
+    "url": "https://spacedynamicslaboratory.applytojob.com/apply/Yo9N0qpgEN/Entry-Level-Multidisciplinary-Systems-Engineer",
+    "locations": [
+      "Albuquerque, NM"
+    ],
+    "company_url": "https://simplify.jobs/c/Space-Dynamics-Laboratory",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Accenture",
+    "id": "397e575e-7d19-4d10-9e33-546e3e3a21ac",
+    "title": "AI & Data Analyst",
+    "active": true,
+    "date_updated": 1768444817,
+    "date_posted": 1768444817,
+    "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Mississauga-1-City-Centre-DCN/AI---Data-Analyst_R00306214",
+    "locations": [
+      "Mississauga, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Accenture-FS",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Vistry Group",
+    "id": "441064e7-e55d-47b0-8c08-9d82095a933d",
+    "title": "Real Estate Graduate",
+    "active": true,
+    "date_updated": 1768461710,
+    "date_posted": 1762534254,
+    "url": "https://careers-vistrygroup.icims.com/jobs/7958/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Odenton, MD"
+    ],
+    "company_url": "https://simplify.jobs/c/Vistry-Group",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Master's"
+    ]
   }
 ]
