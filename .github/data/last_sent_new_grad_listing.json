@@ -81914,5 +81914,107 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "The Travelers Companies",
+    "id": "d10609ec-9c47-4491-9edd-3879e613adb6",
+    "title": "Software Engineer 1 - Multiple Teams",
+    "active": true,
+    "date_updated": 1768436279,
+    "date_posted": 1768436279,
+    "url": "https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Software-Engineer-I--AWS--JavaScript--React-_R-48736",
+    "locations": [
+      "Hartford, CT"
+    ],
+    "company_url": "https://simplify.jobs/c/Travelers",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Intuit",
+    "id": "9c0faa15-ecd7-4f98-afeb-f10bd3a8a558",
+    "title": "Software Engineer 1",
+    "active": true,
+    "date_updated": 1768443366,
+    "date_posted": 1768443366,
+    "url": "https://jobs.intuit.com/job/mountain-view/software-engineer-1/27595/90599273824",
+    "locations": [
+      "San Diego, CA",
+      "Mountain View, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Intuit",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Uber",
+    "id": "e365fd00-a98c-4d8a-b98e-0263ebf8bbfa",
+    "title": "Graduate 2026 PhD Software Engineer 2 - Consumer Structural Pricing - United States",
+    "active": true,
+    "date_updated": 1768436367,
+    "date_posted": 1768436367,
+    "url": "https://university-uber.icims.com/jobs/153663/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "SF"
+    ],
+    "company_url": "https://simplify.jobs/c/Uber",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "PhD"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Arc Institute",
+    "id": "b058797c-22c2-4592-904a-83271b42c612",
+    "title": "Machine Learning Research Scientist - Hsu & Konermann Labs",
+    "active": true,
+    "date_updated": 1768444920,
+    "date_posted": 1755203718,
+    "url": "https://job-boards.greenhouse.io/arcinstitute/jobs/5618816004",
+    "locations": [
+      "Palo Alto, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Arc-Institute",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "PhD"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Abbott",
+    "id": "f5e07458-4942-415f-b1a2-3659a1315c43",
+    "title": "Field Service Engineer 2-New York metro area and New Jersey",
+    "active": true,
+    "date_updated": 1768444389,
+    "date_posted": 1768322297,
+    "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---New-York---New-York/Field-Service-Engineer-II--New-York-metro-area-and-New-Jersey_31137747-1",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/Abbott",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
