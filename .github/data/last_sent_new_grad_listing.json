@@ -82451,5 +82451,61 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Barnes & Noble Education",
+    "id": "8cf41005-272e-4b63-ba95-347cd08f43a7",
+    "title": "Campus Retail Associate",
+    "active": true,
+    "date_updated": 1768472068,
+    "date_posted": 1765582429,
+    "url": "https://careers-bncollege.icims.com/jobs/21408/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Princeton, NJ"
+    ],
+    "company_url": "https://simplify.jobs/c/Barnes-And-Noble-Education",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "St. Johns Riverside Hospital",
+    "id": "7a0bcd99-cd64-472c-9f49-49365cec720e",
+    "title": "Environmental Services Aide",
+    "active": true,
+    "date_updated": 1768471792,
+    "date_posted": 1766074348,
+    "url": "https://careers-riversidehealth.icims.com/jobs/9418/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Arlington, VA"
+    ],
+    "company_url": "https://simplify.jobs/c/St-Johns-Riverside-Hospital",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "DePaul",
+    "id": "ba57dfb2-cd5a-418b-8813-db7a87e3fa57",
+    "title": "Entitlement Specialist",
+    "active": true,
+    "date_updated": 1768472154,
+    "date_posted": 1759310633,
+    "url": "https://careers-depaul.icims.com/jobs/6409/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "McLean, VA"
+    ],
+    "company_url": "https://simplify.jobs/c/DePaul",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
