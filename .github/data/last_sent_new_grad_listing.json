@@ -82708,5 +82708,106 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Procter & Gamble (P&G)",
+    "id": "5ef4a9a6-9180-45d9-afec-60f231a5137d",
+    "title": "Front-end Software Developer",
+    "active": true,
+    "date_updated": 1768494413,
+    "date_posted": 1768494413,
+    "url": "https://pg.wd5.myworkdayjobs.com/1000/job/NEWCASTLE-INNOVATION-CENTRE/Front-end-Software-Developer_R000143470",
+    "locations": [
+      "Newcastle upon Tyne, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Procter-Gamble-Company",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Motorola",
+    "id": "d4c0312c-bfab-466c-93c6-f483eadfd376",
+    "title": "Graduate Software Engineer",
+    "active": true,
+    "date_updated": 1768494562,
+    "date_posted": 1768494562,
+    "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Glasgow-UK-ZUK118/Graduate-Software-Engineer_R61151",
+    "locations": [
+      "Glasgow, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/MotorolaSolutions",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "SAS",
+    "id": "9a276346-2569-4eb2-9601-cadb3f291b16",
+    "title": "Software Developer - Emerging Career - Java / Spring Boot",
+    "active": true,
+    "date_updated": 1768494227,
+    "date_posted": 1768494227,
+    "url": "https://careers-sas.icims.com/jobs/40406/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Morrisville, NC"
+    ],
+    "company_url": "https://simplify.jobs/c/SAS",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "JM Family",
+    "id": "750c8f39-1202-409a-9b4f-fc43381fc7d0",
+    "title": "IT Services Academy Program - Software Analyst",
+    "active": true,
+    "date_updated": 1768494811,
+    "date_posted": 1768494811,
+    "url": "https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Florida---Deerfield-Beach/IT-Services-Academy-Program---Software-Analyst_JR104494",
+    "locations": [
+      "Deerfield Beach, FL"
+    ],
+    "company_url": "https://simplify.jobs/c/JM-Family-Enterprises",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "CAE",
+    "id": "373ccce6-318e-4103-83e7-7c412fae15c2",
+    "title": "Simulator Technician 1",
+    "active": true,
+    "date_updated": 1768494779,
+    "date_posted": 1768494779,
+    "url": "https://cae.wd3.myworkdayjobs.com/career/job/Oklahoma-City-OK-USA/Simulator-Technician-I_119242",
+    "locations": [
+      "Oklahoma City, OK"
+    ],
+    "company_url": "https://simplify.jobs/c/0584b8e0-c24c-4b9b-9e06-b2484d8779bf",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Associate's"
+    ]
   }
 ]
