@@ -82254,5 +82254,26 @@
     "degrees": [
       "Master's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Amazon",
+    "id": "42bf4383-ef27-4d29-828a-b9da1c4aa338",
+    "title": "Agentic AI Teacher - Agi Ds - Agi Ds",
+    "active": true,
+    "date_updated": 1768469033,
+    "date_posted": 1767337736,
+    "url": "https://amazon.jobs/en/jobs/3150961/agentic-ai-teacher-agi-ds-agi-ds",
+    "locations": [
+      "Bellevue, WA",
+      "Boston, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/Amazon",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
