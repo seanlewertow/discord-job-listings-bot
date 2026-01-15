@@ -82617,5 +82617,96 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "6439358b-5b80-48c8-aaa8-4750b13c787e",
+    "title": "Trading Assistant - Shift",
+    "active": true,
+    "date_updated": 1768493749,
+    "date_posted": 1768493749,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400046039",
+    "locations": [
+      "Nottingham, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "27efddab-61c1-4bda-b566-7eac3909435f",
+    "title": "Trading Assistant",
+    "active": true,
+    "date_updated": 1768493734,
+    "date_posted": 1768493734,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400046016",
+    "locations": [
+      "Durham, UK",
+      "Thirsk, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "17a02313-dafb-48d8-8845-b431db0733ff",
+    "title": "Trading Assistant",
+    "active": true,
+    "date_updated": 1768493754,
+    "date_posted": 1768493754,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400045974",
+    "locations": [
+      "Highland Council, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "UAP",
+    "id": "1124ca2e-1ab5-4bb6-8c08-d4d1220f5897",
+    "title": "Product Management Administration Technician",
+    "active": true,
+    "date_updated": 1768493743,
+    "date_posted": 1768493743,
+    "url": "https://jobs.smartrecruiters.com/UAPInc/744000103750725",
+    "locations": [
+      "Longueuil, QC, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/UAP",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "068de26f-d271-4c61-9d80-c2ab3f3a0f85",
+    "title": "Trading Assistant",
+    "active": true,
+    "date_updated": 1768493782,
+    "date_posted": 1768493782,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400046051",
+    "locations": [
+      "Leeds, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
