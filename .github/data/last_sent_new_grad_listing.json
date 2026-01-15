@@ -82016,5 +82016,44 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Aramark",
+    "id": "1c7b1c03-a580-4f2d-9965-4c142a75a178",
+    "title": "Repair Technician - BSWH Temple Clinics",
+    "active": true,
+    "date_updated": 1768435968,
+    "date_posted": 1768435968,
+    "url": "https://aramarkcareers.com/UnitedStates/job/Temple-Repair-Technician-BSWH-Temple-Clinics-TX-76508/1348965100/?ats=successfactors",
+    "locations": [
+      "Temple, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Aramark",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "EquipmentShare",
+    "id": "89a25dc1-828d-4f70-b583-086a869c69cb",
+    "title": "Telematics Installer",
+    "active": true,
+    "date_updated": 1768444185,
+    "date_posted": 1768444185,
+    "url": "https://www.equipmentshare.com/careers/openings/?gh_jid=7538278",
+    "locations": [
+      "Phoenix, AZ"
+    ],
+    "company_url": "https://simplify.jobs/c/Equipment-Share",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Certificate"
+    ]
   }
 ]
