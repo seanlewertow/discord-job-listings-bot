@@ -82507,5 +82507,46 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Terex",
+    "id": "9b006257-acbc-4346-b1bd-325cb5c37308",
+    "title": "Design Engineer 1/2/Senior",
+    "active": true,
+    "date_updated": 1768477417,
+    "date_posted": 1768260712,
+    "url": "https://terex.wd1.myworkdayjobs.com/terexcareers/job/US-WA-Moses-Lake/Design-Engineer-I-II-Sr_REQ-11079",
+    "locations": [
+      "Quincy, WA"
+    ],
+    "company_url": "https://simplify.jobs/c/Terex",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Johnson & Johnson",
+    "id": "792fa1b4-a570-49ed-9e6a-36007b97f5fc",
+    "title": "Postdoctoral researcher Omics",
+    "active": true,
+    "date_updated": 1768478903,
+    "date_posted": 1768478903,
+    "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Beerse-Antwerp-Belgium/Postdoctoral-researcher-Omics--R-D-Data-Science---Digital-Health_R-052122",
+    "locations": [
+      "Ambler, PA",
+      "Cambridge, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/Johnson-Johnson",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "PhD"
+    ]
   }
 ]
