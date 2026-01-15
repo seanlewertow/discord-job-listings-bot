@@ -82055,5 +82055,105 @@
       "Bachelor's",
       "Certificate"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Intuitive Surgical",
+    "id": "43732909-04cc-40b9-830f-c018a60e4699",
+    "title": "Field Service Engineer 1",
+    "active": true,
+    "date_updated": 1768435988,
+    "date_posted": 1768435988,
+    "url": "https://jobs.smartrecruiters.com/Intuitive/744000103583725",
+    "locations": [
+      "Ann Arbor, MI"
+    ],
+    "company_url": "https://simplify.jobs/c/Intuitive-Surgical",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Associate's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "RTX",
+    "id": "bae1d84e-d23c-4be8-8c75-3653d2ae823e",
+    "title": "Software Engineer 1 - Connected Aviation",
+    "active": true,
+    "date_updated": 1768437085,
+    "date_posted": 1768437085,
+    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/HMD31-Annapolis-MD-2551-Riva-Road---Annapolis-MD-21401-7435-USA/Software-Engineer-I---Connected-Aviation--Onsite-_01816959",
+    "locations": [
+      "Annapolis, MD"
+    ],
+    "company_url": "https://simplify.jobs/c/RTX",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Affirm",
+    "id": "c733e07f-a565-4fe0-8dce-ee0e8be3742b",
+    "title": "Software Engineer \u2013 Early Career",
+    "active": true,
+    "date_updated": 1768444941,
+    "date_posted": 1768444941,
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/7566696003",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/Affirm",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Argonne National Laboratory",
+    "id": "3d212253-ef8b-46a6-9fbf-448b8161b764",
+    "title": "Postdoctoral Appointee - Foundation Models with Federated Learning",
+    "active": true,
+    "date_updated": 1768437305,
+    "date_posted": 1768437305,
+    "url": "https://argonne.wd1.myworkdayjobs.com/Argonne_Careers/job/Lemont-IL-USA/Postdoctoral-Appointee---Foundation-Models-with-Federated-Learning_421653",
+    "locations": [
+      "Woodridge, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/Argonne-National-Laboratory",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "PhD"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Kettering Health",
+    "id": "949f81f3-8837-4a4a-a477-acd2e4962faa",
+    "title": "Clinical Analytics Analyst - IS Analytic Health",
+    "active": true,
+    "date_updated": 1768461290,
+    "date_posted": 1766197436,
+    "url": "https://careers-ketteringhealth.icims.com/jobs/57002/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Miamisburg, OH"
+    ],
+    "company_url": "https://simplify.jobs/c/Kettering-Health",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Associate's"
+    ]
   }
 ]
