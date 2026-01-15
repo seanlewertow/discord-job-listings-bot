@@ -82809,5 +82809,84 @@
     "degrees": [
       "Associate's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Sensata",
+    "id": "0250792e-76dc-4f61-8eeb-3ba74ddcb509",
+    "title": "Graduate Failure Analysis Engineer",
+    "active": true,
+    "date_updated": 1768494589,
+    "date_posted": 1768494589,
+    "url": "https://sensata.wd1.myworkdayjobs.com/en-US/Sensata-Careers/job/Swindon-United-Kingdom/Graduate-Failure-Analysis-Engineer_IRC96633",
+    "locations": [
+      "Swindon, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/sensata-tech",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Wash U",
+    "id": "8a613aa3-73ce-48ed-8581-a84ea324d337",
+    "title": "Statistical Data Analyst - Surgery",
+    "active": true,
+    "date_updated": 1768493898,
+    "date_posted": 1768493898,
+    "url": "https://wustl.wd1.myworkdayjobs.com/external/job/Washington-University-Medical-Campus/Statistical-Data-Analyst---Surgery_JR92156",
+    "locations": [
+      "St. Louis, MO"
+    ],
+    "company_url": "https://simplify.jobs/c/Wash-U",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "JP Morgan Chase",
+    "id": "14e9c11d-4a77-4a51-a52a-a99b4e573d14",
+    "title": "Martech Product Owner Associate",
+    "active": true,
+    "date_updated": 1768493894,
+    "date_posted": 1768493894,
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210699774",
+    "locations": [
+      "London, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/JP-Morgan-Chase",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "National Information Solutions Cooperative (NISC)",
+    "id": "547e65db-142d-4233-bb1a-50a048f69f93",
+    "title": "Software Developer - Provisioning",
+    "active": true,
+    "date_updated": 1768495384,
+    "date_posted": 1768495384,
+    "url": "https://job-boards.greenhouse.io/nisc/jobs/7541232",
+    "locations": [
+      "Cedar Rapids, IA",
+      "Bismarck, ND"
+    ],
+    "company_url": "https://simplify.jobs/c/National-Information-Solutions-Cooperative-NISC",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
