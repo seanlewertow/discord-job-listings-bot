@@ -83557,5 +83557,65 @@
       "PhD",
       "MD"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Ohio State University",
+    "id": "26e71c8f-a9f7-4ec1-9d29-d45389a4f268",
+    "title": "Medical Simulation Technician",
+    "active": true,
+    "date_updated": 1768471260,
+    "date_posted": 1767716367,
+    "url": "https://osu.wd1.myworkdayjobs.com/OSUCareers/job/College-of-MedicineOffice-of-Health-Sciences/Medical-Simulation-Specialist_R142572",
+    "locations": [
+      "Columbus, OH"
+    ],
+    "company_url": "https://simplify.jobs/c/Ohio-State-University",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Barr",
+    "id": "6a3b1649-6837-41c2-8a15-14e2f27508ab",
+    "title": "Entry Level Chemical Engineer/Environmental Engineer/Scientist - Permitting and Compliance Focus",
+    "active": true,
+    "date_updated": 1768564451,
+    "date_posted": 1764497043,
+    "url": "https://barr.wd1.myworkdayjobs.com/barrcareers/job/Salt-Lake-City-UT/Chemical-Engineer-Environmental-Engineer-Scientist---Entry-Level---Permitting-and-Compliance-Focus--Hybrid-_R-101815",
+    "locations": [
+      "Salt Lake City, UT"
+    ],
+    "company_url": "https://simplify.jobs/c/Barr",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Draper",
+    "id": "bfd7284e-6b11-478d-9541-44bec97c347d",
+    "title": "Embedded Software Engineer",
+    "active": true,
+    "date_updated": 1768563030,
+    "date_posted": 1763887682,
+    "url": "https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Embedded-Software-Engineer_JR001254",
+    "locations": [
+      "Cambridge, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/Draper",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
