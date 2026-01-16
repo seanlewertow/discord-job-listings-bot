@@ -83676,5 +83676,100 @@
       "Bachelor's",
       "Master's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Wells Fargo",
+    "id": "ec67cdff-644f-470c-b4e4-87f53d4e1337",
+    "title": "Engineering Associate - Java API",
+    "active": true,
+    "date_updated": 1768576821,
+    "date_posted": 1768576821,
+    "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/CONCORD-CA/Engineering-Associate---Java-API_R-516000",
+    "locations": [
+      "San Leandro, CA",
+      "Concord, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Wells-Fargo",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "Zurn Elkay Water Solutions",
+    "id": "d01805ea-5d31-49fd-b100-fc4ddedfbf63",
+    "title": "Associate Product Manager",
+    "active": true,
+    "date_updated": 1768576826,
+    "date_posted": 1768576826,
+    "url": "https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Downers-Grove-IL/Associate-Product-Manager_REQ-019357",
+    "locations": [
+      "Downers Grove, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/Zurn-Elkay-Water-Solutions",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Wells Fargo",
+    "id": "47880064-6439-4b84-9243-141a2d0f1b78",
+    "title": "Engineering Associate - Java API",
+    "active": true,
+    "date_updated": 1768576826,
+    "date_posted": 1768576826,
+    "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/CHANDLER-AZ/Engineering-Associate---Java-API_R-515563",
+    "locations": [
+      "Chandler, AZ"
+    ],
+    "company_url": "https://simplify.jobs/c/Wells-Fargo",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Michelin",
+    "id": "e610ba11-8c2f-4d83-aa2f-219639e8767f",
+    "title": "Reliability Maintainer - Electrical / Mechanical",
+    "active": true,
+    "date_updated": 1768576441,
+    "date_posted": 1768576441,
+    "url": "https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Bridgewater/Reliability-Maintainer-Bridgewater----Electrical---Mechanical_R-2026001954",
+    "locations": [
+      "Lunenburg, NS, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Michelin",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "Macy's",
+    "id": "b37ab131-8e3f-48ed-b773-32edd7771e7c",
+    "title": "Sitewide Associate",
+    "active": true,
+    "date_updated": 1768576420,
+    "date_posted": 1768576420,
+    "url": "https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/84031",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Macys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
