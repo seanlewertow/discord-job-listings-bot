@@ -83462,5 +83462,41 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "e1d95840-2143-485b-9caa-82dd67ceafb4",
+    "title": "Trading Assistant",
+    "active": true,
+    "date_updated": 1768472425,
+    "date_posted": 1768472425,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400045973",
+    "locations": [
+      "Highland Council, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Nova Medical Centers",
+    "id": "92327237-5e04-4431-821d-4ab10edb37ec",
+    "title": "Patient Service Specialist",
+    "active": true,
+    "date_updated": 1768558690,
+    "date_posted": 1759534026,
+    "url": "https://jobs-novamedical.icims.com/jobs/8292/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Phoenix, AZ"
+    ],
+    "company_url": "https://simplify.jobs/c/Nova-Medical-Centers",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
