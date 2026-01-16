@@ -83201,5 +83201,109 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Northrop Grumman",
+    "id": "9ef79274-4446-433e-8fd9-a478990aa930",
+    "title": "Data Scientist - Melbourne FL",
+    "active": true,
+    "date_updated": 1768530440,
+    "date_posted": 1768530440,
+    "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/Data-Scientist-1-2---Melbourne-FL_R10219591",
+    "locations": [
+      "Melbourne, FL"
+    ],
+    "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Mass General Brigham",
+    "id": "4f3dd9f3-4306-4778-ae89-06d35699086c",
+    "title": "EHR Data Analyst",
+    "active": true,
+    "date_updated": 1768530632,
+    "date_posted": 1768530632,
+    "url": "https://massgeneralbrigham.wd1.myworkdayjobs.com/mgbexternal/job/Somerville-MA/Data-Analyst_RQ4036902",
+    "locations": [
+      "Boston, MA",
+      "Cambridge, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/Mass-General-Brigham",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Verkada",
+    "id": "aacc6361-2ee9-4d43-9f42-e18f331cf88b",
+    "title": "Security Software Engineer \u2013 University Graduate 2026",
+    "active": true,
+    "date_updated": 1768530633,
+    "date_posted": 1768530633,
+    "url": "https://job-boards.greenhouse.io/verkada/jobs/5026072007",
+    "locations": [
+      "San Mateo, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Verkada",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Verkada",
+    "id": "94792955-ce05-4c16-9258-dade92e73120",
+    "title": "Backend Software Engineer \u2013 University Graduate",
+    "active": true,
+    "date_updated": 1768530621,
+    "date_posted": 1768530621,
+    "url": "https://job-boards.greenhouse.io/verkada/jobs/5026066007",
+    "locations": [
+      "San Mateo, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Verkada",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "mthree",
+    "id": "6f23fa62-e0aa-4f90-a971-1a9590ccfce8",
+    "title": "Entry Level Software Developer",
+    "active": true,
+    "date_updated": 1768530608,
+    "date_posted": 1768530608,
+    "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4645471006",
+    "locations": [
+      "Quincy, MA",
+      "Boston, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/Mthree",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
