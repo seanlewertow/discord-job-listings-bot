@@ -83305,5 +83305,43 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Huntington Ingalls Industries",
+    "id": "9afb2286-3901-4d54-859a-1f2f4fbb6547",
+    "title": "Engineering Technician 1",
+    "active": true,
+    "date_updated": 1768547236,
+    "date_posted": 1768547236,
+    "url": "https://careers.huntingtoningalls.com/job/Newport-News-ENGINEERING-TECHNICIAN-1-Virg/1356738500/?ats=successfactors",
+    "locations": [
+      "Newport News, VA"
+    ],
+    "company_url": "https://simplify.jobs/c/Huntington-Ingalls-Industries",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Associate's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "UiPath",
+    "id": "4bf3df1c-6b21-444c-bf2a-5247a13a2570",
+    "title": "Software Engineer 1 - Backend",
+    "active": true,
+    "date_updated": 1768547278,
+    "date_posted": 1768547278,
+    "url": "https://jobs.ashbyhq.com/uipath/32206bf8-e395-4ba9-bf2f-6bfc32272697/application",
+    "locations": [
+      "Bellevue, WA"
+    ],
+    "company_url": "https://simplify.jobs/c/UiPath",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
