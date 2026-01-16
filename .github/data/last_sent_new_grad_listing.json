@@ -83771,5 +83771,83 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Cadwell",
+    "id": "da7d419a-b9f0-40d8-85c9-bb1f0609ee35",
+    "title": "Manufacturing Technician 1",
+    "active": true,
+    "date_updated": 1768577988,
+    "date_posted": 1768577988,
+    "url": "https://job-boards.greenhouse.io/cadwell/jobs/4105970009",
+    "locations": [
+      "Kennewick, WA"
+    ],
+    "company_url": "https://simplify.jobs/c/Cadwell",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Associate's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Vanderlande Industries",
+    "id": "6b314266-af4b-40a2-8068-c07edbbc263f",
+    "title": "Engineering Support Operative",
+    "active": true,
+    "date_updated": 1768577085,
+    "date_posted": 1768577085,
+    "url": "https://vanderlande.wd3.myworkdayjobs.com/careers/job/Warrington-Asda/Engineering-Support-Operative_JR35092",
+    "locations": [
+      "Warrington, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/7ab55595-a241-4468-bf77-178371480131",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Insurify",
+    "id": "0434742b-0c20-4b93-b7e3-bda6c349f5f8",
+    "title": "Business Data Analyst",
+    "active": true,
+    "date_updated": 1768577317,
+    "date_posted": 1768577317,
+    "url": "https://job-boards.greenhouse.io/insurify/jobs/5743828004",
+    "locations": [
+      "Cambridge, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/Insurify",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Entrust",
+    "id": "1ca887fb-4325-40bd-9159-9a0beaf82f80",
+    "title": "Applied Scientist 1",
+    "active": true,
+    "date_updated": 1768577215,
+    "date_posted": 1766601346,
+    "url": "https://entrust.wd1.myworkdayjobs.com/entrustcareers/job/United-Kingdom---London-Onfido/Applied-Scientist-I_R003921",
+    "locations": [
+      "London, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Entrust",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
