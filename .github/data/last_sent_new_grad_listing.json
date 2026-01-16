@@ -83343,5 +83343,104 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "a04f5498-e126-4131-91a1-85eaefd017cb",
+    "title": "Trading Assistant - Shift",
+    "active": true,
+    "date_updated": 1768547488,
+    "date_posted": 1768547488,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400046084",
+    "locations": [
+      "Northwich, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Rivian",
+    "id": "a9e42a52-9e3d-4b00-8335-88f39c181075",
+    "title": "Wireless and Connectivity Integration Engineer",
+    "active": true,
+    "date_updated": 1768548441,
+    "date_posted": 1768548441,
+    "url": "https://careers.rivian.com/jobs/27901?lang=en-us&icims=1",
+    "locations": [
+      "Vancouver, BC, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Rivian",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Capital One",
+    "id": "1b66c3de-2719-487e-a98d-a26210ec884c",
+    "title": "Applied Researcher 1 - AI Foundations",
+    "active": true,
+    "date_updated": 1768548774,
+    "date_posted": 1768548774,
+    "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/Applied-Researcher-I--AI-Foundations-_R229418-1",
+    "locations": [
+      "NYC",
+      "San Jose, CA",
+      "Cambridge, MA",
+      "SF",
+      "McLean, VA"
+    ],
+    "company_url": "https://simplify.jobs/c/Capital-One",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Master's",
+      "PhD"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "Bloomreach",
+    "id": "e10f5826-d599-4838-ac33-157b3c36527f",
+    "title": "Product Engagement Manager - Affinity",
+    "active": true,
+    "date_updated": 1768235608,
+    "date_posted": 1768235608,
+    "url": "https://job-boards.greenhouse.io/bloomreach/jobs/7529828",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/2c4c6424-8f66-47a3-b744-c040462ba1cc",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "062496e5-eb9a-48e8-8a0c-38390f83464a",
+    "title": "Trading Assistant - Shift",
+    "active": true,
+    "date_updated": 1768547479,
+    "date_posted": 1768547479,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400046086",
+    "locations": [
+      "Bracknell, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
