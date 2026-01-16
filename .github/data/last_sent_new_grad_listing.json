@@ -83617,5 +83617,23 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Zeiss",
+    "id": "8ca5a0f0-06d4-49d2-8a99-933612d84e5f",
+    "title": "Field Support Engineer 2",
+    "active": true,
+    "date_updated": 1768564470,
+    "date_posted": 1767031094,
+    "url": "https://zeissgroup.wd3.myworkdayjobs.com/External/job/Remote---USA-MO/Field-Support-Engineer-II_JR_1046058",
+    "locations": [
+      "St. Louis, MO"
+    ],
+    "company_url": "https://simplify.jobs/c/Zeiss",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
