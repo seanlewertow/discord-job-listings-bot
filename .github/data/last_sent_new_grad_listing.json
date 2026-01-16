@@ -83635,5 +83635,46 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Prairie View A&M University",
+    "id": "d29005b6-65e3-47f2-bd75-d58f553d0f44",
+    "title": "Postdoctoral Researcher - Pier - Trustworthy Artificial Intelligence",
+    "active": true,
+    "date_updated": 1768561392,
+    "date_posted": 1766444636,
+    "url": "https://tamus.wd1.myworkdayjobs.com/pvamu_external/job/Prairie-View-TX/Postdoctoral-Researcher--PIER---Trustworthy-Artificial-Intelligence--1_R-089887-1",
+    "locations": [
+      "Prairie View, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Prairie-View-AM-University",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "PhD"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "Acuren",
+    "id": "966ddc56-3e26-4598-9ca9-5469bc773302",
+    "title": "Entry Level NDT Assistant",
+    "active": true,
+    "date_updated": 1768558806,
+    "date_posted": 1764030531,
+    "url": "https://uscareers-acuren.icims.com/jobs/17003/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/Acuren",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
   }
 ]
