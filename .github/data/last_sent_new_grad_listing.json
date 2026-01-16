@@ -83007,5 +83007,101 @@
       "Bachelor's",
       "Master's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Tools for Humanity",
+    "id": "d5f3ea36-0bd7-45e5-b073-4bc56bf6df35",
+    "title": "Fellow",
+    "active": true,
+    "date_updated": 1768518833,
+    "date_posted": 1768518833,
+    "url": "https://jobs.ashbyhq.com/Tools%20for%20Humanity/5e076db5-ef04-46d2-a586-dc7675485808/application",
+    "locations": [
+      "SF"
+    ],
+    "company_url": "https://simplify.jobs/c/Tools-For-Humanity",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Prairie View A&M University",
+    "id": "b0deaebd-2620-4ecc-a27c-10f80a5e6505",
+    "title": "Postdoctoral Researcher - Pier - Integrated Food-Energy-Water Systems",
+    "active": true,
+    "date_updated": 1768518756,
+    "date_posted": 1768518756,
+    "url": "https://tamus.wd1.myworkdayjobs.com/pvamu_external/job/Prairie-View-TX/Postdoctoral-Researcher--PIER---Integrated-Food-Energy-Water-Systems-_R-089880-1",
+    "locations": [
+      "Prairie View, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Prairie-View-AM-University",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "PhD"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "8c06a499-61cc-4053-a2e0-52c6342b875b",
+    "title": "Trading Assistant - Shift",
+    "active": true,
+    "date_updated": 1768518655,
+    "date_posted": 1768518655,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400046056",
+    "locations": [
+      "Harlow, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "5731800f-8a30-4826-8a0f-ad929acd13cd",
+    "title": "Trading Assistant",
+    "active": true,
+    "date_updated": 1768518655,
+    "date_posted": 1768518655,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400046055",
+    "locations": [
+      "Durham, UK",
+      "Thirsk, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Appian",
+    "id": "ef30549f-2578-410c-ad3b-fe06d4d781cd",
+    "title": "Associate Consultant",
+    "active": true,
+    "date_updated": 1768519649,
+    "date_posted": 1765224632,
+    "url": "https://job-boards.greenhouse.io/appian/jobs/6299534",
+    "locations": [
+      "London, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Appian",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
   }
 ]
