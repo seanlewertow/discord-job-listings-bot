@@ -83103,5 +83103,103 @@
       "Bachelor's",
       "Master's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "The Travelers Companies",
+    "id": "386cce7f-7163-4dd6-8e96-72df25d7a9c2",
+    "title": "Software Engineer 1 - Aws",
+    "active": true,
+    "date_updated": 1768519709,
+    "date_posted": 1768519709,
+    "url": "https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Software-Engineer-I_R-48464",
+    "locations": [
+      "Hartford, CT"
+    ],
+    "company_url": "https://simplify.jobs/c/Travelers",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "GlobalFoundries",
+    "id": "0a11336e-f414-4de6-aff7-587b2cc14087",
+    "title": "MIC Equipment Technician",
+    "active": true,
+    "date_updated": 1768520065,
+    "date_posted": 1768520065,
+    "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/MIC-Equipment-Technician_JR-2504720",
+    "locations": [
+      "Malta, NY"
+    ],
+    "company_url": "https://simplify.jobs/c/GlobalFoundries",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Associate's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "Resonate",
+    "id": "da175d9d-8fb6-405c-bc41-febbb8f2d671",
+    "title": "Associate Product Marketing Manager",
+    "active": true,
+    "date_updated": 1768519861,
+    "date_posted": 1768494849,
+    "url": "https://job-boards.greenhouse.io/resonate/jobs/5025219007",
+    "locations": [
+      "Washington, DC"
+    ],
+    "company_url": "https://simplify.jobs/c/Resonate",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "KLA",
+    "id": "841d96de-7df5-4491-ac44-841c2fe18d02",
+    "title": "Software Engineer - AI & Full Stack Development",
+    "active": true,
+    "date_updated": 1768518828,
+    "date_posted": 1768518828,
+    "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Ann-Arbor-MI/Software-Engineer---AI---Full-Stack-Development_2531265-3",
+    "locations": [
+      "Ann Arbor, MI"
+    ],
+    "company_url": "https://simplify.jobs/c/KLA",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Wells Fargo",
+    "id": "b0a8de20-08cb-474a-bd6d-4c6f11a71005",
+    "title": "Engineering Associate - Application Development",
+    "active": true,
+    "date_updated": 1768529905,
+    "date_posted": 1768529905,
+    "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/IRVING-TX/Engineering-Associate---Application-Modernization_R-515575",
+    "locations": [
+      "Irving, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Wells-Fargo",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
