@@ -83849,5 +83849,119 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Ernst & Young",
+    "id": "2160a623-371a-4614-8273-b9a947573d30",
+    "title": "Tax - International Tax and Transaction Services - Transfer Pricing",
+    "active": true,
+    "date_updated": 1768576218,
+    "date_posted": 1768576218,
+    "url": "https://eyglobal.yello.co/jobs/FYe_cgvKuve9HQ-VXzmSng?job_board_id=c1riT--B2O-KySgYWsZO1Q",
+    "locations": [
+      "NYC",
+      "Pittsburgh, PA",
+      "Detroit, MI",
+      "Irvine, CA",
+      "United States",
+      "McLean, VA"
+    ],
+    "company_url": "https://simplify.jobs/c/Ernst-And-Young",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "JD"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Ernst & Young",
+    "id": "f994db0d-b02a-457f-8b9f-fb100f06e021",
+    "title": "Tax - Multiple Teams",
+    "active": true,
+    "date_updated": 1768576188,
+    "date_posted": 1768576188,
+    "url": "https://eyglobal.yello.co/jobs/xl6-KdOrWNg4MPbMfxFDNA?job_board_id=c1riT--B2O-KySgYWsZO1Q",
+    "locations": [
+      "NYC",
+      "Charlotte, NC",
+      "Washington",
+      "United States"
+    ],
+    "company_url": "https://simplify.jobs/c/Ernst-And-Young",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "JD"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Ernst & Young",
+    "id": "bf55055e-eed2-425c-822b-a49c2cb1da27",
+    "title": "USA \u2013 Tax - Indirect Tax - State Income Tax",
+    "active": true,
+    "date_updated": 1768576181,
+    "date_posted": 1768576181,
+    "url": "https://eyglobal.yello.co/jobs/_BEZzaFRicI-W2S09JqTXA?job_board_id=c1riT--B2O-KySgYWsZO1Q",
+    "locations": [
+      "NYC",
+      "Nashville, TN"
+    ],
+    "company_url": "https://simplify.jobs/c/Ernst-And-Young",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Master's",
+      "JD"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Ernst & Young",
+    "id": "23d0f031-208b-4112-83de-d3dbae934bf1",
+    "title": "USA \u2013 Tax - Indirect Tax - California Controversy Group','Sacramento','Jd/LLM','Staff 2",
+    "active": true,
+    "date_updated": 1768576462,
+    "date_posted": 1768576462,
+    "url": "https://eyglobal.yello.co/jobs/tOsfhHRaXLWL6g2VYOGDKw?job_board_id=c1riT--B2O-KySgYWsZO1Q",
+    "locations": [
+      "Sacramento, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Ernst-And-Young",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Master's",
+      "JD"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "KBR",
+    "id": "1ec36dcf-d0c4-400b-8b3d-14204023d790",
+    "title": "Software Engineer 1",
+    "active": true,
+    "date_updated": 1768577339,
+    "date_posted": 1768577339,
+    "url": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Sioux-Falls-South-Dakota/Software-Engineer-I_R2117676",
+    "locations": [
+      "Sioux Falls, SD"
+    ],
+    "company_url": "https://simplify.jobs/c/KBR",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
