@@ -83985,5 +83985,103 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "American Express",
+    "id": "f76cfcbf-05bf-4090-aba2-bfeff6e1921c",
+    "title": "Associate-Digital Product Management",
+    "active": true,
+    "date_updated": 1768604902,
+    "date_posted": 1768604902,
+    "url": "https://aexp.eightfold.ai/careers/job/39611752",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/American-Express",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "American Express",
+    "id": "a21f8453-1373-42cb-b8a2-b80b6b99d45f",
+    "title": "Associate Digital Product Operations",
+    "active": true,
+    "date_updated": 1768604911,
+    "date_posted": 1768604911,
+    "url": "https://aexp.eightfold.ai/careers/job/39565414",
+    "locations": [
+      "Brighton, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/American-Express",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Ciena",
+    "id": "9abb3cb3-18fd-4577-a7d5-e66ae3d0ded9",
+    "title": "RLS Photonics Software Engineer",
+    "active": true,
+    "date_updated": 1768604725,
+    "date_posted": 1768604725,
+    "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/RLS-Photonics-Software-Engineer---New-Grad-2026_R029820",
+    "locations": [
+      "Ottawa, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Ciena",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Ernst & Young",
+    "id": "4626109d-d9f1-47bf-8447-09c446e1586c",
+    "title": "USA \u2013 Tax - Indirect Tax",
+    "active": true,
+    "date_updated": 1768604962,
+    "date_posted": 1768604962,
+    "url": "https://eyglobal.yello.co/jobs/CmBUJcCDjJ3XXYHGn1GgYg?job_board_id=c1riT--B2O-KySgYWsZO1Q",
+    "locations": [
+      "United States",
+      "Charlotte, NC",
+      "Nashville, TN",
+      "Atlanta, GA"
+    ],
+    "company_url": "https://simplify.jobs/c/Ernst-And-Young",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "League",
+    "id": "c8ab7d22-530e-44e4-92eb-9de84a282f9b",
+    "title": "Product Management Analyst",
+    "active": true,
+    "date_updated": 1768604667,
+    "date_posted": 1768604667,
+    "url": "https://job-boards.greenhouse.io/leagueinc/jobs/5769881004",
+    "locations": [
+      "Toronto, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/League",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
