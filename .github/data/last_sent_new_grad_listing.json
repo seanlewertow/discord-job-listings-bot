@@ -83498,5 +83498,23 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Baker Hughes",
+    "id": "6a026d64-ecf1-480f-93ca-a5fdc6bb7227",
+    "title": "Electrical Technician",
+    "active": true,
+    "date_updated": 1768559438,
+    "date_posted": 1767655044,
+    "url": "https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/US-PA-Turtle-Creek-601-Braddock-Avenue/Electrical-Technician_R159795",
+    "locations": [
+      "Monroeville, PA"
+    ],
+    "company_url": "https://simplify.jobs/c/Baker-Hughes",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
