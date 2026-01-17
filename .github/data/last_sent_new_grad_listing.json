@@ -84083,5 +84083,105 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "Applied Materials",
+    "id": "d27f8e72-3d8c-4d51-aa35-53cb56e4a038",
+    "title": "Product Line Manager",
+    "active": true,
+    "date_updated": 1768606997,
+    "date_posted": 1768606997,
+    "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Product-Line-Manager--New-College-Grad--Master-s--Santa-Clara--CA-_R2519475",
+    "locations": [
+      "Santa Clara, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Applied-Materials",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Abbott",
+    "id": "c5ff7d99-1847-4822-aad9-07e632a0a6e3",
+    "title": "Engineer \u2013 Associate - Product Engineering - Point of Care",
+    "active": true,
+    "date_updated": 1768607081,
+    "date_posted": 1768607081,
+    "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/Canada---Ontario---Ottawa/Engineer--Associate--Product-Engineering----Point-of-Care--Ottawa-_31138858",
+    "locations": [
+      "Ottawa, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Abbott",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Scientific Games",
+    "id": "13ee15ee-c6d3-4a92-99ed-f52ad4485caf",
+    "title": "Field Service Tech 1 - Lawrence - KS & Kansas City','KS",
+    "active": true,
+    "date_updated": 1768606483,
+    "date_posted": 1768606483,
+    "url": "https://sglottery.wd5.myworkdayjobs.com/ScientificGamesExternalCareers/job/Kansas-US/Field-Service-Tech-1---Lawrence--KS---Kansas-City--KS_R504225",
+    "locations": [
+      "Lawrence, KS",
+      "Kansas City, KS"
+    ],
+    "company_url": "https://simplify.jobs/c/Scientific-Games",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Oshkosh",
+    "id": "0fe390f1-ddcc-4f10-987a-a2357ed97643",
+    "title": "Software Application Engineer \u2013 Entry Level",
+    "active": true,
+    "date_updated": 1768606889,
+    "date_posted": 1768606889,
+    "url": "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Huntersville-North-Carolina-United-States/Software-Application-Engineer---Entry-Level_R43851",
+    "locations": [
+      "Huntersville, NC"
+    ],
+    "company_url": "https://simplify.jobs/c/Oshkosh",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Robinhood",
+    "id": "390664ef-dce6-4b0a-b659-7c3110952111",
+    "title": "Software Engineer - Backend",
+    "active": true,
+    "date_updated": 1768606105,
+    "date_posted": 1768548555,
+    "url": "https://boards.greenhouse.io/robinhood/jobs/7263578",
+    "locations": [
+      "Menlo Park, CA",
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Robinhood",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
