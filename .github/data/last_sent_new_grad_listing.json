@@ -84279,5 +84279,26 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "Atlassian",
+    "id": "9719dac3-229e-4efe-80cb-86bf3f74435b",
+    "title": "Associate Product Manager",
+    "active": true,
+    "date_updated": 1768634347,
+    "date_posted": 1768634346,
+    "url": "https://careers-americas.icims.com/jobs/20907/associate-product-manager%2c-2026-graduate-u.s./job",
+    "locations": [
+      "SF"
+    ],
+    "company_url": "https://simplify.jobs/c/Atlassian",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
   }
 ]
