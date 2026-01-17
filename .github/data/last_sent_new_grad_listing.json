@@ -84357,5 +84357,46 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "ASML",
+    "id": "a364a537-ed87-4c00-af30-8a2964b292b4",
+    "title": "Senior Algorithm Application Engineer",
+    "active": true,
+    "date_updated": 1768648822,
+    "date_posted": 1765652291,
+    "url": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Jose-CA-USA/Senior-Algorithm-Application-Engineer_J-00329367",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/ASML",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Master's",
+      "PhD"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Model1 Commercial Vehicles",
+    "id": "867ae1e7-01aa-4900-bec6-874bd2336d69",
+    "title": "Auto Technician/ Mechanic",
+    "active": true,
+    "date_updated": 1768646381,
+    "date_posted": 1763050373,
+    "url": "https://careers-model1.icims.com/jobs/1820/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/Model1-Commercial-Vehicles",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
