@@ -84439,5 +84439,25 @@
       "Bachelor's",
       "Master's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Dominion Energy",
+    "id": "388cb0a9-24ff-462a-b530-4c72b6bcc4ee",
+    "title": "Engineering Technical Specialist 1",
+    "active": true,
+    "date_updated": 1768663022,
+    "date_posted": 1768663022,
+    "url": "https://careers.dominionenergy.com/job/GLEN-ALLEN-Engineering-Technical-Specialist-I-PRA-(Innsbrook)-VA-23060/1357235100/?ats=successfactors",
+    "locations": [
+      "Glen Allen, VA"
+    ],
+    "company_url": "https://simplify.jobs/c/Dominion-Energy",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
