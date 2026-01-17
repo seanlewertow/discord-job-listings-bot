@@ -84459,5 +84459,23 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "St. Johns Riverside Hospital",
+    "id": "29d632b7-876b-43e7-b613-8b8a9ea19bab",
+    "title": "Environmental Services Aide",
+    "active": true,
+    "date_updated": 1768663091,
+    "date_posted": 1768605561,
+    "url": "https://careers-riversidehealth.icims.com/jobs/9417/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Ardmore, PA"
+    ],
+    "company_url": "https://simplify.jobs/c/St-Johns-Riverside-Hospital",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
