@@ -84318,5 +84318,44 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Vistry Group",
+    "id": "f3b7e9ef-368c-48e5-b751-6766461ce774",
+    "title": "Real Estate Graduate",
+    "active": true,
+    "date_updated": 1768646472,
+    "date_posted": 1764366119,
+    "url": "https://careers-vistrygroup.icims.com/jobs/7968/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Odenton, MD"
+    ],
+    "company_url": "https://simplify.jobs/c/Vistry-Group",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Utah State University",
+    "id": "ea6d824e-1b3c-47f9-b21e-19a2428191f3",
+    "title": "Aggie Creamery Shift Lead Spring",
+    "active": true,
+    "date_updated": 1768645811,
+    "date_posted": 1759309267,
+    "url": "https://careers-usu.icims.com/jobs/9826/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Lincoln, NE",
+      "Omaha, NE"
+    ],
+    "company_url": "https://simplify.jobs/c/Utah-State-University",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
