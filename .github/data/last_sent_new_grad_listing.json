@@ -84477,5 +84477,77 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "e8066546-b55b-42a9-a596-37afd6196cc0",
+    "title": "Trading Assistant - Shift",
+    "active": true,
+    "date_updated": 1768691577,
+    "date_posted": 1768691577,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400046235",
+    "locations": [
+      "Chesterfield, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "bdcbc959-b8da-4bd8-83da-519ca5c33be4",
+    "title": "Trading Assistant - Shift",
+    "active": true,
+    "date_updated": 1768691586,
+    "date_posted": 1768691586,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400046250",
+    "locations": [
+      "Hereford, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "60e64464-d088-4db7-befa-d946f4efcccc",
+    "title": "Trading Assistant - Shift",
+    "active": true,
+    "date_updated": 1768691576,
+    "date_posted": 1768691576,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400046237",
+    "locations": [
+      "Chesterfield, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "497b7364-9887-4a48-9635-299ed6e6b9dd",
+    "title": "Trading Assistant",
+    "active": true,
+    "date_updated": 1768691580,
+    "date_posted": 1768691580,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400046255",
+    "locations": [
+      "Stirling, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
