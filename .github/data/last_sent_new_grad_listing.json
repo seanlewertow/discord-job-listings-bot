@@ -84300,5 +84300,23 @@
       "Bachelor's",
       "Master's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Formlabs",
+    "id": "6230d91e-53ef-4326-8ab3-ac0f89ea62ac",
+    "title": "Revenue Analytics Lead",
+    "active": true,
+    "date_updated": 1768643737,
+    "date_posted": 1764780506,
+    "url": "https://careers.formlabs.com/job/7181193/apply/?gh_jid=7181193",
+    "locations": [
+      "Cambridge, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/Formlabs",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
