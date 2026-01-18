@@ -84549,5 +84549,97 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Westinghouse Electric Company",
+    "id": "cfe157b8-016f-47ca-9a01-0a93843b6f5c",
+    "title": "Leadership program new grad Engineer - Parts",
+    "active": true,
+    "date_updated": 1768691665,
+    "date_posted": 1768691665,
+    "url": "https://careers.westinghousenuclear.com/job/Cranberry-Township-Leadership-program-new-grad-Engineer-(parts)-NC/1357243200/?ats=successfactors",
+    "locations": [
+      "Cranberry Twp, PA"
+    ],
+    "company_url": "https://simplify.jobs/c/Westinghouse-Electric-Company",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "865eeb55-e5eb-404b-bc84-7c6cd4d51b49",
+    "title": "Trading Assistant - Shift",
+    "active": true,
+    "date_updated": 1768691583,
+    "date_posted": 1768691583,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400046238",
+    "locations": [
+      "Chesterfield, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "aa5e7214-a338-40ca-9202-c3be01386467",
+    "title": "Trading Assistant",
+    "active": true,
+    "date_updated": 1768691580,
+    "date_posted": 1768691580,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400046244",
+    "locations": [
+      "Blackpool, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "14d24275-00fa-43b5-82c4-cb1fd996babd",
+    "title": "Trading Assistant",
+    "active": true,
+    "date_updated": 1768691581,
+    "date_posted": 1768691581,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400046231",
+    "locations": [
+      "Bath, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "5df370e7-ec57-4d65-bcb9-23d0cbf316ed",
+    "title": "Trading Assistant",
+    "active": true,
+    "date_updated": 1768691576,
+    "date_posted": 1768691576,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400046230",
+    "locations": [
+      "Bath, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
