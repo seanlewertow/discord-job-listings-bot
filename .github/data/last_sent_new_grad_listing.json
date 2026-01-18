@@ -84641,5 +84641,62 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Nutanix",
+    "id": "c64a68df-59f3-4a92-9f85-238b7baa4395",
+    "title": "Member of Technical Staff 2",
+    "active": true,
+    "date_updated": 1768778302,
+    "date_posted": 1768778302,
+    "url": "https://jobs.jobvite.com/nutanix/job/omxjzfwv?nl=1&nl=1&fr=false",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Nutanix",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "eda813c4-270e-4ce6-b8f6-b21b0a1c93c2",
+    "title": "Trading Assistant",
+    "active": true,
+    "date_updated": 1768778049,
+    "date_posted": 1768778049,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400046303",
+    "locations": [
+      "Blackpool, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "2004df2c-c93d-4fa1-b00a-1108ad84f6e4",
+    "title": "Trading Assistant",
+    "active": true,
+    "date_updated": 1768778020,
+    "date_posted": 1768778020,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400046297",
+    "locations": [
+      "Solihull, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
