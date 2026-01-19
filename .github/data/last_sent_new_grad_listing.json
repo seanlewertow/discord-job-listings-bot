@@ -84698,5 +84698,77 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "383dc503-e535-4b9d-bbad-8c9440875f96",
+    "title": "Trading Assistant",
+    "active": true,
+    "date_updated": 1768818914,
+    "date_posted": 1768818914,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400046342",
+    "locations": [
+      "Blackpool, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "1c1b4f69-0d99-4644-b958-2c598569c010",
+    "title": "Trading Assistant",
+    "active": true,
+    "date_updated": 1768818918,
+    "date_posted": 1768818918,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400046344",
+    "locations": [
+      "Bracknell, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "02e7b89f-c0f6-49fd-8a8c-ff8023a3c408",
+    "title": "Trading Assistant",
+    "active": true,
+    "date_updated": 1768818917,
+    "date_posted": 1768818917,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400046347",
+    "locations": [
+      "Blackpool, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "577a6df6-7702-4d66-8059-23e3aeb41ac0",
+    "title": "Trading Assistant",
+    "active": true,
+    "date_updated": 1768818913,
+    "date_posted": 1768818913,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400046328",
+    "locations": [
+      "Leeds, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
