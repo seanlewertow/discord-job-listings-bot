@@ -84861,5 +84861,101 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "3137ead7-3ea4-4192-bcb8-e9dbecd14700",
+    "title": "Trading Assistant - Shift",
+    "active": true,
+    "date_updated": 1768835950,
+    "date_posted": 1768835950,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400046402",
+    "locations": [
+      "Dundee, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "3080e5a3-04b8-45ac-95ab-0febf90b80b0",
+    "title": "Trading Assistant",
+    "active": true,
+    "date_updated": 1768835948,
+    "date_posted": 1768835948,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400046395",
+    "locations": [
+      "Exeter, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Samsung",
+    "id": "427e7840-0d2d-4d72-9eae-245feac9271e",
+    "title": "System Performance Engineer",
+    "active": true,
+    "date_updated": 1768836461,
+    "date_posted": 1768836461,
+    "url": "https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/Phoenix-Building-Bangalore-India/System-Performance-Engineer_R104812",
+    "locations": [
+      "Bengaluru, Karnataka, India",
+      "Phoenix, AZ"
+    ],
+    "company_url": "https://simplify.jobs/c/Samsung",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "KONE",
+    "id": "2bfb47d8-0bb5-4170-bd52-899a0fc45742",
+    "title": "Lift Tester",
+    "active": true,
+    "date_updated": 1768836591,
+    "date_posted": 1768836591,
+    "url": "https://kone.wd3.myworkdayjobs.com/careers/job/Gateshead/Lift-Tester_R0656461",
+    "locations": [
+      "Newcastle upon Tyne, UK",
+      "Durham, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/KONE",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Certificate"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "KCI Technologies",
+    "id": "68a88b44-e584-4518-93ff-43ad02966f79",
+    "title": "GIS Technician 1 - Energy",
+    "active": true,
+    "date_updated": 1768836203,
+    "date_posted": 1761878967,
+    "url": "https://careers-kci.icims.com/jobs/7367/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Charlotte, NC"
+    ],
+    "company_url": "https://simplify.jobs/c/KCI-Technologies",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Associate's"
+    ]
   }
 ]
