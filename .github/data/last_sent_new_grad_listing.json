@@ -84957,5 +84957,65 @@
     "degrees": [
       "Associate's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "FactSet",
+    "id": "7f4a852b-4853-473f-bf6c-adba0d26ec2b",
+    "title": "Client Solutions Associate",
+    "active": true,
+    "date_updated": 1768737750,
+    "date_posted": 1768737750,
+    "url": "https://factset.wd108.myworkdayjobs.com/FactSetCareers/job/London-GBR/Client-Solutions-Associate---London--June-2026_R30721",
+    "locations": [
+      "London, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/FactSet",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "KLA Corporation",
+    "id": "12a0b7db-3e97-492e-9360-bc8438c4e8d5",
+    "title": "Software Engineer - C++ - Object-Oriented Design/Object-Oriented Programming",
+    "active": true,
+    "date_updated": 1768737165,
+    "date_posted": 1768737165,
+    "url": "https://kla.wd1.myworkdayjobs.com/search/job/Milpitas-CA/Software-Engineer--C----OOD-OOP--Linux-_2633855",
+    "locations": [
+      "Milpitas, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/KLA-Corporation",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "PhD"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Halliburton",
+    "id": "b3f9e2c3-b1a6-48e0-bfe1-c8772c27c8bb",
+    "title": "Cable Technician - I - III','Artificial Lift",
+    "active": true,
+    "date_updated": 1768493957,
+    "date_posted": 1768493957,
+    "url": "https://jobs.halliburton.com/job/Leduc-Cable-Technician-(I-III)-Artificial-Lift-205432-AB-T9E-0R8/1356575800/?ats=successfactors",
+    "locations": [
+      "Nisku, AB, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Halliburton",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
