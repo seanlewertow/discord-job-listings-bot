@@ -85017,5 +85017,103 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Sherwin-Williams",
+    "id": "f54d989b-f55d-410a-b83d-75979c82dc80",
+    "title": "R&D-Technician 1",
+    "active": true,
+    "date_updated": 1768864554,
+    "date_posted": 1768864554,
+    "url": "https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2601571",
+    "locations": [
+      "Strongsville, OH"
+    ],
+    "company_url": "https://simplify.jobs/c/Sherwin-Williams",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Jerry",
+    "id": "85509fce-d078-4b7a-b2fc-37f7e01e1c39",
+    "title": "Associate Software Engineer",
+    "active": true,
+    "date_updated": 1768864375,
+    "date_posted": 1768864375,
+    "url": "https://jobs.ashbyhq.com/jerry.ai/7c5fb743-5d95-489c-a620-0f6ca62d775c/application",
+    "locations": [
+      "Palo Alto, CA",
+      "Toronto, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Jerry",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "RTX",
+    "id": "19bb7fb0-b5fa-4206-9a69-a8df325c95c6",
+    "title": "Microelectronics Systems Engineer 1",
+    "active": true,
+    "date_updated": 1768864604,
+    "date_posted": 1768864604,
+    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-121--350-Collins-Rd-NE--BLDG-121/Microelectronics-Systems-Engineer-I--Onsite-_01815808",
+    "locations": [
+      "Cedar Rapids, IA"
+    ],
+    "company_url": "https://simplify.jobs/c/RTX",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "BMO ",
+    "id": "1782e41b-d707-4048-8360-dd8eb8b43d0c",
+    "title": "Analyst \u2013 AI Engineer",
+    "active": true,
+    "date_updated": 1768864382,
+    "date_posted": 1768864382,
+    "url": "https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Analyst--AI-Engineer_R260001920",
+    "locations": [
+      "Toronto, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/BMO-Bank",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "71d84650-5716-40e0-9b87-27b912fc6439",
+    "title": "Trading Assistant",
+    "active": true,
+    "date_updated": 1768864249,
+    "date_posted": 1768864249,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400046432",
+    "locations": [
+      "Cambridge, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
