@@ -85408,5 +85408,63 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "RWS",
+    "id": "3a50e189-8141-4113-8009-aaeec1c61911",
+    "title": "AI Data Specialist - New Hampshire - US",
+    "active": true,
+    "date_updated": 1768902954,
+    "date_posted": 1768864817,
+    "url": "https://jobs.lever.co/rws/ec350dcc-c52c-420a-a45a-4ccdf7bd7be8/apply",
+    "locations": [
+      "Sherbrooke, QC, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/RWS",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Qualcomm",
+    "id": "6d9a9486-7b7b-4d41-86a0-8d53bab694e6",
+    "title": "Machine Learning ASIC Design Verification Engineer - ASICS Engineering",
+    "active": true,
+    "date_updated": 1768901219,
+    "date_posted": 1768356836,
+    "url": "https://qualcomm.eightfold.ai/careers/job/446716207423",
+    "locations": [
+      "Markham, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Qualcomm",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "PhD"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Hub Group",
+    "id": "483c4e63-e189-4679-8627-a5ad5e920778",
+    "title": "Delivery Helper",
+    "active": true,
+    "date_updated": 1768901458,
+    "date_posted": 1768259813,
+    "url": "https://hdat.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/11122",
+    "locations": [
+      "Bridgeville, PA"
+    ],
+    "company_url": "https://simplify.jobs/c/Hub-Group",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
