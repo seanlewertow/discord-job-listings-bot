@@ -85115,5 +85115,101 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "The Boeing Company",
+    "id": "1a9d5289-d26f-4cd8-b175-04ab9dd3dfa8",
+    "title": "Associate \u2013 Mid-Level or Senior Equipment & Tool Engineer - Ircsc",
+    "active": true,
+    "date_updated": 1768865525,
+    "date_posted": 1768865525,
+    "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---North-Charleston-SC/Associate--Mid-Level-or-Senior-Equipment---Tool-Engineer---IRCSC_JR2026490934-2",
+    "locations": [
+      "North Charleston, SC"
+    ],
+    "company_url": "https://simplify.jobs/c/Boeing",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "Thermo Fisher Scientific",
+    "id": "20a957b7-12da-4561-88c2-41d4a7fbb556",
+    "title": "Portfolio Management Specialist",
+    "active": true,
+    "date_updated": 1768864887,
+    "date_posted": 1768864887,
+    "url": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Pittsburgh-Pennsylvania-USA/Portfolio-Management-Specialist_R-01340047",
+    "locations": [
+      "Pittsburgh, PA"
+    ],
+    "company_url": "https://simplify.jobs/c/Thermo-Fisher-Scientific",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "TD Bank",
+    "id": "be3d0535-5b4f-48d9-aa97-41f1afd0e309",
+    "title": "Data Engineer 1",
+    "active": true,
+    "date_updated": 1768865599,
+    "date_posted": 1768865599,
+    "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Data-Engineer-I_R_1458305",
+    "locations": [
+      "Toronto, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/TD-Bank",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Vacasa",
+    "id": "59bf2c94-7a94-4b1e-9357-d1f7a15e0870",
+    "title": "Full Stack Engineer",
+    "active": true,
+    "date_updated": 1768864708,
+    "date_posted": 1768864708,
+    "url": "https://job-boards.greenhouse.io/vacasa/jobs/7513748",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/Vacasa",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Northrop Grumman",
+    "id": "78e3e9d5-32c3-4bf8-831f-946e571c8365",
+    "title": "Cable and Harness Technician-Entry Level",
+    "active": true,
+    "date_updated": 1768865418,
+    "date_posted": 1768865418,
+    "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/Cable-and-Harness-Technician--Entry-Level_R10219763",
+    "locations": [
+      "Melbourne, FL"
+    ],
+    "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
