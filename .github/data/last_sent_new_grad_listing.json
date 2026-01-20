@@ -85672,5 +85672,105 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Dow Jones",
+    "id": "66f4f7ec-54f4-462d-9274-91c848b342a4",
+    "title": "Research Analyst",
+    "active": true,
+    "date_updated": 1768922834,
+    "date_posted": 1768922834,
+    "url": "https://dowjones.wd1.myworkdayjobs.com/en-US/Dow_Jones_Career/job/London-1-London-Bridge-St/Research-Analyst_Job_Req_51070",
+    "locations": [
+      "London, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Dow-Jones",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Danaher Corporation",
+    "id": "db6fac8a-9ebd-4d65-b3cd-91b1271e1a42",
+    "title": "Field Service Engineer - South West England",
+    "active": true,
+    "date_updated": 1768923905,
+    "date_posted": 1768923905,
+    "url": "https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/GBR---Remote/Field-Service-Engineer--South-West-England-_R1303051-1",
+    "locations": [
+      "United Kingdom"
+    ],
+    "company_url": "https://simplify.jobs/c/Danaher-Corporation",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Danaher Corporation",
+    "id": "62322cd3-461d-4647-9242-c2dc0cd8fea0",
+    "title": "Field Service Engineer - South West England",
+    "active": true,
+    "date_updated": 1768923904,
+    "date_posted": 1768923904,
+    "url": "https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/GBR---Remote/Field-Service-Engineer--South-West-England-_R1303050",
+    "locations": [
+      "United Kingdom"
+    ],
+    "company_url": "https://simplify.jobs/c/Danaher-Corporation",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "DXC Technology",
+    "id": "293a8026-0188-4705-90d9-8930bd3548e8",
+    "title": "Associate Professional Application Programmer",
+    "active": true,
+    "date_updated": 1768923482,
+    "date_posted": 1768923482,
+    "url": "https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/USA---CT---ANY-CITY/Associate-Professional-Application-Programmer_51569293",
+    "locations": [
+      "Waterbury, CT"
+    ],
+    "company_url": "https://simplify.jobs/c/DXC-Technology",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Lexington Medical",
+    "id": "ceede43b-9158-4613-8a39-4f30dfab6d52",
+    "title": "Embedded Software Engineer",
+    "active": true,
+    "date_updated": 1768923730,
+    "date_posted": 1767804355,
+    "url": "https://job-boards.greenhouse.io/lexingtonmedical/jobs/5057076008",
+    "locations": [
+      "Bedford, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/Lexington-Medical",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
   }
 ]
