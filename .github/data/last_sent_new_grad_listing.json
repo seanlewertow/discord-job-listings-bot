@@ -85229,5 +85229,67 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "RTX",
+    "id": "147f3299-767f-4352-b3f3-046036640dde",
+    "title": "Software Embedded Engineer 1 - TX",
+    "active": true,
+    "date_updated": 1768876755,
+    "date_posted": 1768876755,
+    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-MCKINNEY-513WA--2501-W-University-Dr--WING-A-BLDG/XMLNAME-2026-Full-time--Software-Embedded-Engineer-I---Onsite--TX-_01817003",
+    "locations": [
+      "McKinney, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/RTX",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Vistry Group",
+    "id": "a72518ee-5b9c-4283-8380-a3b39a0a5e5c",
+    "title": "Graduate Real Estate",
+    "active": true,
+    "date_updated": 1768875805,
+    "date_posted": 1768605626,
+    "url": "https://careers-vistrygroup.icims.com/jobs/7976/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Naples, FL"
+    ],
+    "company_url": "https://simplify.jobs/c/Vistry-Group",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Master's",
+      "MBA",
+      "PhD"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "General Dynamics",
+    "id": "86151bb1-5f92-43c5-9542-672d6f34333e",
+    "title": "Engineer 1 - Systems",
+    "active": true,
+    "date_updated": 1768875861,
+    "date_posted": 1768519357,
+    "url": "https://careers-gdeb.icims.com/jobs/17486/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Groton, CT"
+    ],
+    "company_url": "https://simplify.jobs/c/General-Dynamics",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
