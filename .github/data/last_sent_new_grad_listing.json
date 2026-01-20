@@ -85504,5 +85504,99 @@
     "degrees": [
       "Master's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "a121f373-eeec-4809-b645-a36c3eebc57c",
+    "title": "Trading Assistant",
+    "active": true,
+    "date_updated": 1768905175,
+    "date_posted": 1768905175,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400046475",
+    "locations": [
+      "United Kingdom"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "90ef25d6-f07e-46c8-b423-dbee9c4535a4",
+    "title": "Trading Assistant",
+    "active": true,
+    "date_updated": 1768905175,
+    "date_posted": 1768905175,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400046063",
+    "locations": [
+      "Oxford, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "Mondelez International",
+    "id": "fbf78054-74b5-40a4-886a-94087ca4e192",
+    "title": "Innovation Assistant - Grenade",
+    "active": true,
+    "date_updated": 1768908020,
+    "date_posted": 1768260310,
+    "url": "https://wd3.myworkdaysite.com/recruiting/mdlz/External/job/Birmingham-United-Kingdom/Innovation-Executive---Grenade_R-157098",
+    "locations": [
+      "Birmingham, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Mondelez-International",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Affiliated Engineers",
+    "id": "9d635b98-48b1-4ae8-99b2-fcd2f78d4038",
+    "title": "Engineering Data Analyst",
+    "active": true,
+    "date_updated": 1768905386,
+    "date_posted": 1764778743,
+    "url": "https://careers-aeieng.icims.com/jobs/5499/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Rockford, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/Affiliated-Engineers",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "RS&H",
+    "id": "2eac24ec-fa90-4405-b6f0-bb20bb5b2de4",
+    "title": "Transportation Technician 1",
+    "active": true,
+    "date_updated": 1768905494,
+    "date_posted": 1761918475,
+    "url": "https://careers-rsandh.icims.com/jobs/7490/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Greenwood Village, CO"
+    ],
+    "company_url": "https://simplify.jobs/c/RS-And-H",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
