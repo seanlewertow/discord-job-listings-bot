@@ -85211,5 +85211,23 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Quanta Services",
+    "id": "774fe836-16cf-4ab5-987f-d6b261f41519",
+    "title": "Low Voltage Technician--Savannah - Georgia",
+    "active": true,
+    "date_updated": 1768875571,
+    "date_posted": 1766099922,
+    "url": "https://careers-quanta.icims.com/jobs/13221/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Buford, GA"
+    ],
+    "company_url": "https://simplify.jobs/c/Quanta-Services",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
