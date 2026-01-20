@@ -85466,5 +85466,43 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "ServiceNow",
+    "id": "53be89d7-a47d-4aa5-9ae0-c20500831caf",
+    "title": "Software Engineer",
+    "active": true,
+    "date_updated": 1768904100,
+    "date_posted": 1768904100,
+    "url": "https://jobs.smartrecruiters.com/ServiceNow/744000104393055",
+    "locations": [
+      "London, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/ServiceNow",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Nokia",
+    "id": "1bb01d51-2eb9-422a-9707-cad919a4def2",
+    "title": "Software Developer",
+    "active": true,
+    "date_updated": 1768903717,
+    "date_posted": 1768529502,
+    "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/30513",
+    "locations": [
+      "Naperville, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/Nokia",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Master's"
+    ]
   }
 ]
