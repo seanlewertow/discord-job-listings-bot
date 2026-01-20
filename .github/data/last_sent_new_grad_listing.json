@@ -85291,5 +85291,43 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "b00304ec-5fb4-4191-8e2b-7664aea26a60",
+    "title": "Trading Assistant - Shift",
+    "active": true,
+    "date_updated": 1768893202,
+    "date_posted": 1768893202,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400046452",
+    "locations": [
+      "Portsmouth, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Amazon",
+    "id": "64492f80-5b94-4f1e-ad6d-1bb4f45c3630",
+    "title": "Engineering Operations Technician",
+    "active": true,
+    "date_updated": 1768892850,
+    "date_posted": 1768892850,
+    "url": "https://amazon.jobs/en/jobs/3153277/engineering-operations-technician",
+    "locations": [
+      "Palmyra, VA"
+    ],
+    "company_url": "https://simplify.jobs/c/Amazon",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Associate's"
+    ]
   }
 ]
