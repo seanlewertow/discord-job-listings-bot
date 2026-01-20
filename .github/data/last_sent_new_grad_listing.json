@@ -85329,5 +85329,66 @@
     "degrees": [
       "Associate's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Northrop Grumman",
+    "id": "7699c4f2-e813-44a9-91f7-112b3c7aacc4",
+    "title": "Data Scientist - Machine Learning and Predictive Analytics",
+    "active": true,
+    "date_updated": 1768894097,
+    "date_posted": 1768894097,
+    "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/Data-Scientist---Machine-Learning-and-Predictive-Analytics_R10218634",
+    "locations": [
+      "San Diego, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Maricopa County",
+    "id": "ef780ae6-8940-43e6-985d-a2991981e791",
+    "title": "GIS Property Technician",
+    "active": true,
+    "date_updated": 1768893088,
+    "date_posted": 1768893088,
+    "url": "https://maricopa.wd1.myworkdayjobs.com/en-US/MC_External/job/301-W-Jefferson-St-Phoenix-AZ-85003/GIS-Property-Technician_JR21559",
+    "locations": [
+      "Phoenix, AZ"
+    ],
+    "company_url": "https://simplify.jobs/c/Maricopa-County",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Associate's",
+      "Certificate"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "United Parcel Service (UPS)",
+    "id": "332db657-cd7f-4323-a83b-1ad8ad83cf1c",
+    "title": "Bus Systems Analysis Associate",
+    "active": true,
+    "date_updated": 1768894645,
+    "date_posted": 1768894645,
+    "url": "https://hcmportal.wd5.myworkdayjobs.com/en-US/Search/job/IN---TDC-1-IN110/Bus-Systems-Analysis-Associate_R25043013",
+    "locations": [
+      "Indiana"
+    ],
+    "company_url": "https://simplify.jobs/c/United-Parcel-Service",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
