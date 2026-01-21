@@ -86190,5 +86190,109 @@
     "degrees": [
       "Master's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "NVIDIA",
+    "id": "89d72781-46dd-43bf-90c9-aa4dba5a85e6",
+    "title": "System Software Engineer - Security Tools and Infrastructure",
+    "active": true,
+    "date_updated": 1769029784,
+    "date_posted": 1769029784,
+    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/System-Software-Engineer---Security-Tools-and-Infrastructure_JR2011587",
+    "locations": [
+      "Remote in USA",
+      "Santa Clara, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/NVIDIA",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Mintel",
+    "id": "16fd1ab2-2150-4b1e-a493-15b5c3954434",
+    "title": "Consumer Research & Data Analyst",
+    "active": true,
+    "date_updated": 1769027887,
+    "date_posted": 1769027887,
+    "url": "https://www.mintel.com/job/7552451?gh_jid=7552451",
+    "locations": [
+      "London, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/d12e128c-67fc-4f21-b1de-d239e884bafa",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Rockwell Automation",
+    "id": "bc9face9-fda8-4031-b2a3-dbfde5d1752d",
+    "title": "Associate Hardware Development Engineer",
+    "active": true,
+    "date_updated": 1769029575,
+    "date_posted": 1769029575,
+    "url": "https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Mayfield-Heights-Ohio-United-States/Associate-Hardware-Development-Engineer_R26-224",
+    "locations": [
+      "Mayfield Heights, OH"
+    ],
+    "company_url": "https://simplify.jobs/c/Rockwell-Automation",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "OpenGov",
+    "id": "95d80aad-e68c-4bdc-a9ca-91ca6f886379",
+    "title": "Software Engineer 1 - Boston - MA",
+    "active": true,
+    "date_updated": 1769027847,
+    "date_posted": 1769027847,
+    "url": "https://jobs.ashbyhq.com/opengov/213a2b3c-3801-427f-ac92-3454e6263295/application",
+    "locations": [
+      "Boston, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/OpenGov",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Esri",
+    "id": "94d9ff37-db04-4487-ae7f-9800593f29e8",
+    "title": "Security Product Engineer 1 - ArcGIS Enterprise",
+    "active": true,
+    "date_updated": 1769029781,
+    "date_posted": 1769029781,
+    "url": "https://www.esri.com/careers/5012689007?gh_jid=5012689007",
+    "locations": [
+      "West Redlands, Redlands, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Esri",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
   }
 ]
