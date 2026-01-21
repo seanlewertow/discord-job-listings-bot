@@ -85812,5 +85812,23 @@
       "Master's",
       "PhD"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Lucid Motors",
+    "id": "a1fd0871-80e0-40c6-9967-e1e7a63bbf2a",
+    "title": "Service Technician",
+    "active": true,
+    "date_updated": 1768955611,
+    "date_posted": 1753287190,
+    "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/4796907007",
+    "locations": [
+      "Newport Beach, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Lucid-Motors",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
