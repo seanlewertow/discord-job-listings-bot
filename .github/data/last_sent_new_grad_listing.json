@@ -86091,5 +86091,104 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "d50453ea-cc51-4a24-aad3-e250c06444e2",
+    "title": "Trading Assistant",
+    "active": true,
+    "date_updated": 1769027818,
+    "date_posted": 1769027818,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400046294",
+    "locations": [
+      "Dorking, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "2a442859-bff2-4994-be7c-d2d5c3538000",
+    "title": "Trading Assistant - Shift",
+    "active": true,
+    "date_updated": 1769027824,
+    "date_posted": 1769027824,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400046671",
+    "locations": [
+      "United Kingdom"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Esri",
+    "id": "37a674c7-1256-4a9c-b060-54deaaade239",
+    "title": "Data Scientist 1",
+    "active": true,
+    "date_updated": 1769029773,
+    "date_posted": 1769029773,
+    "url": "https://www.esri.com/careers/4953727007?gh_jid=4953727007",
+    "locations": [
+      "St. Louis, MO"
+    ],
+    "company_url": "https://simplify.jobs/c/Esri",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Sigma Computing",
+    "id": "211370f9-6852-4e0f-af1f-76d37d4e13cb",
+    "title": "Software Engineer \u2013 New Grad Program",
+    "active": true,
+    "date_updated": 1769029356,
+    "date_posted": 1769029356,
+    "url": "https://job-boards.greenhouse.io/sigmacomputing/jobs/7598785003",
+    "locations": [
+      "SF",
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Sigma-Computing",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Cadence Design Systems",
+    "id": "dba562db-1223-4372-80a9-5a1363f9fdd1",
+    "title": "C++ Software Engineer",
+    "active": true,
+    "date_updated": 1767830173,
+    "date_posted": 1767830173,
+    "url": "https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/Burlington-MA/C---Software-Engineer_R50546-2",
+    "locations": [
+      "Burlington, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/Cadence-Design-Systems",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Master's"
+    ]
   }
 ]
