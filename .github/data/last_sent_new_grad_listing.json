@@ -85830,5 +85830,103 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "CACI",
+    "id": "6292d03e-76c0-492f-b6f5-0046027bc8bf",
+    "title": "Digital Signals Processing Engineer",
+    "active": true,
+    "date_updated": 1769027825,
+    "date_posted": 1769027825,
+    "url": "https://caci.wd1.myworkdayjobs.com/external/job/US-VA-Sterling/Digital-Signals-Processing-Engineer_321281",
+    "locations": [
+      "Dulles, VA"
+    ],
+    "company_url": "https://simplify.jobs/c/CACI",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "4c983fe8-4a37-46ea-9647-2ffb0df4cf70",
+    "title": "Trading Assistant - Shift",
+    "active": true,
+    "date_updated": 1769027817,
+    "date_posted": 1769027817,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400046685",
+    "locations": [
+      "Bracknell, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "American Bureau of Shipping",
+    "id": "e2b5b2e9-f977-4d5c-bd2f-2d06b880bde1",
+    "title": "Data Scientist",
+    "active": true,
+    "date_updated": 1769027336,
+    "date_posted": 1769027336,
+    "url": "https://hbbq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3935",
+    "locations": [
+      "Houston, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/American-Bureau-Of-Shipping",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Cerity Partners",
+    "id": "52222528-fb26-40e6-aa5f-8c163cc6fc59",
+    "title": "Trading Associate",
+    "active": true,
+    "date_updated": 1769028905,
+    "date_posted": 1769028905,
+    "url": "https://ceritypartners.wd12.myworkdayjobs.com/ceritypartnerscareers/job/Louisville-KY/Trading-Associate_R454",
+    "locations": [
+      "Louisville, KY"
+    ],
+    "company_url": "https://simplify.jobs/c/Cerity-Partners",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "GE Healthcare",
+    "id": "101f22b0-ccba-4a5a-bafc-d5737776c8d9",
+    "title": "Field Service Engineer 1",
+    "active": true,
+    "date_updated": 1769028650,
+    "date_posted": 1769028650,
+    "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Service-Engineer-1_R4027982-1",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/GE-Healthcare",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Associate's"
+    ]
   }
 ]
