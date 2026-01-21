@@ -86008,5 +86008,88 @@
       "Master's",
       "PhD"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Airbus",
+    "id": "e8f14cdf-ae4c-4628-92d4-54b3bc2fdf34",
+    "title": "Offer Data and Publications Coordinator",
+    "active": true,
+    "date_updated": 1769031217,
+    "date_posted": 1769031217,
+    "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Montreal-Area/Coordonnateur-Donnes-et-Publications-de-l-Offre---Offer-Data-and-Publications-Coordinator_JR10382235",
+    "locations": [
+      "Laval, QC, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Airbus",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "The Boeing Company",
+    "id": "e3ddfe37-0511-4411-8c7d-791a454bb130",
+    "title": "Structures Lab Test & Evaluation Engineer",
+    "active": true,
+    "date_updated": 1769029851,
+    "date_posted": 1769029851,
+    "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Berkeley-MO/Structures-Lab-Test---Evaluation-Engineer--Associate-or-Experienced-_JR2026491485-1",
+    "locations": [
+      "Hazelwood, MO"
+    ],
+    "company_url": "https://simplify.jobs/c/Boeing",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "NV5 Global",
+    "id": "d2f29512-2c4c-421f-9159-15dbeab05718",
+    "title": "Survey Office Technician",
+    "active": true,
+    "date_updated": 1769027645,
+    "date_posted": 1769027645,
+    "url": "https://careers-nv5.icims.com/jobs/11740/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Walnut Creek, CA",
+      "Petaluma, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/NV5-Global",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Associate's",
+      "Certificate"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Microchip Technology",
+    "id": "c49d3945-a0b8-4bd4-9a04-1ca469811522",
+    "title": "Firmware Engineer",
+    "active": true,
+    "date_updated": 1769030117,
+    "date_posted": 1769030117,
+    "url": "https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/United-Kingdom---Whiteley/Firmware-Engineer_R297-26-1",
+    "locations": [
+      "Whiteley, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Microchip-Technology",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
