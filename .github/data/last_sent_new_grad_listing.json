@@ -85928,5 +85928,85 @@
       "Bachelor's",
       "Associate's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "IEM",
+    "id": "b527ec68-ff37-4c29-9377-10b0514c8fc3",
+    "title": "Engineering Administrator",
+    "active": true,
+    "date_updated": 1769028701,
+    "date_posted": 1769028701,
+    "url": "https://job-boards.greenhouse.io/industrialelectricmanufacturing/jobs/4109402009",
+    "locations": [
+      "Tualatin, OR"
+    ],
+    "company_url": "https://simplify.jobs/c/IEM",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Beth Israel Lahey Health",
+    "id": "a19931ee-15bb-4161-b114-dc0eb9330ab3",
+    "title": "Research Fellow in Cardiovascular MRI Physics",
+    "active": true,
+    "date_updated": 1769031158,
+    "date_posted": 1769031158,
+    "url": "https://bilh.wd1.myworkdayjobs.com/External/job/Beth-Israel-Deaconess-Medical-Center/Research-Fellow-in-Cardiovascular-MRI-Physics_JR89902",
+    "locations": [
+      "Boston, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/Beth-Israel-Lahey-Health",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "PhD"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Abbott",
+    "id": "685527b9-6264-46ad-856b-c276ef9c02bf",
+    "title": "Senior Reliability Technician",
+    "active": true,
+    "date_updated": 1769031141,
+    "date_posted": 1769031141,
+    "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---California---Sylmar/Senior-Reliability-Technician_31137557-1",
+    "locations": [
+      "Pacoima, LA"
+    ],
+    "company_url": "https://simplify.jobs/c/Abbott",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "GE Aerospace",
+    "id": "adfbcc6c-4a78-40c3-925f-569ce7078dd2",
+    "title": "Customer Project Engineer",
+    "active": true,
+    "date_updated": 1769030717,
+    "date_posted": 1769030717,
+    "url": "https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Norwich/Customer-Project-Engineer_R5026544-1",
+    "locations": [
+      "Norwich, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/GE-Aerospace",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "PhD"
+    ]
   }
 ]
