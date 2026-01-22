@@ -86484,5 +86484,25 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "GE Vernova",
+    "id": "23337132-837d-483a-bb50-1dfe019575c3",
+    "title": "1&C \u2013 Instrumentation & Controls - Embedded Software Engineer",
+    "active": true,
+    "date_updated": 1769028650,
+    "date_posted": 1769028650,
+    "url": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Wilmington-NC-USA/I-C--Instrumentation---Controls--Software-Engineer_R5030229-1",
+    "locations": [
+      "Wilmington, NC"
+    ],
+    "company_url": "https://simplify.jobs/c/GE-Vernova",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
