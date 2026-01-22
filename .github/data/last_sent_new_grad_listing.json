@@ -86699,5 +86699,108 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Hearst",
+    "id": "0b67cda3-bbad-4877-8d69-741374a6faa2",
+    "title": "Data Analyst - Social Media & Video",
+    "active": true,
+    "date_updated": 1769073813,
+    "date_posted": 1767915200,
+    "url": "https://eevd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2025652",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Hearst",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "Elf Beauty",
+    "id": "2887ae06-fd7e-44cf-b5c7-2da4ec11516d",
+    "title": "Coordinator - Product Development",
+    "active": true,
+    "date_updated": 1769075349,
+    "date_posted": 1765840336,
+    "url": "https://jobs.lever.co/elfbeauty/0cdb7075-0c54-4706-a4bb-3530be53523c/apply",
+    "locations": [
+      "Oakland, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Elf-Beauty",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Visa",
+    "id": "5da064fe-c065-49e7-be70-ddb8e4e4672c",
+    "title": "Graduate Software Engineer",
+    "active": true,
+    "date_updated": 1769076626,
+    "date_posted": 1769076626,
+    "url": "https://jobs.smartrecruiters.com/Visa/744000104863075",
+    "locations": [
+      "Reading, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Visa",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "The Travelers Companies",
+    "id": "fa506c8b-f6c2-4912-8604-c55305824ae0",
+    "title": "Data Engineer 1 - Databricks - Aws",
+    "active": true,
+    "date_updated": 1768956969,
+    "date_posted": 1768956969,
+    "url": "https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Data-Engineer-I--Databricks--AWS--Python-_R-48789",
+    "locations": [
+      "Sparks, MD",
+      "Hartford, CT",
+      "Atlanta, GA",
+      "St Paul, MN"
+    ],
+    "company_url": "https://simplify.jobs/c/Travelers",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Booz Allen",
+    "id": "16a9bc91-8492-4b76-baed-623496ba2dba",
+    "title": "University - Software Engineer",
+    "active": true,
+    "date_updated": 1769077132,
+    "date_posted": 1768346061,
+    "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Washington-DC/Software-Engineer_R0231316",
+    "locations": [
+      "Washington, DC"
+    ],
+    "company_url": "https://simplify.jobs/c/Booz-Allen",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
   }
 ]
