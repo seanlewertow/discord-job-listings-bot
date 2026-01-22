@@ -86294,5 +86294,95 @@
       "Bachelor's",
       "Master's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "T-Mobile",
+    "id": "51e2865c-6e88-47fe-9e6f-e0650c25579b",
+    "title": "Associate Product Manager - AI",
+    "active": true,
+    "date_updated": 1769028889,
+    "date_posted": 1769028889,
+    "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Associate-Product-Manager--AI_REQ338107-1",
+    "locations": [
+      "Bellevue, WA"
+    ],
+    "company_url": "https://simplify.jobs/c/T-Mobile",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Cirrus Logic",
+    "id": "28c720e7-ee36-4d73-b9ab-9ad198683c15",
+    "title": "Design Verification Engineer \u2013 Entry Level",
+    "active": true,
+    "date_updated": 1769036847,
+    "date_posted": 1769036847,
+    "url": "https://jobs.eu.lever.co/cirrus/52d2a1c6-556a-43c0-9f80-76976667764d/apply",
+    "locations": [
+      "Austin, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Cirrus-Logic",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Master's",
+      "PhD"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "CVS Health",
+    "id": "a07bfa62-f728-4591-88af-86fce5e9caf6",
+    "title": "Data Scientist - Healthcare Journey Analytics",
+    "active": true,
+    "date_updated": 1769039723,
+    "date_posted": 1769039723,
+    "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/MA---Work-from-home/Data-Scientist---Healthcare-Journey-Analytics_R0810371",
+    "locations": [
+      "Texas",
+      "Jackson Township, NJ",
+      "Florida",
+      "Georgia",
+      "Arkansas",
+      "Rhode Island",
+      "NYC",
+      "Massachusetts",
+      "Illinois"
+    ],
+    "company_url": "https://simplify.jobs/c/CVS-Health",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "KLA",
+    "id": "8e45a60c-dbe6-490b-94ca-bd65c46dc02c",
+    "title": "Algorithm Engineer",
+    "active": true,
+    "date_updated": 1769028339,
+    "date_posted": 1764502580,
+    "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Algorithm-Engineer_2531425",
+    "locations": [
+      "Milpitas, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/KLA",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Master's",
+      "PhD"
+    ]
   }
 ]
