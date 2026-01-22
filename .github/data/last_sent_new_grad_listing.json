@@ -86901,5 +86901,64 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Wellington Management",
+    "id": "bf9a941a-7dfd-48e9-ae18-d47fe27300a3",
+    "title": "Technology Associate \u2013 Graduate - 2025",
+    "active": true,
+    "date_updated": 1768921978,
+    "date_posted": 1765624796,
+    "url": "https://wellington.wd5.myworkdayjobs.com/Campus/job/Technology-Associate-Programme--Graduate---2025_R92580",
+    "locations": [
+      "London, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Wellington",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "RTX",
+    "id": "1e7e54cc-d4db-4f93-9fe9-8b9307f0d1f6",
+    "title": "2026 Full-time Software Engineer 1 - RDPL - CA",
+    "active": true,
+    "date_updated": 1769084196,
+    "date_posted": 1769084196,
+    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-FULLERTON-675--1801-Hughes-Dr--BLDG-675/XMLNAME-2026-Full-time-Software-Engineer-I---RDPL--On-site--CA-_01818504",
+    "locations": [
+      "Anaheim, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/RTX",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Intermountain Healthcare",
+    "id": "9d458c77-cbbc-4d7a-abd4-8b554c584d11",
+    "title": "Data Architect Senior",
+    "active": true,
+    "date_updated": 1769086030,
+    "date_posted": 1768894045,
+    "url": "https://imh.wd108.myworkdayjobs.com/IntermountainCareers/job/SelectHealth---Murray/Data-Architect---Senior_R160772",
+    "locations": [
+      "Murray, UT"
+    ],
+    "company_url": "https://simplify.jobs/c/Intermountain-Health",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
   }
 ]
