@@ -86623,5 +86623,81 @@
       "Associate's",
       "Certificate"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Beta Technologies",
+    "id": "a5eb861f-593b-427b-a3b2-95b82451ee53",
+    "title": "Embedded Software Engineer - Ground Support Equipment",
+    "active": true,
+    "date_updated": 1768956109,
+    "date_posted": 1768956109,
+    "url": "https://jobs.lever.co/beta/cf358a35-99d8-4dbe-a0a4-9684fdedd5a2/apply",
+    "locations": [
+      "Burlington, VT"
+    ],
+    "company_url": "https://simplify.jobs/c/Beta-Technologies",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Sainsbury's",
+    "id": "25129903-7059-4c5c-8d61-fc1c6d7c2d90",
+    "title": "Associate Analyst - Digital Analytics",
+    "active": true,
+    "date_updated": 1768955691,
+    "date_posted": 1768955691,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400046538",
+    "locations": [
+      "London, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "RTX",
+    "id": "24d256ca-f2c4-4169-80d9-b8b52c2c71a5",
+    "title": "Software Engineer 1",
+    "active": true,
+    "date_updated": 1768956837,
+    "date_posted": 1768956837,
+    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-SAN-JOSE-826--200-Holger-Way--BLDG-826-Ast/Software-Engineer-I--Onsite-_01791041",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/RTX",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Formlabs",
+    "id": "f90d529d-abb6-48d1-8370-d54daebe40f5",
+    "title": "3D Digital Manufacturing Technician",
+    "active": true,
+    "date_updated": 1769028750,
+    "date_posted": 1769028750,
+    "url": "https://careers.formlabs.com/job/7552704/apply/?gh_jid=7552704",
+    "locations": [
+      "Billerica, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/Formlabs",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
