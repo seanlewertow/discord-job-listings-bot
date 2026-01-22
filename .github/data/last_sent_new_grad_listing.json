@@ -87162,5 +87162,105 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "The Toro Company",
+    "id": "543dfcd5-746a-4df7-bbe6-c7c9562ea806",
+    "title": "Embedded Software Engineer 1 - The Toro Company",
+    "active": true,
+    "date_updated": 1769123591,
+    "date_posted": 1769123591,
+    "url": "https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Bloomington-MN/Embedded-Software-Engineer-I---The-Toro-Company_JR15047",
+    "locations": [
+      "Bloomington, MN"
+    ],
+    "company_url": "https://simplify.jobs/c/The-Toro-Company",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Nikkiso",
+    "id": "4647b441-a194-48a6-9593-3648e20b9af5",
+    "title": "Electric Control Panel Technician 1",
+    "active": true,
+    "date_updated": 1769123424,
+    "date_posted": 1769123424,
+    "url": "https://careers-nikkiso.icims.com/jobs/3655/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Murrieta, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Nikkiso",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Certificate"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Prairie View A&M University",
+    "id": "2a0e3a4a-82f0-40a8-965c-06900d8a4f84",
+    "title": "Postdoctoral Researcher - Pier",
+    "active": true,
+    "date_updated": 1769123512,
+    "date_posted": 1769123512,
+    "url": "https://tamus.wd1.myworkdayjobs.com/pvamu_external/job/Prairie-View-TX/Postdoctoral-Researcher--PIER---Pioneering-Advanced-Materials-for-Renewable-Energy---1_R-089882-1",
+    "locations": [
+      "Prairie View, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Prairie-View-AM-University",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "PhD"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Q-CTRL",
+    "id": "abceeeb1-dde1-425e-92b2-67f118dec4c2",
+    "title": "Software Integration Engineer",
+    "active": true,
+    "date_updated": 1769123338,
+    "date_posted": 1769123338,
+    "url": "https://jobs.lever.co/q-ctrl/1ff2ff69-c5f5-4790-a007-07a90dfa4031/apply",
+    "locations": [
+      "Huntsville, AL"
+    ],
+    "company_url": "https://simplify.jobs/c/Q-CTRL",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Asurion",
+    "id": "a222ade4-3b9d-4617-b005-ac8d9d1fc55f",
+    "title": "Quality and Insights Analyst",
+    "active": true,
+    "date_updated": 1769123165,
+    "date_posted": 1769123165,
+    "url": "https://asurion.wd5.myworkdayjobs.com/asurioncareers_us/job/US-Work-at-Home/Quality---Insights-Analyst_ASU0018283-1",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/Asurion",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
