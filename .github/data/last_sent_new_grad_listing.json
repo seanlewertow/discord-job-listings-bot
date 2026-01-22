@@ -86504,5 +86504,23 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Teledyne",
+    "id": "f4ed971e-a6be-4189-bc0a-a2e7a4db1c5f",
+    "title": "Electronics Technician",
+    "active": true,
+    "date_updated": 1763894348,
+    "date_posted": 1763894348,
+    "url": "https://flir.wd1.myworkdayjobs.com/flircareers/job/UK---Cumbernauld/Electronics-Technician_REQ28794",
+    "locations": [
+      "Glasgow, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/199b3c43-379a-408c-a6a8-980e79183038",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
