@@ -86522,5 +86522,23 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Lucid Motors",
+    "id": "a10bbaeb-f6b4-4d3f-aa18-e3452fc79ab1",
+    "title": "Hardware Technician - Service Operations Tooling",
+    "active": true,
+    "date_updated": 1768957125,
+    "date_posted": 1759906661,
+    "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/4875434007",
+    "locations": [
+      "Fremont, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Lucid-Motors",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
