@@ -86384,5 +86384,105 @@
       "Master's",
       "PhD"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "TikTok",
+    "id": "691d2914-24b3-4473-8d84-3ea9c6d4ee39",
+    "title": "Technical Support Engineer - Android/iOS SDK",
+    "active": true,
+    "date_updated": 1769048068,
+    "date_posted": 1769048068,
+    "url": "https://lifeattiktok.com/search/7443902253976570120",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/TikTok",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Aurora Innovation",
+    "id": "d70d1f0a-93bf-4cd8-98bb-e6ee59283821",
+    "title": "Software Engineer 1 - Visualization",
+    "active": true,
+    "date_updated": 1769049671,
+    "date_posted": 1769049671,
+    "url": "https://aurora.tech/jobs/8372578002?gh_jid=8372578002",
+    "locations": [
+      "Mountain View, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Aurora-Innovation",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Rhombus Power",
+    "id": "09a32976-621b-418d-86a9-7e653930b6a9",
+    "title": "GDELT Consultant",
+    "active": true,
+    "date_updated": 1769049455,
+    "date_posted": 1769049455,
+    "url": "https://job-boards.greenhouse.io/rhombuspower/jobs/7599864003",
+    "locations": [
+      "Washington, DC"
+    ],
+    "company_url": "https://simplify.jobs/c/Rhombus-Power",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "NVIDIA",
+    "id": "a2b22bf8-6138-427a-b797-486f4ec81592",
+    "title": "Research Scientist \u2013 PhD New College Grad 2026 - Human\u2011AI Perception and Interaction Research",
+    "active": true,
+    "date_updated": 1769048780,
+    "date_posted": 1769048780,
+    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--Human-AI-Perception-and-Interaction-Research---PhD-New-College-Grad-2026_JR2011804-1",
+    "locations": [
+      "Santa Clara, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/NVIDIA",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "PhD"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "CGS Federal (Contact Government Services)",
+    "id": "c7945f1b-35b0-4255-84d7-917049e1cd8e",
+    "title": "Intelligence Analyst",
+    "active": true,
+    "date_updated": 1769048329,
+    "date_posted": 1769048329,
+    "url": "https://jobs.lever.co/cgsfederal/b6e3f88d-9460-4020-affd-c415d370607f/apply",
+    "locations": [
+      "LA"
+    ],
+    "company_url": "https://simplify.jobs/c/CGS-Federal",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
