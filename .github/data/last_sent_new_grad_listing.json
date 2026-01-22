@@ -86802,5 +86802,104 @@
       "Bachelor's",
       "Master's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "AeroVironment",
+    "id": "6565345b-01a2-4966-9c17-c41f320f7032",
+    "title": "Software Engineer - Emb - I",
+    "active": true,
+    "date_updated": 1768956836,
+    "date_posted": 1768956836,
+    "url": "https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Moorpark-CA/Software-Engineer--EMB--I_6531",
+    "locations": [
+      "Moorpark, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/AeroVironment",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Wachter",
+    "id": "20133682-1e65-4cfd-9488-c552aa92e794",
+    "title": "Staging and Configuration Technician",
+    "active": true,
+    "date_updated": 1768955729,
+    "date_posted": 1768955729,
+    "url": "https://jobs.lever.co/wachter/68b125d7-94d1-4dad-951c-5cc3793aadde/apply",
+    "locations": [
+      "Rogers, AR"
+    ],
+    "company_url": "https://simplify.jobs/c/Wachter",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Profitero",
+    "id": "f6cad354-f697-4258-933b-bc8ca0d112e6",
+    "title": "Associate Product Data Analyst",
+    "active": true,
+    "date_updated": 1768955960,
+    "date_posted": 1768955960,
+    "url": "https://profitero.bamboohr.com/careers/339/",
+    "locations": [
+      "Bracknell, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Profitero",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Pinterest",
+    "id": "bcdcc14f-3b19-4535-b627-75ce3a0dc973",
+    "title": "Master's University Grad Machine Learning Engineer 2026 - USA",
+    "active": true,
+    "date_updated": 1768957034,
+    "date_posted": 1768957034,
+    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7211014",
+    "locations": [
+      "Palo Alto, CA",
+      "Seattle, WA",
+      "SF",
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Pinterest",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "GE Aerospace",
+    "id": "dc19c6b0-99e7-45e7-b8d5-55f7844f3564",
+    "title": "Electronics Product Support Engineer",
+    "active": true,
+    "date_updated": 1769081059,
+    "date_posted": 1768322548,
+    "url": "https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Cheltenham/Electronics-Product-Support-Engineer_R5026187-1",
+    "locations": [
+      "Gloucester, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/GE-Aerospace",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
