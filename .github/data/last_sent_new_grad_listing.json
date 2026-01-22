@@ -87057,5 +87057,110 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "CAE",
+    "id": "434cbd5a-08fa-4e87-a25a-dfc1b579d18d",
+    "title": "Junior Machine Learning Engineer",
+    "active": true,
+    "date_updated": 1769095622,
+    "date_posted": 1769095622,
+    "url": "https://cae.wd3.myworkdayjobs.com/career/job/Arlington-TX/Junior-Machine-Learning-Engineer_119515",
+    "locations": [
+      "Orlando, FL",
+      "Tampa, FL",
+      "Arlington, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/0584b8e0-c24c-4b9b-9e06-b2484d8779bf",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Fermilab",
+    "id": "1150f792-278a-45eb-b3e9-a77598e3300f",
+    "title": "Postdoctoral Research Associate",
+    "active": true,
+    "date_updated": 1769095431,
+    "date_posted": 1769095431,
+    "url": "https://fermilab.wd5.myworkdayjobs.com/FermilabCareers/job/Batavia/Postdoctoral-Research-Associate_R_008873",
+    "locations": [
+      "Batavia, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/Fermilab",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "PhD"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "CAE",
+    "id": "0b57bbc8-c4de-407e-bcc8-d56f2502c3d7",
+    "title": "Junior Machine Learning Engineer",
+    "active": true,
+    "date_updated": 1769095624,
+    "date_posted": 1769095624,
+    "url": "https://cae.wd3.myworkdayjobs.com/career/job/Tampa/Junior-Machine-Learning-Engineer_119505",
+    "locations": [
+      "Orlando, FL",
+      "Tampa, FL",
+      "Arlington, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/0584b8e0-c24c-4b9b-9e06-b2484d8779bf",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "ING",
+    "id": "06f069f0-7789-4d68-b790-254186174eaa",
+    "title": "Graduate - FM Sales & Trading",
+    "active": true,
+    "date_updated": 1769095575,
+    "date_posted": 1769095575,
+    "url": "https://ing.wd3.myworkdayjobs.com/icsgblcor/job/London/ING-Graduate---FM-Sales---Trading_REQ-10108010-1",
+    "locations": [
+      "London, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/ING",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "ING",
+    "id": "007cea56-5e2e-4c80-9cb9-373339f690ad",
+    "title": "ING Graduate Programme - Trading Risk & Product Control",
+    "active": true,
+    "date_updated": 1769095590,
+    "date_posted": 1769095590,
+    "url": "https://ing.wd3.myworkdayjobs.com/icsgblcor/job/London/ING-Graduate-Programme-2026---Trading-Risk---Product-Control_REQ-10108092-1",
+    "locations": [
+      "London, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/ING",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
