@@ -86960,5 +86960,102 @@
       "Bachelor's",
       "Master's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Visa",
+    "id": "70b9e595-1fcf-4025-8ea6-68e0de754399",
+    "title": "Analyst - Merchant Data Platform",
+    "active": true,
+    "date_updated": 1769094725,
+    "date_posted": 1769094725,
+    "url": "https://jobs.smartrecruiters.com/Visa/744000104917365",
+    "locations": [
+      "San Mateo, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Visa",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "MBA",
+      "PhD",
+      "JD",
+      "MD"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "6c92970b-b24b-437c-9183-3deab5a11b16",
+    "title": "Trading Assistant",
+    "active": true,
+    "date_updated": 1769094650,
+    "date_posted": 1769094650,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400046183",
+    "locations": [
+      "Hammersmith, London, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Huntington Ingalls Industries",
+    "id": "5ab408a7-cbca-403c-9b36-f862cac29659",
+    "title": "Config Data Mgmt Cntrlr 1",
+    "active": true,
+    "date_updated": 1769094786,
+    "date_posted": 1769094786,
+    "url": "https://careers.huntingtoningalls.com/job/Newport-News-CONFIG-DATA-MGMT-CNTRLR-1-Virg/1358387500/?ats=successfactors",
+    "locations": [
+      "Newport News, VA"
+    ],
+    "company_url": "https://simplify.jobs/c/Huntington-Ingalls-Industries",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "2d16882e-c333-420d-a327-22795ea06ca7",
+    "title": "Trading Assistant",
+    "active": true,
+    "date_updated": 1769094635,
+    "date_posted": 1769094635,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400046768",
+    "locations": [
+      "Swindon, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "20f653b8-15f5-42b0-8a90-94963341c066",
+    "title": "Trading Assistant",
+    "active": true,
+    "date_updated": 1769094623,
+    "date_posted": 1769094623,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400046424",
+    "locations": [
+      "Guildford, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
