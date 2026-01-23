@@ -87535,5 +87535,100 @@
       "Master's",
       "PhD"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Amazon",
+    "id": "3fa113d3-9f33-407f-8ff3-9b93c0ed53e8",
+    "title": "Agentic AI Teacher",
+    "active": true,
+    "date_updated": 1769161280,
+    "date_posted": 1767339851,
+    "url": "https://amazon.jobs/en/jobs/3150959/agentic-ai-teacher-agi-ds-agi-ds",
+    "locations": [
+      "Boston, MA",
+      "Bellevue, WA"
+    ],
+    "company_url": "https://simplify.jobs/c/Amazon",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Riot Platforms",
+    "id": "9fefc7f2-cd4c-4faf-8e95-48391886d75a",
+    "title": "ASIC Technician",
+    "active": true,
+    "date_updated": 1769161839,
+    "date_posted": 1762299818,
+    "url": "https://ats.rippling.com/riot-platforms-careers/jobs/638fdea2-8035-49e6-bb69-7130407ac525",
+    "locations": [
+      "Paducah, KY"
+    ],
+    "company_url": "https://simplify.jobs/c/Riot-Platforms",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Zopa",
+    "id": "dae2005c-f8c7-40e8-99df-c3c5a0d3c25d",
+    "title": "Data Analyst - Fraud Analytics",
+    "active": true,
+    "date_updated": 1769162641,
+    "date_posted": 1768576536,
+    "url": "https://jobs.lever.co/zopa/f434465e-cfae-487d-a2c5-50aab5c28312/apply",
+    "locations": [
+      "London, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Zopa",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Born Primitive",
+    "id": "ec529e36-55ba-42ed-9d21-1292e0a34a68",
+    "title": "Master Data Coordinator",
+    "active": true,
+    "date_updated": 1769163067,
+    "date_posted": 1768346202,
+    "url": "https://ats.rippling.com/bornprimitive-careers/jobs/88a8a22a-a542-4604-9b20-360026e63115",
+    "locations": [
+      "Virginia Beach, VA"
+    ],
+    "company_url": "https://simplify.jobs/c/Born-Primitive",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "Zopa",
+    "id": "17d946df-23f3-49fd-96c0-49cd8b5705de",
+    "title": "Associate Product Manager - Customer Growth",
+    "active": true,
+    "date_updated": 1769162464,
+    "date_posted": 1766185774,
+    "url": "https://jobs.lever.co/zopa/49c386ed-961e-455c-8f8d-192453a82fd7/apply",
+    "locations": [
+      "London, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Zopa",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
