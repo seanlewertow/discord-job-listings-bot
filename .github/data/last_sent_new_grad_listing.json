@@ -87491,5 +87491,49 @@
     "degrees": [
       "Associate's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Gannett Fleming",
+    "id": "a4bbe7f8-415b-43e5-8540-0de0ff59dfa4",
+    "title": "Entry Level Bridge Inspector",
+    "active": true,
+    "date_updated": 1769160025,
+    "date_posted": 1768955314,
+    "url": "https://careers-gannettfleming.icims.com/jobs/13348/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Orlando, FL"
+    ],
+    "company_url": "https://simplify.jobs/c/Gannett-Fleming",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Certificate"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Google",
+    "id": "233305db-fc9d-4133-9978-a3be835c4823",
+    "title": "Software Engineer 3 - Infrastructure - Google Cloud Platforms",
+    "active": true,
+    "date_updated": 1769159586,
+    "date_posted": 1765436814,
+    "url": "https://www.google.com/about/careers/applications/jobs/results/79605303951139526",
+    "locations": [
+      "Cambridge, MA",
+      "SF",
+      "Sunnyvale, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Google",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "PhD"
+    ]
   }
 ]
