@@ -87451,5 +87451,45 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Boyd",
+    "id": "71becc90-4dbf-4bf4-a7ab-6574fe0ce6c2",
+    "title": "Associate Technician",
+    "active": true,
+    "date_updated": 1769153252,
+    "date_posted": 1769153252,
+    "url": "https://boydcorp.wd12.myworkdayjobs.com/Boyd_Careers/job/Lancaster/Assoc-Technician_R-101937",
+    "locations": [
+      "Lancaster, PA"
+    ],
+    "company_url": "https://simplify.jobs/c/Boyd-Corp",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Associate's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Boyd",
+    "id": "3663d9a5-26a4-4a5c-a857-e13e0bd30390",
+    "title": "Associate Technician",
+    "active": true,
+    "date_updated": 1769153245,
+    "date_posted": 1769153245,
+    "url": "https://boydcorp.wd12.myworkdayjobs.com/Boyd_Careers/job/Lancaster/Associate-Technician_R-101894",
+    "locations": [
+      "Lancaster, PA"
+    ],
+    "company_url": "https://simplify.jobs/c/Boyd-Corp",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Associate's"
+    ]
   }
 ]
