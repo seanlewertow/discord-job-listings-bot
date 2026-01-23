@@ -87745,5 +87745,102 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "228ba12e-e872-4fb1-bd17-5e26da7890c8",
+    "title": "Trading Assistant - Shift",
+    "active": true,
+    "date_updated": 1769181277,
+    "date_posted": 1769181277,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400046842",
+    "locations": [
+      "Solihull, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "1cb872a4-42ac-46f7-99e3-69f426b2e319",
+    "title": "Trading Assistant",
+    "active": true,
+    "date_updated": 1769181274,
+    "date_posted": 1769181274,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400046858",
+    "locations": [
+      "Southampton, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Beyond New Horizons",
+    "id": "7956a61c-e5dc-4b43-954e-4d3d4bb49653",
+    "title": "Early Career Facility Modeling & Analysis Engineer",
+    "active": true,
+    "date_updated": 1769181034,
+    "date_posted": 1769181034,
+    "url": "https://careers-bnh.icims.com/jobs/22976/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Tullahoma, TN"
+    ],
+    "company_url": "https://simplify.jobs/c/Beyond-New-Horizons",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "GE Healthcare",
+    "id": "dfc4bab3-3c8e-40b6-9b09-5dd2555b202f",
+    "title": "Software Engineer 1",
+    "active": true,
+    "date_updated": 1769181937,
+    "date_posted": 1769181937,
+    "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/OH05-01-Beachwood-Science-Park-Drive/Software-Engineer-I_R4026886-1",
+    "locations": [
+      "Orange, OH"
+    ],
+    "company_url": "https://simplify.jobs/c/GE-Healthcare",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Fermilab",
+    "id": "0b0ef6aa-d49f-460b-bd2a-28202078096d",
+    "title": "Electrical Assembly Technician 1",
+    "active": true,
+    "date_updated": 1769182069,
+    "date_posted": 1769182069,
+    "url": "https://fermilab.wd5.myworkdayjobs.com/FermilabCareers/job/Batavia/Electrical-Assembly-Technician-I_R_009174",
+    "locations": [
+      "Batavia, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/Fermilab",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
