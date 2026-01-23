@@ -87262,5 +87262,98 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "4f857a0d-3d1e-447b-b3f6-761000d09d7b",
+    "title": "Trading Assistant - Shift",
+    "active": true,
+    "date_updated": 1769134207,
+    "date_posted": 1769134207,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400046819",
+    "locations": [
+      "Trowbridge, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "310e12bf-5ee0-40e7-babe-35a78bddb3f1",
+    "title": "Trading Assistant - Shift",
+    "active": true,
+    "date_updated": 1769134208,
+    "date_posted": 1769134208,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400046818",
+    "locations": [
+      "Trowbridge, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "ab35f0f8-8e9e-47a9-a3fd-99730e7e18ae",
+    "title": "Trading Assistant - Shift",
+    "active": true,
+    "date_updated": 1769134195,
+    "date_posted": 1769134195,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400046820",
+    "locations": [
+      "Trowbridge, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "91d9ee3e-03c7-4183-ada5-e72c9ec30ec2",
+    "title": "Trading Assistant - Shift",
+    "active": true,
+    "date_updated": 1769134196,
+    "date_posted": 1769134196,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400046821",
+    "locations": [
+      "Trowbridge, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "CenterPoint Energy",
+    "id": "085bc889-24c4-4b29-b40c-2faf368160bb",
+    "title": "Associate Data Scientist",
+    "active": true,
+    "date_updated": 1769133979,
+    "date_posted": 1769133979,
+    "url": "https://careers.centerpointenergy.com/job/Houston-Associate-Data-Scientist-TX-77002/1358705400/?ats=successfactors",
+    "locations": [
+      "Houston, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/CenterPoint-Energy",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
   }
 ]
