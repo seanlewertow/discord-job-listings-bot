@@ -87413,5 +87413,43 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Uber",
+    "id": "f3d9b500-ebf8-4133-bc84-4efc0ff5f857",
+    "title": "Software Engineer 2 - Ads",
+    "active": true,
+    "date_updated": 1769152225,
+    "date_posted": 1769152225,
+    "url": "https://www.uber.com/global/en/careers/list/152750/",
+    "locations": [
+      "Toronto, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Uber",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "a1d4f76e-bb8f-4987-94e2-883b6fa5e8c4",
+    "title": "Trading Assistant - Shift",
+    "active": true,
+    "date_updated": 1769152120,
+    "date_posted": 1769152120,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400046824",
+    "locations": [
+      "Northwich, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
