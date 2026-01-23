@@ -87842,5 +87842,107 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "Liberty Mutual",
+    "id": "6aa047ae-0022-4492-aae0-9069e2b1bd32",
+    "title": "Product Owner 1 - Underwriting Domain",
+    "active": true,
+    "date_updated": 1769209781,
+    "date_posted": 1769209781,
+    "url": "https://careers-libertymutual.icims.com/jobs/74195/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Boston, MA",
+      "Seattle, WA",
+      "Plano, TX",
+      "Portsmouth, NH",
+      "United States"
+    ],
+    "company_url": "https://simplify.jobs/c/Liberty-Mutual",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Google",
+    "id": "2a121807-7473-4d15-bc03-fb4b86cbe636",
+    "title": "Silicon CAD Engineer \u2013 University Graduate - PhD",
+    "active": true,
+    "date_updated": 1769209697,
+    "date_posted": 1769209697,
+    "url": "https://www.google.com/about/careers/applications/jobs/results/140843668222157510",
+    "locations": [
+      "Sunnyvale, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Google",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "PhD"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Space Dynamics Laboratory",
+    "id": "1280d59b-f81f-4610-8deb-59563ad1efb3",
+    "title": "Entry Level Software Engineer",
+    "active": true,
+    "date_updated": 1769209813,
+    "date_posted": 1769209813,
+    "url": "https://spacedynamicslaboratory.applytojob.com/apply/D6jHNY7CeB/EntryLevel-Software-Engineer",
+    "locations": [
+      "Logan, UT"
+    ],
+    "company_url": "https://simplify.jobs/c/Space-Dynamics-Laboratory",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Ciena",
+    "id": "deae7d42-5e5a-44c8-bf69-3d75c5e1cb64",
+    "title": "Software Engineer \u2013 Performance and Test Automation New Grad",
+    "active": true,
+    "date_updated": 1769209523,
+    "date_posted": 1769209523,
+    "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Software-Engineer---Performance-and-Test-Automation-New-Grad_R029823",
+    "locations": [
+      "Ottawa, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Ciena",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "ServiceNow",
+    "id": "0d29b21a-2f6e-45f4-a6d1-af77bcf17445",
+    "title": "Software Engineer",
+    "active": true,
+    "date_updated": 1769209472,
+    "date_posted": 1769209472,
+    "url": "https://jobs.smartrecruiters.com/ServiceNow/744000105233448",
+    "locations": [
+      "Santa Clara, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/ServiceNow",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
