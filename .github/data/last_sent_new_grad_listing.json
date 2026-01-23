@@ -87630,5 +87630,102 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "Tradeweb",
+    "id": "218315ba-b144-463c-94ba-4566bf71a5b7",
+    "title": "Product Implementation",
+    "active": true,
+    "date_updated": 1769164157,
+    "date_posted": 1769164157,
+    "url": "https://ecnf.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/301593",
+    "locations": [
+      "London, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Tradeweb",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "The Brookings Institution",
+    "id": "f2b388c7-a2b1-4362-8f1f-f149aff2218f",
+    "title": "Research Assistant - Retirement Security Project - Economic Studies",
+    "active": true,
+    "date_updated": 1769163780,
+    "date_posted": 1769094632,
+    "url": "https://careers-brookings.icims.com/jobs/3795/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Washington, DC"
+    ],
+    "company_url": "https://simplify.jobs/c/The-Brookings-Institution",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Carvana",
+    "id": "ffc7d74a-17ca-4276-803d-3cef47062938",
+    "title": "Data Engineer - Production Analytics",
+    "active": true,
+    "date_updated": 1769165013,
+    "date_posted": 1768001504,
+    "url": "https://www.carvana.com/careers/apply?gh_jid=7507650",
+    "locations": [
+      "Tempe, AZ"
+    ],
+    "company_url": "https://simplify.jobs/c/Carvana",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Riot Platforms",
+    "id": "78514860-82b3-4eb5-876b-e33a859abd18",
+    "title": "Data Center Technician",
+    "active": true,
+    "date_updated": 1769164367,
+    "date_posted": 1767828009,
+    "url": "https://ats.rippling.com/riot-platforms-careers/jobs/447df9c1-eabd-48dd-a58b-8627b742fc49",
+    "locations": [
+      "Palmer, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Riot-Platforms",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Stantec",
+    "id": "a2a7f5de-ed9c-4ab3-ba46-72744d41c746",
+    "title": "Project Geologist",
+    "active": true,
+    "date_updated": 1756202186,
+    "date_posted": 1755201160,
+    "url": "https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1001842",
+    "locations": [
+      "Columbus, OH"
+    ],
+    "company_url": "https://simplify.jobs/c/Stantec",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Associate's"
+    ]
   }
 ]
