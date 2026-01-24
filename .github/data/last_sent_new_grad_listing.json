@@ -88153,5 +88153,27 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Intuit",
+    "id": "c2d47493-1b6e-4d7f-acad-e64645a96152",
+    "title": "Software Engineer 1 - Data Engineering",
+    "active": true,
+    "date_updated": 1769239005,
+    "date_posted": 1769239005,
+    "url": "https://jobs.intuit.com/job/san-diego/software-engineer-i-data-engineering/27595/90969775248",
+    "locations": [
+      "Mountain View, CA",
+      "San Diego, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Intuit",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
   }
 ]
