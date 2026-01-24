@@ -88175,5 +88175,96 @@
       "Bachelor's",
       "Master's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "fcb2b743-8b32-4143-b706-03b9897fd8db",
+    "title": "Trading Assistant - Shift",
+    "active": true,
+    "date_updated": 1769250326,
+    "date_posted": 1769250326,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400046833",
+    "locations": [
+      "Portadown, Craigavon, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "d89465bc-8148-40ca-a334-b1877b410e88",
+    "title": "Trading Assistant",
+    "active": true,
+    "date_updated": 1769250330,
+    "date_posted": 1769250330,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400046898",
+    "locations": [
+      "United Kingdom"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "b3829324-2c51-4c61-8dc9-68399e5cd3a0",
+    "title": "Trading Assistant - Shift",
+    "active": true,
+    "date_updated": 1769250327,
+    "date_posted": 1769250327,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400046834",
+    "locations": [
+      "Portadown, Craigavon, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "16298ccb-6193-484e-a34a-b708f8ab40b8",
+    "title": "Trading Assistant - Shift",
+    "active": true,
+    "date_updated": 1769250327,
+    "date_posted": 1769250327,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400046830",
+    "locations": [
+      "Portadown, Craigavon, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "0920a60f-064b-4dc0-ade4-ad422ab9d271",
+    "title": "Trading Assistant",
+    "active": true,
+    "date_updated": 1769250326,
+    "date_posted": 1769250326,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400046902",
+    "locations": [
+      "Durham, UK",
+      "Thirsk, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
