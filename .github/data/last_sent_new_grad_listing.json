@@ -88437,5 +88437,25 @@
       "Bachelor's",
       "MBA"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Intel",
+    "id": "3714df2b-0b0e-4891-a2f4-88d031e66d4a",
+    "title": "Packaging Module Development Engineer",
+    "active": true,
+    "date_updated": 1769261790,
+    "date_posted": 1769261790,
+    "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Arizona-Phoenix/Packaging-Module-Development-Engineer_JR0279520",
+    "locations": [
+      "Phoenix, AZ"
+    ],
+    "company_url": "https://simplify.jobs/c/Intel",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "PhD"
+    ]
   }
 ]
