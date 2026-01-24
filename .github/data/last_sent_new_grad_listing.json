@@ -88372,5 +88372,48 @@
       "Master's",
       "PhD"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "ERM",
+    "id": "2c25de03-c990-4d33-929b-52d00fadd6f8",
+    "title": "Consulting Associate - Air Quality",
+    "active": true,
+    "date_updated": 1769255303,
+    "date_posted": 1769037928,
+    "url": "https://erm.wd3.myworkdayjobs.com/ERM_Careers/job/Rolling-Meadows-Illinois/Consulting-Associate--Air-Quality_R00028962-1",
+    "locations": [
+      "Palatine, IL",
+      "Milwaukee, WI",
+      "Minneapolis, MN"
+    ],
+    "company_url": "https://simplify.jobs/c/ERM",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "CACI",
+    "id": "609cbf3c-f38a-4331-a7d1-888e5911d62b",
+    "title": "Database Administrator 1",
+    "active": true,
+    "date_updated": 1769254031,
+    "date_posted": 1767654890,
+    "url": "https://caci.wd1.myworkdayjobs.com/external/job/US-VA-Norfolk/Database-Administrator-I_313857",
+    "locations": [
+      "Norfolk, VA"
+    ],
+    "company_url": "https://simplify.jobs/c/CACI",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
