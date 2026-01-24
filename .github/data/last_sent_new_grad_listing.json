@@ -88266,5 +88266,111 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Deloitte",
+    "id": "08f29ba5-ddd5-4034-ad62-0487e2886aca",
+    "title": "Analyst - Government & Public Services - AI & Data Engineering",
+    "active": true,
+    "date_updated": 1769249742,
+    "date_posted": 1767828972,
+    "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Deloitte-Consulting-LLP-Government-Public-Services-Analyst-AI-Data-Engineering/309149",
+    "locations": [
+      "Nashville, TN"
+    ],
+    "company_url": "https://simplify.jobs/c/Deloitte",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Vantor",
+    "id": "8ec76302-27bb-4007-967b-586e80fad563",
+    "title": "Forward Deployed Software Engineer 1",
+    "active": true,
+    "date_updated": 1769253762,
+    "date_posted": 1767742702,
+    "url": "https://maxar.wd1.myworkdayjobs.com/Vantor/job/Herndon-VA/Forward-Deployed-Software-Engineer-I_R22653-1",
+    "locations": [
+      "Reston, VA"
+    ],
+    "company_url": "https://simplify.jobs/c/Vantor",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "Capital One",
+    "id": "9823efa1-8e21-485a-b77d-d15c5b4e495d",
+    "title": "Senior Associate",
+    "active": true,
+    "date_updated": 1769253205,
+    "date_posted": 1767424712,
+    "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Riverwoods-IL/Senior-Associate---Product-Management--GPN-Core-Data-Platform-Services_R229452-2",
+    "locations": [
+      "Wheeling, IL",
+      "McLean, VA"
+    ],
+    "company_url": "https://simplify.jobs/c/Capital-One",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Uber",
+    "id": "c23b1283-7d84-4333-bbe3-070a541a45dd",
+    "title": "Senior Scientist - Autonomous Mobility & Delivery",
+    "active": true,
+    "date_updated": 1769248784,
+    "date_posted": 1761949939,
+    "url": "https://www.uber.com/global/en/careers/list/148238/",
+    "locations": [
+      "SF"
+    ],
+    "company_url": "https://simplify.jobs/c/Uber",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "PhD"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Baseten",
+    "id": "5ae3593b-d12d-4b9d-9501-3b93df465f78",
+    "title": "Software Engineer - Core Product",
+    "active": true,
+    "date_updated": 1769246764,
+    "date_posted": 1761868689,
+    "url": "https://jobs.ashbyhq.com/baseten/fc6e5f2e-eb2d-4a6c-8a51-8422e8662bde/application",
+    "locations": [
+      "SF",
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Baseten",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "PhD"
+    ]
   }
 ]
