@@ -87944,5 +87944,112 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Morgan Stanley",
+    "id": "6c177d1b-5fe8-4a28-a467-8f33d1f86b3c",
+    "title": "Associate Quantitative Analyst - Parametric",
+    "active": true,
+    "date_updated": 1769212012,
+    "date_posted": 1769212012,
+    "url": "https://ms.wd5.myworkdayjobs.com/External/job/Seattle-Washington-United-States-of-America/Associate-Quantitative-Analyst---Parametric_PT-JR027989",
+    "locations": [
+      "Boston, MA",
+      "Seattle, WA"
+    ],
+    "company_url": "https://simplify.jobs/c/Morgan-Stanley",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Micron Technology",
+    "id": "b5f1aa7b-734b-40a4-80a3-49cfc65e1b2a",
+    "title": "Innovation Engineer - Smai",
+    "active": true,
+    "date_updated": 1769211658,
+    "date_posted": 1769211658,
+    "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Innovation-Engineer--SMAI_JR89061",
+    "locations": [
+      "Boise, ID"
+    ],
+    "company_url": "https://simplify.jobs/c/Micron-Technology",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Northrop Grumman",
+    "id": "551faf3a-6c44-4ec1-9d67-2780b23afe99",
+    "title": "2026 Associate Software Engineer/Software Engineer",
+    "active": true,
+    "date_updated": 1769211618,
+    "date_posted": 1769211618,
+    "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/XMLNAME-2026-Associate-Software-Engineer-Software-Engineer_R10220473",
+    "locations": [
+      "Palmdale, CA",
+      "Oklahoma City, OK",
+      "Grand Forks, ND",
+      "San Diego, CA",
+      "El Segundo, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Celonis",
+    "id": "866ce0ad-be1e-4642-bc31-9a7439bcca88",
+    "title": "Associate Value Engineer - AI-Driven Data Science & Analytics",
+    "active": true,
+    "date_updated": 1769211976,
+    "date_posted": 1769182940,
+    "url": "https://job-boards.greenhouse.io/celonis/jobs/7495756003?gh_jid=7495756003",
+    "locations": [
+      "Raleigh, NC"
+    ],
+    "company_url": "https://simplify.jobs/c/Celonis",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "The National Football League",
+    "id": "5a4c028b-134c-4cf7-b4fb-2e911d9a3b1f",
+    "title": "Media Operations Technical Associate - Java Development",
+    "active": true,
+    "date_updated": 1764703215,
+    "date_posted": 1763665172,
+    "url": "https://job-boards.greenhouse.io/nflcareers/jobs/4994245008",
+    "locations": [
+      "Inglewood, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/The-National-Football-League",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "PhD"
+    ]
   }
 ]
