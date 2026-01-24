@@ -88051,5 +88051,107 @@
       "Bachelor's",
       "PhD"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Teledyne",
+    "id": "5a95f63c-9637-4c9b-a893-79cef7f1d602",
+    "title": "Field Service / Support Technician",
+    "active": true,
+    "date_updated": 1769221904,
+    "date_posted": 1769221904,
+    "url": "https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Tucson-AZ/Field-Service---Support-Technician_REQ32158",
+    "locations": [
+      "Tucson, AZ"
+    ],
+    "company_url": "https://simplify.jobs/c/199b3c43-379a-408c-a6a8-980e79183038",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "NVIDIA",
+    "id": "2d060e56-9518-472a-976c-e24cad95bba6",
+    "title": "AI ML Engineer - RTL Power Optimization",
+    "active": true,
+    "date_updated": 1769222153,
+    "date_posted": 1769222153,
+    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/AI-ML-Engineer--RTL-Power-Optimization---New-College-Grad-2026_JR2011172",
+    "locations": [
+      "Santa Clara, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/NVIDIA",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Master's",
+      "PhD"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Loop",
+    "id": "aff0bb8a-52b1-43c4-9cc3-d415c0439d24",
+    "title": "2026 New Grad - Software Engineer - Full-Stack",
+    "active": true,
+    "date_updated": 1769221627,
+    "date_posted": 1769221627,
+    "url": "https://job-boards.greenhouse.io/loop/jobs/5780582004",
+    "locations": [
+      "SF",
+      "Chicago, IL",
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Loop",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "PhD"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Loop",
+    "id": "88165add-a938-4dcd-be80-56a54941908a",
+    "title": "Graduate Software Engineer - AI",
+    "active": true,
+    "date_updated": 1769221635,
+    "date_posted": 1769221635,
+    "url": "https://job-boards.greenhouse.io/loop/jobs/5780584004",
+    "locations": [
+      "SF",
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Loop",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Chime",
+    "id": "01279f87-288e-47e3-830a-586bfdfdbe36",
+    "title": "Data Analyst - Lending",
+    "active": true,
+    "date_updated": 1769211908,
+    "date_posted": 1768261061,
+    "url": "https://boards.greenhouse.io/chime/jobs/8365502002",
+    "locations": [
+      "SF"
+    ],
+    "company_url": "https://simplify.jobs/c/Chime",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
