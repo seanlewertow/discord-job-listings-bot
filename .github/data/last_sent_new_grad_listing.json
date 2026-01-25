@@ -88621,5 +88621,95 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Vertiv",
+    "id": "fa995a89-884a-4801-94ab-e3e49113201f",
+    "title": "Quality Inspection/Final Test 1",
+    "active": true,
+    "date_updated": 1769307052,
+    "date_posted": 1769307052,
+    "url": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20265819",
+    "locations": [
+      "Ashland, KY"
+    ],
+    "company_url": "https://simplify.jobs/c/Vertiv",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Vertiv",
+    "id": "f7cca141-1c4f-412f-bd20-b0f9f54337f4",
+    "title": "Quality Inspection/Final Test 1",
+    "active": true,
+    "date_updated": 1769307052,
+    "date_posted": 1769307052,
+    "url": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20265816",
+    "locations": [
+      "Ashland, KY"
+    ],
+    "company_url": "https://simplify.jobs/c/Vertiv",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Vertiv",
+    "id": "bd5ed310-8ed8-4dcb-9dba-cdff486a20d5",
+    "title": "Quality Inspection/Final Test 1",
+    "active": true,
+    "date_updated": 1769307064,
+    "date_posted": 1769307064,
+    "url": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20265815",
+    "locations": [
+      "Ashland, KY"
+    ],
+    "company_url": "https://simplify.jobs/c/Vertiv",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Vertiv",
+    "id": "b7e30c76-67b4-4ac6-8504-a9822321970d",
+    "title": "Quality Inspection/Final Test 1",
+    "active": true,
+    "date_updated": 1769307051,
+    "date_posted": 1769307051,
+    "url": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20265814",
+    "locations": [
+      "Ashland, KY"
+    ],
+    "company_url": "https://simplify.jobs/c/Vertiv",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "430eadcd-7d32-49ce-b835-8346325254ed",
+    "title": "Trading Assistant - Shift",
+    "active": true,
+    "date_updated": 1769306962,
+    "date_posted": 1769306962,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400046999",
+    "locations": [
+      "Whiteley, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
