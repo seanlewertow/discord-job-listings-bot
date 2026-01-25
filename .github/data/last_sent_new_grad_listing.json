@@ -88711,5 +88711,59 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Orchard",
+    "id": "d01b97a6-3ca5-44eb-88c6-d88ca8ae0bb1",
+    "title": "Hardware Engineering Technician - Assembly and Testing",
+    "active": true,
+    "date_updated": 1769027858,
+    "date_posted": 1769027858,
+    "url": "https://jobs.ashbyhq.com/orchard/4ef4ff75-f247-4f94-ac5f-599702f697b8/application",
+    "locations": [
+      "SF"
+    ],
+    "company_url": "https://simplify.jobs/c/Orchard-AI",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "f83eb69f-051c-4873-9a8f-790ae14ac55d",
+    "title": "Trading Assistant",
+    "active": true,
+    "date_updated": 1769336743,
+    "date_posted": 1769336743,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400047004",
+    "locations": [
+      "Swindon, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "849acfce-7e6e-4385-a2d6-93d59fe087f5",
+    "title": "Trading Assistant",
+    "active": true,
+    "date_updated": 1769336742,
+    "date_posted": 1769336742,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400047005",
+    "locations": [
+      "Swindon, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
