@@ -88765,5 +88765,98 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "87e3270d-e392-4a81-a6fb-d1374302367f",
+    "title": "Trading Assistant - Shift",
+    "active": true,
+    "date_updated": 1769382618,
+    "date_posted": 1769382618,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400047042",
+    "locations": [
+      "Dorchester, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "848048d6-189f-45e2-9e86-c207acb73628",
+    "title": "Trading Assistant - Shift",
+    "active": true,
+    "date_updated": 1769382610,
+    "date_posted": 1769382610,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400047041",
+    "locations": [
+      "Edinburgh, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "56dce716-3fa0-48e0-be6c-57f2c84cf125",
+    "title": "Trading Assistant - Shift",
+    "active": true,
+    "date_updated": 1769382614,
+    "date_posted": 1769382614,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400047043",
+    "locations": [
+      "Solihull, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Westinghouse Electric Company",
+    "id": "1a1bd6ed-6946-4c6c-ba15-f9f4240f1f9c",
+    "title": "New Grad Leadership Engineer; Global Instrumentation and Controls",
+    "active": true,
+    "date_updated": 1769382670,
+    "date_posted": 1769382670,
+    "url": "https://careers.westinghousenuclear.com/job/Warrendale-New-Grad-Leadership-Engineer-Global-Instrumentatin-and-Controls-OR/1359126600/?ats=successfactors",
+    "locations": [
+      "Cranberry Twp, PA",
+      "Grove City, PA"
+    ],
+    "company_url": "https://simplify.jobs/c/Westinghouse-Electric-Company",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "13e60cbf-a014-42bc-9dc5-b889dcafa587",
+    "title": "Trading Assistant - Shift",
+    "active": true,
+    "date_updated": 1769382610,
+    "date_posted": 1769382610,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400047035",
+    "locations": [
+      "Liverpool, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
