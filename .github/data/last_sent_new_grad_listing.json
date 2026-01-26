@@ -89013,5 +89013,98 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "NextEra Energy",
+    "id": "80a2ab79-55e5-434a-a037-2ab1db99ec59",
+    "title": "Associate Software Development Engineer",
+    "active": true,
+    "date_updated": 1769440349,
+    "date_posted": 1769440349,
+    "url": "https://jobs.nexteraenergy.com/job/Palm-Beach-Gardens-Assoc-Software-Development-Eng-FL-33410/1359192700/?ats=successfactors",
+    "locations": [
+      "Palm Beach Gardens, FL"
+    ],
+    "company_url": "https://simplify.jobs/c/NextEra-Energy",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "RWS",
+    "id": "a36bec47-5c7e-4fc3-b2dd-11b7375855c2",
+    "title": "AI Data Specialist - Missouri - US",
+    "active": true,
+    "date_updated": 1769440267,
+    "date_posted": 1769440267,
+    "url": "https://jobs.lever.co/rws/4146033a-fda0-462e-82f8-9b0d9cb906e3/apply",
+    "locations": [
+      "Florida",
+      "Kansas City, MO"
+    ],
+    "company_url": "https://simplify.jobs/c/RWS",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "RWS",
+    "id": "89da7b1a-d554-479b-80d5-042c56c4b80d",
+    "title": "AI Data Specialist - South Carolina - US",
+    "active": true,
+    "date_updated": 1769440278,
+    "date_posted": 1769440278,
+    "url": "https://jobs.lever.co/rws/6f749260-f5c9-473e-b175-c97e72b654db/apply",
+    "locations": [
+      "Florida"
+    ],
+    "company_url": "https://simplify.jobs/c/RWS",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Sono-Tek Corporation",
+    "id": "702b0b57-e63d-4f10-bf46-26fac7476736",
+    "title": "Software Engineer 1",
+    "active": true,
+    "date_updated": 1769440298,
+    "date_posted": 1769440298,
+    "url": "https://careers-councilofindustry.icims.com/jobs/4963/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Saratoga County, NY"
+    ],
+    "company_url": "https://simplify.jobs/c/Sono-Tek-Corporation",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "RWS",
+    "id": "2b8c9d5f-7ec2-4838-aa02-5eea958c00f2",
+    "title": "AI Data Specialist",
+    "active": true,
+    "date_updated": 1769440283,
+    "date_posted": 1769440283,
+    "url": "https://jobs.lever.co/rws/9949a1a0-9510-45d6-8f6d-2392eafa3d50/apply",
+    "locations": [
+      "Florida"
+    ],
+    "company_url": "https://simplify.jobs/c/RWS",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
