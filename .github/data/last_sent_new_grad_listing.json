@@ -89106,5 +89106,65 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Lloyds Bank",
+    "id": "c2173356-cc72-497f-a8b7-c15b6925e7d7",
+    "title": "Software Engineer - Cards",
+    "active": true,
+    "date_updated": 1769442396,
+    "date_posted": 1769442396,
+    "url": "https://lbg.wd3.myworkdayjobs.com/LBG_Careers/job/Chester/Software-Engineer--Cards-_135039",
+    "locations": [
+      "Manchester, UK",
+      "Liverpool, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Lloyds-Bank",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Invenergy",
+    "id": "745faa41-dd9c-44e6-a880-115331e2ae5c",
+    "title": "Control Room Operator",
+    "active": true,
+    "date_updated": 1769441416,
+    "date_posted": 1769441416,
+    "url": "https://invenergyllc.wd1.myworkdayjobs.com/en-US/invenergycareers/job/Bolingbrook-IL/Control-Room-Operator_R10286-1",
+    "locations": [
+      "Woodridge, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/bae45eb7-5781-4bfa-b317-ebf459b7f07e",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Carnegie Mellon University",
+    "id": "02fa000c-c3ab-476c-9a51-e7bc466c3cdd",
+    "title": "Research Assistant - S3D - School of Computer Science",
+    "active": true,
+    "date_updated": 1769441467,
+    "date_posted": 1769441467,
+    "url": "https://cmu.wd5.myworkdayjobs.com/cmu/job/Pittsburgh-PA/Research-Assistant---S3D---School-of-Computer-Science_2024087",
+    "locations": [
+      "Pittsburgh, PA"
+    ],
+    "company_url": "https://simplify.jobs/c/Carnegie-Mellon-University",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
   }
 ]
