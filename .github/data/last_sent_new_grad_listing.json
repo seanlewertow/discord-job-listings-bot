@@ -88896,5 +88896,46 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "AeroVironment",
+    "id": "d32a67e4-330c-497c-b8f6-bacd36ce047b",
+    "title": "Software Engineer 1 - Applications",
+    "active": true,
+    "date_updated": 1769028810,
+    "date_posted": 1769028810,
+    "url": "https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Simi-Valley-CA/Software-Engineer-I--Applications-_6541",
+    "locations": [
+      "Simi Valley, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/AeroVironment",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "CLEAResult",
+    "id": "dbdfe9c5-4d91-449f-aafe-61c5fddcb15e",
+    "title": "Commercial Energy Auditor",
+    "active": true,
+    "date_updated": 1769344641,
+    "date_posted": 1769211981,
+    "url": "https://clearesult.wd1.myworkdayjobs.com/CLEAResult_External_Careers/job/Allentown-PA---Glenlivet-Drive/Commercial-Energy-Auditor_R0016610",
+    "locations": [
+      "Pennsylvania",
+      "Allentown, PA"
+    ],
+    "company_url": "https://simplify.jobs/c/CLEAResult",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
