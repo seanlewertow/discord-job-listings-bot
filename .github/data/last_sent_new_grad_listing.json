@@ -88858,5 +88858,43 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Merck",
+    "id": "f31f0ee4-d1f6-467b-bb76-75685e8edc71",
+    "title": "Associate Specialist - Engineering",
+    "active": true,
+    "date_updated": 1769028750,
+    "date_posted": 1769028750,
+    "url": "https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---Nebraska---Elkhorn/Associate-Specialist--Engineering_R379447-1",
+    "locations": [
+      "Papillion, NE"
+    ],
+    "company_url": "https://simplify.jobs/c/Merck",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Vertiv",
+    "id": "f1383e72-7b8f-4e8b-a302-6c03a6bd75db",
+    "title": "Quality Inspection/Final Test 1",
+    "active": true,
+    "date_updated": 1769307042,
+    "date_posted": 1769307042,
+    "url": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20265818",
+    "locations": [
+      "Ashland, KY"
+    ],
+    "company_url": "https://simplify.jobs/c/Vertiv",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
