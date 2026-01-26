@@ -89166,5 +89166,104 @@
       "Bachelor's",
       "Master's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Stifel",
+    "id": "5108ce31-2ddb-4d3e-a3ef-cf274ee67639",
+    "title": "Bank Systems Analyst",
+    "active": true,
+    "date_updated": 1769469073,
+    "date_posted": 1769469073,
+    "url": "https://careers-stifel.icims.com/jobs/8724/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "St. Louis, MO"
+    ],
+    "company_url": "https://simplify.jobs/c/Stifel",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Electronic Arts",
+    "id": "42df1972-5d25-476f-a00c-aecabce2ecbe",
+    "title": "EA Sports Academy Software Engineer",
+    "active": true,
+    "date_updated": 1769469183,
+    "date_posted": 1769469183,
+    "url": "https://jobs.ea.com/en_US/careers/JobDetail/EA-Sports-Academy-Software-Engineer/211920",
+    "locations": [
+      "Orlando, FL"
+    ],
+    "company_url": "https://simplify.jobs/c/Electronic-Arts",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "3b912af6-4f92-4684-b4e8-ac2348de80f3",
+    "title": "Trading Assistant",
+    "active": true,
+    "date_updated": 1769469108,
+    "date_posted": 1769469108,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400047176",
+    "locations": [
+      "Glasgow, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Stifel",
+    "id": "108b4785-dc85-46b8-9322-2ba74deeac37",
+    "title": "Advisory Trading Analyst",
+    "active": true,
+    "date_updated": 1769469066,
+    "date_posted": 1769469066,
+    "url": "https://careers-stifel.icims.com/jobs/8722/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "St. Louis, MO"
+    ],
+    "company_url": "https://simplify.jobs/c/Stifel",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Cornell University",
+    "id": "63c9fb4e-1dab-42be-9af7-934f3596b5db",
+    "title": "Temporary Informatics and Data Analyst - Qmps",
+    "active": true,
+    "date_updated": 1769468554,
+    "date_posted": 1769468554,
+    "url": "https://cornell.wd1.myworkdayjobs.com/cornellpositions/job/Ithaca-Main-Campus/Temporary-Informatics-and-Data-Analyst---QMPS_WDR-00056753-1",
+    "locations": [
+      "Ithaca, NY"
+    ],
+    "company_url": "https://simplify.jobs/c/78a44476-ea63-4e0f-af51-06d970293415",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
