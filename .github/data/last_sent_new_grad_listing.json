@@ -88955,5 +88955,43 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Danaher Corporation",
+    "id": "db4f0640-8449-4171-be99-b146cdbac1f2",
+    "title": "Procurement Data Analyst",
+    "active": true,
+    "date_updated": 1769432221,
+    "date_posted": 1769432221,
+    "url": "https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/Cambridge-United-Kingdom/Procurement-Data-Analyst_R1304029",
+    "locations": [
+      "Cambridge, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Danaher-Corporation",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "MUFG",
+    "id": "803e406d-cc6c-4d2e-b1ea-b629445bd34d",
+    "title": "Global Financial Crimes Analyst - Issues Management - Reporting & Data Analysis",
+    "active": true,
+    "date_updated": 1769431229,
+    "date_posted": 1769431229,
+    "url": "https://mufgub.wd3.myworkdayjobs.com/mufg-careers/job/Irving-TX/Global-Financial-Crimes--Issues-Management---Reporting---Data-Analysis--Analyst_10070365-WD",
+    "locations": [
+      "Irving, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/MUFG",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
