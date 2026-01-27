@@ -89800,5 +89800,23 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Lloyds Bank",
+    "id": "42a6c4fb-43c2-4f93-a50d-8c855ad408b4",
+    "title": "Data Engineer",
+    "active": true,
+    "date_updated": 1769520594,
+    "date_posted": 1769520594,
+    "url": "https://lbg.wd3.myworkdayjobs.com/LBG_Careers/job/Leeds-Wellington-Place/Data-Engineer_141010-2",
+    "locations": [
+      "Leeds, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Lloyds-Bank",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
