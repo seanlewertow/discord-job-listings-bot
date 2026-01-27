@@ -89608,5 +89608,105 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Aramark",
+    "id": "89d6a37e-3665-4526-af7e-33129d287ef0",
+    "title": "Barista",
+    "active": true,
+    "date_updated": 1769509615,
+    "date_posted": 1769509615,
+    "url": "https://aramarkcareers.com/UnitedStates/job/Overland-Park-Barista-Shamrock-Trading-Corporation-KS-66212/1359057200/?ats=successfactors",
+    "locations": [
+      "Overland Park, KS"
+    ],
+    "company_url": "https://simplify.jobs/c/Aramark",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Aramark",
+    "id": "8050a9a1-2c2e-46d5-a175-40a8b09c3b7b",
+    "title": "Cook",
+    "active": true,
+    "date_updated": 1769509643,
+    "date_posted": 1769509643,
+    "url": "https://aramarkcareers.com/UnitedStates/job/Overland-Park-Cook-Shamrock-Trading-Corporation-KS-66212/1356610700/?ats=successfactors",
+    "locations": [
+      "Overland Park, KS"
+    ],
+    "company_url": "https://simplify.jobs/c/Aramark",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "ServiceNow",
+    "id": "8b36c5cd-89df-466a-b1a7-61ac88a47543",
+    "title": "Software Engineer",
+    "active": true,
+    "date_updated": 1769508281,
+    "date_posted": 1769508281,
+    "url": "https://jobs.smartrecruiters.com/ServiceNow/744000105800866",
+    "locations": [
+      "London, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/ServiceNow",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Carvana",
+    "id": "ded7df04-482e-4f84-9741-7eb84a89a756",
+    "title": "State Inspection Technician",
+    "active": true,
+    "date_updated": 1769441391,
+    "date_posted": 1769441391,
+    "url": "https://www.carvana.com/careers/apply?gh_jid=7563769",
+    "locations": [
+      "Concord, NC"
+    ],
+    "company_url": "https://simplify.jobs/c/Carvana",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Amazon",
+    "id": "469230da-956e-4af3-a1be-e5de7c6e6c26",
+    "title": "Engineering Operations Technician - DCC Communities",
+    "active": true,
+    "date_updated": 1769508004,
+    "date_posted": 1767197277,
+    "url": "https://amazon.jobs/en/jobs/3150264/engineering-operations-technician-dcc-communities",
+    "locations": [
+      "Avondale, AZ"
+    ],
+    "company_url": "https://simplify.jobs/c/Amazon",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "MBA",
+      "PhD",
+      "Associate's",
+      "JD",
+      "MD",
+      "Bootcamp",
+      "Certificate"
+    ]
   }
 ]
