@@ -89910,5 +89910,111 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Cleveland Clinic",
+    "id": "ae3290c8-a728-4e97-8f83-b4e3d570aff4",
+    "title": "EBI Database Developer 1",
+    "active": true,
+    "date_updated": 1769529193,
+    "date_posted": 1769529193,
+    "url": "https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Remote-Location/EBI-Database-Developer-I_320481",
+    "locations": [
+      "Florida",
+      "Nevada",
+      "Ohio"
+    ],
+    "company_url": "https://simplify.jobs/c/Cleveland-Clinic",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Associate's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Capital One",
+    "id": "f658bba3-df11-40b3-944f-026002c99e72",
+    "title": "Senior Manager - Data Science",
+    "active": true,
+    "date_updated": 1769528734,
+    "date_posted": 1769528734,
+    "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Senior-Manager--Data-Science_R234501-1",
+    "locations": [
+      "McLean, VA"
+    ],
+    "company_url": "https://simplify.jobs/c/Capital-One",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "MBA",
+      "PhD"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Brenntag",
+    "id": "cf01020f-45a4-4a45-863c-391b594ed254",
+    "title": "Master Data Analyst - Mths FTC",
+    "active": true,
+    "date_updated": 1769527879,
+    "date_posted": 1769527879,
+    "url": "https://brenntag.wd3.myworkdayjobs.com/brenntag_jobs/job/LeedsUnited-Kingdom/Master-Data-Analyst---18-mths-FTC_JR107647",
+    "locations": [
+      "Leeds, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Brenntag",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Brenntag",
+    "id": "a6bec681-b778-43bf-912d-7914df4faeed",
+    "title": "Master Data Analyst - Mths FTC",
+    "active": true,
+    "date_updated": 1769527877,
+    "date_posted": 1769527877,
+    "url": "https://brenntag.wd3.myworkdayjobs.com/brenntag_jobs/job/LeedsUnited-Kingdom/SAP-Project-Temporary-Cover-12_JR107648",
+    "locations": [
+      "Leeds, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Brenntag",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Brenntag",
+    "id": "2b01baa2-0e05-4906-94e3-b0659787efc8",
+    "title": "Master Data Analyst - Mths FTC",
+    "active": true,
+    "date_updated": 1769527879,
+    "date_posted": 1769527879,
+    "url": "https://brenntag.wd3.myworkdayjobs.com/brenntag_jobs/job/LeedsUnited-Kingdom/Master-Data-Analyst---2-years-FTC_JR107646",
+    "locations": [
+      "Leeds, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Brenntag",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
