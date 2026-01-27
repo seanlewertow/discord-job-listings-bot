@@ -89265,5 +89265,109 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Uline",
+    "id": "a39fa7dc-7bc3-485f-9d89-a5d7c5539230",
+    "title": "Associate Ecommerce Data Analyst",
+    "active": true,
+    "date_updated": 1769471373,
+    "date_posted": 1769471373,
+    "url": "https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/Associate-eCommerce-Data-Analyst_R260722-1",
+    "locations": [
+      "Waukegan, IL",
+      "Milwaukee, WI",
+      "Pleasant Prairie, WI",
+      "Morton Grove, IL",
+      "Kenosha, WI"
+    ],
+    "company_url": "https://simplify.jobs/c/Uline",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "The Boeing Company",
+    "id": "7171d22c-2824-42c0-8900-e0c66cf263b0",
+    "title": "Application Developer - Scientific Applications",
+    "active": true,
+    "date_updated": 1769470831,
+    "date_posted": 1769470831,
+    "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Everett-WA/Application-Developer--Scientific-Applications------Entry-Level--Associate--or-Mid-Level-_JR2025488280",
+    "locations": [
+      "Everett, WA"
+    ],
+    "company_url": "https://simplify.jobs/c/Boeing",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Caterpillar Inc.",
+    "id": "4a24eb66-a01d-46ba-b042-a5a59ced6b74",
+    "title": "Data Scientist / Technical Analyst - Data Scientist/Technical Analyst",
+    "active": true,
+    "date_updated": 1769470767,
+    "date_posted": 1769470767,
+    "url": "https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Chicago-Illinois/Cat-Digital-Cat-Technology---Data-Scientist-Technical-Analyst_R0000346431",
+    "locations": [
+      "Peoria, IL",
+      "Chicago, IL",
+      "Irving, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Caterpillar-Inc",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Applied Materials",
+    "id": "6ab49a4d-dae4-4da4-9e68-2e4f290342e0",
+    "title": "2026 Field Service Engineer \u2013 New College Graduate Rotational Program \u2013 College Grad - Bachelor's Degree - US-Based",
+    "active": true,
+    "date_updated": 1769472167,
+    "date_posted": 1769472167,
+    "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/XMLNAME-2026-Field-Service-Engineer---New-College-Graduate-Rotational-Program--College-Grad---Bachelor-s-Degree--US-Based-_R2516813",
+    "locations": [
+      "Santa Clara, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Applied-Materials",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "S&P Global ",
+    "id": "45538df6-5cee-429e-90a7-8ba573a4c336",
+    "title": "Product Consultant - Distribution Solutions",
+    "active": true,
+    "date_updated": 1769471976,
+    "date_posted": 1769471976,
+    "url": "https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Careers/job/London-UK/Product-Consultant--Distribution-Solutions_325136-1",
+    "locations": [
+      "London, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/SP-Global",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
