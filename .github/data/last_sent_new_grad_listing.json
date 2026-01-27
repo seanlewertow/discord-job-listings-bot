@@ -89471,5 +89471,61 @@
       "Master's",
       "PhD"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "eadfac54-0e35-4881-94d7-f4f3833afbac",
+    "title": "Trading Assistant - Shift",
+    "active": true,
+    "date_updated": 1769480259,
+    "date_posted": 1769480259,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400047187",
+    "locations": [
+      "Crawley, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "1977f852-3451-4ce0-b1f9-03f4e299d5f9",
+    "title": "Trading Assistant - Shift",
+    "active": true,
+    "date_updated": 1769480263,
+    "date_posted": 1769480263,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400047186",
+    "locations": [
+      "Tunbridge Wells, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Northrop Grumman",
+    "id": "20afcb85-d827-4e38-a70f-d63cb0d04cbe",
+    "title": "Associate Software Engineer",
+    "active": true,
+    "date_updated": 1769483034,
+    "date_posted": 1769483034,
+    "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Arizona-Chandler/XMLNAME-2026-Associate-Software-Engineer-or-Software-Engineer---Chandler-AZ_R10220701-1",
+    "locations": [
+      "Chandler, AZ"
+    ],
+    "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
