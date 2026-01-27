@@ -89818,5 +89818,97 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Latitude",
+    "id": "21a944c3-c693-4c11-a86e-98891491a98f",
+    "title": "Manufacturing/ Electronics Technician - Pcbs",
+    "active": true,
+    "date_updated": 1769526997,
+    "date_posted": 1769526997,
+    "url": "https://jobs.lever.co/latitudeinc/0f41c9eb-e975-462d-a080-dbfa0352f499/apply",
+    "locations": [
+      "Reston, VA"
+    ],
+    "company_url": "https://simplify.jobs/c/Latitude",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "db637861-ed55-4031-aee5-e7573a9755dd",
+    "title": "Trading Assistant",
+    "active": true,
+    "date_updated": 1769526737,
+    "date_posted": 1769526737,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400047235",
+    "locations": [
+      "United Kingdom"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "d9435688-2e84-4d81-ab53-e8708dd17890",
+    "title": "Trading Assistant",
+    "active": true,
+    "date_updated": 1769526730,
+    "date_posted": 1769526730,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400047244",
+    "locations": [
+      "Durham, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "a11b0e50-d2f1-4e51-8f96-fabf6a18df82",
+    "title": "Trading Assistant",
+    "active": true,
+    "date_updated": 1769526736,
+    "date_posted": 1769526736,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400047245",
+    "locations": [
+      "Durham, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Howmet Aerospace",
+    "id": "b46421ef-a694-4f7f-85e6-ae07c3bf9ee0",
+    "title": "Data Analyst",
+    "active": true,
+    "date_updated": 1769526685,
+    "date_posted": 1769526685,
+    "url": "https://fa-exty-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/115897",
+    "locations": [
+      "United States"
+    ],
+    "company_url": "https://simplify.jobs/c/Howmet-Aerospace",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
