@@ -90016,5 +90016,105 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Westinghouse Electric Company",
+    "id": "097fa52b-19c5-4733-8c02-b1232021ac5f",
+    "title": "Software Engineer",
+    "active": true,
+    "date_updated": 1769555671,
+    "date_posted": 1769555671,
+    "url": "https://careers.westinghousenuclear.com/job/Warrendale-Software-Engineer-OR/1359789200/?ats=successfactors",
+    "locations": [
+      "Cranberry Twp, PA"
+    ],
+    "company_url": "https://simplify.jobs/c/Westinghouse-Electric-Company",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Herbalife",
+    "id": "9a1651b4-4f33-4613-b7d7-05eff8a4db40",
+    "title": "Application Developer 1",
+    "active": true,
+    "date_updated": 1769555472,
+    "date_posted": 1769555472,
+    "url": "https://careers-herbalife.icims.com/jobs/18711/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Carson, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Herbalife",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "qode.world",
+    "id": "5228296c-43f0-4720-998f-9fd12e29f761",
+    "title": "Associate Data Engineer",
+    "active": true,
+    "date_updated": 1769555406,
+    "date_posted": 1769555406,
+    "url": "https://apply.workable.com/qodeworld/j/0C2E797E48/apply",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Qode-World",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Huntington Ingalls Industries",
+    "id": "e582c2c3-1156-4ae1-bf59-daa9e0e1a5bb",
+    "title": "Software Engineer 1",
+    "active": true,
+    "date_updated": 1769555178,
+    "date_posted": 1769555178,
+    "url": "https://careers.huntingtoningalls.com/job/Newport-News-ENGINEER-SOFTWARE-1-Virg/1359734000/?ats=successfactors",
+    "locations": [
+      "Newport News, VA"
+    ],
+    "company_url": "https://simplify.jobs/c/Huntington-Ingalls-Industries",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Royal Caribbean Group",
+    "id": "366ac35f-b3ca-4f1f-b5a1-384e0f873797",
+    "title": "Data Analyst",
+    "active": true,
+    "date_updated": 1769556070,
+    "date_posted": 1769469675,
+    "url": "https://jobs.royalcaribbeangroup.com/job/Miami-Data-Analyst-FL-33131/1348510500/?ats=successfactors",
+    "locations": [
+      "Miami, FL"
+    ],
+    "company_url": "https://simplify.jobs/c/Royal-Caribbean-Group",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
