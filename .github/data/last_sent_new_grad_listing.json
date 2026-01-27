@@ -89708,5 +89708,77 @@
       "Bootcamp",
       "Certificate"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "RWS",
+    "id": "e38f7164-328c-48d4-af23-a936a3ddd5f7",
+    "title": "AI Data Specialist - Kansas - US",
+    "active": true,
+    "date_updated": 1769509738,
+    "date_posted": 1769509738,
+    "url": "https://jobs.lever.co/rws/8156d182-8db3-461d-8469-cc09beee6eb5/apply",
+    "locations": [
+      "Florida"
+    ],
+    "company_url": "https://simplify.jobs/c/RWS",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "RWS",
+    "id": "5120f22c-4bca-424c-893a-d0828a8b9833",
+    "title": "AI Data Specialist - Iowa - US",
+    "active": true,
+    "date_updated": 1769509733,
+    "date_posted": 1769509733,
+    "url": "https://jobs.lever.co/rws/60cd073a-5a37-4c1f-a72d-285f156a510e/apply",
+    "locations": [
+      "Des Moines, IA"
+    ],
+    "company_url": "https://simplify.jobs/c/RWS",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "RWS",
+    "id": "47eeecb0-7dc8-48f9-a8c6-622e4a0e0e02",
+    "title": "AI Data Specialist - Kentucky - US",
+    "active": true,
+    "date_updated": 1769509734,
+    "date_posted": 1769509734,
+    "url": "https://jobs.lever.co/rws/0220192f-30e4-45af-84d3-2aa82ca6f833/apply",
+    "locations": [
+      "Florida"
+    ],
+    "company_url": "https://simplify.jobs/c/RWS",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "RWS",
+    "id": "3dbcadb0-27b5-4998-bca6-1733b3a17fba",
+    "title": "AI Data Specialist-Oklahoma - US",
+    "active": true,
+    "date_updated": 1769509737,
+    "date_posted": 1769509737,
+    "url": "https://jobs.lever.co/rws/69ed1782-bbe5-4f7a-8a8c-b26e0ae89d78/apply",
+    "locations": [
+      "Florida"
+    ],
+    "company_url": "https://simplify.jobs/c/RWS",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
