@@ -89527,5 +89527,26 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Ameriprise Financial",
+    "id": "5527d87f-3f81-4fb2-a122-f8db337b5cec",
+    "title": "Associate Data Scientist",
+    "active": true,
+    "date_updated": 1769497600,
+    "date_posted": 1769497600,
+    "url": "https://ameriprise.wd5.myworkdayjobs.com/en-US/Ameriprise/job/Minneapolis-Minnesota/Associate-Data-Scientist_R26_0282-1",
+    "locations": [
+      "Minneapolis, MN"
+    ],
+    "company_url": "https://simplify.jobs/c/Ameriprise-Financial",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
   }
 ]
