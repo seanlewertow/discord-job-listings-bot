@@ -90217,5 +90217,104 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "eef377c1-f475-4ad2-b02f-60cd4ed77fe9",
+    "title": "Trading Assistant",
+    "active": true,
+    "date_updated": 1769566335,
+    "date_posted": 1769566335,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400044650",
+    "locations": [
+      "Blackpool, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "b09898b4-5f15-44e3-9b5c-ddb39fc69ece",
+    "title": "Trading Assistant - Shift",
+    "active": true,
+    "date_updated": 1769566341,
+    "date_posted": 1769566341,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400047302",
+    "locations": [
+      "Lakenheath, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Amplitude",
+    "id": "af93d938-40b5-42ca-b1a7-f0ec90cf1eb6",
+    "title": "Software Engineer 1 - Data Pipeline",
+    "active": true,
+    "date_updated": 1769567864,
+    "date_posted": 1769567864,
+    "url": "https://job-boards.greenhouse.io/amplitude/jobs/8225014002",
+    "locations": [
+      "SF"
+    ],
+    "company_url": "https://simplify.jobs/c/Amplitude",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "PhD"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Talkdesk",
+    "id": "a79e5d51-3be0-485a-9148-643cb53acb0e",
+    "title": "Software Engineer 1",
+    "active": true,
+    "date_updated": 1769567705,
+    "date_posted": 1769567705,
+    "url": "https://careers.talkdesk.com/jobs?id=7565583&gh_jid=7565583",
+    "locations": [
+      "Bellevue, WA"
+    ],
+    "company_url": "https://simplify.jobs/c/Talkdesk",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Roblox",
+    "id": "8cd2a333-7260-4399-b3df-87a48fc9ef4d",
+    "title": "2026 Canada] Software Engineer \u2013 Early Career - Geometry",
+    "active": true,
+    "date_updated": 1769567559,
+    "date_posted": 1769567559,
+    "url": "https://careers.roblox.com/jobs/7558821?gh_jid=7558821",
+    "locations": [
+      "Vancouver, BC, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Roblox",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
