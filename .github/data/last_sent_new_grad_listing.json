@@ -90743,5 +90743,28 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Walmart",
+    "id": "bb13930f-304b-4c91-9c1a-95a243309800",
+    "title": "Staff - Data Scientist",
+    "active": true,
+    "date_updated": 1769608952,
+    "date_posted": 1769608952,
+    "url": "https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Sunnyvale-CA/XMLNAME--USA--Staff--Data-Scientist_R-2350734",
+    "locations": [
+      "Bentonville, AR",
+      "Sunnyvale, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Walmart",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "PhD"
+    ]
   }
 ]
