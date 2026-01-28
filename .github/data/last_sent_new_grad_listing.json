@@ -90660,5 +90660,64 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Morgan Stanley",
+    "id": "2a5ebfd4-fe23-4b5b-afc9-bbca6fb8bb08",
+    "title": "Risk Analytics - Capital Projections Analytics - Analyst",
+    "active": true,
+    "date_updated": 1769599010,
+    "date_posted": 1768956770,
+    "url": "https://ms.wd5.myworkdayjobs.com/External/job/London-United-Kingdom/Risk-Analytics---Capital-Projections-Analytics--Associate_PT-JR027455-1",
+    "locations": [
+      "London, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Morgan-Stanley",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "Cencora",
+    "id": "3bb2c59f-54fd-4ba2-8bd8-7ca756f09928",
+    "title": "Associate Product Manager",
+    "active": true,
+    "date_updated": 1769599590,
+    "date_posted": 1768605909,
+    "url": "https://myhrabc.wd5.myworkdayjobs.com/Global/job/London-United-Kingdom/Assistant-Product-Manager_R26651",
+    "locations": [
+      "London, UK",
+      "Madrid, Spain"
+    ],
+    "company_url": "https://simplify.jobs/c/Cencora",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Morgan Stanley",
+    "id": "feb0d965-41e3-4937-aeae-0f1f5549a565",
+    "title": "Risk Analytics - Capital Projections Analytics - Analyst",
+    "active": true,
+    "date_updated": 1769599109,
+    "date_posted": 1767979581,
+    "url": "https://ms.wd5.myworkdayjobs.com/private/job/London-United-Kingdom/Risk-Analytics---Capital-Projections-Analytics--Associate_PT-JR027455",
+    "locations": [
+      "London, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Morgan-Stanley",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Master's"
+    ]
   }
 ]
