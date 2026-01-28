@@ -90359,5 +90359,113 @@
     "date_posted": 1769579993,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Embry-Riddle Aeronautical University",
+    "id": "cfe3c262-5c2f-410b-9099-bcaad21e6998",
+    "title": "Assistant Professor",
+    "active": true,
+    "date_updated": 1769584432,
+    "date_posted": 1769584432,
+    "url": "https://embryriddle.wd1.myworkdayjobs.com/External/job/Daytona-Beach-FL/Tenure-Track-Faculty-Position-with-a-focus-on-Big-Data-Analytics-and-Aviation-Safety-in-the-School-of-Graduate-Studies_R309967",
+    "locations": [
+      "Daytona Beach, FL"
+    ],
+    "company_url": "https://simplify.jobs/c/Embry-Riddle-Aeronautical-University",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "PhD"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "SpaceX",
+    "id": "513e568e-d69e-437f-ab58-19c0497c02d7",
+    "title": "Entry Level Production Technician",
+    "active": true,
+    "date_updated": 1769584337,
+    "date_posted": 1769584337,
+    "url": "https://boards.greenhouse.io/spacex/jobs/8393642002",
+    "locations": [
+      "Bothell, WA"
+    ],
+    "company_url": "https://simplify.jobs/c/SpaceX",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Certificate"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Microsoft",
+    "id": "7735ea24-7a90-4750-aa5a-e5e99c6013ca",
+    "title": "Software Engineer",
+    "active": true,
+    "date_updated": 1769584160,
+    "date_posted": 1769584160,
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393556658805",
+    "locations": [
+      "Montreal, QC, Canada",
+      "Toronto, ON, Canada",
+      "Calgary, AB, Canada",
+      "Edmonton, AB, Canada",
+      "Ottawa, ON, Canada",
+      "Quebec City, QC, Canada",
+      "Vancouver, BC, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Microsoft",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "General Dynamics Mission Systems",
+    "id": "54145c34-5367-4168-8f58-e94b1b783b6f",
+    "title": "Embedded Software Engineer",
+    "active": true,
+    "date_updated": 1769584091,
+    "date_posted": 1769584091,
+    "url": "https://careers-gdms.icims.com/jobs/70001/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Bloomington, MN"
+    ],
+    "company_url": "https://simplify.jobs/c/General-Dynamics-Mission-Systems",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "General Dynamics Mission Systems",
+    "id": "4d623ecc-70cf-477c-a522-f4cf97c57ea1",
+    "title": "Embedded Software Engineer \u2013 Entry Level - Embedded Software",
+    "active": true,
+    "date_updated": 1769584098,
+    "date_posted": 1769584098,
+    "url": "https://careers-gdms.icims.com/jobs/70024/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Bloomington, MN"
+    ],
+    "company_url": "https://simplify.jobs/c/General-Dynamics-Mission-Systems",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
