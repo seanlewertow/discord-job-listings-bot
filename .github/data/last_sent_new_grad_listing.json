@@ -90336,5 +90336,28 @@
     "date_posted": 1769579818,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "date_updated": 1769580060,
+    "sponsorship": "Other",
+    "active": true,
+    "degrees": [],
+    "url": "https://www.amazon.jobs/en/jobs/3165932/software-development-engineer-2026-canada",
+    "company_name": "Amazon",
+    "title": "Software Development Engineer - 2026",
+    "locations": [
+      "Vancouver, BC",
+      "Toronto, ON",
+      "Winnipeg, MN",
+      "Victoria, BC",
+      "Ottawa, ON",
+      "Calgary, AB"
+    ],
+    "category": "Software Engineering",
+    "source": "yves-a",
+    "id": "9f0a9259-b787-4a20-8aab-a92067d1259b",
+    "date_posted": 1769579993,
+    "company_url": "",
+    "is_visible": true
   }
 ]
