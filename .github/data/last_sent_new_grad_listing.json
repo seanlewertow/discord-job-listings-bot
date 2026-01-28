@@ -90116,5 +90116,106 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Westinghouse Electric Company",
+    "id": "878f0b94-2cb4-4e88-9201-b07ecf649366",
+    "title": "Engineering Technician",
+    "active": true,
+    "date_updated": 1769556085,
+    "date_posted": 1769556085,
+    "url": "https://careers.westinghousenuclear.com/job/Huntsville-Engineering-Technician-KS/1350158400/?ats=successfactors",
+    "locations": [
+      "Huntsville, AL"
+    ],
+    "company_url": "https://simplify.jobs/c/Westinghouse-Electric-Company",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Welocalize",
+    "id": "05d1540e-f109-4de0-8852-396641839e04",
+    "title": "Search Quality Rater",
+    "active": true,
+    "date_updated": 1769556590,
+    "date_posted": 1769556590,
+    "url": "https://welocalize.wd1.myworkdayjobs.com/welocalize/job/Austin-Texas/Search-Quality-Rater_R0005879",
+    "locations": [
+      "Houston, TX",
+      "Austin, TX",
+      "Frederick, MD",
+      "Chicago, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/Welocalize",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "CVS Health",
+    "id": "dc042740-5493-412a-8968-8be183bed3ec",
+    "title": "Associate Data Engineer - Enterprise Identity Services",
+    "active": true,
+    "date_updated": 1769559010,
+    "date_posted": 1769559010,
+    "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/CT---Work-from-home/Associate-Data-Engineer---Enterprise-Identity-Services_R0817070",
+    "locations": [
+      "Waterbury, CT"
+    ],
+    "company_url": "https://simplify.jobs/c/CVS-Health",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "CVS Health",
+    "id": "ce737fe8-a375-4877-8577-2454ad873694",
+    "title": "Associate Software Development Engineer",
+    "active": true,
+    "date_updated": 1769559004,
+    "date_posted": 1769559004,
+    "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/MA---Wellesley/Associate-Software-Development-Engineer_R0822412",
+    "locations": [
+      "Needham, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/CVS-Health",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Cleveland Clinic",
+    "id": "dab36062-bd65-4415-b84c-d1fc65c8aae1",
+    "title": "Research Engineer - Cerebrovascular Center",
+    "active": true,
+    "date_updated": 1769558531,
+    "date_posted": 1769558531,
+    "url": "https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/Research-Engineer---Cerebrovascular-Center_321182",
+    "locations": [
+      "Cleveland, OH"
+    ],
+    "company_url": "https://simplify.jobs/c/Cleveland-Clinic",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
