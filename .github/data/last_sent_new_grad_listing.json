@@ -90894,5 +90894,28 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "CVS Health",
+    "id": "c347d76e-ad1a-4066-a16a-79a6a40ca751",
+    "title": "Associate Data Engineer",
+    "active": true,
+    "date_updated": 1769616088,
+    "date_posted": 1769616088,
+    "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/TX---Irving/Associate-Data-Engineer_R0821166",
+    "locations": [
+      "Wheeling, IL",
+      "Hartford, CT",
+      "NYC",
+      "Irving, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/CVS-Health",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
