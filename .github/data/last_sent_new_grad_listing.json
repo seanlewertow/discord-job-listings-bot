@@ -90487,5 +90487,26 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Beta Technologies",
+    "id": "b553c303-8d7a-4352-95ca-afcbc7f12173",
+    "title": "Manufacturing Technician",
+    "active": true,
+    "date_updated": 1769592301,
+    "date_posted": 1763508804,
+    "url": "https://jobs.lever.co/beta/edf6dff6-a658-4183-88b7-2c7e1ac38f1f/apply",
+    "locations": [
+      "Burlington, VT"
+    ],
+    "company_url": "https://simplify.jobs/c/Beta-Technologies",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Associate's",
+      "Certificate"
+    ]
   }
 ]
