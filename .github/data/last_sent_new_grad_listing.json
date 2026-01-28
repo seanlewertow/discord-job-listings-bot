@@ -90316,5 +90316,25 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "date_updated": 1769579818,
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "degrees": [],
+    "url": "https://jobs.ashbyhq.com/uncountable/1f8425be-cd39-4397-a9c1-6511ecfc39fc",
+    "company_name": "Uncountable",
+    "title": "Product Manager",
+    "locations": [
+      "San Francisco",
+      "New York",
+      "London"
+    ],
+    "category": "Product Management",
+    "source": "jhirshman",
+    "id": "98dce130-b52d-4748-b261-9045d12f58fa",
+    "date_posted": 1769579818,
+    "company_url": "",
+    "is_visible": true
   }
 ]
