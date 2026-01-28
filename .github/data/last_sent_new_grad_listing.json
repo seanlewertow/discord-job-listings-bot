@@ -90623,5 +90623,42 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Xylem",
+    "id": "11f26b86-421f-45e8-85f9-8393ea888fd4",
+    "title": "Field Service & Logistic Technician-$6k Sign-On Bonus",
+    "active": true,
+    "date_updated": 1769597526,
+    "date_posted": 1765625143,
+    "url": "https://xylem.wd5.myworkdayjobs.com/en-US/xylem-careers/job/Seattle-Washington/Field-Service---Logistic-Technician_R44500",
+    "locations": [
+      "Seattle, WA",
+      "Kent, WA"
+    ],
+    "company_url": "https://simplify.jobs/c/Xylem",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "ASM International",
+    "id": "6df034db-7649-4539-a800-73900c9f9554",
+    "title": "Engineer 1 - Field Software",
+    "active": true,
+    "date_updated": 1769596783,
+    "date_posted": 1761918770,
+    "url": "https://www.asm.com/open-vacancies/?gh_jid=4699210101",
+    "locations": [
+      "Hillsboro, OR"
+    ],
+    "company_url": "https://simplify.jobs/c/ASM-International",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
