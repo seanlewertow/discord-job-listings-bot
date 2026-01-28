@@ -90856,5 +90856,43 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Mass General Brigham",
+    "id": "6b8813ec-b079-437f-8642-319870dfec84",
+    "title": "Data Analyst",
+    "active": true,
+    "date_updated": 1769615229,
+    "date_posted": 1769615229,
+    "url": "https://massgeneralbrigham.wd1.myworkdayjobs.com/mgbexternal/job/Charlestown-MA/Data-Analyst_RQ4048516",
+    "locations": [
+      "Boston, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/Mass-General-Brigham",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Spectrum Control",
+    "id": "db3921ba-e93e-4ea7-820b-17f9ccbe48ad",
+    "title": "Production Operator",
+    "active": true,
+    "date_updated": 1769615150,
+    "date_posted": 1769615150,
+    "url": "https://spectrumcontrol.wd1.myworkdayjobs.com/spectrumcontrol/job/Great-Yarmouth-UK/Production-Operator_JR101270",
+    "locations": [
+      "Norwich, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/673d4af5-d1fd-4cb6-b32e-e8897216cb37",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
