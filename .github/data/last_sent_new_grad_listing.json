@@ -91240,5 +91240,43 @@
     "degrees": [
       "MBA"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "RTX",
+    "id": "0df700d3-fbc3-4c82-9b19-3f0306c35360",
+    "title": "Software Engineer 1",
+    "active": true,
+    "date_updated": 1769672610,
+    "date_posted": 1769672610,
+    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AL-HUNTSVILLE-401--401-Jan-Davis-Dr-NW--JAN-DAVIS-401/XMLNAME-2026-Full-time---Software-Engineer-I---Onsite--AL-_01819702",
+    "locations": [
+      "Huntsville, AL"
+    ],
+    "company_url": "https://simplify.jobs/c/RTX",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "AT&T",
+    "id": "286fdf96-d6ae-44a6-8f61-97cf63048262",
+    "title": "Installation Technician",
+    "active": true,
+    "date_updated": 1769671713,
+    "date_posted": 1769671713,
+    "url": "https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Cornelius-North-Carolina/Installation-Technician_R-99203",
+    "locations": [
+      "Huntersville, NC"
+    ],
+    "company_url": "https://simplify.jobs/c/ATT",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
