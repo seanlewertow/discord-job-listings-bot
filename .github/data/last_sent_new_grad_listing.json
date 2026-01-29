@@ -91497,5 +91497,99 @@
       "Bachelor's",
       "Associate's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "65bfb37d-80b9-4a86-a543-48231753537c",
+    "title": "Trading Assistant",
+    "active": true,
+    "date_updated": 1769699511,
+    "date_posted": 1769699511,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400047489",
+    "locations": [
+      "Bury Saint Edmunds, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "54d24b54-1dc7-417f-a30b-7ef8accf78f5",
+    "title": "Trading Assistant",
+    "active": true,
+    "date_updated": 1769699510,
+    "date_posted": 1769699510,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400047469",
+    "locations": [
+      "Brighton, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "0a4a3742-4d3e-4591-a633-410353e15c4b",
+    "title": "Trading Assistant",
+    "active": true,
+    "date_updated": 1769699507,
+    "date_posted": 1769699507,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400047507",
+    "locations": [
+      "Rugby, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "L3Harris Technologies",
+    "id": "b1e4ae52-246b-4d88-b446-fc036532acd0",
+    "title": "Associate Test/Integration Engineer",
+    "active": true,
+    "date_updated": 1769699179,
+    "date_posted": 1769699179,
+    "url": "https://jobs.l3harris.com/job/Waco-Associate,-TestIntegration-Engineering-TX-76705/1360310600/?ats=successfactors",
+    "locations": [
+      "Waco, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "L3Harris Technologies",
+    "id": "a7437cdd-0a3b-413f-a1ee-5e313c7d030f",
+    "title": "Associate \u2013 Integration/Test Engineering",
+    "active": true,
+    "date_updated": 1769699187,
+    "date_posted": 1769699187,
+    "url": "https://jobs.l3harris.com/job/Waco-Associate,-IntegrationTest-Engineering-TX-76705/1360311400/?ats=successfactors",
+    "locations": [
+      "Waco, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
