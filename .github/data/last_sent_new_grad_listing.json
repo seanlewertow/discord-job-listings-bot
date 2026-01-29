@@ -91375,5 +91375,106 @@
       "Bachelor's",
       "Master's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Agilent Technologies",
+    "id": "04bed8e0-0187-4d57-b226-86993e04e6c7",
+    "title": "Graduate Field Service Engineer - South West UK - Chromatography and Spectroscopy",
+    "active": true,
+    "date_updated": 1769615446,
+    "date_posted": 1769615446,
+    "url": "https://agilent.wd5.myworkdayjobs.com/Agilent_Student_Careers/job/UK-Remote-Location-Harwell/Graduate-Field-Service-Engineer---South-West-UK---Chromatography-and-Spectroscopy_4034596",
+    "locations": [
+      "Remote in UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Agilent-Technologies",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "CoStar Group",
+    "id": "68895d03-a869-4d59-b97b-c8e698de3478",
+    "title": "Data Operations Associate - Str - London",
+    "active": true,
+    "date_updated": 1769689650,
+    "date_posted": 1769689650,
+    "url": "https://costar.wd1.myworkdayjobs.com/en-US/CoStarCareers/job/UK-London/Data-Operations-Associate--STR---London_R38223-1",
+    "locations": [
+      "London, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/CoStar",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Mass General Brigham",
+    "id": "deb5fa97-ee51-47b3-ad67-5a119599dd57",
+    "title": "Application Analyst",
+    "active": true,
+    "date_updated": 1769689207,
+    "date_posted": 1769263385,
+    "url": "https://massgeneralbrigham.wd1.myworkdayjobs.com/mgbexternal/job/Somerville-MA/Application-Analyst_RQ4041089",
+    "locations": [
+      "Cambridge, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/Mass-General-Brigham",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Expedia Group",
+    "id": "55515f05-f170-4987-a265-ba377eb44b64",
+    "title": "Software Development Engineer 1 - Front End",
+    "active": true,
+    "date_updated": 1769689751,
+    "date_posted": 1769689751,
+    "url": "https://expedia.wd108.myworkdayjobs.com/private/job/UK---London/Software-Development-Engineer-I_R-99742-2",
+    "locations": [
+      "London, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Expedia-Group",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Mass General Brigham",
+    "id": "bd09df37-9371-45be-8ef6-66c6eec1111e",
+    "title": "Research Technician",
+    "active": true,
+    "date_updated": 1769690353,
+    "date_posted": 1769260920,
+    "url": "https://massgeneralbrigham.wd1.myworkdayjobs.com/mgbexternal/job/Charlestown-MA/Research-Technician_RQ4041919",
+    "locations": [
+      "Boston, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/Mass-General-Brigham",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
