@@ -91591,5 +91591,103 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Wells Fargo",
+    "id": "e29015e1-850f-4dd0-af6b-67ecb6eac57c",
+    "title": "Engineering Associate - Database Operations & Automation",
+    "active": true,
+    "date_updated": 1769700663,
+    "date_posted": 1769700663,
+    "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/CHARLOTTE-NC/Engineering-Associate---Database-Operations---Automation_R-517910",
+    "locations": [
+      "Charlotte, NC"
+    ],
+    "company_url": "https://simplify.jobs/c/Wells-Fargo",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Clarivate",
+    "id": "c56e1521-3563-4878-9f45-44f34bf3940d",
+    "title": "Associate Data Science & AI",
+    "active": true,
+    "date_updated": 1769700781,
+    "date_posted": 1769700781,
+    "url": "https://clarivate.wd3.myworkdayjobs.com/Clarivate_Careers/job/UK---London/Associate--Data-Science---AI---Commercial-Consulting_JREQ134832-1",
+    "locations": [
+      "London, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Clarivate",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "EquipmentShare",
+    "id": "a4666a64-4257-4111-a985-d598337fd115",
+    "title": "Telematics Installer",
+    "active": true,
+    "date_updated": 1769700694,
+    "date_posted": 1769700694,
+    "url": "https://www.equipmentshare.com/careers/openings/?gh_jid=7572751",
+    "locations": [
+      "Olive Branch, MS"
+    ],
+    "company_url": "https://simplify.jobs/c/Equipment-Share",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Certificate"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "EquipmentShare",
+    "id": "80233a03-02f5-4c80-b524-751146a697e0",
+    "title": "Telematics Installer",
+    "active": true,
+    "date_updated": 1769700697,
+    "date_posted": 1769700697,
+    "url": "https://www.equipmentshare.com/careers/openings/?gh_jid=7572771",
+    "locations": [
+      "Oklahoma City, OK"
+    ],
+    "company_url": "https://simplify.jobs/c/Equipment-Share",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Certificate"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "EquipmentShare",
+    "id": "30f04b71-fc5e-4cff-9e32-7223b9acc793",
+    "title": "Telematics Installer",
+    "active": true,
+    "date_updated": 1769700707,
+    "date_posted": 1769700707,
+    "url": "https://www.equipmentshare.com/careers/openings/?gh_jid=7572473",
+    "locations": [
+      "Wichita County, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Equipment-Share",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Certificate"
+    ]
   }
 ]
