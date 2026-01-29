@@ -91689,5 +91689,105 @@
     "degrees": [
       "Certificate"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "General Dynamics Mission Systems",
+    "id": "49374dd1-0a93-4575-a153-7ce1bcab9e34",
+    "title": "Software Engineer \u2013 Entry Level",
+    "active": true,
+    "date_updated": 1769728312,
+    "date_posted": 1769728312,
+    "url": "https://careers-gdms.icims.com/jobs/70459/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Pittsfield, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/General-Dynamics-Mission-Systems",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "CrowdGen by Appen",
+    "id": "2ba025bc-8872-4479-a305-8a98a0dc777f",
+    "title": "French Search Ads Evaluator",
+    "active": true,
+    "date_updated": 1769728263,
+    "date_posted": 1769728263,
+    "url": "https://jobs.lever.co/appen/808ca8cd-9fcd-4632-90f3-c350fbae8a04/apply",
+    "locations": [
+      "Remote in Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/CrowdGen-By-Appen",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Keysight Technologies",
+    "id": "549ce7d0-2544-453c-8827-313183bf89e6",
+    "title": "FPGA Engineer 1",
+    "active": true,
+    "date_updated": 1769727935,
+    "date_posted": 1769727935,
+    "url": "https://jobs.keysight.com/jobs/51030?lang=en-us&icims=1",
+    "locations": [
+      "Calabasas, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Keysight-Technologies-Inc",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "MANN+HUMMEL",
+    "id": "1173abeb-570a-4b55-90ec-f5e38d7e8303",
+    "title": "Application Engineer - Industrial OE Ame",
+    "active": true,
+    "date_updated": 1769727927,
+    "date_posted": 1769727927,
+    "url": "https://mann-hummel-careers.com/job/Raleigh-Application-Engineer-Industrial-OE-Ame-IL-28607/1288668901/?ats=successfactors",
+    "locations": [
+      "Raleigh, NC",
+      "Gastonia, NC"
+    ],
+    "company_url": "https://simplify.jobs/c/MANN-HUMMEL",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "University of Texas - Austin",
+    "id": "067e1ef3-595d-4be7-b3da-20bf914fd963",
+    "title": "Research Engineer/Scientist Assistant",
+    "active": true,
+    "date_updated": 1769727878,
+    "date_posted": 1769727878,
+    "url": "https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/UT-MAIN-CAMPUS/Research-Engineering--Scientist-Assistant_R_00044277",
+    "locations": [
+      "Austin, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/University-Of-Texas-Austin",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
