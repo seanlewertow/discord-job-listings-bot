@@ -92186,5 +92186,97 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Susquehanna International Group (SIG)",
+    "id": "d6292fd7-7322-4c0d-a6b8-5e7fe798df24",
+    "title": "Quantitative Financial Risk Analyst \u2013 New Grad",
+    "active": true,
+    "date_updated": 1769767455,
+    "date_posted": 1766075151,
+    "url": "https://careers-sig.icims.com/jobs/9113/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Ardmore, PA"
+    ],
+    "company_url": "https://simplify.jobs/c/Susquehanna",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "GCI",
+    "id": "0c4bf1b1-7e25-4dd7-8287-d275dae25cac",
+    "title": "Network Maint. & Const. Tech 1",
+    "active": true,
+    "date_updated": 1769767736,
+    "date_posted": 1759914257,
+    "url": "https://edqv.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/21003052",
+    "locations": [
+      "Kotzebue, AK"
+    ],
+    "company_url": "https://simplify.jobs/c/GCI",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "RWS",
+    "id": "71135a94-cf35-4d5d-8525-0f7563c3958d",
+    "title": "AI Data Specialist - West Virginia - US",
+    "active": true,
+    "date_updated": 1769769237,
+    "date_posted": 1769769237,
+    "url": "https://jobs.lever.co/rws/5b55eb75-14da-4d25-922c-b88f4037c476/apply",
+    "locations": [
+      "Charleston, WV"
+    ],
+    "company_url": "https://simplify.jobs/c/RWS",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "56a4419c-0f9c-4df0-952e-7e716711f0f6",
+    "title": "Trading Assistant",
+    "active": true,
+    "date_updated": 1769769243,
+    "date_posted": 1769769243,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400047608",
+    "locations": [
+      "Cambridge, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "12c2fc8d-bb43-4337-ab58-72a96b2a8505",
+    "title": "Trading Assistant",
+    "active": true,
+    "date_updated": 1769769245,
+    "date_posted": 1769769245,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400047595",
+    "locations": [
+      "Birmingham, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
