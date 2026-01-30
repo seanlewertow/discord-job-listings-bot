@@ -92278,5 +92278,25 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Johnson Controls",
+    "id": "5cdbfb7e-d753-449e-8484-0aa0b4990833",
+    "title": "Air Handling Unit Application Engineer",
+    "active": true,
+    "date_updated": 1769771828,
+    "date_posted": 1769644343,
+    "url": "https://jci.wd5.myworkdayjobs.com/JCI/job/York-Pennsylvania-United-States-of-America/Application-Engineer-II_WD30259010-1",
+    "locations": [
+      "York, PA"
+    ],
+    "company_url": "https://simplify.jobs/c/Johnson-Controls",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
