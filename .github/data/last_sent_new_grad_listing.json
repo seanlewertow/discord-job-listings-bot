@@ -92298,5 +92298,23 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "FOX",
+    "id": "4392b9f0-d2de-425f-ba1a-a9f8f490eecf",
+    "title": "Data Scientist",
+    "active": true,
+    "date_updated": 1769774603,
+    "date_posted": 1768520301,
+    "url": "https://fox.wd1.myworkdayjobs.com/Domestic/job/CAN---ON---Yonge-St/Data-Scientist--Toronto-_R50031150",
+    "locations": [
+      "Toronto, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/FOX",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
