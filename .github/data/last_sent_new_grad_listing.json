@@ -92453,5 +92453,71 @@
       "Bachelor's",
       "Associate's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Abbott",
+    "id": "45aca6e7-72a4-4763-a008-7535434b7d70",
+    "title": "Data Management Analyst 2 \u2013 Ideal graduate level role - Ideal graduate level role",
+    "active": true,
+    "date_updated": 1769787731,
+    "date_posted": 1769787731,
+    "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-Kingdom---Witney/Data-Management-Analyst-II---Ideal-graduate-level-role_31139800",
+    "locations": [
+      "Brize Norton, Carterton, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Abbott",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Faith Technologies",
+    "id": "0c1d1aeb-fb88-44b4-a001-5a6746e052c8",
+    "title": "GIS Analyst",
+    "active": true,
+    "date_updated": 1769786862,
+    "date_posted": 1769786862,
+    "url": "https://faithtechnologies.wd1.myworkdayjobs.com/fti/job/WI---Menasha/GIS-Analyst_R8930-1",
+    "locations": [
+      "Neenah, WI"
+    ],
+    "company_url": "https://simplify.jobs/c/Faith-Technologies",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Associate's",
+      "Certificate"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Truist Bank",
+    "id": "a5adfacd-4615-4853-b918-bfffe6c2dd70",
+    "title": "Data Transaction Testing Analyst 2",
+    "active": true,
+    "date_updated": 1769789081,
+    "date_posted": 1769789081,
+    "url": "https://truist.wd1.myworkdayjobs.com/en-US/Careers/job/Charlotte-NC/Data-Transaction-Testing-Analyst-II_R0110150",
+    "locations": [
+      "Winston-Salem, NC",
+      "Charlotte, NC",
+      "Atlanta, GA"
+    ],
+    "company_url": "https://simplify.jobs/c/Truist-Bank",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "PhD"
+    ]
   }
 ]
