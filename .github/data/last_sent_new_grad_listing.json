@@ -91789,5 +91789,103 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "TruBridge",
+    "id": "394abff3-4c94-4354-932e-b1c6c34046b6",
+    "title": "Interface Support Specialist",
+    "active": true,
+    "date_updated": 1769733420,
+    "date_posted": 1769733420,
+    "url": "https://cpsi.wd1.myworkdayjobs.com/CPSI/job/Remote---US/Interface-Support_JR102119",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/TruBridge",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "The Boeing Company",
+    "id": "ef71b971-1e8f-489d-9e15-29554944ba97",
+    "title": "Associate Programmer Analyst",
+    "active": true,
+    "date_updated": 1769733295,
+    "date_posted": 1769733295,
+    "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Seattle-WA/Associate-Programmer-Analyst_JR2026492587-1",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "company_url": "https://simplify.jobs/c/Boeing",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Northrop Grumman",
+    "id": "dad4c81a-698a-4fae-892c-6a782cf69b00",
+    "title": "Systems Engineer - Level 1 or Level 2",
+    "active": true,
+    "date_updated": 1769733259,
+    "date_posted": 1769733259,
+    "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Aurora/Systems-Engineer---Level-1-or-Level-2_R10220956",
+    "locations": [
+      "Aurora, CO"
+    ],
+    "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Jabil",
+    "id": "6ef59148-5e08-460b-98d3-982f606aedaf",
+    "title": "Tester 1 D Shift",
+    "active": true,
+    "date_updated": 1769733096,
+    "date_posted": 1769733096,
+    "url": "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/St-PetersburgTampa-FL/Tester-I-D-Shift_J2438554",
+    "locations": [
+      "St. Petersburg, FL"
+    ],
+    "company_url": "https://simplify.jobs/c/Jabil",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "Woodward Governor",
+    "id": "3d66f60a-a2e8-4581-b02a-c8f5e0ea5ade",
+    "title": "Product Marketing Manager 1/2",
+    "active": true,
+    "date_updated": 1769733106,
+    "date_posted": 1769733106,
+    "url": "https://woodward.wd5.myworkdayjobs.com/woodward/job/Niles-IL-US/Product-Marketing-Manager-I-II_JR109191-1",
+    "locations": [
+      "Morton Grove, IL",
+      "Fort Collins, CO"
+    ],
+    "company_url": "https://simplify.jobs/c/Woodward-Governor",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
