@@ -92519,5 +92519,105 @@
       "Master's",
       "PhD"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "TRIMEDX",
+    "id": "d35b26ee-cef0-4824-8019-c3a62cd193a5",
+    "title": "Sterilization Repair Technician",
+    "active": true,
+    "date_updated": 1769815697,
+    "date_posted": 1769815697,
+    "url": "https://trimedx.wd1.myworkdayjobs.com/TMX/job/Novi-MI/Sterilization-Repair-Technician_R13332",
+    "locations": [
+      "Novi, MI",
+      "Southfield, MI"
+    ],
+    "company_url": "https://simplify.jobs/c/TRIMEDX",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Associate's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "BTI Solutions",
+    "id": "67cd04c2-4f5d-4bff-88ac-2578e8a19068",
+    "title": "Korean Bilingual Software Engineer TL",
+    "active": true,
+    "date_updated": 1769815791,
+    "date_posted": 1769815791,
+    "url": "https://btisolutions.wd12.myworkdayjobs.com/External/job/SAVANNAH-GA/Korean-Bilingual-Controls-Engineer----TL----Queen-Creek----AZ_JR101576-1",
+    "locations": [
+      "Savannah, GA"
+    ],
+    "company_url": "https://simplify.jobs/c/BTI-Solutions",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Associate's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "GitLab",
+    "id": "2c0305a6-956c-43b0-9d0e-5e98c7fd64c4",
+    "title": "Associate Support Engineer",
+    "active": true,
+    "date_updated": 1769815770,
+    "date_posted": 1769815770,
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8324426002",
+    "locations": [
+      "Remote in Germany",
+      "Remote in UK",
+      "Remote in Ireland"
+    ],
+    "company_url": "https://simplify.jobs/c/GitLab",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Intertek",
+    "id": "0a55831a-965e-4a7e-9c8c-3b88804f1c50",
+    "title": "Engineer - Entry Level - Solar - Photovoltaic",
+    "active": true,
+    "date_updated": 1769815152,
+    "date_posted": 1769815152,
+    "url": "https://hcog.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/13548",
+    "locations": [
+      "Lake Forest, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Intertek",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "Mizzen+Main",
+    "id": "d62cb501-c041-4ca1-aa57-6d2e40e1dcee",
+    "title": "Assistant Merchandiser",
+    "active": true,
+    "date_updated": 1769816099,
+    "date_posted": 1769556839,
+    "url": "https://job-boards.greenhouse.io/mizzenandmain/jobs/4648465006",
+    "locations": [
+      "Dallas, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Mizzen-Main",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
