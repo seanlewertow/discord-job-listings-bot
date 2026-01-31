@@ -92724,5 +92724,26 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Gopuff",
+    "id": "33524fd5-de3f-452f-9a80-e1a0b7aede3c",
+    "title": "Data Scientist 2",
+    "active": true,
+    "date_updated": 1769851197,
+    "date_posted": 1766531477,
+    "url": "https://jobs.lever.co/gopuff/0d60020a-68ad-4fdc-8b92-b5a2f2d43bbf/apply",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/Gopuff",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Master's",
+      "PhD"
+    ]
   }
 ]
