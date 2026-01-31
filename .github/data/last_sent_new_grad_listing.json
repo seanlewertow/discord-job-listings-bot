@@ -92765,5 +92765,26 @@
     "degrees": [
       "Associate's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Rheem",
+    "id": "06e59bd0-94e0-4dc7-9d54-dcae7eebfcd6",
+    "title": "Project Engineer 1",
+    "active": true,
+    "date_updated": 1769855682,
+    "date_posted": 1769027647,
+    "url": "https://hdde.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/3385",
+    "locations": [
+      "Fort Smith, AR"
+    ],
+    "company_url": "https://simplify.jobs/c/Rheem",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
   }
 ]
