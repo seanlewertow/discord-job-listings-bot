@@ -92786,5 +92786,64 @@
       "Bachelor's",
       "Master's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Dominion Energy",
+    "id": "a52b5192-a42f-4cd0-8bf3-d735cb44cba0",
+    "title": "Energy Supply GMS Analyst \u2013 Or Senior - Associate - Intermediate",
+    "active": true,
+    "date_updated": 1769858044,
+    "date_posted": 1769858044,
+    "url": "https://careers.dominionenergy.com/job/RICHMOND-Energy-Supply-GMS-Analyst-(Associate,-Intermediate,-or-Senior)-VA-23219/1360811700/?ats=successfactors",
+    "locations": [
+      "Richmond, VA"
+    ],
+    "company_url": "https://simplify.jobs/c/Dominion-Energy",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Dominion Energy",
+    "id": "de0957ad-91c2-4c61-80d0-801c8e52d428",
+    "title": "Load Forecasting Engineer \u2013 Engineer/Senior/Staff - Engineering Analytics & Modeling",
+    "active": true,
+    "date_updated": 1769858035,
+    "date_posted": 1769858035,
+    "url": "https://careers.dominionenergy.com/job/GLEN-ALLEN-Load-Forecasting-Engineer-(EngineerSeniorStaff)-Engineering-Analytics-&-Modeling-VA-23060/1360725700/?ats=successfactors",
+    "locations": [
+      "Glen Allen, VA"
+    ],
+    "company_url": "https://simplify.jobs/c/Dominion-Energy",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "NextEra Energy",
+    "id": "eb4cc09a-4ac0-47ae-9ef8-275dec3d3165",
+    "title": "Associate Data Scientist",
+    "active": true,
+    "date_updated": 1769857824,
+    "date_posted": 1769857824,
+    "url": "https://jobs.nexteraenergy.com/job/Juno-Beach-Associate-Data-Scientist-FL-33408/1360699900/?ats=successfactors",
+    "locations": [
+      "Palm Beach Gardens, FL"
+    ],
+    "company_url": "https://simplify.jobs/c/NextEra-Energy",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
