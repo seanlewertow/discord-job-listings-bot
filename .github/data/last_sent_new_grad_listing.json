@@ -92977,5 +92977,95 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "d98ae0cd-74d1-4c35-8624-c6f9084b80f8",
+    "title": "Trading Assistant - Shift",
+    "active": true,
+    "date_updated": 1769901080,
+    "date_posted": 1769901080,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400047803",
+    "locations": [
+      "Harlow, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "d56aa71e-a62a-4037-a3c1-2ee36f4f2bdc",
+    "title": "Trading Assistant - Shift",
+    "active": true,
+    "date_updated": 1769901072,
+    "date_posted": 1769901072,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400047804",
+    "locations": [
+      "Harlow, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "a28d5c14-e18d-4bb5-9a50-0015edb8c000",
+    "title": "Trading Assistant",
+    "active": true,
+    "date_updated": 1769901084,
+    "date_posted": 1769901084,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400047788",
+    "locations": [
+      "Edinburgh, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "952cc8f3-5f84-42cb-a468-981b9ef7f3da",
+    "title": "Trading Assistant",
+    "active": true,
+    "date_updated": 1769901077,
+    "date_posted": 1769901077,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400047780",
+    "locations": [
+      "Cambridge, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "4869100d-6ce6-4ba4-b475-9c1336088f1c",
+    "title": "Trading Assistant",
+    "active": true,
+    "date_updated": 1769901089,
+    "date_posted": 1769901089,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400047782",
+    "locations": [
+      "Cambridge, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
