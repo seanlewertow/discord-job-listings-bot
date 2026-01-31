@@ -92745,5 +92745,25 @@
       "Master's",
       "PhD"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "L3Harris Technologies",
+    "id": "2dac5604-1489-4ac1-aad2-b6754a910610",
+    "title": "Assembly B",
+    "active": true,
+    "date_updated": 1769854527,
+    "date_posted": 1769028366,
+    "url": "https://jobs.l3harris.com/job/Amityville-Assembly-B-NY-11701/1358161000/?ats=successfactors",
+    "locations": [
+      "Wantagh, NY"
+    ],
+    "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Associate's"
+    ]
   }
 ]
