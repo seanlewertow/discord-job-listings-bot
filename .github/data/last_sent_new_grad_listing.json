@@ -93103,5 +93103,77 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "958a02a5-4b65-45ec-9cdb-c2cf9d180a16",
+    "title": "Trading Assistant",
+    "active": true,
+    "date_updated": 1769958665,
+    "date_posted": 1769958665,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400047509",
+    "locations": [
+      "Northamptonshire, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "89f2670a-3fb7-4b47-a4d4-6178422ce00f",
+    "title": "Trading Assistant",
+    "active": true,
+    "date_updated": 1769958684,
+    "date_posted": 1769958684,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400047836",
+    "locations": [
+      "Hereford, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "1b162e8a-a7f0-403b-ba18-dbecfee398b1",
+    "title": "Trading Assistant",
+    "active": true,
+    "date_updated": 1769958665,
+    "date_posted": 1769958665,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400047837",
+    "locations": [
+      "Hereford, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "f2bef836-f430-4ba6-8d39-875711810196",
+    "title": "Trading Assistant",
+    "active": true,
+    "date_updated": 1769958659,
+    "date_posted": 1769958659,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400047839",
+    "locations": [
+      "Hereford, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
