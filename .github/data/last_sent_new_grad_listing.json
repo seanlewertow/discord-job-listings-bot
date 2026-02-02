@@ -93461,5 +93461,27 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Stripe",
+    "id": "f8e9f90e-4ebf-4435-ab91-785ab4ba499f",
+    "title": "Software Engineer \u2013 New Grad",
+    "active": true,
+    "date_updated": 1770029038,
+    "date_posted": 1770029038,
+    "url": "https://stripe.com/jobs/search?gh_jid=7372144",
+    "locations": [
+      "London, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Stripe",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "PhD"
+    ]
   }
 ]
