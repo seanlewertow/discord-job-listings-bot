@@ -93483,5 +93483,25 @@
       "Master's",
       "PhD"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Northrop Grumman",
+    "id": "50cd7bac-30d4-42dd-b11c-27dcc02304ea",
+    "title": "Sentinel Systems Engineer/Principal Systems Engineer - STPA-Sec",
+    "active": true,
+    "date_updated": 1770040110,
+    "date_posted": 1769816954,
+    "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/Sentinel----STPA-Sec--Systems-Engineer-Principal-Systems-Engineer---14774-1_R10216430-1",
+    "locations": [
+      "Hill AFB, UT"
+    ],
+    "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
