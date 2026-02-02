@@ -93265,5 +93265,105 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "GE Vernova",
+    "id": "75011aec-0d04-4917-93b6-9d818efa5653",
+    "title": "GE Vernova Advanced Research Edison Rotational Program",
+    "active": true,
+    "date_updated": 1769999518,
+    "date_posted": 1769999518,
+    "url": "https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Niskayuna/GE-Vernova-Advanced-Research-2026-Edison-Rotational-Program_R5015939-2",
+    "locations": [
+      "Schenectady, NY"
+    ],
+    "company_url": "https://simplify.jobs/c/GE-Vernova",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "GE Vernova",
+    "id": "6357316c-ae9e-4fa9-9040-f7d0359d9ab9",
+    "title": "Engineer \u2013 Inspection Engineering-Electrical and Controls",
+    "active": true,
+    "date_updated": 1769999362,
+    "date_posted": 1769999362,
+    "url": "https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Wilmington-NC-USA/Engineer--Inspection-Engineering--Electrical-and-Controls_R5030929",
+    "locations": [
+      "Wilmington, NC"
+    ],
+    "company_url": "https://simplify.jobs/c/GE-Vernova",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Toshiba Global Commerce",
+    "id": "2b42533c-2309-462a-8f7b-79dfec094f38",
+    "title": "Associate Software Engineer",
+    "active": true,
+    "date_updated": 1769999503,
+    "date_posted": 1769999503,
+    "url": "https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5039154007",
+    "locations": [
+      "Durham, NC"
+    ],
+    "company_url": "https://simplify.jobs/c/Toshiba-Global-Commerce",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "GE Vernova",
+    "id": "25150388-eac1-4f00-b502-dbd4d396302c",
+    "title": "Software Engineer",
+    "active": true,
+    "date_updated": 1769999428,
+    "date_posted": 1769999428,
+    "url": "https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Roanoke-US-VA-3/Software-Engineer_R5030434-3",
+    "locations": [
+      "Roanoke, VA"
+    ],
+    "company_url": "https://simplify.jobs/c/GE-Vernova",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "RTX",
+    "id": "d0df0ab9-f9b5-4f5b-8c4f-4c63abafb90a",
+    "title": "Software Engineer 1",
+    "active": true,
+    "date_updated": 1769999063,
+    "date_posted": 1769999063,
+    "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-121--350-Collins-Rd-NE--BLDG-121/Software-Engineer-I--Onsite-_01814829-2",
+    "locations": [
+      "Cedar Rapids, IA"
+    ],
+    "company_url": "https://simplify.jobs/c/RTX",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
