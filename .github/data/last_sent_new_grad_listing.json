@@ -93365,5 +93365,101 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Hewlett Packard Enterprise",
+    "id": "25e7a209-ac4b-4de8-b16b-dc40dab6b415",
+    "title": "Systems Software Engineer",
+    "active": true,
+    "date_updated": 1770016914,
+    "date_posted": 1770016914,
+    "url": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Roseville-California-United-States-of-America/Systems-Software-Engineer_1199612-2",
+    "locations": [
+      "Roseville, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Hewlett-Packard-Enterprise",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "CrowdGen by Appen",
+    "id": "5e68b6ba-9217-499f-abd7-17611e1e739c",
+    "title": "iOS Users - Join Project Mavara",
+    "active": true,
+    "date_updated": 1770016624,
+    "date_posted": 1770016624,
+    "url": "https://jobs.lever.co/appen/ca2ef740-f9de-45cf-a3b4-e48325ca8025/apply",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/CrowdGen-By-Appen",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "724d9896-6f64-4662-bf01-0a47cb48d37f",
+    "title": "Trading Assistant - Shift",
+    "active": true,
+    "date_updated": 1770016265,
+    "date_posted": 1770016265,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400047875",
+    "locations": [
+      "Oxford, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "238723ee-0986-4ba3-bb3b-572df0750855",
+    "title": "Trading Assistant - Shift",
+    "active": true,
+    "date_updated": 1770016252,
+    "date_posted": 1770016252,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400047874",
+    "locations": [
+      "Oxford, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "RTX",
+    "id": "844391b9-8516-42d1-9596-f7c753981f8b",
+    "title": "Software Engineer 1 - Integration & Test",
+    "active": true,
+    "date_updated": 1770017986,
+    "date_posted": 1770017986,
+    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-TEWKSBURY-TB3--50-Apple-Hill-Dr--CONCORD-BLDG-Tewksbury-Tb3-300-Concord/XMLNAME-2026-Full-time---Software-Engineer-I---Integration---Test---Onsite--MA-_01820758",
+    "locations": [
+      "Concord, MA",
+      "Tewksbury, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/RTX",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
