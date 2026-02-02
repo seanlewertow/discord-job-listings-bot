@@ -93661,5 +93661,108 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Quanta Services",
+    "id": "4df8b3ff-5a2c-493a-885d-6a0894294990",
+    "title": "Low Voltage Technician--Savannah - Georgia",
+    "active": true,
+    "date_updated": 1770073683,
+    "date_posted": 1770073683,
+    "url": "https://careers-quanta.icims.com/jobs/13511/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Buford, GA"
+    ],
+    "company_url": "https://simplify.jobs/c/Quanta-Services",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Keysight Technologies",
+    "id": "cb9e7aff-9e9c-4104-85f2-67d70a7f24ab",
+    "title": "Manufacturing Technician",
+    "active": true,
+    "date_updated": 1770073487,
+    "date_posted": 1770073487,
+    "url": "https://jobs.keysight.com/jobs/51421?lang=en-us&icims=1",
+    "locations": [
+      "Santa Rosa, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Keysight-Technologies-Inc",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Associate's",
+      "Bachelor's",
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Keysight Technologies",
+    "id": "56e10e93-02e1-4a99-aadd-038436c5053f",
+    "title": "Manufacturing Technician",
+    "active": true,
+    "date_updated": 1770073515,
+    "date_posted": 1770073515,
+    "url": "https://jobs.keysight.com/jobs/51420?lang=en-us&icims=1",
+    "locations": [
+      "Santa Rosa, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Keysight-Technologies-Inc",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Associate's",
+      "Bachelor's",
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "ASM International",
+    "id": "aea64345-813d-4f0e-a199-deb7978f7f9b",
+    "title": "Snr Engineering Technician 2 - Field Service",
+    "active": true,
+    "date_updated": 1770073407,
+    "date_posted": 1770073407,
+    "url": "https://www.asm.com/open-vacancies/?gh_jid=4663140101",
+    "locations": [
+      "Chandler, AZ"
+    ],
+    "company_url": "https://simplify.jobs/c/ASM-International",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Associate's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "University of Texas - Austin",
+    "id": "768e51fc-6823-417a-8b68-19e8c5526625",
+    "title": "Software Design Engineering Scientist Associate",
+    "active": true,
+    "date_updated": 1770073359,
+    "date_posted": 1770073359,
+    "url": "https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/PICKLE-RESEARCH-CAMPUS/Software-Design-Engineering-Scientist-Associate_R_00044244",
+    "locations": [
+      "Austin, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/University-Of-Texas-Austin",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
