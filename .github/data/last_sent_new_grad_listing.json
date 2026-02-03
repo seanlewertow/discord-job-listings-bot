@@ -93965,5 +93965,87 @@
       "Master's",
       "PhD"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "SpaceX",
+    "id": "11300faa-161b-483b-9520-12054a5957e6",
+    "title": "Full Stack Software Engineer - Top Secret Clearance",
+    "active": true,
+    "date_updated": 1770103404,
+    "date_posted": 1770103404,
+    "url": "https://boards.greenhouse.io/spacex/jobs/8397609002",
+    "locations": [
+      "West Athens, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/SpaceX",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Duke Energy",
+    "id": "6309a316-b234-4110-9e74-01dc6c00b79e",
+    "title": "Data Engineer",
+    "active": true,
+    "date_updated": 1770102989,
+    "date_posted": 1770102989,
+    "url": "https://dukeenergy.wd1.myworkdayjobs.com/search/job/Charlotte-NC/Data-Engineer_R38279",
+    "locations": [
+      "Raleigh, NC",
+      "Charlotte, NC",
+      "St. Petersburg, FL"
+    ],
+    "company_url": "https://simplify.jobs/c/Duke-Energy",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Amazon",
+    "id": "9393a3b0-c8a2-4b4f-bbcd-daa057bb7cc9",
+    "title": "Engineering Operations Technician - DCC Communities",
+    "active": true,
+    "date_updated": 1770102411,
+    "date_posted": 1770102411,
+    "url": "https://amazon.jobs/en/jobs/3150756/engineering-operations-technician-dcc-communities",
+    "locations": [
+      "New Albany, OH",
+      "Dublin, OH",
+      "Jeffersonville, OH"
+    ],
+    "company_url": "https://simplify.jobs/c/Amazon",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "University of Maryland Medical System",
+    "id": "73423be1-ad06-4588-a1fd-74596642b9ac",
+    "title": "Revenue Integrity Data Analyst 1",
+    "active": true,
+    "date_updated": 1770102316,
+    "date_posted": 1770102316,
+    "url": "https://jobs.smartrecruiters.com/UniversityOfMarylandMedicalSystem/3743990011478631",
+    "locations": [
+      "Halethorpe, MD"
+    ],
+    "company_url": "https://simplify.jobs/c/University-Of-Mary-And-Medical-System",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
