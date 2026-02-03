@@ -94047,5 +94047,106 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Hewlett Packard Enterprise",
+    "id": "25058c1c-f69d-4473-bcaf-5e821643b421",
+    "title": "Systems Software Engineer",
+    "active": true,
+    "date_updated": 1770104206,
+    "date_posted": 1770104206,
+    "url": "https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Roseville-California-United-States-of-America/Systems-Software-Engineer_1199612",
+    "locations": [
+      "Roseville, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Hewlett-Packard-Enterprise",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "RTX",
+    "id": "84a0be49-4c88-4fb5-b3d9-cf98233cc8c6",
+    "title": "Software Engineer 1 - Hardware In the Loop",
+    "active": true,
+    "date_updated": 1770104037,
+    "date_posted": 1770104037,
+    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/XMLNAME-2026-Software-Engineer-I---Hardware-In-the-Loop---Onsite_01820792",
+    "locations": [
+      "Tucson, AZ"
+    ],
+    "company_url": "https://simplify.jobs/c/RTX",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "RTX",
+    "id": "800437e7-c0fd-4154-afcb-e85f1b3ed058",
+    "title": "2026 Systems Engineer 1 - Integration & Test - Onsite, White Sands, NM",
+    "active": true,
+    "date_updated": 1770104034,
+    "date_posted": 1770104034,
+    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-NM-WHITE-SANDS-038--RTSC-Milepost-186--BLDG-LC38-Mars-Site-Hwy-70E/XMLNAME-2026-Systems-Engineer-I----Integration---Test---Onsite---White-Sands--NM_01819999",
+    "locations": [
+      "New Mexico"
+    ],
+    "company_url": "https://simplify.jobs/c/RTX",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "Hershey",
+    "id": "f50791ba-a44e-4d1e-ae50-bdd0346fe3d9",
+    "title": "Senior Research Scientist R&D Sweets",
+    "active": true,
+    "date_updated": 1770110096,
+    "date_posted": 1763231597,
+    "url": "https://careers.thehersheycompany.com/job/Hershey-Senior-Research-Scientist-R&D-Sweets-PA-17033/1309021500/?ats=successfactors",
+    "locations": [
+      "Hershey, PA"
+    ],
+    "company_url": "https://simplify.jobs/c/Hershey",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "PhD"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Primetals Technologies",
+    "id": "8726d4cd-5b78-4641-a80b-65f7dc83664b",
+    "title": "Quality Inspector - Off Shift",
+    "active": true,
+    "date_updated": 1770110345,
+    "date_posted": 1763191709,
+    "url": "https://mhicareers.com/job/Orlando-Quality-Inspector-(Off-Shift)-FL-32809/1240993301/?ats=successfactors",
+    "locations": [
+      "Orlando, FL"
+    ],
+    "company_url": "https://simplify.jobs/c/Primetals-Technologies",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
