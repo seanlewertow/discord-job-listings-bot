@@ -94240,5 +94240,46 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "NVIDIA",
+    "id": "4fc30a82-7cdd-421a-9ab2-9f92f6dc8b61",
+    "title": "Circuits Timing Engineer",
+    "active": true,
+    "date_updated": 1770116141,
+    "date_posted": 1769212224,
+    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Circuits-Timing-Engineer---New-College-Grad-2026_JR2011570-1",
+    "locations": [
+      "Santa Clara, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/NVIDIA",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Master's",
+      "PhD"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Netskope",
+    "id": "0727a01f-9d4e-4059-8844-4cf540e43bbe",
+    "title": "Platform Growth Engineer - Data Analyst",
+    "active": true,
+    "date_updated": 1770114704,
+    "date_posted": 1765851251,
+    "url": "https://www.netskope.com/company/careers/open-positions/?gh_jid=7377078",
+    "locations": [
+      "Virginia"
+    ],
+    "company_url": "https://simplify.jobs/c/Netskope",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
