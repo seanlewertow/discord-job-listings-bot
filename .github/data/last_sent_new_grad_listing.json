@@ -93764,5 +93764,101 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Huron",
+    "id": "e914a2a0-32ee-4634-84cb-0fcfa79ddeac",
+    "title": "Spend Management Analyst - Kyriba Consultant",
+    "active": true,
+    "date_updated": 1770076890,
+    "date_posted": 1770076890,
+    "url": "https://huron.wd1.myworkdayjobs.com/huroncareers/job/Toronto---55-University-Ave/Spend-Management-Analyst---Kyriba-Consultant_JR-0013920",
+    "locations": [
+      "Toronto, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Huron",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Cadence Design Systems",
+    "id": "9c1f8298-962b-4697-98d6-e1a30ef00394",
+    "title": "Software Engineer 1",
+    "active": true,
+    "date_updated": 1770076794,
+    "date_posted": 1770076794,
+    "url": "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SAN-JOSE/Software-Engineer-I_R53009-1",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Cadence-Design-Systems",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Proofpoint",
+    "id": "6765f8c1-b88f-4617-b534-ea93c8a2a91a",
+    "title": "Software Engineer 1",
+    "active": true,
+    "date_updated": 1770076774,
+    "date_posted": 1770076774,
+    "url": "https://proofpoint.wd5.myworkdayjobs.com/proofpointcareers/job/Belfast-Northern-Ireland/Software-Engineer-I_R13617",
+    "locations": [
+      "Belfast, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Proofpoint",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Oshkosh",
+    "id": "03b658df-b470-4571-a918-49131598cac2",
+    "title": "Software Developer",
+    "active": true,
+    "date_updated": 1770076873,
+    "date_posted": 1770076873,
+    "url": "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Huntersville-North-Carolina-United-States/Software-Developer---Entry_R44188",
+    "locations": [
+      "Huntersville, NC"
+    ],
+    "company_url": "https://simplify.jobs/c/Oshkosh",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Cadence Design Systems",
+    "id": "f92557c7-896b-4d0c-a354-e19f8366199d",
+    "title": "Software Engineer 1",
+    "active": true,
+    "date_updated": 1770076669,
+    "date_posted": 1770076669,
+    "url": "https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/SAN-JOSE/Software-Engineer-I_R53009",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Cadence-Design-Systems",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
