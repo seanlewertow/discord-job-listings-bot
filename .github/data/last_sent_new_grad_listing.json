@@ -94402,5 +94402,104 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Beyond New Horizons",
+    "id": "d9cdef15-3aa4-4941-a416-79d8ff3322a6",
+    "title": "ID&C Software Engineer",
+    "active": true,
+    "date_updated": 1770160359,
+    "date_posted": 1770160359,
+    "url": "https://careers-bnh.icims.com/jobs/23044/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Tullahoma, TN"
+    ],
+    "company_url": "https://simplify.jobs/c/Beyond-New-Horizons",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "PhD"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "PAR Tech",
+    "id": "8f893e20-9572-4dc2-8972-ded643b61fcd",
+    "title": "Electronic Technician 1",
+    "active": true,
+    "date_updated": 1770160326,
+    "date_posted": 1770160326,
+    "url": "https://jobs.ashbyhq.com/PAR%20Technology/c419049f-274b-466d-86fa-7f447557047a/application",
+    "locations": [
+      "Utica, NY"
+    ],
+    "company_url": "https://simplify.jobs/c/PAR-Tech",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Associate's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "BNY",
+    "id": "5c4b2ef2-bfaa-4528-b15b-1564717e380d",
+    "title": "Loans Administrator and Data Analyst",
+    "active": true,
+    "date_updated": 1770160363,
+    "date_posted": 1770160363,
+    "url": "https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/73163",
+    "locations": [
+      "Manchester, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/BNY",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Persistent Systems",
+    "id": "43e51b21-b0d7-4607-808a-f62aa7b60e08",
+    "title": "Assembly Technician",
+    "active": true,
+    "date_updated": 1770159997,
+    "date_posted": 1770159997,
+    "url": "https://careers-persistentsystems.icims.com/jobs/2153/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Persistent-Systems",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Intercontinental Exchange",
+    "id": "181b46a0-0101-4c30-b1d1-81b7be2b4e4e",
+    "title": "Analyst - Index Product Development",
+    "active": true,
+    "date_updated": 1770159758,
+    "date_posted": 1770159758,
+    "url": "https://careers-ice.icims.com/jobs/12276/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/ICEMarkets",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Certificate"
+    ]
   }
 ]
