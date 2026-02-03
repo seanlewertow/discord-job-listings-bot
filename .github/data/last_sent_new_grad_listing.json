@@ -94148,5 +94148,97 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "9cd8ea84-48e9-4aef-a9f1-9c4c7e01aa82",
+    "title": "Trading Assistant - Shift",
+    "active": true,
+    "date_updated": 1770114269,
+    "date_posted": 1770114269,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400048025",
+    "locations": [
+      "Bath, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "78d6f60c-f7b4-4edf-8ab7-fc7f47c5f835",
+    "title": "Trading Assistant - Shift",
+    "active": true,
+    "date_updated": 1770114287,
+    "date_posted": 1770114287,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400048023",
+    "locations": [
+      "Bath, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "061f88f4-2c91-4bb5-b32a-86f8d50e86c8",
+    "title": "Trading Assistant",
+    "active": true,
+    "date_updated": 1770114270,
+    "date_posted": 1770114270,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400047833",
+    "locations": [
+      "Sheffield, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Oracle",
+    "id": "59f8ced1-42ea-484b-a996-4ef6556d003f",
+    "title": "Research Scientist",
+    "active": true,
+    "date_updated": 1770114125,
+    "date_posted": 1769498838,
+    "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/324368",
+    "locations": [
+      "Burlington, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/Oracle",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "The Methodist Hospitals",
+    "id": "e351befa-1368-4266-b91f-6b3347969e90",
+    "title": "Op-Time Application Analyst IT",
+    "active": true,
+    "date_updated": 1770112897,
+    "date_posted": 1769469110,
+    "url": "https://careers-methodisthospitals.icims.com/jobs/13149/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Merrillville, IN"
+    ],
+    "company_url": "https://simplify.jobs/c/The-Methodist-Hospitals",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
