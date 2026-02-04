@@ -95163,5 +95163,99 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Schroders",
+    "id": "57f345d1-ea21-4495-943b-b2ca4bcf61be",
+    "title": "Investment Analyst - Private Equity - Secondaries",
+    "active": true,
+    "date_updated": 1770246708,
+    "date_posted": 1770246708,
+    "url": "https://ekbq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/1099",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Schroders",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Oracle",
+    "id": "269fd00c-aa41-421d-bd78-3e77cc13c4ae",
+    "title": "Software Developer 1",
+    "active": true,
+    "date_updated": 1770246573,
+    "date_posted": 1770246573,
+    "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/325062",
+    "locations": [
+      "United States"
+    ],
+    "company_url": "https://simplify.jobs/c/Oracle",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Sonepar",
+    "id": "78ac48bb-a3aa-4a35-bd3f-a96d0ccee239",
+    "title": "Test Lab Technician",
+    "active": true,
+    "date_updated": 1770246471,
+    "date_posted": 1770246471,
+    "url": "https://career.sonepar.com/job/Fort-Worth-Test-Lab-Technician-TX-76118/1207159001/?ats=successfactors",
+    "locations": [
+      "Fort Worth, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Sonepar",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "University of Texas - Austin",
+    "id": "0a9be08c-daa1-47fd-aa7a-7fe64c9ec828",
+    "title": "Postdoctoral Research Fellow - Department of Information - Risk and Operations Management",
+    "active": true,
+    "date_updated": 1770246201,
+    "date_posted": 1770246201,
+    "url": "https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/UT-MAIN-CAMPUS/Postdoctoral-Research-Fellow--Department-of-Information--Risk--and-Operations-Management_R_00044413",
+    "locations": [
+      "Austin, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/University-Of-Texas-Austin",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "PhD"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Maven Securities",
+    "id": "d4bc7cda-3670-45c6-92f5-c5007b343dbb",
+    "title": "Quantitative Trading Analyst",
+    "active": true,
+    "date_updated": 1770246954,
+    "date_posted": 1770131567,
+    "url": "https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/7582506",
+    "locations": [
+      "London, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Maven-Securities",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
