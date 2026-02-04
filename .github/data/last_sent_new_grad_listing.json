@@ -94620,5 +94620,114 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Johnson Controls",
+    "id": "8f7534fe-1c41-4a29-8d7a-8078cf4fd5e2",
+    "title": "Nextgen Software Engineer",
+    "active": true,
+    "date_updated": 1770189655,
+    "date_posted": 1770189655,
+    "url": "https://jci.wd5.myworkdayjobs.com/JCI_Confidential/job/Glendale-Wisconsin-United-States-of-America/NextGen-Software-Engineer_WD30258779",
+    "locations": [
+      "Fishers, IN",
+      "Milwaukee, WI",
+      "Westford, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/Johnson-Controls",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Johnson Controls",
+    "id": "557183e7-81aa-4d9b-8e80-2b6b8d75f14f",
+    "title": "Nextgen Hardware Engineer - Fire Detection",
+    "active": true,
+    "date_updated": 1770189655,
+    "date_posted": 1770189655,
+    "url": "https://jci.wd5.myworkdayjobs.com/JCI_Confidential/job/Westford-Massachusetts-United-States-of-America/NextGen-Hardware-Engineer---Fire-Detection_WD30258659",
+    "locations": [
+      "Lubbock, TX",
+      "Providence, RI",
+      "Westford, MA",
+      "Sister Bay, WI",
+      "Weslaco, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Johnson-Controls",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Johnson Controls",
+    "id": "31e3941a-821c-4ad6-b962-0fe82b1fc585",
+    "title": "Nextgen Hardware Engineer - Hvacr",
+    "active": true,
+    "date_updated": 1770189656,
+    "date_posted": 1770189656,
+    "url": "https://jci.wd5.myworkdayjobs.com/JCI_Confidential/job/New-Freedom-Pennsylvania-United-States-of-America/NextGen-Hardware-Engineer---HVACR_WD30258686",
+    "locations": [
+      "Indianapolis, IN",
+      "Detroit, MI",
+      "San Antonio, TX",
+      "York, PA"
+    ],
+    "company_url": "https://simplify.jobs/c/Johnson-Controls",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Port of Seattle",
+    "id": "f1990e88-ee6b-49f2-b850-053eb36b25b9",
+    "title": "Business Intelligence Analyst 1",
+    "active": true,
+    "date_updated": 1770189087,
+    "date_posted": 1770189087,
+    "url": "https://aa243.taleo.net/careersection/ex/jobdetail.ftl?job=003935",
+    "locations": [
+      "Washington"
+    ],
+    "company_url": "https://simplify.jobs/c/Port-Of-Seattle",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "PhD"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "e095763c-a4df-4722-9d94-6cc68ec29391",
+    "title": "Trading Assistant - Shift",
+    "active": true,
+    "date_updated": 1770189046,
+    "date_posted": 1770189046,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400048137",
+    "locations": [
+      "Harlow, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
