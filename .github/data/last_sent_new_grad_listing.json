@@ -94965,5 +94965,103 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "73162052-962c-4e5b-9c7d-6f600bb78fd6",
+    "title": "Trading Assistant",
+    "active": true,
+    "date_updated": 1770217956,
+    "date_posted": 1770217956,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400048195",
+    "locations": [
+      "Northamptonshire, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "4223cdcb-ed65-416a-998a-f1f592179869",
+    "title": "Trading Assistant - Shift",
+    "active": true,
+    "date_updated": 1770217956,
+    "date_posted": 1770217956,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400048165",
+    "locations": [
+      "Manchester, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Zebra Technologies",
+    "id": "2c03727f-be48-43d7-9775-33f11b540e02",
+    "title": "Software Engineer - Engineering",
+    "active": true,
+    "date_updated": 1770217952,
+    "date_posted": 1770217952,
+    "url": "https://zebra.eightfold.ai/careers/job/343637099931",
+    "locations": [
+      "London, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Zebra-Technologies",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Tradeweb",
+    "id": "bb4fe991-2936-463b-89af-d1276fe4f754",
+    "title": "Associate \u2013 Artificial Intelligence",
+    "active": true,
+    "date_updated": 1770217730,
+    "date_posted": 1770217730,
+    "url": "https://ecnf.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/301625",
+    "locations": [
+      "London, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Tradeweb",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Susquehanna International Group (SIG)",
+    "id": "74869185-a910-4f59-be5d-bbf3389e9810",
+    "title": "Quantitative Data Developer - PhD: 2026",
+    "active": true,
+    "date_updated": 1770217799,
+    "date_posted": 1770217799,
+    "url": "https://careers-sig.icims.com/jobs/10565/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Ardmore, PA"
+    ],
+    "company_url": "https://simplify.jobs/c/Susquehanna",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "PhD"
+    ]
   }
 ]
