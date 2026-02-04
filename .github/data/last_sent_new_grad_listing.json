@@ -94729,5 +94729,85 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Jain Global",
+    "id": "e162fe2f-b8fa-4f4f-9e29-415bc0f8068d",
+    "title": "Software Developer",
+    "active": true,
+    "date_updated": 1770190901,
+    "date_posted": 1770190901,
+    "url": "https://jainglobal.wd5.myworkdayjobs.com/ExternalSite/job/New-York-Office/Developer_JR100255",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Jain-Global",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Hewlett Packard Enterprise",
+    "id": "6c199a08-3bf7-4d6c-8208-37ec89aca8ca",
+    "title": "Mechanical Hardware Engineer",
+    "active": true,
+    "date_updated": 1770190789,
+    "date_posted": 1770190789,
+    "url": "https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Chippewa-Falls-Wisconsin-United-States-of-America/Mechanical-Hardware-Engineer_1199920",
+    "locations": [
+      "Eau Claire, WI"
+    ],
+    "company_url": "https://simplify.jobs/c/Hewlett-Packard-Enterprise",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "JINGDONG",
+    "id": "26235c12-915d-4a39-ba09-ac583587eb00",
+    "title": "Software Engineer",
+    "active": true,
+    "date_updated": 1770190139,
+    "date_posted": 1770190139,
+    "url": "https://jd.wd103.myworkdayjobs.com/Campus_Career_Site/job/London/Software-Engineer--JD-Star-Program-_JR101687",
+    "locations": [
+      "London, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/JINGDONG",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "JCDecaux",
+    "id": "00912d48-dc96-4ba5-b1d9-693a18f774a5",
+    "title": "Account Planner - Trading",
+    "active": true,
+    "date_updated": 1770190147,
+    "date_posted": 1770190147,
+    "url": "https://jcdecaux.wd3.myworkdayjobs.com/ExternalSiteJCDUK/job/GB-London-Office---Sale-Place/Account-Planner---Trading_JR101600",
+    "locations": [
+      "London, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/JCDecaux",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
