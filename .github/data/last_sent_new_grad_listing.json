@@ -95063,5 +95063,105 @@
       "Bachelor's",
       "PhD"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "EquipmentShare",
+    "id": "a69a8f4d-91e9-471d-9693-a3b5563ad2cf",
+    "title": "Telematics Installer",
+    "active": true,
+    "date_updated": 1770219542,
+    "date_posted": 1770219542,
+    "url": "https://www.equipmentshare.com/careers/openings/?gh_jid=7582804",
+    "locations": [
+      "Tulsa, OK"
+    ],
+    "company_url": "https://simplify.jobs/c/Equipment-Share",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Carnegie Mellon University",
+    "id": "827ee515-ad26-4995-aed0-8bc03d7180d0",
+    "title": "Research Associate - Lti - School of Computer Science",
+    "active": true,
+    "date_updated": 1770219597,
+    "date_posted": 1770219597,
+    "url": "https://cmu.wd5.myworkdayjobs.com/cmu/job/Pittsburgh-PA/Research-Associate----LTI---School-of-Computer-Science_2024127",
+    "locations": [
+      "Pittsburgh, PA"
+    ],
+    "company_url": "https://simplify.jobs/c/Carnegie-Mellon-University",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "EquipmentShare",
+    "id": "2c21c106-be9f-47fe-8b42-3b36e0839fba",
+    "title": "Telematics Installer",
+    "active": true,
+    "date_updated": 1770219522,
+    "date_posted": 1770219522,
+    "url": "https://www.equipmentshare.com/careers/openings/?gh_jid=7588467",
+    "locations": [
+      "Newark, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Equipment-Share",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Certificate"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Cox",
+    "id": "d8c1ae81-7b7a-4427-aef2-962812779cfd",
+    "title": "Software Engineer 1",
+    "active": true,
+    "date_updated": 1770219158,
+    "date_posted": 1770219158,
+    "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Software-Engineer-I_R202672721",
+    "locations": [
+      "Atlanta, GA"
+    ],
+    "company_url": "https://simplify.jobs/c/Cox",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Royal Bank of Canada",
+    "id": "ad832d6a-bdbc-4d4d-bd7f-40477f9fc2ce",
+    "title": "Analyst \u2013 Credit Trading",
+    "active": true,
+    "date_updated": 1770221038,
+    "date_posted": 1770221038,
+    "url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/London-United-Kingdom-of-Great-Britain-and-Northern-Ireland/Analyst--Credit-Trading_R-0000157452-1",
+    "locations": [
+      "London, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Royal-Bank-Of-Canada",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
