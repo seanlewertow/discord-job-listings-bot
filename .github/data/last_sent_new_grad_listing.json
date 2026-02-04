@@ -94501,5 +94501,106 @@
       "Bachelor's",
       "Certificate"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Amentum",
+    "id": "b9ce1d43-eb7b-4ff6-a2b1-1493d751e451",
+    "title": "Radar System Operator Associate",
+    "active": true,
+    "date_updated": 1770163126,
+    "date_posted": 1770163126,
+    "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-FL-Melbourne/Radar-System-Operator-Associate_R0152746",
+    "locations": [
+      "Melbourne, FL"
+    ],
+    "company_url": "https://simplify.jobs/c/Amentum",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Associate's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Cadence Design Systems",
+    "id": "83359773-2582-43b6-86d8-4e7f3a4d5e70",
+    "title": "Application Engineer",
+    "active": true,
+    "date_updated": 1770163075,
+    "date_posted": 1770163075,
+    "url": "https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/SAN-JOSE/Application-Engineer_R53122-1",
+    "locations": [
+      "Morrisville, NC",
+      "Austin, TX",
+      "San Jose, CA",
+      "Burlington, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/Cadence-Design-Systems",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Awardco",
+    "id": "53e2a0fe-8bec-4790-8632-33c773ce3525",
+    "title": "Back-End Software Engineer",
+    "active": true,
+    "date_updated": 1770171627,
+    "date_posted": 1770171627,
+    "url": "https://award.co/position?gh_jid=4118198004",
+    "locations": [
+      "Orem, UT"
+    ],
+    "company_url": "https://simplify.jobs/c/Awardco",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "RELEX Solutions",
+    "id": "e967dee8-513c-42e9-bee2-5c5b4ad850a7",
+    "title": "Business Analyst / Data Analyst - RELEX North America",
+    "active": true,
+    "date_updated": 1770171506,
+    "date_posted": 1770171506,
+    "url": "https://www.relexsolutions.com/careers/jobs/?gh_jid=7484005003",
+    "locations": [
+      "Atlanta, GA"
+    ],
+    "company_url": "https://simplify.jobs/c/RELEX-Solutions",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "Persona",
+    "id": "24fb788f-d019-4468-a337-ab36d0e99b0b",
+    "title": "Product Analyst - Fraud",
+    "active": true,
+    "date_updated": 1770171484,
+    "date_posted": 1770171484,
+    "url": "https://jobs.ashbyhq.com/persona/8d788998-16c0-47d6-b074-52c2c4fc3007/application",
+    "locations": [
+      "SF"
+    ],
+    "company_url": "https://simplify.jobs/c/Persona",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
