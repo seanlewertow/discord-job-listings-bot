@@ -94829,5 +94829,101 @@
     "degrees": [
       "Associate's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "4d41b64a-6ee2-4a2f-ba64-6f68f412d250",
+    "title": "Trading Assistant - Shift",
+    "active": true,
+    "date_updated": 1770200653,
+    "date_posted": 1770200653,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400048146",
+    "locations": [
+      "Maidstone, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "18763572-6730-40ab-855c-0be43f2ee695",
+    "title": "Trading Assistant",
+    "active": true,
+    "date_updated": 1770200653,
+    "date_posted": 1770200653,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400048156",
+    "locations": [
+      "Oxford, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Grayce",
+    "id": "19c994d7-9755-42b5-ba63-4f9e42d3d344",
+    "title": "Graduate Consultant",
+    "active": true,
+    "date_updated": 1770200598,
+    "date_posted": 1768000839,
+    "url": "https://apply.workable.com/grayce/j/0058CF19C7/apply",
+    "locations": [
+      "York, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/ece08408-be43-4331-9af6-746c6e9977ec",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "American Express",
+    "id": "ca98230f-d6eb-4120-b38f-f074713bb7eb",
+    "title": "Analyst-Loyalty Transformation",
+    "active": true,
+    "date_updated": 1770200884,
+    "date_posted": 1770200884,
+    "url": "https://aexp.eightfold.ai/careers/job/39684158",
+    "locations": [
+      "London, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/American-Express",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Capital One",
+    "id": "ab2c85f9-677f-429e-952a-7db7212086b9",
+    "title": "Applied Researcher 1",
+    "active": true,
+    "date_updated": 1770204136,
+    "date_posted": 1767424720,
+    "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Applied-Researcher-I_R225432-1",
+    "locations": [
+      "Cambridge, MA",
+      "SF",
+      "San Jose, CA",
+      "McLean, VA",
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Capital-One",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
