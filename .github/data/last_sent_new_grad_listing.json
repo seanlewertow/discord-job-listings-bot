@@ -95580,5 +95580,83 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "General Dynamics Mission Systems",
+    "id": "bdcb5527-0ad0-414d-b4d1-7dbbf201aea0",
+    "title": "Advanced Configuration Management Associate",
+    "active": true,
+    "date_updated": 1770282442,
+    "date_posted": 1769526650,
+    "url": "https://careers-gdms.icims.com/jobs/70264/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Scottsdale, AZ"
+    ],
+    "company_url": "https://simplify.jobs/c/General-Dynamics-Mission-Systems",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "CleanSpark",
+    "id": "b104dfe7-17e5-423b-9c0d-93a8426696c6",
+    "title": "Hardware Assembly Technician",
+    "active": true,
+    "date_updated": 1770283142,
+    "date_posted": 1767251573,
+    "url": "https://jobs.lever.co/cleanspark/adb7cbc6-e8d4-4dc7-b583-a08ba8b335a7/apply",
+    "locations": [
+      "Midway, TN"
+    ],
+    "company_url": "https://simplify.jobs/c/CleanSpark",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "CleanSpark",
+    "id": "7af24103-8897-4be0-9d1a-6a13546c0375",
+    "title": "Hardware Assembly Technician",
+    "active": true,
+    "date_updated": 1770282995,
+    "date_posted": 1767251576,
+    "url": "https://jobs.lever.co/cleanspark/1dafd85b-4c0b-493e-a18d-43dda7d346bb/apply",
+    "locations": [
+      "Macon, GA"
+    ],
+    "company_url": "https://simplify.jobs/c/CleanSpark",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "Omnea",
+    "id": "4b1465ed-1a88-455c-9658-7bd0107b2be6",
+    "title": "Solutions Associate",
+    "active": true,
+    "date_updated": 1770282544,
+    "date_posted": 1750115208,
+    "url": "https://jobs.ashbyhq.com/omnea/425759c7-c2d6-4dcd-b04a-3dc27c4a3c10/application",
+    "locations": [
+      "London, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Omnea",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
