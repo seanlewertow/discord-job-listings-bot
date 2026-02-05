@@ -95973,5 +95973,98 @@
       "Bachelor's",
       "Master's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "7bfcadbc-7e51-4540-875b-4bfcfdcf5c40",
+    "title": "Trading Assistant",
+    "active": true,
+    "date_updated": 1770304287,
+    "date_posted": 1770304287,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400048367",
+    "locations": [
+      "United Kingdom"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "411e123a-ffa8-4329-b6a7-47ea8aec254c",
+    "title": "Trading Assistant",
+    "active": true,
+    "date_updated": 1770304297,
+    "date_posted": 1770304297,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400048347",
+    "locations": [
+      "Durham, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "381cdb86-8fc0-446b-8240-f25032a47b66",
+    "title": "Trading Assistant",
+    "active": true,
+    "date_updated": 1770304259,
+    "date_posted": 1770304259,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400048335",
+    "locations": [
+      "United Kingdom"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "Google",
+    "id": "82a60c2e-2712-480c-9e6d-b02fae42d6e8",
+    "title": "Product Manager 1 - Youtube XR - Gaming Discovery",
+    "active": true,
+    "date_updated": 1770304023,
+    "date_posted": 1770304023,
+    "url": "https://www.google.com/about/careers/applications/jobs/results/98332241645445830",
+    "locations": [
+      "San Bruno, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Google",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Brink",
+    "id": "46cda402-c195-41cb-9cfa-0966199389db",
+    "title": "Repair Depot Technician",
+    "active": true,
+    "date_updated": 1770303971,
+    "date_posted": 1770303971,
+    "url": "https://brinks.wd5.myworkdayjobs.com/brinkscareersus/job/Cincinnati-OHTL140/Repair-Depot-Technician_R69624",
+    "locations": [
+      "Cincinnati, OH"
+    ],
+    "company_url": "https://simplify.jobs/c/Brink",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
