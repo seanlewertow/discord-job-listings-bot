@@ -95257,5 +95257,106 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Archer",
+    "id": "68ecd0f7-dd41-4f40-a391-d116e0ef9997",
+    "title": "Software Engineer",
+    "active": true,
+    "date_updated": 1770247206,
+    "date_posted": 1770247206,
+    "url": "https://job-boards.greenhouse.io/archer56/jobs/7539670003",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Archer",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "Coinbase",
+    "id": "8acbdd21-d674-4ac7-8d56-3cc1f17fc8fa",
+    "title": "Product Manager 1 - Institutional Staking",
+    "active": true,
+    "date_updated": 1770248898,
+    "date_posted": 1765497006,
+    "url": "https://boards.greenhouse.io/embed/job_app?token=7463201",
+    "locations": [
+      "United States"
+    ],
+    "company_url": "https://simplify.jobs/c/Coinbase",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Royal Bank of Canada",
+    "id": "1627b944-9788-407d-aa3c-af1fdc31d8e8",
+    "title": "Software Developer - Java/Vue.js",
+    "active": true,
+    "date_updated": 1770250446,
+    "date_posted": 1770250446,
+    "url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/MONTRAL-Quebec-Canada/Software-Developer--Java-Vuejs-_R-0000158174-1",
+    "locations": [
+      "Montreal, QC, Canada",
+      "Toronto, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Royal-Bank-Of-Canada",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Cadence Design Systems",
+    "id": "fae3ba2d-1cf7-4521-aa3b-6e89bd0c72d7",
+    "title": "Mechanical Software Engineer - PhD - 2026",
+    "active": true,
+    "date_updated": 1770249447,
+    "date_posted": 1770249447,
+    "url": "https://cadence.wd1.myworkdayjobs.com/University_Talent/job/SAN-JOSE-10/Mechanical-Software-Engineer--New-College-Grad--PhD---2026-_R51540-1",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Cadence-Design-Systems",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Master's",
+      "PhD"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Cadence Design Systems",
+    "id": "4d744798-eee8-4a51-82fb-15bc02282353",
+    "title": "Mechanical Software Engineer - PhD - 2026",
+    "active": true,
+    "date_updated": 1770249589,
+    "date_posted": 1770249589,
+    "url": "https://cadence.wd1.myworkdayjobs.com/University_Talent_NCG/job/SAN-JOSE-10/Mechanical-Software-Engineer--New-College-Grad--PhD---2026-_R51540",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Cadence-Design-Systems",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Master's",
+      "PhD"
+    ]
   }
 ]
