@@ -95755,5 +95755,102 @@
       "Bachelor's",
       "Certificate"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "f03abcb8-b2bc-4ad8-b660-2de92a42c234",
+    "title": "Trading Assistant",
+    "active": true,
+    "date_updated": 1770287245,
+    "date_posted": 1770287245,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400048288",
+    "locations": [
+      "Leicester, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "cf987c89-1716-44ba-9662-1bbbea2f6276",
+    "title": "Trading Assistant - Shift",
+    "active": true,
+    "date_updated": 1770287245,
+    "date_posted": 1770287245,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400048273",
+    "locations": [
+      "Newcastle upon Tyne, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "JP Morgan Chase",
+    "id": "74e4dcea-4343-4489-aabe-0319fa8b26b5",
+    "title": "Risk Management - Data Scientist Associate",
+    "active": true,
+    "date_updated": 1770287343,
+    "date_posted": 1770287343,
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210706552",
+    "locations": [
+      "Christchurch, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/JP-Morgan-Chase",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "5a9fbc0f-142d-409a-80f0-c2e643a2058f",
+    "title": "Trading Assistant",
+    "active": true,
+    "date_updated": 1770287241,
+    "date_posted": 1770287241,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400048292",
+    "locations": [
+      "Bath, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Johnson & Johnson",
+    "id": "fb66b7b0-2b71-489d-b4f4-a4cb86db1d4e",
+    "title": "Postdoctoral Researcher Omics & Multimodal Data Integration",
+    "active": true,
+    "date_updated": 1770209669,
+    "date_posted": 1770133693,
+    "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Beerse-Antwerp-Belgium/Postdoctoral-Researcher-Omics---Multimodal-Data-Integration--R-D-Neuroscience-Data-Science---Digital-Health_R-056279-1",
+    "locations": [
+      "Cambridge, MA",
+      "Ambler, PA",
+      "High Wycombe, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Johnson-Johnson",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "PhD"
+    ]
   }
 ]
