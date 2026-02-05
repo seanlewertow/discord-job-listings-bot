@@ -95358,5 +95358,108 @@
       "Master's",
       "PhD"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Zip",
+    "id": "d9afd19e-fc7d-4360-8228-887866b2e5e2",
+    "title": "Software Engineer New Grad - 2026 Start",
+    "active": true,
+    "date_updated": 1770257626,
+    "date_posted": 1770257626,
+    "url": "https://jobs.ashbyhq.com/zip/b261b0d9-bebd-4da1-a3b9-7a674f0616ac/application",
+    "locations": [
+      "Toronto, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Zip",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "8c074af1-7783-4703-af75-efcb7ae2ee06",
+    "title": "Trading Assistant - Shift",
+    "active": true,
+    "date_updated": 1770257516,
+    "date_posted": 1770257516,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400048274",
+    "locations": [
+      "Blackpool, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "WEC Energy Group",
+    "id": "35b74db2-e36c-4812-99c7-a79750139d8c",
+    "title": "Gas System Associate Analyst",
+    "active": true,
+    "date_updated": 1770257445,
+    "date_posted": 1770257445,
+    "url": "https://careers.wecenergygroup.com/Michigan_Gas_Utilities/job/Coldwater-Gas-System-Associate-Analyst-MI-49036/1362161600/?ats=successfactors",
+    "locations": [
+      "Marshall, MI",
+      "Muskegon, MI",
+      "Dundee, MI",
+      "Kalamazoo, MI",
+      "South Bend, IN"
+    ],
+    "company_url": "https://simplify.jobs/c/WEC-Energy-Group",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Associate's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "F5",
+    "id": "ff11b388-80d0-499f-88f1-08453f978f8e",
+    "title": "Engineer 2",
+    "active": true,
+    "date_updated": 1770260322,
+    "date_posted": 1770260322,
+    "url": "https://ffive.wd5.myworkdayjobs.com/en-US/f5jobs/job/Seattle/Engineer-II_RP1036377",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "company_url": "https://simplify.jobs/c/F5",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "F5",
+    "id": "f5e288a6-0116-494f-88a8-2bc158f5f67e",
+    "title": "Engineer 1 - Software",
+    "active": true,
+    "date_updated": 1770260323,
+    "date_posted": 1770260323,
+    "url": "https://ffive.wd5.myworkdayjobs.com/en-US/f5jobs/job/San-Jose/Engineer-I--Software_RP1036380",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/F5",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
