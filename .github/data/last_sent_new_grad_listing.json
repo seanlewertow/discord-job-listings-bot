@@ -96170,5 +96170,110 @@
       "Bachelor's",
       "Master's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Daktronics",
+    "id": "92ba7c39-20cd-47f8-898a-6f49e46e6406",
+    "title": "Game Day Technician",
+    "active": true,
+    "date_updated": 1770332679,
+    "date_posted": 1770332679,
+    "url": "https://careers-daktronics.icims.com/jobs/7200/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Washington, DC",
+      "Fairfax, VA",
+      "Arlington, VA",
+      "Alexandria, VA"
+    ],
+    "company_url": "https://simplify.jobs/c/Daktronics",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Microsoft",
+    "id": "85b8e5c4-2220-49c4-83a7-eb0ced866a2c",
+    "title": "Software Engineer",
+    "active": true,
+    "date_updated": 1770332789,
+    "date_posted": 1770332789,
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393556631184",
+    "locations": [
+      "Redmond, WA"
+    ],
+    "company_url": "https://simplify.jobs/c/Microsoft",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Iowa State University",
+    "id": "a96b9b1e-9f04-47c3-b464-01754e05dc17",
+    "title": "Financial Aid Data Analyst 1",
+    "active": true,
+    "date_updated": 1770332525,
+    "date_posted": 1770332525,
+    "url": "https://isu.wd1.myworkdayjobs.com/IowaStateJobs/job/Ames-IA/Financial-Aid-Data-Analyst-I_R18581",
+    "locations": [
+      "Ames, IA"
+    ],
+    "company_url": "https://simplify.jobs/c/Iowa-State-University",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "L3Harris Technologies",
+    "id": "04a955b8-29f3-4904-980b-4a642a60258d",
+    "title": "Associate Systems Engineer",
+    "active": true,
+    "date_updated": 1770333034,
+    "date_posted": 1763231703,
+    "url": "https://jobs.l3harris.com/job/Salt-Lake-City-Associate,-Systems-Engineer-(Salt-Lake-City,-UT)-UT-84116/1316801100/?ats=successfactors",
+    "locations": [
+      "Salt Lake City, UT"
+    ],
+    "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Jensen Hughes",
+    "id": "dff41bfa-3ee0-4faf-b1c9-2774ccfa274a",
+    "title": "Pra and Psa",
+    "active": true,
+    "date_updated": 1770333593,
+    "date_posted": 1762273323,
+    "url": "https://job-boards.greenhouse.io/jensenhughes/jobs/4961263008",
+    "locations": [
+      "Morrisville, NC",
+      "North Bethesda, MD",
+      "Fairfax, VA",
+      "Columbia, MD"
+    ],
+    "company_url": "https://simplify.jobs/c/Jensen-Hughes",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
