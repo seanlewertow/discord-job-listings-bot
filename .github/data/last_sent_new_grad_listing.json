@@ -95852,5 +95852,105 @@
     "degrees": [
       "PhD"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Amentum",
+    "id": "90ad9f59-e488-40a9-a6dd-469d67c0b67d",
+    "title": "Engine Lab Technician-1",
+    "active": true,
+    "date_updated": 1770289915,
+    "date_posted": 1769211710,
+    "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-MI-Detroit/Engine-Lab-Technician-1_R0152369-1",
+    "locations": [
+      "Detroit, MI"
+    ],
+    "company_url": "https://simplify.jobs/c/Amentum",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Associate's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "Domo",
+    "id": "c531842f-69c0-4bef-ba78-bc9a2bd97d13",
+    "title": "Associate Product Marketing Manager",
+    "active": true,
+    "date_updated": 1770291576,
+    "date_posted": 1769826610,
+    "url": "https://domo.wd12.myworkdayjobs.com/DomoCareers/job/American-Fork-Utah/Associate-Product-Marketing-Manager_JR100170",
+    "locations": [
+      "American Fork, UT"
+    ],
+    "company_url": "https://simplify.jobs/c/Domo",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "GE Healthcare",
+    "id": "0824a073-0df8-4940-8521-e8d61c575ef7",
+    "title": "Field Service Engineer 1 - Invasive Cardiology",
+    "active": true,
+    "date_updated": 1770292176,
+    "date_posted": 1768956801,
+    "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Service-Engineer-1_R4033852",
+    "locations": [
+      "Kentucky",
+      "Indiana"
+    ],
+    "company_url": "https://simplify.jobs/c/GE-Healthcare",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Associate's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "NCR Voyix",
+    "id": "b6693a55-3d12-43bc-b716-9f62849b8a21",
+    "title": "Customer Engineer 1-Leominster - MA",
+    "active": true,
+    "date_updated": 1770294579,
+    "date_posted": 1770294579,
+    "url": "https://ncr.wd1.myworkdayjobs.com/ext_us/job/MASSACHUSETTS-VIRTUAL-USA/Customer-Engineer-I--Leominster--MA_R0156213",
+    "locations": [
+      "Leominster, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/NCR-Voyix",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "PPG Industries",
+    "id": "78be6c4f-837e-4c9a-860f-854f7ec94434",
+    "title": "Emerging Talent Program - Science & Technology",
+    "active": true,
+    "date_updated": 1770296199,
+    "date_posted": 1769557112,
+    "url": "https://ppg.wd5.myworkdayjobs.com/PPG_CAREERS/job/USA---Allison-Park-RD-Center/XMLNAME-2025-2026-Emerging-Talent-Program---Science---Technology_JR2512675",
+    "locations": [
+      "Pittsburgh, PA"
+    ],
+    "company_url": "https://simplify.jobs/c/PPG-Industries",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
