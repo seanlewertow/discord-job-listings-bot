@@ -96479,5 +96479,99 @@
       "Bachelor's",
       "Master's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "ef94e327-b2b4-400c-af16-d41ac08c6430",
+    "title": "Trading Assistant",
+    "active": true,
+    "date_updated": 1770361745,
+    "date_posted": 1770361745,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400045763",
+    "locations": [
+      "Edinburgh, UK",
+      "Midlothian, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Oracle",
+    "id": "e96ccd2e-5f0e-4f05-a00e-3da1d07134ad",
+    "title": "PhD Software Engineer - Database Technologies",
+    "active": true,
+    "date_updated": 1770361699,
+    "date_posted": 1770361699,
+    "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/325816",
+    "locations": [
+      "San Carlos, CA",
+      "Nashua, NH"
+    ],
+    "company_url": "https://simplify.jobs/c/Oracle",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "PhD"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "a51780fe-c659-4b61-b76e-3ad2773d6c84",
+    "title": "Trading Assistant - Shift",
+    "active": true,
+    "date_updated": 1770361744,
+    "date_posted": 1770361744,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400048442",
+    "locations": [
+      "Tunbridge Wells, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "86346f56-4dbd-4584-8d7b-d753dd0ffdaf",
+    "title": "Trading Assistant - Shift",
+    "active": true,
+    "date_updated": 1770361748,
+    "date_posted": 1770361748,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400048438",
+    "locations": [
+      "Bedford, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Broccoli AI",
+    "id": "6f239ba6-7cda-4f08-a6ee-8827af0eb7a4",
+    "title": "Software Engineer",
+    "active": true,
+    "date_updated": 1770361681,
+    "date_posted": 1770361681,
+    "url": "https://jobs.ashbyhq.com/broccoli/3e59cf67-61dd-4210-b5dc-c7338fa91eba/application",
+    "locations": [
+      "SF"
+    ],
+    "company_url": "https://simplify.jobs/c/Broccoli-AI",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
