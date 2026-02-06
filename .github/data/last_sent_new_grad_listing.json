@@ -96275,5 +96275,110 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Canonical",
+    "id": "8f1f276b-8b6b-4278-b6ae-e3e8c88530d4",
+    "title": "Linux Desktop Support Engineer - London UK office",
+    "active": true,
+    "date_updated": 1770333514,
+    "date_posted": 1770333514,
+    "url": "https://job-boards.greenhouse.io/canonical/jobs/7569101",
+    "locations": [
+      "London, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Canonical",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "NVIDIA",
+    "id": "8ee26259-5914-4601-981d-94d0d0a886ae",
+    "title": "ASIC Verification Engineer",
+    "active": true,
+    "date_updated": 1770333984,
+    "date_posted": 1770333984,
+    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-TX-Austin/ASIC-Verification-Engineer---New-College-Grad-2026_JR2012573",
+    "locations": [
+      "Austin, TX",
+      "Santa Clara, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/NVIDIA",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "PhD"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Artefact",
+    "id": "fd961a41-2710-4b5f-8494-46c75c5dcf75",
+    "title": "Junior Data Analyst - Canada-based",
+    "active": true,
+    "date_updated": 1770305220,
+    "date_posted": 1769700102,
+    "url": "https://job-boards.greenhouse.io/artefactus/jobs/8395651002",
+    "locations": [
+      "Montreal, QC, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Artefact",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "Walmart",
+    "id": "f3f4b1d7-023d-4908-981d-46ad84987c3e",
+    "title": "Staff Product Manager",
+    "active": true,
+    "date_updated": 1770336287,
+    "date_posted": 1770336287,
+    "url": "https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Sunnyvale-CA/Staff-Product-Manager_R-2398042-1",
+    "locations": [
+      "Sunnyvale, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Walmart",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Walmart",
+    "id": "73a6f042-9e20-4c2a-afc1-fdcaed6a6aa7",
+    "title": "Senior Software Engineer",
+    "active": true,
+    "date_updated": 1770336305,
+    "date_posted": 1770336305,
+    "url": "https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Sunnyvale-CA/Senior-Software-Engineer_R-2398029-1",
+    "locations": [
+      "Sunnyvale, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Walmart",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
   }
 ]
