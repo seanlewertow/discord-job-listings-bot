@@ -96613,5 +96613,100 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Saviynt",
+    "id": "6eae0139-971e-4154-ad6d-259e34aba765",
+    "title": "Principal Software Engineer - Requests",
+    "active": true,
+    "date_updated": 1765444442,
+    "date_posted": 1763511665,
+    "url": "https://jobs.lever.co/saviynt/341f7de9-3cec-4917-aec6-9ac9c5f2b7d9/apply",
+    "locations": [
+      "SF"
+    ],
+    "company_url": "https://simplify.jobs/c/Saviynt",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Peraton",
+    "id": "a8c3ea34-c051-434a-8817-bccdf2d17c6c",
+    "title": "Technician 1 - Electronic",
+    "active": true,
+    "date_updated": 1770371754,
+    "date_posted": 1757726812,
+    "url": "https://careers-peraton.icims.com/jobs/158058/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Topeka, KS"
+    ],
+    "company_url": "https://simplify.jobs/c/Peraton",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "69212627-308a-4df4-99c3-9691eabd60ce",
+    "title": "Trading Assistant",
+    "active": true,
+    "date_updated": 1770373206,
+    "date_posted": 1770373206,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400047495",
+    "locations": [
+      "Bury Saint Edmunds, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "39611ae2-b4b6-4416-8a40-dc59170ef9a2",
+    "title": "Trading Assistant",
+    "active": true,
+    "date_updated": 1770373210,
+    "date_posted": 1770373210,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400048444",
+    "locations": [
+      "Oxford, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "DoseSpot",
+    "id": "6ea5ff17-a817-4492-b5d4-defb705704e6",
+    "title": "Product Analyst 2",
+    "active": true,
+    "date_updated": 1770371943,
+    "date_posted": 1770084758,
+    "url": "https://jobs.ashbyhq.com/dosespot/2b869657-335f-4dcf-a09e-06e54a2285ce/application",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/DoseSpot",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
