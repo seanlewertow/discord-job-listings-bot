@@ -96968,5 +96968,103 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Magna",
+    "id": "afd5b3bd-9908-480c-bf1d-9a846a991ba8",
+    "title": "Product Engineer",
+    "active": true,
+    "date_updated": 1770392858,
+    "date_posted": 1770392858,
+    "url": "https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Grand-Rapids-Michigan-US/Product-Engineer_R00229738",
+    "locations": [
+      "Grand Rapids, MI"
+    ],
+    "company_url": "https://simplify.jobs/c/Magna",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "General Atlantic",
+    "id": "25d16d7a-6e7a-458e-a946-148e67033d2b",
+    "title": "Data Engineer",
+    "active": true,
+    "date_updated": 1770392398,
+    "date_posted": 1770392398,
+    "url": "https://job-boards.greenhouse.io/generalatlantic/jobs/5688348004",
+    "locations": [
+      "London, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/General-Atlantic",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Procter & Gamble (P&G)",
+    "id": "ed18bef7-5355-4abe-9256-2aba0c560eee",
+    "title": "Knowledge Engineer/Scientist",
+    "active": true,
+    "date_updated": 1770391788,
+    "date_posted": 1770391788,
+    "url": "https://pg.wd5.myworkdayjobs.com/1000/job/MASON-BUS-AND-INNOVATION-CTR/Knowledge-Engineer-Scientist---PhD_R000145157",
+    "locations": [
+      "Mason, OH"
+    ],
+    "company_url": "https://simplify.jobs/c/Procter-Gamble-Company",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "PhD"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Procter & Gamble (P&G)",
+    "id": "610f98f3-60de-4179-b5cf-0812633acfb4",
+    "title": "Software Engineer",
+    "active": true,
+    "date_updated": 1770391789,
+    "date_posted": 1770391789,
+    "url": "https://pg.wd5.myworkdayjobs.com/1000/job/BROOKLANDS-GO/Software-Engineer_R000145016",
+    "locations": [
+      "Weybridge, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Procter-Gamble-Company",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "The Boeing Company",
+    "id": "9a56b3c7-2058-4137-9027-3e465f96bf11",
+    "title": "Software Engineer",
+    "active": true,
+    "date_updated": 1770391678,
+    "date_posted": 1770391678,
+    "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Tukwila-WA/Software-Engineer--Associate-or-Experienced-_JR2025470382-1",
+    "locations": [
+      "Tukwila, WA"
+    ],
+    "company_url": "https://simplify.jobs/c/Boeing",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
