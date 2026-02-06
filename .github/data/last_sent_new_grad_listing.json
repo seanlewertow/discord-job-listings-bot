@@ -96808,5 +96808,67 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Becton Dickinson",
+    "id": "b46cc64f-a5cc-4013-a449-9046f9c6336c",
+    "title": "Field Service Engineer",
+    "active": true,
+    "date_updated": 1770384345,
+    "date_posted": 1769471645,
+    "url": "https://bdx.wd1.myworkdayjobs.com/EXTERNAL_CAREER_SITE_USA/job/USA-MD---Sparks---39-Loveton-Circle/Field-Service-Engineer_R-537050",
+    "locations": [
+      "Sparks, MD"
+    ],
+    "company_url": "https://simplify.jobs/c/Becton-Dickinson",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Associate's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Walmart",
+    "id": "7587752c-1ec7-4d19-ac46-f4c7e9da56a2",
+    "title": "Senior Software Engineer",
+    "active": true,
+    "date_updated": 1770311719,
+    "date_posted": 1770311719,
+    "url": "https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/USA-Crossman-Respect-Building-CA-SUNNYVALE-Home-Office/Senior-Software-Engineer_R-2398024-1",
+    "locations": [
+      "Sunnyvale, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Walmart",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Baker Hughes",
+    "id": "c9d5d052-f7f0-4d54-8519-75c97dfa1c23",
+    "title": "Controls Software Engineer",
+    "active": true,
+    "date_updated": 1770386235,
+    "date_posted": 1766445096,
+    "url": "https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/GB-Ashby-de-la-Zouch-Power-House-Excelsior-Road/Controls-Software-Engineer_R158846",
+    "locations": [
+      "Derby, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Baker-Hughes",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
