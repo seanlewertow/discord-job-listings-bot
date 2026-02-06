@@ -97066,5 +97066,99 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Google",
+    "id": "d131f95c-8064-4b1a-9141-17335c27c794",
+    "title": "Software Engineer \u2013 Early Career - AI/ML - PhD",
+    "active": true,
+    "date_updated": 1770419262,
+    "date_posted": 1770419262,
+    "url": "https://www.google.com/about/careers/applications/jobs/results/92286686481785542",
+    "locations": [
+      "London, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Google",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "PhD"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Advanced Energy",
+    "id": "7df62b63-01d4-4de7-834b-2eac01d20607",
+    "title": "Electronics Service Technician 1",
+    "active": true,
+    "date_updated": 1770419397,
+    "date_posted": 1770419397,
+    "url": "https://jobs.advanced-energy.com/job/Fort-Collins-Electronics-Service-Technician-I-CO-80525/1349766000/?ats=successfactors",
+    "locations": [
+      "Fort Collins, CO"
+    ],
+    "company_url": "https://simplify.jobs/c/Advanced-Energy",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "796386b1-1a5a-4da7-8a98-b0aa8e7a75af",
+    "title": "Trading Assistant",
+    "active": true,
+    "date_updated": 1770419429,
+    "date_posted": 1770419429,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400048554",
+    "locations": [
+      "Gloucester, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Vertiv",
+    "id": "5a1dcd83-277f-4812-9718-ed337192acad",
+    "title": "Firmware Engineer",
+    "active": true,
+    "date_updated": 1770419497,
+    "date_posted": 1770419497,
+    "url": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20260492",
+    "locations": [
+      "Lincoln, NE"
+    ],
+    "company_url": "https://simplify.jobs/c/Vertiv",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "474e34a0-ff61-4411-9992-58a5507a7153",
+    "title": "Trading Assistant",
+    "active": true,
+    "date_updated": 1770419430,
+    "date_posted": 1770419430,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400048555",
+    "locations": [
+      "Gloucester, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
