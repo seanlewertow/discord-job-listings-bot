@@ -96380,5 +96380,104 @@
       "Bachelor's",
       "Master's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "6ace8225-775f-4f36-8dd8-2d1a8742d2db",
+    "title": "Trading Assistant - Shift",
+    "active": true,
+    "date_updated": 1770343730,
+    "date_posted": 1770343730,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400048436",
+    "locations": [
+      "Kelso, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "USAA",
+    "id": "4212aee2-c968-4286-9eb1-cb5b70bfa2e1",
+    "title": "Kafka Software Engineer Entry Level",
+    "active": true,
+    "date_updated": 1770343803,
+    "date_posted": 1770343803,
+    "url": "https://usaa.wd1.myworkdayjobs.com/en-US/USAAJOBSWD/job/Plano-Legacy/Kafka-Software-Engineer-Entry-Level_R0114747",
+    "locations": [
+      "Plano, TX",
+      "San Antonio, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/USAA",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "193a637f-cfd7-459f-94c0-6db7457c5ebb",
+    "title": "Trading Assistant - Shift",
+    "active": true,
+    "date_updated": 1770343733,
+    "date_posted": 1770343733,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400047306",
+    "locations": [
+      "Christchurch, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "RTX",
+    "id": "6d717f77-0df8-4239-b5c3-3407363916a4",
+    "title": "Systems Engineer 2",
+    "active": true,
+    "date_updated": 1770345427,
+    "date_posted": 1770345427,
+    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-TEWKSBURY-TB2--50-Apple-Hill-Dr--SUDBURY-BLDG-Tewksbury-Tb2-200-Sudbury/XMLNAME-2026---Fulltime-Systems-Engineer-II---Onsite_01821700",
+    "locations": [
+      "Massachusetts",
+      "Tewksbury, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/RTX",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Hewlett Packard Enterprise",
+    "id": "7e8ede78-047c-4fd2-9614-43c04fe00093",
+    "title": "Mechanical/Hardware Engineer",
+    "active": true,
+    "date_updated": 1770345029,
+    "date_posted": 1770345029,
+    "url": "https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Chippewa-Falls-Wisconsin-United-States-of-America/Mechanical-Hardware-Engineer_1202987",
+    "locations": [
+      "Eau Claire, WI"
+    ],
+    "company_url": "https://simplify.jobs/c/Hewlett-Packard-Enterprise",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
   }
 ]
