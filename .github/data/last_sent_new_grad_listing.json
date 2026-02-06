@@ -96870,5 +96870,103 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Cirrus Logic",
+    "id": "2f59b394-52fc-404b-9797-513b9cdecf4e",
+    "title": "Graduate Validation and Characterization Engineer",
+    "active": true,
+    "date_updated": 1770390524,
+    "date_posted": 1770390524,
+    "url": "https://jobs.eu.lever.co/cirrus/d10ffc0c-f8a0-4991-ab8d-1fbdb49d1140/apply",
+    "locations": [
+      "Edinburgh, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Cirrus-Logic",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "2f3af8d6-49b3-4f1e-b802-22f011d30b0c",
+    "title": "Trading Assistant",
+    "active": true,
+    "date_updated": 1770390610,
+    "date_posted": 1770390610,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400048503",
+    "locations": [
+      "Guildford, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Humanscale",
+    "id": "1ad2281d-c2ac-4f00-aafe-3b5475e5a366",
+    "title": "Product Engineer 1",
+    "active": true,
+    "date_updated": 1770390535,
+    "date_posted": 1770390535,
+    "url": "https://careers-humanscale.icims.com/jobs/4313/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Middlesex, NJ"
+    ],
+    "company_url": "https://simplify.jobs/c/Humanscale",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "18403295-91db-42ce-8cbc-897bd909cadf",
+    "title": "Trading Assistant",
+    "active": true,
+    "date_updated": 1770390607,
+    "date_posted": 1770390607,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400048505",
+    "locations": [
+      "Guildford, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "Achieve",
+    "id": "b229f231-3c33-47f1-a86e-b88687e270e9",
+    "title": "Associate Product Manager",
+    "active": true,
+    "date_updated": 1770390363,
+    "date_posted": 1770390363,
+    "url": "https://jobs.smartrecruiters.com/Achieve1/3743990011556985",
+    "locations": [
+      "Tempe, AZ"
+    ],
+    "company_url": "https://simplify.jobs/c/Achieve",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
