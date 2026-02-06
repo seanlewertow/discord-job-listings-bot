@@ -96748,5 +96748,65 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Philips",
+    "id": "ce7595b9-692b-4f55-b865-913e05ff1d2f",
+    "title": "Full Time \u2013 Field Engineer Program - Field Service Engineer - Washington D.C",
+    "active": true,
+    "date_updated": 1770379748,
+    "date_posted": 1769644957,
+    "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Washington-District-of-Columbia-United-States/Full-Time---Field-Engineer-Program--Field-Service-Engineer---Washington-DC---July-2026_574008",
+    "locations": [
+      "Washington, DC"
+    ],
+    "company_url": "https://simplify.jobs/c/Philips",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Morgan Stanley",
+    "id": "d39bb0ea-d7dc-4e21-9fd3-19af7cd82fe2",
+    "title": "Consultant - Associate - Tech Program Mgmt III",
+    "active": true,
+    "date_updated": 1770304820,
+    "date_posted": 1770304820,
+    "url": "https://ms.wd5.myworkdayjobs.com/private/job/Montreal-Canada/Consultant-conversion---Associate--Tech-Program-Mgmt-III_PT-JR029155",
+    "locations": [
+      "Montreal, QC, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Morgan-Stanley",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Uline",
+    "id": "1a4a9007-d083-4deb-8beb-2818ae2d594d",
+    "title": "Data Analyst",
+    "active": true,
+    "date_updated": 1770381292,
+    "date_posted": 1769029992,
+    "url": "https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/Data-Analyst_R260693-1",
+    "locations": [
+      "Waukegan, IL",
+      "Milwaukee, WI",
+      "Pleasant Prairie, WI",
+      "Morton Grove, IL",
+      "Kenosha, WI"
+    ],
+    "company_url": "https://simplify.jobs/c/Uline",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
