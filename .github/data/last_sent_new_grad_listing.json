@@ -97493,5 +97493,23 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Slack",
+    "id": "e69e08c5-0501-439b-b080-d37fceb75cae",
+    "title": "Software Engineer 1 - Product Backend",
+    "active": true,
+    "date_updated": 1770462047,
+    "date_posted": 1770161516,
+    "url": "https://salesforce.wd12.myworkdayjobs.com/Slack/job/North-Carolina---Raleigh/Software-Engineer-II---Product-Backend_JR327593",
+    "locations": [
+      "Raleigh, NC"
+    ],
+    "company_url": "https://simplify.jobs/c/Slack",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
