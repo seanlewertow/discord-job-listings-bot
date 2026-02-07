@@ -97384,5 +97384,58 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Thermo Fisher Scientific",
+    "id": "2dc42f08-6bb7-477c-adf8-cdfdbe909b36",
+    "title": "Field Service Engineer",
+    "active": true,
+    "date_updated": 1770458591,
+    "date_posted": 1770214098,
+    "url": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Remote-France/Field-Service-Engineer_R-01341803",
+    "locations": [
+      "Remote in UK",
+      "Remote in Italy",
+      "Remote in Germany",
+      "Remote in France"
+    ],
+    "company_url": "https://simplify.jobs/c/Thermo-Fisher-Scientific",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "MBA",
+      "PharmD",
+      "PhD",
+      "Associate's",
+      "JD",
+      "MD",
+      "Bootcamp",
+      "Certificate",
+      "Incomplete"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "Windfall",
+    "id": "23322c4f-1f5b-4bec-8934-56db01b3fb26",
+    "title": "Product Operations Analyst",
+    "active": true,
+    "date_updated": 1770458475,
+    "date_posted": 1761872702,
+    "url": "https://jobs.lever.co/windfalldata/5d6230b1-5130-41fa-8976-5d703cd81e48/apply",
+    "locations": [
+      "SF"
+    ],
+    "company_url": "https://simplify.jobs/c/Windfall-Data",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
