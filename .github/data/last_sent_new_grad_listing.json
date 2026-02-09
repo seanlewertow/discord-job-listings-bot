@@ -97948,5 +97948,43 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "fc515074-80e1-4e09-9d58-1d4bd8cd5a55",
+    "title": "Trading Assistant - Shift",
+    "active": true,
+    "date_updated": 1770621063,
+    "date_posted": 1770621063,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400048732",
+    "locations": [
+      "Midlothian, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "CivilGrid",
+    "id": "cdc4e083-a34f-4cd7-9893-cf0c92b0137d",
+    "title": "GIS Analyst 1",
+    "active": true,
+    "date_updated": 1770621151,
+    "date_posted": 1770621151,
+    "url": "https://jobs.ashbyhq.com/civilgrid/a81b2748-e239-4752-962d-b64316cb3382/application",
+    "locations": [
+      "Kansas City, MO"
+    ],
+    "company_url": "https://simplify.jobs/c/CivilGrid",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
