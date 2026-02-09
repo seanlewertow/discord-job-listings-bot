@@ -98243,5 +98243,100 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Black Box",
+    "id": "1d527ea4-0a5a-4c62-98bb-b433c55a281b",
+    "title": "Field Services Technician",
+    "active": true,
+    "date_updated": 1770678769,
+    "date_posted": 1770678769,
+    "url": "https://eoje.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/5570",
+    "locations": [
+      "Dallas, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Black-Box",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Sandisk",
+    "id": "00249866-3156-4312-97fa-0189bae479c8",
+    "title": "New College Graduate Engineer \u2013 Sr. Test engineering",
+    "active": true,
+    "date_updated": 1770678716,
+    "date_posted": 1770678716,
+    "url": "https://jobs.smartrecruiters.com/Sandisk/744000108284451",
+    "locations": [
+      "Milpitas, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Sandisk",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "General Dynamics Mission Systems",
+    "id": "2107e556-2903-4de1-b53f-aa760aa0c1c2",
+    "title": "Software Engineer \u2013 Entry Level for Crypto and Cross Domain Solutions",
+    "active": true,
+    "date_updated": 1770678591,
+    "date_posted": 1770678591,
+    "url": "https://careers-gdms.icims.com/jobs/70795/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Scottsdale, AZ"
+    ],
+    "company_url": "https://simplify.jobs/c/General-Dynamics-Mission-Systems",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "HEXAWARE",
+    "id": "3df7df28-e0dc-4be6-b4d6-daae4a220ec1",
+    "title": "Java Full Stack Engineer - Associate",
+    "active": true,
+    "date_updated": 1770678521,
+    "date_posted": 1770678521,
+    "url": "https://fa-etqo-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/594222",
+    "locations": [
+      "McLean, VA"
+    ],
+    "company_url": "https://simplify.jobs/c/HEXAWARE",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Keysight Technologies",
+    "id": "c05ff2aa-e665-4811-a4f2-d6d94e59b4d2",
+    "title": "Field Service Engineer - Entry",
+    "active": true,
+    "date_updated": 1770678315,
+    "date_posted": 1770678315,
+    "url": "https://jobs.keysight.com/jobs/49748?lang=en-us&icims=1",
+    "locations": [
+      "Richardson, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Keysight-Technologies-Inc",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
