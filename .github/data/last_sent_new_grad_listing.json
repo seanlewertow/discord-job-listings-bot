@@ -98735,5 +98735,103 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Teledyne",
+    "id": "a12e0a45-fe43-4961-804d-18caaceddd0b",
+    "title": "Assembly Technician",
+    "active": true,
+    "date_updated": 1770738009,
+    "date_posted": 1770738009,
+    "url": "https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Salem-MA/Assembly-Technician_REQ33193",
+    "locations": [
+      "Peabody, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/199b3c43-379a-408c-a6a8-980e79183038",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "The Boeing Company",
+    "id": "ea9923ec-86ab-4e53-a376-02d83a07f2c7",
+    "title": "Simulation Software Engineer \u2013 Entry level",
+    "active": true,
+    "date_updated": 1770737756,
+    "date_posted": 1770737756,
+    "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/GBR---Crawley-UK/Simulation-Software-Engineer--Entry-level-_JR2026495723-2",
+    "locations": [
+      "Crawley, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Boeing",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Sierra Nevada Corporation",
+    "id": "de8d8454-0475-4362-9604-166b310b5056",
+    "title": "Business Intelligence Developer 1",
+    "active": true,
+    "date_updated": 1770737727,
+    "date_posted": 1770737727,
+    "url": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Hagerstown-MD/Business-Intelligence-Developer-I_R0029315",
+    "locations": [
+      "Hagerstown, MD"
+    ],
+    "company_url": "https://simplify.jobs/c/Sierra-Nevada-Corporation",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "Raymond James Financial",
+    "id": "35fdb3f7-7975-471e-8620-141add484f15",
+    "title": "Senior Product Consultant - RJ Bank Operations",
+    "active": true,
+    "date_updated": 1770737737,
+    "date_posted": 1770737737,
+    "url": "https://raymondjames.wd1.myworkdayjobs.com/RaymondJamesCareers/job/Saint-Petersburg-Florida---United-States/Sr-Product-Consultant---RJ-Bank-Operations_R-0009462",
+    "locations": [
+      "St. Petersburg, FL"
+    ],
+    "company_url": "https://simplify.jobs/c/Raymond-James-Financial",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Rogers Behavioral Health",
+    "id": "1f206c0f-c5a8-47fa-9498-6e3a957ce6b2",
+    "title": "Therapist - PHP/Iop",
+    "active": true,
+    "date_updated": 1770737821,
+    "date_posted": 1770737821,
+    "url": "https://rogersbh.wd1.myworkdayjobs.com/rbhcareer/job/Brown-Deer-Area/Therapist---PHP-IOP_R6259-1",
+    "locations": [
+      "Brown Deer, WI"
+    ],
+    "company_url": "https://simplify.jobs/c/b92a810e-00da-4d83-9a36-b7d609699d59",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Master's"
+    ]
   }
 ]
