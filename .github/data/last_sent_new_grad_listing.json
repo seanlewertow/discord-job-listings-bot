@@ -98437,5 +98437,108 @@
       "Bachelor's",
       "Associate's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "Deutsche Bank",
+    "id": "ed2b1a96-cf2e-4cbb-847f-31c3943c6ec2",
+    "title": "Product Management Specialist - Client Solutions Latam",
+    "active": true,
+    "date_updated": 1770689596,
+    "date_posted": 1770689596,
+    "url": "https://db.wd3.myworkdayjobs.com/DBWebsite/job/New-York-1-Columbus-Circle/Product-Management-Specialist---Client-Solutions-LatAM_R0422458",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Deutsche-Bank",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "MBA",
+      "PhD"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Goldman Sachs",
+    "id": "e11fe3c1-32c0-47f9-b850-76c2704f180d",
+    "title": "FICC & Equities - Sales & Trading",
+    "active": true,
+    "date_updated": 1770689487,
+    "date_posted": 1770689487,
+    "url": "https://higher.gs.com/roles/159899",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Goldman-Sachs",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Applied Materials",
+    "id": "15aa5a64-af85-4d54-8f9b-89634ac9af19",
+    "title": "Software Engineer - New College Grad-Master's",
+    "active": true,
+    "date_updated": 1770691882,
+    "date_posted": 1770691882,
+    "url": "https://amat.wd1.myworkdayjobs.com/External/job/ChandlerAZ/Software-Engineer--New-College-Grad--Master-s--Chandler--AZ-_R2612590",
+    "locations": [
+      "Chandler, AZ"
+    ],
+    "company_url": "https://simplify.jobs/c/Applied-Materials",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "RTX",
+    "id": "fd1fdbe1-1b62-405e-9462-e64a85354dcf",
+    "title": "Fulltime-Systems Engineer 1",
+    "active": true,
+    "date_updated": 1770690660,
+    "date_posted": 1770690660,
+    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-MCKINNEY-513PW--2501-W-University-Dr--PW-BLDG/XMLNAME-2026--Fulltime-Systems-Engineer-I--Onsite_01821685",
+    "locations": [
+      "McKinney, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/RTX",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Captivation",
+    "id": "bde2fe2c-86f8-41bc-bb4b-c8591318433b",
+    "title": "Software Engineer 1 - AI/ML/Terraform/AWS/C++/Python/Golang",
+    "active": true,
+    "date_updated": 1770690737,
+    "date_posted": 1768606172,
+    "url": "https://job-boards.greenhouse.io/captivation/jobs/5074713008",
+    "locations": [
+      "Annapolis Junction, MD"
+    ],
+    "company_url": "https://simplify.jobs/c/Captivation",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
