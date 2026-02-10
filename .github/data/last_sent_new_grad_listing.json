@@ -98659,5 +98659,41 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "bd8044ec-00b0-45e6-8812-a77e188d252a",
+    "title": "Trading Assistant - Shift",
+    "active": true,
+    "date_updated": 1770719222,
+    "date_posted": 1770719222,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400048870",
+    "locations": [
+      "Chesterfield, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "9189c6e7-f4e8-4741-bb12-d849c5491d20",
+    "title": "Trading Assistant - Shift",
+    "active": true,
+    "date_updated": 1770719219,
+    "date_posted": 1770719219,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400048868",
+    "locations": [
+      "Chesterfield, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
