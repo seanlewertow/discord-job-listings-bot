@@ -98338,5 +98338,104 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "qode.world",
+    "id": "42b1e39f-9ee8-4cba-b005-e1dfa20906bc",
+    "title": "Associate Data Engineer",
+    "active": true,
+    "date_updated": 1770679123,
+    "date_posted": 1770679123,
+    "url": "https://apply.workable.com/qodeworld/j/B784968D17/apply",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Qode-World",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Takeda",
+    "id": "376b79a9-20e5-44b0-9843-ec92b0fe5b6e",
+    "title": "Data Engineer Professional 1",
+    "active": true,
+    "date_updated": 1770679664,
+    "date_posted": 1770679664,
+    "url": "https://takeda.wd3.myworkdayjobs.com/external/job/MEX---Santa-Fe/Data-Engineer-Professional-I_R0173646",
+    "locations": [
+      "Santa Fe, NM"
+    ],
+    "company_url": "https://simplify.jobs/c/Takeda",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "KLA Corporation",
+    "id": "a05c2ca2-9851-4f2a-9cf6-1b4b4dba45fe",
+    "title": "Optical Metrology Engineer",
+    "active": true,
+    "date_updated": 1770679507,
+    "date_posted": 1765623756,
+    "url": "https://kla.wd1.myworkdayjobs.com/search/job/Milpitas-CA/Manufacturing-Design-Engineer---Optics-Metrology_2531534",
+    "locations": [
+      "Milpitas, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/KLA-Corporation",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Comcast",
+    "id": "14befacf-e6ba-42ce-a9fd-315db54e9870",
+    "title": "Support Engineer",
+    "active": true,
+    "date_updated": 1770681658,
+    "date_posted": 1770681658,
+    "url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/NY---New-York-1407-Broadway-Floor-12/Support-Engineer_R430445",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Comcast",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Integer Holdings Corporation",
+    "id": "a3f19f84-1482-44db-88c2-ef03ad1d8d52",
+    "title": "Engineering Technician",
+    "active": true,
+    "date_updated": 1770681394,
+    "date_posted": 1770681394,
+    "url": "https://integer.wd1.myworkdayjobs.com/External/job/Salem-VA/Engineering-Technician_R34172",
+    "locations": [
+      "Roanoke, VA"
+    ],
+    "company_url": "https://simplify.jobs/c/Integer-Holdings-Corporation",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Associate's"
+    ]
   }
 ]
