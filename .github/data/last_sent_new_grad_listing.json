@@ -98833,5 +98833,103 @@
     "degrees": [
       "Master's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Quanta Services",
+    "id": "e1d138c5-1a23-4e6a-a5d5-a7d44327fb02",
+    "title": "Low Voltage Technician--Savannah - Georgia",
+    "active": true,
+    "date_updated": 1770764849,
+    "date_posted": 1770764849,
+    "url": "https://careers-quanta.icims.com/jobs/13634/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Buford, GA"
+    ],
+    "company_url": "https://simplify.jobs/c/Quanta-Services",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Kimley-Horn",
+    "id": "da3253dc-7532-43d6-b333-af0febfa1059",
+    "title": "GIS Analyst",
+    "active": true,
+    "date_updated": 1770764855,
+    "date_posted": 1770764855,
+    "url": "https://careers-kimley-horn.icims.com/jobs/22357/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Fort Lauderdale, FL"
+    ],
+    "company_url": "https://simplify.jobs/c/Kimley-Horn",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "University of Southern California",
+    "id": "a62ab072-4566-40f7-9cf6-4def3f575a78",
+    "title": "Database Analyst 1",
+    "active": true,
+    "date_updated": 1770764566,
+    "date_posted": 1770764566,
+    "url": "https://usc.wd5.myworkdayjobs.com/ExternalUSCCareers/job/Los-Angeles-CA---University-Park-Campus/Database-Analyst-I_REQ20171910",
+    "locations": [
+      "LA"
+    ],
+    "company_url": "https://simplify.jobs/c/University-Of-Southern-California",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "PennState University",
+    "id": "8491157e-ce81-4f76-baab-038206c23ae6",
+    "title": "Data Extraction Programmer",
+    "active": true,
+    "date_updated": 1770764595,
+    "date_posted": 1770764595,
+    "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Part-Time-Data-Extraction-Programming_REQ_0000075672-1",
+    "locations": [
+      "State College, PA"
+    ],
+    "company_url": "https://simplify.jobs/c/Penn-State",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Thumbtack",
+    "id": "6a69e572-1b75-49a8-b0b8-f0622a692e0c",
+    "title": "Data Scientist 1 - Monetization & Pricing",
+    "active": true,
+    "date_updated": 1770765639,
+    "date_posted": 1768956646,
+    "url": "https://job-boards.greenhouse.io/thumbtack/jobs/7545111",
+    "locations": [
+      "Remote in Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Thumbtack",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "PhD"
+    ]
   }
 ]
