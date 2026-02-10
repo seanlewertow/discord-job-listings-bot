@@ -98641,5 +98641,23 @@
       "Bachelor's",
       "Master's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "ION Group",
+    "id": "8756c089-fbac-4da2-ae9e-8ff53a99e16c",
+    "title": "iOS Engineer",
+    "active": true,
+    "date_updated": 1770715096,
+    "date_posted": 1770333170,
+    "url": "https://jobs.lever.co/ion/2d916f0e-4c8d-4d00-86cd-240b1fa38f30/apply",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/ION-Group",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
