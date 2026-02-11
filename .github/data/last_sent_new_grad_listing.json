@@ -99086,5 +99086,46 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "IEM",
+    "id": "05593cfc-a9e3-4f81-8bd6-57bbd3a99311",
+    "title": "Engineering Administrator",
+    "active": true,
+    "date_updated": 1770776887,
+    "date_posted": 1770766297,
+    "url": "https://job-boards.greenhouse.io/industrialelectricmanufacturing/jobs/4129298009",
+    "locations": [
+      "Tualatin, OR"
+    ],
+    "company_url": "https://simplify.jobs/c/IEM",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Goldman Sachs",
+    "id": "6b46f053-a3ec-486e-98a9-552967da322b",
+    "title": "Global Markets Trading Platform Engineering - GBM Public - Associate implementation placeholder",
+    "active": true,
+    "date_updated": 1770803671,
+    "date_posted": 1770419751,
+    "url": "https://higher.gs.com/roles/161601",
+    "locations": [
+      "Dallas, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Goldman-Sachs",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
   }
 ]
