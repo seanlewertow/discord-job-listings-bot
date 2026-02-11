@@ -99127,5 +99127,99 @@
       "Bachelor's",
       "Master's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "be37b2c1-3684-4323-a7b0-0b29c3b4fe6f",
+    "title": "Trading Assistant - Shift",
+    "active": true,
+    "date_updated": 1770805811,
+    "date_posted": 1770805811,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400048651",
+    "locations": [
+      "Bristol, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "8c3d2d63-5d58-4fb0-9fd0-38c11d44cef3",
+    "title": "Trading Assistant",
+    "active": true,
+    "date_updated": 1770805816,
+    "date_posted": 1770805816,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400048949",
+    "locations": [
+      "Crawley, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "85daa521-7d51-432c-89cd-c190dfa7c304",
+    "title": "Trading Assistant",
+    "active": true,
+    "date_updated": 1770805816,
+    "date_posted": 1770805816,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400048947",
+    "locations": [
+      "Crawley, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Howmet Aerospace",
+    "id": "47695da9-b23d-4956-b087-1a7460295402",
+    "title": "Data Analyst",
+    "active": true,
+    "date_updated": 1770805779,
+    "date_posted": 1770805779,
+    "url": "https://fa-exty-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/116117",
+    "locations": [
+      "Wichita County, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Howmet-Aerospace",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "PhD"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "42f1b3be-602e-4d82-bd6a-f1edd6569c07",
+    "title": "Trading Assistant",
+    "active": true,
+    "date_updated": 1770805813,
+    "date_posted": 1770805813,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400048991",
+    "locations": [
+      "Harrogate, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
