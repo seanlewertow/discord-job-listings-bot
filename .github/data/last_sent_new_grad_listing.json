@@ -99221,5 +99221,79 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Goucher College",
+    "id": "734df251-0f3a-4f10-93be-2f5857dd4240",
+    "title": "Data Analyst/Programmer",
+    "active": true,
+    "date_updated": 1770810639,
+    "date_posted": 1770736441,
+    "url": "https://goucher.wd1.myworkdayjobs.com/Goucher_Careers/job/Goucher-College-Campus/Data-Analyst-Programmer_R-0000000720",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/Goucher-College",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "The Boeing Company",
+    "id": "84c7a093-631d-4f94-9cfa-798e9da33c5e",
+    "title": "Entry-Level or Associate Product Review Engineer - Liaison Engineering - B/C Shift",
+    "active": true,
+    "date_updated": 1770766979,
+    "date_posted": 1770766979,
+    "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Huntsville-AL/Entry-Level-or-Associate-Product-Review-Engineer--Liaison-Engineering---B-C-Shift----Patriot-Advanced-Capability-3--PAC-3-_JR2026495904-1",
+    "locations": [
+      "Huntsville, AL"
+    ],
+    "company_url": "https://simplify.jobs/c/Boeing",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Husqvarna Group",
+    "id": "8100be62-a30f-41ba-a41f-539948f8a734",
+    "title": "Workshop Technician",
+    "active": true,
+    "date_updated": 1770813775,
+    "date_posted": 1770813775,
+    "url": "https://husqvarnagroup.wd3.myworkdayjobs.com/External_Career_Site/job/Newton-Aycliffe/Workshop-Technician_R-16082",
+    "locations": [
+      "Durham, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Husqvarna-Group",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "SHI International ",
+    "id": "71df7a95-7c8c-4560-9e8e-17b2235bcaf3",
+    "title": "Data Integrity Administrator",
+    "active": true,
+    "date_updated": 1770815623,
+    "date_posted": 1770421931,
+    "url": "https://shi.wd12.myworkdayjobs.com/shicareers/job/Milton-Keynes-United-Kingdom/Data-Integrity-Administrator_JR2544",
+    "locations": [
+      "Milton Keynes, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/SHI-International",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Associate's"
+    ]
   }
 ]
