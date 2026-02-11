@@ -99432,5 +99432,103 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Markon",
+    "id": "69a45f0c-60bf-4ea6-814b-eba6de8a31d6",
+    "title": "Software Engineer Level 0",
+    "active": true,
+    "date_updated": 1770851529,
+    "date_posted": 1770851529,
+    "url": "https://careers-markon.icims.com/jobs/8107/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Odenton, MD"
+    ],
+    "company_url": "https://simplify.jobs/c/Markon",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Seagate Technology ",
+    "id": "86d01f32-8c89-49b7-a09b-6dcc170f0117",
+    "title": "Test Process Firmware Engineer  Early Career",
+    "active": true,
+    "date_updated": 1770851323,
+    "date_posted": 1770851323,
+    "url": "https://seagatecareers.com/job/Longmont-Test-Process-Firmware-Engineer-Early-Career-CO-80501/1364038500/?ats=successfactors",
+    "locations": [
+      "Longmont, CO"
+    ],
+    "company_url": "https://simplify.jobs/c/Seagate-Technology",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "PennState University",
+    "id": "ebeaaeb3-5375-4984-b049-2834f6d0292f",
+    "title": "Research Assistant",
+    "active": true,
+    "date_updated": 1770850993,
+    "date_posted": 1770850993,
+    "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Research-Assistant_REQ_0000075541-1",
+    "locations": [
+      "Pennsylvania"
+    ],
+    "company_url": "https://simplify.jobs/c/Penn-State",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "PennState University",
+    "id": "c78ab6b6-f92c-4ba0-89ff-30d9473602c0",
+    "title": "Part Time \u2013 Artificial Intelligence - Non-Credit Instructor",
+    "active": true,
+    "date_updated": 1770850932,
+    "date_posted": 1770850932,
+    "url": "https://psu.wd1.myworkdayjobs.com/PSU_Academic/job/Penn-State-Berks/Part-Time---Artificial-Intelligence---Non-Credit-Instructor_REQ_0000075709-2",
+    "locations": [
+      "Reading, PA"
+    ],
+    "company_url": "https://simplify.jobs/c/Penn-State",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "PennState University",
+    "id": "bc3e7acc-78c2-4aef-a244-c8e99635b0ca",
+    "title": "Part Time \u2013 Artificial Intelligence - Non-Credit Instructor",
+    "active": true,
+    "date_updated": 1770850975,
+    "date_posted": 1770850975,
+    "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-Berks/Part-Time---Artificial-Intelligence---Non-Credit-Instructor_REQ_0000075709-1",
+    "locations": [
+      "Reading, PA"
+    ],
+    "company_url": "https://simplify.jobs/c/Penn-State",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
