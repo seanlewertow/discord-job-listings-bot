@@ -99923,5 +99923,63 @@
       "Bachelor's",
       "Associate's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Caterpillar Inc.",
+    "id": "1265c333-e385-44ba-a466-af823cf1bdc3",
+    "title": "Test and Validation Graduate Engineer",
+    "active": true,
+    "date_updated": 1770901404,
+    "date_posted": 1770901404,
+    "url": "https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Desford-United-Kingdom/Test-and-Validation-Graduate-Engineer_R0000323095",
+    "locations": [
+      "Leicester, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Caterpillar-Inc",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Airbus",
+    "id": "f54427fc-c50e-49b0-9461-fb2aeee8d649",
+    "title": "Cabin Installer",
+    "active": true,
+    "date_updated": 1770854491,
+    "date_posted": 1770854491,
+    "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Mobile-Area-AL/Cabin-Installer_JR10389180",
+    "locations": [
+      "Mobile, AL"
+    ],
+    "company_url": "https://simplify.jobs/c/Airbus",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "AeroVironment",
+    "id": "9c231176-4d7c-44d9-a84f-b1391ec58cd5",
+    "title": "Product Engineer 1",
+    "active": true,
+    "date_updated": 1770900907,
+    "date_posted": 1764729519,
+    "url": "https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Huntsville-AL/Product-Engineer-II-_6245",
+    "locations": [
+      "Huntsville, AL"
+    ],
+    "company_url": "https://simplify.jobs/c/AeroVironment",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
