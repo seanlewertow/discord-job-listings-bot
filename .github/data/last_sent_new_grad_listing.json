@@ -100162,5 +100162,105 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "4385b498-0723-4457-88f2-ec258975db46",
+    "title": "Trading Assistant",
+    "active": true,
+    "date_updated": 1770938061,
+    "date_posted": 1770938061,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400049277",
+    "locations": [
+      "Southampton, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Bowhead",
+    "id": "609da8a7-d6b2-45e8-8406-42a86309b5af",
+    "title": "Computer Engineer",
+    "active": true,
+    "date_updated": 1770937677,
+    "date_posted": 1770937677,
+    "url": "https://bowheadcareers-uicalaska.icims.com/jobs/24638/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Bedford, IN"
+    ],
+    "company_url": "https://simplify.jobs/c/Bowhead",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "Coinbase",
+    "id": "2f30d97c-c548-477c-a5ec-4a4561abc721",
+    "title": "Product Manager 1 - Institutional Staking",
+    "active": true,
+    "date_updated": 1770937653,
+    "date_posted": 1770937653,
+    "url": "https://boards.greenhouse.io/embed/job_app?token=7588994",
+    "locations": [
+      "United States"
+    ],
+    "company_url": "https://simplify.jobs/c/Coinbase",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Visa",
+    "id": "a092a1d7-f6c9-4a22-8805-01e7f6f76983",
+    "title": "Software Engineer",
+    "active": true,
+    "date_updated": 1770937540,
+    "date_posted": 1770937540,
+    "url": "https://jobs.smartrecruiters.com/Visa/744000109091355",
+    "locations": [
+      "San Mateo, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Visa",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "MBA",
+      "JD",
+      "MD"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Iowa State University",
+    "id": "2292d55e-3cda-45c9-9d4f-74aec6b6b269",
+    "title": "Postdoc Research Associate",
+    "active": true,
+    "date_updated": 1770937364,
+    "date_posted": 1770937364,
+    "url": "https://isu.wd1.myworkdayjobs.com/IowaStateJobs/job/BLACK---Black-Engineering-Bldg/Postdoc-Research-Associate---Artificial-Intelligence-Institute-for-Resilient-Agriculture_R18635",
+    "locations": [
+      "Ames, IA"
+    ],
+    "company_url": "https://simplify.jobs/c/Iowa-State-University",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "PhD"
+    ]
   }
 ]
