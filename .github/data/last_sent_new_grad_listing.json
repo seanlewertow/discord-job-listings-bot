@@ -99981,5 +99981,105 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Cox",
+    "id": "bc3ddf5c-8666-4935-bc2f-2e95ccc67899",
+    "title": "Software Engineer 1",
+    "active": true,
+    "date_updated": 1770911156,
+    "date_posted": 1770911156,
+    "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Irvine-CA/Software-Engineer-I_R202673070",
+    "locations": [
+      "Irvine, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Cox",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Amentum",
+    "id": "5d36bf32-a0e9-42c2-9a6c-cf027fdb72ce",
+    "title": "Entry Configuration Management Engineering Technician",
+    "active": true,
+    "date_updated": 1770911186,
+    "date_posted": 1770911186,
+    "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-FL-Kennedy-Space-Center/Entry-Configuration-Management-Engineering-Technician_R0154006",
+    "locations": [
+      "Florida"
+    ],
+    "company_url": "https://simplify.jobs/c/Amentum",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Cubic",
+    "id": "746e307f-9044-482f-8294-bf9d1e41e388",
+    "title": "Field Service Technician",
+    "active": true,
+    "date_updated": 1770910431,
+    "date_posted": 1770910431,
+    "url": "https://cubic.wd1.myworkdayjobs.com/cubic_global_careers/job/Kingswinford/Field-Service-Technican_REQ_47269",
+    "locations": [
+      "Birmingham, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Cubic",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Certificate"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "RTX",
+    "id": "5f49884a-b451-4297-9d6e-55d11e5d7164",
+    "title": "Software Engineer 1",
+    "active": true,
+    "date_updated": 1770910275,
+    "date_posted": 1770910275,
+    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-FULLERTON-675--1801-Hughes-Dr--BLDG-675/Software-Engineer-I--Onsite_01823376",
+    "locations": [
+      "Anaheim, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/RTX",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Brown Brothers Harriman",
+    "id": "edb4781c-da69-410a-96c5-925966d46ae0",
+    "title": "Systems Programmer Analyst - .Net",
+    "active": true,
+    "date_updated": 1770909597,
+    "date_posted": 1770909597,
+    "url": "https://bbh.wd5.myworkdayjobs.com/en-US/BBH/job/Boston/Junior-Java-Developer_68763",
+    "locations": [
+      "Boston, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/8daaaedd-ec77-45a3-ab9c-dc153ae865ed",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
