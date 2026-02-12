@@ -99745,5 +99745,98 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Major League Baseball",
+    "id": "c5231ba7-e5af-41b7-842f-1a421492c8bb",
+    "title": "SABR Analytics Conference Attendee",
+    "active": true,
+    "date_updated": 1770889592,
+    "date_posted": 1765042583,
+    "url": "https://www.mlb.com/careers/opportunities?gh_jid=7449587",
+    "locations": [
+      "Phoenix, AZ"
+    ],
+    "company_url": "https://simplify.jobs/c/MLB",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "d0566368-18ed-4ef2-9151-c6deddfc97ce",
+    "title": "Trading Assistant",
+    "active": true,
+    "date_updated": 1770892076,
+    "date_posted": 1770892076,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400048647",
+    "locations": [
+      "Tunbridge Wells, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "09c8cacf-e1e0-4a75-98c1-d9b69194596c",
+    "title": "Trading Assistant - Shift",
+    "active": true,
+    "date_updated": 1770892079,
+    "date_posted": 1770892079,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400049134",
+    "locations": [
+      "Southampton, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "QuinStreet",
+    "id": "aa35a7a8-19f5-4183-9fcf-feaea5431942",
+    "title": "Entry Level Software Engineer",
+    "active": true,
+    "date_updated": 1770891977,
+    "date_posted": 1770777440,
+    "url": "https://www.quinstreet.com/careers/?gh_jid=7605753",
+    "locations": [
+      "San Mateo, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/QuinStreet",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "RWS",
+    "id": "c6a814ce-9a21-4dbd-9637-32f194a35f8c",
+    "title": "Search Quality Rater - English - Indiana",
+    "active": true,
+    "date_updated": 1770891230,
+    "date_posted": 1767395963,
+    "url": "https://jobs.lever.co/rws/2c082054-6a8a-4ce9-a8b7-9237904195e9/apply",
+    "locations": [
+      "Indianapolis, IN"
+    ],
+    "company_url": "https://simplify.jobs/c/RWS",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
