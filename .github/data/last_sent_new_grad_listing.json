@@ -100885,5 +100885,105 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Latitude AI",
+    "id": "6407fee1-4171-49c0-8835-a615947a4a09",
+    "title": "Software Engineer 1",
+    "active": true,
+    "date_updated": 1770997304,
+    "date_posted": 1770997304,
+    "url": "https://job-boards.greenhouse.io/latitude/jobs/7611239",
+    "locations": [
+      "Pittsburgh, PA"
+    ],
+    "company_url": "https://simplify.jobs/c/LatitudeAI",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Latitude AI",
+    "id": "55f2f604-8d91-47e4-8f99-02c927efbb3f",
+    "title": "Hardware Engineer 1",
+    "active": true,
+    "date_updated": 1770997302,
+    "date_posted": 1770997302,
+    "url": "https://job-boards.greenhouse.io/latitude/jobs/7611153",
+    "locations": [
+      "Palo Alto, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/LatitudeAI",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Expedia Group",
+    "id": "a9cfed70-97cd-4343-8122-59d97f62cf73",
+    "title": "Data Scientist 1 - Vrbo Brand Analytics",
+    "active": true,
+    "date_updated": 1770996995,
+    "date_posted": 1770996995,
+    "url": "https://expedia.wd108.myworkdayjobs.com/private/job/UK---London/Data-Scientist-I--Vrbo-Brand-Analytics_R-101883-1",
+    "locations": [
+      "London, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Expedia-Group",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Expedia Group",
+    "id": "8ff8a95c-1caa-4347-b08b-f1fab22ba31f",
+    "title": "Software Development Engineer 1",
+    "active": true,
+    "date_updated": 1770996973,
+    "date_posted": 1770996973,
+    "url": "https://expedia.wd108.myworkdayjobs.com/private/job/UK---London/Software-Development-Engineer-I_R-97728-2",
+    "locations": [
+      "London, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Expedia-Group",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Astreya",
+    "id": "f4948db8-768f-462c-a5fd-6bf138ac4b3d",
+    "title": "Fiber Network Mapping Specialist 4",
+    "active": true,
+    "date_updated": 1770996583,
+    "date_posted": 1770996583,
+    "url": "https://astreya.wd5.myworkdayjobs.com/life-at-astreya-opportunities/job/Remote-CO/Fiber-Network-Mapping-Specialist-IV_R0014264",
+    "locations": [
+      "Denver, CO"
+    ],
+    "company_url": "https://simplify.jobs/c/Astreya",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
