@@ -101003,5 +101003,104 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "The Travelers Companies",
+    "id": "a0636acb-9cb9-49ff-90bb-59af98daaa54",
+    "title": "Software Engineer 1",
+    "active": true,
+    "date_updated": 1771024153,
+    "date_posted": 1771024153,
+    "url": "https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Software-Engineer-I_R-49164",
+    "locations": [
+      "Hartford, CT"
+    ],
+    "company_url": "https://simplify.jobs/c/Travelers",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Ford Motor Company",
+    "id": "3b146bc7-cebc-41fd-9551-84b4511b6350",
+    "title": "Embedded Software Engineer",
+    "active": true,
+    "date_updated": 1771024081,
+    "date_posted": 1771024081,
+    "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/58937",
+    "locations": [
+      "Plantation, FL"
+    ],
+    "company_url": "https://simplify.jobs/c/Ford-Motor-Company",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "ServiceNow",
+    "id": "5d6e61d0-1989-412f-8bde-96f048dc70c0",
+    "title": "Software Engineer",
+    "active": true,
+    "date_updated": 1771023936,
+    "date_posted": 1771023936,
+    "url": "https://jobs.smartrecruiters.com/ServiceNow/744000109290675",
+    "locations": [
+      "Santa Clara, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/ServiceNow",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Badger Meter",
+    "id": "398d32df-56b5-4dc4-aa78-f05db472bf0e",
+    "title": "Software Engineer 1",
+    "active": true,
+    "date_updated": 1771024001,
+    "date_posted": 1771024001,
+    "url": "https://badgermeter.wd5.myworkdayjobs.com/US_CareerSite/job/Los-Gatos-CA/Software-Engineer-I_4234",
+    "locations": [
+      "Los Gatos, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Badger-Meter",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "University of Texas - Austin",
+    "id": "ae3ba0ad-98fe-4063-b152-711d3b698585",
+    "title": "Software Development Associate",
+    "active": true,
+    "date_updated": 1771023767,
+    "date_posted": 1771023767,
+    "url": "https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/PICKLE-RESEARCH-CAMPUS/Software-Development-Associate_R_00044438",
+    "locations": [
+      "Austin, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/University-Of-Texas-Austin",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
