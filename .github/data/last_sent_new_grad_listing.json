@@ -100792,5 +100792,98 @@
       "Master's",
       "PhD"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "7e96e0d5-d652-4389-9c22-19b39daa178a",
+    "title": "Trading Assistant",
+    "active": true,
+    "date_updated": 1770995503,
+    "date_posted": 1770995503,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400049315",
+    "locations": [
+      "Aylesbury, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "5e92d146-160b-4511-9c6e-e2fbcea1cb1d",
+    "title": "Trading Assistant",
+    "active": true,
+    "date_updated": 1770995500,
+    "date_posted": 1770995500,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400049120",
+    "locations": [
+      "Glasgow, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "55b25405-dfed-4903-960c-b1c077e3fca4",
+    "title": "Trading Assistant",
+    "active": true,
+    "date_updated": 1770995501,
+    "date_posted": 1770995501,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400049352",
+    "locations": [
+      "Glasgow, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "4a0998ef-507e-4b10-8000-78388039e1eb",
+    "title": "Trading Assistant",
+    "active": true,
+    "date_updated": 1770995508,
+    "date_posted": 1770995508,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400049324",
+    "locations": [
+      "Durham, UK",
+      "Thirsk, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "Google",
+    "id": "3f6d42a1-35fe-4f13-9b8a-614337f6043c",
+    "title": "Product Manager 1",
+    "active": true,
+    "date_updated": 1770995326,
+    "date_posted": 1770995326,
+    "url": "https://www.google.com/about/careers/applications/jobs/results/125001164612608710",
+    "locations": [
+      "SF"
+    ],
+    "company_url": "https://simplify.jobs/c/Google",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
