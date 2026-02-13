@@ -100597,5 +100597,25 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Daifuku",
+    "id": "2ceffd3a-5475-4907-ae72-9a5d08ffbf82",
+    "title": "Installation Quality Control Specialist 1",
+    "active": true,
+    "date_updated": 1770974812,
+    "date_posted": 1768955816,
+    "url": "https://careers-daifuku-america.icims.com/jobs/20949/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Woodridge, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/Daifuku",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
