@@ -100617,5 +100617,99 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "RTX",
+    "id": "90b99fdd-be6e-4d31-ae91-a45565bf732a",
+    "title": "Electronics Technician",
+    "active": true,
+    "date_updated": 1769269306,
+    "date_posted": 1769269306,
+    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-ON-MIDLAND-450--450-Leitz-Rd--450-BLDG/Electronics-Technician_01760488",
+    "locations": [
+      "Barrie, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/RTX",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Amazon",
+    "id": "4df52417-0b3d-4ded-8098-59be4275e92b",
+    "title": "Data Center Engineering Operations Technician",
+    "active": true,
+    "date_updated": 1770975697,
+    "date_posted": 1766542644,
+    "url": "https://amazon.jobs/en/jobs/3148794/data-center-engineering-operations-technician",
+    "locations": [
+      "Hermiston, OR"
+    ],
+    "company_url": "https://simplify.jobs/c/Amazon",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Amazon",
+    "id": "8d34455c-555d-4ac0-adfe-a5d47a573f3b",
+    "title": "Data Center Engineering Operations Technician",
+    "active": true,
+    "date_updated": 1770975697,
+    "date_posted": 1766542084,
+    "url": "https://amazon.jobs/en/jobs/3148803/data-center-engineering-operations-technician",
+    "locations": [
+      "Hermiston, OR"
+    ],
+    "company_url": "https://simplify.jobs/c/Amazon",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Hawk-Eye Innovations",
+    "id": "5a770fe4-d97b-4197-9b54-a56a4dfa4e53",
+    "title": "Kinatrax Operator",
+    "active": true,
+    "date_updated": 1770976500,
+    "date_posted": 1766140001,
+    "url": "https://jobs.ashbyhq.com/hawkeyeinnovations/9f35a50b-0ddc-40f7-b348-b9144add5f13/application",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/Hawk-Eye-Innovations",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "ByteDance",
+    "id": "67f6c661-271f-4ca1-bb98-726a82f22d0c",
+    "title": "Payroll Data Analyst - Hrop - Ams",
+    "active": true,
+    "date_updated": 1770977017,
+    "date_posted": 1761909915,
+    "url": "https://jobs.bytedance.com/en/position/7499217669146478856/detail",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/ByteDance",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
