@@ -100405,5 +100405,105 @@
       "Master's",
       "PhD"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "1X",
+    "id": "31b75032-5716-4ada-b3a9-eb072b815fc7",
+    "title": "Robot Operator - Swing Shift",
+    "active": true,
+    "date_updated": 1770948709,
+    "date_posted": 1770948709,
+    "url": "https://1x.recruitee.com/o/robot-operator-swing-shift",
+    "locations": [
+      "Palo Alto, CA",
+      "San Carlos, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/1x",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "0ca1b271-4261-401c-b158-446a05f23973",
+    "title": "Trading Assistant - Shift",
+    "active": true,
+    "date_updated": 1770948734,
+    "date_posted": 1770948734,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400049279",
+    "locations": [
+      "Cambridge, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Anduril",
+    "id": "fd13c0b8-1391-4ef9-93c7-ddd1da098dc1",
+    "title": "Early Career Software Engineer - Mixed Reality",
+    "active": true,
+    "date_updated": 1770950160,
+    "date_posted": 1770950160,
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5051227007",
+    "locations": [
+      "United States"
+    ],
+    "company_url": "https://simplify.jobs/c/Anduril",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "RTX",
+    "id": "3e772eca-4466-42e1-8bfe-42f307d6619a",
+    "title": "Software Engineer 1 - Effectors",
+    "active": true,
+    "date_updated": 1770949778,
+    "date_posted": 1770949778,
+    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/XMLNAME-2026-Full-time---Software-Engineer-I---Effectors---Onsite--AZ-_01820532",
+    "locations": [
+      "Tucson, AZ"
+    ],
+    "company_url": "https://simplify.jobs/c/RTX",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Olsson",
+    "id": "c302f706-7413-4a07-b19e-170e933d374f",
+    "title": "Entry-Level Field Geologist",
+    "active": true,
+    "date_updated": 1770939224,
+    "date_posted": 1770939224,
+    "url": "https://job-boards.greenhouse.io/olsson/jobs/5118834008",
+    "locations": [
+      "Lincoln, NE",
+      "Oklahoma City, OK",
+      "Papillion, NE"
+    ],
+    "company_url": "https://simplify.jobs/c/Olsson",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
