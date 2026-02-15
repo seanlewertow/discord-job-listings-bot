@@ -101332,5 +101332,23 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Altice USA",
+    "id": "e13754a5-bbec-4fc1-aca8-1bc287d02040",
+    "title": "Product Analyst 1",
+    "active": true,
+    "date_updated": 1771164632,
+    "date_posted": 1771164632,
+    "url": "https://www.optimumcareers.com/job/Bethpage-Product-Analyst-I-NY-11714/1363541800/?ats=successfactors",
+    "locations": [
+      "Plainview, NY"
+    ],
+    "company_url": "https://simplify.jobs/c/Altice-USA",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
