@@ -101350,5 +101350,61 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Giga AI",
+    "id": "b13af309-1d30-490d-9736-e4888986a562",
+    "title": "Software Engineer 1 / 2 - New York",
+    "active": true,
+    "date_updated": 1771166817,
+    "date_posted": 1771166817,
+    "url": "https://jobs.ashbyhq.com/gigaml/e37bdddd-2647-403e-850c-9cfe7684069c/application",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Giga-AI",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "EquipmentShare",
+    "id": "d090b8f2-8bcc-4a2e-bc66-4f777d11e256",
+    "title": "Telematics Installer - Telematics",
+    "active": true,
+    "date_updated": 1771166035,
+    "date_posted": 1771166035,
+    "url": "https://www.equipmentshare.com/careers/openings/?gh_jid=7606900",
+    "locations": [
+      "Billings, MT"
+    ],
+    "company_url": "https://simplify.jobs/c/Equipment-Share",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Vantage Point Solutions",
+    "id": "f19a3081-4f91-4684-920d-8b526ae4471c",
+    "title": "Field Services Technician",
+    "active": true,
+    "date_updated": 1771168656,
+    "date_posted": 1771168656,
+    "url": "https://vantage-point-solutions-inc.breezy.hr/p/b6227fbc7307/apply",
+    "locations": [
+      "Des Moines, IA"
+    ],
+    "company_url": "https://simplify.jobs/c/Vantage-Point-Solutions",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
