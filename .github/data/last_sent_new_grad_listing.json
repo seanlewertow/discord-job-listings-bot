@@ -102106,5 +102106,102 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "624c4119-061c-4160-8a7d-a35ff67c8039",
+    "title": "Trading Assistant - Shift",
+    "active": true,
+    "date_updated": 1771283447,
+    "date_posted": 1771283447,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400049786",
+    "locations": [
+      "Feltham, UK",
+      "London, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "56a3f650-7aa9-4f2d-96f4-383f444e00a7",
+    "title": "Trading Assistant",
+    "active": true,
+    "date_updated": 1771283436,
+    "date_posted": 1771283436,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400048268",
+    "locations": [
+      "Durham, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "qode.world",
+    "id": "30c4ad0a-869f-426d-9384-d5f6adf33433",
+    "title": "Associate Software Developer",
+    "active": true,
+    "date_updated": 1771283297,
+    "date_posted": 1771283297,
+    "url": "https://apply.workable.com/qodeworld/j/14568DCEDF/apply",
+    "locations": [
+      "Jackson Township, NJ"
+    ],
+    "company_url": "https://simplify.jobs/c/Qode-World",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "PennState University",
+    "id": "e7169b81-e919-437f-871e-953601218ab3",
+    "title": "Postdoctoral Scholar",
+    "active": true,
+    "date_updated": 1771282947,
+    "date_posted": 1771282947,
+    "url": "https://psu.wd1.myworkdayjobs.com/PSU_Academic/job/Penn-State-University-Park/Post-Doctoral-Scholar_REQ_0000075558-1",
+    "locations": [
+      "State College, PA"
+    ],
+    "company_url": "https://simplify.jobs/c/Penn-State",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "PhD"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "PennState University",
+    "id": "62ef5f95-4caa-4557-92b0-91aadef33482",
+    "title": "Chemical Engineering Postdoctoral Scholar",
+    "active": true,
+    "date_updated": 1771282946,
+    "date_posted": 1771282946,
+    "url": "https://psu.wd1.myworkdayjobs.com/PSU_Academic/job/Penn-State-University-Park/Chemical-Engineering-Postdoctoral-Scholar_REQ_0000075338-1",
+    "locations": [
+      "State College, PA"
+    ],
+    "company_url": "https://simplify.jobs/c/Penn-State",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "PhD"
+    ]
   }
 ]
