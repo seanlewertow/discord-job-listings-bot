@@ -101954,5 +101954,101 @@
     "degrees": [
       "Master's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "164acdab-dd3b-447d-9d2e-c22f8426211c",
+    "title": "Trading Assistant",
+    "active": true,
+    "date_updated": 1771254534,
+    "date_posted": 1771254534,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400049696",
+    "locations": [
+      "Portadown, Craigavon, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "123e8248-bc46-4c47-8b25-a0b11fb1179a",
+    "title": "Trading Assistant",
+    "active": true,
+    "date_updated": 1771254525,
+    "date_posted": 1771254525,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400049618",
+    "locations": [
+      "Cardiff, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Visa",
+    "id": "f28bbf9e-f990-4f8d-9f1f-db4d40045510",
+    "title": "Software Engineer",
+    "active": true,
+    "date_updated": 1771254275,
+    "date_posted": 1771254275,
+    "url": "https://jobs.smartrecruiters.com/Visa/744000109487765",
+    "locations": [
+      "Reading, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Visa",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Kettering Health",
+    "id": "d2a3c5d8-30c2-4ffe-8be8-6e4c39008184",
+    "title": "Clinical Analytics Analyst - IS Analytics Health",
+    "active": true,
+    "date_updated": 1771254406,
+    "date_posted": 1771254406,
+    "url": "https://careers-ketteringhealth.icims.com/jobs/58222/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Miamisburg, OH"
+    ],
+    "company_url": "https://simplify.jobs/c/Kettering-Health",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Associate's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Quantcast",
+    "id": "68c7bf6a-e96a-46fd-b647-f668694fec22",
+    "title": "Software Engineer",
+    "active": true,
+    "date_updated": 1771254360,
+    "date_posted": 1771254360,
+    "url": "https://jobs.lever.co/quantcast/eeb6b265-5eaa-40ab-86a1-bc7ef0ff09d4/apply",
+    "locations": [
+      "London, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Quantcast",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
