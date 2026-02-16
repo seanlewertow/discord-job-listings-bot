@@ -101914,5 +101914,45 @@
     "degrees": [
       "PhD"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "Dimensional Fund Advisors",
+    "id": "d4cee94a-846a-457e-b099-9323ee16f080",
+    "title": "Associate Product Management",
+    "active": true,
+    "date_updated": 1771251769,
+    "date_posted": 1771251769,
+    "url": "https://dimensional.wd5.myworkdayjobs.com/dfa_careers/job/London/Associate--Product-Management_2026-8673",
+    "locations": [
+      "London, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/3d361434-7ac4-4284-b2ef-078b0bc92808",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "State Street",
+    "id": "c7481b7c-ea89-4418-a0b7-3f7798316788",
+    "title": "Quantitative Research",
+    "active": true,
+    "date_updated": 1771252089,
+    "date_posted": 1771252089,
+    "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Cambridge-Massachusetts/Quantitative-Research--a-k-a-Researcher-_R-784329",
+    "locations": [
+      "Cambridge, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/State-Street",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Master's"
+    ]
   }
 ]
