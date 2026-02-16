@@ -102050,5 +102050,61 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Jabil",
+    "id": "64d4ed11-f3d5-4dcf-86f1-d8242656d925",
+    "title": "Test Engineering Technician 1",
+    "active": true,
+    "date_updated": 1771256573,
+    "date_posted": 1771256573,
+    "url": "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/St-PetersburgTampa-FL/Test-Engineering-Technician-I_J2440162-1",
+    "locations": [
+      "St. Petersburg, FL"
+    ],
+    "company_url": "https://simplify.jobs/c/Jabil",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "McGill University",
+    "id": "6476356e-49de-44ad-a53a-2ec1e7c8b18e",
+    "title": "Research Assistant 1",
+    "active": true,
+    "date_updated": 1771256655,
+    "date_posted": 1771256655,
+    "url": "https://mcgill.wd3.myworkdayjobs.com/McGill_Careers/job/McGill-College-2001/Research-Assistant-1_JR0000073744",
+    "locations": [
+      "Montreal, QC, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/McGill-University",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "RWS",
+    "id": "56f29a61-c1d7-4f5c-9486-af5bd05f692b",
+    "title": "AI Data Specialist - Nevada - US",
+    "active": true,
+    "date_updated": 1771171479,
+    "date_posted": 1769769237,
+    "url": "https://jobs.lever.co/rws/0b0b5758-aa4d-44d7-abf5-dc42a3a8ffc8/apply",
+    "locations": [
+      "Las Vegas, NV"
+    ],
+    "company_url": "https://simplify.jobs/c/RWS",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
