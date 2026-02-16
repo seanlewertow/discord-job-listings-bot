@@ -101833,5 +101833,86 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Johnson & Johnson",
+    "id": "da65d877-654e-4f8e-a612-3b072d5fd05d",
+    "title": "Postdoctoral Researcher Omics & Multimodal Data Integration",
+    "active": true,
+    "date_updated": 1771248323,
+    "date_posted": 1771248323,
+    "url": "https://jj.wd5.myworkdayjobs.com/NonCompetetiveHiring/job/High-Wycombe-Buckinghamshire-United-Kingdom/Postdoctoral-Researcher-Omics---Multimodal-Data-Integration--R-D-Neuroscience-Data-Science---Digital-Health_R-056680-2",
+    "locations": [
+      "Ambler, PA",
+      "High Wycombe, UK",
+      "Cambridge, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/Johnson-Johnson",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "PhD"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Expedia Group",
+    "id": "035ef54c-e7b1-40bb-a586-db3d42ef0dde",
+    "title": "Software Development Engineer 1",
+    "active": true,
+    "date_updated": 1771248033,
+    "date_posted": 1771248033,
+    "url": "https://expedia.wd108.myworkdayjobs.com/private/job/UK---London/Software-Development-Engineer-I_R-102289",
+    "locations": [
+      "London, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Expedia-Group",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "Goldman Sachs",
+    "id": "42937147-601a-4fbc-975c-775aea412b40",
+    "title": "Asset & Wealth Management - Wealth Investment Solutions",
+    "active": true,
+    "date_updated": 1771172483,
+    "date_posted": 1770938205,
+    "url": "https://higher.gs.com/roles/162295",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Goldman-Sachs",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "PennState University",
+    "id": "5fd3a345-4ef2-41a9-a1fc-ccf209544f29",
+    "title": "Postdoctoral Scholar - LUX-ZEPLIN - Lz - Dark Matter Experiment",
+    "active": true,
+    "date_updated": 1771249170,
+    "date_posted": 1769122972,
+    "url": "https://psu.wd1.myworkdayjobs.com/PSU_Academic/job/Penn-State-University-Park/Postdoctoral-Scholar--LUX-ZEPLIN--LZ--Dark-Matter-Experiment_REQ_0000074880-1",
+    "locations": [
+      "State College, PA"
+    ],
+    "company_url": "https://simplify.jobs/c/Penn-State",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "PhD"
+    ]
   }
 ]
