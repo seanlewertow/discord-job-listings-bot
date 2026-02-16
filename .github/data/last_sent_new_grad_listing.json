@@ -101701,5 +101701,24 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Goodnotes",
+    "id": "20443b1a-7a60-4d70-9c62-24bb5d18a5ea",
+    "title": "Machine Learning Researcher \u2013 Fresh Graduates are welcome - Handwriting",
+    "active": true,
+    "date_updated": 1771226525,
+    "date_posted": 1762532293,
+    "url": "https://job-boards.greenhouse.io/goodnotes/jobs/5569058004",
+    "locations": [
+      "London, UK",
+      "Remote in UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Goodnotes",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
