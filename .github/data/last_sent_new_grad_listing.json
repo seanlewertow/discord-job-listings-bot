@@ -102203,5 +102203,110 @@
     "degrees": [
       "PhD"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "STR",
+    "id": "9ebec1f8-d7a9-46a8-80ef-0bb2489a5004",
+    "title": "Associate Software Reverse Engineer",
+    "active": true,
+    "date_updated": 1771284771,
+    "date_posted": 1771284771,
+    "url": "https://job-boards.greenhouse.io/systemstechnologyresearch/jobs/4654850006",
+    "locations": [
+      "Melbourne, FL"
+    ],
+    "company_url": "https://simplify.jobs/c/STR",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "PhD"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "STR",
+    "id": "1a8eec2d-f014-4944-be5f-5176492a1655",
+    "title": "Associate Software Reverse Engineer",
+    "active": true,
+    "date_updated": 1771284771,
+    "date_posted": 1771284771,
+    "url": "https://job-boards.greenhouse.io/systemstechnologyresearch/jobs/4654846006",
+    "locations": [
+      "Burlington, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/STR",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "PhD"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Barry-Wehmiller",
+    "id": "e73a2981-99fb-4f57-bac7-7a8593980d50",
+    "title": "Data Engineer",
+    "active": true,
+    "date_updated": 1771284586,
+    "date_posted": 1771284586,
+    "url": "https://barrywehmiller.wd1.myworkdayjobs.com/BWCareers/job/St-Louis-MO/Data-Engineer_R020827-1",
+    "locations": [
+      "St. Louis, MO"
+    ],
+    "company_url": "https://simplify.jobs/c/Barry-Wehmiller",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Rocket Lab USA",
+    "id": "14c9ba5d-845a-49d1-b11d-1ad46bb1e442",
+    "title": "Senior Firmware Engineer 2",
+    "active": true,
+    "date_updated": 1771285403,
+    "date_posted": 1767080883,
+    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7557402003",
+    "locations": [
+      "Tucson, AZ"
+    ],
+    "company_url": "https://simplify.jobs/c/Rocket-Lab-USA",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Plante Moran",
+    "id": "11ed2a63-666d-48da-95d3-41ec07bc4489",
+    "title": "Investment Analyst",
+    "active": true,
+    "date_updated": 1771286235,
+    "date_posted": 1771286235,
+    "url": "https://plantemoran.wd1.myworkdayjobs.com/pmexternalcareers/job/Southfield/Investment-Analyst_JR-02201",
+    "locations": [
+      "Kalamazoo, MI",
+      "Southfield, MI"
+    ],
+    "company_url": "https://simplify.jobs/c/Plante-Moran",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
