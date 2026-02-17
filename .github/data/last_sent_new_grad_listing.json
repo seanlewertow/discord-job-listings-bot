@@ -102708,5 +102708,104 @@
       "Bachelor's",
       "Master's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "Fidelity National Information Services",
+    "id": "72e06b78-4076-4450-a7e2-8595b758e7d5",
+    "title": "Product Manager",
+    "active": true,
+    "date_updated": 1771342673,
+    "date_posted": 1771342673,
+    "url": "https://fis.wd5.myworkdayjobs.com/searchjobs/job/GBR-LNDN-25-Walbrook-FL56/Product-Manager---Commercial_JR0304593-1",
+    "locations": [
+      "London, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Fidelity-National-Information-Services",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Expedia Group",
+    "id": "4bfb3393-ba45-4e93-adbd-db51f5eed16a",
+    "title": "Data Scientist 1 - Vrbo Brand Analytics",
+    "active": true,
+    "date_updated": 1771342508,
+    "date_posted": 1771342508,
+    "url": "https://expedia.wd108.myworkdayjobs.com/search/job/UK---London/Data-Scientist-I--Vrbo-Brand-Analytics_R-101883-2",
+    "locations": [
+      "London, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Expedia-Group",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Expedia Group",
+    "id": "290ffc94-28ff-44dd-a074-b2f5b7adb3f5",
+    "title": "Software Development Engineer 1",
+    "active": true,
+    "date_updated": 1771342507,
+    "date_posted": 1771342507,
+    "url": "https://expedia.wd108.myworkdayjobs.com/search/job/UK---London/Software-Development-Engineer-I_R-102289-1",
+    "locations": [
+      "London, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Expedia-Group",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Capco",
+    "id": "d2c7ab55-211c-45fe-a1ce-cb7bf5d9a96d",
+    "title": "Capco Associate Talent Program - Houston Jan 2027",
+    "active": true,
+    "date_updated": 1771342486,
+    "date_posted": 1771342484,
+    "url": "https://job-boards.greenhouse.io/capco/jobs/7621251",
+    "locations": [
+      "Houston, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Capco",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Elsevier",
+    "id": "35d28da5-5914-4e95-8a70-684af616d026",
+    "title": "Software Engineer 1",
+    "active": true,
+    "date_updated": 1771342359,
+    "date_posted": 1771342359,
+    "url": "https://relx.wd3.myworkdayjobs.com/ElsevierJobs/job/Philadelphia-PA/Software-Engineer-I_R107467",
+    "locations": [
+      "Delaware",
+      "Jackson Township, NJ",
+      "Philadelphia, PA"
+    ],
+    "company_url": "https://simplify.jobs/c/Elsevier",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
