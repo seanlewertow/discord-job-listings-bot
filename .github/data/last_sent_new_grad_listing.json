@@ -102597,5 +102597,23 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Crowdstrike",
+    "id": "0ae685f9-3f6f-4b8d-b52e-2eb72c7119cc",
+    "title": "Engineer 1 - Sensor - Ssp",
+    "active": true,
+    "date_updated": 1771336067,
+    "date_posted": 1771336067,
+    "url": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/Canada---Toronto/Engineer-I---Sensor--SSP--Hybrid-_R27318",
+    "locations": [
+      "Toronto, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Crowdstrike",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
