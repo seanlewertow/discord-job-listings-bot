@@ -102615,5 +102615,98 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "39ee464e-4e55-42c3-8b19-7a9d2831e1a5",
+    "title": "Trading Assistant - Shift",
+    "active": true,
+    "date_updated": 1771341091,
+    "date_posted": 1771341091,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400049430",
+    "locations": [
+      "Welwyn Garden City, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "2fd05f08-8450-4013-ade3-e2a1e35ed2d1",
+    "title": "Trading Assistant - Shift",
+    "active": true,
+    "date_updated": 1771341080,
+    "date_posted": 1771341080,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400049885",
+    "locations": [
+      "Portsmouth, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "246d8d17-887b-43ad-91d2-5d5e7ed5d619",
+    "title": "Trading Assistant",
+    "active": true,
+    "date_updated": 1771341074,
+    "date_posted": 1771341074,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400048038",
+    "locations": [
+      "Beaconsfield, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "0348e44d-a1ea-4c9b-9934-c24e324922fe",
+    "title": "Trading Assistant",
+    "active": true,
+    "date_updated": 1771341076,
+    "date_posted": 1771341076,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400049832",
+    "locations": [
+      "Brighton, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Visa",
+    "id": "fb7a2d62-2245-4074-9e61-cd213db863c4",
+    "title": "Software Engineer",
+    "active": true,
+    "date_updated": 1771340751,
+    "date_posted": 1771340751,
+    "url": "https://jobs.smartrecruiters.com/Visa/744000109726621",
+    "locations": [
+      "Austin, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Visa",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
   }
 ]
