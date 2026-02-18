@@ -103191,5 +103191,25 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Goldman Sachs",
+    "id": "7b5f71f4-fea4-4689-b8e6-cbf14826ca1f",
+    "title": "Software Engineer - Multiple Teams",
+    "active": true,
+    "date_updated": 1771407017,
+    "date_posted": 1767655461,
+    "url": "https://higher.gs.com/roles/158741",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Goldman-Sachs",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
