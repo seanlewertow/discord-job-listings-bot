@@ -103006,5 +103006,66 @@
       "Bachelor's",
       "Master's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Northrop Grumman",
+    "id": "e499377d-8b3e-4c61-9006-ff5d50f5c127",
+    "title": "Engineer Systems Modeling Simulation/Principal Engineer Systems Modeling Simulation",
+    "active": true,
+    "date_updated": 1771382784,
+    "date_posted": 1771382784,
+    "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Redondo-Beach/Engineer-Systems-Modeling-Simulation-Principal-Engineer-Systems-Modeling-Simulation_R10223083",
+    "locations": [
+      "Arlington, VA",
+      "El Segundo, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "PhD"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "Qualified Health",
+    "id": "82cbb85d-1a7b-4ab2-aead-3977c9303f63",
+    "title": "Product Analyst",
+    "active": true,
+    "date_updated": 1771381654,
+    "date_posted": 1771381654,
+    "url": "https://job-boards.greenhouse.io/qualifiedhealth/jobs/5123725008",
+    "locations": [
+      "Palo Alto, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Qualified-Health",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Olsson",
+    "id": "9d1df1a1-0f29-400f-8acc-4a6c14311d34",
+    "title": "Commissioning Agent - Data Center",
+    "active": true,
+    "date_updated": 1771371285,
+    "date_posted": 1771371285,
+    "url": "https://job-boards.greenhouse.io/olsson/jobs/5123215008",
+    "locations": [
+      "Cedar Rapids, IA"
+    ],
+    "company_url": "https://simplify.jobs/c/Olsson",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Associate's"
+    ]
   }
 ]
