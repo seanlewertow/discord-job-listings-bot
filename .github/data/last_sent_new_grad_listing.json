@@ -103597,5 +103597,109 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Nielsen",
+    "id": "d3ba689a-0cf1-49a0-a2d6-e7795fa0371e",
+    "title": "Data Scientist",
+    "active": true,
+    "date_updated": 1771456021,
+    "date_posted": 1771456021,
+    "url": "https://jobs.smartrecruiters.com/NielsenIQ/744000109998596",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/Nielsen",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Beghou Consulting",
+    "id": "930aa37c-44a1-413f-8903-d332a091f6a4",
+    "title": "Associate Data Engineer",
+    "active": true,
+    "date_updated": 1771455947,
+    "date_posted": 1771455947,
+    "url": "https://jobs.lever.co/beghouconsulting/12ef3e63-fea9-4479-9e9d-9dc47e2d8cc4/apply",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Beghou-Consulting",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "PhD"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Microsoft",
+    "id": "47c48415-17eb-4e93-b401-23c481550ec3",
+    "title": "Software Engineer",
+    "active": true,
+    "date_updated": 1771456040,
+    "date_posted": 1771456040,
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393556754145",
+    "locations": [
+      "Redmond, WA"
+    ],
+    "company_url": "https://simplify.jobs/c/Microsoft",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Silfab Solar",
+    "id": "7a25b168-6220-4752-af3f-e070bff4bb4f",
+    "title": "Research Engineer 1",
+    "active": true,
+    "date_updated": 1771455870,
+    "date_posted": 1771455870,
+    "url": "https://jobs.smartrecruiters.com/SilfabSolar/744000110043110",
+    "locations": [
+      "Burlington, WA"
+    ],
+    "company_url": "https://simplify.jobs/c/Silfab-Solar",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "US Conec",
+    "id": "6d86420d-5ecb-4ee8-b36c-351c4cd2bff8",
+    "title": "Associate Product Manager",
+    "active": true,
+    "date_updated": 1771456344,
+    "date_posted": 1769670832,
+    "url": "https://job-boards.greenhouse.io/usconec/jobs/4112451009",
+    "locations": [
+      "Hickory, NC"
+    ],
+    "company_url": "https://simplify.jobs/c/US-Conec",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
