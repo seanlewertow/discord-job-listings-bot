@@ -103367,5 +103367,49 @@
     "degrees": [
       "PhD"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Baker Tilly",
+    "id": "3eefb549-9be4-4967-a097-460ddef68d93",
+    "title": "RPA Developer - Consultant",
+    "active": true,
+    "date_updated": 1771423298,
+    "date_posted": 1771423298,
+    "url": "https://bakertilly.wd5.myworkdayjobs.com/BTCareers/job/USA-DC-Washington-DC/RPA-Developer---Consultant_JR105350",
+    "locations": [
+      "Washington, DC",
+      "Remote in USA",
+      "San Diego, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Baker-Tilly",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Northrop Grumman",
+    "id": "3f9a42c9-ca91-49e7-a767-216d9d772d42",
+    "title": "Guidance Navigation Control Engineer",
+    "active": true,
+    "date_updated": 1771423264,
+    "date_posted": 1771400559,
+    "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-North-Dakota-Emerado/Guidance-Navigation-Control-Engineer--Engineer-or-Principal-Engineer-Level-_R10223182-1",
+    "locations": [
+      "Grand Forks, ND"
+    ],
+    "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "PhD"
+    ]
   }
 ]
