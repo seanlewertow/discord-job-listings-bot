@@ -102907,5 +102907,104 @@
       "Bachelor's",
       "Master's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Fortive",
+    "id": "8a681735-7ddb-4e2b-904e-1822d8edc633",
+    "title": "GLDP Associate-Data Analysis and Engineering Track",
+    "active": true,
+    "date_updated": 1771370236,
+    "date_posted": 1771370236,
+    "url": "https://ejta.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/8766",
+    "locations": [
+      "Irvine, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Fortive",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Blue Origin",
+    "id": "175de2c3-24d3-42d5-8371-c3e40591e242",
+    "title": "Technician - Assembly & Integration - All Levels/All Shifts",
+    "active": true,
+    "date_updated": 1771372831,
+    "date_posted": 1771372831,
+    "url": "https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Space-Coast-FL/Technician---Assembly---Integration--All-Levels-All-Shifts-_R60817",
+    "locations": [
+      "Florida"
+    ],
+    "company_url": "https://simplify.jobs/c/Blue-Origin",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Pure Storage",
+    "id": "dc97139d-fa2b-4aa2-8621-a1924dcbdb75",
+    "title": "Graduate Software Engineer",
+    "active": true,
+    "date_updated": 1771380909,
+    "date_posted": 1771380909,
+    "url": "https://boards.greenhouse.io/purestorage/jobs/7258968",
+    "locations": [
+      "Santa Clara, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Pure-Storage",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Vertiv",
+    "id": "fea147d1-028d-4089-b9a9-ee4ddfa619b4",
+    "title": "Associate Product Engineer - Energy Storage",
+    "active": true,
+    "date_updated": 1771380752,
+    "date_posted": 1771380752,
+    "url": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20267234",
+    "locations": [
+      "Ohio"
+    ],
+    "company_url": "https://simplify.jobs/c/Vertiv",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Benchling",
+    "id": "a780c82f-c69f-40f2-a0bc-8bbd280d5c7e",
+    "title": "Software Engineer",
+    "active": true,
+    "date_updated": 1771380823,
+    "date_posted": 1771380823,
+    "url": "https://jobs.ashbyhq.com/benchling/b3c9b312-6e2b-4dbc-9b15-0b0310d75a7f/application",
+    "locations": [
+      "SF"
+    ],
+    "company_url": "https://simplify.jobs/c/Benchling",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
   }
 ]
