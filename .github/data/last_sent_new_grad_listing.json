@@ -104053,5 +104053,111 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "Uline",
+    "id": "ed69d4ae-c262-4c29-a8d3-5e3a988b5aab",
+    "title": "Corporate Analyst Rotational Program",
+    "active": true,
+    "date_updated": 1771503550,
+    "date_posted": 1771503550,
+    "url": "https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/Corporate-Analyst-Rotational-Program_R261548",
+    "locations": [
+      "Kenosha, WI",
+      "Waukegan, IL",
+      "Morton Grove, IL",
+      "Pleasant Prairie, WI",
+      "Milwaukee, WI"
+    ],
+    "company_url": "https://simplify.jobs/c/Uline",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "Uline",
+    "id": "9778d507-4a7e-4e71-9cbb-06e2f901ed13",
+    "title": "Associate Product Manager",
+    "active": true,
+    "date_updated": 1771503550,
+    "date_posted": 1771503550,
+    "url": "https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/Associate-Product-Manager_R261550-2",
+    "locations": [
+      "Kenosha, WI",
+      "Waukegan, IL",
+      "Morton Grove, IL",
+      "Pleasant Prairie, WI",
+      "Milwaukee, WI"
+    ],
+    "company_url": "https://simplify.jobs/c/Uline",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "University of Virginia",
+    "id": "f67b358b-40cf-435e-9c00-77b58e2ed03f",
+    "title": "Nitrogen Working Group Student Employee - Student Wage",
+    "active": true,
+    "date_updated": 1771502648,
+    "date_posted": 1771369333,
+    "url": "https://uva.wd1.myworkdayjobs.com/uvastudentjobs/job/Charlottesville-VA/Nitrogen-Working-Group-Student-Employee--Student-Wage-_R0080689",
+    "locations": [
+      "Charlottesville, VA"
+    ],
+    "company_url": "https://simplify.jobs/c/University-Of-Virginia",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "date_updated": 1771505037,
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "degrees": [],
+    "url": "https://jobs.ashbyhq.com/batoncorporation/bb3ab630-5e59-48b5-9794-00a225879a66",
+    "company_name": "Baton Corporation",
+    "title": "Junior Full Stack Engineer",
+    "locations": [
+      "New York, NY"
+    ],
+    "category": "Software Engineering",
+    "source": "SuhaanCoding",
+    "id": "b3298ec2-a195-4322-b6bc-40539c93421f",
+    "date_posted": 1771505037,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Northrop Grumman",
+    "id": "a0f38101-9486-49cd-8d60-0d4546ee11f7",
+    "title": "SDS Engineer/Principal Engineer EHS",
+    "active": true,
+    "date_updated": 1771506155,
+    "date_posted": 1771506155,
+    "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/SDS-Engineer-Principal-Engineer-EHS---17676_R10222361",
+    "locations": [
+      "Huntsville, AL"
+    ],
+    "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "PhD"
+    ]
   }
 ]
