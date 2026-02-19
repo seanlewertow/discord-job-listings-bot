@@ -104159,5 +104159,26 @@
       "Master's",
       "PhD"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "XPO",
+    "id": "8b67ff26-1a05-4c60-89ff-71ffa7f8c26a",
+    "title": "Scientist \u2013 Data Science for XPO Enterprise Services - LLC",
+    "active": true,
+    "date_updated": 1771492694,
+    "date_posted": 1770333192,
+    "url": "https://jobs.xpo.com/job/Portland-Scientist,-Data-Science-for-XPO-Enterprise-Services,-LLC_-OR-97209/1362413200/?ats=successfactors",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/XPO",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
   }
 ]
