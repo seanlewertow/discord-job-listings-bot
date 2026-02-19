@@ -103800,5 +103800,102 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "BCforward",
+    "id": "5f49434d-9995-49df-89f7-3b03f29ef00c",
+    "title": "DataStage Administrator",
+    "active": true,
+    "date_updated": 1771484673,
+    "date_posted": 1771484673,
+    "url": "https://jobs.smartrecruiters.com/BCforward3/91801731",
+    "locations": [
+      "Boston, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/BCforward",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Arka Infotech",
+    "id": "4dd42a3c-3fcd-491f-b922-16e435212142",
+    "title": "Angularjs Developer",
+    "active": true,
+    "date_updated": 1771484843,
+    "date_posted": 1771484843,
+    "url": "https://jobs.smartrecruiters.com/ArkaInfotechInc/85677157",
+    "locations": [
+      "Parowan, UT"
+    ],
+    "company_url": "https://simplify.jobs/c/Arka-Infotech",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "BCforward",
+    "id": "432431b2-2756-4e92-a866-d8bcaf710a6b",
+    "title": "SAP MDG Consultant",
+    "active": true,
+    "date_updated": 1771484670,
+    "date_posted": 1771484670,
+    "url": "https://jobs.smartrecruiters.com/BCforward3/96417803",
+    "locations": [
+      "Bellevue, WA"
+    ],
+    "company_url": "https://simplify.jobs/c/BCforward",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Beta Soft Systems",
+    "id": "325b5cec-2d43-402d-9e7e-c4772a5e57cc",
+    "title": "Quality Assurance Engineer - Quality Assurance - Software",
+    "active": true,
+    "date_updated": 1771484831,
+    "date_posted": 1771484831,
+    "url": "https://jobs.smartrecruiters.com/BetaSoftSystems3/85575889",
+    "locations": [
+      "Fremont, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Beta-Soft-Systems",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Arka Infotech",
+    "id": "323f0d24-cbde-4bca-a596-412f91d84399",
+    "title": "Senior .NET Developer",
+    "active": true,
+    "date_updated": 1771484839,
+    "date_posted": 1771484839,
+    "url": "https://jobs.smartrecruiters.com/ArkaInfotechInc/83641651",
+    "locations": [
+      "State College, PA"
+    ],
+    "company_url": "https://simplify.jobs/c/Arka-Infotech",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
