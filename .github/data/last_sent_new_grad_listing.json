@@ -104303,5 +104303,101 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "88568577-f38e-46d0-ba91-d9e765e1659e",
+    "title": "Trading Assistant",
+    "active": true,
+    "date_updated": 1771542636,
+    "date_posted": 1771542636,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400050283",
+    "locations": [
+      "Portadown, Craigavon, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "851cc9c2-9bea-42f5-84c4-27deda598dfa",
+    "title": "Trading Assistant",
+    "active": true,
+    "date_updated": 1771542614,
+    "date_posted": 1771542614,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400050289",
+    "locations": [
+      "Workington, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Weston & Sampson",
+    "id": "5b05cdd9-3f2e-42fe-bf3c-d1b5eac2da17",
+    "title": "Geologist/Hydrogeologist",
+    "active": true,
+    "date_updated": 1771542373,
+    "date_posted": 1771542373,
+    "url": "https://careers-wseinc.icims.com/jobs/3335/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Worcester, MA",
+      "Portsmouth, NH",
+      "Manchester, NH",
+      "Wakefield, MA",
+      "Mansfield, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/Weston-And-Sampson",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "02c666f9-78aa-46a2-b902-cdf817355a16",
+    "title": "Trading Assistant",
+    "active": true,
+    "date_updated": 1771542617,
+    "date_posted": 1771542617,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400050286",
+    "locations": [
+      "Workington, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "PennState University",
+    "id": "4bffeb63-6baf-4348-85ab-432754c89da1",
+    "title": "Labor and Employee Relations Research Assistant",
+    "active": true,
+    "date_updated": 1771542243,
+    "date_posted": 1771542243,
+    "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Labor---Employee-Relations-Research-Assistant_REQ_0000075956-1",
+    "locations": [
+      "State College, PA"
+    ],
+    "company_url": "https://simplify.jobs/c/Penn-State",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
