@@ -104180,5 +104180,108 @@
       "Bachelor's",
       "Master's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Intertek",
+    "id": "85ac7e74-4a56-4995-a38a-4782c2426c38",
+    "title": "Engineer Energy Safety",
+    "active": true,
+    "date_updated": 1771513696,
+    "date_posted": 1771513696,
+    "url": "https://hcog.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/14052",
+    "locations": [
+      "Lake Forest, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Intertek",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "IDEMIA",
+    "id": "f8533915-cf48-4936-ab7c-92e8dccf94f4",
+    "title": "Data Analyst",
+    "active": true,
+    "date_updated": 1771493097,
+    "date_posted": 1770937847,
+    "url": "https://uscareers-idemia.icims.com/jobs/8396/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "United States"
+    ],
+    "company_url": "https://simplify.jobs/c/Idemia",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Amazon",
+    "id": "0202d268-924c-4cb5-abaf-86899e75e777",
+    "title": "Senior Data Center Technician - Dco 4 - DCC Communities",
+    "active": true,
+    "date_updated": 1771495582,
+    "date_posted": 1770775629,
+    "url": "https://amazon.jobs/en/jobs/3178411/data-center-technician-dcc-communities",
+    "locations": [
+      "Ridgeland, MS",
+      "Levittown, PA",
+      "Atlanta, GA",
+      "Nanticoke, PA",
+      "Ashburn, VA",
+      "Dulles, VA",
+      "New Albany, OH",
+      "Manassas, VA",
+      "Chantilly, VA"
+    ],
+    "company_url": "https://simplify.jobs/c/Amazon",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Jabil",
+    "id": "0cc1e3ca-acbe-4b04-ba63-9809c3067fe4",
+    "title": "Diagnostic Technician 1",
+    "active": true,
+    "date_updated": 1771515840,
+    "date_posted": 1771515840,
+    "url": "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Florence-KY/Diagnostic-Technician-I---401_J2440263",
+    "locations": [
+      "Florence, KY"
+    ],
+    "company_url": "https://simplify.jobs/c/Jabil",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "StubHub",
+    "id": "059c42ec-56f4-4e9c-8446-f499ae7e157f",
+    "title": "Associate Product Manager - Marketing Operations",
+    "active": true,
+    "date_updated": 1771515447,
+    "date_posted": 1771515447,
+    "url": "https://job-boards.eu.greenhouse.io/stubhubinc/jobs/4784900101",
+    "locations": [
+      "NYC",
+      "Culver City, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/StubHub",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
