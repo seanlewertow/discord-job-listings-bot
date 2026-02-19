@@ -103701,5 +103701,104 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Breeze.cash",
+    "id": "42d33008-d4bc-43e3-b2ca-ecd8899ebf0d",
+    "title": "Software Engineer - Recent Grad - AI Native",
+    "active": true,
+    "date_updated": 1771457494,
+    "date_posted": 1770794935,
+    "url": "https://job-boards.greenhouse.io/breezecash/jobs/5116784008",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Breezecash",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Ginkgo Bioworks",
+    "id": "407060ab-3825-4d82-9024-7f49b4da07f9",
+    "title": "Automation Engineer 2 - Support Applications Engineering",
+    "active": true,
+    "date_updated": 1771457538,
+    "date_posted": 1770680287,
+    "url": "https://job-boards.greenhouse.io/ginkgobioworks/jobs/5046751007",
+    "locations": [
+      "Oakland, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Ginkgo-Bioworks",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Danaher Corporation",
+    "id": "efc60c2b-ff2d-48c5-b911-095ee3f1a710",
+    "title": "Field Service Engineer",
+    "active": true,
+    "date_updated": 1771458673,
+    "date_posted": 1770422774,
+    "url": "https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/San-Diego-California-United-States/Field-Service-Engineer---San-Diego_R1302930",
+    "locations": [
+      "San Diego, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Danaher-Corporation",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Associate's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Appian",
+    "id": "e4f75862-ed5e-403a-985b-03b8e7d8fb0d",
+    "title": "Technical Consultant - Top Secret Clearance",
+    "active": true,
+    "date_updated": 1771457338,
+    "date_posted": 1764721339,
+    "url": "https://job-boards.greenhouse.io/appian/jobs/5946156",
+    "locations": [
+      "McLean, VA"
+    ],
+    "company_url": "https://simplify.jobs/c/Appian",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "GAP",
+    "id": "3608ddfb-15c8-4e20-ba59-6663959e1dbe",
+    "title": "Assistant Merchandiser - Women's",
+    "active": true,
+    "date_updated": 1771459479,
+    "date_posted": 1771459479,
+    "url": "https://gapinc.wd1.myworkdayjobs.com/GAPINC/job/SF---2-Folsom/Assistant-Merchandiser--Women-s_R206789",
+    "locations": [
+      "SF"
+    ],
+    "company_url": "https://simplify.jobs/c/GAP",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
