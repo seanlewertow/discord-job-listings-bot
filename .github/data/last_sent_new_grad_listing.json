@@ -103957,5 +103957,101 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "WTW",
+    "id": "0fe64760-3e3f-4b6f-a607-94458b47a7d5",
+    "title": "Investment Analyst - Wealth Management",
+    "active": true,
+    "date_updated": 1771497442,
+    "date_posted": 1771497442,
+    "url": "https://eedu.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/202601176",
+    "locations": [
+      "London, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/WTW",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "7d570136-3dec-407f-913d-e912cbaabee1",
+    "title": "Trading Assistant - Shift",
+    "active": true,
+    "date_updated": 1771497079,
+    "date_posted": 1771497079,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400050142",
+    "locations": [
+      "Chesterfield, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Axon",
+    "id": "5e01b73c-fb23-4866-a4da-8999702383fb",
+    "title": "Software Engineer 1",
+    "active": true,
+    "date_updated": 1771498962,
+    "date_posted": 1771498962,
+    "url": "https://job-boards.greenhouse.io/axon/jobs/7620148003",
+    "locations": [
+      "London, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Axon",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "The Boeing Company",
+    "id": "b5509517-9392-44f1-b9c5-a76c66ed7e67",
+    "title": "Product Data Management Engineer \u2013 Associate or Mid-Level - Config & Data Mgmt/Tech Integ",
+    "active": true,
+    "date_updated": 1771499761,
+    "date_posted": 1771459017,
+    "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Renton-WA/Product-Data-Management-Engineer---Config---Data-Mgmt-Tech-Integ--Associate-or-Mid-Level-_JR2026491114-1",
+    "locations": [
+      "Tukwila, WA"
+    ],
+    "company_url": "https://simplify.jobs/c/Boeing",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Dave & Busters",
+    "id": "7e31c580-eb29-4d8c-8a57-c9aa401a67f3",
+    "title": "Games Support Technician - Polaris Dave & Buster's",
+    "active": true,
+    "date_updated": 1771500775,
+    "date_posted": 1765060319,
+    "url": "https://daveandbusters.wd1.myworkdayjobs.com/dave_and_busters_careers/job/Polaris-OH/Games-Support-Technician_R-1008077",
+    "locations": [
+      "Dublin, OH"
+    ],
+    "company_url": "https://simplify.jobs/c/Dave-And-Busters",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
