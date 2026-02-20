@@ -105220,5 +105220,108 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "General Dynamics",
+    "id": "2139f126-4196-47a2-b23c-bfcf4d2a2295",
+    "title": "Special Projects Systems Integration Engineer - Comm Systems",
+    "active": true,
+    "date_updated": 1771629076,
+    "date_posted": 1771629076,
+    "url": "https://careers-gdeb.icims.com/jobs/17940/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Groton, CT"
+    ],
+    "company_url": "https://simplify.jobs/c/General-Dynamics",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Acuren",
+    "id": "17f1219a-0773-44fb-ac6d-a140a0c0712c",
+    "title": "Nondestructive Testing Assistant",
+    "active": true,
+    "date_updated": 1771629170,
+    "date_posted": 1771629170,
+    "url": "https://uscareers-acuren.icims.com/jobs/17738/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Billings, MT"
+    ],
+    "company_url": "https://simplify.jobs/c/Acuren",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Nokia",
+    "id": "0fe36706-a7a6-4e9f-bd33-2e2fc16225a8",
+    "title": "Photonics Lab Technician",
+    "active": true,
+    "date_updated": 1771629083,
+    "date_posted": 1771629083,
+    "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/31831",
+    "locations": [
+      "United States"
+    ],
+    "company_url": "https://simplify.jobs/c/Nokia",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Associate's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "Citizens Financial Group",
+    "id": "94a8e64d-7470-4fd8-bf70-6a741abbc068",
+    "title": "Platform Product Owner",
+    "active": true,
+    "date_updated": 1771628762,
+    "date_posted": 1771628762,
+    "url": "https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/43661",
+    "locations": [
+      "Phoenix, AZ",
+      "Providence, RI",
+      "Norwood, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/Citizens-Financial-Group",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Johnson County Government",
+    "id": "8e824a0c-500d-4606-88a7-de37dd4ca3c2",
+    "title": "Developer Analyst 1",
+    "active": true,
+    "date_updated": 1771628709,
+    "date_posted": 1771628709,
+    "url": "https://careers-jocogov.icims.com/jobs/3587/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Olathe, KS"
+    ],
+    "company_url": "https://simplify.jobs/c/Johnson-County-Government",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
