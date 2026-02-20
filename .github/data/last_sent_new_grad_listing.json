@@ -104800,5 +104800,63 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "0d7d44a4-4853-412f-86c5-3ba2f7327715",
+    "title": "Trading Assistant",
+    "active": true,
+    "date_updated": 1771583249,
+    "date_posted": 1771583249,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400049768",
+    "locations": [
+      "Essex, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Maven Securities",
+    "id": "323ae085-bca0-41b4-aaf5-12697ce1a76a",
+    "title": "Trading Analyst",
+    "active": true,
+    "date_updated": 1771584657,
+    "date_posted": 1771584657,
+    "url": "https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/7633996",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/Maven-Securities",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Banco Bilbao Vizcaya Argentaria",
+    "id": "0f881a05-d2ce-487b-ae2a-6737ace68f39",
+    "title": "Data & AI Enablement - CIB Risk Unit Associate",
+    "active": true,
+    "date_updated": 1771584940,
+    "date_posted": 1771035695,
+    "url": "https://bbva.wd3.myworkdayjobs.com/BBVA/job/LONDON/Data---AI-Enablement---CIB-Risk-Unit-Associate_JR00095049-2",
+    "locations": [
+      "London, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Banco-Bilbao-Vizcaya-Argentaria",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
