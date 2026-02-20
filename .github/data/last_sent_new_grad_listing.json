@@ -104858,5 +104858,23 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Dave & Busters",
+    "id": "d09428af-2607-45a7-a1f6-2e888d4306a0",
+    "title": "Support Technician",
+    "active": true,
+    "date_updated": 1771497909,
+    "date_posted": 1765623621,
+    "url": "https://daveandbusters.wd1.myworkdayjobs.com/dave_and_busters_careers/job/Wichita-KS/Support-Technician_R-1006562",
+    "locations": [
+      "Wichita, KS"
+    ],
+    "company_url": "https://simplify.jobs/c/Dave-And-Busters",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
