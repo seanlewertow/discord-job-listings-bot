@@ -104962,5 +104962,47 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "SS&C",
+    "id": "8b6a60e9-9116-4c7c-8588-29c6400aab88",
+    "title": "Product Solutions Analyst",
+    "active": true,
+    "date_updated": 1771591563,
+    "date_posted": 1770940450,
+    "url": "https://wd1.myworkdaysite.com/recruiting/ssctech/SSCTechnologies/job/Boston-MA/Solutions-Engineer_R40939",
+    "locations": [
+      "NYC",
+      "Chicago, IL",
+      "Boston, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/SSC",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Aptiv",
+    "id": "6b7370a3-0424-4079-b851-38fe61391ae4",
+    "title": "Associate Engineer - Board Support Packages",
+    "active": true,
+    "date_updated": 1771595222,
+    "date_posted": 1771595222,
+    "url": "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Associate-Engineer---Board-Support-Packages_J000694075",
+    "locations": [
+      "Ottawa, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Aptiv",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
