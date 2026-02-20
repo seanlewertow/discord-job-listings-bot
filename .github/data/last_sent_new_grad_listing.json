@@ -104601,5 +104601,106 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Career Guidant",
+    "id": "30abb8fc-d2a1-4fbb-84b7-439ed15610b9",
+    "title": "Java with Spring Boot",
+    "active": true,
+    "date_updated": 1771571492,
+    "date_posted": 1771571492,
+    "url": "https://jobs.smartrecruiters.com/CareerGuidant/114050960",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Career-Guidant",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Consultadd Public Services",
+    "id": "28026292-cafa-4127-a7e7-ea980ab5ddef",
+    "title": "Entery level web developer",
+    "active": true,
+    "date_updated": 1771571517,
+    "date_posted": 1771571517,
+    "url": "https://jobs.smartrecruiters.com/Consultadd4/83941565",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Consultadd-Public-Services",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Consultadd Public Services",
+    "id": "1b714aab-b048-4a93-9695-d2b8e296d4fc",
+    "title": "Hiring H1B",
+    "active": true,
+    "date_updated": 1771571516,
+    "date_posted": 1771571516,
+    "url": "https://jobs.smartrecruiters.com/Consultadd4/83746061",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Consultadd-Public-Services",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Consultadd Public Services",
+    "id": "0feed693-981e-4e08-8b5c-c552dde2d841",
+    "title": "Software Developer",
+    "active": true,
+    "date_updated": 1771571509,
+    "date_posted": 1771571509,
+    "url": "https://jobs.smartrecruiters.com/Consultadd4/84199346",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Consultadd-Public-Services",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Western Digital",
+    "id": "9cf6a484-f66b-4638-92a8-c159994f9932",
+    "title": "Early Career Talent - Electronics Design Engineering",
+    "active": true,
+    "date_updated": 1771571256,
+    "date_posted": 1771571256,
+    "url": "https://jobs.smartrecruiters.com/WesternDigital/744000110304414",
+    "locations": [
+      "Rochester, MN"
+    ],
+    "company_url": "https://simplify.jobs/c/Western-Digital",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Master's"
+    ]
   }
 ]
