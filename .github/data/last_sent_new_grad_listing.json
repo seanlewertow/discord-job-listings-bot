@@ -104702,5 +104702,103 @@
     "degrees": [
       "Master's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "NVIDIA",
+    "id": "49c78cff-7e69-4412-b2da-9b33a4a8b6de",
+    "title": "Formal Verification Engineer \u2013 New College Grad 2026",
+    "active": true,
+    "date_updated": 1771543464,
+    "date_posted": 1771543464,
+    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Formal-Verification-Engineer---New-College-Grad-2026_JR2013674",
+    "locations": [
+      "Santa Clara, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/NVIDIA",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Kodak",
+    "id": "420e15fd-43ee-461d-a05d-b3e5af65d245",
+    "title": "Opto-Mechanical Technician",
+    "active": true,
+    "date_updated": 1771542359,
+    "date_posted": 1771542359,
+    "url": "https://careers.kodak.com/job/Burnaby-Opto-Mechanical-Technician-Brit-V5G-4P5/1366323800/?ats=successfactors",
+    "locations": [
+      "Burnaby, BC, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Kodak",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "General Dynamics",
+    "id": "31bc8e5e-07d1-48d6-9471-b09531d237f9",
+    "title": "Business Data Analyst 1",
+    "active": true,
+    "date_updated": 1771542676,
+    "date_posted": 1771542676,
+    "url": "https://careers-gd-ots.icims.com/jobs/35695/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "St. Petersburg, FL"
+    ],
+    "company_url": "https://simplify.jobs/c/General-Dynamics",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Associate's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Parafin",
+    "id": "f403fd62-44c2-4cbf-bad3-bfdbcb02b793",
+    "title": "Agentic AI Engineer",
+    "active": true,
+    "date_updated": 1771496897,
+    "date_posted": 1758246006,
+    "url": "https://jobs.ashbyhq.com/parafin/2dad66c2-a0f2-4379-92d6-797484c7206b/application",
+    "locations": [
+      "SF"
+    ],
+    "company_url": "https://simplify.jobs/c/Parafin",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "ISYS Technologies",
+    "id": "3de2bdae-683a-4dfd-959f-3d2a2940a335",
+    "title": "Product Manager 1",
+    "active": true,
+    "date_updated": 1771579391,
+    "date_posted": 1771369574,
+    "url": "https://careers-i2xisys.icims.com/jobs/14850/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Washington, DC"
+    ],
+    "company_url": "https://simplify.jobs/c/ISYS-Technologies",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
