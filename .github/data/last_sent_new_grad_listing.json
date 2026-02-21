@@ -105323,5 +105323,101 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "O'Reilly Auto Parts",
+    "id": "c4e7c571-c61d-4a8a-a6ab-6415de632355",
+    "title": "Electronic Catalog Technician",
+    "active": true,
+    "date_updated": 1771632705,
+    "date_posted": 1771632705,
+    "url": "https://oreillyauto.wd1.myworkdayjobs.com/oreilly/job/Store-03149-Phoenix-AZ/Electronic-Catalog-Technician-1_R165324",
+    "locations": [
+      "Phoenix, AZ"
+    ],
+    "company_url": "https://simplify.jobs/c/OReilly-Auto-Parts",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Cleveland Clinic",
+    "id": "acc02593-2ced-40d3-93fc-c5b2d69c5359",
+    "title": "Investment Data Analytics Analyst 1",
+    "active": true,
+    "date_updated": 1771632055,
+    "date_posted": 1771632055,
+    "url": "https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Cleveland-Clinic-Administrative-Campus/Investment-Data-Analytics-Analyst_319352-1",
+    "locations": [
+      "Orange, OH"
+    ],
+    "company_url": "https://simplify.jobs/c/Cleveland-Clinic",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Argonne National Laboratory",
+    "id": "ea89cc66-9578-4f20-b3ab-b8d3e3a57c50",
+    "title": "Postdoctoral Researcher - Electrochemical Energy Storage Modeling - Batpac",
+    "active": true,
+    "date_updated": 1771631966,
+    "date_posted": 1771631966,
+    "url": "https://argonne.wd1.myworkdayjobs.com/Argonne_Careers/job/Lemont-IL-USA/Postdoctoral-Researcher---Electrochemical-Energy-Storage-Modeling--BatPaC-_421989-1",
+    "locations": [
+      "Woodridge, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/Argonne-National-Laboratory",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "PhD"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Micron Technology",
+    "id": "c704acc6-eaba-4328-b18d-dfdb78c8ee31",
+    "title": "New College Grad - Fab Support Engineer",
+    "active": true,
+    "date_updated": 1771631927,
+    "date_posted": 1771631927,
+    "url": "https://micron.wd1.myworkdayjobs.com/External/job/Manassas-VA----Fab-6/Sr-Fab-Support-Engineer_JR88698",
+    "locations": [
+      "Manassas, VA"
+    ],
+    "company_url": "https://simplify.jobs/c/Micron-Technology",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Aggreko",
+    "id": "17435888-b2b5-4578-aa84-41c58c8d7340",
+    "title": "OFA Technician",
+    "active": true,
+    "date_updated": 1771631985,
+    "date_posted": 1771631985,
+    "url": "https://aggreko.wd3.myworkdayjobs.com/aggreko_careers_1/job/Doncaster/OFA-Technician--Field-Based-_JR19307",
+    "locations": [
+      "Sheffield, UK",
+      "Newcastle upon Tyne, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Aggreko",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
