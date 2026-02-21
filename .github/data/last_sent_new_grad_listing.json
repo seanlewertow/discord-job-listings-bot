@@ -105674,5 +105674,25 @@
       "Bachelor's",
       "Master's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Comcast",
+    "id": "a37a4d19-15ce-488c-ab81-b718ae9ced8c",
+    "title": "Telemetry Application Developer - Golang/Python",
+    "active": true,
+    "date_updated": 1771692880,
+    "date_posted": 1771692880,
+    "url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1800-Arch-St/Cloud-Telemetry-Development-Engineer_R429398",
+    "locations": [
+      "Philadelphia, PA"
+    ],
+    "company_url": "https://simplify.jobs/c/Comcast",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
