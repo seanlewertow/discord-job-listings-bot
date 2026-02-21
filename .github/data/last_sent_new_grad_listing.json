@@ -105578,5 +105578,77 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "6cb14239-3a9d-495c-b4ab-0673e21563fa",
+    "title": "Trading Assistant - Shift",
+    "active": true,
+    "date_updated": 1771686969,
+    "date_posted": 1771686969,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400050534",
+    "locations": [
+      "Crawley, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "eca0ab99-e73d-4188-84fc-df92660e41c4",
+    "title": "Trading Assistant - Shift",
+    "active": true,
+    "date_updated": 1771686617,
+    "date_posted": 1771686617,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400050517",
+    "locations": [
+      "Yeovil, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "8c75a18c-6ed2-44fb-8a11-fa1341f666f6",
+    "title": "Trading Assistant",
+    "active": true,
+    "date_updated": 1771686607,
+    "date_posted": 1771686607,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400050529",
+    "locations": [
+      "Canterbury, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "9755b20d-25e7-4a08-b48e-7daf23d699dd",
+    "title": "Trading Assistant - Local",
+    "active": true,
+    "date_updated": 1771686602,
+    "date_posted": 1771686602,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400050536",
+    "locations": [
+      "Guildford, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
