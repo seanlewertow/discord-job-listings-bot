@@ -105419,5 +105419,108 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Salesforce",
+    "id": "9c9d72e2-4773-4a77-b5c5-5776ba645c14",
+    "title": "Software Engineering AMTS/MTS \u2013 College Grad",
+    "active": true,
+    "date_updated": 1771640186,
+    "date_posted": 1771640186,
+    "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Software-Engineering-AMTS-MTS--College-Grad-_JR330400-1",
+    "locations": [
+      "Palo Alto, CA",
+      "SF",
+      "Bellevue, WA",
+      "Seattle, WA"
+    ],
+    "company_url": "https://simplify.jobs/c/Salesforce",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Oracle",
+    "id": "3a77caa4-2992-4b3c-85bc-ac4bfa07a978",
+    "title": "User Experience Engineer",
+    "active": true,
+    "date_updated": 1771640039,
+    "date_posted": 1771640039,
+    "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/327720",
+    "locations": [
+      "Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Oracle",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Western Digital",
+    "id": "567634ab-4202-406b-a1cf-5c0fcc2936dc",
+    "title": "Early Career Talent - Metrology Engineer - Optical & Physical,Ph.D. Only",
+    "active": true,
+    "date_updated": 1771639679,
+    "date_posted": 1771639679,
+    "url": "https://jobs.smartrecruiters.com/WesternDigital/744000110493255",
+    "locations": [
+      "Fremont, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Western-Digital",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "PhD"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Abbott",
+    "id": "b2a2aa46-988e-4b81-9ebb-d2ac7e3e6864",
+    "title": "Associate Software Engineer",
+    "active": true,
+    "date_updated": 1771641866,
+    "date_posted": 1771641866,
+    "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Minnesota---Plymouth/Associate-Software-Engineer_31142661-1",
+    "locations": [
+      "Wayzata, MN"
+    ],
+    "company_url": "https://simplify.jobs/c/Abbott",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Abbott",
+    "id": "2c1704d9-ad18-426b-be05-91d12e29648d",
+    "title": "Associate Software Engineer",
+    "active": true,
+    "date_updated": 1771641278,
+    "date_posted": 1771641278,
+    "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers2/job/United-States---Minnesota---Plymouth/Associate-Software-Engineer_31142661",
+    "locations": [
+      "Wayzata, MN"
+    ],
+    "company_url": "https://simplify.jobs/c/Abbott",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
   }
 ]
