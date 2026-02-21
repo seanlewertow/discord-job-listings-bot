@@ -105558,5 +105558,25 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Silfab Solar",
+    "id": "dcf53825-b9f9-4906-aa5c-605ace415612",
+    "title": "Research Engineer 1",
+    "active": true,
+    "date_updated": 1771668101,
+    "date_posted": 1771668101,
+    "url": "https://jobs.smartrecruiters.com/SilfabSolar/744000110045157",
+    "locations": [
+      "Burlington, WA"
+    ],
+    "company_url": "https://simplify.jobs/c/Silfab-Solar",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
