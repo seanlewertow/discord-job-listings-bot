@@ -105650,5 +105650,29 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "HNTB",
+    "id": "50d35fe3-44df-402f-991f-ed8bc4693dd1",
+    "title": "Aviation Planner Entry Level",
+    "active": true,
+    "date_updated": 1771696167,
+    "date_posted": 1771696167,
+    "url": "https://hntb.wd5.myworkdayjobs.com/hntb_careers/job/Boston-MA/Aviation-Planner---Entry-Level_R-29216",
+    "locations": [
+      "Orange, CA",
+      "LA",
+      "Oakland, CA",
+      "Boston, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/HNTB",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
   }
 ]
