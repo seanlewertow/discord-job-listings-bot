@@ -105843,5 +105843,82 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "be9071b4-4d02-4231-8e65-442a1ffa80a0",
+    "title": "Trading Assistant",
+    "active": true,
+    "date_updated": 1771715639,
+    "date_posted": 1771715639,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400050572",
+    "locations": [
+      "Tunbridge Wells, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "21d57b3e-7b87-4cbe-b904-45bea617fb71",
+    "title": "Trading Assistant",
+    "active": true,
+    "date_updated": 1771715640,
+    "date_posted": 1771715640,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400050559",
+    "locations": [
+      "Wellington, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Northrop Grumman",
+    "id": "5a267649-90e5-43bf-9eb7-3f245f5dd43c",
+    "title": "Configuration Data Management Controller",
+    "active": true,
+    "date_updated": 1771728214,
+    "date_posted": 1771728214,
+    "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Redondo-Beach/Configuration-Data-Management-Controller-2-3_R10223669",
+    "locations": [
+      "El Segundo, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Northrop Grumman",
+    "id": "95c35385-60e2-4721-a95f-b0c532fb7bb9",
+    "title": "Principal Engineer Software - Embedded and Real Time - Florida & Oklahoma",
+    "active": true,
+    "date_updated": 1771693998,
+    "date_posted": 1771693998,
+    "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/Principal-Engineer-Software---Embedded-and-Real-Time--Florida---Oklahoma-_R10222588",
+    "locations": [
+      "Melbourne, FL",
+      "Oklahoma City, OK"
+    ],
+    "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "PhD"
+    ]
   }
 ]
