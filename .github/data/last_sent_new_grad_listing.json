@@ -106573,5 +106573,101 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Fanatics",
+    "id": "23ded5f5-1f72-4b80-b67c-5ffa4378903a",
+    "title": "Data Analyst 1",
+    "active": true,
+    "date_updated": 1771888273,
+    "date_posted": 1771888273,
+    "url": "https://fa-exki-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26829",
+    "locations": [
+      "London, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Fanatics",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "URBN",
+    "id": "14d4ec86-73d6-4aa4-87c2-d15647d233af",
+    "title": "Product Development and Production Coordinator Assistant",
+    "active": true,
+    "date_updated": 1771888246,
+    "date_posted": 1771888246,
+    "url": "https://homeoffice-na-urbn.icims.com/jobs/24858/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Philadelphia, PA"
+    ],
+    "company_url": "https://simplify.jobs/c/URBN",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Northumbria University",
+    "id": "a6173b25-73fc-40bb-902a-72bb3a3a86bc",
+    "title": "Research Fellow in Physical Geography and Environmental Science",
+    "active": true,
+    "date_updated": 1771887973,
+    "date_posted": 1771887973,
+    "url": "https://fa-etnb-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/3902",
+    "locations": [
+      "Newcastle upon Tyne, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Northumbria-University",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "LGC Group",
+    "id": "f83ea845-0c40-4612-9535-0d6b46534ac6",
+    "title": "Scientific Data Analyst - Month FTC",
+    "active": true,
+    "date_updated": 1771887876,
+    "date_posted": 1771887876,
+    "url": "https://jobs.smartrecruiters.com/LGCGroup/744000110804858",
+    "locations": [
+      "Blackpool, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/LGC-Group",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "University of Southern California",
+    "id": "b2623223-332f-4ec0-a4fc-3dc63b6268be",
+    "title": "Programmer Analyst 1",
+    "active": true,
+    "date_updated": 1771887816,
+    "date_posted": 1771887816,
+    "url": "https://usc.wd5.myworkdayjobs.com/ExternalUSCCareers/job/Los-Angeles-CA---Health-Sciences-Campus/Programmer-Analyst-I_REQ20170332",
+    "locations": [
+      "LA"
+    ],
+    "company_url": "https://simplify.jobs/c/University-Of-Southern-California",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
