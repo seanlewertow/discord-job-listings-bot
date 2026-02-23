@@ -106391,5 +106391,95 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "89bbdb2e-92e0-4309-b681-4c973cd1d004",
+    "title": "Trading Assistant",
+    "active": true,
+    "date_updated": 1771859367,
+    "date_posted": 1771859367,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400050606",
+    "locations": [
+      "Sheffield, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "70f6e928-3295-43bd-bef4-29eaf018335c",
+    "title": "Trading Assistant",
+    "active": true,
+    "date_updated": 1771859340,
+    "date_posted": 1771859340,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400050704",
+    "locations": [
+      "Aldershot, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "6239c6dc-74e6-4b83-83a8-1bbc05167198",
+    "title": "Trading Assistant",
+    "active": true,
+    "date_updated": 1771859353,
+    "date_posted": 1771859353,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400050565",
+    "locations": [
+      "Bristol, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Keysight Technologies",
+    "id": "feccf71d-3854-43d2-b943-e99be4400e6a",
+    "title": "Trainee Repair Engineer",
+    "active": true,
+    "date_updated": 1771859054,
+    "date_posted": 1771859054,
+    "url": "https://jobs.keysight.com/jobs/51111?lang=en-us&icims=1",
+    "locations": [
+      "Twyford, Reading, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Keysight-Technologies-Inc",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "Coinbase",
+    "id": "52b651c8-be46-4b6c-9ef9-7c8d7bd812d3",
+    "title": "Product Manager 1 - Growth",
+    "active": true,
+    "date_updated": 1771859120,
+    "date_posted": 1771859120,
+    "url": "https://boards.greenhouse.io/embed/job_app?token=7623211",
+    "locations": [
+      "United States"
+    ],
+    "company_url": "https://simplify.jobs/c/Coinbase",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
