@@ -106183,5 +106183,101 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Experis",
+    "id": "406cb5a3-4041-44f0-bc74-9318c2da5bc3",
+    "title": "Ruby On Rails Developer",
+    "active": true,
+    "date_updated": 1771830589,
+    "date_posted": 1771830589,
+    "url": "https://jobs.smartrecruiters.com/EttainGroup/80873557",
+    "locations": [
+      "Westlake, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Experis",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Iowa State University",
+    "id": "a21e7d76-989c-4997-93c7-c691ef88e5fe",
+    "title": "Workday Integration Software Developer 1",
+    "active": true,
+    "date_updated": 1771830124,
+    "date_posted": 1771830124,
+    "url": "https://isu.wd1.myworkdayjobs.com/IowaStateJobs/job/Ames-IA/Workday-Integration-Software-Developer-I_R18675",
+    "locations": [
+      "Ames, IA"
+    ],
+    "company_url": "https://simplify.jobs/c/Iowa-State-University",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Enviri",
+    "id": "278554f9-f89b-45bf-8154-6a9c3aded850",
+    "title": "Database Administrator - S&C - Maternity Cover",
+    "active": true,
+    "date_updated": 1771830197,
+    "date_posted": 1771830197,
+    "url": "https://jobs.smartrecruiters.com/EnviriCorporation/744000109512820",
+    "locations": [
+      "Nottingham, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Enviri",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Fidelity Investments",
+    "id": "25991656-0036-4b4d-8c29-b6dc5e107669",
+    "title": "Associate Full Stack Engineer",
+    "active": true,
+    "date_updated": 1771832199,
+    "date_posted": 1771832199,
+    "url": "https://fmr.wd1.myworkdayjobs.com/targeted/job/Merrimack-NH/Associate-Full-Stack-Engineer_2124333",
+    "locations": [
+      "Merrimack, NH"
+    ],
+    "company_url": "https://simplify.jobs/c/Fidelity-Investments",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Blue Sky Innovators",
+    "id": "7c6ce81f-93d1-46b9-a710-cd27563baf97",
+    "title": "Radio Frequency Machine Learning - Rfml - Product Workflow Engineer",
+    "active": true,
+    "date_updated": 1771832087,
+    "date_posted": 1771832087,
+    "url": "https://job-boards.greenhouse.io/blueskyinnovators/jobs/5128729008",
+    "locations": [
+      "Reston, VA"
+    ],
+    "company_url": "https://simplify.jobs/c/Blue-Sky-Innovators",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
