@@ -106770,5 +106770,101 @@
     "degrees": [
       "Certificate"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Lawrence Livermore National Laboratory (LLNL)",
+    "id": "4d453fb0-a1f8-43da-9810-884ad0f54eb3",
+    "title": "Applied Statistics Postdoctoral Researcher",
+    "active": true,
+    "date_updated": 1771918137,
+    "date_posted": 1771918137,
+    "url": "https://jobs.smartrecruiters.com/LLNL/3743990010389316",
+    "locations": [
+      "Livermore, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/LLNL",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "PhD"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Insilico Logix",
+    "id": "42301770-1799-48e9-83b9-76e83db1b360",
+    "title": "Business Analyst / Data Analyst Entry Level",
+    "active": true,
+    "date_updated": 1771918140,
+    "date_posted": 1771918140,
+    "url": "https://jobs.smartrecruiters.com/InsilicoLogix/743999653809331",
+    "locations": [
+      "Reston, VA"
+    ],
+    "company_url": "https://simplify.jobs/c/Insilico-Logix",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Integrated Resources",
+    "id": "08d728b9-06a1-4896-9fb7-fa995fe8e5b8",
+    "title": "IOS developer",
+    "active": true,
+    "date_updated": 1771917970,
+    "date_posted": 1771917970,
+    "url": "https://jobs.smartrecruiters.com/IntegratedResourcesINC/85840388",
+    "locations": [
+      "Hartford, CT"
+    ],
+    "company_url": "https://simplify.jobs/c/Integrated-Resources",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Jobs for Humanity",
+    "id": "072d7607-af18-4897-bf69-3a2a23ed2fc3",
+    "title": "Speakers/Writers",
+    "active": true,
+    "date_updated": 1771917913,
+    "date_posted": 1771917913,
+    "url": "https://jobs.smartrecruiters.com/JobsForHumanity/744000016308861",
+    "locations": [
+      "Bend, OR"
+    ],
+    "company_url": "https://simplify.jobs/c/Jobs-For-Humanity",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Associate's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Lawrence Livermore National Laboratory (LLNL)",
+    "id": "00c6fb1a-a06c-4b96-86af-dc023929622d",
+    "title": "Deep Learning for Earth System Modeling Evaluation",
+    "active": true,
+    "date_updated": 1771918135,
+    "date_posted": 1771918135,
+    "url": "https://jobs.smartrecruiters.com/LLNL/3743990011639054",
+    "locations": [
+      "Livermore, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/LLNL",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "PhD"
+    ]
   }
 ]
