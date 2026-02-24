@@ -107006,5 +107006,95 @@
       "Bachelor's",
       "Associate's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "9fa48393-4406-4b73-bca2-9cde8e0c72a1",
+    "title": "Trading Assistant",
+    "active": true,
+    "date_updated": 1771945680,
+    "date_posted": 1771945680,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400050924",
+    "locations": [
+      "Whiteley, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "95ffcb45-bb60-42c4-a955-76d394923e0a",
+    "title": "Trading Assistant",
+    "active": true,
+    "date_updated": 1771945684,
+    "date_posted": 1771945684,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400050882",
+    "locations": [
+      "Harrogate, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "7b894e65-6c5c-4088-8489-c09e4cadd464",
+    "title": "Trading Assistant - Shift",
+    "active": true,
+    "date_updated": 1771945680,
+    "date_posted": 1771945680,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400050903",
+    "locations": [
+      "Bristol, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "0ced1a6d-662a-451a-b462-a3c39b97ba4a",
+    "title": "Trading Assistant",
+    "active": true,
+    "date_updated": 1771945726,
+    "date_posted": 1771945726,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400050945",
+    "locations": [
+      "Easton, Norwich, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "05d5f7fb-3cfd-452a-a5cf-8bb125dd1c02",
+    "title": "Trading Assistant - Shift",
+    "active": true,
+    "date_updated": 1771945697,
+    "date_posted": 1771945697,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400049961",
+    "locations": [
+      "York, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
