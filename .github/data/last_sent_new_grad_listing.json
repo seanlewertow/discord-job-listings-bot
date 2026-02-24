@@ -107196,5 +107196,110 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Iridium Communications",
+    "id": "ffae14b3-5c45-45e4-ba82-e790ebb32250",
+    "title": "Software Engineer 1",
+    "active": true,
+    "date_updated": 1771974367,
+    "date_posted": 1771974367,
+    "url": "https://careers-iridium.icims.com/jobs/4823/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Tempe, AZ"
+    ],
+    "company_url": "https://simplify.jobs/c/Iridium-Communications",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "Denso",
+    "id": "d6f8a8ce-50d3-4dfc-9a6e-5e9f6cf102b0",
+    "title": "Product Specialist",
+    "active": true,
+    "date_updated": 1771974401,
+    "date_posted": 1771974401,
+    "url": "https://hcwt.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/23311",
+    "locations": [
+      "Plano, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Denso",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Visa",
+    "id": "73f8d22e-3725-488c-94b3-434c938eaadb",
+    "title": "Software Engineer",
+    "active": true,
+    "date_updated": 1771974310,
+    "date_posted": 1771974310,
+    "url": "https://jobs.smartrecruiters.com/Visa/744000111185955",
+    "locations": [
+      "Austin, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Visa",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "MBA",
+      "JD",
+      "MD"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Visa",
+    "id": "58f9e749-7df0-4e79-a130-286eefe111ca",
+    "title": "Associate Data Scientist \u2013 New College Grad",
+    "active": true,
+    "date_updated": 1771974325,
+    "date_posted": 1771974325,
+    "url": "https://jobs.smartrecruiters.com/Visa/744000111157285",
+    "locations": [
+      "San Mateo, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Visa",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Intercontinental Exchange",
+    "id": "9893c05d-e2b0-44f2-a8fe-b95974725b3b",
+    "title": "Software Engineer 1",
+    "active": true,
+    "date_updated": 1771974166,
+    "date_posted": 1771974166,
+    "url": "https://careers-ice.icims.com/jobs/12331/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Jacksonville, FL"
+    ],
+    "company_url": "https://simplify.jobs/c/ICEMarkets",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
