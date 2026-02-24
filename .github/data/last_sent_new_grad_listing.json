@@ -106866,5 +106866,26 @@
     "degrees": [
       "PhD"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Vanasse Hangen Brustlin (VHB)",
+    "id": "e822c5c8-1090-4c57-a7d0-b3d7fffb1ea5",
+    "title": "Entry Level Environmental Engineer",
+    "active": true,
+    "date_updated": 1771925856,
+    "date_posted": 1771600015,
+    "url": "https://careers-vhb.icims.com/jobs/5873/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Burlington, VT",
+      "Montpelier, VT"
+    ],
+    "company_url": "https://simplify.jobs/c/Vanasse-Hangen-Brustlin",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
