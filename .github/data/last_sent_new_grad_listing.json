@@ -106887,5 +106887,103 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "5675dea8-90c5-4499-88c7-db06de435350",
+    "title": "Trading Assistant",
+    "active": true,
+    "date_updated": 1771928487,
+    "date_posted": 1771928487,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400050600",
+    "locations": [
+      "Bath, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Honeywell",
+    "id": "4fa8a264-61f3-4954-aa67-0bf14c5a4cca",
+    "title": "Semiconductor Technician Level 1",
+    "active": true,
+    "date_updated": 1771928801,
+    "date_posted": 1771629169,
+    "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/139453",
+    "locations": [
+      "Wayzata, MN"
+    ],
+    "company_url": "https://simplify.jobs/c/Honeywell",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Idealforce",
+    "id": "355b8238-f792-4bd3-a584-1d38f72e1ec4",
+    "title": ".Net Developer",
+    "active": true,
+    "date_updated": 1771899108,
+    "date_posted": 1771899108,
+    "url": "https://jobs.smartrecruiters.com/IDEALFORCELLC/85300922",
+    "locations": [
+      "Phoenix, AZ"
+    ],
+    "company_url": "https://simplify.jobs/c/Idealforce",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Associate's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Benchling",
+    "id": "13ca75f9-0d76-4939-882e-23456998a4c0",
+    "title": "Software Engineer - Full Stack - Admin & Identity Platform",
+    "active": true,
+    "date_updated": 1771930247,
+    "date_posted": 1771380824,
+    "url": "https://jobs.ashbyhq.com/benchling/982241d9-e79f-4d68-9b3d-ac4bd5940456/application",
+    "locations": [
+      "SF"
+    ],
+    "company_url": "https://simplify.jobs/c/Benchling",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "University of Wyoming",
+    "id": "d8dd260d-bf0c-4287-990c-8dee8317e69c",
+    "title": "Assistant/Associate Professor",
+    "active": true,
+    "date_updated": 1771929690,
+    "date_posted": 1770938193,
+    "url": "https://eeik.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/260347",
+    "locations": [
+      "Laramie, WY"
+    ],
+    "company_url": "https://simplify.jobs/c/University-Of-Wyoming",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "PhD"
+    ]
   }
 ]
