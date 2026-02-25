@@ -107406,5 +107406,103 @@
       "JD",
       "MD"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Amazon",
+    "id": "f9e1443d-acb3-4b05-978a-590a97cc394b",
+    "title": "Manager 3 - Software Developer",
+    "active": true,
+    "date_updated": 1772003421,
+    "date_posted": 1772003421,
+    "url": "https://amazon.jobs/en/jobs/3163097/manager-iii-software-dev-amz9700792",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "company_url": "https://simplify.jobs/c/Amazon",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Pioneer Data Systems",
+    "id": "d925b32c-6b7d-48ad-b323-468bb6ddedf7",
+    "title": "Data Analyst",
+    "active": true,
+    "date_updated": 1772003072,
+    "date_posted": 1772003072,
+    "url": "https://jobs.smartrecruiters.com/PioneerDataSystemsInc/94743719",
+    "locations": [
+      "Bridgewater Township, NJ"
+    ],
+    "company_url": "https://simplify.jobs/c/Pioneer-Data-Systems",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Proximate Technologies",
+    "id": "524e8882-51b0-4631-baf4-fd747567d5c4",
+    "title": "Java Developer",
+    "active": true,
+    "date_updated": 1772003070,
+    "date_posted": 1772003070,
+    "url": "https://jobs.smartrecruiters.com/ProximateTechnologiesInc1/79795677",
+    "locations": [
+      "Frisco, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Proximate-Technologies",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "FourKites",
+    "id": "caa7a014-355a-4496-91ec-9c03c2481f90",
+    "title": "Forward Deployment Engineer",
+    "active": true,
+    "date_updated": 1772004354,
+    "date_posted": 1770807823,
+    "url": "https://job-boards.greenhouse.io/fourkites/jobs/7506270",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/FourKites",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "The Home Depot",
+    "id": "e6db640b-7d58-457c-92c2-dad2a03d7821",
+    "title": "Data Analyst - Supply Chain",
+    "active": true,
+    "date_updated": 1772004848,
+    "date_posted": 1772004848,
+    "url": "https://homedepot.wd5.myworkdayjobs.com/careerdepot/job/STORE-SUPPORT-CENTER-ATLANTA---9090/Data-Analyst--Supply-Chain_Req167063",
+    "locations": [
+      "Atlanta, GA"
+    ],
+    "company_url": "https://simplify.jobs/c/The-Home-Depot",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
