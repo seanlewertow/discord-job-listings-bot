@@ -107898,5 +107898,106 @@
       "Associate's",
       "Certificate"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "001a05eb-6395-464f-a008-624bfa011723",
+    "title": "Trading Assistant",
+    "active": true,
+    "date_updated": 1772061118,
+    "date_posted": 1772061118,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400051050",
+    "locations": [
+      "Ashford District, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Microsoft",
+    "id": "dd65b535-4767-423f-8d4b-9d0b9f9ecb70",
+    "title": "Quantum Software Engineer",
+    "active": true,
+    "date_updated": 1772060965,
+    "date_posted": 1772060965,
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393556754699",
+    "locations": [
+      "Redmond, WA"
+    ],
+    "company_url": "https://simplify.jobs/c/Microsoft",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Microsoft",
+    "id": "c683f29c-df02-443d-af52-75915dbaf039",
+    "title": "Software Engineer",
+    "active": true,
+    "date_updated": 1772060882,
+    "date_posted": 1772060882,
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393556768755",
+    "locations": [
+      "Redmond, WA"
+    ],
+    "company_url": "https://simplify.jobs/c/Microsoft",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Washington State University",
+    "id": "dffe96c0-3d29-47d5-aeb2-89a28be7a608",
+    "title": "Entry IT Data Management",
+    "active": true,
+    "date_updated": 1772060570,
+    "date_posted": 1772060570,
+    "url": "https://wsu.wd5.myworkdayjobs.com/WSU_Jobs/job/Spokane-WA/Entry-IT-Data-Management---College-of-Medicine_R-14642",
+    "locations": [
+      "Spokane, WA"
+    ],
+    "company_url": "https://simplify.jobs/c/Washington-State-University",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "ASM International",
+    "id": "c81df46f-5efa-4098-b6c0-15e209f0b535",
+    "title": "Engineer \u2013 Field Service-\"Early Career\"",
+    "active": true,
+    "date_updated": 1772060630,
+    "date_posted": 1772060630,
+    "url": "https://www.asm.com/open-vacancies/?gh_jid=4739225101",
+    "locations": [
+      "Chandler, AZ"
+    ],
+    "company_url": "https://simplify.jobs/c/ASM-International",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
   }
 ]
