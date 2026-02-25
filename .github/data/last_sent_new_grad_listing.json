@@ -107629,5 +107629,28 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Johns Manville (JM)",
+    "id": "ed1d078c-29bf-42d1-bd9c-00a0fbd442bc",
+    "title": "Senior Product Engineer - Single Ply",
+    "active": true,
+    "date_updated": 1772018512,
+    "date_posted": 1771889349,
+    "url": "https://jm.wd103.myworkdayjobs.com/External/job/Littleton-CO-JMTC/Sr-Product-Engineer---Single-Ply_R26_0238",
+    "locations": [
+      "Elyria, OH",
+      "Littleton, CO"
+    ],
+    "company_url": "https://simplify.jobs/c/Johns-Manville",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "PhD"
+    ]
   }
 ]
