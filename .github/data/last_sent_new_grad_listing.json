@@ -107526,5 +107526,108 @@
       "Master's",
       "PhD"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Steel Dynamics",
+    "id": "d9fc126a-d2b9-4427-b1f8-b0a7d11fae4e",
+    "title": "Software Developer - Adl",
+    "active": true,
+    "date_updated": 1772014034,
+    "date_posted": 1770332979,
+    "url": "https://careers-aluminumdynamics.icims.com/jobs/7019/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Columbus, MS"
+    ],
+    "company_url": "https://simplify.jobs/c/Steel-Dynamics",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Eurofins",
+    "id": "f9a21ae7-fbe1-4977-83de-0107ece1134b",
+    "title": "Electrical Factory Inspector - Remote/Travel",
+    "active": true,
+    "date_updated": 1771974711,
+    "date_posted": 1771974711,
+    "url": "https://jobs.smartrecruiters.com/Eurofins/744000111116015",
+    "locations": [
+      "Dayton, OH"
+    ],
+    "company_url": "https://simplify.jobs/c/Eurofins",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Associate's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Eurofins",
+    "id": "2cea44ab-924b-4dc4-8af3-b7a0a73a700c",
+    "title": "Electrical Factory Inspector - Remote/Travel",
+    "active": true,
+    "date_updated": 1771974712,
+    "date_posted": 1771974712,
+    "url": "https://jobs.smartrecruiters.com/Eurofins/744000111118005",
+    "locations": [
+      "Newark, NJ"
+    ],
+    "company_url": "https://simplify.jobs/c/Eurofins",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Associate's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Eurofins",
+    "id": "0ba3a5bf-1d6a-44d9-ba8e-0c7242be56c9",
+    "title": "Electrical Factory Inspector - Remote/Travel",
+    "active": true,
+    "date_updated": 1771974710,
+    "date_posted": 1771974710,
+    "url": "https://jobs.smartrecruiters.com/Eurofins/744000111115139",
+    "locations": [
+      "Philadelphia, PA"
+    ],
+    "company_url": "https://simplify.jobs/c/Eurofins",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Associate's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Warner Music",
+    "id": "94f1b678-3c92-4407-8f6a-5da6f9442e43",
+    "title": "Growth Automation Analyst",
+    "active": true,
+    "date_updated": 1772016243,
+    "date_posted": 1771691333,
+    "url": "https://wmg.wd1.myworkdayjobs.com/WMGUS/job/USA---Miami---555-Washington-Avenue/Analyst--Growth-Automation_R-026878",
+    "locations": [
+      "Miami, FL"
+    ],
+    "company_url": "https://simplify.jobs/c/cce28f75-897e-4868-bcbb-501d451534d0",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
