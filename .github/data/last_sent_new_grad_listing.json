@@ -107504,5 +107504,27 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Geosyntec Consultants",
+    "id": "b45a36fa-bf64-417f-b1f4-61d1592263fe",
+    "title": "Early-Career GIS Specialist",
+    "active": true,
+    "date_updated": 1772011883,
+    "date_posted": 1769699412,
+    "url": "https://careers-geosyntec.icims.com/jobs/3883/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Atlanta, GA"
+    ],
+    "company_url": "https://simplify.jobs/c/Geosyntec-Consultants",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "PhD"
+    ]
   }
 ]
