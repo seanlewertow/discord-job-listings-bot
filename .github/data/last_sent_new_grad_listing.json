@@ -107301,5 +107301,110 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "Aristocrat Leisure",
+    "id": "9b2e6700-09fb-412d-8c0f-c9cba7d636e7",
+    "title": "Digital Games Coordinator",
+    "active": true,
+    "date_updated": 1771986990,
+    "date_posted": 1771986990,
+    "url": "https://aristocrat.wd3.myworkdayjobs.com/aristocratexternalcareerssite/job/Charleston-WV-US/Digital-Games-Coordinator_R0020661",
+    "locations": [
+      "Charleston, WV"
+    ],
+    "company_url": "https://simplify.jobs/c/Aristocrat-Leisure",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "MAT Holdings",
+    "id": "981f2626-8819-4648-86c1-d1ab6a6bb5c9",
+    "title": "Associate Product Manager",
+    "active": true,
+    "date_updated": 1771985621,
+    "date_posted": 1771985621,
+    "url": "https://jobs.smartrecruiters.com/MATHoldings/744000086453031",
+    "locations": [
+      "Jackson, TN"
+    ],
+    "company_url": "https://simplify.jobs/c/MAT-Holdings",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "Mindlance",
+    "id": "544d479c-79d2-4942-bc29-de87eeef8c1b",
+    "title": "Technical Product Owner",
+    "active": true,
+    "date_updated": 1771986055,
+    "date_posted": 1771986055,
+    "url": "https://jobs.smartrecruiters.com/Mindlance2/93714841",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Mindlance",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "PermitFlow",
+    "id": "7fa1d4d8-c83e-4dbb-8172-66eff3bb6363",
+    "title": "Fullstack Software Engineer \u2013 New Grad",
+    "active": true,
+    "date_updated": 1771985297,
+    "date_posted": 1771985297,
+    "url": "https://jobs.ashbyhq.com/permitflow/78b1fccf-2ed9-4485-bd40-4a5aea3907d4/application",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/PermitFlow",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Xometry",
+    "id": "99ce9dbb-3f54-4256-adcd-8bd31a34b52a",
+    "title": "Application Engineer - Injection Molding",
+    "active": true,
+    "date_updated": 1771975905,
+    "date_posted": 1771975905,
+    "url": "https://job-boards.greenhouse.io/xometry/jobs/5061787007",
+    "locations": [
+      "Lexington, KY"
+    ],
+    "company_url": "https://simplify.jobs/c/Xometry",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "MBA",
+      "PharmD",
+      "PhD",
+      "Associate's",
+      "JD",
+      "MD"
+    ]
   }
 ]
