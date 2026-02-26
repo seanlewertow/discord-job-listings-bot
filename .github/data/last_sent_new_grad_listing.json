@@ -108375,5 +108375,99 @@
       "Bachelor's",
       "Associate's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Procom",
+    "id": "c92568a6-30a9-4e93-95d9-9510a0d02896",
+    "title": "Hardware Technician",
+    "active": true,
+    "date_updated": 1772003786,
+    "date_posted": 1772003786,
+    "url": "https://jobs.smartrecruiters.com/ProcomConsultantsGroup/87636481",
+    "locations": [
+      "Hillsboro, OR"
+    ],
+    "company_url": "https://simplify.jobs/c/Procom",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Penumbra Inc",
+    "id": "b45a070d-b505-4adf-82bf-58c6453ab73c",
+    "title": "Equipment Technician 1",
+    "active": true,
+    "date_updated": 1772100742,
+    "date_posted": 1769134481,
+    "url": "https://jobs.lever.co/penumbrainc/a5b2c80f-eb4f-415d-bdc9-1a21bed3dcb1/apply",
+    "locations": [
+      "Roseville, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Penumbra-Inc",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Hawk-Eye Innovations",
+    "id": "04fd7ec0-7f43-4da3-9cf0-f811006458f9",
+    "title": "Sports Systems Operator",
+    "active": true,
+    "date_updated": 1772100464,
+    "date_posted": 1769094618,
+    "url": "https://jobs.ashbyhq.com/hawkeyeinnovations/5c83702c-c14f-45f6-acf3-3ac09ccff854/application",
+    "locations": [
+      "Basingstoke, UK",
+      "Southampton, UK",
+      "Reading, UK",
+      "London, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Hawk-Eye-Innovations",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "d4ce2d2b-eead-43a4-aa65-92fcf9d83d82",
+    "title": "Nightshift Trading Assistant",
+    "active": true,
+    "date_updated": 1772102538,
+    "date_posted": 1772102538,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400050817",
+    "locations": [
+      "Bristol, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "BILL",
+    "id": "01c38331-46d9-42b8-bbc5-4bf42bd36c0d",
+    "title": "Software Engineer 2 - Infrastructure",
+    "active": true,
+    "date_updated": 1772102447,
+    "date_posted": 1768260683,
+    "url": "https://www.bill.com/job?5753953004&gh_jid=5753953004",
+    "locations": [
+      "Draper, UT",
+      "San Jose, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Bill-Dot-Com",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
