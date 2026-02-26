@@ -108511,5 +108511,64 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "The Home Depot",
+    "id": "54c8da43-ec5e-4993-9d80-f7284120ae8f",
+    "title": "Associate Data Scientist - Tools & Automation",
+    "active": true,
+    "date_updated": 1772120152,
+    "date_posted": 1772120152,
+    "url": "https://homedepot.wd5.myworkdayjobs.com/careerdepot/job/STORE-SUPPORT-CENTER-ATLANTA---9090/Associate-Data-Scientist---Tools---Automation_Req169893",
+    "locations": [
+      "Atlanta, GA"
+    ],
+    "company_url": "https://simplify.jobs/c/The-Home-Depot",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "The Home Depot",
+    "id": "1431b554-2ee2-4f2e-980b-60cf32ba3a7f",
+    "title": "Data Analyst - Solutions Strategy - Analytics",
+    "active": true,
+    "date_updated": 1772120149,
+    "date_posted": 1772120149,
+    "url": "https://homedepot.wd5.myworkdayjobs.com/careerdepot/job/STORE-SUPPORT-CENTER-ATLANTA---9090/Data-Analyst---Solutions-Strategy--Analytics_Req169178-1",
+    "locations": [
+      "Atlanta, GA"
+    ],
+    "company_url": "https://simplify.jobs/c/The-Home-Depot",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Palantir",
+    "id": "a8ce51d6-0756-4ce0-949a-618e2f755b99",
+    "title": "Software Engineer \u2013 New Grad - Production Infrastructure",
+    "active": true,
+    "date_updated": 1767696520,
+    "date_posted": 1762540600,
+    "url": "https://jobs.lever.co/palantir/e1a6c138-98bf-45e2-97f7-2c70371cc38a/apply",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Palantir",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
