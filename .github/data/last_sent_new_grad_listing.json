@@ -108570,5 +108570,97 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Brink",
+    "id": "9beb1be7-a0ab-420d-b931-543d792b9fcc",
+    "title": "ATM Technician",
+    "active": true,
+    "date_updated": 1772147514,
+    "date_posted": 1772147514,
+    "url": "https://brinks.wd5.myworkdayjobs.com/brinkscareersus/job/Richmond-VA/ATM-Technician_R70661",
+    "locations": [
+      "Richmond, VA"
+    ],
+    "company_url": "https://simplify.jobs/c/Brink",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "4432e135-157f-4c02-bc02-5c0d8ac87350",
+    "title": "Trading Assistant - Shift",
+    "active": true,
+    "date_updated": 1772147506,
+    "date_posted": 1772147506,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400051082",
+    "locations": [
+      "Crawley, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "HEXAWARE",
+    "id": "8e6dedec-ef14-469b-9a85-785c67d78c47",
+    "title": "Java Full Stack Engineer - Associate",
+    "active": true,
+    "date_updated": 1772147331,
+    "date_posted": 1772147331,
+    "url": "https://fa-etqo-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/594225",
+    "locations": [
+      "United States"
+    ],
+    "company_url": "https://simplify.jobs/c/HEXAWARE",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "Connection",
+    "id": "0eca49b9-0851-4500-ad80-94a7d07e4e0b",
+    "title": "Product Data Editor - Product Data",
+    "active": true,
+    "date_updated": 1772147202,
+    "date_posted": 1772147202,
+    "url": "https://careers-connection.icims.com/jobs/10118/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Merrimack, NH"
+    ],
+    "company_url": "https://simplify.jobs/c/Connection",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Wood Mackenzie",
+    "id": "e9a3e02b-8677-4eb8-95a4-c994427d1682",
+    "title": "Research Associate - Metereology",
+    "active": true,
+    "date_updated": 1772147144,
+    "date_posted": 1772147144,
+    "url": "https://woodmac.wd3.myworkdayjobs.com/woodmaccareers/job/Edinburgh-GB/Research-Associate---Metereology_JR2672",
+    "locations": [
+      "Edinburgh, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Wood-Mackenzie",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
