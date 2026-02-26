@@ -108296,5 +108296,84 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Sonsoft",
+    "id": "406a1ad2-84a8-4641-8cba-c53662f5b9a3",
+    "title": "Bigdata with Java Background",
+    "active": true,
+    "date_updated": 1772090913,
+    "date_posted": 1772090913,
+    "url": "https://jobs.smartrecruiters.com/SonsoftInc/114573789",
+    "locations": [
+      "Phoenix, AZ"
+    ],
+    "company_url": "https://simplify.jobs/c/Sonsoft",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Smiths Detection Group",
+    "id": "cd8afe96-69db-4e04-983b-f32197b6d2e9",
+    "title": "Embedded Software Engineer",
+    "active": true,
+    "date_updated": 1772090592,
+    "date_posted": 1772090592,
+    "url": "https://jobs.smartrecruiters.com/SmithsGroup2/744000103765506",
+    "locations": [
+      "Watford, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Smiths-Detection-Group",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Sonsoft",
+    "id": "195c45a8-1b16-4c97-ae70-3d231bb8aa36",
+    "title": "Java / Apache Camel",
+    "active": true,
+    "date_updated": 1772090883,
+    "date_posted": 1772090883,
+    "url": "https://jobs.smartrecruiters.com/SonsoftInc/743999653322880",
+    "locations": [
+      "Phoenix, AZ"
+    ],
+    "company_url": "https://simplify.jobs/c/Sonsoft",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Leidos",
+    "id": "c3033082-ae78-4d17-9069-7de7093198a1",
+    "title": "Cartographer",
+    "active": true,
+    "date_updated": 1772099652,
+    "date_posted": 1771975448,
+    "url": "https://leidos.wd5.myworkdayjobs.com/External/job/St-Louis-MO/Geospatial-Discovery---Collection-Specialist_R-00176633",
+    "locations": [
+      "St. Louis, MO"
+    ],
+    "company_url": "https://simplify.jobs/c/Leidos",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Associate's"
+    ]
   }
 ]
