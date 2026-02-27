@@ -109141,5 +109141,25 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "MSI",
+    "id": "e7fb3bdf-80d0-4c67-ba87-2cb46301e583",
+    "title": "Catastrophe Modeling Analyst - Msi",
+    "active": true,
+    "date_updated": 1772195234,
+    "date_posted": 1771697063,
+    "url": "https://baldwin.wd1.myworkdayjobs.com/MSI/job/Remote-US/Catastrophe-Modeling-Analyst---MSI_JR109072",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/MSI",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
