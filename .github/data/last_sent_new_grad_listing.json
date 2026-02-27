@@ -108867,5 +108867,101 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "STEM Expert",
+    "id": "84815ec7-87e6-4dab-b4b1-a8ce1101643a",
+    "title": "Customer Engineer/Field Service Tech-Dallas - TX",
+    "active": true,
+    "date_updated": 1772176374,
+    "date_posted": 1772176374,
+    "url": "https://jobs.smartrecruiters.com/StemXpert1/81482639",
+    "locations": [
+      "Dallas, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/STEM-Expert",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Testing Xperts",
+    "id": "ef9e0f33-1078-45dc-b96b-17e6dca86073",
+    "title": "Big Data/Scala Developer",
+    "active": true,
+    "date_updated": 1772176152,
+    "date_posted": 1772176152,
+    "url": "https://jobs.smartrecruiters.com/TestingXperts/743999655943582",
+    "locations": [
+      "Eagan, MN"
+    ],
+    "company_url": "https://simplify.jobs/c/Testing-Xperts",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Testing Xperts",
+    "id": "7dc394d2-f995-43f7-8f5b-b7ff42eca585",
+    "title": "Datastage Administration",
+    "active": true,
+    "date_updated": 1772176160,
+    "date_posted": 1772176160,
+    "url": "https://jobs.smartrecruiters.com/TestingXperts/743999657154606",
+    "locations": [
+      "Milwaukee, WI"
+    ],
+    "company_url": "https://simplify.jobs/c/Testing-Xperts",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Testing Xperts",
+    "id": "1b014c6d-16f7-4573-a4f5-7afe869d2962",
+    "title": "Friedman Frontier Technical Expert",
+    "active": true,
+    "date_updated": 1772176166,
+    "date_posted": 1772176166,
+    "url": "https://jobs.smartrecruiters.com/TestingXperts/109989495",
+    "locations": [
+      "Cincinnati, OH"
+    ],
+    "company_url": "https://simplify.jobs/c/Testing-Xperts",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Testing Xperts",
+    "id": "fc45a7f4-374b-4923-93f1-e6d64d9426dd",
+    "title": "SAP Functional - Sap PM",
+    "active": true,
+    "date_updated": 1772177062,
+    "date_posted": 1772177062,
+    "url": "https://jobs.smartrecruiters.com/TestingXperts/115207543",
+    "locations": [
+      "SF"
+    ],
+    "company_url": "https://simplify.jobs/c/Testing-Xperts",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
