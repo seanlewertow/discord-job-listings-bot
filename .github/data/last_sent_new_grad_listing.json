@@ -108766,5 +108766,106 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Spruce InfoTech",
+    "id": "186e6470-46e6-4b9b-aab9-b6bc85809573",
+    "title": "Senior Programmer / Analyst - MicroStrategy Developer",
+    "active": true,
+    "date_updated": 1772157859,
+    "date_posted": 1772157859,
+    "url": "https://jobs.smartrecruiters.com/SpruceInfotechInc/83681180",
+    "locations": [
+      "Harrisburg, PA"
+    ],
+    "company_url": "https://simplify.jobs/c/Spruce-InfoTech",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Tower Research Capital",
+    "id": "abe09edc-f848-4592-9a3e-17672d62e78e",
+    "title": "Senior Data Analyst",
+    "active": true,
+    "date_updated": 1772160042,
+    "date_posted": 1772160042,
+    "url": "https://www.tower-research.com/open-positions/?gh_jid=7655792",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Tower-Research-Capital",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Tower Research Capital",
+    "id": "76338ee1-134d-41bc-9983-f330ff6061f7",
+    "title": "Quantitative Researcher",
+    "active": true,
+    "date_updated": 1772160042,
+    "date_posted": 1772160042,
+    "url": "https://www.tower-research.com/open-positions/?gh_jid=7659865",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Tower-Research-Capital",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Athena Health",
+    "id": "ad2beae1-acd9-4a9e-83fc-dd459c425079",
+    "title": "Associate Software Engineer",
+    "active": true,
+    "date_updated": 1772159461,
+    "date_posted": 1772159461,
+    "url": "https://athenahealth.wd1.myworkdayjobs.com/en-US/External/job/Boston-MA/Associate-Software-Engineer--Platform---COCore_R14456",
+    "locations": [
+      "Boston, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/e955406a-7989-4ed8-aff1-01032b96e141",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Sony Pictures Imageworks",
+    "id": "53ef7a5d-4218-4ac7-ba6f-f07c3734b8f5",
+    "title": "Associate Software Engineer",
+    "active": true,
+    "date_updated": 1772159248,
+    "date_posted": 1772159248,
+    "url": "https://job-boards.greenhouse.io/sonypicturesimageworks/jobs/7641507003",
+    "locations": [
+      "Vancouver, BC, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Sony-Pictures-Imageworks",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
