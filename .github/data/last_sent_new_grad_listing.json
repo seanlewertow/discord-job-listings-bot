@@ -109258,5 +109258,23 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "USM Business Systems",
+    "id": "195694df-fb1c-4340-b90c-8dc7a7a7f05b",
+    "title": "Java Developer - Need Locals",
+    "active": true,
+    "date_updated": 1772206034,
+    "date_posted": 1772206034,
+    "url": "https://jobs.smartrecruiters.com/USM2/100375794",
+    "locations": [
+      "Alexandria, VA"
+    ],
+    "company_url": "https://simplify.jobs/c/USM-Business-Systems",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
