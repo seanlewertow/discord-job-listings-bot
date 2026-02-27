@@ -109161,5 +109161,102 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Arcadis",
+    "id": "9e959e22-3779-44bb-a819-d4d31e425c0e",
+    "title": "Junior Software Engineer",
+    "active": true,
+    "date_updated": 1772205145,
+    "date_posted": 1772205145,
+    "url": "https://ebcs.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/38201",
+    "locations": [
+      "Boca Raton, FL"
+    ],
+    "company_url": "https://simplify.jobs/c/Arcadis",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "L3Harris Technologies",
+    "id": "3be9db47-fb9f-4359-b5d7-444ec35ae1f5",
+    "title": "Engineering Technician B",
+    "active": true,
+    "date_updated": 1772205184,
+    "date_posted": 1772205184,
+    "url": "https://jobs.l3harris.com/job/Salt-Lake-City-Engineering-Technician-B-UT-84116/1368645000/?ats=successfactors",
+    "locations": [
+      "Salt Lake City, UT"
+    ],
+    "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Associate's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "820f6bd1-43dd-4da6-8bdc-ce2852cbb0bd",
+    "title": "Trading Assistant",
+    "active": true,
+    "date_updated": 1772204991,
+    "date_posted": 1772204991,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400051335",
+    "locations": [
+      "Stoke-on-Trent, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "Google",
+    "id": "776fe69f-3ae3-467a-bea5-cfd38dfc5bac",
+    "title": "Product Manager 1",
+    "active": true,
+    "date_updated": 1772204926,
+    "date_posted": 1772204926,
+    "url": "https://www.google.com/about/careers/applications/jobs/results/89488037473329862",
+    "locations": [
+      "London, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Google",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "6d7696a8-f027-4e46-ae7b-2b91f78770ee",
+    "title": "Trading Assistant",
+    "active": true,
+    "date_updated": 1772204986,
+    "date_posted": 1772204986,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400051329",
+    "locations": [
+      "Stoke-on-Trent, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
