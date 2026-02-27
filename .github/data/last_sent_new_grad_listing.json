@@ -109103,5 +109103,25 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Northrop Grumman",
+    "id": "adcea19e-2ee2-4a4e-bf47-49adee9baeab",
+    "title": "Associate Systems Engineer / Systems Engineering",
+    "active": true,
+    "date_updated": 1771977561,
+    "date_posted": 1771977561,
+    "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Dulles/XMLNAME-2026-Associate-Systems-Engineer---Systems-Engineering---TOP-SECRET-CLEARANCE-REQUIRED---Dulles-VA_R10222819-1",
+    "locations": [
+      "Dulles, VA"
+    ],
+    "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
