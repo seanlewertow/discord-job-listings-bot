@@ -109276,5 +109276,108 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Peraton",
+    "id": "0d6f581a-353c-4517-956e-ecd7d66b87ee",
+    "title": "Java Software Engineer",
+    "active": true,
+    "date_updated": 1772233874,
+    "date_posted": 1772233874,
+    "url": "https://careers-peraton.icims.com/jobs/164031/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Reston, VA"
+    ],
+    "company_url": "https://simplify.jobs/c/Peraton",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Peraton",
+    "id": "b4c2db2d-3859-453b-823e-8dc517020ce3",
+    "title": "Cloud Software Engineer 1",
+    "active": true,
+    "date_updated": 1772233846,
+    "date_posted": 1772233846,
+    "url": "https://careers-peraton.icims.com/jobs/164003/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Odenton, MD"
+    ],
+    "company_url": "https://simplify.jobs/c/Peraton",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Gulfstream",
+    "id": "1ada42df-efc6-4e8c-856e-1849c89ba6ad",
+    "title": "Business Intelligence Analyst 1",
+    "active": true,
+    "date_updated": 1772233792,
+    "date_posted": 1772233792,
+    "url": "https://careers.gulfstream.com/job/Savannah-Business-Intelligence-Analyst-I-GA-31401/1368889100/?ats=successfactors",
+    "locations": [
+      "Savannah, GA"
+    ],
+    "company_url": "https://simplify.jobs/c/Gulfstream",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "Google",
+    "id": "0ba1846d-55d9-466b-afda-8ef200e973e9",
+    "title": "Product Manager 1 - Geo",
+    "active": true,
+    "date_updated": 1772233849,
+    "date_posted": 1772233849,
+    "url": "https://www.google.com/about/careers/applications/jobs/results/141618563805782726",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Google",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Ernst & Young",
+    "id": "2947961a-c71c-450a-a8db-7081cccd06bc",
+    "title": "Data Architecture & Engineering \u2013 Senior - Financial Services - Consulting",
+    "active": true,
+    "date_updated": 1770517091,
+    "date_posted": 1770517091,
+    "url": "https://careers.ey.com/ey/job/New-York-Data-Architecture-&-Engineering-Senior-Financial-Services-Consulting-NYC-NY-10001-8604/1258471601/",
+    "locations": [
+      "NYC",
+      "Charlotte, NC",
+      "Dallas, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Ernst-And-Young",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "MBA"
+    ]
   }
 ]
