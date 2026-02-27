@@ -109023,5 +109023,23 @@
     "degrees": [
       "Master's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Sonsoft",
+    "id": "c0875f33-2e0f-426b-bcc4-3f44169b2f23",
+    "title": "Data Analyst - SAS/R Web Analytics",
+    "active": true,
+    "date_updated": 1772090923,
+    "date_posted": 1772090923,
+    "url": "https://jobs.smartrecruiters.com/SonsoftInc/111859058",
+    "locations": [
+      "Arlington, VA"
+    ],
+    "company_url": "https://simplify.jobs/c/Sonsoft",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
