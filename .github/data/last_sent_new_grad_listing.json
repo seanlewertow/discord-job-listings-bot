@@ -109123,5 +109123,23 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "AAA Club Alliance",
+    "id": "f6086171-fd31-4973-b46f-ae69734fd2c3",
+    "title": "Battery Service Technician",
+    "active": true,
+    "date_updated": 1772191690,
+    "date_posted": 1771690487,
+    "url": "https://ace.wd5.myworkdayjobs.com/careers/job/Suffolk-VA/Battery-Service-Technician_JR202633842",
+    "locations": [
+      "Suffolk, VA"
+    ],
+    "company_url": "https://simplify.jobs/c/AAA-Club-Alliance",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
