@@ -108963,5 +108963,65 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "STEM Expert",
+    "id": "9d4eba4c-265c-4927-8f61-64bae5fc64d4",
+    "title": ".net developer",
+    "active": true,
+    "date_updated": 1772176351,
+    "date_posted": 1772176351,
+    "url": "https://jobs.smartrecruiters.com/StemXpert1/88992015",
+    "locations": [
+      "South Jordan, UT"
+    ],
+    "company_url": "https://simplify.jobs/c/STEM-Expert",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Silvus Technologies",
+    "id": "ebcb3f1e-6053-4ab1-bff4-0dec7f71066b",
+    "title": "Embedded Software Engineer - Web Interface Developer",
+    "active": true,
+    "date_updated": 1772178276,
+    "date_posted": 1755297262,
+    "url": "https://job-boards.greenhouse.io/silvus/jobs/4882698008",
+    "locations": [
+      "LA"
+    ],
+    "company_url": "https://simplify.jobs/c/Silvus-Tech",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Electronic Arts",
+    "id": "1d25b0d9-a396-4837-a9d5-8bf63c036d3f",
+    "title": "Data Scientist Mobile Growth",
+    "active": true,
+    "date_updated": 1772184224,
+    "date_posted": 1767914079,
+    "url": "https://jobs.ea.com/en_US/careers/JobDetail/Data-Scientist-Mobile-Growth/211632",
+    "locations": [
+      "Vancouver, BC, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Electronic-Arts",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Master's"
+    ]
   }
 ]
