@@ -109857,5 +109857,25 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Warner Bros.",
+    "id": "26854240-d8dd-4035-980b-a783e4092d48",
+    "title": "Growth and Audience Analyst",
+    "active": true,
+    "date_updated": 1772284003,
+    "date_posted": 1771975543,
+    "url": "https://warnerbros.wd5.myworkdayjobs.com/global/job/GA-Atlanta-1050-Techwood-Drive-NW/Growth---Audience-Analyst--Sports--Temporary-_R000103155",
+    "locations": [
+      "Atlanta, GA"
+    ],
+    "company_url": "https://simplify.jobs/c/Warner-Bros",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
