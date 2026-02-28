@@ -109740,5 +109740,46 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "The Boeing Company",
+    "id": "115f0882-ed90-4534-84d8-8e36b60ec0c4",
+    "title": "Spacecraft Software Engineer",
+    "active": true,
+    "date_updated": 1772277407,
+    "date_posted": 1772149881,
+    "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---El-Segundo-CA/Spacecraft-Software-Engineer--Associate-or-Mid-Level---Millennium-Space-Systems_JR2026498434-1",
+    "locations": [
+      "El Segundo, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Boeing",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "MBA",
+      "PhD"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "SendBird",
+    "id": "02f33c49-b932-4c3e-bffa-4b56fe65c126",
+    "title": "Forward Deployed Engineer",
+    "active": true,
+    "date_updated": 1772277225,
+    "date_posted": 1763712314,
+    "url": "https://sendbird.com/careers?gh_jid=8051713002",
+    "locations": [
+      "San Mateo, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/SendBird",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
