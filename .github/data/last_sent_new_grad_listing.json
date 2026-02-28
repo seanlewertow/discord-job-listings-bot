@@ -109781,5 +109781,27 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Booz Allen",
+    "id": "4710caa5-3f92-4e40-9587-fb3f8b30a25c",
+    "title": "Data Scientist",
+    "active": true,
+    "date_updated": 1772278719,
+    "date_posted": 1771889439,
+    "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/Data-Scientist_R0234498",
+    "locations": [
+      "Chantilly, VA",
+      "McLean, VA"
+    ],
+    "company_url": "https://simplify.jobs/c/Booz-Allen",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
   }
 ]
