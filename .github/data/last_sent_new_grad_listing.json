@@ -109684,5 +109684,61 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "JP Morgan Chase",
+    "id": "2d6b9d59-5087-4fce-97dc-18f71f25f4a8",
+    "title": "Applied AIML Data Scientist - Associate",
+    "active": true,
+    "date_updated": 1772274654,
+    "date_posted": 1772061548,
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210717169",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/JP-Morgan-Chase",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Aurora Innovation",
+    "id": "24b83bb2-26be-4e54-be33-c97aa68bcf06",
+    "title": "Fleet Operations Technician 1",
+    "active": true,
+    "date_updated": 1772276192,
+    "date_posted": 1771631111,
+    "url": "https://aurora.tech/jobs/8409884002?gh_jid=8409884002",
+    "locations": [
+      "Dallas, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Aurora-Innovation",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Tavily",
+    "id": "2df09fdc-31ca-43fb-b7cf-868be637c671",
+    "title": "Software Engineer",
+    "active": true,
+    "date_updated": 1772275177,
+    "date_posted": 1761911352,
+    "url": "https://jobs.ashbyhq.com/tavily/4e7a2647-0bd5-47e0-a894-ad32366344ad/application",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Tavily",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
