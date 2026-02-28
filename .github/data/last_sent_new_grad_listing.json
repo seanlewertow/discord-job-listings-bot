@@ -109607,5 +109607,82 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Vertiv",
+    "id": "145bbb3d-2796-427a-8786-78e949bfd84a",
+    "title": "ERS-NETA Electrical Testing Technician - El Paso",
+    "active": true,
+    "date_updated": 1772234225,
+    "date_posted": 1772234225,
+    "url": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20267886",
+    "locations": [
+      "Albuquerque, NM",
+      "El Paso, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Vertiv",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Fanatics",
+    "id": "8b3cbdfb-7b67-4f99-bfae-d33e8f80ac3a",
+    "title": "Trader 1 \u2013 International General Sports Risk",
+    "active": true,
+    "date_updated": 1772271981,
+    "date_posted": 1772147483,
+    "url": "https://fa-exki-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26884",
+    "locations": [
+      "Denver, CO"
+    ],
+    "company_url": "https://simplify.jobs/c/Fanatics",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Altice USA",
+    "id": "e45c6fbb-512a-49aa-b5e0-a1383db2cdea",
+    "title": "Software Development Engineer 2",
+    "active": true,
+    "date_updated": 1772270853,
+    "date_posted": 1764502980,
+    "url": "https://www.optimumcareers.com/job/Bethpage-Software-Development-Engineer-II-NY-11714/1315636500/?ats=successfactors",
+    "locations": [
+      "Plainview, NY"
+    ],
+    "company_url": "https://simplify.jobs/c/Altice-USA",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "4bba4287-158c-464e-bb65-81c2b7e6af85",
+    "title": "Trading Assistant - Shift",
+    "active": true,
+    "date_updated": 1772273268,
+    "date_posted": 1772273268,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400051404",
+    "locations": [
+      "Oxford, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
