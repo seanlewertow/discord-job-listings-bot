@@ -109931,5 +109931,23 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "06433bed-6e0b-4146-8dc8-a837c8d18053",
+    "title": "Trading Assistant",
+    "active": true,
+    "date_updated": 1772291453,
+    "date_posted": 1772291453,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400051448",
+    "locations": [
+      "Ipswich, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
