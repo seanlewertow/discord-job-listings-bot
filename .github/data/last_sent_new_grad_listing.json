@@ -110491,5 +110491,102 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "92b9f3a0-ad3c-4819-88ab-547c3a548b4e",
+    "title": "Trading Assistant - Local",
+    "active": true,
+    "date_updated": 1772464266,
+    "date_posted": 1772464266,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400051658",
+    "locations": [
+      "Durham, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "6132fe08-6d55-4cea-8039-561d815efea8",
+    "title": "Trading Assistant",
+    "active": true,
+    "date_updated": 1772464293,
+    "date_posted": 1772464293,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400051620",
+    "locations": [
+      "Manchester, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "5dcd658f-2e4d-4092-8951-364b0e5abc34",
+    "title": "Trading Assistant",
+    "active": true,
+    "date_updated": 1772464259,
+    "date_posted": 1772464259,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400051612",
+    "locations": [
+      "Warwick, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "5546efef-4437-45b1-9c87-e989643440d4",
+    "title": "Trading Assistant",
+    "active": true,
+    "date_updated": 1772464285,
+    "date_posted": 1772464285,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400051608",
+    "locations": [
+      "United Kingdom"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Visa",
+    "id": "24fc33dd-8d4f-4eda-9a69-ca48a5bbb598",
+    "title": "Data Scientist",
+    "active": true,
+    "date_updated": 1772464106,
+    "date_posted": 1772464106,
+    "url": "https://jobs.smartrecruiters.com/Visa/744000112182958",
+    "locations": [
+      "San Mateo, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Visa",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "MBA",
+      "PhD",
+      "JD",
+      "MD"
+    ]
   }
 ]
