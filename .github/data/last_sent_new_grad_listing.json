@@ -110686,5 +110686,26 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Bank of Montreal",
+    "id": "f87afa85-2004-41a4-b51e-1eefe2c6a6d3",
+    "title": "Analyst \u2013 Software Engineer - C#",
+    "active": true,
+    "date_updated": 1772466845,
+    "date_posted": 1772466845,
+    "url": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Analyst--Software-Engineer--C--_R260006682",
+    "locations": [
+      "Toronto, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/BMO",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
   }
 ]
