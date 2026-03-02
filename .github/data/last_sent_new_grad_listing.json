@@ -110707,5 +110707,105 @@
       "Bachelor's",
       "Master's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Peraton",
+    "id": "01e3d558-c11d-409e-af2f-e595ed58726b",
+    "title": "Software Engineer",
+    "active": true,
+    "date_updated": 1772493131,
+    "date_posted": 1772493131,
+    "url": "https://careers-peraton.icims.com/jobs/164049/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Santa Clara, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Peraton",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "00a457ad-169a-479c-854c-ef0aadfa01bf",
+    "title": "Trading Assistant",
+    "active": true,
+    "date_updated": 1772493134,
+    "date_posted": 1772493134,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400051718",
+    "locations": [
+      "Newcastle upon Tyne, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Kettering Health",
+    "id": "a2c90496-0e59-41b0-949d-d942e85c97fa",
+    "title": "Clin Analytics Analyst - Information Systems Analytic Health",
+    "active": true,
+    "date_updated": 1772492851,
+    "date_posted": 1772492851,
+    "url": "https://careers-ketteringhealth.icims.com/jobs/58221/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Miamisburg, OH"
+    ],
+    "company_url": "https://simplify.jobs/c/Kettering-Health",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Associate's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Corning",
+    "id": "2f797998-5279-4507-a799-9438ba16aaf2",
+    "title": "Software Engineer",
+    "active": true,
+    "date_updated": 1772492965,
+    "date_posted": 1772492965,
+    "url": "https://corningjobs.corning.com/job/Corning-Software-Engineer-NY-14831/1369203400/?ats=successfactors",
+    "locations": [
+      "Elmira, NY"
+    ],
+    "company_url": "https://simplify.jobs/c/Corning",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Associate's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Savannah River Mission Completion",
+    "id": "b7958617-bc3c-4fd5-8956-a6754ad6f616",
+    "title": "IT Programmer Analyst / Full Stack Developer",
+    "active": true,
+    "date_updated": 1772492557,
+    "date_posted": 1772492557,
+    "url": "https://careers-fsse-srmc.icims.com/jobs/1907/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "North Augusta, SC"
+    ],
+    "company_url": "https://simplify.jobs/c/Savannah-River-Mission-Completion",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Associate's"
+    ]
   }
 ]
