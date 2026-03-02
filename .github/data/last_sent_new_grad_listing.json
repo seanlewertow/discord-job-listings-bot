@@ -110453,5 +110453,25 @@
     "degrees": [
       "Master's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Anaplan",
+    "id": "895e55c8-1748-43fd-ae12-9aee8d440a76",
+    "title": "Junior Software Engineer - Dev Academy",
+    "active": true,
+    "date_updated": 1772449795,
+    "date_posted": 1772449795,
+    "url": "https://job-boards.greenhouse.io/anaplan/jobs/8395642002",
+    "locations": [
+      "Manchester, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Anaplan",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
