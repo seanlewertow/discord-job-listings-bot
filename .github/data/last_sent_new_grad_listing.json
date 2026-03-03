@@ -111353,5 +111353,98 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "0a938d7d-8ba5-48a7-97c8-730553d2a70d",
+    "title": "Trading Assistant - Shift",
+    "active": true,
+    "date_updated": 1772550521,
+    "date_posted": 1772550521,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400051795",
+    "locations": [
+      "Stoke-on-Trent, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "09b85543-3365-4ae2-bc08-6266d202a5b5",
+    "title": "Trading Assistant",
+    "active": true,
+    "date_updated": 1772550523,
+    "date_posted": 1772550523,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400051829",
+    "locations": [
+      "Bolton, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "099f6e54-68ef-49de-965f-71b43eefab3b",
+    "title": "Trading Assistant",
+    "active": true,
+    "date_updated": 1772550520,
+    "date_posted": 1772550520,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400051823",
+    "locations": [
+      "Bristol, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "08f8ac2d-8d18-42eb-a88d-3472b81ed0e2",
+    "title": "Trading Assistant",
+    "active": true,
+    "date_updated": 1772550531,
+    "date_posted": 1772550531,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400048704",
+    "locations": [
+      "Northamptonshire, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Visa",
+    "id": "e9a85c04-5aec-46d3-b10f-dce36d4c9df3",
+    "title": "Senior SW Engineer",
+    "active": true,
+    "date_updated": 1772550372,
+    "date_posted": 1772550372,
+    "url": "https://jobs.smartrecruiters.com/Visa/744000112409796",
+    "locations": [
+      "Austin, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Visa",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
   }
 ]
