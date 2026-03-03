@@ -111107,5 +111107,71 @@
       "Master's",
       "PhD"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Persistent Systems",
+    "id": "1d5b2dcc-bdeb-4c37-af87-e5242b837fbb",
+    "title": "Microsoft Power Platform Specialist",
+    "active": true,
+    "date_updated": 1772529977,
+    "date_posted": 1770159999,
+    "url": "https://careers-persistentsystems.icims.com/jobs/2159/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Persistent-Systems",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "Google",
+    "id": "51e72308-b3d1-4bf6-9944-346d046b98c6",
+    "title": "Product Manager 1 - Ads",
+    "active": true,
+    "date_updated": 1772530336,
+    "date_posted": 1769642005,
+    "url": "https://www.google.com/about/careers/applications/jobs/results/120120494773936838",
+    "locations": [
+      "Mountain View, CA",
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Google",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "PhD"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Google",
+    "id": "18a890c1-4548-4bd2-ad55-f7e977fa0b2e",
+    "title": "Software Engineer 3 - Infrastructure - Google Cloud Networking",
+    "active": true,
+    "date_updated": 1772530370,
+    "date_posted": 1765436869,
+    "url": "https://www.google.com/about/careers/applications/jobs/results/115140583005004486",
+    "locations": [
+      "Sunnyvale, CA",
+      "SF"
+    ],
+    "company_url": "https://simplify.jobs/c/Google",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "PhD"
+    ]
   }
 ]
