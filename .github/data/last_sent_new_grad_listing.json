@@ -111271,5 +111271,87 @@
       "Bachelor's",
       "Master's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Agilent Technologies",
+    "id": "7ed4118b-233a-401e-9ba4-46c5aa442c1d",
+    "title": "Optics and Data Scientist - Fixed term",
+    "active": true,
+    "date_updated": 1772539001,
+    "date_posted": 1772236725,
+    "url": "https://agilent.wd5.myworkdayjobs.com/Agilent_Careers/job/UK-Harwell/Optics-and-Data-Scientist_4036653",
+    "locations": [
+      "Oxford, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Agilent-Technologies",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Sonos",
+    "id": "95d55ccf-ffcc-469f-b37c-d62194806765",
+    "title": "Software Development Engineer 1 - Embedded Quality",
+    "active": true,
+    "date_updated": 1772538415,
+    "date_posted": 1771694989,
+    "url": "https://sonos.wd1.myworkdayjobs.com/Sonos/job/Boston-MA/Software-Development-Engineer---Embedded-Quality_R2641",
+    "locations": [
+      "Boston, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/Sonos",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Northrop Grumman",
+    "id": "16632bc0-caa8-4a0a-99af-2268a738cbda",
+    "title": "Energetics MFG Engineer/Princ Energetics MFG Engineer - Level 2 or Level 3",
+    "active": true,
+    "date_updated": 1772542055,
+    "date_posted": 1772286224,
+    "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Salt-Lake-City/Energetics-MFG-Engineer-Princ-Energetics-MFG-Engineer---Level-2-or-Level-3_R10222551",
+    "locations": [
+      "Salt Lake City, UT"
+    ],
+    "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "PhD"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Samsung",
+    "id": "1c0ad14f-24cb-4e5c-a945-81075f751fe2",
+    "title": "AMHS Engineer",
+    "active": true,
+    "date_updated": 1772542469,
+    "date_posted": 1772284068,
+    "url": "https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/1530-FM-973-Taylor-TX-USA/AMHS-System-Engineer_R112953-1",
+    "locations": [
+      "Pflugerville, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Samsung",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
