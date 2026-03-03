@@ -111543,5 +111543,100 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "ServiceNow",
+    "id": "5ff260b7-1974-4dd5-bfb7-5035c788adf4",
+    "title": "Software Engineer",
+    "active": true,
+    "date_updated": 1772579349,
+    "date_posted": 1772579349,
+    "url": "https://jobs.smartrecruiters.com/ServiceNow/744000112492389",
+    "locations": [
+      "Santa Clara, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/ServiceNow",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Huntington Ingalls Industries",
+    "id": "30987b18-2380-40f5-869a-6162000543cc",
+    "title": "Engineer Metrology 1",
+    "active": true,
+    "date_updated": 1772579442,
+    "date_posted": 1772579442,
+    "url": "https://careers.huntingtoningalls.com/job/Goose-Creek-ENGINEER-METROLOGY-1-Sout/1369713300/?ats=successfactors",
+    "locations": [
+      "Goose Creek, SC"
+    ],
+    "company_url": "https://simplify.jobs/c/Huntington-Ingalls-Industries",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Persistent Systems",
+    "id": "e2a651c3-45c3-40f6-9a4c-6c454ad428a5",
+    "title": "Assembly Technician",
+    "active": true,
+    "date_updated": 1772579215,
+    "date_posted": 1772579215,
+    "url": "https://careers-persistentsystems.icims.com/jobs/2186/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Persistent-Systems",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Blackhawk Network Holdings",
+    "id": "ac973f7f-0f9c-407f-959f-e97064683164",
+    "title": "Software Engineer 1",
+    "active": true,
+    "date_updated": 1772579048,
+    "date_posted": 1772579048,
+    "url": "https://careers-blackhawknetwork.icims.com/jobs/26246/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Pleasanton, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Blackhawk-Network-Holdings",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "Royal Caribbean Group",
+    "id": "ca8f948f-abeb-463e-bc57-6f8023948013",
+    "title": "Senior Analyst - Discovery & Innovations - Product Development",
+    "active": true,
+    "date_updated": 1769857868,
+    "date_posted": 1769857868,
+    "url": "https://jobs.royalcaribbeangroup.com/job/Miami-Senior-Analyst,-Discovery-&-Innovations,-Product-Development-FL-33132/1360721100/?ats=successfactors",
+    "locations": [
+      "Miami, FL"
+    ],
+    "company_url": "https://simplify.jobs/c/Royal-Caribbean-Group",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "MBA"
+    ]
   }
 ]
