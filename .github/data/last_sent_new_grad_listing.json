@@ -110999,5 +110999,113 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Leonardo",
+    "id": "d0c43012-7a70-45e4-a00c-0afefb7024ab",
+    "title": "Data Scientist",
+    "active": true,
+    "date_updated": 1772522882,
+    "date_posted": 1772522882,
+    "url": "https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---Bristol---Coldharbour-Lane/Data-Scientist_R0026228-1",
+    "locations": [
+      "Bristol, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Leonardo",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Leonardo",
+    "id": "813c27b3-6ee0-474e-9f8e-9a7bd2ed62cc",
+    "title": "Graduate Systems Engineer",
+    "active": true,
+    "date_updated": 1772522937,
+    "date_posted": 1772522937,
+    "url": "https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---Edinburgh/Graduate-Systems-Engineer_R0021876-1",
+    "locations": [
+      "Edinburgh, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Leonardo",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "PhD"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Leonardo",
+    "id": "3f316a47-3a79-49dd-8a58-b04d40c54f3c",
+    "title": "Graduate Software Engineer",
+    "active": true,
+    "date_updated": 1772522937,
+    "date_posted": 1772522937,
+    "url": "https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---Newcastle/Graduate-Software-Engineer_R0021727-1",
+    "locations": [
+      "Newcastle upon Tyne, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Leonardo",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "PhD"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Leonardo",
+    "id": "2825f193-e554-4754-9627-60117addc3c2",
+    "title": "Graduate Hardware Engineer",
+    "active": true,
+    "date_updated": 1772522941,
+    "date_posted": 1772522941,
+    "url": "https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---Luton---Cap-Green-300/Graduate-Hardware-Engineer_R0021503-1",
+    "locations": [
+      "Welwyn Garden City, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Leonardo",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "PhD"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Leonardo",
+    "id": "055be85e-42f3-4b88-b13b-0fe8ec27edf4",
+    "title": "Graduate Firmware Engineer",
+    "active": true,
+    "date_updated": 1772522935,
+    "date_posted": 1772522935,
+    "url": "https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---Luton---Cap-Green-300/Graduate-Firmware-Engineer_R0021509-1",
+    "locations": [
+      "Welwyn Garden City, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Leonardo",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "PhD"
+    ]
   }
 ]
