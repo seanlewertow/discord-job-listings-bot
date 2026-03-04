@@ -112231,5 +112231,99 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "a3f40d94-8c0b-451e-b3a8-102322d10bec",
+    "title": "Trading Assistant",
+    "active": true,
+    "date_updated": 1772625618,
+    "date_posted": 1772625618,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400051922",
+    "locations": [
+      "Trafford, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "67e0be47-727b-4c89-afdf-cb48c8418f96",
+    "title": "Trading Assistant - Shift",
+    "active": true,
+    "date_updated": 1772625625,
+    "date_posted": 1772625625,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400051917",
+    "locations": [
+      "Essex, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Appen",
+    "id": "253059ce-a0e2-47a2-990b-12ee752ed450",
+    "title": "Annotator",
+    "active": true,
+    "date_updated": 1772625658,
+    "date_posted": 1772625658,
+    "url": "https://jobs.lever.co/appen-2/1f8d6868-2f02-4f25-b8f0-464e7fccb036/apply",
+    "locations": [
+      "Lafayette, KS"
+    ],
+    "company_url": "https://simplify.jobs/c/Appen",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "FactSet",
+    "id": "b49efe67-b00c-40df-a03a-3565f7288687",
+    "title": "Junior Machine Learning Engineer - Multiple Teams",
+    "active": true,
+    "date_updated": 1771692223,
+    "date_posted": 1771692223,
+    "url": "https://factset.wd108.myworkdayjobs.com/FactSetCareers/job/London-GBR/Junior-Machine-Learning-Engineer--Python--Docker--and-API-development--Cloud-Architecture--AWS---AI-ML----Hybrid_R31340",
+    "locations": [
+      "London, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/FactSet",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "CoreWeave",
+    "id": "c58729a0-86d0-4011-b632-b65ba4603010",
+    "title": "Data Center Technician - Reno",
+    "active": true,
+    "date_updated": 1772627254,
+    "date_posted": 1769442049,
+    "url": "https://coreweave.com/careers/job?4647969006&board=coreweave&gh_jid=4647969006",
+    "locations": [
+      "Reno, NV"
+    ],
+    "company_url": "https://simplify.jobs/c/CoreWeave",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Associate's"
+    ]
   }
 ]
