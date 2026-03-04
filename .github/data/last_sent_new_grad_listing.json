@@ -112069,5 +112069,109 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Goldman Sachs",
+    "id": "6fd10ddf-26d4-4dac-938d-94b07f004498",
+    "title": "Compliance - Software Engineering - Vice President",
+    "active": true,
+    "date_updated": 1771255205,
+    "date_posted": 1771255205,
+    "url": "https://higher.gs.com/roles/161812",
+    "locations": [
+      "Birmingham, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Goldman-Sachs",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Stulz",
+    "id": "3ecb39a0-4163-4485-9a64-59a6d403a683",
+    "title": "BOM Configuration Specialist 1",
+    "active": true,
+    "date_updated": 1771024518,
+    "date_posted": 1771024518,
+    "url": "https://careers-us.stulz.com/job/Frederick,-Maryland-BOM-Configuration-Specialist-I-MD-21704/1364852100/?ats=successfactors",
+    "locations": [
+      "Frederick, MD"
+    ],
+    "company_url": "https://simplify.jobs/c/Stulz",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "L3Harris Technologies",
+    "id": "2174507d-b3cb-49df-8d6b-756be257de04",
+    "title": "Manufacturing Technician a",
+    "active": true,
+    "date_updated": 1772620695,
+    "date_posted": 1770862313,
+    "url": "https://jobs.l3harris.com/job/Redmond-Manufacturing-Technician-A-WA-98052/1364230000/?ats=successfactors",
+    "locations": [
+      "Redmond, WA"
+    ],
+    "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Amazon",
+    "id": "6498a11a-a3c0-4140-9c97-7ff648f4f59c",
+    "title": "Engineering Operations Technician - DCC Communities",
+    "active": true,
+    "date_updated": 1772621660,
+    "date_posted": 1768835576,
+    "url": "https://amazon.jobs/en/jobs/3160395/engineering-operations-technician-dcc-communities",
+    "locations": [
+      "Ridgeland, MS",
+      "Hermiston, OR",
+      "Sparks, NV",
+      "Levittown, PA",
+      "Nanticoke, PA",
+      "Austell, GA"
+    ],
+    "company_url": "https://simplify.jobs/c/Amazon",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "MBA",
+      "PhD",
+      "Associate's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Vertiv",
+    "id": "ab6a1407-32da-45e8-8ca5-15b170bbf181",
+    "title": "Customer Engineer 1-Chicago",
+    "active": true,
+    "date_updated": 1769857851,
+    "date_posted": 1761529518,
+    "url": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20256060",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/Vertiv",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
