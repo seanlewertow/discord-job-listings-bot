@@ -112497,5 +112497,97 @@
     "degrees": [
       "Associate's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "9f51280c-c2b7-42b8-b799-a2234bfbc339",
+    "title": "Trading Assistant",
+    "active": true,
+    "date_updated": 1772665720,
+    "date_posted": 1772665720,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400052036",
+    "locations": [
+      "Swindon, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Westinghouse Electric Company",
+    "id": "5b03093b-dc1e-4344-9373-7dd70b82a000",
+    "title": "GIS Technician",
+    "active": true,
+    "date_updated": 1772665728,
+    "date_posted": 1772665728,
+    "url": "https://careers.westinghousenuclear.com/job/Norwell-GIS-Technician-MA-02061/1370266200/?ats=successfactors",
+    "locations": [
+      "Gastonia, NC"
+    ],
+    "company_url": "https://simplify.jobs/c/Westinghouse-Electric-Company",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Carmeuse",
+    "id": "5adfd78d-25a4-4dfd-8b04-9cd936a675e8",
+    "title": "Salesforce Analyst",
+    "active": true,
+    "date_updated": 1772665713,
+    "date_posted": 1772665713,
+    "url": "https://ekiz.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/193390",
+    "locations": [
+      "Beavercreek, OH"
+    ],
+    "company_url": "https://simplify.jobs/c/Carmeuse",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "AVIAN",
+    "id": "c691bbad-b494-40d3-aafe-2f6dac3d0fd5",
+    "title": "Engineering Technician",
+    "active": true,
+    "date_updated": 1772665676,
+    "date_posted": 1772665676,
+    "url": "https://careers-avian.icims.com/jobs/2525/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Patuxent River, MD"
+    ],
+    "company_url": "https://simplify.jobs/c/AVIAN",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Barrios",
+    "id": "72e04f65-9137-4092-94aa-c83cc37bd8df",
+    "title": "ISS Real-Time Embedded Software Engineer",
+    "active": true,
+    "date_updated": 1772665677,
+    "date_posted": 1772665677,
+    "url": "https://careers-barrios.icims.com/jobs/2759/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Houston, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Barrios",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
