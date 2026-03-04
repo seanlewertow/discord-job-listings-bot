@@ -111638,5 +111638,99 @@
       "Bachelor's",
       "MBA"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Royal Bank of Canada",
+    "id": "210ffeeb-73af-43fc-90d8-432b997722fa",
+    "title": "RBC Capital Markets New Grad Rotational Program - Halifax - 2026",
+    "active": true,
+    "date_updated": 1772583971,
+    "date_posted": 1772583971,
+    "url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/90-WESTERN-PKYBEDFORD/QTS-New-Graduate-Rotational-Program--2026--Halifax-_R-0000161808",
+    "locations": [
+      "Nova Scotia, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Royal-Bank-Of-Canada",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "L3Harris Technologies",
+    "id": "714d46af-d79f-483b-b986-09329c4a021f",
+    "title": "Composite Technician A - Weekend Shift",
+    "active": true,
+    "date_updated": 1772590479,
+    "date_posted": 1772590479,
+    "url": "https://jobs.l3harris.com/job/Huntsville-Composite-Technician-A-Weekend-A-Shift-AL-35773/1369850000/?ats=successfactors",
+    "locations": [
+      "Huntsville, AL"
+    ],
+    "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Genentech",
+    "id": "23fac567-51ea-4a9a-a764-62cafc4f8628",
+    "title": "Data Scientist - Computational Toxicology",
+    "active": true,
+    "date_updated": 1772590517,
+    "date_posted": 1772590517,
+    "url": "https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/Data-Scientist--Computational-Toxicology_202602-104492-1",
+    "locations": [
+      "San Bruno, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Genentech",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "PhD"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Louisiana State University (LSU)",
+    "id": "df42d26f-bf0d-44c6-a7c6-6415270f04e9",
+    "title": "Transient \u2013 Research",
+    "active": true,
+    "date_updated": 1772590396,
+    "date_posted": 1772590396,
+    "url": "https://lsu.wd1.myworkdayjobs.com/lsuwaiver/job/0344-SL-Lockett-Hall/Transient---Research_R00113496",
+    "locations": [
+      "Baton Rouge, LA"
+    ],
+    "company_url": "https://simplify.jobs/c/Louisiana-State-University",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "ServiceNow",
+    "id": "b04674ca-bfe4-441d-8319-2194c10c1050",
+    "title": "Software Engineer",
+    "active": true,
+    "date_updated": 1772590205,
+    "date_posted": 1772590205,
+    "url": "https://jobs.smartrecruiters.com/ServiceNow/744000112551444",
+    "locations": [
+      "Santa Clara, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/ServiceNow",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
