@@ -111732,5 +111732,115 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "LPL Financial Holdings",
+    "id": "ce8f478d-2b2a-42ac-9e3b-81b84927c10a",
+    "title": "New Grad 2026 - Technology - Product",
+    "active": true,
+    "date_updated": 1772591817,
+    "date_posted": 1772591817,
+    "url": "https://lplfinancial.wd1.myworkdayjobs.com/university/job/San-Diego-CA/New-Grad-2026---Technology--Product_R-046437",
+    "locations": [
+      "Fort Mill, SC",
+      "San Diego, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/LPL-Financial-Holdings",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "MBA",
+      "PhD"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "LPL Financial Holdings",
+    "id": "ba23e70c-11af-4a15-9d4f-633b48a8ca7c",
+    "title": "New Grad - Data Analytics",
+    "active": true,
+    "date_updated": 1772591838,
+    "date_posted": 1772591838,
+    "url": "https://lplfinancial.wd1.myworkdayjobs.com/university/job/Fort-MillCharlotte/New-Grad-2026---Foundational-Analyst-Rotational-Program--FAR----Data-Analytics_R-045022-1",
+    "locations": [
+      "Fort Mill, SC",
+      "Charlotte, NC"
+    ],
+    "company_url": "https://simplify.jobs/c/LPL-Financial-Holdings",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "Littelfuse",
+    "id": "9f0715ee-74b3-4b1a-a5b4-328dd2a2514f",
+    "title": "Associate Product Manager - Relays",
+    "active": true,
+    "date_updated": 1772591876,
+    "date_posted": 1772591876,
+    "url": "https://littelfuse.wd1.myworkdayjobs.com/Littelfuse-Careers/job/Rapid-City/Associate-Product-Manager--Relays_JR-110732",
+    "locations": [
+      "Rapid City, SD"
+    ],
+    "company_url": "https://simplify.jobs/c/Littelfuse",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "LPL Financial Holdings",
+    "id": "14baa6e2-9ee9-4612-b385-8bad55d04c67",
+    "title": "New Grad - Technology - Software Development",
+    "active": true,
+    "date_updated": 1772591816,
+    "date_posted": 1772591816,
+    "url": "https://lplfinancial.wd1.myworkdayjobs.com/university/job/San-Diego-CA/New-Grad-2026---Technology--Software-Development_R-046207",
+    "locations": [
+      "Fort Mill, SC",
+      "San Diego, CA",
+      "NYC",
+      "Austin, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/LPL-Financial-Holdings",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "PhD"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "RTX",
+    "id": "63703d4d-13ff-4bec-a203-233fd1628666",
+    "title": "2026 Fulltime - Electronics Design Engineer I",
+    "active": true,
+    "date_updated": 1772591548,
+    "date_posted": 1772591548,
+    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-GOLETA-B01--6825-Cortona-Dr--BLDG-B01/XMLNAME-2026-Fulltime---Electronics-Design-Engineer-I---Onsite_01826209",
+    "locations": [
+      "Goleta, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/RTX",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
