@@ -112325,5 +112325,96 @@
     "degrees": [
       "Associate's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "3522569c-5dc9-4d6e-ae68-6fe47e6d537c",
+    "title": "Trading Assistant - Local",
+    "active": true,
+    "date_updated": 1772636962,
+    "date_posted": 1772636962,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400051953",
+    "locations": [
+      "Durham, UK",
+      "Thirsk, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "30af5b00-1991-4045-8507-4b8e61d50cd8",
+    "title": "Trading Assistant",
+    "active": true,
+    "date_updated": 1772636962,
+    "date_posted": 1772636962,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400051979",
+    "locations": [
+      "Durham, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "2e87ff07-9679-489a-bbd2-b37514e1b9c2",
+    "title": "Trading Assistant",
+    "active": true,
+    "date_updated": 1772636956,
+    "date_posted": 1772636956,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400051978",
+    "locations": [
+      "Bolton, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Honeywell",
+    "id": "11a0fd03-c24d-49b8-8097-1e5a8d1293dc",
+    "title": "Eng Tech 1",
+    "active": true,
+    "date_updated": 1772636969,
+    "date_posted": 1772636969,
+    "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/141537",
+    "locations": [
+      "Phoenix, AZ"
+    ],
+    "company_url": "https://simplify.jobs/c/Honeywell",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "114ff772-6edd-4c17-946f-bde262c2cdce",
+    "title": "Trading Assistant",
+    "active": true,
+    "date_updated": 1772636958,
+    "date_posted": 1772636958,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400051994",
+    "locations": [
+      "Exeter, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
