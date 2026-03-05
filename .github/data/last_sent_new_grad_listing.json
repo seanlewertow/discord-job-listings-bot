@@ -112686,5 +112686,101 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Metropolitan Transportation Authority",
+    "id": "4c0dab45-55ba-43b4-a4c3-9f1bd32957ed",
+    "title": "Application Developer 1 - PeopleSoft",
+    "active": true,
+    "date_updated": 1772676547,
+    "date_posted": 1772676547,
+    "url": "https://jobs.jobvite.com/metropolitantransportationauthority/job/oVkxxfw3?nl=1&nl=1&fr=false",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Metropolitan-Transportation-Authority",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "AI Fund",
+    "id": "44f751ef-1a96-4f87-81d4-abd5dbf7c49f",
+    "title": "Founder in Residence - Generative AI",
+    "active": true,
+    "date_updated": 1772676503,
+    "date_posted": 1772676503,
+    "url": "https://jobs.lever.co/AIFund/8a2150a8-d89b-4fb4-ac33-ed3b04ae0b30/apply",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/AI-Fund",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "3b270d59-e6ea-419c-a9de-6752b6cf0ee4",
+    "title": "Trading Assistant",
+    "active": true,
+    "date_updated": 1772676627,
+    "date_posted": 1772676627,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400048725",
+    "locations": [
+      "Bedford, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Akima",
+    "id": "18e05a5f-7409-4061-85bc-6ccea654aefa",
+    "title": "Electronics Technician 1 - Travel",
+    "active": true,
+    "date_updated": 1772676693,
+    "date_posted": 1772676693,
+    "url": "https://careers.akima.com/jobs/19959?lang=en-us&icims=1",
+    "locations": [
+      "Oklahoma City, OK"
+    ],
+    "company_url": "https://simplify.jobs/c/Akima",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Associate's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Testing Xperts",
+    "id": "155240f4-de3c-44f8-9ef6-cc34c5a93356",
+    "title": "Adobe Marketing Cloud Components Consultant",
+    "active": true,
+    "date_updated": 1772676625,
+    "date_posted": 1772676625,
+    "url": "https://jobs.smartrecruiters.com/TestingXperts/99232106",
+    "locations": [
+      "Malvern, PA"
+    ],
+    "company_url": "https://simplify.jobs/c/Testing-Xperts",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
