@@ -112985,5 +112985,103 @@
       "Bachelor's",
       "Master's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Crusoe",
+    "id": "18e96224-6d57-47ed-8408-ba01253484d5",
+    "title": "Procurement Data Analyst",
+    "active": true,
+    "date_updated": 1772703762,
+    "date_posted": 1772579634,
+    "url": "https://jobs.ashbyhq.com/Crusoe/cf79c92a-3895-4c8d-97a7-984dffc3222c/application",
+    "locations": [
+      "Denver, CO"
+    ],
+    "company_url": "https://simplify.jobs/c/Crusoe",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Daybreak Games",
+    "id": "49713325-fb02-4ee3-92c6-f00e462814f5",
+    "title": "Associate Software Engineer",
+    "active": true,
+    "date_updated": 1772703933,
+    "date_posted": 1772505281,
+    "url": "https://www.daybreakgames.com/careers?gh_jid=8445528002",
+    "locations": [
+      "California"
+    ],
+    "company_url": "https://simplify.jobs/c/Daybreak-Games",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Memorial Health",
+    "id": "86b55d89-fd07-44e5-a98b-6425e013178d",
+    "title": "Simulation Technologist",
+    "active": true,
+    "date_updated": 1772703131,
+    "date_posted": 1771945706,
+    "url": "https://jobs-choosememorial.icims.com/jobs/32167/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Springfield, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/Memorial-Health",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Associate's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Sysmex",
+    "id": "e4e427d3-7fdc-4305-9c7a-152c4833b80c",
+    "title": "Technician",
+    "active": true,
+    "date_updated": 1772703595,
+    "date_posted": 1770246750,
+    "url": "https://careers-sysmex.icims.com/jobs/4549/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "NYC",
+      "Atlanta, GA",
+      "Dallas, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Sysmex",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Associate's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Electronic Arts",
+    "id": "e2a6b345-c188-4aa0-b0e5-db893f19970d",
+    "title": "Assistant Game Designer",
+    "active": true,
+    "date_updated": 1772704311,
+    "date_posted": 1765926957,
+    "url": "https://jobs.ea.com/en_US/careers/JobDetail/Assistant-Game-Designer-EA-SPORTS-FC/212047",
+    "locations": [
+      "Vancouver, BC, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Electronic-Arts",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
