@@ -112589,5 +112589,102 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "TD Bank",
+    "id": "f0c3de62-6f96-4f87-97cf-6d1e7b62de8c",
+    "title": "Associate Engineer - Protect Analytics Data Engineer",
+    "active": true,
+    "date_updated": 1772666739,
+    "date_posted": 1772666739,
+    "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Associate-Engineer---Protect-Analytics-Data-Engineer_R_1474465",
+    "locations": [
+      "Toronto, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/TD-Bank",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "1X",
+    "id": "e0c24dfc-3a04-4cff-9993-b9b01af52b9f",
+    "title": "NPI Engineering Technician",
+    "active": true,
+    "date_updated": 1772666511,
+    "date_posted": 1772666511,
+    "url": "https://1x.recruitee.com/o/npi-engineering-technician",
+    "locations": [
+      "Hayward, CA",
+      "San Carlos, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/1x",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "MEMIC",
+    "id": "d4f80b67-7e0b-4ca6-9839-5f8bd44c4dd0",
+    "title": "Associate Business Intelligence Analyst",
+    "active": true,
+    "date_updated": 1772666788,
+    "date_posted": 1772666788,
+    "url": "https://job-boards.greenhouse.io/memic/jobs/7652602003",
+    "locations": [
+      "Portland, ME"
+    ],
+    "company_url": "https://simplify.jobs/c/MEMIC",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Daikin Applied",
+    "id": "d3f9c030-8feb-4813-bdb3-d97225cbc962",
+    "title": "Calibration Technician",
+    "active": true,
+    "date_updated": 1772666644,
+    "date_posted": 1772666644,
+    "url": "https://daikinapplied.wd1.myworkdayjobs.com/Daikin-Careers/job/Plymouth-MN-55441/Calibration-Technician_R001613",
+    "locations": [
+      "Wayzata, MN"
+    ],
+    "company_url": "https://simplify.jobs/c/Daikin-Applied",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Associate's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Axios",
+    "id": "7f3070a4-5e38-4d68-806e-591db86e82db",
+    "title": "AI Fellow  Summer 2026",
+    "active": true,
+    "date_updated": 1772667482,
+    "date_posted": 1771371640,
+    "url": "https://job-boards.greenhouse.io/axios/jobs/7624537",
+    "locations": [
+      "Washington, DC"
+    ],
+    "company_url": "https://simplify.jobs/c/Axios",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
