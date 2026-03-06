@@ -113780,5 +113780,41 @@
       "Bachelor's",
       "Master's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Capital One",
+    "id": "ba9c075c-1eb9-405d-a1f7-4e0346979b0b",
+    "title": "Technology Graduate",
+    "active": true,
+    "date_updated": 1772795538,
+    "date_posted": 1772795538,
+    "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Nottingham--Eng/Technology-Graduate---Nottingham_R226926",
+    "locations": [
+      "Nottingham, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Capital-One",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Cox",
+    "id": "62db5e5b-5506-4b0f-b911-cac4cc9c3db3",
+    "title": "Shop Trailer Technician 1",
+    "active": true,
+    "date_updated": 1772794948,
+    "date_posted": 1772282172,
+    "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Albertville-MN/Shop-Trailer-Technician-I_R202569455",
+    "locations": [
+      "Albertville, MN"
+    ],
+    "company_url": "https://simplify.jobs/c/Cox",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
