@@ -113971,5 +113971,107 @@
     "date_posted": 1772814508,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "CAE",
+    "id": "d77950a3-0309-4678-a8ed-1e8ef91c6438",
+    "title": "Data Integrity Specialist",
+    "active": true,
+    "date_updated": 1772838307,
+    "date_posted": 1772838307,
+    "url": "https://cae.wd3.myworkdayjobs.com/career/job/Dallas/Data-Integrity-Specialist_120225",
+    "locations": [
+      "Montreal, QC, Canada",
+      "Dallas, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/0584b8e0-c24c-4b9b-9e06-b2484d8779bf",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "qode.world",
+    "id": "ae454aac-854a-4c95-82a6-ee994c6cc72f",
+    "title": "Product Coordinator",
+    "active": true,
+    "date_updated": 1772838483,
+    "date_posted": 1772838483,
+    "url": "https://apply.workable.com/qodeworld/j/BCB44F3EEB/apply",
+    "locations": [
+      "Altamonte Springs, FL"
+    ],
+    "company_url": "https://simplify.jobs/c/Qode-World",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Florida Atlantic University",
+    "id": "6fdfff1d-2a98-4e85-b706-79ccb7112fd8",
+    "title": "Postdoctoral Fellow - Multiple Teams",
+    "active": true,
+    "date_updated": 1772838544,
+    "date_posted": 1772838544,
+    "url": "https://fau.wd1.myworkdayjobs.com/FAU/job/Boca-Raton/Postdoctoral-Fellow---Real-Time-Graphics--Simulation----Interactive-Digital-Twins-Ubicquia-Center-for-Intelligent-Infrastructure--UCII-_REQ21744",
+    "locations": [
+      "Boca Raton, FL"
+    ],
+    "company_url": "https://simplify.jobs/c/Florida-Atlantic-University",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "PhD"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Scientific Research Corporation",
+    "id": "36abdd44-35b8-498e-9207-c9219d1a904f",
+    "title": "Software Engineer 1",
+    "active": true,
+    "date_updated": 1772838522,
+    "date_posted": 1772838522,
+    "url": "https://careers-scires.icims.com/jobs/11006/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Suffolk, VA"
+    ],
+    "company_url": "https://simplify.jobs/c/Scientific-Research-Corporation",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Odyssey Systems",
+    "id": "02639487-6d07-4586-a3d3-71e3402381a5",
+    "title": "Intermediate Software Engineer",
+    "active": true,
+    "date_updated": 1772838498,
+    "date_posted": 1772838498,
+    "url": "https://careers-odysseyconsult.icims.com/jobs/7515/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Tampa, FL",
+      "Fort Belvoir, VA"
+    ],
+    "company_url": "https://simplify.jobs/c/Odyssey-Systems",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
