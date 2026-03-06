@@ -113816,5 +113816,97 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "MANN+HUMMEL",
+    "id": "63686713-cf17-459a-a1f3-fa3e1105117b",
+    "title": "R&D Lab Technician",
+    "active": true,
+    "date_updated": 1772810133,
+    "date_posted": 1772810133,
+    "url": "https://mann-hummel-careers.com/job/Washington-R&D-Lab-Technician-27889/1371050433/?ats=successfactors",
+    "locations": [
+      "Goldsboro, NC"
+    ],
+    "company_url": "https://simplify.jobs/c/MANN-HUMMEL",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "ba8dfd43-04a4-4857-808d-cc09b22ed445",
+    "title": "Trading Assistant - Shift",
+    "active": true,
+    "date_updated": 1772809900,
+    "date_posted": 1772809900,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400052202",
+    "locations": [
+      "Hereford, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "9db17224-7585-4ff6-89fc-609ee84bd071",
+    "title": "Trading Assistant",
+    "active": true,
+    "date_updated": 1772809898,
+    "date_posted": 1772809898,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400052224",
+    "locations": [
+      "Weybridge, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "MSG Entertainment",
+    "id": "3e8095f2-ccf5-45e0-9e83-a5d81cf0016e",
+    "title": "Analyst Business Intelligence",
+    "active": true,
+    "date_updated": 1772809998,
+    "date_posted": 1772809998,
+    "url": "https://msgentertainment.com/job/5069013007?gh_jid=5069013007",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/MSG-Entertainment",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Northumbria University",
+    "id": "9a2e7722-c7de-4bb2-84bd-6a18ac186b05",
+    "title": "Postdoctoral Research Fellow in Solar Physics",
+    "active": true,
+    "date_updated": 1772809580,
+    "date_posted": 1772809580,
+    "url": "https://fa-etnb-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/3966",
+    "locations": [
+      "Newcastle upon Tyne, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Northumbria-University",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "PhD"
+    ]
   }
 ]
