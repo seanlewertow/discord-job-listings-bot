@@ -113620,5 +113620,65 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "EXL",
+    "id": "5046ff9b-750a-4830-816a-5222a19a0e04",
+    "title": "Manager-Data Product Analyst",
+    "active": true,
+    "date_updated": 1772789612,
+    "date_posted": 1772665735,
+    "url": "https://fa-ewjt-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/10945",
+    "locations": [
+      "United States"
+    ],
+    "company_url": "https://simplify.jobs/c/EXL",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Moog ",
+    "id": "9b729f9b-fc1c-4ad8-89f7-fb53d2eab51f",
+    "title": "Associate Development Engineer",
+    "active": true,
+    "date_updated": 1772790409,
+    "date_posted": 1772494382,
+    "url": "https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Associate-Development-Engineer_R-26-16395-1",
+    "locations": [
+      "Buffalo, NY"
+    ],
+    "company_url": "https://simplify.jobs/c/Moog",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Encord",
+    "id": "80ee2992-a15d-45d4-b625-a74136bdeac0",
+    "title": "Growth Engineer",
+    "active": true,
+    "date_updated": 1772789481,
+    "date_posted": 1762620665,
+    "url": "https://jobs.lever.co/CordTechnologies/c385a814-1c7d-4d22-8af0-d32f833131ba/apply",
+    "locations": [
+      "London, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Encord",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
