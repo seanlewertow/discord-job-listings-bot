@@ -113680,5 +113680,105 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "JP Morgan Chase",
+    "id": "eda6153a-f4c0-4cd7-84ac-50eedad60c6b",
+    "title": "Associate Salesforce Product Manager",
+    "active": true,
+    "date_updated": 1772792540,
+    "date_posted": 1772792540,
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210719385",
+    "locations": [
+      "London, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/JP-Morgan-Chase",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "5f99ae0b-4e32-49f8-8ba1-baf88cb9f5a2",
+    "title": "Trading Assistant - Shift",
+    "active": true,
+    "date_updated": 1772792539,
+    "date_posted": 1772792539,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400052170",
+    "locations": [
+      "Hereford, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "1c47283f-ee8e-4473-8128-02fa9b3216d9",
+    "title": "Trading Assistant - Shift",
+    "active": true,
+    "date_updated": 1772792382,
+    "date_posted": 1772792382,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400052173",
+    "locations": [
+      "Blackpool, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Wheely",
+    "id": "fc8b8739-1b1e-457f-9a51-024e85f733da",
+    "title": "Associate Data Scientist - Operations Research",
+    "active": true,
+    "date_updated": 1772793154,
+    "date_posted": 1772793154,
+    "url": "https://boards.greenhouse.io/wheely/jobs/7655292003",
+    "locations": [
+      "London, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Wheely",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Master's",
+      "PhD"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "Cisco",
+    "id": "fe426872-e448-43b4-8224-e8f7a6f697e7",
+    "title": "Product Management Engineer 2",
+    "active": true,
+    "date_updated": 1772792840,
+    "date_posted": 1772792840,
+    "url": "https://careers.cisco.com/global/en/job/2007764",
+    "locations": [
+      "Seattle, WA",
+      "Milpitas, CA",
+      "SF",
+      "Research Triangle, Durham, NC",
+      "Richardson, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Cisco",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
   }
 ]
