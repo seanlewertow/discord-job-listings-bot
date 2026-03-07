@@ -114167,5 +114167,25 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "Milwaukee Tool",
+    "id": "85f0b038-8701-454d-b49e-017d59e73c72",
+    "title": "Product Owner",
+    "active": true,
+    "date_updated": 1772850756,
+    "date_posted": 1772850756,
+    "url": "https://tti.wd1.myworkdayjobs.com/en-US/Milwaukee/job/Menomonee-Falls-WI/Product-Owner_R71452",
+    "locations": [
+      "Menomonee Falls, WI"
+    ],
+    "company_url": "https://simplify.jobs/c/Milwaukee-Tool",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
