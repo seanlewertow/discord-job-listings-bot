@@ -114187,5 +114187,26 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Citadel Securities",
+    "id": "d34efe5f-8b16-4631-abb7-2997d0702bcd",
+    "title": "Quantitative Researcher \u2013 PhD Graduate - Europe",
+    "active": true,
+    "date_updated": 1768955568,
+    "date_posted": 1768955568,
+    "url": "https://www.citadelsecurities.com/careers/details/quantitative-researcher-phd-graduate-europe/",
+    "locations": [
+      "Paris, France",
+      "London, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Citadel-Securities",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "PhD"
+    ]
   }
 ]
