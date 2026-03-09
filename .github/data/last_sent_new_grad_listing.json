@@ -114315,5 +114315,107 @@
       "Master's",
       "PhD"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "223afe35-2fd9-4484-970d-c5341778519b",
+    "title": "Trading Assistant - Shift",
+    "active": true,
+    "date_updated": 1773093723,
+    "date_posted": 1773093723,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400052390",
+    "locations": [
+      "Aylesbury, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Arcadis",
+    "id": "2f72ee65-f98f-4cab-af0d-af913f22fa80",
+    "title": "Graduate Air Quality Specialist",
+    "active": true,
+    "date_updated": 1773094200,
+    "date_posted": 1773094200,
+    "url": "https://ebcs.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/38996",
+    "locations": [
+      "Leeds, UK",
+      "Warrington, UK",
+      "York, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Arcadis",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "1259edec-196d-4558-81b9-29c163e4472b",
+    "title": "Trading Assistant - Shift",
+    "active": true,
+    "date_updated": 1773095309,
+    "date_posted": 1773095309,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400052660",
+    "locations": [
+      "Leeds, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "RTX",
+    "id": "0d60604f-1de8-4eaa-8853-bd927d188506",
+    "title": "Full-time",
+    "active": true,
+    "date_updated": 1773095403,
+    "date_posted": 1773095403,
+    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/XMLNAME-2026-Fulltime---Raytheon-Simulation-Analysis-Engineer-I---Onsite_01827957",
+    "locations": [
+      "Tucson, AZ"
+    ],
+    "company_url": "https://simplify.jobs/c/RTX",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "PhD"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Google",
+    "id": "f9577f20-f7ab-4a95-ad61-827c3ba4fa78",
+    "title": "Senior Software Developer - Generative AI",
+    "active": true,
+    "date_updated": 1773093947,
+    "date_posted": 1772694262,
+    "url": "https://www.google.com/about/careers/applications/jobs/results/93590467827901126",
+    "locations": [
+      "Kitchener, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Google",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "PhD"
+    ]
   }
 ]
