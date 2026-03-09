@@ -114208,5 +114208,112 @@
     "degrees": [
       "PhD"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Markon",
+    "id": "15098c6e-b3f1-4ebf-8cf2-66dc4f038e9f",
+    "title": "Reverse Engineer",
+    "active": true,
+    "date_updated": 1773091814,
+    "date_posted": 1773091814,
+    "url": "https://careers-markon.icims.com/jobs/8199/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Odenton, MD"
+    ],
+    "company_url": "https://simplify.jobs/c/Markon",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "PhD",
+      "Associate's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Peraton",
+    "id": "670252d5-68ec-4965-be7e-c0b88c83af8f",
+    "title": "All-Source Analyst",
+    "active": true,
+    "date_updated": 1773091852,
+    "date_posted": 1768605987,
+    "url": "https://careers-peraton.icims.com/jobs/162715/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Reston, VA"
+    ],
+    "company_url": "https://simplify.jobs/c/Peraton",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Huntington Ingalls Industries",
+    "id": "518dc13a-a2e0-44ff-b0b1-3b3aa594aab9",
+    "title": "Engineering Technician 2",
+    "active": true,
+    "date_updated": 1773092272,
+    "date_posted": 1773092272,
+    "url": "https://careers.huntingtoningalls.com/job/Newport-News-ENGINEERING-TECHNICIAN-2-Virg/1370176000/?ats=successfactors",
+    "locations": [
+      "Newport News, VA"
+    ],
+    "company_url": "https://simplify.jobs/c/Huntington-Ingalls-Industries",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Associate's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Four Seasons",
+    "id": "3eb39f22-2bfe-4fa1-9717-84b0191a37e3",
+    "title": "Analyst \u2013 Data Assets",
+    "active": true,
+    "date_updated": 1773091925,
+    "date_posted": 1773091925,
+    "url": "https://fourseasons.wd3.myworkdayjobs.com/search/job/Four-Seasons-Corporate-Office-Toronto/Analyst--Data-Assets_REQ10374076",
+    "locations": [
+      "Toronto, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Four-Seasons",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "LMI ",
+    "id": "32d6bf26-9fa2-42f6-999e-347b709e1cc1",
+    "title": "Junior Data Scientist",
+    "active": true,
+    "date_updated": 1773092206,
+    "date_posted": 1773092206,
+    "url": "https://careers-lmi.icims.com/jobs/13752/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Colorado Springs, CO",
+      "El Segundo, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/LMI",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "PhD"
+    ]
   }
 ]
