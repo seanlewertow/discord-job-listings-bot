@@ -114417,5 +114417,99 @@
       "Master's",
       "PhD"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "The Boeing Company",
+    "id": "87b4ae1b-7483-496b-a59c-fba8f95209ff",
+    "title": "Fabrication Specialist",
+    "active": true,
+    "date_updated": 1773097473,
+    "date_posted": 1773097473,
+    "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Salt-Lake-City-UT/Fabrication-Specialist_JR2026499951-1",
+    "locations": [
+      "Salt Lake City, UT"
+    ],
+    "company_url": "https://simplify.jobs/c/Boeing",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Brink",
+    "id": "607b3501-64ed-4c3b-a891-04efd3752e5d",
+    "title": "ATM Technician",
+    "active": true,
+    "date_updated": 1773097522,
+    "date_posted": 1773097522,
+    "url": "https://brinks.wd5.myworkdayjobs.com/brinkscareersus/job/Atlanta-GA/ATM-Technician_R71169",
+    "locations": [
+      "Atlanta, GA"
+    ],
+    "company_url": "https://simplify.jobs/c/Brink",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "GE Vernova",
+    "id": "f8ae5039-7d38-4a84-be03-7dd94135a4ef",
+    "title": "Engineering Technician",
+    "active": true,
+    "date_updated": 1773097020,
+    "date_posted": 1773097020,
+    "url": "https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Rugby/Engineering-Technician_R5032194-1",
+    "locations": [
+      "Rugby, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/GE-Vernova",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Fortinet",
+    "id": "5ef7808d-7943-43ac-8dfb-c46d30f49fc1",
+    "title": "Firmware Engineer",
+    "active": true,
+    "date_updated": 1773097338,
+    "date_posted": 1769469031,
+    "url": "https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/21955",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Fortinet",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "WebFX",
+    "id": "7538360d-15d3-40c0-b483-bd8cf1d93faa",
+    "title": "Junior Marketing Analytics Consultant",
+    "active": true,
+    "date_updated": 1773097804,
+    "date_posted": 1761874896,
+    "url": "https://jobs.lever.co/webfx/bc883e25-01c7-435d-a23f-4078d268d7b6/apply",
+    "locations": [
+      "Harrisburg, PA"
+    ],
+    "company_url": "https://simplify.jobs/c/WebFX",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
