@@ -115296,5 +115296,102 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Bank of America",
+    "id": "4b4bdb4e-062f-4f8d-9d64-a9cdc8cb7bcb",
+    "title": "Software Engineer 2 - Java",
+    "active": true,
+    "date_updated": 1773181869,
+    "date_posted": 1773181869,
+    "url": "https://ghr.wd1.myworkdayjobs.com/us-emplsv/job/Charlotte/Software-Engineer-II-Java_26008505",
+    "locations": [
+      "Charlotte, NC"
+    ],
+    "company_url": "https://simplify.jobs/c/Bank-Of-America",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Unlimited Technology",
+    "id": "8885238b-20af-4161-938f-59d66f717c62",
+    "title": "Entry Level Physical Security CAD Operator",
+    "active": true,
+    "date_updated": 1773181897,
+    "date_posted": 1773181897,
+    "url": "https://job-boards.greenhouse.io/unlimitedtechnology/jobs/5149494008",
+    "locations": [
+      "Reston, VA"
+    ],
+    "company_url": "https://simplify.jobs/c/Unlimited-Technology",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Cleveland Clinic",
+    "id": "0ea120cc-a58b-4660-91d7-f17358e0d263",
+    "title": "EBI Database Developer 1",
+    "active": true,
+    "date_updated": 1773181960,
+    "date_posted": 1773181960,
+    "url": "https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Remote-Location/EBI-Database-Developer-I_327224",
+    "locations": [
+      "Florida",
+      "Nevada",
+      "Ohio"
+    ],
+    "company_url": "https://simplify.jobs/c/Cleveland-Clinic",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Associate's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Appian",
+    "id": "d8354c2d-50e3-4148-b1e1-2f6ff8509ba8",
+    "title": "Information Security Software Engineer",
+    "active": true,
+    "date_updated": 1773180967,
+    "date_posted": 1769556803,
+    "url": "https://job-boards.greenhouse.io/appian/jobs/7547394",
+    "locations": [
+      "McLean, VA"
+    ],
+    "company_url": "https://simplify.jobs/c/Appian",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "MORSE Corp",
+    "id": "7a08f23e-4de3-4cb2-83a5-dedc15509072",
+    "title": "Electrical R&D Technician",
+    "active": true,
+    "date_updated": 1773181774,
+    "date_posted": 1767718133,
+    "url": "https://boards.greenhouse.io/morsecorp/jobs/7570573003",
+    "locations": [
+      "Cambridge, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/MORSECorp",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
