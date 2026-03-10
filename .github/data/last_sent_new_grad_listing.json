@@ -115393,5 +115393,104 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "RTX",
+    "id": "114f1b79-651a-49e0-812c-95a76f44f806",
+    "title": "Full-time - Software Engineer II",
+    "active": true,
+    "date_updated": 1773184037,
+    "date_posted": 1773184037,
+    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IN-INDIANAPOLIS-206--3939-Priority-Way-S-Dr--PRIORITY-BLDG-6/XMLNAME-2026-Full-time---Software-Engineer-II---Onsite--IN-_01829637",
+    "locations": [
+      "Indianapolis, IN"
+    ],
+    "company_url": "https://simplify.jobs/c/RTX",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Abbott",
+    "id": "0e5a5814-33f2-4666-8f48-2d04f3decb9a",
+    "title": "Software Engineer",
+    "active": true,
+    "date_updated": 1773183690,
+    "date_posted": 1773183690,
+    "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---California---San-Diego/Software-Engineer_31142265-1",
+    "locations": [
+      "San Diego, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Abbott",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "RTX",
+    "id": "ebfd357e-b8d0-485b-9374-6df4777c4ff8",
+    "title": "Software Engineer 1",
+    "active": true,
+    "date_updated": 1773184014,
+    "date_posted": 1773184014,
+    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA3--1001-Boston-Post-Rd--BLDG-3/Software-Engineer-I--Onsite-_01806424",
+    "locations": [
+      "Marlborough, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/RTX",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "The Boeing Company",
+    "id": "5c0beedb-e9a6-4ed9-833c-0c816e820c8f",
+    "title": "Software Engineer",
+    "active": true,
+    "date_updated": 1773183944,
+    "date_posted": 1773183944,
+    "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Tukwila-WA/Software-Engineer--Associate-or-Experienced-_JR2026500177-1",
+    "locations": [
+      "Tukwila, WA"
+    ],
+    "company_url": "https://simplify.jobs/c/Boeing",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "GAP",
+    "id": "288506b1-cbad-4ecd-a48e-eb7d0125bdb2",
+    "title": "Product Manager 1 - Payments",
+    "active": true,
+    "date_updated": 1773183861,
+    "date_posted": 1773183861,
+    "url": "https://gapinc.wd1.myworkdayjobs.com/GAPINC/job/SF---2-Folsom/Product-Manager-I---Payments_R208349",
+    "locations": [
+      "SF"
+    ],
+    "company_url": "https://simplify.jobs/c/GAP",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
