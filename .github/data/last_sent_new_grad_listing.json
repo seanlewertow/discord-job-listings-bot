@@ -114511,5 +114511,108 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Jobs for Humanity",
+    "id": "6a69e3ca-d5e5-48ac-ac3c-5c8b9ead3c92",
+    "title": "Associate Data Scientist",
+    "active": true,
+    "date_updated": 1773101023,
+    "date_posted": 1773101023,
+    "url": "https://jobs.smartrecruiters.com/JobsForHumanity/744000113595857",
+    "locations": [
+      "Whiteley, UK",
+      "Cardiff, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Jobs-For-Humanity",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Iowa State University",
+    "id": "3f87f3f8-e7f7-4d89-885d-67a1eaa854a7",
+    "title": "Data Analyst 1",
+    "active": true,
+    "date_updated": 1773101031,
+    "date_posted": 1773101031,
+    "url": "https://isu.wd1.myworkdayjobs.com/IowaStateJobs/job/Ames-IA/Data-Analyst-I_R18764",
+    "locations": [
+      "Ames, IA"
+    ],
+    "company_url": "https://simplify.jobs/c/Iowa-State-University",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Intuit",
+    "id": "0e15b170-b4f5-4ec5-9853-287bd475215a",
+    "title": "Software Engineer 1 - AI Native",
+    "active": true,
+    "date_updated": 1773099412,
+    "date_posted": 1772763403,
+    "url": "https://jobs.intuit.com/job/mountain-view/swe1-software-engineer-ai-native/27595/92435672352",
+    "locations": [
+      "Mountain View, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Intuit",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "IXL Learning",
+    "id": "348b7e56-1482-44ba-a5e5-d0e318655743",
+    "title": "Associate Product Manager",
+    "active": true,
+    "date_updated": 1773099429,
+    "date_posted": 1772753396,
+    "url": "https://www.ixl.com/company/jobs?gh_jid=8450013002",
+    "locations": [
+      "San Mateo, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/IXL-Learning",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Comcast",
+    "id": "78b68c39-9bfe-4b32-b075-cde42fb1bc6b",
+    "title": "Junior Full Stack Developer",
+    "active": true,
+    "date_updated": 1773103026,
+    "date_posted": 1773103026,
+    "url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/CO---Englewood-183-Inverness-Dr-West/Junior-Full-Stack-Developer--Eng1-_R430946",
+    "locations": [
+      "Cherry Hills Village, CO"
+    ],
+    "company_url": "https://simplify.jobs/c/Comcast",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
