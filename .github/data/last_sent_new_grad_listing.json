@@ -114835,5 +114835,63 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Watts Water",
+    "id": "3f816c53-db18-4fbc-b82d-32267b446cde",
+    "title": "Electronic Repair Technologist 1",
+    "active": true,
+    "date_updated": 1773124802,
+    "date_posted": 1773124802,
+    "url": "https://wattswater.wd5.myworkdayjobs.com/external/job/Vernon-BC/Electronic-Repair-Technologist-I_10016455",
+    "locations": [
+      "Kelowna, BC, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Watts-Water",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Interstates",
+    "id": "80f2c21c-3fee-4af0-945f-9afdcdc272ae",
+    "title": "Manufacturing Production Technician",
+    "active": true,
+    "date_updated": 1773124233,
+    "date_posted": 1773124233,
+    "url": "https://www.interstates.com/careers/jobs?gh_jid=4178960009&gh_jid=4178960009",
+    "locations": [
+      "Sioux City, IA"
+    ],
+    "company_url": "https://simplify.jobs/c/Interstates",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Scientific Research Corporation",
+    "id": "5981592a-4e0a-41e7-a5c3-0e0bab13dcef",
+    "title": "Software Developer 1",
+    "active": true,
+    "date_updated": 1773125699,
+    "date_posted": 1768956228,
+    "url": "https://careers-scires.icims.com/jobs/10453/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "North Charleston, SC"
+    ],
+    "company_url": "https://simplify.jobs/c/Scientific-Research-Corporation",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
