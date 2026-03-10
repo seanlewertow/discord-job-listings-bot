@@ -115156,5 +115156,47 @@
     "degrees": [
       "Associate's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Allstate Insurance Company",
+    "id": "dd5c65ce-3d82-4536-a07a-5c577351420a",
+    "title": "ATS Technology Development Program",
+    "active": true,
+    "date_updated": 1773156500,
+    "date_posted": 1773156500,
+    "url": "https://allstate.wd5.myworkdayjobs.com/allstate_careers/job/USA---CA-Remote/XMLNAME-2026-ATS-Technology-Development-Program_R22128",
+    "locations": [
+      "California"
+    ],
+    "company_url": "https://simplify.jobs/c/Allstate-Insurance-Company",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Orion",
+    "id": "30bc0175-b3ef-44bc-8e55-400da969c6fe",
+    "title": "Trading Product Specialist",
+    "active": true,
+    "date_updated": 1773158899,
+    "date_posted": 1773097156,
+    "url": "https://orionadvisor.wd1.myworkdayjobs.com/Orion_Careers/job/Greater-Omaha-Area/Trading-Product-Specialist--8a-5p-CT-_R2596",
+    "locations": [
+      "Berwyn, PA",
+      "Omaha, NE",
+      "Lehi, UT"
+    ],
+    "company_url": "https://simplify.jobs/c/Orion",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
