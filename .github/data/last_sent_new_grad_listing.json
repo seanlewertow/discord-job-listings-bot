@@ -114735,5 +114735,105 @@
       "Bachelor's",
       "Associate's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "770f8d44-e5bc-4ccc-8f91-b1edcb3f84dc",
+    "title": "Trading Assistant - Shift",
+    "active": true,
+    "date_updated": 1773122918,
+    "date_posted": 1773122918,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400052669",
+    "locations": [
+      "Letchworth Garden City, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Amazon",
+    "id": "438f098c-ca98-40ce-9c10-5046b47a5c49",
+    "title": "ML Data Associate 1",
+    "active": true,
+    "date_updated": 1773123008,
+    "date_posted": 1773123008,
+    "url": "https://amazon.jobs/en/jobs/3200360/ml-data-associate-i",
+    "locations": [
+      "Tiruchirappalli, Tamil Nadu, India",
+      "Tennessee",
+      "Indiana"
+    ],
+    "company_url": "https://simplify.jobs/c/Amazon",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "0a1b4f30-7865-460b-a5ae-a91407c5522b",
+    "title": "Trading Assistant - Shift",
+    "active": true,
+    "date_updated": 1773122920,
+    "date_posted": 1773122920,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400052671",
+    "locations": [
+      "Exeter, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "The Boeing Company",
+    "id": "64340b25-ad02-4e42-a0f9-e312f350e20e",
+    "title": "Business Intelligence Analyst - BI Analysis",
+    "active": true,
+    "date_updated": 1773123922,
+    "date_posted": 1772755895,
+    "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Everett-WA/Business-Intelligence-Analyst--BI-Analysis-_JR2026496271-1",
+    "locations": [
+      "Everett, WA"
+    ],
+    "company_url": "https://simplify.jobs/c/Boeing",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "RELX",
+    "id": "4efc6c58-7ef8-46b0-ae6f-a89a3109f740",
+    "title": "Data Specialist",
+    "active": true,
+    "date_updated": 1773122476,
+    "date_posted": 1772495780,
+    "url": "https://relx.wd3.myworkdayjobs.com/en-US/relx/job/Boca-Raton-FL/Sr-Data-Specialist_R109531-1",
+    "locations": [
+      "Dayton, OH",
+      "Boca Raton, FL",
+      "Alpharetta, GA"
+    ],
+    "company_url": "https://simplify.jobs/c/RELX",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
