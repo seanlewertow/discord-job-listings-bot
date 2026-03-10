@@ -115198,5 +115198,103 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Okta",
+    "id": "e9fdd649-5b77-4856-88fc-e52d49750a30",
+    "title": "Associate Software Engineer \u2013 New Grad",
+    "active": true,
+    "date_updated": 1773180287,
+    "date_posted": 1773180287,
+    "url": "https://www.okta.com/company/careers/opportunity/7401519?gh_jid=7401519",
+    "locations": [
+      "SF"
+    ],
+    "company_url": "https://simplify.jobs/c/Okta",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Woongjin",
+    "id": "81b52aaa-2690-40cd-b397-546434e28623",
+    "title": "WMS Developer - Java - English/Korean",
+    "active": true,
+    "date_updated": 1773180298,
+    "date_posted": 1773180298,
+    "url": "https://jobs.smartrecruiters.com/WJCompany/744000113760597",
+    "locations": [
+      "Orange, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Woongjin",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Informa Group",
+    "id": "4b7ac967-1511-4234-9a36-032dba929f64",
+    "title": "Data Assistant - Maternity Contract",
+    "active": true,
+    "date_updated": 1773180258,
+    "date_posted": 1773180258,
+    "url": "https://jobs.smartrecruiters.com/InformaGroupPlc/744000113733197",
+    "locations": [
+      "Oxford, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Informa-Group",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Arizona Public Service",
+    "id": "15464beb-8764-474d-a0d1-052d27f2ff4c",
+    "title": "GIS Technician 1/2/3",
+    "active": true,
+    "date_updated": 1773180378,
+    "date_posted": 1773180378,
+    "url": "https://careers.aps.com/job/PHOENIX-GIS-Technician-IIIIII-AZ-85021-1807/1371883400/?ats=successfactors",
+    "locations": [
+      "Phoenix, AZ"
+    ],
+    "company_url": "https://simplify.jobs/c/Arizona-Public-Service",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Associate's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "PennState University",
+    "id": "4409b41f-3a9a-45b1-ac5c-cb4a34d80f46",
+    "title": "Engineering Technologist",
+    "active": true,
+    "date_updated": 1773180224,
+    "date_posted": 1773180224,
+    "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Engineering-Technologist_REQ_0000076082-2",
+    "locations": [
+      "State College, PA"
+    ],
+    "company_url": "https://simplify.jobs/c/Penn-State",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
