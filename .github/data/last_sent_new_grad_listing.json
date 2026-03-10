@@ -114714,5 +114714,26 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Molina Healthcare",
+    "id": "dc7d5f89-24ed-46e0-9451-53acb646ae95",
+    "title": "Analyst - Data-Claims",
+    "active": true,
+    "date_updated": 1773117787,
+    "date_posted": 1771628908,
+    "url": "https://hckd.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2034952",
+    "locations": [
+      "Long Beach, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Molina-Healthcare",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Associate's"
+    ]
   }
 ]
