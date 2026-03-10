@@ -115061,5 +115061,100 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Howmet Aerospace",
+    "id": "2accf37d-7294-4a20-915e-8467a2253207",
+    "title": "Product Engineer",
+    "active": true,
+    "date_updated": 1773152945,
+    "date_posted": 1773152945,
+    "url": "https://fa-exty-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/116547",
+    "locations": [
+      "Hampton, VA"
+    ],
+    "company_url": "https://simplify.jobs/c/Howmet-Aerospace",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Royal Bank of Canada",
+    "id": "e3ebfdfc-c27e-46ca-b80c-4be99419c370",
+    "title": "Business Insights Associate",
+    "active": true,
+    "date_updated": 1773156077,
+    "date_posted": 1773156077,
+    "url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/16-ST-HELENS-PLACELONDON/Business-Insights-Associate_R-0000163106",
+    "locations": [
+      "London, UK",
+      "Edinburgh, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Royal-Bank-Of-Canada",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Welocalize",
+    "id": "7e2d25e1-871a-4870-aabd-8533aade2137",
+    "title": "Mandarin Culture and Language Expert",
+    "active": true,
+    "date_updated": 1773156139,
+    "date_posted": 1772244502,
+    "url": "https://jobs.lever.co/welocalize/b760dae6-c39d-42d8-8094-a6b533df79aa/apply",
+    "locations": [
+      "Remote in Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Welocalize",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Northrop Grumman",
+    "id": "8a5030aa-c704-40c0-916a-175bf9b067e6",
+    "title": "SCA Engineering Technician 1",
+    "active": true,
+    "date_updated": 1773155535,
+    "date_posted": 1773155535,
+    "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Georgia-Warner-Robins/SCA-Engineering-Technician-1_R10225392",
+    "locations": [
+      "Warner Robins, GA"
+    ],
+    "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Techtronic Industries",
+    "id": "f83c3eab-50aa-4f08-a5d7-2fd1dfe55b8d",
+    "title": "Compliance Specialist",
+    "active": true,
+    "date_updated": 1773154814,
+    "date_posted": 1773154814,
+    "url": "https://tti.wd1.myworkdayjobs.com/tti_pe/job/Anderson-SC/Compliance-Specialist_R71594",
+    "locations": [
+      "Anderson, SC"
+    ],
+    "company_url": "https://simplify.jobs/c/7b5dc30f-d4b0-4752-be0b-3844a8f590e9",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Associate's"
+    ]
   }
 ]
