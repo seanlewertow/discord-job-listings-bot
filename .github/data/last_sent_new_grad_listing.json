@@ -115982,5 +115982,107 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Distyl AI",
+    "id": "7040ffc8-8e65-4127-b64f-e01ab2cedebe",
+    "title": "Frontend Product Engineer - AI Applications",
+    "active": true,
+    "date_updated": 1773267197,
+    "date_posted": 1773267197,
+    "url": "https://jobs.ashbyhq.com/distyl/147bb404-915d-44ec-b268-be02701872bc/application",
+    "locations": [
+      "SF",
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Distyl-AI",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Thomson Reuters",
+    "id": "dd6c438c-0472-4fbd-80ad-168821c00354",
+    "title": "Al Engineer - New Grad - Materia",
+    "active": true,
+    "date_updated": 1773267000,
+    "date_posted": 1773267000,
+    "url": "https://thomsonreuters.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Canada-Toronto-Ontario/Al-Engineer--Materia--New-Grad---2026-_JREQ199007",
+    "locations": [
+      "Toronto, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Thomson-Reuters",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Intertek",
+    "id": "dab4035f-ed74-4b8e-8c5c-e9143e53bd7a",
+    "title": "Electrical Safety Engineer",
+    "active": true,
+    "date_updated": 1773266904,
+    "date_posted": 1773266904,
+    "url": "https://hcog.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/14215",
+    "locations": [
+      "Homer, NY"
+    ],
+    "company_url": "https://simplify.jobs/c/Intertek",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Intertek",
+    "id": "159acf94-8282-49e4-8348-09413565e9f6",
+    "title": "Electrical Safety Engineer",
+    "active": true,
+    "date_updated": 1773266930,
+    "date_posted": 1773266930,
+    "url": "https://hcog.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/14198",
+    "locations": [
+      "Plano, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Intertek",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Certificate"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "SpaceX",
+    "id": "f2ab8b1b-6a4e-4c08-add2-7301814837e8",
+    "title": "Security Software Engineer - Starlink",
+    "active": true,
+    "date_updated": 1773267260,
+    "date_posted": 1770333454,
+    "url": "https://boards.greenhouse.io/spacex/jobs/8406031002",
+    "locations": [
+      "Redmond, WA"
+    ],
+    "company_url": "https://simplify.jobs/c/SpaceX",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "PhD"
+    ]
   }
 ]
