@@ -115688,5 +115688,26 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Fidelity Investments",
+    "id": "d7e65954-11aa-41fe-aa76-5aad55274d47",
+    "title": "Senior Software Engineer/Developer",
+    "active": true,
+    "date_updated": 1773211059,
+    "date_posted": 1773211059,
+    "url": "https://fmr.wd1.myworkdayjobs.com/fidelitycareers/job/Boston-MA/Senior-Software-Engineer-Developer_2125602",
+    "locations": [
+      "Boston, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/Fidelity-Investments",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
   }
 ]
