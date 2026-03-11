@@ -115709,5 +115709,84 @@
       "Bachelor's",
       "Master's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "ADT",
+    "id": "341fcb00-f30e-463e-ba11-fe0b76b4c529",
+    "title": "Java Engineer",
+    "active": true,
+    "date_updated": 1773218918,
+    "date_posted": 1772579679,
+    "url": "https://fa-erqb-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3018926",
+    "locations": [
+      "Ambler, PA"
+    ],
+    "company_url": "https://simplify.jobs/c/ADT",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "Monolithic Power Systems",
+    "id": "dcd323bc-7e40-413e-a80a-a2d381d63f81",
+    "title": "New Grad Product Marketing Engineer",
+    "active": true,
+    "date_updated": 1773220690,
+    "date_posted": 1773220690,
+    "url": "https://monolithicpower.wd12.myworkdayjobs.com/MPS_Careers/job/San-Jose-CA/New-Grad-Product-Marketing-Engineer_R-463",
+    "locations": [
+      "San Jose, CA",
+      "Kirkland, WA"
+    ],
+    "company_url": "https://simplify.jobs/c/Monolithic-Power-Systems",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Susquehanna International Group (SIG)",
+    "id": "eddd9f96-e3d7-4f6a-9587-01f1c1add192",
+    "title": "Compensation Data Analyst",
+    "active": true,
+    "date_updated": 1773220407,
+    "date_posted": 1772234020,
+    "url": "https://careers-sig.icims.com/jobs/10589/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Ardmore, PA"
+    ],
+    "company_url": "https://simplify.jobs/c/Susquehanna",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "0abea9fe-5093-4f1c-8046-a531525b6b2b",
+    "title": "Trading Assistant - Shift",
+    "active": true,
+    "date_updated": 1773209500,
+    "date_posted": 1773209500,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400052892",
+    "locations": [
+      "Leeds, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
