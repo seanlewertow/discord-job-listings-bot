@@ -116084,5 +116084,109 @@
       "Master's",
       "PhD"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "AgWest Farm Credit",
+    "id": "9706bb40-205e-4bb7-beda-52b8bbee30f5",
+    "title": "Data Operations Analyst",
+    "active": true,
+    "date_updated": 1773268326,
+    "date_posted": 1773268326,
+    "url": "https://job-boards.greenhouse.io/agwestfarmcredit/jobs/4178332009",
+    "locations": [
+      "Spokane, WA"
+    ],
+    "company_url": "https://simplify.jobs/c/AgWest-Farm-Credit",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "T-Mobile",
+    "id": "77711321-7bd2-46e9-b569-497cdb1821c3",
+    "title": "Associate AI Engineer",
+    "active": true,
+    "date_updated": 1773268343,
+    "date_posted": 1773268343,
+    "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Assoc-Engineer--AI-Modeling_REQ329919",
+    "locations": [
+      "Bellevue, WA"
+    ],
+    "company_url": "https://simplify.jobs/c/T-Mobile",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Western Digital",
+    "id": "fda09562-70f8-4706-b403-d7f980228174",
+    "title": "Early Career Talent - Software Development Engineer - Firmware",
+    "active": true,
+    "date_updated": 1773267849,
+    "date_posted": 1773267849,
+    "url": "https://jobs.smartrecruiters.com/WesternDigital/744000114153937",
+    "locations": [
+      "Irvine, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Western-Digital",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "Dimensional Fund Advisors",
+    "id": "ced23cdc-0261-4635-a4d1-abefa1c3f852",
+    "title": "Analyst/Associate",
+    "active": true,
+    "date_updated": 1773268068,
+    "date_posted": 1773268068,
+    "url": "https://dimensional.wd5.myworkdayjobs.com/dfa_careers/job/Austin/Analyst-Associate--Investment-Solutions-Group--Tax-Focused-_2026-8714",
+    "locations": [
+      "Austin, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/3d361434-7ac4-4284-b2ef-078b0bc92808",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "GlobalFoundries",
+    "id": "4c0f2e34-6034-4426-acb9-a30b87c8d6de",
+    "title": "Silicon Photonics Module Packaging Integration Engineer",
+    "active": true,
+    "date_updated": 1773267904,
+    "date_posted": 1773267904,
+    "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Vermont---Essex-Junction/Silicon-Photonics-Module-Packaging-Integration-Engineer--2026-New-College-Graduate-_JR-2502070",
+    "locations": [
+      "Burlington, VT"
+    ],
+    "company_url": "https://simplify.jobs/c/GlobalFoundries",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Master's",
+      "PhD"
+    ]
   }
 ]
