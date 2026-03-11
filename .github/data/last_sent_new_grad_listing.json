@@ -115961,5 +115961,26 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Amentum",
+    "id": "8298fa01-a146-467b-aab9-b8f6171e2123",
+    "title": "Junior Software Engineer for Naval Research Technology",
+    "active": true,
+    "date_updated": 1773182259,
+    "date_posted": 1773182259,
+    "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Fredericksburg/Junior-Software-Engineer-for-Naval-Research-Technology_R0156107",
+    "locations": [
+      "Fredericksburg, VA",
+      "Dahlgren, VA"
+    ],
+    "company_url": "https://simplify.jobs/c/Amentum",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
