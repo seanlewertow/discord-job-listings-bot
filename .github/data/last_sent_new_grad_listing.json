@@ -116188,5 +116188,103 @@
       "Master's",
       "PhD"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "52829c65-5f45-4f41-9bb6-f757a18a1357",
+    "title": "Trading Assistant",
+    "active": true,
+    "date_updated": 1773267350,
+    "date_posted": 1773267350,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400051497",
+    "locations": [
+      "Edinburgh, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "TD Bank",
+    "id": "0a6a6f31-5915-42c0-9325-f252d493fb31",
+    "title": "TD Gen AI Hackathon - AI Platform",
+    "active": true,
+    "date_updated": 1773267904,
+    "date_posted": 1773267904,
+    "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/TD-Gen-AI-Hackathon---University-of-Toronto--March-14-15--Associate-Engineer-I---AI-Platform-Applicants_R_1478213",
+    "locations": [
+      "Toronto, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/TD-Bank",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "011964f8-213f-454c-98e4-e7a96bba448c",
+    "title": "Trading Assistant - Shift",
+    "active": true,
+    "date_updated": 1773267579,
+    "date_posted": 1773267579,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400053077",
+    "locations": [
+      "Essex, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Honeywell",
+    "id": "12e314b7-d89b-43a8-80bb-8bc4f2080629",
+    "title": "Finance Data Analyst 1",
+    "active": true,
+    "date_updated": 1773267171,
+    "date_posted": 1773267171,
+    "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/143113",
+    "locations": [
+      "Phoenix, AZ",
+      "Minneapolis, MN"
+    ],
+    "company_url": "https://simplify.jobs/c/Honeywell",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Analytic Partners",
+    "id": "b6b25f32-522f-486c-9a6c-59a7ceb84adc",
+    "title": "Marketing Science Analyst",
+    "active": true,
+    "date_updated": 1773267340,
+    "date_posted": 1773267340,
+    "url": "https://jobs.lever.co/analyticpartners/5accbca7-e5f5-46ac-9a52-173c64c2fdca/apply",
+    "locations": [
+      "Colorado",
+      "Denver, CO",
+      "United States"
+    ],
+    "company_url": "https://simplify.jobs/c/Analytic-Partners",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
