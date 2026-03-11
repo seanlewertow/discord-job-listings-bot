@@ -115788,5 +115788,26 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "LexisNexis Risk Solutions",
+    "id": "66bd4cdf-f79a-45bb-890c-76087772d8fb",
+    "title": "Product Manager 1",
+    "active": true,
+    "date_updated": 1773183747,
+    "date_posted": 1773183747,
+    "url": "https://relx.wd3.myworkdayjobs.com/en-US/LexisNexisLegal/job/Raleigh-NC/Product-Mgr-I_R109935",
+    "locations": [
+      "Raleigh, NC"
+    ],
+    "company_url": "https://simplify.jobs/c/LexisNexis-Risk-Solutions",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
   }
 ]
