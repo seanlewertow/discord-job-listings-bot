@@ -115809,5 +115809,101 @@
       "Bachelor's",
       "Master's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "2841e275-cd9d-4201-90da-725ef969b279",
+    "title": "Trading Assistant",
+    "active": true,
+    "date_updated": 1773238496,
+    "date_posted": 1773238496,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400052607",
+    "locations": [
+      "Ipswich, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "RTX",
+    "id": "e4cb1d83-7ecd-4a84-bd6f-0bfce896d9aa",
+    "title": "Flight Management Software Engineer 1",
+    "active": true,
+    "date_updated": 1773240977,
+    "date_posted": 1773240977,
+    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-121--350-Collins-Rd-NE--BLDG-121/Flight-Management-Software-Engineer-I--Onsite-_01792047",
+    "locations": [
+      "Cedar Rapids, IA"
+    ],
+    "company_url": "https://simplify.jobs/c/RTX",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "9de6ac5f-c8fe-4a57-aa39-0311d48dd564",
+    "title": "Trading Assistant",
+    "active": true,
+    "date_updated": 1773238470,
+    "date_posted": 1773238470,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400052950",
+    "locations": [
+      "Bedford, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "Capital One",
+    "id": "023de71a-942e-4ce0-9098-dbb93f443524",
+    "title": "Senior Associate - Product Manager - Card Site Shopping",
+    "active": true,
+    "date_updated": 1773240098,
+    "date_posted": 1773240098,
+    "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Chicago-IL/Senior-Associate--Product-Management---Card-Site-Shopping_R237749-1",
+    "locations": [
+      "McLean, VA",
+      "Chicago, IL",
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Capital-One",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Cox",
+    "id": "2bf1f918-c1c2-4959-8d47-331f25b219ac",
+    "title": "Software Engineer 1",
+    "active": true,
+    "date_updated": 1773239535,
+    "date_posted": 1773239535,
+    "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Carmel-IN/Software-Engineer-I_R202674243",
+    "locations": [
+      "Carmel, IN"
+    ],
+    "company_url": "https://simplify.jobs/c/Cox",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
