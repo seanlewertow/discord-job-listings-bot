@@ -116376,5 +116376,101 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Northrop Grumman",
+    "id": "82f035f1-71e3-44dc-b51c-201e1b65a5c1",
+    "title": "Software Engineer - Embedded and Real Time",
+    "active": true,
+    "date_updated": 1773223772,
+    "date_posted": 1773223772,
+    "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Oklahoma-Oklahoma-City/Engineer-Software---Embedded-and-Real-Time--Oklahoma-or-Florida-_R10223587",
+    "locations": [
+      "Melbourne, FL",
+      "Oklahoma City, OK"
+    ],
+    "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "Loblaw Companies",
+    "id": "81e46816-09be-42d6-bd5a-39684ebac3bd",
+    "title": "Assistant Product Manager",
+    "active": true,
+    "date_updated": 1773223429,
+    "date_posted": 1773223429,
+    "url": "https://myview.wd3.myworkdayjobs.com/paradox_careers/job/1-Presidents-Choice-Circle-Brampton-ON/Assistant-Product-Manager_R2000637942",
+    "locations": [
+      "Brampton, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Loblaw-Companies",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Betway",
+    "id": "a569f22c-538a-462d-96ee-b721a4378686",
+    "title": "Graduate Data Analyst",
+    "active": true,
+    "date_updated": 1773221209,
+    "date_posted": 1773221209,
+    "url": "https://myhcm.wd3.myworkdayjobs.com/Betway/job/North-London-UK/Graduate-Data-Analyst_JR12378",
+    "locations": [
+      "London, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Betway",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Betway",
+    "id": "2eaedffc-9dda-41bf-acb3-d4a699518468",
+    "title": "Senior Email Developer - CRM",
+    "active": true,
+    "date_updated": 1773221213,
+    "date_posted": 1773221213,
+    "url": "https://myhcm.wd3.myworkdayjobs.com/Betway/job/North-London-UK/Senior-Email-Developer_JR12379",
+    "locations": [
+      "London, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Betway",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Arc",
+    "id": "fde1bcee-645f-44b5-adde-d68957552e11",
+    "title": "Electromechanical Technician",
+    "active": true,
+    "date_updated": 1770853332,
+    "date_posted": 1770853332,
+    "url": "https://job-boards.greenhouse.io/arcboatcompany/jobs/4513918008",
+    "locations": [
+      "Carson, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Arc",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
