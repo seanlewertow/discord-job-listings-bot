@@ -116852,5 +116852,104 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "KLA Corporation",
+    "id": "7bef4342-f4f4-466c-aea1-49298d49f62e",
+    "title": "Software Engineer",
+    "active": true,
+    "date_updated": 1773305543,
+    "date_posted": 1773154116,
+    "url": "https://kla.wd1.myworkdayjobs.com/UR/job/Milpitas-CA/Software-Engineer_2634918-1",
+    "locations": [
+      "Milpitas, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/KLA-Corporation",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "Sprocket Security",
+    "id": "9adfdf78-d04f-49e7-bbb0-b4ec4526231d",
+    "title": "Product Owner",
+    "active": true,
+    "date_updated": 1773305803,
+    "date_posted": 1769182718,
+    "url": "https://www.sprocketsecurity.com/company/careers/apply?gh_jid=5081034008",
+    "locations": [
+      "Madison, WI"
+    ],
+    "company_url": "https://simplify.jobs/c/38830c5c-616a-4e08-be48-d4ce6c915024",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "a6118683-7bfb-4870-87dd-5e2fab150af0",
+    "title": "Trading Assistant - Shift",
+    "active": true,
+    "date_updated": 1773306463,
+    "date_posted": 1773306463,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400052895",
+    "locations": [
+      "Manchester, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Amazon",
+    "id": "43dbbab0-c717-4ffe-8833-d487dbf6d52a",
+    "title": "Software Development Engineer 1",
+    "active": true,
+    "date_updated": 1773306391,
+    "date_posted": 1773306391,
+    "url": "https://amazon.jobs/en/jobs/3195341/software-development-engineer-i",
+    "locations": [
+      "India",
+      "Tennessee",
+      "Chennai, Tamil Nadu, India"
+    ],
+    "company_url": "https://simplify.jobs/c/Amazon",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Schreder",
+    "id": "d1cd0670-ec6a-4949-9344-427e30fda32f",
+    "title": "Application Engineer",
+    "active": true,
+    "date_updated": 1773306412,
+    "date_posted": 1772090025,
+    "url": "https://jobs.smartrecruiters.com/Schrder/744000114315248",
+    "locations": [
+      "Basingstoke, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Schreder",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
