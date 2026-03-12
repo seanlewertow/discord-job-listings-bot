@@ -117256,5 +117256,26 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Sallie Mae",
+    "id": "4642d59a-de2d-455f-97b8-8dd33d12529b",
+    "title": "Data Engineer",
+    "active": true,
+    "date_updated": 1773328103,
+    "date_posted": 1773328103,
+    "url": "https://sallie-mae.wd5.myworkdayjobs.com/Careers/job/Newark-DE/Data-Engineer_R25_000780",
+    "locations": [
+      "Newark, DE",
+      "Dulles, VA"
+    ],
+    "company_url": "https://simplify.jobs/c/Sallie-Mae",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
