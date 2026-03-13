@@ -118089,5 +118089,99 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Royal Bank of Canada",
+    "id": "4cf7260c-4251-4688-a9b7-a4bd673a33a8",
+    "title": "New Grad Rotational Program",
+    "active": true,
+    "date_updated": 1773384258,
+    "date_posted": 1773384258,
+    "url": "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/90-WESTERN-PKYBEDFORD/QTS-New-Graduate-Rotational-Program--2026--Halifax-_R-0000161808-1",
+    "locations": [
+      "Nova Scotia, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Royal-Bank-Of-Canada",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Royal Bank of Canada",
+    "id": "49648ff9-a82b-47d2-b425-00b8b993708e",
+    "title": "Associate Software Developer",
+    "active": true,
+    "date_updated": 1773384214,
+    "date_posted": 1773384214,
+    "url": "https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/MISSISSAUGA-Ontario-Canada/Associate-Software-Developer_R-0000161784",
+    "locations": [
+      "Mississauga, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Royal-Bank-Of-Canada",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Royal Bank of Canada",
+    "id": "24b83f3d-ad4b-478a-bdfb-64536679a6e1",
+    "title": "Associate Software Developer",
+    "active": true,
+    "date_updated": 1773384216,
+    "date_posted": 1773384216,
+    "url": "https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/MISSISSAUGA-Ontario-Canada/Associate-Software-Developer_R-0000161783",
+    "locations": [
+      "Mississauga, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Royal-Bank-Of-Canada",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Southwest Airlines",
+    "id": "3f499548-03d5-4404-8e4b-0a13f94cdabc",
+    "title": "Associate System Engineer",
+    "active": true,
+    "date_updated": 1773383984,
+    "date_posted": 1773383984,
+    "url": "https://swa.wd1.myworkdayjobs.com/external/job/TX-Dallas/Associate-System-Engineer---Warrior-Hire_R-2026-66101",
+    "locations": [
+      "Dallas, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Southwest-Airlines",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Southwest Airlines",
+    "id": "3937a782-30ee-455a-9f26-63b4e3d1c37e",
+    "title": "Associate Data Engineer",
+    "active": true,
+    "date_updated": 1773383992,
+    "date_posted": 1773383992,
+    "url": "https://swa.wd1.myworkdayjobs.com/external/job/TX-Dallas/Associate-Data-Engineer---Warrior-Hire_R-2026-66099",
+    "locations": [
+      "Dallas, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Southwest-Airlines",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
