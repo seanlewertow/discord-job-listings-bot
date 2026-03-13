@@ -117461,5 +117461,99 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Microchip Technology",
+    "id": "087bc9aa-0344-4dc6-a6ca-dab38ce4994b",
+    "title": "Technician 2 - Manufacturing",
+    "active": true,
+    "date_updated": 1773355546,
+    "date_posted": 1773355546,
+    "url": "https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/MA---Lowell/Technician-II---Manufacturing_R935-26",
+    "locations": [
+      "Lowell, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/Microchip-Technology",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Northrop Grumman",
+    "id": "42faeb39-8eb2-4735-8736-de0c9bf76c95",
+    "title": "Associate Database Engineer/ Database Engineer - Virtual",
+    "active": true,
+    "date_updated": 1773356547,
+    "date_posted": 1773356547,
+    "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Illinois-Unknown-City/XMLNAME-2026-Associate-Database-Engineer--Database-Engineer--VIRTUAL--Rolling-Meadows-IL_R10225804",
+    "locations": [
+      "Palatine, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Cummins",
+    "id": "f0845b32-fa26-4944-9ee2-dba50406ab37",
+    "title": "Product Engineer",
+    "active": true,
+    "date_updated": 1773354092,
+    "date_posted": 1773354092,
+    "url": "https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2426392",
+    "locations": [
+      "Columbus, IN"
+    ],
+    "company_url": "https://simplify.jobs/c/Cummins",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Samsung",
+    "id": "c99a2166-aea7-4340-b496-c9ca2eaf89b3",
+    "title": "Data Analyst",
+    "active": true,
+    "date_updated": 1773353829,
+    "date_posted": 1773353829,
+    "url": "https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/3000-Hillswood-Drive-Chertsey-United-Kingdom/European-Data-Analyst_R115243",
+    "locations": [
+      "Weybridge, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Samsung",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "2536da29-eb9f-4d41-8ea5-2666ece06678",
+    "title": "Trading Assistant - Shift",
+    "active": true,
+    "date_updated": 1773354085,
+    "date_posted": 1773354085,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400053210",
+    "locations": [
+      "Wimborne Minster, Wimborne, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
