@@ -117299,5 +117299,67 @@
       "Master's",
       "PhD"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Susquehanna International Group (SIG)",
+    "id": "469bcd26-46bc-44f8-8e7a-d8e8eff93e82",
+    "title": "HR Data Analyst - Operations Analyst Program",
+    "active": true,
+    "date_updated": 1773091904,
+    "date_posted": 1773091904,
+    "url": "https://careers-sig.icims.com/jobs/10604/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Ardmore, PA"
+    ],
+    "company_url": "https://simplify.jobs/c/Susquehanna",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Peraton",
+    "id": "c2979f8c-fd25-4fcc-83ed-f01519b2615f",
+    "title": "Cloud Software Engineer \u2013 Senior Associate - Java/Kotlin",
+    "active": true,
+    "date_updated": 1773092272,
+    "date_posted": 1773092272,
+    "url": "https://careers-peraton.icims.com/jobs/164275/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Annapolis Junction, MD"
+    ],
+    "company_url": "https://simplify.jobs/c/Peraton",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "PolyAI",
+    "id": "d8e82aee-f320-4ddc-89b5-49dcca15bd7f",
+    "title": "Agent Designer",
+    "active": true,
+    "date_updated": 1773092316,
+    "date_posted": 1773092316,
+    "url": "https://job-boards.eu.greenhouse.io/polyai/jobs/4802138101",
+    "locations": [
+      "Remote in Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/PolyAI",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
   }
 ]
