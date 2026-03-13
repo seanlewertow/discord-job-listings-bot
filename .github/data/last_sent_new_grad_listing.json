@@ -117989,5 +117989,26 @@
     "degrees": [
       "Associate's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "University of Texas - Austin",
+    "id": "8dc4d9c8-10d0-4e3a-b029-e9811246f6b6",
+    "title": "Bioengineering Analyst 1",
+    "active": true,
+    "date_updated": 1773381768,
+    "date_posted": 1773381768,
+    "url": "https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/AUSTIN-TX/Bioengineering-Analyst_R_00044288",
+    "locations": [
+      "Austin, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/University-Of-Texas-Austin",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Associate's"
+    ]
   }
 ]
