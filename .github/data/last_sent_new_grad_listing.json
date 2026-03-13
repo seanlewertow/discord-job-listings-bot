@@ -118243,5 +118243,43 @@
     "degrees": [
       "Certificate"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Plexus",
+    "id": "b28ab799-b6e2-4b9b-b161-f8f9095da54f",
+    "title": "Product Engineer",
+    "active": true,
+    "date_updated": 1773391904,
+    "date_posted": 1771687155,
+    "url": "https://plexus.wd5.myworkdayjobs.com/en-US/Plexus_Careers/job/Nampa-ID/Product-Engineer-II_R034605-2",
+    "locations": [
+      "Nampa, ID"
+    ],
+    "company_url": "https://simplify.jobs/c/Plexus",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Rokt",
+    "id": "6409b0d3-0c55-4bc3-87d4-ffaeebd6a9e7",
+    "title": "Operations Accelerator",
+    "active": true,
+    "date_updated": 1773392082,
+    "date_posted": 1771629456,
+    "url": "https://apply.workable.com/rokt/j/3F5C106474/apply",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/f08512e1-117c-4076-b4b9-217616f1a3eb",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
