@@ -117555,5 +117555,111 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "USAA",
+    "id": "2d9ee18b-c93b-4a6e-a081-cce16615c4dd",
+    "title": "Software Engineer Entry Level",
+    "active": true,
+    "date_updated": 1773355789,
+    "date_posted": 1773355789,
+    "url": "https://usaa.wd1.myworkdayjobs.com/en-US/USAAJOBSWD/job/Plano-Legacy/Software-Engineer-Entry-Level_R0115594",
+    "locations": [
+      "Plano, TX",
+      "San Antonio, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/USAA",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Microchip Technology",
+    "id": "3837fe00-4ac9-45d6-a036-b516a885cc80",
+    "title": "Engineer 1 - Software Edge AI",
+    "active": true,
+    "date_updated": 1773355548,
+    "date_posted": 1773355548,
+    "url": "https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/AZ---Chandler/Engineer-I--Software-Edge-AI_R619-26",
+    "locations": [
+      "Chandler, AZ"
+    ],
+    "company_url": "https://simplify.jobs/c/Microchip-Technology",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "The Boeing Company",
+    "id": "a4ffad22-2a82-4e8d-a9ad-e2d70ccc8a7e",
+    "title": "SAR Signal & Image Processing Engineer \u2013 Associate or Mid-Level",
+    "active": true,
+    "date_updated": 1773356450,
+    "date_posted": 1773356450,
+    "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Kent-WA/SAR-Signal---Image-Processing-Engineer--Associate-or-Mid-Level-_JR2026500163-1",
+    "locations": [
+      "Kent, WA"
+    ],
+    "company_url": "https://simplify.jobs/c/Boeing",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "PhD"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Motorola",
+    "id": "ca0b8b7a-6549-441c-ab75-ecd5f5022bbc",
+    "title": "Junior Mechanical Designer",
+    "active": true,
+    "date_updated": 1773355235,
+    "date_posted": 1773355235,
+    "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Vancouver-Canada/Junior-Mechanical-Designer_R62293-1",
+    "locations": [
+      "Vancouver, BC, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/MotorolaSolutions",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Vanta",
+    "id": "df235b55-df41-4226-9060-cb7af5604e4c",
+    "title": "Software Engineer \u2013 Entry Level",
+    "active": true,
+    "date_updated": 1773354767,
+    "date_posted": 1773354767,
+    "url": "https://jobs.ashbyhq.com/vanta/14f2aa15-7d35-43cc-8978-48986a325c4a/application",
+    "locations": [
+      "SF",
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Vanta",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
   }
 ]
