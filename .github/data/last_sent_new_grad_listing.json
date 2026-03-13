@@ -117361,5 +117361,105 @@
       "Bachelor's",
       "Master's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Wiltshire Farm Foods",
+    "id": "13cf20e0-c8b3-41dd-9c31-15b495443feb",
+    "title": "Graduate Project Engineer",
+    "active": true,
+    "date_updated": 1773353251,
+    "date_posted": 1773353251,
+    "url": "https://wiltshirefarmfoods-apetito.icims.com/jobs/8029/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Trowbridge, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Wiltshire-Farm-Foods",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Susquehanna International Group (SIG)",
+    "id": "0d48ab6a-d60f-4dbe-ab6e-5045ebf7f0d5",
+    "title": "Associate Linux/Windows Engineer - Platform Services",
+    "active": true,
+    "date_updated": 1773353414,
+    "date_posted": 1773353414,
+    "url": "https://careers-sig.icims.com/jobs/9203/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Ardmore, PA"
+    ],
+    "company_url": "https://simplify.jobs/c/Susquehanna",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "General Dynamics Mission Systems",
+    "id": "716b0be5-4f65-4453-b047-de2a9f98942c",
+    "title": "Software Engineer \u2013 Entry Level",
+    "active": true,
+    "date_updated": 1773353172,
+    "date_posted": 1773353172,
+    "url": "https://careers-gdms.icims.com/jobs/71486/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "United States"
+    ],
+    "company_url": "https://simplify.jobs/c/General-Dynamics-Mission-Systems",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Okta",
+    "id": "42d84668-4130-4c47-bc61-5043bdc034f2",
+    "title": "Software Engineer 1 - New Grad",
+    "active": true,
+    "date_updated": 1773353038,
+    "date_posted": 1773353038,
+    "url": "https://www.okta.com/company/careers/opportunity/7611023?gh_jid=7611023",
+    "locations": [
+      "SF"
+    ],
+    "company_url": "https://simplify.jobs/c/Okta",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bootcamp"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "General Dynamics Mission Systems",
+    "id": "2933ad0c-ee5f-43f5-9f51-106d4686d335",
+    "title": "Entry Level Software Engineer",
+    "active": true,
+    "date_updated": 1773353161,
+    "date_posted": 1773353161,
+    "url": "https://careers-gdms.icims.com/jobs/70002/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Scottsdale, AZ"
+    ],
+    "company_url": "https://simplify.jobs/c/General-Dynamics-Mission-Systems",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
