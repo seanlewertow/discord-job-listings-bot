@@ -118223,5 +118223,25 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Thorlabs",
+    "id": "2dc7d7cd-4ce4-482c-9a02-c56ff460d06f",
+    "title": "Draughtsperson",
+    "active": true,
+    "date_updated": 1773390620,
+    "date_posted": 1770995653,
+    "url": "https://apply.workable.com/thorlabs/j/1FC349B162/apply",
+    "locations": [
+      "Lakenheath, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Thorlabs",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Certificate"
+    ]
   }
 ]
