@@ -117848,5 +117848,106 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "Red Hat",
+    "id": "11ac21c2-ee16-4ac1-82e8-2ac13b522337",
+    "title": "Associate Product Manager - Ansible Automation Platform",
+    "active": true,
+    "date_updated": 1773365473,
+    "date_posted": 1773365473,
+    "url": "https://redhat.wd5.myworkdayjobs.com/jobs/job/Raleigh/Associate-Product-Manager-Ansible-Automation-Platform_R-055461-1",
+    "locations": [
+      "Raleigh, NC"
+    ],
+    "company_url": "https://simplify.jobs/c/Red-Hat",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Deloitte",
+    "id": "db1399e9-c656-4a1c-8046-29a0af37cfca",
+    "title": "Associate GenAI Engineer",
+    "active": true,
+    "date_updated": 1773364669,
+    "date_posted": 1773364669,
+    "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Associate-GenAI-Engineer/326869",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Deloitte",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Secureframe",
+    "id": "3f94d282-4523-424c-8450-0e34874128ab",
+    "title": "Graduate Software Engineer",
+    "active": true,
+    "date_updated": 1773364658,
+    "date_posted": 1773364658,
+    "url": "https://jobs.lever.co/secureframe/29ff0477-faeb-44d6-abb3-8e894fc92a22/apply",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Secureframe",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Western Digital",
+    "id": "18c1c491-a1ba-478c-8aa9-95ac4d98370e",
+    "title": "Early College Talent - Failure Analysis Engineer",
+    "active": true,
+    "date_updated": 1773364547,
+    "date_posted": 1773364547,
+    "url": "https://jobs.smartrecruiters.com/WesternDigital/744000114478120",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Western-Digital",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Analog Devices",
+    "id": "4e3d822b-3407-4d92-be03-3d1b812cb4da",
+    "title": "Semi Packaging Engineer",
+    "active": true,
+    "date_updated": 1773384266,
+    "date_posted": 1773384266,
+    "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Semi-Packaging-Engineer_R255209",
+    "locations": [
+      "Burlington, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/Analog-Devices",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Master's"
+    ]
   }
 ]
