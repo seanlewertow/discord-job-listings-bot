@@ -117277,5 +117277,27 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Cisco",
+    "id": "90a021cb-16fe-4e2e-b8a9-a0503a7a8755",
+    "title": "Senior Thermal Engineer",
+    "active": true,
+    "date_updated": 1773354048,
+    "date_posted": 1773354048,
+    "url": "https://careers.cisco.com/global/en/job/2007382",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Cisco",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "PhD"
+    ]
   }
 ]
