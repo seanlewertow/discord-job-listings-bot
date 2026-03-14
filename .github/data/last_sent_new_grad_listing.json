@@ -119679,5 +119679,81 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "The Information Lab",
+    "id": "ca0e46bd-3d87-4ea3-ae5c-3f8c475e3706",
+    "title": "The Data School",
+    "active": true,
+    "date_updated": 1773477735,
+    "date_posted": 1772781089,
+    "url": "https://jobs.lever.co/theinformationlab/eaa64bb6-30b9-44bf-a490-3a2ea9754c13/apply",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/The-Information-Lab",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Encord",
+    "id": "2be52873-175a-4e18-836f-810d2c49e12c",
+    "title": "Associate Full-Stack Engineer - Front-End Leaning",
+    "active": true,
+    "date_updated": 1773477567,
+    "date_posted": 1761900143,
+    "url": "https://jobs.lever.co/CordTechnologies/b683d54a-53e5-4683-959a-817e8f73e0e3/apply",
+    "locations": [
+      "London, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Encord",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Johnson & Johnson",
+    "id": "cd63100b-31a5-431b-b8c8-4e59ad809d85",
+    "title": "Associate Design Engineer - R&D - Advanced Energy",
+    "active": true,
+    "date_updated": 1773475973,
+    "date_posted": 1772672818,
+    "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Cincinnati-Ohio-United-States-of-America/Associate-Design-Engineer--R-D---Advanced-Energy_R-061305-1",
+    "locations": [
+      "Cincinnati, OH"
+    ],
+    "company_url": "https://simplify.jobs/c/Johnson-Johnson",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "JP Morgan Chase",
+    "id": "4384ebfa-0360-4e3b-9d7b-d7c21f6154c1",
+    "title": "Quantitative Trading and Research - Associate",
+    "active": true,
+    "date_updated": 1773477556,
+    "date_posted": 1761527921,
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210679040",
+    "locations": [
+      "London, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/JP-Morgan-Chase",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Master's"
+    ]
   }
 ]
