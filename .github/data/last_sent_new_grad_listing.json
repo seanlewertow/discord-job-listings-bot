@@ -118887,5 +118887,93 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Northrop Grumman",
+    "id": "c3c26a4c-0d6f-4026-a69a-f773bf7875a7",
+    "title": "Software Development Analyst",
+    "active": true,
+    "date_updated": 1773492997,
+    "date_posted": 1773492997,
+    "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Unknown-City/Software-Development-Analyst_R10224296",
+    "locations": [
+      "Virginia"
+    ],
+    "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "Associate's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Northrop Grumman",
+    "id": "a4b21653-eb05-46ff-9fdc-d731cc03ba8a",
+    "title": "Sentinel Nuclear Surety Systems / Principal Systems Engineer - 1",
+    "active": true,
+    "date_updated": 1773494642,
+    "date_posted": 1773494642,
+    "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/Sentinel---Nuclear-Surety-Systems---Principal-Systems-Engineer---7752-1_R10225063",
+    "locations": [
+      "Hill AFB, UT"
+    ],
+    "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Northrop Grumman",
+    "id": "92d95180-a4f5-464e-8162-ec422fb12b12",
+    "title": "Engineer / Principal Engineer Systems Modeling Simulation",
+    "active": true,
+    "date_updated": 1773491769,
+    "date_posted": 1773491769,
+    "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/Engineer---Principal-Engineer-Systems-Modeling-Simulation_R10219422",
+    "locations": [
+      "Melbourne, FL"
+    ],
+    "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "PhD"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Northrop Grumman",
+    "id": "59644bba-ec9c-4ac0-950a-3db428b1830d",
+    "title": "Software Engineer - Embedded",
+    "active": true,
+    "date_updated": 1773491893,
+    "date_posted": 1773491893,
+    "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/Engineer-Software---Embedded--Multiple-Locations-CA-_R10223814-1",
+    "locations": [
+      "Palmdale, CA",
+      "San Diego, CA",
+      "El Segundo, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
   }
 ]
