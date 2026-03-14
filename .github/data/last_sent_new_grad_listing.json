@@ -119330,5 +119330,110 @@
       "Bachelor's",
       "Master's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Adtran",
+    "id": "3026e392-29ef-4e78-80af-43a60b61e1d0",
+    "title": "Test Engineer - Linux Administrator",
+    "active": true,
+    "date_updated": 1773489998,
+    "date_posted": 1773489998,
+    "url": "https://adtran.wd3.myworkdayjobs.com/adtran/job/Adtran-Huntsville-HQ/Test-Engineer---Linux-Admin_R005295",
+    "locations": [
+      "Huntsville, AL"
+    ],
+    "company_url": "https://simplify.jobs/c/Adtran",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "TD Bank",
+    "id": "a6dee434-c6bd-4a86-8602-cae71b6b4675",
+    "title": "Software Engineer 1",
+    "active": true,
+    "date_updated": 1773483621,
+    "date_posted": 1773483621,
+    "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Montral-Qubec/Software-Engineer-I_R_1471732",
+    "locations": [
+      "Montreal, QC, Canada",
+      "Toronto, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/TD-Bank",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "PhD",
+      "Certificate"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "The Travelers Companies",
+    "id": "2bdec219-d6d6-49da-8dee-72d8a08f5612",
+    "title": "Software Engineer 1 - Multiple Teams",
+    "active": true,
+    "date_updated": 1773490836,
+    "date_posted": 1773490836,
+    "url": "https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Software-Engineer-I--Salesforce-CRM--Copado--Test-Automation-_R-49089",
+    "locations": [
+      "Hartford, CT",
+      "St Paul, MN"
+    ],
+    "company_url": "https://simplify.jobs/c/Travelers",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "AIG",
+    "id": "4789ad3e-3e48-47a9-a80a-d4229e6ba377",
+    "title": "Early Career - Gen AI - Data Engineering Analyst",
+    "active": true,
+    "date_updated": 1773486648,
+    "date_posted": 1773486648,
+    "url": "https://aig.wd1.myworkdayjobs.com/en-US/early_careers/job/GA-Atlanta/XMLNAME-2026-Early-Career---Gen-AI---Data-Engineering-Analyst---United-States--Atlanta--GA--_JR2505609",
+    "locations": [
+      "Atlanta, GA"
+    ],
+    "company_url": "https://simplify.jobs/c/AIG",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Ann & Robert H. Lurie Children\u2019s Hospital of Chicago",
+    "id": "1dde5207-eaa0-48cd-938f-94adb054304b",
+    "title": "Data Architect 1",
+    "active": true,
+    "date_updated": 1773494623,
+    "date_posted": 1773494623,
+    "url": "https://luriechildrens.wd1.myworkdayjobs.com/externalportal/job/Streeterville-Chicago-IL/Data-Architect-I_JR2025-2972",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/Ann-Robert-H-Lurie-Childrens-Hospital-Of-Chicago",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
