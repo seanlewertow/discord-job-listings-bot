@@ -119435,5 +119435,101 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Hyve Solutions",
+    "id": "a5e53a3d-8104-4e3f-b158-5a63134dcae0",
+    "title": "Quality Technician",
+    "active": true,
+    "date_updated": 1773484377,
+    "date_posted": 1773484377,
+    "url": "https://synnex.wd5.myworkdayjobs.com/hyvecareers/job/Olive-Branch-MS/Quality-Technician_R42790",
+    "locations": [
+      "Olive Branch, MS"
+    ],
+    "company_url": "https://simplify.jobs/c/100a87e3-2540-44fd-9de7-caea9e8b2cfa",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Ribbon",
+    "id": "55a31bf5-3610-4d91-8745-efebd23ff9b8",
+    "title": "Junior Software Developer - Cloud Services Development Team",
+    "active": true,
+    "date_updated": 1773491176,
+    "date_posted": 1773491176,
+    "url": "https://vhr-genband.wd1.myworkdayjobs.com/ribboncareers/job/Canada-Quebec-Montreal/Junior-Software-Developer---Cloud-Services-Development-Team---Full-time-Position_REQ-2025-2793",
+    "locations": [
+      "Montreal, QC, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Ribbon",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Amentum",
+    "id": "7adfc83a-dcb5-4ae7-a9a4-eea1060cf856",
+    "title": "Electronic Technician - Maintenance I",
+    "active": true,
+    "date_updated": 1773492335,
+    "date_posted": 1773492335,
+    "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-AK-Fairbanks/Electronic-Technician--Maintenance-I_R0151750-1",
+    "locations": [
+      "Fairbanks, AK"
+    ],
+    "company_url": "https://simplify.jobs/c/Amentum",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Samsung",
+    "id": "41376812-92f3-4329-b1e1-121bc2d6ebdf",
+    "title": "Failure Analysis Technician",
+    "active": true,
+    "date_updated": 1773493265,
+    "date_posted": 1773493265,
+    "url": "https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/1530-FM-973-Taylor-TX-USA/Failure-Analysis-Technician_R113730-1",
+    "locations": [
+      "Pflugerville, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Samsung",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "GlobalFoundries",
+    "id": "84e8f26c-0097-42f4-a80a-6e100be423d5",
+    "title": "Silicon Photonics Module Packaging Integration Engineer",
+    "active": true,
+    "date_updated": 1773478144,
+    "date_posted": 1771690069,
+    "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Sr-Photonics-Product-Packaging-Engineer_JR-2502067",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/GlobalFoundries",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Master's",
+      "PhD"
+    ]
   }
 ]
