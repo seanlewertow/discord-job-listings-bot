@@ -119531,5 +119531,113 @@
       "Master's",
       "PhD"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "RTX",
+    "id": "15bfcc07-6976-4ef9-b3be-e02ab51fc348",
+    "title": "Electrical Computer Aided Designer",
+    "active": true,
+    "date_updated": 1773491881,
+    "date_posted": 1773491881,
+    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-M10--3360-E-Hemisphere-Loop--BLDG-M10/Electrical-Computer-Aided-Designer_01825402",
+    "locations": [
+      "Tucson, AZ"
+    ],
+    "company_url": "https://simplify.jobs/c/RTX",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Bank of America",
+    "id": "f9d6bf78-99b1-483c-a095-904cf31802aa",
+    "title": "Data Scientist 1 - Client Protection",
+    "active": true,
+    "date_updated": 1773488558,
+    "date_posted": 1773488558,
+    "url": "https://ghr.wd1.myworkdayjobs.com/us-emplsv/job/Charlotte/Data-Scientist-I---Client-Protection_26004726",
+    "locations": [
+      "Boston, MA",
+      "Tampa, FL",
+      "Plano, TX",
+      "Newark, NJ",
+      "Chicago, IL",
+      "Charlotte, NC",
+      "Fort Worth, TX",
+      "Phoenix, AZ",
+      "Jacksonville, FL"
+    ],
+    "company_url": "https://simplify.jobs/c/Bank-Of-America",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "PhD"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Teledyne",
+    "id": "a02dee97-5426-4bc9-b61c-bbc74db0ec03",
+    "title": "Junior Modeling and Simulation Developer",
+    "active": true,
+    "date_updated": 1773486708,
+    "date_posted": 1773486708,
+    "url": "https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Huntsville-AL/Jr-Modeling-and-Simulation-Developer_REQ32730",
+    "locations": [
+      "Huntsville, AL"
+    ],
+    "company_url": "https://simplify.jobs/c/199b3c43-379a-408c-a6a8-980e79183038",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Prysmian Cables & Systems",
+    "id": "9ccca75f-28b2-44b0-b22b-d3bfe8574596",
+    "title": "Materials Testing Trainee Technician",
+    "active": true,
+    "date_updated": 1773483403,
+    "date_posted": 1773483403,
+    "url": "https://prysmiangroup.wd3.myworkdayjobs.com/careers/job/Bishopstoke/Materials-Testing-Trainee-Technician_R-29743-1",
+    "locations": [
+      "Southampton, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/de2a7df6-c0fa-4813-9fba-f1d7a2fb0149",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "AeroVironment",
+    "id": "d750ace8-baca-4ad8-8ddb-a516b71b7957",
+    "title": "Project Engineer 1",
+    "active": true,
+    "date_updated": 1773485831,
+    "date_posted": 1773485831,
+    "url": "https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Simi-Valley-CA/Project-Engineer-II_6540",
+    "locations": [
+      "Simi Valley, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/AeroVironment",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
