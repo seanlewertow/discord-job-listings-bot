@@ -119755,5 +119755,43 @@
     "degrees": [
       "Master's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Generac",
+    "id": "9f573533-39c1-4a80-bdd1-3878e9171167",
+    "title": "Product Certification Engineer",
+    "active": true,
+    "date_updated": 1773487775,
+    "date_posted": 1773487775,
+    "url": "https://generac.wd5.myworkdayjobs.com/en-US/external/job/Waukesha-WI---USA/Product-Certification-Engineer_JR12882",
+    "locations": [
+      "Waukesha, WI"
+    ],
+    "company_url": "https://simplify.jobs/c/Generac",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "LG Ad Solutions",
+    "id": "2a097770-793a-4eca-af6c-a2c0778fa526",
+    "title": "Data Analytics Associate - Marketing Science",
+    "active": true,
+    "date_updated": 1773478093,
+    "date_posted": 1771629347,
+    "url": "https://jobs.ashbyhq.com/lgads/c049db92-3ae6-4022-84fa-821e4fed3253/application",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/LG-Ad-Solutions",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
