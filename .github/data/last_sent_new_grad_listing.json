@@ -119815,5 +119815,23 @@
       "Master's",
       "Certificate"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "ee3f0199-d366-450b-8c8e-32b4219d63f2",
+    "title": "Trading Assistant - Shift",
+    "active": true,
+    "date_updated": 1773482121,
+    "date_posted": 1773482121,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400053424",
+    "locations": [
+      "Crawley, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
