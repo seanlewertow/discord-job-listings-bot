@@ -119639,5 +119639,45 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Pennsylvania State University",
+    "id": "35881f08-d8c0-4d9b-9fd6-570f2aaad685",
+    "title": "Postdoctoral Scholar - MOCVD Thin Films",
+    "active": true,
+    "date_updated": 1773487043,
+    "date_posted": 1773487043,
+    "url": "https://psu.wd1.myworkdayjobs.com/PSU_Academic/job/Penn-State-University-Park/Postdoctoral-Scholar---MOCVD-Thin-Films_REQ_0000068894-2",
+    "locations": [
+      "State College, PA"
+    ],
+    "company_url": "https://simplify.jobs/c/Pennsylvania-State-University",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "PhD"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Harris Computer",
+    "id": "f0d5bfa9-b592-426d-b122-6084e482e7d5",
+    "title": "Junior Software Developer - UI/UX - Software Development",
+    "active": true,
+    "date_updated": 1773484115,
+    "date_posted": 1773484115,
+    "url": "https://harriscomputer.wd3.myworkdayjobs.com/1/job/Ontario-Canada/Junior-Software-Developer_R0040525",
+    "locations": [
+      "Remote in Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Harris-Computer",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
