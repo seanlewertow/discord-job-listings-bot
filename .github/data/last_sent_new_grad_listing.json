@@ -119185,5 +119185,108 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "AeroVironment",
+    "id": "570bbdd2-3972-4136-b70e-6e4956df7ae7",
+    "title": "Electrical",
+    "active": true,
+    "date_updated": 1773485833,
+    "date_posted": 1773485833,
+    "url": "https://avav.wd1.myworkdayjobs.com/en-US/avav/job/1300-Britt-Street-Southeast-Albuquerque-NM/Electrical--Electronic--and-Electromechanical--EEE--Parts-Engineer_7028",
+    "locations": [
+      "Albuquerque, NM"
+    ],
+    "company_url": "https://simplify.jobs/c/AeroVironment",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "OneDigital",
+    "id": "fc51c313-ce03-4b26-88c5-4d785cd05cc6",
+    "title": "Senior Investment Analyst",
+    "active": true,
+    "date_updated": 1773487411,
+    "date_posted": 1773487411,
+    "url": "https://onedigital.wd5.myworkdayjobs.com/onedigital/job/RIA-Overland-Park-KS/Senior-Investment-Analyst_R8437-1",
+    "locations": [
+      "Overland Park, KS"
+    ],
+    "company_url": "https://simplify.jobs/c/OneDigital",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "University of Chicago",
+    "id": "72786552-220d-4b78-aed7-0ac6384f19d4",
+    "title": "Data Management Coordinator",
+    "active": true,
+    "date_updated": 1773483365,
+    "date_posted": 1773483365,
+    "url": "https://uchicago.wd5.myworkdayjobs.com/External/job/Hyde-Park-Campus/Data-Management-Coordinator_JR32682",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/University-Of-Chicago",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Ercot",
+    "id": "e4c19383-3748-4153-b806-5b96c8eb9d0b",
+    "title": "GMS Development Program Entry Level Power & Computer Engineer",
+    "active": true,
+    "date_updated": 1773490043,
+    "date_posted": 1773490043,
+    "url": "https://ercot.wd1.myworkdayjobs.com/ercot_careers/job/Austin-TX/GMS-Development-Program---Entry-Level-Power---Computer-Engineer_R2189-1",
+    "locations": [
+      "Pflugerville, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Ercot",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "TelevisaUnivision",
+    "id": "b98de3fd-b04c-457f-a8bd-f58e83561d64",
+    "title": "Digital Analyst",
+    "active": true,
+    "date_updated": 1773486588,
+    "date_posted": 1773486588,
+    "url": "https://univision.wd1.myworkdayjobs.com/en-US/External/job/New-York-NY/Digital-Analyst_R019734",
+    "locations": [
+      "Austin, TX",
+      "Miami, FL",
+      "Chicago, IL",
+      "NYC",
+      "Denver, CO"
+    ],
+    "company_url": "https://simplify.jobs/c/TelevisaUnivision",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
