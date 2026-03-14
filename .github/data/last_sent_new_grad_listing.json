@@ -118440,5 +118440,111 @@
       "Master's",
       "PhD"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "onsemi",
+    "id": "f50a8442-5f08-49b4-8b6c-082d71861b98",
+    "title": "Technician",
+    "active": true,
+    "date_updated": 1773440165,
+    "date_posted": 1773440165,
+    "url": "https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2504950",
+    "locations": [
+      "Scottsdale, AZ"
+    ],
+    "company_url": "https://simplify.jobs/c/Onsemi",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "c8f28c81-7c86-4023-b7d9-71f2f35495ec",
+    "title": "Trading Assistant",
+    "active": true,
+    "date_updated": 1773440280,
+    "date_posted": 1773440280,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400053354",
+    "locations": [
+      "Brighton, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "TSC",
+    "id": "be4c3a4b-be93-4602-86e5-95e99eaa31f8",
+    "title": "Electronics Technician 1",
+    "active": true,
+    "date_updated": 1773440085,
+    "date_posted": 1773440085,
+    "url": "https://tsc.wd12.myworkdayjobs.com/en-US/TSC-Careers/job/Huntsville-AL-Discovery/Electronics-Technician-I_JR2440-1",
+    "locations": [
+      "Huntsville, AL"
+    ],
+    "company_url": "https://simplify.jobs/c/3d3125df-3bbc-48fc-993c-8e2d0db65649",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Associate's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Jerry",
+    "id": "77b6b518-8276-4879-a134-0ae9d4b2a543",
+    "title": "Applied Data Scientist",
+    "active": true,
+    "date_updated": 1773440002,
+    "date_posted": 1773440002,
+    "url": "https://jobs.ashbyhq.com/jerry.ai/67dd9e74-ad36-42a1-b5f9-3de855caa275/application",
+    "locations": [
+      "Salt Lake City, UT",
+      "Austin, TX",
+      "Chicago, IL",
+      "NYC",
+      "Phoenix, AZ",
+      "Portland, OR",
+      "Atlanta, GA"
+    ],
+    "company_url": "https://simplify.jobs/c/Jerry",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "PhD"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "SpaceX",
+    "id": "77aaa47f-dcc6-487c-82cb-532e620a16d7",
+    "title": "Software Engineer - Beam Planning - Starlink",
+    "active": true,
+    "date_updated": 1773439610,
+    "date_posted": 1773439610,
+    "url": "https://boards.greenhouse.io/spacex/jobs/8450082002",
+    "locations": [
+      "Redmond, WA"
+    ],
+    "company_url": "https://simplify.jobs/c/SpaceX",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
