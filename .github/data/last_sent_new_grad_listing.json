@@ -118650,5 +118650,66 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "White Cap Supply Holdings",
+    "id": "b30ef89a-04fc-4e6a-b208-3151efb2b926",
+    "title": "Data Analyst",
+    "active": true,
+    "date_updated": 1773443641,
+    "date_posted": 1773443641,
+    "url": "https://whitecap.wd1.myworkdayjobs.com/careers/job/REMOTE-TN/Data-Analyst_WCJR-031138-1",
+    "locations": [
+      "Remote in USA",
+      "Doraville, GA"
+    ],
+    "company_url": "https://simplify.jobs/c/White-Cap-Supply-Holdings",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "Certificate"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "nVent",
+    "id": "a71590f2-2c07-4e4c-aefe-dd5da0b5ee4a",
+    "title": "Associate R&D Lab Technician",
+    "active": true,
+    "date_updated": 1773443645,
+    "date_posted": 1773443645,
+    "url": "https://nvent.wd5.myworkdayjobs.com/en-US/nVent/job/Anoka-MN-US/Associate-R-D-Lab-Technician_R20953",
+    "locations": [
+      "Andover, MN"
+    ],
+    "company_url": "https://simplify.jobs/c/bfdacd80-1593-4655-8b3a-da62394b5fff",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Associate's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "1X",
+    "id": "612596b6-9042-4431-a1c0-35d64314813a",
+    "title": "Electrical Harness Technician",
+    "active": true,
+    "date_updated": 1773451237,
+    "date_posted": 1773451237,
+    "url": "https://1x.recruitee.com/o/electrical-harness-technician",
+    "locations": [
+      "San Carlos, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/1x",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
