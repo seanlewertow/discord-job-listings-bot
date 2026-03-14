@@ -119083,5 +119083,107 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Milwaukee Tool",
+    "id": "b18f6234-ada1-4d36-a83e-6a0b541f9a6b",
+    "title": "Motor Engineer",
+    "active": true,
+    "date_updated": 1773486096,
+    "date_posted": 1773486096,
+    "url": "https://tti.wd1.myworkdayjobs.com/en-US/Milwaukee/job/Brookfield-WI/Motor-Engineer_R71391",
+    "locations": [
+      "Brookfield, WI"
+    ],
+    "company_url": "https://simplify.jobs/c/Milwaukee-Tool",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Cadence Design Systems",
+    "id": "848d8c63-8d7e-4df0-b116-c6d859202dbc",
+    "title": "Scientific Software Developer 2 - Modeler",
+    "active": true,
+    "date_updated": 1773490285,
+    "date_posted": 1773490285,
+    "url": "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SANTA-FE-01/Scientific-Software-Developer-II---Modeler_R53423-2",
+    "locations": [
+      "Boston, MA",
+      "Santa Fe, NM"
+    ],
+    "company_url": "https://simplify.jobs/c/Cadence-Design-Systems",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "PhD"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Northrop Grumman",
+    "id": "98812211-b162-41da-a0a2-8a8335143772",
+    "title": "Associate Electromechanical Engineer",
+    "active": true,
+    "date_updated": 1773491836,
+    "date_posted": 1773491836,
+    "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-West-Virginia-Rocket-Center/Associate-Engineer-Electromechanical_R10224205",
+    "locations": [
+      "Berkeley Springs, WV"
+    ],
+    "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Northrop Grumman",
+    "id": "26d3392f-b5ce-4d3f-a248-3425f6f9ffab",
+    "title": "Software Development Analyst",
+    "active": true,
+    "date_updated": 1773491991,
+    "date_posted": 1773491991,
+    "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/Software-Development-Analyst_R10222468",
+    "locations": [
+      "Melbourne, FL"
+    ],
+    "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "iHeartMedia",
+    "id": "007ce2a7-b34d-410a-8fef-2a755f359832",
+    "title": "Board Operator - Board Operator",
+    "active": true,
+    "date_updated": 1773489129,
+    "date_posted": 1773489129,
+    "url": "https://iheartmedia.wd5.myworkdayjobs.com/External_iHM/job/Dayton-OH-31-S-Main-St-Suite-208-45402/Part-Time-Board-Operator_Req37885-4",
+    "locations": [
+      "Dayton, OH"
+    ],
+    "company_url": "https://simplify.jobs/c/IHeartMedia",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
