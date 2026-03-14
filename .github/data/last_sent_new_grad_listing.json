@@ -118546,5 +118546,109 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Walmart",
+    "id": "973ba62b-6aef-4412-87f8-e6be5ba18499",
+    "title": "Software Engineer 3",
+    "active": true,
+    "date_updated": 1773443168,
+    "date_posted": 1773443168,
+    "url": "https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Sunnyvale-CA/Software-Engineer-III_R-2392718",
+    "locations": [
+      "Bentonville, AR",
+      "Sunnyvale, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Walmart",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "PricewaterhouseCoopers (PwC)",
+    "id": "4b6887ed-9035-45e3-a448-1fb34872f985",
+    "title": "Associate \u2013 Data Engineer",
+    "active": true,
+    "date_updated": 1773442846,
+    "date_posted": 1773442846,
+    "url": "https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/AAC-Olivos/Associate---Data-Engineer_713057WD-1",
+    "locations": [
+      "Tampa, FL"
+    ],
+    "company_url": "https://simplify.jobs/c/PwC",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Huntington Bancshares",
+    "id": "2b93b5bb-b720-4209-948e-ff8026f167c6",
+    "title": "Finance Rotation Analyst - Data and Analytics",
+    "active": true,
+    "date_updated": 1773442614,
+    "date_posted": 1773442614,
+    "url": "https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/XMLNAME-2026-Finance-Rotation-Analyst_R0065091",
+    "locations": [
+      "Columbus, OH"
+    ],
+    "company_url": "https://simplify.jobs/c/Huntington-Bancshares",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Capital One",
+    "id": "ad1a0913-a964-490b-be77-866aba07f4d8",
+    "title": "Associate \u2013 New Grad Card Expansion",
+    "active": true,
+    "date_updated": 1773442113,
+    "date_posted": 1773442113,
+    "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Associate--Software-Engineer--New-Grad-Card-Expansion_R236388",
+    "locations": [
+      "Toronto, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Capital-One",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Xcel Energy",
+    "id": "310c0f43-b46a-45a4-a272-46fae90d7e63",
+    "title": "Geospatial Data Technician 1",
+    "active": true,
+    "date_updated": 1773441222,
+    "date_posted": 1773441222,
+    "url": "https://xcelenergy.wd1.myworkdayjobs.com/External/job/Denver-CO-80223/Geospatial-Data-Technician-I_JR113222-1",
+    "locations": [
+      "Eau Claire, WI",
+      "Minneapolis, MN",
+      "Denver, CO"
+    ],
+    "company_url": "https://simplify.jobs/c/Xcel-Energy",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
