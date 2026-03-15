@@ -119833,5 +119833,43 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Micron Technology",
+    "id": "1b084ee5-3448-42f1-819d-c4fc903c9b23",
+    "title": "Graduate Design Architect - Design Architect - HBM",
+    "active": true,
+    "date_updated": 1773492992,
+    "date_posted": 1773492992,
+    "url": "https://micron.wd1.myworkdayjobs.com/External/job/Richardson-TX/New-College-Grad---Design-Architect--HBM_JR93489",
+    "locations": [
+      "Richardson, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Micron-Technology",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Stanley Black & Decker",
+    "id": "e6db1a56-27b0-4734-ae86-d204b7d67ff7",
+    "title": "Engineering Technician - Engines",
+    "active": true,
+    "date_updated": 1773483309,
+    "date_posted": 1773483309,
+    "url": "https://sbdinc.wd1.myworkdayjobs.com/en-US/Stanley_Black_Decker_Career_Site/job/Valley-City-OH-United-States/Engineering-Technician--Engines_REQ-1000046253",
+    "locations": [
+      "Strongsville, OH"
+    ],
+    "company_url": "https://simplify.jobs/c/Stanley-Black-Decker",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
