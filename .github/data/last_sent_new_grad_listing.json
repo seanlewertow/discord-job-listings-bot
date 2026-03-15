@@ -119871,5 +119871,106 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Airgas",
+    "id": "1150212b-0c7d-4c28-bc9d-b1247c30d0fd",
+    "title": "Software Engineer",
+    "active": true,
+    "date_updated": 1773487536,
+    "date_posted": 1773487536,
+    "url": "https://airliquidehr.wd3.myworkdayjobs.com/airgasexternalcareer/job/Cheshire-CT-ATS---Management/Software-Engineer_R10086763",
+    "locations": [
+      "Cheshire, CT"
+    ],
+    "company_url": "https://simplify.jobs/c/Airgas",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "RTX",
+    "id": "90f4c77b-2166-4a1d-bf3b-e2076cdbc1cf",
+    "title": "Analyst 1: Data & Analytics",
+    "active": true,
+    "date_updated": 1773490914,
+    "date_posted": 1773490914,
+    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-REMOTE/Analyst-I--Data---Analytics--Remote-_01830083",
+    "locations": [
+      "Texas"
+    ],
+    "company_url": "https://simplify.jobs/c/RTX",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "RTX",
+    "id": "3e5bc178-40c1-4293-a1d5-e82d0b8cbd47",
+    "title": "Electrical Components Engineer 1",
+    "active": true,
+    "date_updated": 1773490902,
+    "date_posted": 1773490902,
+    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AL-HUNTSVILLE-315--315-Bob-Heath-Dr--BOB-HEATH/XMLNAME-2026-Fulltime-Raytheon-Electrical-Components-Engineer-I--Onsite-_01830287",
+    "locations": [
+      "Huntsville, AL"
+    ],
+    "company_url": "https://simplify.jobs/c/RTX",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "CACI",
+    "id": "be3e6141-9350-4a38-8c87-feb2d54f949d",
+    "title": "UAS Red Team Pilot",
+    "active": true,
+    "date_updated": 1773492974,
+    "date_posted": 1773492974,
+    "url": "https://caci.wd1.myworkdayjobs.com/external/job/US-MD-Aberdeen-Proving-Ground/UAS-Red-Team-Pilot_323202",
+    "locations": [
+      "Aberdeen, MD"
+    ],
+    "company_url": "https://simplify.jobs/c/CACI",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Associate's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Carnegie Mellon University",
+    "id": "764d003a-5a6f-4bf8-942d-bbff43ca46e9",
+    "title": "Postdoctoral Research Associate - Print & Probability Project - Dietrich College",
+    "active": true,
+    "date_updated": 1773527085,
+    "date_posted": 1773527085,
+    "url": "https://cmu.wd5.myworkdayjobs.com/cmu/job/Pittsburgh-PA/Postdoctoral-Research-Associate---Print---Probability-Project---Dietrich-College_2024060",
+    "locations": [
+      "Pittsburgh, PA"
+    ],
+    "company_url": "https://simplify.jobs/c/Carnegie-Mellon-University",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "PhD"
+    ]
   }
 ]
