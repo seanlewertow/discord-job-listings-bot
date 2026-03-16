@@ -120392,5 +120392,107 @@
     "date_posted": 1773651998,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "date_updated": 1773653165,
+    "sponsorship": "U.S. Citizenship is Required",
+    "active": true,
+    "degrees": [],
+    "url": "https://leidos.wd5.myworkdayjobs.com/en-US/external/job/Newport-News-VA/Junior-Software-Engineer_R-00178244",
+    "company_name": "Leidos",
+    "title": "Junior Software Engineer",
+    "locations": [
+      "Newport News, VA",
+      "Omaha, NE",
+      "Orlando, FL",
+      "Charlottesville, VA",
+      "Lexington, MA",
+      "Morgantown, WV"
+    ],
+    "category": "Software Engineering",
+    "source": "AlmondCroffle",
+    "id": "2b06d879-d0ad-4948-84e0-6cd8c2aa36cb",
+    "date_posted": 1773653165,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1773653575,
+    "sponsorship": "Other",
+    "active": true,
+    "degrees": [],
+    "url": "https://apply.workable.com/optitrack/j/DFD96026F7/",
+    "company_name": "OptiTrack",
+    "title": "Associate Software Engineer",
+    "locations": [
+      "Corvallis, OR"
+    ],
+    "category": "Software Engineering",
+    "source": "AlmondCroffle",
+    "id": "bdecc182-0435-4155-8a5b-f656838c14e4",
+    "date_posted": 1773653575,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1773654399,
+    "sponsorship": "Does Not Offer Sponsorship",
+    "active": true,
+    "degrees": [],
+    "url": "https://allegion.wd5.myworkdayjobs.com/en-US/careers/job/Carmel-IN/Associate-AI-Engineer_JR35531",
+    "company_name": "Allegion",
+    "title": "Associate AI Engineer",
+    "locations": [
+      "Carmel, IN"
+    ],
+    "category": "Data Science, AI & Machine Learning",
+    "source": "AlmondCroffle",
+    "id": "9b568468-f050-4811-808a-0cfb480c8550",
+    "date_posted": 1773654399,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "SS&C",
+    "id": "48d08714-4a83-4fc1-997b-9397f8bdc911",
+    "title": "Product Solutions Analyst",
+    "active": true,
+    "date_updated": 1773654358,
+    "date_posted": 1773654358,
+    "url": "https://ssctech.wd1.myworkdayjobs.com/ssctechnologies/job/Boston-MA/Solutions-Engineer_R40939",
+    "locations": [
+      "Boston, MA",
+      "Chicago, IL",
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/SSC",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "SOTI",
+    "id": "205d02b0-3be2-4d49-9ba8-bc31b8219cd6",
+    "title": "Software Developer New Grad",
+    "active": true,
+    "date_updated": 1773654097,
+    "date_posted": 1773654097,
+    "url": "https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer---New-Grad--8-month-Contracts-_R09861",
+    "locations": [
+      "Mississauga, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/SOTI",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
   }
 ]
