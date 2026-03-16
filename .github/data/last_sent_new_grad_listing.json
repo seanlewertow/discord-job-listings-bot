@@ -120350,5 +120350,47 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "IBM",
+    "id": "14b4120c-47e0-4863-8449-1fec8d070d52",
+    "title": "Associate Application Developer - Salesforce",
+    "active": true,
+    "date_updated": 1773641813,
+    "date_posted": 1773641813,
+    "url": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=87201",
+    "locations": [
+      "Houston, TX",
+      "SF",
+      "Austin, TX",
+      "Dallas, TX",
+      "Chicago, IL",
+      "NYC",
+      "Atlanta, GA"
+    ],
+    "company_url": "https://simplify.jobs/c/IBM",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "date_updated": 1773651998,
+    "sponsorship": "U.S. Citizenship is Required",
+    "active": true,
+    "degrees": [],
+    "url": "https://jobs.baesystems.com/global/en/job/BAE1US122188BREXTERNAL/Software-Engineer-I-Entry-Level",
+    "company_name": "BAE Systems",
+    "title": "Software Engineer I (Entry Level)",
+    "locations": [
+      "Patuxent River, MD"
+    ],
+    "category": "Software Engineering",
+    "source": "AlmondCroffle",
+    "id": "9c624cdd-2c56-4197-abcf-968dc287de87",
+    "date_posted": 1773651998,
+    "company_url": "",
+    "is_visible": true
   }
 ]
