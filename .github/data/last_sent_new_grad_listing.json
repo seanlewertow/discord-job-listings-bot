@@ -120693,5 +120693,97 @@
     "degrees": [
       "Master's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "Howden",
+    "id": "511eec43-2523-4338-bee5-647663a0202b",
+    "title": "Product Analyst",
+    "active": true,
+    "date_updated": 1773700561,
+    "date_posted": 1773700561,
+    "url": "https://hyperiongrp.wd3.myworkdayjobs.com/Hyperion_External/job/London/Product-Analyst_R0016639",
+    "locations": [
+      "London, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Howden",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "BRINC Drones",
+    "id": "cb00808b-b54b-467a-9a23-5e5a48c1af38",
+    "title": "Production Technician",
+    "active": true,
+    "date_updated": 1773699096,
+    "date_posted": 1773699096,
+    "url": "https://jobs.ashbyhq.com/brinc/35c1686d-5066-4600-a7e9-0e9966fb5ee8/application",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "company_url": "https://simplify.jobs/c/Brinc-Drones",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Associate's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "07033ff2-f90c-42f4-b328-a18ef079ce0a",
+    "title": "Trading Assistant",
+    "active": true,
+    "date_updated": 1773699576,
+    "date_posted": 1773699576,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400053739",
+    "locations": [
+      "Warwick, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "c5914522-a141-4570-bfc4-4a82799ce77b",
+    "title": "Trading Assistant",
+    "active": true,
+    "date_updated": 1773699900,
+    "date_posted": 1773699900,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400053742",
+    "locations": [
+      "Trafford, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "4896f236-ea26-424f-bcae-95cf5dfa13be",
+    "title": "Trading Assistant",
+    "active": true,
+    "date_updated": 1773700073,
+    "date_posted": 1773700073,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400052123",
+    "locations": [
+      "Harlow, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
