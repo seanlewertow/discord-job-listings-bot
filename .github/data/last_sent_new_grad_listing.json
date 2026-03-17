@@ -120992,5 +120992,65 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Walmart",
+    "id": "6da627b2-a4c6-4846-bbfc-b8ddf10d8359",
+    "title": "Software Engineer 3",
+    "active": true,
+    "date_updated": 1773712251,
+    "date_posted": 1773712251,
+    "url": "https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/USA-Hula-Building-Bentonville-AR-Home-Office/Software-Engineer-III_R-2448622",
+    "locations": [
+      "Bentonville, AR"
+    ],
+    "company_url": "https://simplify.jobs/c/Walmart",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "General Dynamics Mission Systems",
+    "id": "57e711c6-d93b-478f-a197-461a6f67b23e",
+    "title": "Systems Engineer",
+    "active": true,
+    "date_updated": 1773698922,
+    "date_posted": 1773698922,
+    "url": "https://careers-gdms.icims.com/jobs/71489/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Newport, RI"
+    ],
+    "company_url": "https://simplify.jobs/c/General-Dynamics-Mission-Systems",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "1e7e94cc-f63f-418f-b951-ab4e2eeb47e4",
+    "title": "Trading Assistant - Shift",
+    "active": true,
+    "date_updated": 1773727918,
+    "date_posted": 1773727918,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400053756",
+    "locations": [
+      "Maidstone, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
