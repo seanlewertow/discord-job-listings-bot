@@ -120885,5 +120885,112 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "RTX",
+    "id": "65935bad-8182-4b85-915e-56e9567f34d8",
+    "title": "Systems Engineer 1 - Systems Engineer I - Electro-Optical",
+    "active": true,
+    "date_updated": 1773711278,
+    "date_posted": 1773711278,
+    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-MCKINNEY-513WD--2501-W-University-Dr--WING-D-BLDG/XMLNAME-2026-Raytheon-Full-Time---Systems-Engineer-I---Electro-Optical---McKinney--TX--Onsite-_01830535",
+    "locations": [
+      "McKinney, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/RTX",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "NVIDIA",
+    "id": "0d7c5495-ea1e-420c-abd4-78fb1698eae5",
+    "title": "SOC Hardware Engineer",
+    "active": true,
+    "date_updated": 1773711466,
+    "date_posted": 1773711466,
+    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/SOC-Hardware-Engineer----New-College-Grad-2026_JR2014039",
+    "locations": [
+      "Austin, TX",
+      "Santa Clara, CA",
+      "United States"
+    ],
+    "company_url": "https://simplify.jobs/c/NVIDIA",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Relativity Space",
+    "id": "f7b65cee-3013-4885-8b56-ee5dc9a03b7b",
+    "title": "Simulation Software Engineer 1",
+    "active": true,
+    "date_updated": 1773710809,
+    "date_posted": 1773710809,
+    "url": "https://boards.greenhouse.io/relativity/jobs/8465281002",
+    "locations": [
+      "Long Beach, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Relativity-Space",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "PhD"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Royal Bank of Canada",
+    "id": "63be3617-6820-460c-9242-ef86e9de50cc",
+    "title": "Data Scientist",
+    "active": true,
+    "date_updated": 1773702962,
+    "date_posted": 1773702962,
+    "url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/Data-Scientist_R-0000162817-1",
+    "locations": [
+      "Toronto, ON, Canada",
+      "Vancouver, BC, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Royal-Bank-Of-Canada",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Master's",
+      "PhD"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Moog ",
+    "id": "2733ff3e-ab32-404d-b849-512647297d35",
+    "title": "Associate Product Engineer",
+    "active": true,
+    "date_updated": 1773698988,
+    "date_posted": 1773698988,
+    "url": "https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Associate-Product-Engineer_R-26-16680",
+    "locations": [
+      "Boston, NY",
+      "Buffalo, NY"
+    ],
+    "company_url": "https://simplify.jobs/c/Moog",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
