@@ -121978,5 +121978,99 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Konrad Group",
+    "id": "7553023b-466e-4a6c-a382-0087b6fe7877",
+    "title": "Software Developer - Entry Level",
+    "active": true,
+    "date_updated": 1773843544,
+    "date_posted": 1773843544,
+    "url": "https://boards.greenhouse.io/embed/job_app?token=7669159003",
+    "locations": [
+      "London, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Konrad-Group",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "RTX",
+    "id": "d972c992-f1c8-4245-860d-20d0f11c6c9d",
+    "title": "Software Engineer 1 - C - C++",
+    "active": true,
+    "date_updated": 1773845387,
+    "date_posted": 1773845387,
+    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-CAMBRIDGE-BBN01--10--50-Moulton-St--MOULTON-B2/Software-Engineer-I---C--C----Onsite-_01825606",
+    "locations": [
+      "Cambridge, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/RTX",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Jabil",
+    "id": "8df6311f-ad14-4450-b9cd-67957c33abec",
+    "title": "Diagnostic Technician 1",
+    "active": true,
+    "date_updated": 1773845959,
+    "date_posted": 1773845959,
+    "url": "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/St-PetersburgTampa-FL/DIAGNOSTIC-TECHNICIAN-I_J2443444",
+    "locations": [
+      "St. Petersburg, FL"
+    ],
+    "company_url": "https://simplify.jobs/c/Jabil",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Saronic",
+    "id": "a0ba978e-02dd-4444-8208-fdd345f5f6ad",
+    "title": "Senior Perception and Autonomy Engineer",
+    "active": true,
+    "date_updated": 1773843921,
+    "date_posted": 1773843921,
+    "url": "https://jobs.lever.co/saronic/d770926d-1d32-40d2-a43d-7fc4c6fd9350/apply",
+    "locations": [
+      "San Diego, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Saronic",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Jabil",
+    "id": "fef78f15-5a46-4d06-af08-fa0c27b0e3e0",
+    "title": "Test Engineering Technician 1",
+    "active": true,
+    "date_updated": 1773845981,
+    "date_posted": 1773845981,
+    "url": "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/St-PetersburgTampa-FL/Test-Engineering-Technician-I_J2443451",
+    "locations": [
+      "St. Petersburg, FL"
+    ],
+    "company_url": "https://simplify.jobs/c/Jabil",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Associate's"
+    ]
   }
 ]
