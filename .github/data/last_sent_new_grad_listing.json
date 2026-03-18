@@ -122168,5 +122168,105 @@
       "Bachelor's",
       "Associate's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "VF",
+    "id": "a46a8db8-439c-4ad5-a3de-fb4d05e9efaf",
+    "title": "Associate Designer - Lifestyle Everyday + Youth",
+    "active": true,
+    "date_updated": 1773872885,
+    "date_posted": 1773872885,
+    "url": "https://vfc.wd5.myworkdayjobs.com/vfc_careers/job/USCA--USA--Colorado--Denver-HQ---VFC/Associate-Designer--Lifestyle-Everyday---Youth_R-20260123-0027-1",
+    "locations": [
+      "Denver, CO"
+    ],
+    "company_url": "https://simplify.jobs/c/VF",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Formlabs",
+    "id": "976b3eea-5efd-4881-9c0c-e0a3878127ef",
+    "title": "3D Print Technician",
+    "active": true,
+    "date_updated": 1773873100,
+    "date_posted": 1773873100,
+    "url": "https://careers.formlabs.com/job/7733540/apply/?gh_jid=7733540",
+    "locations": [
+      "Boston, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/Formlabs",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "MatX",
+    "id": "f248e071-5ac5-4d03-bb14-ddb23cd10275",
+    "title": "Developer Augmentation Engineer",
+    "active": true,
+    "date_updated": 1773872882,
+    "date_posted": 1773872882,
+    "url": "https://job-boards.greenhouse.io/matx/jobs/5157866008",
+    "locations": [
+      "Mountain View, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/MatX",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "NVIDIA",
+    "id": "bec791e2-3e1b-4f31-aff3-0f2ab0eafebf",
+    "title": "Field Application Engineer",
+    "active": true,
+    "date_updated": 1773872551,
+    "date_posted": 1773872551,
+    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-NC-Durham/Field-Application-Engineer---New-College-Graduate-2026_JR2014639",
+    "locations": [
+      "Remote in USA",
+      "Santa Clara, CA",
+      "Durham, NC",
+      "Westford, MA",
+      "Massachusetts",
+      "United States"
+    ],
+    "company_url": "https://simplify.jobs/c/NVIDIA",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "AspenTech",
+    "id": "ba244c88-6a27-4388-ab71-e5f1a160d5cb",
+    "title": "Associate Software Developer",
+    "active": true,
+    "date_updated": 1773872528,
+    "date_posted": 1773872528,
+    "url": "https://aspentech.wd5.myworkdayjobs.com/aspentech/job/Medina-Minnesota/Associate-Software-Developer_R8730",
+    "locations": [
+      "Wayzata, MN"
+    ],
+    "company_url": "https://simplify.jobs/c/AspenTech",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
