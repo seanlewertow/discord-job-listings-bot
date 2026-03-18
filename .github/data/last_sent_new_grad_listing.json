@@ -121744,5 +121744,23 @@
       "Bachelor's",
       "Master's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "4f5f6a23-3e84-4fc1-ba17-e4cfdf5e8e9c",
+    "title": "Trading Assistant",
+    "active": true,
+    "date_updated": 1773824983,
+    "date_posted": 1773824983,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400053937",
+    "locations": [
+      "Aberdeen, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
