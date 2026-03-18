@@ -122072,5 +122072,101 @@
     "degrees": [
       "Associate's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Wex",
+    "id": "2dfdd106-45e5-4793-b3d9-545ca95c4b7f",
+    "title": "Software Development Engineer 2 - Front-End",
+    "active": true,
+    "date_updated": 1773872137,
+    "date_posted": 1773872137,
+    "url": "https://wexinc.wd5.myworkdayjobs.com/en-US/WEXInc/job/US---Remote/Software-Development-Engineer-2---Front-End_R20458",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/788246ec-e89c-499a-bb15-9a02acb178a9",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "1fcd56e3-de27-41d3-bcd2-8c169b9e91df",
+    "title": "Trading Assistant",
+    "active": true,
+    "date_updated": 1773872181,
+    "date_posted": 1773872181,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400054077",
+    "locations": [
+      "Bath, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "1a2c39c4-df61-4f15-93ba-6385ecf4fed6",
+    "title": "Trading Assistant",
+    "active": true,
+    "date_updated": 1773872188,
+    "date_posted": 1773872188,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400054048",
+    "locations": [
+      "Maidenhead, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "0db975be-0527-4a75-9940-e9995c2f3c05",
+    "title": "Trading Assistant - Shift",
+    "active": true,
+    "date_updated": 1773872167,
+    "date_posted": 1773872167,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400054095",
+    "locations": [
+      "Stratford-upon-Avon, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Arthur Grand Technologies",
+    "id": "c5e96a2e-51ca-43d8-aa10-231b3cdc5e3f",
+    "title": "ERP Software Engineer",
+    "active": true,
+    "date_updated": 1773871479,
+    "date_posted": 1773871479,
+    "url": "https://jobs.smartrecruiters.com/ArthurGrandTechnologiesInc/744000115491098",
+    "locations": [
+      "Nebraska"
+    ],
+    "company_url": "https://simplify.jobs/c/Arthur-Grand-Technologies",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Associate's"
+    ]
   }
 ]
