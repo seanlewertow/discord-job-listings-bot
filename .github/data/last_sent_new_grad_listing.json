@@ -122998,5 +122998,41 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "693d81b3-bec7-413e-aab5-9ce87988d13f",
+    "title": "Trading Assistant - Shift",
+    "active": true,
+    "date_updated": 1773882685,
+    "date_posted": 1773882685,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400050481",
+    "locations": [
+      "Woking, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "a8562f6a-59d2-4cd6-9b13-21867cd75d20",
+    "title": "Trading Assistant - Shift",
+    "active": true,
+    "date_updated": 1773911415,
+    "date_posted": 1773911415,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400054128",
+    "locations": [
+      "Portsmouth, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
