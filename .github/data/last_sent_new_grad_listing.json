@@ -122792,5 +122792,97 @@
     "degrees": [
       "Associate's"
     ]
+  },
+  {
+    "date_updated": 1773909733,
+    "sponsorship": "Other",
+    "active": true,
+    "degrees": [],
+    "url": "https://cvshealth.wd1.myworkdayjobs.com/en-US/cvs_health_careers/job/Work-At-Home-Illinois/Associate-Software-Development-Engineer--Enterprise-Applications-_R0856858",
+    "company_name": "CVS Health",
+    "title": "Associate Software Development Engineer (Enterprise Applications)",
+    "locations": [
+      "Remote in US"
+    ],
+    "category": "Software Engineering",
+    "source": "AlmondCroffle",
+    "id": "c189c34f-7bff-421f-ba82-6c90554b2289",
+    "date_posted": 1773909733,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1773909913,
+    "sponsorship": "Other",
+    "active": true,
+    "degrees": [],
+    "url": "https://firstadvantage.applytojob.com/apply/fiN17xh6U2/Associate-Software-Engineer-US-Remote",
+    "company_name": "First Advantage",
+    "title": "Associate Software Engineer",
+    "locations": [
+      "Remote in US"
+    ],
+    "category": "Software Engineering",
+    "source": "AlmondCroffle",
+    "id": "5e062e30-2097-4a0a-b4f2-04d055c187ee",
+    "date_posted": 1773909913,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1773909984,
+    "sponsorship": "U.S. Citizenship is Required",
+    "active": true,
+    "degrees": [],
+    "url": "https://careers-gdms.icims.com/jobs/71509/junior-embedded-software-engineer-%28cleared%29/job",
+    "company_name": "General Dynamics Mission Systems",
+    "title": "Junior Embedded Software Engineer (cleared)",
+    "locations": [
+      "Dedham, MA"
+    ],
+    "category": "Software Engineering",
+    "source": "AlmondCroffle",
+    "id": "6c924177-e0eb-493c-bfc1-720c239922aa",
+    "date_posted": 1773909984,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1773910108,
+    "sponsorship": "Other",
+    "active": true,
+    "degrees": [],
+    "url": "https://generalmotors.wd5.myworkdayjobs.com/en-US/careers_gm/job/Austin-Texas-United-States-of-America/Simulation-Software-Engineer---Early-Career_JR-202605912",
+    "company_name": "General Motors",
+    "title": "Simulation Software Engineer - Early Career",
+    "locations": [
+      "Austin, TX",
+      "Mountain View, CA",
+      "Warren, MI"
+    ],
+    "category": "Software Engineering",
+    "source": "AlmondCroffle",
+    "id": "843b947f-ac34-46ef-ba37-4ee3f5888791",
+    "date_posted": 1773910108,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1773910181,
+    "sponsorship": "Other",
+    "active": true,
+    "degrees": [],
+    "url": "https://giftogram.applytojob.com/apply/SXSlsMILTL/Junior-Full-Stack-Developer-On-Site-NJ",
+    "company_name": "Giftogram",
+    "title": "Junior Full Stack Developer",
+    "locations": [
+      "Whippany, NJ"
+    ],
+    "category": "Software Engineering",
+    "source": "AlmondCroffle",
+    "id": "24747dd6-4ac1-418f-a302-24a993d37452",
+    "date_posted": 1773910181,
+    "company_url": "",
+    "is_visible": true
   }
 ]
