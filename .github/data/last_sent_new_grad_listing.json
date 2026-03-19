@@ -123308,5 +123308,102 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "87bf2368-d44b-41bf-ac71-979790f914d6",
+    "title": "Trading Assistant",
+    "active": true,
+    "date_updated": 1773958552,
+    "date_posted": 1773958552,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400054257",
+    "locations": [
+      "Glasgow, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Lynker",
+    "id": "69b83e48-201f-4a83-92b7-80ea16f9d60f",
+    "title": "Engineering Technician 2 - Lab",
+    "active": true,
+    "date_updated": 1773958276,
+    "date_posted": 1773958276,
+    "url": "https://careers-lynker.icims.com/jobs/1509/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "John C. Stennis Space Center, MS"
+    ],
+    "company_url": "https://simplify.jobs/c/Lynker",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Associate's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "TIBCO Software",
+    "id": "06508aa8-06fb-43fe-961f-291c4afc5a93",
+    "title": "Application Development Engineer - Messaging Engineering",
+    "active": true,
+    "date_updated": 1773958271,
+    "date_posted": 1773958271,
+    "url": "https://tibco.wd5.myworkdayjobs.com/cloud_software_group/job/Naperville-IL/Application-Development-Engineer---Messaging-Engineering_R104379-1",
+    "locations": [
+      "Naperville, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/b699b9bd-e43b-4d2b-a427-90a2b6306594",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "17b33436-aeb9-4407-af97-6ec77499748c",
+    "title": "Trading Assistant",
+    "active": true,
+    "date_updated": 1773958551,
+    "date_posted": 1773958551,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400054225",
+    "locations": [
+      "Brighton, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Moog ",
+    "id": "167dc303-a1d2-4069-8a78-ccfe30fa6bad",
+    "title": "Electronic Technician",
+    "active": true,
+    "date_updated": 1773958250,
+    "date_posted": 1773958250,
+    "url": "https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Blacksburg-VA/Electronic-Technician_R-26-16787",
+    "locations": [
+      "Blacksburg, VA"
+    ],
+    "company_url": "https://simplify.jobs/c/Moog",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Associate's"
+    ]
   }
 ]
