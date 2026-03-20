@@ -123962,5 +123962,25 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "William & Mary",
+    "id": "623698ea-3710-4d32-a204-482bee0e6eed",
+    "title": "Library Web Developer",
+    "active": true,
+    "date_updated": 1774002483,
+    "date_posted": 1774002483,
+    "url": "https://williammary.wd12.myworkdayjobs.com/WM/job/Posting-Location---William--Mary/Library-Web-Developer_JR101209",
+    "locations": [
+      "Williamsburg, VA"
+    ],
+    "company_url": "https://simplify.jobs/c/William-And-Mary",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
