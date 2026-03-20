@@ -124228,5 +124228,110 @@
       "Bachelor's",
       "Master's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "Kohl's",
+    "id": "cc1b63fd-ee57-46df-bb6c-a1f656362fac",
+    "title": "Assistant Designer",
+    "active": true,
+    "date_updated": 1774045962,
+    "date_posted": 1774045962,
+    "url": "https://kohls.wd1.myworkdayjobs.com/kohlscareers/job/Kohls-Corporate-Offices-0900/Assistant-Designer_R469236",
+    "locations": [
+      "United States"
+    ],
+    "company_url": "https://simplify.jobs/c/Kohls",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "bf492596-92cf-41bd-8c71-bbbedaaed798",
+    "title": "Trading Assistant",
+    "active": true,
+    "date_updated": 1774045708,
+    "date_posted": 1774045708,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400054390",
+    "locations": [
+      "Edinburgh, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Jerry",
+    "id": "ac91cd52-e9d0-45a5-bfd2-ecd11f617bed",
+    "title": "Associate Applied Data Scientist",
+    "active": true,
+    "date_updated": 1774045459,
+    "date_posted": 1774045459,
+    "url": "https://jobs.ashbyhq.com/jerry.ai/4c6afd47-cbb6-4855-a7d8-ed1c24f9fb1b/application",
+    "locations": [
+      "Salt Lake City, UT",
+      "Austin, TX",
+      "Chicago, IL",
+      "NYC",
+      "Phoenix, AZ",
+      "Portland, OR",
+      "Atlanta, GA"
+    ],
+    "company_url": "https://simplify.jobs/c/Jerry",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "PhD"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Louisiana State University (LSU)",
+    "id": "270779e8-3962-49c9-b984-bfc3c2095215",
+    "title": "Customer Service Analyst - Data Analyst 1",
+    "active": true,
+    "date_updated": 1774045793,
+    "date_posted": 1774045793,
+    "url": "https://lsu.wd1.myworkdayjobs.com/LSU/job/0355-William-P-Johnston-Hall---Office/Customer-Service-Analyst--Data-Analyst-1-_R00114025",
+    "locations": [
+      "Baton Rouge, LA"
+    ],
+    "company_url": "https://simplify.jobs/c/Louisiana-State-University",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Crusoe",
+    "id": "0e95b9fd-3889-436b-b159-9a6356f18e3a",
+    "title": "Hardware Systems Engineer 1",
+    "active": true,
+    "date_updated": 1774045589,
+    "date_posted": 1774045589,
+    "url": "https://jobs.ashbyhq.com/Crusoe/90d01247-2315-4af0-8ac7-8754340d6fa1/application",
+    "locations": [
+      "SF"
+    ],
+    "company_url": "https://simplify.jobs/c/Crusoe",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
