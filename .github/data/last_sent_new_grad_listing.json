@@ -124333,5 +124333,104 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "First Financial ",
+    "id": "a90b516a-4ed0-48e4-ba14-f92e19919122",
+    "title": "Software Developer 1",
+    "active": true,
+    "date_updated": 1774048263,
+    "date_posted": 1774048263,
+    "url": "https://ffin.wd1.myworkdayjobs.com/First_Financial_Bank/job/Operations-Center/Software-Developer-I_JR102566",
+    "locations": [
+      "Stamford, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/First-Financial",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Uber",
+    "id": "e9d9eca0-86f4-4ffd-b4c3-6a2aacd7f1a7",
+    "title": "Software Engineer 1",
+    "active": true,
+    "date_updated": 1774045293,
+    "date_posted": 1774045293,
+    "url": "https://www.uber.com/global/en/careers/list/156116/",
+    "locations": [
+      "Sunnyvale, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Uber",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Gensler",
+    "id": "c0fd7b04-db45-4b8c-860a-10c436bc1752",
+    "title": "Design Strategist - Data Analytics + Insights",
+    "active": true,
+    "date_updated": 1774047723,
+    "date_posted": 1774047723,
+    "url": "https://gensler.wd1.myworkdayjobs.com/genslercareers/job/New-York-NY-US/Design-Strategist---Data-Analytics---Insights_R-17272",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Gensler",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Robert Half",
+    "id": "b1ba6db6-3e6c-4a3b-9eea-cdf1247a02c6",
+    "title": "Software Engineer 1",
+    "active": true,
+    "date_updated": 1774047145,
+    "date_posted": 1774047145,
+    "url": "https://roberthalf.wd1.myworkdayjobs.com/roberthalfcareers/job/SAN-RAMON/Software-Engineer-I_JR-259875",
+    "locations": [
+      "San Ramon, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Robert-Half",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "Mercor",
+    "id": "868ff371-6e1a-40b7-8d51-0d6e25af09c7",
+    "title": "Product Marketing Manager",
+    "active": true,
+    "date_updated": 1774045560,
+    "date_posted": 1774045560,
+    "url": "https://jobs.ashbyhq.com/mercor/5fc578f1-36d2-4a81-9f23-f97ba4a860a6/application",
+    "locations": [
+      "SF"
+    ],
+    "company_url": "https://simplify.jobs/c/Mercor",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
