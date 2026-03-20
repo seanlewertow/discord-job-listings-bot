@@ -124130,5 +124130,103 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "2ceafd61-ed23-443e-b99f-47127200c561",
+    "title": "Trading Assistant",
+    "active": true,
+    "date_updated": 1774044942,
+    "date_posted": 1774044942,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400053773",
+    "locations": [
+      "Trowbridge, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "WTW",
+    "id": "b2033af5-2c15-43b1-a6cb-14008a8ecdc5",
+    "title": "Investment Analyst",
+    "active": true,
+    "date_updated": 1774044588,
+    "date_posted": 1774044588,
+    "url": "https://eedu.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/202601653",
+    "locations": [
+      "Toronto, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/WTW",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Axon",
+    "id": "6e51a9fa-35e2-41b7-ab3a-242945d35374",
+    "title": "Software Engineer 1",
+    "active": true,
+    "date_updated": 1774044691,
+    "date_posted": 1774044691,
+    "url": "https://job-boards.greenhouse.io/axon/jobs/7143799003",
+    "locations": [
+      "Washington"
+    ],
+    "company_url": "https://simplify.jobs/c/Axon",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Notion",
+    "id": "69f6dbe1-d877-4d54-a672-bd391ea1efa8",
+    "title": "Software Engineer",
+    "active": true,
+    "date_updated": 1774044588,
+    "date_posted": 1774044588,
+    "url": "https://jobs.ashbyhq.com/notion/0517ac3d-544c-4499-a810-cb794d0f8458/application",
+    "locations": [
+      "SF",
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Notion",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Utah State University",
+    "id": "a9cc3418-ecdd-4f81-90cb-cd3b4a1c6305",
+    "title": "Part-Time Programmer/Analyst",
+    "active": true,
+    "date_updated": 1774044227,
+    "date_posted": 1774044227,
+    "url": "https://careers-usu.icims.com/jobs/10065/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Logan, UT"
+    ],
+    "company_url": "https://simplify.jobs/c/Utah-State-University",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
   }
 ]
