@@ -124056,5 +124056,41 @@
     "degrees": [
       "Master's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "efbc36b4-8bba-442a-861a-a969864f0f82",
+    "title": "Trading Assistant - Shift",
+    "active": true,
+    "date_updated": 1774016307,
+    "date_posted": 1774016307,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400054299",
+    "locations": [
+      "Liverpool, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "e5e01b5e-3d15-44d8-ad85-4b827c91625b",
+    "title": "Trading Assistant - Shift",
+    "active": true,
+    "date_updated": 1774016054,
+    "date_posted": 1774016054,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400054338",
+    "locations": [
+      "Blackpool, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
