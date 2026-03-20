@@ -123942,5 +123942,25 @@
     "degrees": [
       "PhD"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "William & Mary",
+    "id": "ca83556c-e790-4a83-b2ee-010a8ddb7a38",
+    "title": "CGA Fellow",
+    "active": true,
+    "date_updated": 1774002315,
+    "date_posted": 1774002315,
+    "url": "https://williammary.wd12.myworkdayjobs.com/WM/job/Swem-Library/CGA-Fellow--Technician-_JR101329",
+    "locations": [
+      "Williamsburg, VA"
+    ],
+    "company_url": "https://simplify.jobs/c/William-And-Mary",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
