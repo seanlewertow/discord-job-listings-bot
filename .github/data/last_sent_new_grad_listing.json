@@ -124628,5 +124628,101 @@
       "Master's",
       "PhD"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "72982202-df34-41d1-9a3f-785b3861f2e4",
+    "title": "Trading Assistant - Shift",
+    "active": true,
+    "date_updated": 1774084067,
+    "date_posted": 1774084067,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400054447",
+    "locations": [
+      "Bristol, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "64b96703-f3a8-499e-a93b-f83381275bec",
+    "title": "Trading Assistant - Shift",
+    "active": true,
+    "date_updated": 1774084050,
+    "date_posted": 1774084050,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400054449",
+    "locations": [
+      "Bristol, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "KLA",
+    "id": "5f972d4f-2994-4753-a13b-711e1beb7a9b",
+    "title": "Software Engineer \u2013 New College Graduate",
+    "active": true,
+    "date_updated": 1774045156,
+    "date_posted": 1774045156,
+    "url": "https://kla.wd1.myworkdayjobs.com/UR/job/Milpitas-CA/Software-Engineer--New-College-Graduate-_2634931",
+    "locations": [
+      "Milpitas, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/KLA",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Jerry",
+    "id": "1c83ea31-0516-4e08-b554-e95a55e22da4",
+    "title": "Software Engineer - Entry",
+    "active": true,
+    "date_updated": 1774045737,
+    "date_posted": 1774045737,
+    "url": "https://jobs.ashbyhq.com/jerry.ai/2f872573-f8dc-4f10-890d-67d89ace5a0e/application",
+    "locations": [
+      "Toronto, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Jerry",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "General Dynamics Information Technology",
+    "id": "01b460b1-1f54-4157-8c7d-752594edef8f",
+    "title": "UiPath Robotic Process Automation Developer Associate",
+    "active": true,
+    "date_updated": 1774085633,
+    "date_posted": 1774085633,
+    "url": "https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-LA-Bossier-City/UiPath-Robotic-Process-Automation-Developer-Associate_RQ216790-2",
+    "locations": [
+      "Shreveport, LA"
+    ],
+    "company_url": "https://simplify.jobs/c/GDIT",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
