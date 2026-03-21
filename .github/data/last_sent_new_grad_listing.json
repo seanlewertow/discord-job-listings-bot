@@ -124570,5 +124570,23 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "95b77179-ef26-4b1c-9816-76f59dfd5ced",
+    "title": "Trading Assistant - Shift",
+    "active": true,
+    "date_updated": 1774073710,
+    "date_posted": 1774073710,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400054439",
+    "locations": [
+      "Exeter, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
