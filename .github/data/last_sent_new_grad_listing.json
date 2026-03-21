@@ -124530,5 +124530,25 @@
       "Bachelor's",
       "Master's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Beyond New Horizons",
+    "id": "f5b74787-e511-4f36-a2b5-91cdf9dfa60a",
+    "title": "Early Career Software Engineer",
+    "active": true,
+    "date_updated": 1774044465,
+    "date_posted": 1774044465,
+    "url": "https://careers-bnh.icims.com/jobs/23560/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Tullahoma, TN"
+    ],
+    "company_url": "https://simplify.jobs/c/Beyond-New-Horizons",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
