@@ -124963,5 +124963,41 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "efefad06-3d89-4e54-938e-837b62d8d0a3",
+    "title": "Trading Assistant - Shift",
+    "active": true,
+    "date_updated": 1774141958,
+    "date_posted": 1774141958,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400054560",
+    "locations": [
+      "Midlothian, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "e964e70e-1a79-46e9-8754-f0c5a0919205",
+    "title": "Trading Assistant - Shift",
+    "active": true,
+    "date_updated": 1774141958,
+    "date_posted": 1774141958,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400052315",
+    "locations": [
+      "Tunbridge Wells, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
