@@ -126699,5 +126699,110 @@
     "degrees": [
       "Certificate"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "950224d1-85f2-4a6f-9d45-746b4711b6dd",
+    "title": "Trading Assistant",
+    "active": true,
+    "date_updated": 1774391074,
+    "date_posted": 1774391074,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400054980",
+    "locations": [
+      "Exeter, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "McDonald's",
+    "id": "83589d8e-b81b-4f47-acf3-448b0b805c8d",
+    "title": "Software Engineer 1",
+    "active": true,
+    "date_updated": 1774390861,
+    "date_posted": 1774390861,
+    "url": "https://jobs.mcdonalds.com/job/Chicago-Software-Engineer-I-IL-60607/1376362600/?ats=successfactors",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/McDonald",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Sallie Mae",
+    "id": "735935d4-86fc-481c-9ecc-50d428b710ba",
+    "title": "Associate \u2013 Technology Operations",
+    "active": true,
+    "date_updated": 1774391173,
+    "date_posted": 1774391173,
+    "url": "https://sallie-mae.wd5.myworkdayjobs.com/Careers/job/Newark-DE/Associate--Technology-Operations_R26_000040",
+    "locations": [
+      "Indianapolis, IN",
+      "Newark, DE"
+    ],
+    "company_url": "https://simplify.jobs/c/Sallie-Mae",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "American Institutes for Research",
+    "id": "3e561cd6-0347-4035-a5fa-3917f899823b",
+    "title": "Quantitative Research Associate - Educational Measurement",
+    "active": true,
+    "date_updated": 1774391332,
+    "date_posted": 1774391332,
+    "url": "https://job-boards.greenhouse.io/americaninstitutesforresearch/jobs/5163523008",
+    "locations": [
+      "Carrboro, NC",
+      "Austin, TX",
+      "Remote in USA",
+      "Chicago, IL",
+      "Arlington, VA",
+      "Sacramento, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/American-Institutes-For-Research",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "Vestmark",
+    "id": "12cd9f1c-268d-4322-bc0c-3a181fcebdcc",
+    "title": "Associate Product Manager",
+    "active": true,
+    "date_updated": 1774391385,
+    "date_posted": 1774316515,
+    "url": "https://job-boards.greenhouse.io/vestmark/jobs/7736701",
+    "locations": [
+      "Cambridge, MA",
+      "Wakefield, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/Vestmark",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
