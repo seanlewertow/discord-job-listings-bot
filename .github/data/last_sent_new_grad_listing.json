@@ -125983,5 +125983,46 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Marvell",
+    "id": "86572f6d-7cc1-425d-a248-95218f9edf61",
+    "title": "Firmware Engineer",
+    "active": true,
+    "date_updated": 1774319257,
+    "date_posted": 1774319257,
+    "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Westlake-Village-CA/Firmware-Engineer_2601000",
+    "locations": [
+      "Santa Clara, CA",
+      "Westlake Village, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Marvell",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "General Dynamics UK",
+    "id": "db03c5bd-7f19-46fe-a9fb-54b88589315f",
+    "title": "Technologist 1 - Iudc.06",
+    "active": true,
+    "date_updated": 1774275381,
+    "date_posted": 1774275381,
+    "url": "https://jobs.smartrecruiters.com/GDMSI/744000116189020",
+    "locations": [
+      "Ottawa, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/General-Dynamics-UK",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
