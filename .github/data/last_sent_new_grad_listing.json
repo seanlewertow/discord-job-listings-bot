@@ -126154,5 +126154,41 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Northrop Grumman",
+    "id": "d84a48c4-d282-49ba-8fe4-114aa65b32da",
+    "title": "Inspector \u2013 Level 2 or 3",
+    "active": true,
+    "date_updated": 1774347372,
+    "date_posted": 1774347372,
+    "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Minnesota-Plymouth/Inspector--Level-2-or-3-_R10225937-1",
+    "locations": [
+      "Wayzata, MN"
+    ],
+    "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Alberta Blue Cross",
+    "id": "c1af2d4c-99eb-41c0-941c-0e97683684e3",
+    "title": "Reporting Analyst - Reporting & Insights",
+    "active": true,
+    "date_updated": 1773996484,
+    "date_posted": 1771696644,
+    "url": "https://abbluecross.wd3.myworkdayjobs.com/careers/job/Hybrid/Reporting-Analyst---Reporting---Insights_R1076",
+    "locations": [
+      "Edmonton, AB, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Alberta-Blue-Cross",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
