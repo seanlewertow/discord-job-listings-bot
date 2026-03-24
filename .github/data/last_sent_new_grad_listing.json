@@ -126804,5 +126804,102 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Wells Fargo",
+    "id": "7a6d3fc5-6bbe-4bf7-878c-97b3e0c60b94",
+    "title": "Engineering Associate - IAM Application Engineering",
+    "active": true,
+    "date_updated": 1774393105,
+    "date_posted": 1774393105,
+    "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/IRVING-TX/Engineering-Associate---IAM-Application-Engineering_R-531729",
+    "locations": [
+      "Irving, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Wells-Fargo",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "RTX",
+    "id": "758dda5c-d146-482e-a180-4ff744eae663",
+    "title": "Full-time",
+    "active": true,
+    "date_updated": 1774393232,
+    "date_posted": 1774393232,
+    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/XMLNAME-2026-Full-time---Software-Engineer-II---Onsite--MA-_01832479",
+    "locations": [
+      "Marlborough, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/RTX",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "RTX",
+    "id": "57258cd1-fa8f-45fb-9302-aa02b0dc5374",
+    "title": "Software Engineer 1 - Space and Radio Frequency Sensors",
+    "active": true,
+    "date_updated": 1774393226,
+    "date_posted": 1774393226,
+    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IN-FT-WAYNE-150A--1010-Production-Rd--BLDG-150A/XMLNAME-2026-Full-time---Software-Engineer-I---Space-and-RF-Sensors----Onsite--IN-_01832548",
+    "locations": [
+      "Fort Wayne, IN"
+    ],
+    "company_url": "https://simplify.jobs/c/RTX",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Northrop Grumman",
+    "id": "108143ef-7734-41aa-b0a2-da98227c67bf",
+    "title": "Software Engineer",
+    "active": true,
+    "date_updated": 1774393216,
+    "date_posted": 1774393216,
+    "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Ohio-Beavercreek/Software-Engineer--AHT-_R10227138",
+    "locations": [
+      "Beavercreek, OH"
+    ],
+    "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Manulife Financial",
+    "id": "d5d979bc-0770-4653-84c1-7ebac5788133",
+    "title": "Associate Data Scientist",
+    "active": true,
+    "date_updated": 1774393005,
+    "date_posted": 1774393005,
+    "url": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Boston-Massachusetts/Associate-Data-Scientist_JR26031316-1",
+    "locations": [
+      "Boston, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/Manulife-Financial",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Master's",
+      "PhD"
+    ]
   }
 ]
