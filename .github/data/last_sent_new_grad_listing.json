@@ -126597,5 +126597,107 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "XPENG Motors",
+    "id": "feb67d91-bec4-47ec-8d35-65496cb19c60",
+    "title": "Senior Computer Vision Engineer",
+    "active": true,
+    "date_updated": 1774390055,
+    "date_posted": 1774390055,
+    "url": "https://job-boards.greenhouse.io/xpengmotors/jobs/8477276002",
+    "locations": [
+      "Santa Clara, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/XPengMotors",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Master's",
+      "PhD"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Uber",
+    "id": "9f45dbd4-9c16-45bb-a62e-6a26504f46aa",
+    "title": "Graduate PhD Software Engineer 2 - Consumer Structural Pricing",
+    "active": true,
+    "date_updated": 1774390056,
+    "date_posted": 1774390056,
+    "url": "https://university-uber.icims.com/jobs/155342/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "SF",
+      "Sunnyvale, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Uber",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "PhD"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Edmund Optics",
+    "id": "825bf657-3ced-444e-8338-b8546fc58cff",
+    "title": "Product Support Engineer",
+    "active": true,
+    "date_updated": 1774390107,
+    "date_posted": 1774390107,
+    "url": "https://careers-edmundoptics.icims.com/jobs/1592/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Tucson, AZ"
+    ],
+    "company_url": "https://simplify.jobs/c/Edmund-Optics",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Western & Southern Financial Group",
+    "id": "6420dbca-62cf-469e-b003-fcf4252c3df8",
+    "title": "AI Developer 1",
+    "active": true,
+    "date_updated": 1774390035,
+    "date_posted": 1774390035,
+    "url": "https://careers-westernsouthern.icims.com/jobs/24773/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Cincinnati, OH"
+    ],
+    "company_url": "https://simplify.jobs/c/Western-Southern-Financial-Group",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "EOS IT Solutions",
+    "id": "4b5deec1-659d-422a-933a-e578c898ef65",
+    "title": "Data Center Repair Technician",
+    "active": true,
+    "date_updated": 1774389906,
+    "date_posted": 1774389906,
+    "url": "https://eosits.com/company/careers/?gh_jid=8449935002",
+    "locations": [
+      "Columbus, OH"
+    ],
+    "company_url": "https://simplify.jobs/c/EOS-IT-Solutions",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Certificate"
+    ]
   }
 ]
