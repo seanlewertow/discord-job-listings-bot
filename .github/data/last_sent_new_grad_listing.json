@@ -126498,5 +126498,66 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "Fanatics",
+    "id": "ebf764a0-c52b-4a77-98c3-63ad8d43f0c6",
+    "title": "Product Administrator",
+    "active": true,
+    "date_updated": 1773094261,
+    "date_posted": 1773094261,
+    "url": "https://fa-exki-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/27071",
+    "locations": [
+      "Manchester, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Fanatics",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Confluent",
+    "id": "9e99270a-45ed-40fc-8f79-95b4fb731f58",
+    "title": "Senior Software Engineer - Cloud Traffic",
+    "active": true,
+    "date_updated": 1773825984,
+    "date_posted": 1770937932,
+    "url": "https://jobs.ashbyhq.com/confluent/a39d4a62-2d73-46af-bbdd-9b9a1314c275/application",
+    "locations": [
+      "Texas",
+      "Remote in USA",
+      "Massachusetts"
+    ],
+    "company_url": "https://simplify.jobs/c/Confluent",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "Alertus Technologies",
+    "id": "43ae95ec-4bbc-4eb5-9e77-2d6b981e639b",
+    "title": "Product Specialist",
+    "active": true,
+    "date_updated": 1774344086,
+    "date_posted": 1764641760,
+    "url": "https://jobs.lever.co/alertus/50c05baf-4591-40eb-9fc1-d4b7abf6c3c0/apply",
+    "locations": [
+      "Baltimore, MD"
+    ],
+    "company_url": "https://simplify.jobs/c/Alertus-Technologies",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
