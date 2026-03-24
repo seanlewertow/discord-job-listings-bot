@@ -126559,5 +126559,23 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Jefferies",
+    "id": "1a595562-a70e-450b-8bb5-1e76ff9ffb4d",
+    "title": "Outsourced Trading Desk Continuity - Analyst/Associate",
+    "active": true,
+    "date_updated": 1774342439,
+    "date_posted": 1771888544,
+    "url": "https://hdid.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3759",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Jefferies",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
