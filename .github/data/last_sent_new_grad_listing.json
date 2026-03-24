@@ -126270,5 +126270,26 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Lawrence Berkeley National Laboratory",
+    "id": "323f4d84-f56d-4670-8b45-8b930e87c49f",
+    "title": "Computational Research Scientist",
+    "active": true,
+    "date_updated": 1773997989,
+    "date_posted": 1772504269,
+    "url": "https://lbl.taleo.net/careersection/5/jobdetail.ftl?job=106084",
+    "locations": [
+      "Berkeley, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Lawrence-Berkeley-National-Laboratory",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Master's",
+      "PhD"
+    ]
   }
 ]
