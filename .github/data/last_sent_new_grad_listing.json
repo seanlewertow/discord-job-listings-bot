@@ -125845,5 +125845,99 @@
       "Bachelor's",
       "Master's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "Google",
+    "id": "4881d8bc-fb89-4121-bf03-16c5713b617f",
+    "title": "Product Manager 1 - Youtube Ads - GenAI Creatives",
+    "active": true,
+    "date_updated": 1774315467,
+    "date_posted": 1774315467,
+    "url": "https://www.google.com/about/careers/applications/jobs/results/104663663926747846",
+    "locations": [
+      "Mountain View, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Google",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Collectors",
+    "id": "d4fbecd4-6b7c-4516-be1c-5d0fbbb865b6",
+    "title": "Trading Card Specialist",
+    "active": true,
+    "date_updated": 1774316121,
+    "date_posted": 1774316121,
+    "url": "https://collectorsuniverse.wd1.myworkdayjobs.com/collectors/job/Plano-TX/Trading-Card-Specialist_JR104497",
+    "locations": [
+      "Plano, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Collectors",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "1df84de5-28ce-47c6-81cb-b868d86d3220",
+    "title": "Trading Assistant",
+    "active": true,
+    "date_updated": 1774315974,
+    "date_posted": 1774315974,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400054823",
+    "locations": [
+      "Cardiff, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Unilever",
+    "id": "5bfb2341-d09b-4834-9787-9915ace5b848",
+    "title": "CD Excellence Data Engineering Associate",
+    "active": true,
+    "date_updated": 1774318909,
+    "date_posted": 1774318909,
+    "url": "https://unilever.wd3.myworkdayjobs.com/Unilever_Experienced_Professionals/job/Remote---USA/CD-Excellence-Data-Engineering-Associate_R-1178161-1",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/Unilever",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "The Boeing Company",
+    "id": "2806f8bf-a4cf-46aa-888b-3dc1ca433f1c",
+    "title": "Intelligence Systems Electrical Hardware Design Engineer \u2013 Associate or Mid-Level",
+    "active": true,
+    "date_updated": 1774317877,
+    "date_posted": 1774317877,
+    "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Huntington-Beach-CA/Intelligence-Systems-Electrical-Hardware-Design-Engineer--Associate-or-Mid-Level-_JR2026502198-1",
+    "locations": [
+      "Huntington Beach, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Boeing",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
