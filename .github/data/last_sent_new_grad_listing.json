@@ -126190,5 +126190,85 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "Citizens Financial Group",
+    "id": "7bfcee51-e2c8-4be6-a1f0-ae64292e0993",
+    "title": "Product Associate",
+    "active": true,
+    "date_updated": 1773824379,
+    "date_posted": 1773180353,
+    "url": "https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/45221",
+    "locations": [
+      "United States"
+    ],
+    "company_url": "https://simplify.jobs/c/Citizens-Financial-Group",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "First National Bank",
+    "id": "a9714733-b777-4395-97cd-932b77923c87",
+    "title": "Business Analytics Analyst",
+    "active": true,
+    "date_updated": 1774083067,
+    "date_posted": 1771672024,
+    "url": "https://fnbcorp.wd501.myworkdayjobs.com/FNBCORP/job/Pittsburgh-PA/Business-Analytics-Analyst_2025-02550",
+    "locations": [
+      "Pittsburgh, PA"
+    ],
+    "company_url": "https://simplify.jobs/c/First-National-Bank",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Lawrence Berkeley National Laboratory",
+    "id": "14a91d78-9916-4468-bad5-e100a429c308",
+    "title": "Postdoctoral Scholar",
+    "active": true,
+    "date_updated": 1773997840,
+    "date_posted": 1771370301,
+    "url": "https://lbl.taleo.net/careersection/5/jobdetail.ftl?job=105930",
+    "locations": [
+      "Berkeley, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Lawrence-Berkeley-National-Laboratory",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "PhD"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Caesars Entertainment",
+    "id": "4f6ace75-6db8-4ea3-8725-15f8ed0fb592",
+    "title": "Graduate Sports Trader",
+    "active": true,
+    "date_updated": 1773910382,
+    "date_posted": 1770333162,
+    "url": "https://edmn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/79521",
+    "locations": [
+      "Leeds, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Caesars-Entertainment",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
