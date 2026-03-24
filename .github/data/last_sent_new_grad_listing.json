@@ -126389,5 +126389,114 @@
       "Master's",
       "PhD"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Intertek",
+    "id": "4d93909f-0086-40e5-90f5-72d71d3e8b25",
+    "title": "Technician 1 - Building and Construction",
+    "active": true,
+    "date_updated": 1774169757,
+    "date_posted": 1773267425,
+    "url": "https://hcog.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/14121",
+    "locations": [
+      "York, PA"
+    ],
+    "company_url": "https://simplify.jobs/c/Intertek",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Associate's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Accenture",
+    "id": "1dc34802-3e5f-4e29-981d-7a29634b4efb",
+    "title": "Data Management Analyst",
+    "active": true,
+    "date_updated": 1774364649,
+    "date_posted": 1774364649,
+    "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Kronberg-Campus-Kronberg-1/Data-Management-Analyst--all-genders-_R00320320",
+    "locations": [
+      "Hamburg, Germany",
+      "Neukirchen-Vluyn, Germany",
+      "Frankfurt, Germany",
+      "Stuttgart, Germany",
+      "Berlin, Germany",
+      "Munich, Germany"
+    ],
+    "company_url": "https://simplify.jobs/c/Accenture-FS",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Innovaccer",
+    "id": "a8a73b1a-5bf4-4b7a-887d-7d6acf818297",
+    "title": "Artificial Intelligence Researcher",
+    "active": true,
+    "date_updated": 1772677563,
+    "date_posted": 1772677563,
+    "url": "https://apply.workable.com/innovaccer-analytics/j/B175424D9F/apply",
+    "locations": [
+      "SF"
+    ],
+    "company_url": "https://simplify.jobs/c/Innovaccer",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "PhD"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Fortive",
+    "id": "aff32944-fe60-4a6f-987c-262b34263b71",
+    "title": "Field Service Engineer",
+    "active": true,
+    "date_updated": 1774084372,
+    "date_posted": 1771715547,
+    "url": "https://ejta.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/9021",
+    "locations": [
+      "Atlanta, GA"
+    ],
+    "company_url": "https://simplify.jobs/c/Fortive",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "PhD",
+      "Associate's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "OptionMetrics",
+    "id": "29a77f6d-5822-4790-bc6f-efdc2e2c6f94",
+    "title": "Data Quality Analyst",
+    "active": true,
+    "date_updated": 1773825710,
+    "date_posted": 1769123766,
+    "url": "https://jobs.lever.co/optionmetrics/ffeb74a2-127b-49c0-8472-aa12b0e9b056/apply",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/OptionMetrics",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
