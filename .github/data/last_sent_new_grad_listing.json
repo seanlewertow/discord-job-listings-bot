@@ -126116,5 +126116,43 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "TKO Group Holdings, Inc",
+    "id": "7cd18f2b-c90c-43d1-b3ba-7dcf3f42e2f0",
+    "title": "Data Governance Analyst",
+    "active": true,
+    "date_updated": 1773736309,
+    "date_posted": 1772695034,
+    "url": "https://wwecorp.wd5.myworkdayjobs.com/tko/job/Stamford-CT--WWE-Headquarters/Data-Governance-Analyst_R0007326",
+    "locations": [
+      "Stamford, CT"
+    ],
+    "company_url": "https://simplify.jobs/c/TKO-Group-Holdings-Inc",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Goldman Sachs",
+    "id": "4b4f9231-8913-4465-b065-41b60187db41",
+    "title": "Asset & Wealth Management-Generative AI Software Engineer-Associate",
+    "active": true,
+    "date_updated": 1773822612,
+    "date_posted": 1770995712,
+    "url": "https://higher.gs.com/roles/162184",
+    "locations": [
+      "Albany, NY"
+    ],
+    "company_url": "https://simplify.jobs/c/Goldman-Sachs",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
