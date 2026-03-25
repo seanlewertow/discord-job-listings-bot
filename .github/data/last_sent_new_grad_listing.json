@@ -127413,5 +127413,109 @@
       "Master's",
       "PhD"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "26ec9305-8a72-456a-9174-e4e0fddeaec0",
+    "title": "Trading Assistant",
+    "active": true,
+    "date_updated": 1774448570,
+    "date_posted": 1774448570,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400055053",
+    "locations": [
+      "United Kingdom"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Geosyntec Consultants",
+    "id": "55a32e9d-f96a-45cb-a313-472d7408452f",
+    "title": "Early-Career GIS Analyst",
+    "active": true,
+    "date_updated": 1774447786,
+    "date_posted": 1774447786,
+    "url": "https://careers-geosyntec.icims.com/jobs/4341/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Boston, MA",
+      "Seattle, WA"
+    ],
+    "company_url": "https://simplify.jobs/c/Geosyntec-Consultants",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "PhD"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Geosyntec Consultants",
+    "id": "3ecefcbe-42fb-4924-93d8-022163cfe7b9",
+    "title": "Entry-Level Environmental Cartography Professional",
+    "active": true,
+    "date_updated": 1774447793,
+    "date_posted": 1774447793,
+    "url": "https://careers-geosyntec.icims.com/jobs/4343/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Titusville, FL",
+      "Melbourne, FL"
+    ],
+    "company_url": "https://simplify.jobs/c/Geosyntec-Consultants",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Home Solutions",
+    "id": "3459c4b6-cd07-4f82-b954-02a9397a95ae",
+    "title": "Data Analyst",
+    "active": true,
+    "date_updated": 1774447921,
+    "date_posted": 1774447921,
+    "url": "https://job-boards.greenhouse.io/homesolutions/jobs/4626730005",
+    "locations": [
+      "Charlotte, NC"
+    ],
+    "company_url": "https://simplify.jobs/c/Home-Solutions",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Geosyntec Consultants",
+    "id": "1cf6df7a-4682-498b-80aa-98229b680302",
+    "title": "Early-Career Geographic Information Systems Analyst",
+    "active": true,
+    "date_updated": 1774447777,
+    "date_posted": 1774447777,
+    "url": "https://careers-geosyntec.icims.com/jobs/4342/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Charlottesville, VA"
+    ],
+    "company_url": "https://simplify.jobs/c/Geosyntec-Consultants",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "PhD"
+    ]
   }
 ]
