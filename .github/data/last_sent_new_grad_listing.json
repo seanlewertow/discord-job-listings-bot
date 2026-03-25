@@ -127659,5 +127659,64 @@
     "date_posted": 1774467598,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Pennsylvania State University",
+    "id": "15f52ce1-b982-411c-b879-5e4ded9f3550",
+    "title": "Postdoctoral Scholar",
+    "active": true,
+    "date_updated": 1774091429,
+    "date_posted": 1774091429,
+    "url": "https://psu.wd1.myworkdayjobs.com/PSU_Academic/job/Penn-State-University-Park/Postdoctoral-Scholar_REQ_0000070370-1",
+    "locations": [
+      "State College, PA"
+    ],
+    "company_url": "https://simplify.jobs/c/Pennsylvania-State-University",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "PhD"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Lexington Medical",
+    "id": "76e8daa9-44cd-4510-908b-47a49295fe30",
+    "title": "Quality Control Technician",
+    "active": true,
+    "date_updated": 1773698877,
+    "date_posted": 1773440417,
+    "url": "https://job-boards.greenhouse.io/lexingtonmedical/jobs/5153539008",
+    "locations": [
+      "Bedford, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/Lexington-Medical",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "SpaceX",
+    "id": "7450f9f2-6a40-4e5e-8416-d5374c1ff99b",
+    "title": "New Graduate Engineer - Electrical - Starlink",
+    "active": true,
+    "date_updated": 1774390480,
+    "date_posted": 1770419666,
+    "url": "https://boards.greenhouse.io/spacex/jobs/8407346002",
+    "locations": [
+      "Redmond, WA"
+    ],
+    "company_url": "https://simplify.jobs/c/SpaceX",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
   }
 ]
