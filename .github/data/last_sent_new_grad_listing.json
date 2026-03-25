@@ -127292,5 +127292,23 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Anduril",
+    "id": "46a3041c-a8fb-47b7-afeb-18de421d4d37",
+    "title": "Electronics Technician",
+    "active": true,
+    "date_updated": 1773872847,
+    "date_posted": 1773699918,
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/4987327007",
+    "locations": [
+      "Rhode Island"
+    ],
+    "company_url": "https://simplify.jobs/c/Anduril",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
