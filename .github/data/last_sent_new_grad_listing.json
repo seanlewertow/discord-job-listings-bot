@@ -127330,5 +127330,88 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "Gartner",
+    "id": "fe73fdc7-21d1-45d5-b1f4-e7d30dbe1161",
+    "title": "Digital Product Analyst",
+    "active": true,
+    "date_updated": 1774085873,
+    "date_posted": 1774085873,
+    "url": "https://gartner.wd5.myworkdayjobs.com/EXT/job/Irving-TX/Digital-Product-Analyst_106004",
+    "locations": [
+      "Fort Myers, FL",
+      "Irving, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Gartner",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Brookhaven Lab",
+    "id": "b96cb6b7-4d34-4210-8974-484e18a29689",
+    "title": "Research Associate Physics",
+    "active": true,
+    "date_updated": 1774353396,
+    "date_posted": 1774085545,
+    "url": "https://bnl.wd1.myworkdayjobs.com/externa/job/Upton-NY/Research-Associate-Physics_JR102253",
+    "locations": [
+      "Shirley, NY"
+    ],
+    "company_url": "https://simplify.jobs/c/Brookhaven-Lab",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "PhD"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "Lowe's ",
+    "id": "d8c8d8e4-981d-40cf-846f-d4f4948eaaad",
+    "title": "Associate Merchant - Omni - Millwork",
+    "active": true,
+    "date_updated": 1774092355,
+    "date_posted": 1774092355,
+    "url": "https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Mooresville-NC-SSC-1999/Associate-Merchant_JR-02413972",
+    "locations": [
+      "Huntersville, NC"
+    ],
+    "company_url": "https://simplify.jobs/c/Lowes",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Thales",
+    "id": "f56e0913-e68e-4e3a-9633-4063a7980b06",
+    "title": "Embedded Software Research Engineer",
+    "active": true,
+    "date_updated": 1774143705,
+    "date_posted": 1774143705,
+    "url": "https://thales.wd3.myworkdayjobs.com/en-US/Careers/job/Reading/Junior-Embedded-Software-Research-Engineer_R0301491-2",
+    "locations": [
+      "Reading, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Thales",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "PhD"
+    ]
   }
 ]
