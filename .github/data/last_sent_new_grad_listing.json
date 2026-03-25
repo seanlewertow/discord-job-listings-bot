@@ -127310,5 +127310,25 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "PPG Industries",
+    "id": "0054b252-49f9-46d3-8064-1d73bc306ff6",
+    "title": "Database Engineer",
+    "active": true,
+    "date_updated": 1774434369,
+    "date_posted": 1774434369,
+    "url": "https://ppg.wd5.myworkdayjobs.com/PPG_CAREERS/job/MYS---Shah-Alam-Office/Database-Engineer_JR261987-1",
+    "locations": [
+      "Pittsburgh, PA"
+    ],
+    "company_url": "https://simplify.jobs/c/PPG-Industries",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
