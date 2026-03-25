@@ -127759,5 +127759,107 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "638f0c44-5182-4458-80eb-ab62a3e75a6d",
+    "title": "Trading Assistant",
+    "active": true,
+    "date_updated": 1774476807,
+    "date_posted": 1774476807,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400055097",
+    "locations": [
+      "United Kingdom"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Keysight Technologies",
+    "id": "512194ad-90fd-44b2-9f2f-12e9f1699cd4",
+    "title": "R&D Engineer - Signal Processing & Measurement Software",
+    "active": true,
+    "date_updated": 1774476428,
+    "date_posted": 1774476428,
+    "url": "https://jobs.keysight.com/jobs/52097?lang=en-us&icims=1",
+    "locations": [
+      "Santa Rosa, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Keysight-Technologies-Inc",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "EOS IT Solutions",
+    "id": "8d34150a-f88e-4339-9987-43aae851728c",
+    "title": "Data Center Repair Technician",
+    "active": true,
+    "date_updated": 1774476316,
+    "date_posted": 1774476316,
+    "url": "https://eosits.com/company/careers/?gh_jid=8480397002",
+    "locations": [
+      "Lancaster, OH"
+    ],
+    "company_url": "https://simplify.jobs/c/EOS-IT-Solutions",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Certificate"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "LMI ",
+    "id": "843b4af4-1eae-45a5-868b-dd9075880319",
+    "title": "Junior Data Scientist",
+    "active": true,
+    "date_updated": 1774476305,
+    "date_posted": 1774476305,
+    "url": "https://careers-lmi.icims.com/jobs/13822/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Colorado Springs, CO",
+      "El Segundo, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/LMI",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "PhD"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "EOS IT Solutions",
+    "id": "09f3da69-1974-4a72-81d0-fa51e88114c2",
+    "title": "Data Center Repair Technician",
+    "active": true,
+    "date_updated": 1774476315,
+    "date_posted": 1774476315,
+    "url": "https://eosits.com/company/careers/?gh_jid=8480393002",
+    "locations": [
+      "Groveport, OH"
+    ],
+    "company_url": "https://simplify.jobs/c/EOS-IT-Solutions",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Certificate"
+    ]
   }
 ]
