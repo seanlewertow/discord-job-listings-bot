@@ -127718,5 +127718,46 @@
       "Bachelor's",
       "Master's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "American Express",
+    "id": "21939f06-d479-4cb4-bd17-e618772dac3a",
+    "title": "Associate Digital Product GTM",
+    "active": true,
+    "date_updated": 1773909412,
+    "date_posted": 1773440154,
+    "url": "https://aexp.eightfold.ai/careers/job/40328205",
+    "locations": [
+      "Palo Alto, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/American-Express",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Associate's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Shepherd",
+    "id": "3e1e32f6-2de5-4727-a265-0f76c0312e21",
+    "title": "Actuarial Data Analyst",
+    "active": true,
+    "date_updated": 1774427284,
+    "date_posted": 1772839060,
+    "url": "https://jobs.ashbyhq.com/shepherd/6100294f-ac13-4a9a-bf5c-8b49a8925820/application",
+    "locations": [
+      "Chicago, IL",
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Shepherd",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
