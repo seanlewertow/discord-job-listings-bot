@@ -127172,5 +127172,27 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "X Development",
+    "id": "9b22a769-3158-4e58-80a2-4da34d70045c",
+    "title": "Software Engineer - Machine Learning - Tapestry",
+    "active": true,
+    "date_updated": 1774085280,
+    "date_posted": 1773988061,
+    "url": "https://x.company/careers/8457833002?gh_jid=8457833002",
+    "locations": [
+      "Mountain View, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/X-Development",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "PhD"
+    ]
   }
 ]
