@@ -126993,5 +126993,107 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "The University of Edinburgh",
+    "id": "ee050604-ce94-44ae-a023-a107bda395fb",
+    "title": "Epidemiologist/Data Scientist",
+    "active": true,
+    "date_updated": 1773699907,
+    "date_posted": 1773699907,
+    "url": "https://elxw.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/13762",
+    "locations": [
+      "Edinburgh, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/The-University-Of-Edinburgh",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Nationwide",
+    "id": "0d0bd2a5-e1f3-49b9-996c-46f6a554eec5",
+    "title": "Software Engineer - Java",
+    "active": true,
+    "date_updated": 1774085016,
+    "date_posted": 1774085016,
+    "url": "https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-Three-Nationwide-Plaza/Engineer--Software-Engineer_097263",
+    "locations": [
+      "Columbus, OH"
+    ],
+    "company_url": "https://simplify.jobs/c/Nationwide",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Xylem",
+    "id": "5284ba09-3675-4c4a-84d7-f6246d22ef74",
+    "title": "Application Engineer",
+    "active": true,
+    "date_updated": 1773700132,
+    "date_posted": 1773700132,
+    "url": "https://xylem.wd5.myworkdayjobs.com/en-US/xylem-careers/job/Waukesha-Ridgeview-Wisconsin/Application-Engineer_R46652",
+    "locations": [
+      "Thomasville, GA",
+      "Zelienople, PA",
+      "Colorado Springs, CO",
+      "Charlotte, NC",
+      "Waukesha, WI"
+    ],
+    "company_url": "https://simplify.jobs/c/Xylem",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Whoop",
+    "id": "eee5bda2-ed1f-4835-999c-5c86bfdaf6f9",
+    "title": "Software Engineer 1 - Frontend - Growth",
+    "active": true,
+    "date_updated": 1773699824,
+    "date_posted": 1773699824,
+    "url": "https://jobs.lever.co/whoop/27101f2d-abc5-4cf3-aa86-f164e66ecdd8/apply",
+    "locations": [
+      "Boston, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/Whoop",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Appian",
+    "id": "f9a8766e-c806-48b8-8ffb-07427ebb7561",
+    "title": "Information Security Application Engineer",
+    "active": true,
+    "date_updated": 1773700011,
+    "date_posted": 1773700011,
+    "url": "https://job-boards.greenhouse.io/appian/jobs/7722009",
+    "locations": [
+      "McLean, VA"
+    ],
+    "company_url": "https://simplify.jobs/c/Appian",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
