@@ -126901,5 +126901,97 @@
       "Master's",
       "PhD"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Twitch",
+    "id": "bed6f7ea-e6e8-4d84-b025-7ee242811892",
+    "title": "Software Engineer 1",
+    "active": true,
+    "date_updated": 1774401489,
+    "date_posted": 1774401489,
+    "url": "https://job-boards.greenhouse.io/twitch/jobs/8472708002",
+    "locations": [
+      "SF"
+    ],
+    "company_url": "https://simplify.jobs/c/Twitch",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "963196d0-1d1c-4fe4-924a-1b21afd245f4",
+    "title": "Trading Assistant - Shift",
+    "active": true,
+    "date_updated": 1774401429,
+    "date_posted": 1774401429,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400054991",
+    "locations": [
+      "Dorchester, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "7c7aa94e-1e21-4d61-bf1b-25d3c0b37289",
+    "title": "Trading Assistant - Shift",
+    "active": true,
+    "date_updated": 1774401349,
+    "date_posted": 1774401349,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400054992",
+    "locations": [
+      "Cambridge, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "a8284ef6-d96e-4eed-92c7-231feb343cc5",
+    "title": "Trading Assistant - Shift",
+    "active": true,
+    "date_updated": 1774401066,
+    "date_posted": 1774401066,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400054994",
+    "locations": [
+      "Basingstoke, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "Flip",
+    "id": "84616a04-7cdd-4592-8659-8e463a7da640",
+    "title": "Product Insights Analyst",
+    "active": true,
+    "date_updated": 1773785742,
+    "date_posted": 1768435089,
+    "url": "https://job-boards.greenhouse.io/flip/jobs/5070395008",
+    "locations": [
+      "Santa Monica, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Flip-CX",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
