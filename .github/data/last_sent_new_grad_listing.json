@@ -128756,5 +128756,105 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "The Trade Desk",
+    "id": "ff1d9588-c14a-4471-8aaf-d2273950f22c",
+    "title": "Platform Support Coordinator",
+    "active": true,
+    "date_updated": 1774564490,
+    "date_posted": 1774564490,
+    "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5091213007",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/281371f9-4ed3-4440-876f-4bbeaa0d50e0",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "STR",
+    "id": "edb60b08-13c9-49aa-8fc2-64aeee6deb41",
+    "title": "Associate Software Engineer - Emulation Tooling and Modeling",
+    "active": true,
+    "date_updated": 1774564336,
+    "date_posted": 1774564336,
+    "url": "https://job-boards.greenhouse.io/systemstechnologyresearch/jobs/4665373006",
+    "locations": [
+      "Burlington, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/STR",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "PhD"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Esri",
+    "id": "774b61af-f961-4cc8-b91e-2251508fad36",
+    "title": "Software Engineer 1 - Data Engineering",
+    "active": true,
+    "date_updated": 1774564495,
+    "date_posted": 1774564495,
+    "url": "https://www.esri.com/careers/5085786007?gh_jid=5085786007",
+    "locations": [
+      "West Redlands, Redlands, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Esri",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Teledyne",
+    "id": "0a69c2d5-3a06-4fd3-962b-3948acc192fd",
+    "title": "Data Scientist - Power BI",
+    "active": true,
+    "date_updated": 1774564485,
+    "date_posted": 1774564485,
+    "url": "https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Huntsville-AL/Data-Scientist--Power-BI_REQ33921",
+    "locations": [
+      "Huntsville, AL"
+    ],
+    "company_url": "https://simplify.jobs/c/199b3c43-379a-408c-a6a8-980e79183038",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Thermo Fisher Scientific",
+    "id": "ed112910-def7-4666-b6b5-feac4294cb54",
+    "title": "Field Service Engineer - Xps",
+    "active": true,
+    "date_updated": 1774564948,
+    "date_posted": 1773962061,
+    "url": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Schwerte-Germany/Engineer-I--Field-Service_R-01344330",
+    "locations": [
+      "Wenden, Germany",
+      "M\u00fcnster, Germany",
+      "Neukirchen-Vluyn, Germany"
+    ],
+    "company_url": "https://simplify.jobs/c/Thermo-Fisher-Scientific",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
