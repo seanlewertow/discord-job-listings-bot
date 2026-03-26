@@ -128403,5 +128403,105 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "Smithfield Foods",
+    "id": "3fa708f8-0bc9-414b-ac30-5e78572c2c1a",
+    "title": "Associate R&D Technologist",
+    "active": true,
+    "date_updated": 1774508140,
+    "date_posted": 1774508140,
+    "url": "https://smithfieldfoods.wd1.myworkdayjobs.com/Careers/job/Smithfield-VA/Associate-R-D-Technologist_R-2026-3114",
+    "locations": [
+      "Newport News, VA"
+    ],
+    "company_url": "https://simplify.jobs/c/Smithfield-Foods",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Intel",
+    "id": "e54e1312-e3f5-43a6-8538-716bbb05c8ec",
+    "title": "Development Tools Software Engineer",
+    "active": true,
+    "date_updated": 1774510367,
+    "date_posted": 1774510367,
+    "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-California-Santa-Clara/Development-Tools-Software-Engineer_JR0282258",
+    "locations": [
+      "Santa Clara, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Intel",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "The Boeing Company",
+    "id": "9bb0f352-a5f8-4d33-90de-5a7811efdf29",
+    "title": "Wire Design and Install Engineer - Electrical/Electronic Installation Design",
+    "active": true,
+    "date_updated": 1774507890,
+    "date_posted": 1774507890,
+    "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Ridley-Park-PA/Wire-Design---Install-Engineer--Electrical-Electronic-Installation-Design-_JR2026492086-1",
+    "locations": [
+      "Chester, PA"
+    ],
+    "company_url": "https://simplify.jobs/c/Boeing",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Associate's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "General Dynamics Information Technology",
+    "id": "6f5ec2bf-09b4-48bd-9828-b629d875492d",
+    "title": "Junior Power Platform Developer",
+    "active": true,
+    "date_updated": 1774510231,
+    "date_posted": 1774510231,
+    "url": "https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-FL-MacDill-AFB/Junior-Power-Platform-Developer_RQ217213-1",
+    "locations": [
+      "Tampa, FL"
+    ],
+    "company_url": "https://simplify.jobs/c/GDIT",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "Stifel",
+    "id": "f933cfa7-78db-4a9e-a75d-738cc5b06e99",
+    "title": "Cash Product Banking Services Specialist",
+    "active": true,
+    "date_updated": 1774512604,
+    "date_posted": 1757646010,
+    "url": "https://careers-stifel.icims.com/jobs/8650/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "St. Louis, MO"
+    ],
+    "company_url": "https://simplify.jobs/c/Stifel",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
