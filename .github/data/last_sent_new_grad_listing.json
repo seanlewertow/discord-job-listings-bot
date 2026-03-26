@@ -128856,5 +128856,27 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Gen",
+    "id": "3ca17126-42df-483c-bea0-b707a957a024",
+    "title": "Machine Learning Data Scientist",
+    "active": true,
+    "date_updated": 1774565777,
+    "date_posted": 1774565777,
+    "url": "https://gen.wd1.myworkdayjobs.com/careers/job/USA---California-Mountain-View/Machine-Learning-Data-Scientist_55150",
+    "locations": [
+      "Mountain View, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Gen",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "PhD"
+    ]
   }
 ]
