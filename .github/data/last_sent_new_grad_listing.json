@@ -128503,5 +128503,104 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "5d977906-dbb8-430c-93bd-5bd132c49632",
+    "title": "Trading Assistant",
+    "active": true,
+    "date_updated": 1774515904,
+    "date_posted": 1774515904,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400055121",
+    "locations": [
+      "Bury Saint Edmunds, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "4aecb92d-d495-4f49-83ed-52965177d9d8",
+    "title": "Trading Assistant",
+    "active": true,
+    "date_updated": 1774515920,
+    "date_posted": 1774515920,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400054920",
+    "locations": [
+      "Newbury, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "34959a52-d426-40c1-a759-3c17de5f06e7",
+    "title": "Trading Assistant",
+    "active": true,
+    "date_updated": 1774515951,
+    "date_posted": 1774515951,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400055089",
+    "locations": [
+      "United Kingdom"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Flextronics International",
+    "id": "2aed7f1f-d571-44fa-85b8-a51a144ee9bf",
+    "title": "Engineering Technician",
+    "active": true,
+    "date_updated": 1774515868,
+    "date_posted": 1772148446,
+    "url": "https://flextronics.wd1.myworkdayjobs.com/Careers/job/USA-TX-Austin/Engineering-Technician-2_WD214128",
+    "locations": [
+      "Austin, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Flextronics-International",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Associate's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Wpromote",
+    "id": "56406c8f-15fb-4db3-996d-ff2409ddfda2",
+    "title": "Junior Data Scientist",
+    "active": true,
+    "date_updated": 1774515571,
+    "date_posted": 1771024780,
+    "url": "https://jobs.lever.co/wpromote/658c714b-2020-4982-868a-1dcb67a0b96d/apply",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/Wpromote",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "MBA",
+      "PhD",
+      "Associate's",
+      "Bootcamp"
+    ]
   }
 ]
