@@ -127963,5 +127963,85 @@
       "Bachelor's",
       "Master's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Greenheck Group",
+    "id": "676adb1d-1acc-4559-8fce-2428eb81add8",
+    "title": "Application Engineer 1/2",
+    "active": true,
+    "date_updated": 1774084808,
+    "date_posted": 1774084808,
+    "url": "https://greenheckgroup.wd5.myworkdayjobs.com/external/job/Schofield-WI/Application-Engineer-II_JR103309-1",
+    "locations": [
+      "Plover, WI",
+      "Tulsa, OK"
+    ],
+    "company_url": "https://simplify.jobs/c/Greenheck-Group",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Associate's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Ennoble Care",
+    "id": "01e9c36f-26e0-4ce8-8d79-4e1faabcee11",
+    "title": "Manager \u2013 AI Strategy & Solutions",
+    "active": true,
+    "date_updated": 1773699402,
+    "date_posted": 1773441290,
+    "url": "https://job-boards.greenhouse.io/ennoblecare/jobs/4663430006",
+    "locations": [
+      "United States"
+    ],
+    "company_url": "https://simplify.jobs/c/Ennoble-Care",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "Goldman Sachs",
+    "id": "9adc31ea-6284-4d9d-888e-dfb972c8b798",
+    "title": "Asset and Wealth Management - Product Management - Analyst",
+    "active": true,
+    "date_updated": 1773824453,
+    "date_posted": 1773238679,
+    "url": "https://higher.gs.com/roles/165069",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Goldman-Sachs",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Johnson & Johnson",
+    "id": "69d83425-5a3d-4212-ab58-70c7fcdf371e",
+    "title": "Postdoctoral Scientist Data Science AI/ML & DH",
+    "active": true,
+    "date_updated": 1774479459,
+    "date_posted": 1774479459,
+    "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Beerse-Antwerp-Belgium/Postdoctoral-Scientist-Data-Science-AI-ML---DH_R-060722-1",
+    "locations": [
+      "Cambridge, MA",
+      "New Hope, PA",
+      "Ambler, PA"
+    ],
+    "company_url": "https://simplify.jobs/c/Johnson-Johnson",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "PhD"
+    ]
   }
 ]
