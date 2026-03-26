@@ -128043,5 +128043,102 @@
     "degrees": [
       "PhD"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "b3eee282-d04c-4b17-aba8-78b51ce7f517",
+    "title": "Trading Assistant - Shift",
+    "active": true,
+    "date_updated": 1774487738,
+    "date_posted": 1774487738,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400055108",
+    "locations": [
+      "United Kingdom"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "af090965-08de-49a0-b427-8032a6a5d646",
+    "title": "Trading Assistant - Shift",
+    "active": true,
+    "date_updated": 1774487846,
+    "date_posted": 1774487846,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400055105",
+    "locations": [
+      "Gloucester, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Welocalize",
+    "id": "7f01cd88-1ca9-4440-8d4f-cc6e0a8e8897",
+    "title": "Generative AI Data Analyst",
+    "active": true,
+    "date_updated": 1774487491,
+    "date_posted": 1774487491,
+    "url": "https://jobs.lever.co/welocalize/5f0e65d9-dde1-4bb9-a2d1-cbf3ef4ae4ab/apply",
+    "locations": [
+      "California"
+    ],
+    "company_url": "https://simplify.jobs/c/Welocalize",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Axon",
+    "id": "07ccc626-d5d2-4c71-bf84-cd2381ab55be",
+    "title": "Software Engineer 1",
+    "active": true,
+    "date_updated": 1774488219,
+    "date_posted": 1774488219,
+    "url": "https://job-boards.greenhouse.io/axon/jobs/7624132003",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "company_url": "https://simplify.jobs/c/Axon",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "CAE",
+    "id": "e602e285-3ca0-4f92-9a23-d5a2d721b622",
+    "title": "Interoperability Engineer",
+    "active": true,
+    "date_updated": 1774490503,
+    "date_posted": 1774490503,
+    "url": "https://cae.wd3.myworkdayjobs.com/career/job/Arlington-TX/Interoperability-Engineer_121020",
+    "locations": [
+      "Arlington, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/CAE",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
   }
 ]
