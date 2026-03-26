@@ -128602,5 +128602,23 @@
       "Associate's",
       "Bootcamp"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Stoke Space",
+    "id": "3cdbb17b-5782-4201-a641-f2ebc86241e5",
+    "title": "Assembly Technician - Nondestructive Testing",
+    "active": true,
+    "date_updated": 1774517521,
+    "date_posted": 1769037317,
+    "url": "https://stokespace.com/careers/current-openings?gh_jid=5777757004",
+    "locations": [
+      "Kent, WA"
+    ],
+    "company_url": "https://simplify.jobs/c/Stoke-Space",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
