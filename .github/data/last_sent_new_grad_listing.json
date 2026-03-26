@@ -128140,5 +128140,66 @@
       "Bachelor's",
       "Master's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "331f7ea9-bff4-4c54-8f60-96a236aba021",
+    "title": "Trading Assistant - Shift",
+    "active": true,
+    "date_updated": 1773537206,
+    "date_posted": 1773537206,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400053519",
+    "locations": [
+      "Cardiff, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Applied Materials",
+    "id": "0d407e80-c6cf-4d12-8db4-701340f9f7b0",
+    "title": "EHS/Product Safety Engineer",
+    "active": true,
+    "date_updated": 1774047801,
+    "date_posted": 1774047801,
+    "url": "https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/EHS-Product-Safety-Engineer---New-College-Grad--Bachelors---Multiple-Locations-_R2517821",
+    "locations": [
+      "Austin, TX",
+      "Santa Clara, CA",
+      "Essex County, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/Applied-Materials",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "GE Healthcare",
+    "id": "c90e16db-b6dc-4daf-8ba7-256167d9b78a",
+    "title": "Field Service Engineer 1 - X-ray",
+    "active": true,
+    "date_updated": 1773738484,
+    "date_posted": 1773181330,
+    "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Service-Engineer-1---Baltimore--MD_R4037524",
+    "locations": [
+      "Baltimore, MD"
+    ],
+    "company_url": "https://simplify.jobs/c/GE-Healthcare",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Associate's"
+    ]
   }
 ]
