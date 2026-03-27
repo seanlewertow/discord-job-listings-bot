@@ -129401,5 +129401,97 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "5a82ca2e-a17a-403d-adbe-81b3ed365757",
+    "title": "Trading Assistant",
+    "active": true,
+    "date_updated": 1774620461,
+    "date_posted": 1774620461,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400055257",
+    "locations": [
+      "Tunbridge Wells, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "5099665f-dfb8-4fe6-945c-6b36711d3087",
+    "title": "Trading Assistant",
+    "active": true,
+    "date_updated": 1774620469,
+    "date_posted": 1774620469,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400055242",
+    "locations": [
+      "Leeds, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "23e12c99-ea9d-476f-995a-121799ac3bcf",
+    "title": "Trading Assistant",
+    "active": true,
+    "date_updated": 1774620460,
+    "date_posted": 1774620460,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400055243",
+    "locations": [
+      "Leeds, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "1cf5228e-13fc-4f3d-91d4-61d9bcdb4883",
+    "title": "Trading Assistant",
+    "active": true,
+    "date_updated": 1774620462,
+    "date_posted": 1774620462,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400055272",
+    "locations": [
+      "United Kingdom"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Dominion Energy",
+    "id": "a9f6517c-114e-4575-8417-fa1be7b540cc",
+    "title": "Electric Distribution Planning Modeling Engineer",
+    "active": true,
+    "date_updated": 1774620577,
+    "date_posted": 1774620577,
+    "url": "https://careers.dominionenergy.com/job/RICHMOND-Electric-Distribution-Planning-Modeling-Engineer-VA-23219/1377336800/?ats=successfactors",
+    "locations": [
+      "Richmond, VA"
+    ],
+    "company_url": "https://simplify.jobs/c/Dominion-Energy",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
