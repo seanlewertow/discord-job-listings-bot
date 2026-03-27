@@ -129075,5 +129075,27 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "True Anomaly",
+    "id": "012f8912-e1b8-4cbc-bc55-3467b6abe6d0",
+    "title": "Flight Software Engineer 1",
+    "active": true,
+    "date_updated": 1774584987,
+    "date_posted": 1774573928,
+    "url": "https://job-boards.greenhouse.io/trueanomalyinc/jobs/5090441007",
+    "locations": [
+      "Long Beach, CA",
+      "Denver, CO"
+    ],
+    "company_url": "https://simplify.jobs/c/TrueAnomaly",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
   }
 ]
