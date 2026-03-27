@@ -128878,5 +128878,104 @@
       "Master's",
       "PhD"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Greenheck Group",
+    "id": "40808aa5-b198-4549-b483-4c5b0f4a40f9",
+    "title": "Application Developer 1",
+    "active": true,
+    "date_updated": 1774572719,
+    "date_posted": 1774571307,
+    "url": "https://greenheckgroup.wd5.myworkdayjobs.com/external/job/Remote---Wisconsin/Application-Developer-I_JR103307",
+    "locations": [
+      "Minnesota",
+      "Wisconsin"
+    ],
+    "company_url": "https://simplify.jobs/c/Greenheck-Group",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Associate's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Stryker",
+    "id": "3ad4d069-13db-4f06-af27-4cc1027d4e3e",
+    "title": "Associate Installation Technician",
+    "active": true,
+    "date_updated": 1774571034,
+    "date_posted": 1774571034,
+    "url": "https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Columbus-Ohio/Associate-Installation-Technician---Ohio_R562156",
+    "locations": [
+      "Cleveland, OH",
+      "Columbus, OH"
+    ],
+    "company_url": "https://simplify.jobs/c/Stryker",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Jabil",
+    "id": "de10eb2c-349d-4155-a630-c0e4bdeb2f9c",
+    "title": "NPI Technician",
+    "active": true,
+    "date_updated": 1774571021,
+    "date_posted": 1774571021,
+    "url": "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Florence-KY/NPI-Technician_J2443504-1",
+    "locations": [
+      "Florence, KY"
+    ],
+    "company_url": "https://simplify.jobs/c/Jabil",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Crowdstrike",
+    "id": "6f80ce1a-9e1e-4c38-9070-759d590add0e",
+    "title": "Engineer 1 - Front End - Data Visualization",
+    "active": true,
+    "date_updated": 1774573524,
+    "date_posted": 1774571629,
+    "url": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/Canada---Toronto/Engineer-II---Front-End--Remote--CAN-_R26171",
+    "locations": [
+      "Toronto, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Crowdstrike",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Microchip Technology",
+    "id": "d1fd13c3-a5bc-466e-8b27-9ee7fc370515",
+    "title": "Engineer 1 - Systems",
+    "active": true,
+    "date_updated": 1774573473,
+    "date_posted": 1774571637,
+    "url": "https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/CO---Boulder/Engineer-I---Systems_R1102-26",
+    "locations": [
+      "Boulder, CO"
+    ],
+    "company_url": "https://simplify.jobs/c/Microchip-Technology",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
