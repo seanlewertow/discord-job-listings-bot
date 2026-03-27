@@ -129178,5 +129178,43 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Particle Measuring Systems",
+    "id": "e74737b4-5ac1-4906-83b4-611af17ecbe0",
+    "title": "Service Technician 1",
+    "active": true,
+    "date_updated": 1774617814,
+    "date_posted": 1774591742,
+    "url": "https://spectris.wd3.myworkdayjobs.com/PMS_Careers/job/Niwot-CO/Service-Technician-I_17688",
+    "locations": [
+      "Longmont, CO"
+    ],
+    "company_url": "https://simplify.jobs/c/Particle-Measuring-Systems",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Associate's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "b24c693e-6945-45f7-8918-0b59e8a3bf60",
+    "title": "Trading Assistant",
+    "active": true,
+    "date_updated": 1774591636,
+    "date_posted": 1774591636,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400055099",
+    "locations": [
+      "Croydon, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
