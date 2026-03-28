@@ -129535,5 +129535,25 @@
       "Bachelor's",
       "Master's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Denso",
+    "id": "644a3b81-bf2d-49ef-bb15-ebe18d1ff92e",
+    "title": "Data Scientist 2",
+    "active": true,
+    "date_updated": 1774649019,
+    "date_posted": 1774649019,
+    "url": "https://hcwt.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/23724",
+    "locations": [
+      "Southfield, MI"
+    ],
+    "company_url": "https://simplify.jobs/c/Denso",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
