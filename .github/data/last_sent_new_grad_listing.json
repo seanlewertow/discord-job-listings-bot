@@ -129591,5 +129591,80 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "ec6874c2-9845-4ee4-9c7d-bf49805db890",
+    "title": "Trading Assistant - Shift",
+    "active": true,
+    "date_updated": 1774649224,
+    "date_posted": 1774649224,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400055341",
+    "locations": [
+      "York, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "7c1d3fc4-4366-4682-97d7-0230685f46be",
+    "title": "Trading Assistant",
+    "active": true,
+    "date_updated": 1774649223,
+    "date_posted": 1774649223,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400055306",
+    "locations": [
+      "East Midlands, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Western Digital",
+    "id": "18556f8b-9906-4f4f-8e01-a0f2ba5c7a9a",
+    "title": "Software Development Engineer - Firmware",
+    "active": true,
+    "date_updated": 1774649008,
+    "date_posted": 1774649008,
+    "url": "https://jobs.smartrecruiters.com/WesternDigital/744000117396755",
+    "locations": [
+      "Irvine, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Western-Digital",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Ercot",
+    "id": "de63668d-f07b-49f9-989d-5213eaf32db6",
+    "title": "Software Development Engineer in Test - Software Development Engineer in Test",
+    "active": true,
+    "date_updated": 1774649257,
+    "date_posted": 1774649257,
+    "url": "https://ercot.wd1.myworkdayjobs.com/ercot_careers/job/Taylor-TX/Software-Development-Engineer-in-Test--SDET-_R2231-1",
+    "locations": [
+      "Pflugerville, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Ercot",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
