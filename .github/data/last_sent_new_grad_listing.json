@@ -129573,5 +129573,23 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Royal Bank of Canada",
+    "id": "2318ea55-9ab6-466c-84ab-97dceff781f8",
+    "title": "Data Engineer",
+    "active": true,
+    "date_updated": 1774649153,
+    "date_posted": 1774649153,
+    "url": "https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/TORONTO-Ontario-Canada/Data-Engineer_R-0000160569",
+    "locations": [
+      "Toronto, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Royal-Bank-Of-Canada",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
