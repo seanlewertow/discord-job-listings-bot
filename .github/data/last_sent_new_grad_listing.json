@@ -129684,5 +129684,25 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Aramsco",
+    "id": "4fc94c72-ee28-420e-a0fd-ead78c033716",
+    "title": "Product Maintenance Specialist",
+    "active": true,
+    "date_updated": 1774696037,
+    "date_posted": 1774693299,
+    "url": "https://aramsco.wd1.myworkdayjobs.com/aramscocareers/job/Decatur-IL/USAC--Product-Maintenance-Specialist_JR101581",
+    "locations": [
+      "Decatur, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/Aramsco",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
