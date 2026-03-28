@@ -129666,5 +129666,23 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "CIBC",
+    "id": "cbccc645-eb25-4851-a0d4-d62afdea0642",
+    "title": "Associate STIR Trading",
+    "active": true,
+    "date_updated": 1774694279,
+    "date_posted": 1774649242,
+    "url": "https://cibc.wd3.myworkdayjobs.com/search/job/London-GBR/Associate--STIR-Trading_2607558",
+    "locations": [
+      "London, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/CIBC",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
