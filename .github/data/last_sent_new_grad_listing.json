@@ -130520,5 +130520,23 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "Grid",
+    "id": "4f700a91-cd4b-4413-82f7-cbca934c1707",
+    "title": "Product Manager",
+    "active": true,
+    "date_updated": 1774649201,
+    "date_posted": 1774649201,
+    "url": "https://jobs.lever.co/Grid/0059fb33-9429-4edc-8b70-61a7bfb773ef/apply",
+    "locations": [
+      "SF"
+    ],
+    "company_url": "https://simplify.jobs/c/Grid",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
