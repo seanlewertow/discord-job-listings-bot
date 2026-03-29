@@ -130228,5 +130228,99 @@
       "Bachelor's",
       "Master's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "53235a1c-4d99-4294-aee2-0ff5a491b964",
+    "title": "Trading Assistant",
+    "active": true,
+    "date_updated": 1774735649,
+    "date_posted": 1774735649,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400054971",
+    "locations": [
+      "Stockbridge, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "47555e71-4ca4-4819-bd67-8d8876f900dc",
+    "title": "Trading Assistant - Shift",
+    "active": true,
+    "date_updated": 1774735650,
+    "date_posted": 1774735650,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400055346",
+    "locations": [
+      "Manchester, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "4077c351-0081-4632-98a8-37e5aae13e55",
+    "title": "Trading Assistant",
+    "active": true,
+    "date_updated": 1774735650,
+    "date_posted": 1774735650,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400055440",
+    "locations": [
+      "Edinburgh, UK",
+      "Midlothian, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "ASM International",
+    "id": "bf310b19-eaff-4b3a-94df-ef7962e4f5df",
+    "title": "Engineer \u2013 Field Service",
+    "active": true,
+    "date_updated": 1774748518,
+    "date_posted": 1774660140,
+    "url": "https://www.asm.com/open-vacancies/?gh_jid=4501039101",
+    "locations": [
+      "Phoenix, AZ"
+    ],
+    "company_url": "https://simplify.jobs/c/ASM-International",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "b9b5e6a5-004a-45e9-90c9-910749452b8f",
+    "title": "Trading Assistant",
+    "active": true,
+    "date_updated": 1774735650,
+    "date_posted": 1774735650,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400055416",
+    "locations": [
+      "Ashford District, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
