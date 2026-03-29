@@ -130422,5 +130422,44 @@
       "Bachelor's",
       "Master's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "9e392ead-ec5d-416e-add5-868387658efe",
+    "title": "Trading Assistant",
+    "active": true,
+    "date_updated": 1774735650,
+    "date_posted": 1774735650,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400055401",
+    "locations": [
+      "United Kingdom"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Bristol Myers Squibb",
+    "id": "73d732e9-daa8-4b4a-b17d-e46edfbb0e87",
+    "title": "Associate Director - 340B Technical & Methodology Analytics",
+    "active": true,
+    "date_updated": 1774735745,
+    "date_posted": 1774735745,
+    "url": "https://bristolmyerssquibb.wd5.myworkdayjobs.com/bms/job/Princeton---NJ---US/Associate-Director--340B-Technical---Methodology-Analytics_R1599843",
+    "locations": [
+      "Washington, DC",
+      "Princeton, NJ"
+    ],
+    "company_url": "https://simplify.jobs/c/Bristol-Myers-Squibb",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
