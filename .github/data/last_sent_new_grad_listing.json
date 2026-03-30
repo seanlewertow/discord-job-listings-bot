@@ -131014,5 +131014,98 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "44c3afcb-96b0-4166-840c-db94d56e9a90",
+    "title": "Trading Assistant",
+    "active": true,
+    "date_updated": 1774880461,
+    "date_posted": 1774879754,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400055560",
+    "locations": [
+      "Birmingham, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "1ae458eb-8f03-4328-b144-a3e574594beb",
+    "title": "Trading Assistant - Shift",
+    "active": true,
+    "date_updated": 1774880461,
+    "date_posted": 1774879753,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400055587",
+    "locations": [
+      "Portsmouth, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Intel",
+    "id": "faa89cde-7be3-4878-a129-cfb337867b99",
+    "title": "SOC Design Verification Engineer",
+    "active": true,
+    "date_updated": 1774880878,
+    "date_posted": 1774879658,
+    "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/Virtual-US/SOC-Design-Verification-Engineer_JR0280834",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/Intel",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Unison Infrastructure",
+    "id": "91ef92eb-1006-4e44-876c-19cd894c07d1",
+    "title": "Data Analyst",
+    "active": true,
+    "date_updated": 1774880773,
+    "date_posted": 1774879619,
+    "url": "https://jobs.lever.co/unisoninfra/5a2afab0-427a-44a2-bf12-4da8282465fa/apply",
+    "locations": [
+      "London, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Unison-Infrastructure",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "80000bae-eb5d-4695-b886-f34cf99f6bc7",
+    "title": "Trading Assistant",
+    "active": true,
+    "date_updated": 1774880461,
+    "date_posted": 1774879752,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400054020",
+    "locations": [
+      "Portadown, Craigavon, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
