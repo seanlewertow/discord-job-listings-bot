@@ -130718,5 +130718,108 @@
     "degrees": [
       "Master's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "University of Texas at Austin",
+    "id": "41d690ba-a328-481e-87a4-a010f56e469d",
+    "title": "Postdoctoral Fellow",
+    "active": true,
+    "date_updated": 1774842442,
+    "date_posted": 1774689321,
+    "url": "https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/UT-MAIN-CAMPUS/Postdoctoral-Fellow_R_00009657",
+    "locations": [
+      "Austin, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/University-Of-Texas-Austin",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "PhD"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Daikin Applied",
+    "id": "801992fe-ac31-4e16-9e50-88bfd694bc33",
+    "title": "Product Engineer",
+    "active": true,
+    "date_updated": 1774649252,
+    "date_posted": 1774649252,
+    "url": "https://daikinapplied.wd1.myworkdayjobs.com/Daikin-Careers/job/Staunton-VA-24402/Product-Engineer_R000396-2",
+    "locations": [
+      "Verona, VA"
+    ],
+    "company_url": "https://simplify.jobs/c/Daikin-Applied",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "GE Aerospace",
+    "id": "670550fc-9d27-4cfa-a143-df25ba650dff",
+    "title": "Edison Engineering Development Program - Systems - Computer Engineering/Science",
+    "active": true,
+    "date_updated": 1774850893,
+    "date_posted": 1774850893,
+    "url": "https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Grand-Rapids/Edison-Engineering-Development-Program--EEDP--Systems---Computer-Engineering-Science---US---2027-Start_R5031091-1",
+    "locations": [
+      "Dayton, OH",
+      "Grand Rapids, MI",
+      "Clearwater, FL"
+    ],
+    "company_url": "https://simplify.jobs/c/GE-Aerospace",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "3e1aabb3-f5a5-4445-87e1-974d15bee848",
+    "title": "Trading Assistant - Shift",
+    "active": true,
+    "date_updated": 1774850832,
+    "date_posted": 1774850832,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400055544",
+    "locations": [
+      "Northamptonshire, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "GE Aerospace",
+    "id": "3b47c328-0176-431a-949d-2f90f9911595",
+    "title": "Edison Engineering Development Program - Engines - Computer Engineering/Science",
+    "active": true,
+    "date_updated": 1774850893,
+    "date_posted": 1774850893,
+    "url": "https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Evendale/Edison-Engineering-Development-Program--EEDP--Engines---Computer-Engineering-Science---US---2026-Start_R5031077-1",
+    "locations": [
+      "Sharonville, OH",
+      "Saugus, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/GE-Aerospace",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
   }
 ]
