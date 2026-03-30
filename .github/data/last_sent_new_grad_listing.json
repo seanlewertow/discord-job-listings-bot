@@ -130839,5 +130839,61 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Booz Allen",
+    "id": "f8fbb94a-11c8-4808-ab10-498295d9e157",
+    "title": "Data Scientist",
+    "active": true,
+    "date_updated": 1773269866,
+    "date_posted": 1773269866,
+    "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Monterey-CA/Data-Scientist_R0235523",
+    "locations": [
+      "Monterey, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Booz-Allen",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "date_updated": 1774862402,
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "degrees": [],
+    "url": "https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/22482",
+    "company_name": "Fortinet",
+    "title": "Associate Software Engineer (AI Agent Developer)",
+    "locations": [
+      "Sunnyvale, CA"
+    ],
+    "category": "Software Engineering",
+    "source": "Devonav",
+    "id": "1b2f0c70-b45d-421c-ac5e-a9eff5d0fd72",
+    "date_posted": 1774862402,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1774862590,
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "degrees": [],
+    "url": "https://www.turningpoint-healthcare.com/careers?gnk=job&gni=8a7885a89d02e553019d1c5d04ba00a1&gns=LinkedIn%2BLimited",
+    "company_name": "TurningPoint Healthcare Solutions",
+    "title": "AI Prompt Designer I",
+    "locations": [
+      "Lake Mary, FL"
+    ],
+    "category": "Data Science, AI & Machine Learning",
+    "source": "Devonav",
+    "id": "c981fb14-28e9-40df-be47-c84d940ba4bf",
+    "date_posted": 1774862590,
+    "company_url": "",
+    "is_visible": true
   }
 ]
