@@ -131127,5 +131127,46 @@
     "degrees": [
       "PhD"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "RTX",
+    "id": "ae1162c8-2cc4-45f0-9bbd-1ebd452d87fc",
+    "title": "Raytheon Full Time - Systems Engineer II",
+    "active": true,
+    "date_updated": 1774776808,
+    "date_posted": 1774693503,
+    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-RI-PORTSMOUTH-PS1--1847-W-Main-Rd--NIMITZ-BLDG/XMLNAME-2026-Raytheon-Full-Time---Systems-Engineer-II---Portsmouth--RI--Onsite-_01834033",
+    "locations": [
+      "Bristol, RI"
+    ],
+    "company_url": "https://simplify.jobs/c/RTX",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Montrose Environmental Group",
+    "id": "78e038af-d446-4729-9eb4-85f93edfbdd8",
+    "title": "Entry-Level Data Management Professional - Environmental Chemistry",
+    "active": true,
+    "date_updated": 1774693696,
+    "date_posted": 1774693696,
+    "url": "https://montrose.wd1.myworkdayjobs.com/meg/job/USA-PA-Valley-Forge/Entry-Level-Data-Management-Professional--Environmental-Chemistry-_R8079",
+    "locations": [
+      "Remote in USA",
+      "Phoenixville, PA"
+    ],
+    "company_url": "https://simplify.jobs/c/Montrose-Environmental-Group",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
