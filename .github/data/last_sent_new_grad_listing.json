@@ -130895,5 +130895,27 @@
     "date_posted": 1774862590,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Universal Music Group",
+    "id": "7c645b11-38e6-4fbd-b5ac-e03146eade38",
+    "title": "Analyst \u2013 Insights & Strategy",
+    "active": true,
+    "date_updated": 1774865701,
+    "date_posted": 1774093133,
+    "url": "https://umusic.wd5.myworkdayjobs.com/en-US/UMGUS/job/Santa-Monica-California/Analyst--Insights---Strategy_UMG-25066",
+    "locations": [
+      "Santa Monica, CA",
+      "Philadelphia, PA",
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Universal-Music-Group",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
