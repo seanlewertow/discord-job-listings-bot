@@ -130976,5 +130976,43 @@
       "Bachelor's",
       "Master's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "3eaea7c2-1f49-45e8-a2be-dcd4655120e6",
+    "title": "Trading Assistant",
+    "active": true,
+    "date_updated": 1774880461,
+    "date_posted": 1774879754,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400055605",
+    "locations": [
+      "Brighton, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Ivanti",
+    "id": "45f365a8-aa45-4a7f-b3d3-36c847d42727",
+    "title": "Entry Level Data Analyst",
+    "active": true,
+    "date_updated": 1774879381,
+    "date_posted": 1774879363,
+    "url": "https://job-boards.greenhouse.io/a3c41b8b71eff8c4/jobs/7681918003",
+    "locations": [
+      "South Jordan, UT"
+    ],
+    "company_url": "https://simplify.jobs/c/Ivanti",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
