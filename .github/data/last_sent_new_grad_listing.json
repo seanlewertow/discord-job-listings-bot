@@ -130618,5 +130618,105 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Pennsylvania State University",
+    "id": "71973fe1-03be-4cbe-96ff-1e5d829ffae8",
+    "title": "Postdoctoral Scholar",
+    "active": true,
+    "date_updated": 1774649350,
+    "date_posted": 1774649350,
+    "url": "https://psu.wd1.myworkdayjobs.com/PSU_Academic/job/Penn-State-University-Park/Postdoctoral-Scholar_REQ_0000076040-1",
+    "locations": [
+      "State College, PA"
+    ],
+    "company_url": "https://simplify.jobs/c/Pennsylvania-State-University",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "PhD"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Vantor",
+    "id": "b2d8d486-3bc0-4ca7-9783-3239a563645a",
+    "title": "Research Analyst",
+    "active": true,
+    "date_updated": 1774691269,
+    "date_posted": 1774691269,
+    "url": "https://maxar.wd1.myworkdayjobs.com/Vantor/job/Tampa-FL/Intelligence-Analyst_R23548",
+    "locations": [
+      "Tampa, FL"
+    ],
+    "company_url": "https://simplify.jobs/c/Vantor",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "University of Southern California",
+    "id": "9af75743-2cd1-42b4-93e3-ccff68405dfc",
+    "title": "Postdoctoral Scholar - Research Associate",
+    "active": true,
+    "date_updated": 1774688740,
+    "date_posted": 1774688740,
+    "url": "https://usc.wd5.myworkdayjobs.com/ExternalUSCCareers/job/Los-Angeles-CA---University-Park-Campus/Postdoctoral-Scholar---Research-Associate_REQ20161632",
+    "locations": [
+      "LA"
+    ],
+    "company_url": "https://simplify.jobs/c/University-Of-Southern-California",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "PhD"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Pennsylvania State University",
+    "id": "95179e28-03f0-4005-94ef-1640d1556201",
+    "title": "Postdoctoral Scholar",
+    "active": true,
+    "date_updated": 1774693824,
+    "date_posted": 1774693824,
+    "url": "https://psu.wd1.myworkdayjobs.com/PSU_Academic/job/Penn-State-University-Park/Postdoctoral-Scholar_REQ_0000053155-1",
+    "locations": [
+      "State College, PA"
+    ],
+    "company_url": "https://simplify.jobs/c/Pennsylvania-State-University",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "PhD"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "JP Morgan Chase",
+    "id": "67b88524-8836-4e7c-b201-932c09380678",
+    "title": "Risk Management-Wholesale Credit Risk Associate",
+    "active": true,
+    "date_updated": 1774649206,
+    "date_posted": 1774649206,
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210718437",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/JP-Morgan-Chase",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Master's"
+    ]
   }
 ]
