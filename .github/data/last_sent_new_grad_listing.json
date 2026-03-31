@@ -131636,5 +131636,104 @@
       "Bachelor's",
       "Master's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Artech Information System",
+    "id": "a792a516-e26c-41c2-a14d-9e46d6c6472d",
+    "title": "Dataiku DSS Practitioner",
+    "active": true,
+    "date_updated": 1774949401,
+    "date_posted": 1755046304,
+    "url": "https://jobs.smartrecruiters.com/ArtechInformationSystemLLC/743999659427222",
+    "locations": [
+      "Bedminster, NJ"
+    ],
+    "company_url": "https://simplify.jobs/c/Artech-Information-System",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "BCforward",
+    "id": "46a77194-f12c-4547-8132-1cdef59fbcb7",
+    "title": "VNF Systems Engineer",
+    "active": true,
+    "date_updated": 1774949401,
+    "date_posted": 1771484660,
+    "url": "https://jobs.smartrecruiters.com/BCforward3/94082803",
+    "locations": [
+      "SF",
+      "Jackson Township, NJ",
+      "San Ramon, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/BCforward",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Career Guidant",
+    "id": "d2f2d820-b9ed-43d7-81be-81b881a00689",
+    "title": "Kofax Developer",
+    "active": true,
+    "date_updated": 1774949401,
+    "date_posted": 1771571512,
+    "url": "https://jobs.smartrecruiters.com/CareerGuidant/108467613",
+    "locations": [
+      "Minneapolis, MN"
+    ],
+    "company_url": "https://simplify.jobs/c/Career-Guidant",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "BCforward",
+    "id": "1fcdfa06-edd1-4eac-80b6-66d6edfed3f1",
+    "title": "Designer/Drafter",
+    "active": true,
+    "date_updated": 1774951276,
+    "date_posted": 1771484668,
+    "url": "https://jobs.smartrecruiters.com/BCforward3/99893919",
+    "locations": [
+      "Roanoke, VA"
+    ],
+    "company_url": "https://simplify.jobs/c/BCforward",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Associate's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "AG Technologies",
+    "id": "a7f9b279-19f7-4863-9a88-ee25ccf54846",
+    "title": "Sharepoint Openings",
+    "active": true,
+    "date_updated": 1774953001,
+    "date_posted": 1755045768,
+    "url": "https://jobs.smartrecruiters.com/AGTechnologies1/95502452",
+    "locations": [
+      "Dallas, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/AG-Technologies",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
   }
 ]
