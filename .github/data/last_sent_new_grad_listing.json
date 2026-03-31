@@ -132055,5 +132055,63 @@
     "degrees": [
       "PhD"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Procom",
+    "id": "a5995301-f54d-451b-8856-1633d28624ef",
+    "title": "Web Developer",
+    "active": true,
+    "date_updated": 1774975141,
+    "date_posted": 1772003771,
+    "url": "https://jobs.smartrecruiters.com/ProcomConsultantsGroup/88630319",
+    "locations": [
+      "Chandler, AZ"
+    ],
+    "company_url": "https://simplify.jobs/c/Procom",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "Mindlance",
+    "id": "068c5fee-26f7-4a95-99b5-995267dbf0df",
+    "title": "Digital Marketing or Technology/ Project Assistant",
+    "active": true,
+    "date_updated": 1774975141,
+    "date_posted": 1771986074,
+    "url": "https://jobs.smartrecruiters.com/Mindlance2/90941747",
+    "locations": [
+      "Livingston, NJ"
+    ],
+    "company_url": "https://simplify.jobs/c/Mindlance",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Myriad Genetics",
+    "id": "c112be05-b84b-4171-a4f6-6179189e0a5d",
+    "title": "Genetic Data Analyst",
+    "active": true,
+    "date_updated": 1774975141,
+    "date_posted": 1771985590,
+    "url": "https://jobs.smartrecruiters.com/MyriadGenetics1/743999837980179",
+    "locations": [
+      "Salt Lake City, UT"
+    ],
+    "company_url": "https://simplify.jobs/c/Myriad-Genetics",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "PhD"
+    ]
   }
 ]
