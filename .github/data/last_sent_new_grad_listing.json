@@ -132153,5 +132153,97 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "System Canada Technologies",
+    "id": "bb5bd22a-f70d-4534-b640-5d02acb5db88",
+    "title": "Java/J2EE Developer with FLEX",
+    "active": true,
+    "date_updated": 1774981621,
+    "date_posted": 1772676225,
+    "url": "https://jobs.smartrecruiters.com/systemCanadaTechnologies/71325841",
+    "locations": [
+      "Montreal, QC, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/System-Canada-Technologies",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "USM Business Systems",
+    "id": "4de30a95-06e9-4794-88de-8fc4a06f6850",
+    "title": "Qlikview Developer",
+    "active": true,
+    "date_updated": 1774981261,
+    "date_posted": 1772205303,
+    "url": "https://jobs.smartrecruiters.com/USM2/101321655",
+    "locations": [
+      "Dublin, OH"
+    ],
+    "company_url": "https://simplify.jobs/c/USM-Business-Systems",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Sonsoft",
+    "id": "39418ce9-14df-4791-8fce-4cfac239925f",
+    "title": "Tableau Administrator",
+    "active": true,
+    "date_updated": 1774981430,
+    "date_posted": 1772091080,
+    "url": "https://jobs.smartrecruiters.com/SonsoftInc/98814597",
+    "locations": [
+      "Lone Tree, CO"
+    ],
+    "company_url": "https://simplify.jobs/c/Sonsoft",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Jobsbridge",
+    "id": "30ff83fb-ec43-4852-b9c3-a104a3c93fc8",
+    "title": "Back End Engineer",
+    "active": true,
+    "date_updated": 1774962361,
+    "date_posted": 1771917618,
+    "url": "https://jobs.smartrecruiters.com/Jobsbridge1/89836619",
+    "locations": [
+      "Orlando, FL"
+    ],
+    "company_url": "https://simplify.jobs/c/Jobsbridge",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Infojini",
+    "id": "39ea452c-6625-480d-8bf6-48b4c3fcbc0e",
+    "title": "NET Developer",
+    "active": true,
+    "date_updated": 1774968494,
+    "date_posted": 1771917313,
+    "url": "https://jobs.smartrecruiters.com/InfojiniInc1/84832746",
+    "locations": [
+      "Battle Creek, MI"
+    ],
+    "company_url": "https://simplify.jobs/c/Infojini",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
