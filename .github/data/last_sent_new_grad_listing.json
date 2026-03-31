@@ -131579,5 +131579,41 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Sonsoft",
+    "id": "25ef13b9-71eb-44b9-aa00-bcbab1002542",
+    "title": "AWS Cloud/Azure - ReactJS",
+    "active": true,
+    "date_updated": 1774945981,
+    "date_posted": 1772090959,
+    "url": "https://jobs.smartrecruiters.com/SonsoftInc/108597158",
+    "locations": [
+      "Columbus, IN"
+    ],
+    "company_url": "https://simplify.jobs/c/Sonsoft",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Atria Group",
+    "id": "24c6a8ee-dffa-4ef6-b866-bbdf5be3cd1f",
+    "title": "Drupal Developer",
+    "active": true,
+    "date_updated": 1774946341,
+    "date_posted": 1771485174,
+    "url": "https://jobs.smartrecruiters.com/AtriaGroupLLC/84938942",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Atria-Group",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
