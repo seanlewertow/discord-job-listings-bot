@@ -132113,5 +132113,45 @@
     "degrees": [
       "PhD"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Saxon Global",
+    "id": "ff5eb60f-ea2d-43d7-971e-fd3ac3915d43",
+    "title": "PHP Developer",
+    "active": true,
+    "date_updated": 1774978954,
+    "date_posted": 1772090283,
+    "url": "https://jobs.smartrecruiters.com/SaxonGlobal/90170879",
+    "locations": [
+      "Westchester County, NY"
+    ],
+    "company_url": "https://simplify.jobs/c/Saxon-Global",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Sonsoft",
+    "id": "8fc02c15-dba2-46e1-b020-fc0badf93c0c",
+    "title": "Perl Developer - Java - Sybase DB",
+    "active": true,
+    "date_updated": 1774981261,
+    "date_posted": 1772091095,
+    "url": "https://jobs.smartrecruiters.com/SonsoftInc/96175145",
+    "locations": [
+      "Stamford, CT"
+    ],
+    "company_url": "https://simplify.jobs/c/Sonsoft",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
