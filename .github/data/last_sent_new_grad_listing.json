@@ -131615,5 +131615,26 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Jobsbridge",
+    "id": "757ce436-c079-46f1-abe2-6fc73ff48bab",
+    "title": "Java Engineer",
+    "active": true,
+    "date_updated": 1774947601,
+    "date_posted": 1771917498,
+    "url": "https://jobs.smartrecruiters.com/Jobsbridge1/94275302",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Jobsbridge",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
   }
 ]
