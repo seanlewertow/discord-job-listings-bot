@@ -131776,5 +131776,105 @@
       "Associate's",
       "Certificate"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "DTCC",
+    "id": "d6027c6f-d990-44c4-8bac-8a0ae621d2cc",
+    "title": "Technology Analyst",
+    "active": true,
+    "date_updated": 1774953001,
+    "date_posted": 1756333993,
+    "url": "https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/211406",
+    "locations": [
+      "Tampa, FL",
+      "Dallas, TX",
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/DTCC",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "AG Technologies",
+    "id": "cb2dcb0c-341a-4050-85ce-b6e4f51b1c13",
+    "title": "Java Android Informatica Full Stack Developer",
+    "active": true,
+    "date_updated": 1774953859,
+    "date_posted": 1755195294,
+    "url": "https://jobs.smartrecruiters.com/AGTechnologies1/98941869",
+    "locations": [
+      "Dallas, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/AG-Technologies",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "AG Technologies",
+    "id": "fb1a0403-fde5-499b-90cc-a9a9cc24d762",
+    "title": "Software Engineer",
+    "active": true,
+    "date_updated": 1774958569,
+    "date_posted": 1754987489,
+    "url": "https://jobs.smartrecruiters.com/AGTechnologies1/743999656593811",
+    "locations": [
+      "Denver, CO"
+    ],
+    "company_url": "https://simplify.jobs/c/AG-Technologies",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "JP Morgan Chase",
+    "id": "841f3a2e-94ce-47b8-855b-d708b71ff87e",
+    "title": "Product Manager - Product Manager - Associate",
+    "active": true,
+    "date_updated": 1774965633,
+    "date_posted": 1773094244,
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210712043",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/JP-Morgan-Chase",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Acumen Solutions",
+    "id": "3070e973-0914-4ad2-9a46-b55d936867d9",
+    "title": "Data Analyst",
+    "active": true,
+    "date_updated": 1774959121,
+    "date_posted": 1771427970,
+    "url": "https://jobs.smartrecruiters.com/AcumenSolutions/83336667",
+    "locations": [
+      "McLean, VA"
+    ],
+    "company_url": "https://simplify.jobs/c/Acumen-Solutions",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
