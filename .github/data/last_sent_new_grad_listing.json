@@ -132344,5 +132344,84 @@
       "Bachelor's",
       "Master's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Thermo Fisher Scientific",
+    "id": "ba2211a6-3041-48aa-9111-edebe44105f2",
+    "title": "Field Service Engineer 1 - Asset Management",
+    "active": true,
+    "date_updated": 1774999551,
+    "date_posted": 1774479122,
+    "url": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/West-Greenwich-Rhode-Island-USA/Field-Service-Engineer-I--Asset-Management-_R-01345001",
+    "locations": [
+      "Rhode Island"
+    ],
+    "company_url": "https://simplify.jobs/c/Thermo-Fisher-Scientific",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Myriad Genetics",
+    "id": "ff15c2bc-1077-41af-8f3d-82ca650e91e2",
+    "title": "Clinical Data Analyst",
+    "active": true,
+    "date_updated": 1774985941,
+    "date_posted": 1774390935,
+    "url": "https://ekgn.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/5920",
+    "locations": [
+      "Salt Lake City, UT"
+    ],
+    "company_url": "https://simplify.jobs/c/Myriad-Genetics",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Jobs for Humanity",
+    "id": "edd83739-5e69-487e-9312-b2a62a82b91e",
+    "title": "Data Analyst",
+    "active": true,
+    "date_updated": 1774985941,
+    "date_posted": 1774304778,
+    "url": "https://jobs.smartrecruiters.com/JobsForHumanity/744000116216738",
+    "locations": [
+      "Manchester, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Jobs-For-Humanity",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Lawrence Livermore National Laboratory (LLNL)",
+    "id": "2d79bc73-d115-4852-8db7-1ff1f64b155a",
+    "title": "Machine Learning - Postdoctoral Researcher",
+    "active": true,
+    "date_updated": 1774985941,
+    "date_posted": 1774083837,
+    "url": "https://jobs.smartrecruiters.com/LLNL/3743990012255026",
+    "locations": [
+      "Livermore, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/LLNL",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "PhD"
+    ]
   }
 ]
