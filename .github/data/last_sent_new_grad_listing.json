@@ -131478,5 +131478,106 @@
     "date_posted": 1774935460,
     "company_url": "",
     "is_visible": true
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Leidos",
+    "id": "5b095740-9bc3-4d65-a179-3023a52944d0",
+    "title": "Mid-level Software Engineer - Transportation/Computer Vision",
+    "active": true,
+    "date_updated": 1774939121,
+    "date_posted": 1774937366,
+    "url": "https://leidos.wd5.myworkdayjobs.com/External/job/McLean-VA/mid-level-Software-Engineer--Transportation-Computer-Vision-_R-00177044-1",
+    "locations": [
+      "McLean, VA"
+    ],
+    "company_url": "https://simplify.jobs/c/Leidos",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Allied Solutions",
+    "id": "4e1c7bc6-4806-4bfb-b0dd-4b29ecbff5cb",
+    "title": "Data Integration Analyst 1",
+    "active": true,
+    "date_updated": 1774939987,
+    "date_posted": 1774937368,
+    "url": "https://alliedsolutions.wd501.myworkdayjobs.com/Allied_External/job/Carmel-IN/Data-Integration-Analyst-I_R-010658",
+    "locations": [
+      "Carmel, IN"
+    ],
+    "company_url": "https://simplify.jobs/c/Allied-Solutions",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "White Cap Supply Holdings",
+    "id": "d7015769-eeda-432e-824a-e332e3be00ae",
+    "title": "Application Engineer",
+    "active": true,
+    "date_updated": 1774939861,
+    "date_posted": 1774937360,
+    "url": "https://whitecap.wd1.myworkdayjobs.com/careers/job/Orlando_32822/Application-Engineer_WCJR-031500-1",
+    "locations": [
+      "Orlando, FL"
+    ],
+    "company_url": "https://simplify.jobs/c/White-Cap-Supply-Holdings",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Northrop Grumman",
+    "id": "56df5dae-74b6-4852-b88d-69c3ffa65135",
+    "title": "Software Engineer / Principal Software Engineer",
+    "active": true,
+    "date_updated": 1774940110,
+    "date_posted": 1774937356,
+    "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Corinne/Software-Engineer--Principal-Software-Engineer_R10227765",
+    "locations": [
+      "Box Elder County, UT"
+    ],
+    "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "SourceDirect Talent",
+    "id": "08c705ca-04ce-417a-8f8b-9a0998c91224",
+    "title": "Senior Full Stack Software Engineer",
+    "active": true,
+    "date_updated": 1774938241,
+    "date_posted": 1772157822,
+    "url": "https://jobs.smartrecruiters.com/SourceDirectTalent/743999890004030",
+    "locations": [
+      "Long Beach, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/SourceDirect-Talent",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
