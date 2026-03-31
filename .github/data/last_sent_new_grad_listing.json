@@ -132245,5 +132245,104 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Visa",
+    "id": "2d5833d5-8685-46e5-af14-8872e1933def",
+    "title": "Senior SW Engineer",
+    "active": true,
+    "date_updated": 1774992470,
+    "date_posted": 1773180945,
+    "url": "https://jobs.smartrecruiters.com/Visa/744000113762566",
+    "locations": [
+      "San Mateo, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Visa",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Adobe",
+    "id": "f2a59cd3-fbf5-48ff-be4b-c41d4181142c",
+    "title": "Software Development Engineer",
+    "active": true,
+    "date_updated": 1774981621,
+    "date_posted": 1773097817,
+    "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Lehi/Software-Development-Engineer_R166371",
+    "locations": [
+      "Lehi, UT"
+    ],
+    "company_url": "https://simplify.jobs/c/Adobe",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Lawrence Livermore National Laboratory (LLNL)",
+    "id": "50e290f2-5263-4bb2-8da2-6e1cac64ce95",
+    "title": "Deep Learning for Earth System Modeling Evaluation - Postdoctoral Researcher",
+    "active": true,
+    "date_updated": 1774981621,
+    "date_posted": 1773091936,
+    "url": "https://jobs.smartrecruiters.com/LLNL/3743990012040448",
+    "locations": [
+      "Livermore, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/LLNL",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "PhD"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "USM Business Systems",
+    "id": "34d51f0c-8df3-4782-82a5-3a19a709eb6d",
+    "title": "Qlikview Developer - Need GC and USC",
+    "active": true,
+    "date_updated": 1774981261,
+    "date_posted": 1772205307,
+    "url": "https://jobs.smartrecruiters.com/USM2/101237816",
+    "locations": [
+      "Dublin, OH"
+    ],
+    "company_url": "https://simplify.jobs/c/USM-Business-Systems",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Direct Staffing",
+    "id": "bca244fa-4344-4670-8425-006e5abffddf",
+    "title": "Android Developer",
+    "active": true,
+    "date_updated": 1774962361,
+    "date_posted": 1771830928,
+    "url": "https://jobs.smartrecruiters.com/dstaff/83237720",
+    "locations": [
+      "Culver City, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Direct-Staffing",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
   }
 ]
