@@ -132817,5 +132817,88 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Uline",
+    "id": "3d68a30a-72e2-4ba4-a0c2-7a8131abf8e8",
+    "title": "Data Analyst",
+    "active": true,
+    "date_updated": 1775035621,
+    "date_posted": 1775035094,
+    "url": "https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/Data-Analyst_R262681-1",
+    "locations": [
+      "Waukegan, IL",
+      "Milwaukee, WI",
+      "Pleasant Prairie, WI",
+      "Morton Grove, IL",
+      "Kenosha, WI"
+    ],
+    "company_url": "https://simplify.jobs/c/Uline",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Nuro",
+    "id": "38ccf520-12c9-4ab8-8add-1532097ac148",
+    "title": "Associate Fleet Technician",
+    "active": true,
+    "date_updated": 1775038321,
+    "date_posted": 1773912231,
+    "url": "https://nuro.ai/careersitem?gh_jid=7442056",
+    "locations": [
+      "San Bruno, CA",
+      "Santa Clara, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Nuro",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "State Street",
+    "id": "e849e22c-89d3-435c-a881-fb4742eb897b",
+    "title": "Product Support",
+    "active": true,
+    "date_updated": 1775037618,
+    "date_posted": 1771697176,
+    "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Burlington-Massachusetts/Application--Infastructure-and-Service-Management_R-780784-1",
+    "locations": [
+      "Burlington, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/State-Street",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Fortinet",
+    "id": "e78c4335-933f-4f16-93a1-18e9dc5fb4c1",
+    "title": "Applied AI Engineer \u2013 PhD New Graduate - AI Agent",
+    "active": true,
+    "date_updated": 1775037618,
+    "date_posted": 1770851900,
+    "url": "https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/22124",
+    "locations": [
+      "Sunnyvale, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Fortinet",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "PhD"
+    ]
   }
 ]
