@@ -133075,5 +133075,99 @@
     "degrees": [
       "Associate's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "ServiceNow",
+    "id": "816c293d-d4a6-46d5-9ac5-a006b289cff8",
+    "title": "Software Engineer",
+    "active": true,
+    "date_updated": 1775083861,
+    "date_posted": 1775081117,
+    "url": "https://jobs.smartrecruiters.com/ServiceNow/744000118229445",
+    "locations": [
+      "Santa Clara, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/ServiceNow",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "PulteGroup",
+    "id": "91a9dca6-8e6c-4a99-9d3c-2f8dc919aebc",
+    "title": "Associate Developer",
+    "active": true,
+    "date_updated": 1775083861,
+    "date_posted": 1775081069,
+    "url": "https://pultegroup.wd1.myworkdayjobs.com/PGI/job/Tempe-AZ/Associate-Developer_JR8815-1",
+    "locations": [
+      "Tempe, AZ"
+    ],
+    "company_url": "https://simplify.jobs/c/PulteGroup",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Best Buy",
+    "id": "6551f0ad-17f3-4ddc-98d5-837ac392fc61",
+    "title": "Store Technical Service Representative",
+    "active": true,
+    "date_updated": 1775083861,
+    "date_posted": 1775081116,
+    "url": "https://bestbuycanada.wd3.myworkdayjobs.com/BestBuyCA_Career/job/11980-North-London/Store-Technical-Service-Representative--Part-Time-_R-49838",
+    "locations": [
+      "London, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Best-Buy",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Yale University",
+    "id": "157b82c5-25bf-40d1-97ee-af63100e0b6f",
+    "title": "IT - Software Engineer",
+    "active": true,
+    "date_updated": 1775084240,
+    "date_posted": 1775081148,
+    "url": "https://yale.wd1.myworkdayjobs.com/terminated_layoff_external_career_site/job/Whitney-Ave-221/IT--Software-Engineer_133530WD-1",
+    "locations": [
+      "New Haven, CT"
+    ],
+    "company_url": "https://simplify.jobs/c/Yale-University",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "The Bergaila Companies",
+    "id": "09a39ce1-904e-4c63-bc98-93ae9b1601d9",
+    "title": "SAP Master Data Technician",
+    "active": true,
+    "date_updated": 1775083861,
+    "date_posted": 1775081149,
+    "url": "https://careers-bergaila.icims.com/jobs/12827/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Fort Lupton, CO"
+    ],
+    "company_url": "https://simplify.jobs/c/The-Bergaila-Companies",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
