@@ -132720,5 +132720,102 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "GovSignals",
+    "id": "37c46199-78e6-4b60-9679-3a53fdb4cf5a",
+    "title": "Product Engineer",
+    "active": true,
+    "date_updated": 1775035621,
+    "date_posted": 1770793814,
+    "url": "https://jobs.ashbyhq.com/GovSignals/935e94f7-1e15-4b90-8005-1522fc9baadc/application",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/GovSignals",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Northeastern University",
+    "id": "928da4e1-e6b1-46f4-8582-2a99f0a6de26",
+    "title": "Postdoctoral Research Fellow",
+    "active": true,
+    "date_updated": 1775039081,
+    "date_posted": 1774691013,
+    "url": "https://northeastern.wd1.myworkdayjobs.com/careers/job/Portland-ME/Postdoctoral-Research-Fellow_R121824",
+    "locations": [
+      "Portland, ME"
+    ],
+    "company_url": "https://simplify.jobs/c/Northeastern-University",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "PhD"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "GE Healthcare",
+    "id": "4d9d30f9-e9d9-46f7-9561-f39c4505a561",
+    "title": "Field Service Engineer 1 Nuclear/CT/PETCT",
+    "active": true,
+    "date_updated": 1775038705,
+    "date_posted": 1774571625,
+    "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Service-Engineer-1-Nuclear-CT-PETCT---Salt-Lake-City--UT_R4038549-1",
+    "locations": [
+      "Salt Lake City, UT"
+    ],
+    "company_url": "https://simplify.jobs/c/GE-Healthcare",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Associate's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Quest Global",
+    "id": "875a6c36-5b86-4537-83d0-74d0d730116a",
+    "title": "Data Analyst - 8 Months",
+    "active": true,
+    "date_updated": 1775038683,
+    "date_posted": 1774045613,
+    "url": "https://careers.quest-global.com/global/en/job/P-116948",
+    "locations": [
+      "Vandalia, OH"
+    ],
+    "company_url": "https://simplify.jobs/c/Quest-Global",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Fortinet",
+    "id": "2cffa18e-22e5-404c-959e-db78d84ecbda",
+    "title": "Applied AI Engineer - AI Agent",
+    "active": true,
+    "date_updated": 1775038587,
+    "date_posted": 1770851386,
+    "url": "https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/22125",
+    "locations": [
+      "Sunnyvale, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Fortinet",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
