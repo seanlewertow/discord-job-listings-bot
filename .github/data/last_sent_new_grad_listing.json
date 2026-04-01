@@ -132619,5 +132619,106 @@
     "degrees": [
       "Master's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "ByteDance",
+    "id": "66729d57-3a29-40b5-8252-a50252c674ee",
+    "title": "Research Scientist in Large Language Model - Seed - Large Language Model",
+    "active": true,
+    "date_updated": 1775025695,
+    "date_posted": 1775023744,
+    "url": "https://jobs.bytedance.com/en/position/7623525222555961605/detail",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/ByteDance",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "PhD"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "TikTok",
+    "id": "48be2a44-56ee-44d7-9686-82e5c633338a",
+    "title": "Machine Learning Engineer Graduate - Global E-commerce Recommendation/Search",
+    "active": true,
+    "date_updated": 1775025181,
+    "date_posted": 1775024031,
+    "url": "https://lifeattiktok.com/search/7550436740058581255",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/TikTok",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Brookhaven Lab",
+    "id": "2cfba348-3a8a-44c3-804e-b7ade19789b2",
+    "title": "Post Doctoral Research Associate - Nuclear Data",
+    "active": true,
+    "date_updated": 1775025581,
+    "date_posted": 1775023638,
+    "url": "https://bnl.wd1.myworkdayjobs.com/externa/job/Upton-NY/Post-Doctoral-Reasearch-Associate--Nuclear-Data_JR102298",
+    "locations": [
+      "Shirley, NY"
+    ],
+    "company_url": "https://simplify.jobs/c/Brookhaven-Lab",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "PhD"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "ByteDance",
+    "id": "2376dac8-17ba-4686-b74d-7e91d323e43e",
+    "title": "Research Scientist in Speech Foundation Model \u2013 Graduates - Multiple Teams",
+    "active": true,
+    "date_updated": 1775025181,
+    "date_posted": 1775023744,
+    "url": "https://jobs.bytedance.com/en/position/7623548379708197125/detail",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/ByteDance",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "Nationwide",
+    "id": "d52bc132-4ec5-477a-95e0-b9a093950ffb",
+    "title": "Associate Product Manager - Underwriting Strategy",
+    "active": true,
+    "date_updated": 1775025181,
+    "date_posted": 1775023454,
+    "url": "https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio/Associate-Product-Manager---Underwriting-Strategy_097340",
+    "locations": [
+      "Ohio"
+    ],
+    "company_url": "https://simplify.jobs/c/Nationwide",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
