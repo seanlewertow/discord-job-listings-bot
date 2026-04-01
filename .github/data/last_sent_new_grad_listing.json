@@ -132995,5 +132995,85 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "e04bd81f-316f-4fc9-9823-c7ded6cc8587",
+    "title": "Trading Assistant",
+    "active": true,
+    "date_updated": 1775083861,
+    "date_posted": 1775081322,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400055838",
+    "locations": [
+      "Leeds, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Huntington Ingalls Industries",
+    "id": "d2c655fc-e425-4488-ab0d-b868db139668",
+    "title": "Engineer Test Operations 1",
+    "active": true,
+    "date_updated": 1775082781,
+    "date_posted": 1775081265,
+    "url": "https://careers.huntingtoningalls.com/job/Newport-News-ENGINEER-TEST-OPERATIONS-1-Virg/1365411800/?ats=successfactors",
+    "locations": [
+      "Newport News, VA"
+    ],
+    "company_url": "https://simplify.jobs/c/Huntington-Ingalls-Industries",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "TikTok",
+    "id": "759bafd3-bdf7-4c43-ac55-adad6fea805c",
+    "title": "Software Engineer - Global CRM Platform",
+    "active": true,
+    "date_updated": 1775082781,
+    "date_posted": 1775081598,
+    "url": "https://lifeattiktok.com/search/7281061641377106234",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/TikTok",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "PhD"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "GE Healthcare",
+    "id": "428c12ec-f239-496d-adf0-3b6edbfe11ef",
+    "title": "Field Service Engineer 1",
+    "active": true,
+    "date_updated": 1775083816,
+    "date_posted": 1773873776,
+    "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Service-Engineer-I_R4038106",
+    "locations": [
+      "Atlanta, GA"
+    ],
+    "company_url": "https://simplify.jobs/c/GE-Healthcare",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Associate's"
+    ]
   }
 ]
