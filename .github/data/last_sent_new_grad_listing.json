@@ -132423,5 +132423,99 @@
     "degrees": [
       "PhD"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "AMERICAN SYSTEMS",
+    "id": "b9079948-8cd6-4404-9e02-98927c2e4bb8",
+    "title": "Software Developer / DevSecOps Support",
+    "active": true,
+    "date_updated": 1775004413,
+    "date_posted": 1774994749,
+    "url": "https://careers-americansystems.icims.com/jobs/4191/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Colorado Springs, CO"
+    ],
+    "company_url": "https://simplify.jobs/c/AMERICAN-SYSTEMS",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "STEM Xpert",
+    "id": "58f49f58-9f53-4416-bc96-5bafb2a1f5f9",
+    "title": "Jaspersoft Resource",
+    "active": true,
+    "date_updated": 1774981261,
+    "date_posted": 1772176360,
+    "url": "https://jobs.smartrecruiters.com/StemXpert1/81928856",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/STEM-Xpert",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Tech Tammina",
+    "id": "64438dd5-251c-45b7-b2b4-568865cc9f1d",
+    "title": "Senior RedPrairie Software Developer",
+    "active": true,
+    "date_updated": 1775001746,
+    "date_posted": 1772158245,
+    "url": "https://jobs.smartrecruiters.com/TecTammina/83221649",
+    "locations": [
+      "Atlanta, GA"
+    ],
+    "company_url": "https://simplify.jobs/c/Tech-Tammina",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Mindlance",
+    "id": "2e79b2fe-c212-4a91-ae33-f27118f41aa7",
+    "title": "Digital Production Coordinator",
+    "active": true,
+    "date_updated": 1774981261,
+    "date_posted": 1771986014,
+    "url": "https://jobs.smartrecruiters.com/Mindlance2/98883048",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Mindlance",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "CoServe Global Solutions",
+    "id": "599e5289-7e62-449e-8f2d-459b040a645b",
+    "title": "C++ Software Developer",
+    "active": true,
+    "date_updated": 1774981081,
+    "date_posted": 1771571467,
+    "url": "https://jobs.smartrecruiters.com/CoServeGlobalSolutions/83255650",
+    "locations": [
+      "Sarasota, FL"
+    ],
+    "company_url": "https://simplify.jobs/c/CoServe-Global-Solutions",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
