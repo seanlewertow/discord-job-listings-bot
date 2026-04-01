@@ -132900,5 +132900,100 @@
     "degrees": [
       "PhD"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "University of Maryland - College Park",
+    "id": "ce067c4d-2270-4262-a74e-56d1fad9ec4d",
+    "title": "Web Graduate Assistant",
+    "active": true,
+    "date_updated": 1775054252,
+    "date_posted": 1775052312,
+    "url": "https://umd.wd1.myworkdayjobs.com/UMCP/job/University-of-Maryland-College-Park/Web-Graduate-Assistant_JR103816-1",
+    "locations": [
+      "Hyattsville, MD"
+    ],
+    "company_url": "https://simplify.jobs/c/University-Of-Maryland-College-Park",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Jabil",
+    "id": "69c982fb-aa68-4f88-b14f-defbc7ec6cbe",
+    "title": "Diagnostic Technician 1",
+    "active": true,
+    "date_updated": 1775054314,
+    "date_posted": 1775052510,
+    "url": "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Florence-KY/Diagnostic-Technician-I_J2445087",
+    "locations": [
+      "Florence, KY"
+    ],
+    "company_url": "https://simplify.jobs/c/Jabil",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Unison Infrastructure",
+    "id": "374f8d68-640e-4781-93e5-2bbe51da46e9",
+    "title": "Data Analyst \u2013 Entry-Level / Early Career",
+    "active": true,
+    "date_updated": 1775054359,
+    "date_posted": 1775052404,
+    "url": "https://jobs.lever.co/unisoninfra/0f361a1e-a36b-406e-a268-a5d2a55d4248/apply",
+    "locations": [
+      "Bristol, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Unison-Infrastructure",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Littelfuse",
+    "id": "cce46432-9f2f-454d-bda4-714c0882d60e",
+    "title": "RISE Rotational Engineer",
+    "active": true,
+    "date_updated": 1775053801,
+    "date_posted": 1775052391,
+    "url": "https://littelfuse.wd1.myworkdayjobs.com/Littelfuse-Careers/job/Dole/RISE-Rotational-Engineer_JR-111029-2",
+    "locations": [
+      "Gastonia, NC"
+    ],
+    "company_url": "https://simplify.jobs/c/Littelfuse",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Hospital for Special Surgery (HSS)",
+    "id": "c537016f-1822-40e9-b238-3ff2b269fd14",
+    "title": "Education Outcomes and Data Analytics Assistant",
+    "active": true,
+    "date_updated": 1775055421,
+    "date_posted": 1775052312,
+    "url": "https://hss.wd1.myworkdayjobs.com/HSS_Careers/job/New-York-NY/Education-Outcomes-and-Data-Analytics-Assistant_JR2026-104724",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/HSS",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
