@@ -132517,5 +132517,107 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Sonsoft",
+    "id": "b2e492ee-bcc6-4089-bfc7-81a144b06db5",
+    "title": "Tableau Administrator",
+    "active": true,
+    "date_updated": 1775001624,
+    "date_posted": 1772091078,
+    "url": "https://jobs.smartrecruiters.com/SonsoftInc/98814894",
+    "locations": [
+      "Austin, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Sonsoft",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "HSSSoft",
+    "id": "63216d89-2b2c-4885-82f0-086dfd9dac5b",
+    "title": "Python Developer",
+    "active": true,
+    "date_updated": 1774981261,
+    "date_posted": 1771898982,
+    "url": "https://jobs.smartrecruiters.com/HSSSoft/99156168",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/HSSSoft",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "MBA",
+      "PhD"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "AG Technologies",
+    "id": "bbcbb302-5fc7-46a5-bb7c-8be2ad950ce0",
+    "title": "TIBCO Spotfire",
+    "active": true,
+    "date_updated": 1774981081,
+    "date_posted": 1755195735,
+    "url": "https://jobs.smartrecruiters.com/AGTechnologies1/85322486",
+    "locations": [
+      "Dallas, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/AG-Technologies",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "AG Technologies",
+    "id": "d22f034e-8d15-472d-8b50-1cd3fdf80818",
+    "title": "Java Developer",
+    "active": true,
+    "date_updated": 1774981081,
+    "date_posted": 1755078421,
+    "url": "https://jobs.smartrecruiters.com/AGTechnologies1/92104925",
+    "locations": [
+      "Chesterfield, MO"
+    ],
+    "company_url": "https://simplify.jobs/c/AG-Technologies",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "AG Technologies",
+    "id": "bfff7f77-096b-4e12-a3ee-af793edf629b",
+    "title": "Java Developer",
+    "active": true,
+    "date_updated": 1774981081,
+    "date_posted": 1755045240,
+    "url": "https://jobs.smartrecruiters.com/AGTechnologies1/87228753",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/AG-Technologies",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Master's"
+    ]
   }
 ]
