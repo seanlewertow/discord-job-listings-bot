@@ -133431,5 +133431,47 @@
       "Master's",
       "PhD"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Perplexity AI",
+    "id": "0d448d6a-92f4-4eed-bb7d-d10a315544a0",
+    "title": "Member of Technical Staff - AI Policy and Strategic Initiatives",
+    "active": true,
+    "date_updated": 1775111285,
+    "date_posted": 1775110180,
+    "url": "https://jobs.ashbyhq.com/Perplexity/0359ebb4-7cbd-4641-a6d1-1127823e2fd5/application",
+    "locations": [
+      "Washington, DC",
+      "SF"
+    ],
+    "company_url": "https://simplify.jobs/c/PerplexityAI",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Agoda",
+    "id": "b9c4a46f-2b41-4f0f-a9fa-7ba2e07f2f51",
+    "title": "Supply Analytics Senior Analyst",
+    "active": true,
+    "date_updated": 1775111401,
+    "date_posted": 1773988105,
+    "url": "https://job-boards.greenhouse.io/agoda/jobs/7698911",
+    "locations": [
+      "Toronto, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Agoda",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "MBA",
+      "Master's"
+    ]
   }
 ]
