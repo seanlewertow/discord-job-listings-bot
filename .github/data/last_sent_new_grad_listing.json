@@ -133273,5 +133273,106 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Allina Health",
+    "id": "6c64babe-2c24-423a-8fc8-551bf6d55f22",
+    "title": "Business Intelligence Analyst Associate",
+    "active": true,
+    "date_updated": 1775092561,
+    "date_posted": 1775091995,
+    "url": "https://allina.wd5.myworkdayjobs.com/external/job/Allina-Commons/Business-Intelligence-Analyst-Associate_R-0070208",
+    "locations": [
+      "Minneapolis, MN"
+    ],
+    "company_url": "https://simplify.jobs/c/Allina-Health",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Oshkosh",
+    "id": "4983516e-cb70-4891-9238-b0dccc00cd67",
+    "title": "Engineer - Autonomy",
+    "active": true,
+    "date_updated": 1775092705,
+    "date_posted": 1775092239,
+    "url": "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Oshkosh-Wisconsin-United-States/Engineer---Autonomy_R40893-1",
+    "locations": [
+      "Oshkosh, WI"
+    ],
+    "company_url": "https://simplify.jobs/c/Oshkosh",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Galileo Financial Technologies",
+    "id": "1c5a7723-3fb3-4289-b85f-df65144867c2",
+    "title": "Software Engineer",
+    "active": true,
+    "date_updated": 1775092321,
+    "date_posted": 1770333748,
+    "url": "https://job-boards.greenhouse.io/galileofinancialtechnologies/jobs/7620926003",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "company_url": "https://simplify.jobs/c/Galileo-Financial-Technologies",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Fanatics",
+    "id": "f6a20744-f898-4cf5-b892-3203065381b4",
+    "title": "Software Engineer 2",
+    "active": true,
+    "date_updated": 1775093041,
+    "date_posted": 1775092063,
+    "url": "https://fa-exki-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/27391",
+    "locations": [
+      "United States"
+    ],
+    "company_url": "https://simplify.jobs/c/Fanatics",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "TikTok",
+    "id": "41573b4d-b3a2-4d26-be9b-fd1c19ab47f9",
+    "title": "Graduate CV/NLP/Multimodal LLM Research Scientist",
+    "active": true,
+    "date_updated": 1775001311,
+    "date_posted": 1754560403,
+    "url": "https://lifeattiktok.com/search/7530771170938865928",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "company_url": "https://simplify.jobs/c/TikTok",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
   }
 ]
