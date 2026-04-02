@@ -133861,5 +133861,101 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Robinhood",
+    "id": "edd11fdc-d696-4229-9ae9-7d14e2a9351c",
+    "title": "Android Engineer",
+    "active": true,
+    "date_updated": 1775170621,
+    "date_posted": 1775168183,
+    "url": "https://boards.greenhouse.io/robinhood/jobs/7747572",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Robinhood",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Hawk-Eye Innovations",
+    "id": "e1483d51-606e-4c44-ae9f-c64d63f4bc01",
+    "title": "College Sports Systems Technician",
+    "active": true,
+    "date_updated": 1775170621,
+    "date_posted": 1775167769,
+    "url": "https://jobs.ashbyhq.com/hawkeyeinnovations/e786b68d-b24e-4a75-9c0b-68b98ecd1549/application",
+    "locations": [
+      "Minneapolis, MN"
+    ],
+    "company_url": "https://simplify.jobs/c/Hawk-Eye-Innovations",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "NVIDIA",
+    "id": "db015839-19c9-4660-aef8-4435c50ba8a5",
+    "title": "Software Engineer \u2013 New College Graduate - AI Inference Systems",
+    "active": true,
+    "date_updated": 1775171089,
+    "date_posted": 1775167958,
+    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--AI-Inference-Systems---New-College-Graduate-2026_JR2015076",
+    "locations": [
+      "Santa Clara, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/NVIDIA",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "PhD"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "d760491b-73ec-4917-a4eb-0ee2b7071840",
+    "title": "Trading Assistant - Shift",
+    "active": true,
+    "date_updated": 1775170621,
+    "date_posted": 1775167681,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400056046",
+    "locations": [
+      "Norwich, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Abbott",
+    "id": "36fc54da-5e4a-4854-b8d5-2ad228192b06",
+    "title": "Engineer 1 - Research and Development",
+    "active": true,
+    "date_updated": 1775170784,
+    "date_posted": 1775167886,
+    "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Minnesota---Plymouth/Engineer-I--Research-and-Development_31146297-1",
+    "locations": [
+      "Wayzata, MN"
+    ],
+    "company_url": "https://simplify.jobs/c/Abbott",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
