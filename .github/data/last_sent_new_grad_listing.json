@@ -133764,5 +133764,102 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Huntington Ingalls Industries",
+    "id": "4fb7e0ba-fee7-4b07-bcfd-1a224d64fd76",
+    "title": "Engineer Test Operations 1",
+    "active": true,
+    "date_updated": 1775168821,
+    "date_posted": 1775167690,
+    "url": "https://careers.huntingtoningalls.com/job/Newport-News-ENGINEER-TEST-OPERATIONS-1-Virg/1356570100/?ats=successfactors",
+    "locations": [
+      "Newport News, VA"
+    ],
+    "company_url": "https://simplify.jobs/c/Huntington-Ingalls-Industries",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Marsh & McLennan",
+    "id": "2b379bcd-9898-43dd-9213-871866202476",
+    "title": "Investment Analyst-Defined Contribution Graduate",
+    "active": true,
+    "date_updated": 1775169341,
+    "date_posted": 1775167433,
+    "url": "https://mmc.wd1.myworkdayjobs.com/en-US/MMC/job/Dublin---Charlotte/Investment-Analyst--Defined-Contribution-Graduate_R_346441",
+    "locations": [
+      "Charlotte, NC",
+      "Dublin, Ireland"
+    ],
+    "company_url": "https://simplify.jobs/c/Marsh-McLennan",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "UAP",
+    "id": "2268f6c3-8d2a-4461-9c4e-258128c1987c",
+    "title": "Product Management Administration Technician",
+    "active": true,
+    "date_updated": 1775168821,
+    "date_posted": 1775167426,
+    "url": "https://jobs.smartrecruiters.com/UAPInc/744000118480692",
+    "locations": [
+      "Longueuil, QC, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/UAP",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Microchip Technology",
+    "id": "2153f272-5645-48b6-9a76-8034b34d9414",
+    "title": "Engineer 1 - Analog IC - Product",
+    "active": true,
+    "date_updated": 1775169142,
+    "date_posted": 1775167742,
+    "url": "https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/PA---Reading/Engineer-I-Product--Analog-IC-_R2448-25",
+    "locations": [
+      "Reading, PA"
+    ],
+    "company_url": "https://simplify.jobs/c/Microchip-Technology",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Johnson Controls",
+    "id": "1de12a27-3e28-4ca4-84dc-2e18ee15b93b",
+    "title": "Electronics Technician",
+    "active": true,
+    "date_updated": 1775169185,
+    "date_posted": 1775167857,
+    "url": "https://jci.wd5.myworkdayjobs.com/JCI/job/Westford-Massachusetts-United-States-of-America/Electronics-Technician--onsite-_WD30263577",
+    "locations": [
+      "Boston, MA",
+      "Westford, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/Johnson-Controls",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
