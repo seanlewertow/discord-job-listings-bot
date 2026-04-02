@@ -133169,5 +133169,109 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Cincinnati Children\u2019s Hospital and Medical Center",
+    "id": "f3dacc8e-0f84-4b4f-ad43-808aaa53919c",
+    "title": "Social Worker PHP",
+    "active": true,
+    "date_updated": 1775086186,
+    "date_posted": 1775081450,
+    "url": "https://cincinnatichildrens.wd5.myworkdayjobs.com/careersatcincinnatichildrens/job/Green-Township/Social-Worker-for-Green-Township-PHP_JR219286",
+    "locations": [
+      "Cincinnati, OH"
+    ],
+    "company_url": "https://simplify.jobs/c/Cincinnati-Childrens-Hospital-And-Medical-Center",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "RTX",
+    "id": "cd2bc327-ac6a-4bf1-ab01-0ec81e9dac4c",
+    "title": "Systems Engineer 1",
+    "active": true,
+    "date_updated": 1775086150,
+    "date_posted": 1775081358,
+    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-848--1151-E-Hermans-Rd--BLDG-848/XMLNAME-2026-Systems-Engineer-I---Onsite_01831793",
+    "locations": [
+      "Tucson, AZ"
+    ],
+    "company_url": "https://simplify.jobs/c/RTX",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Aquatic Capital Management",
+    "id": "9903235a-060d-4f68-baa9-ff6917bd33ca",
+    "title": "Quantitative Researcher",
+    "active": true,
+    "date_updated": 1775086117,
+    "date_posted": 1775081547,
+    "url": "https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489150002",
+    "locations": [
+      "Chicago, IL",
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Aquatic-Capital-Management",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Blue Yonder",
+    "id": "90507aa4-c9ca-461b-8ba1-a4126712a8a7",
+    "title": "Software Engineer 1",
+    "active": true,
+    "date_updated": 1775086177,
+    "date_posted": 1775081248,
+    "url": "https://jda.wd5.myworkdayjobs.com/en-US/JDA_Careers/job/Dallas/Software-Engineer-I_254756-1",
+    "locations": [
+      "Dallas, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Blue-Yonder",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "Broadridge",
+    "id": "8e18ee26-2f38-4b24-b09c-047f939b9f73",
+    "title": "Product Owner - Multiple Teams",
+    "active": true,
+    "date_updated": 1775085661,
+    "date_posted": 1775081446,
+    "url": "https://broadridge.wd5.myworkdayjobs.com/careers/job/Pittsburgh-PA/Product-Owner--Hybrid---Pittsburgh--PA--Newark--NJ-or-NYC-_JR1081473",
+    "locations": [
+      "Newark, NJ",
+      "Pittsburgh, PA",
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Broadridge",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
