@@ -134211,5 +134211,110 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Fermilab",
+    "id": "e8bc0e94-3597-43d2-8207-14f8804cefc8",
+    "title": "Engineering Physicist 1",
+    "active": true,
+    "date_updated": 1775210041,
+    "date_posted": 1772668023,
+    "url": "https://fermilab.wd5.myworkdayjobs.com/FermilabCareers/job/Batavia/Engineering-Physicist-1_R_009284",
+    "locations": [
+      "Batavia, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/Fermilab",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Rolls-Royce",
+    "id": "7e699949-a9ea-413c-b912-31dcebc25627",
+    "title": "NDT Inspector Class C",
+    "active": true,
+    "date_updated": 1775210254,
+    "date_posted": 1771691013,
+    "url": "https://rollsroyce.wd3.myworkdayjobs.com/professional/job/Montreal/Inspecteur-ND-classe-C---NDT-Inspector-C_JR6146605",
+    "locations": [
+      "Montreal, QC, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Rolls-Royce",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Electronic Arts",
+    "id": "963ead96-965b-472f-99ac-ac92824249ab",
+    "title": "Narrative Designer Star Wars Jedi",
+    "active": true,
+    "date_updated": 1775210041,
+    "date_posted": 1770937968,
+    "url": "https://jobs.ea.com/en_US/careers/JobDetail/Narrative-Designer-Star-Wars-Jedi/212505",
+    "locations": [
+      "Orlando, FL",
+      "Austin, TX",
+      "LA",
+      "Canoga Park, LA",
+      "San Carlos, CA",
+      "Kirkland, WA",
+      "Edmonton, AB, Canada",
+      "Vancouver, BC, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Electronic-Arts",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Trexon",
+    "id": "447bc54a-b6ca-4975-b940-0481681afce8",
+    "title": "Graduate Engineer",
+    "active": true,
+    "date_updated": 1775208601,
+    "date_posted": 1775208020,
+    "url": "https://job-boards.greenhouse.io/tpcengineeringholdingsllc/jobs/5098934007",
+    "locations": [
+      "Aberdeen, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Trexon",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Draper",
+    "id": "6680057c-d4d7-4844-bf92-41f2fbdaed85",
+    "title": "Hardware-in-the-Loop Simulation Systems Engineer",
+    "active": true,
+    "date_updated": 1775212310,
+    "date_posted": 1774084937,
+    "url": "https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Hardware-In-The-Loop-Simulation-Systems-Engineer_JR001979",
+    "locations": [
+      "Cambridge, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/Draper",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
   }
 ]
