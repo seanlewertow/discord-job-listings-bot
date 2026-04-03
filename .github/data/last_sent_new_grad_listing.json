@@ -134154,5 +134154,23 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Fermilab",
+    "id": "75eee674-8819-4d06-8b16-6a28391362b8",
+    "title": "Technician 1",
+    "active": true,
+    "date_updated": 1775206192,
+    "date_posted": 1773097119,
+    "url": "https://fermilab.wd5.myworkdayjobs.com/FermilabCareers/job/Batavia/Technician-I_R_009373",
+    "locations": [
+      "Batavia, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/Fermilab",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
