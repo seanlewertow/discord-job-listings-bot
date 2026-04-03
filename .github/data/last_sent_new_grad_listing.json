@@ -134316,5 +134316,102 @@
       "Bachelor's",
       "Master's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Atos",
+    "id": "86a3dbd1-2847-4a14-8d48-af6e48facf09",
+    "title": "Graduate Data & AI Resource",
+    "active": true,
+    "date_updated": 1775226748,
+    "date_posted": 1775225214,
+    "url": "https://jobs.atos.net/job/London-Graduate-D&AI-Resource/1380728433/?ats=successfactors",
+    "locations": [
+      "Birmingham, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Atos",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "American Express",
+    "id": "7335108a-6049-4b52-a7f8-c127ced26c5f",
+    "title": "Associate-Digital Product Management",
+    "active": true,
+    "date_updated": 1775226421,
+    "date_posted": 1775225399,
+    "url": "https://aexp.eightfold.ai/careers/job/41139501",
+    "locations": [
+      "Phoenix, AZ"
+    ],
+    "company_url": "https://simplify.jobs/c/American-Express",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Procter & Gamble (P&G)",
+    "id": "cc602ee6-c43e-422f-a53e-248084e5d9a6",
+    "title": "Data Asset Manager",
+    "active": true,
+    "date_updated": 1775226421,
+    "date_posted": 1775225417,
+    "url": "https://pg.wd5.myworkdayjobs.com/1000/job/GREENSBORO-SWING-ROAD-PLANT/Data-Asset-Manager---Band-1_R000135434-1",
+    "locations": [
+      "Greensboro, NC"
+    ],
+    "company_url": "https://simplify.jobs/c/Procter-Gamble-Company",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "MBA",
+      "PhD"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "c55897b9-fca3-4b38-83b1-2c04d980d5ec",
+    "title": "Trading Assistant - Shift",
+    "active": true,
+    "date_updated": 1775226421,
+    "date_posted": 1775225276,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400056084",
+    "locations": [
+      "Liverpool, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "b949ba96-9729-4d72-96b0-b2cb62029d8e",
+    "title": "Trading Assistant",
+    "active": true,
+    "date_updated": 1775226421,
+    "date_posted": 1775225276,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400056087",
+    "locations": [
+      "Brighton, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
