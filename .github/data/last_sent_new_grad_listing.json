@@ -134413,5 +134413,111 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "56dc4c07-117b-4a8a-94be-f6e706184471",
+    "title": "Trading Assistant",
+    "active": true,
+    "date_updated": 1775255941,
+    "date_posted": 1775254035,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400056063",
+    "locations": [
+      "Bedford, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "KBR",
+    "id": "5487ccb6-88af-4edc-8b1f-d7b8add47486",
+    "title": "System/Data Engineer",
+    "active": true,
+    "date_updated": 1775255941,
+    "date_posted": 1775254031,
+    "url": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Chantilly-Virginia/System-Data-Engineer_R2121388",
+    "locations": [
+      "Chantilly, VA",
+      "Reston, VA"
+    ],
+    "company_url": "https://simplify.jobs/c/KBR",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "University of Wisconsin-Madison",
+    "id": "e72468ad-4731-4d36-bf10-378e7c03b9fb",
+    "title": "Scientist 1",
+    "active": true,
+    "date_updated": 1775255546,
+    "date_posted": 1775253809,
+    "url": "https://wisconsin.wd1.myworkdayjobs.com/UW_Madison/job/Madison-WI/Scientist-I_JR10009865",
+    "locations": [
+      "Madison, WI"
+    ],
+    "company_url": "https://simplify.jobs/c/University-Of-Wisconsin-Madison",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "PhD"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "eBay",
+    "id": "8758964a-1ad6-4919-8470-4454fa7614e3",
+    "title": "Applied Researcher 1",
+    "active": true,
+    "date_updated": 1775255628,
+    "date_posted": 1775253873,
+    "url": "https://ebay.wd5.myworkdayjobs.com/apply/job/Austin/Applied-Researcher-I_R0073209",
+    "locations": [
+      "Austin, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/E-Bay",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "Ernst & Young",
+    "id": "0b42306d-5fae-4ce8-aab2-4e18f55f738f",
+    "title": "Studio+ Digital Product Management and Strategy Senior",
+    "active": true,
+    "date_updated": 1775255041,
+    "date_posted": 1775254372,
+    "url": "https://careers.ey.com/ey/job/New-York-Studio%2B-Digital-Product-Management-and-Strategy-Senior-NY-10001-8604/1286433201/",
+    "locations": [
+      "LA",
+      "Dallas, TX",
+      "McLean, VA",
+      "Chicago, IL",
+      "NYC",
+      "Atlanta, GA"
+    ],
+    "company_url": "https://simplify.jobs/c/Ernst-And-Young",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
