@@ -134172,5 +134172,44 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Airbus",
+    "id": "8facb407-1248-4a81-a6f9-f557932ebddd",
+    "title": "Operations Performance Analyst - Analyste Performance Op\u00e9rations - All Gender",
+    "active": true,
+    "date_updated": 1775209207,
+    "date_posted": 1775207192,
+    "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Montreal-Area/VIE-2026---CANADA---Analyste-Performance-Oprations--All-Gender-_JR10403918",
+    "locations": [
+      "Laval, QC, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Airbus",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Stryker",
+    "id": "e2f7235b-7610-405a-86f9-b77cba2b2c2d",
+    "title": "Associate Installation Technician",
+    "active": true,
+    "date_updated": 1775208601,
+    "date_posted": 1772667992,
+    "url": "https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Tampa-Florida/Associate-Installation-Technician---Tampa--FL_R561340",
+    "locations": [
+      "Orlando, FL",
+      "Tampa, FL"
+    ],
+    "company_url": "https://simplify.jobs/c/Stryker",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
