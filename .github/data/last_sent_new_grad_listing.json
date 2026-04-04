@@ -135015,5 +135015,65 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "NJM Insurance Group",
+    "id": "6c3842a6-b0b9-4fd7-bfa0-70e9dd89fa66",
+    "title": "Insurance Product Management Analyst",
+    "active": true,
+    "date_updated": 1775296981,
+    "date_posted": 1775294748,
+    "url": "https://njm.wd1.myworkdayjobs.com/njm/job/NJM---Trenton/Insurance-Product-Management-Analyst_R2007584",
+    "locations": [
+      "Trenton, NJ"
+    ],
+    "company_url": "https://simplify.jobs/c/NJM-Insurance-Group",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "The Boeing Company",
+    "id": "68b56d9e-460e-492d-aade-445c94334836",
+    "title": "Software Engineer-Developer",
+    "active": true,
+    "date_updated": 1775298421,
+    "date_posted": 1775297989,
+    "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Ridley-Park-PA/Software-Engineer-Developer--Associate-or-Experienced-_JR2025483251-1",
+    "locations": [
+      "Chester, PA"
+    ],
+    "company_url": "https://simplify.jobs/c/Boeing",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Globus Medical",
+    "id": "4ee5f3a1-8ba2-4881-bbf4-7c01c3144f12",
+    "title": "Project Engineer",
+    "active": true,
+    "date_updated": 1775298421,
+    "date_posted": 1775298352,
+    "url": "https://globusmedical.wd5.myworkdayjobs.com/GMED_Careers/job/Audubon-PA/Project-Engineer_JR104978-1",
+    "locations": [
+      "King of Prussia, PA"
+    ],
+    "company_url": "https://simplify.jobs/c/Globus-Medical",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
