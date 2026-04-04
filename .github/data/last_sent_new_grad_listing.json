@@ -134722,5 +134722,23 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "University of Texas at Austin",
+    "id": "171c690b-9929-4ef0-8c2d-9ccb8bff82c7",
+    "title": "Postdoctoral Fellow in Water Systems - Ml",
+    "active": true,
+    "date_updated": 1771686678,
+    "date_posted": 1771686678,
+    "url": "https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/PICKLE-RESEARCH-CAMPUS/Postdoctoral-Fellow-in-Water-Systems--ml-_R_00041178-1",
+    "locations": [
+      "Austin, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/University-Of-Texas-Austin",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
