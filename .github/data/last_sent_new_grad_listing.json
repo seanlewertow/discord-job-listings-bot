@@ -134934,5 +134934,86 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "The Federal Reserve System",
+    "id": "bd11fa61-05b2-46c7-a205-c6a358af3d04",
+    "title": "Product Owner",
+    "active": true,
+    "date_updated": 1775296974,
+    "date_posted": 1775294587,
+    "url": "https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Cleveland-OH/Product-Owner_R-0000031608",
+    "locations": [
+      "Cleveland, OH"
+    ],
+    "company_url": "https://simplify.jobs/c/6a7a42d3-327f-4b48-a7a7-c68f405e3396",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "Associate's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "University of Chicago",
+    "id": "90fbae99-e01e-453c-8768-a962cd9b4c95",
+    "title": "Research Professional",
+    "active": true,
+    "date_updated": 1775296802,
+    "date_posted": 1775294604,
+    "url": "https://uchicago.wd5.myworkdayjobs.com/External/job/Chicago-IL/Research-Professional--EPIC_JR32793",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/University-Of-Chicago",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Molina Healthcare",
+    "id": "01027738-b691-4ac8-b976-86e87c5c1221",
+    "title": "Analyst \u2013 Reporting & Analytics - Risk Adjustment",
+    "active": true,
+    "date_updated": 1775295721,
+    "date_posted": 1771888620,
+    "url": "https://hckd.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2036084",
+    "locations": [
+      "United States"
+    ],
+    "company_url": "https://simplify.jobs/c/Molina-Healthcare",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Intertek",
+    "id": "dfda5bae-7295-4302-b14a-753a30096368",
+    "title": "Flammability Test Technician - Flammability Testing - Building Materials",
+    "active": true,
+    "date_updated": 1775296462,
+    "date_posted": 1770851912,
+    "url": "https://hcog.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/13984",
+    "locations": [
+      "San Antonio, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Intertek",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
