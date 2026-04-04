@@ -135486,5 +135486,67 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Elekta",
+    "id": "a61d1008-152e-4915-aec5-bc00790e4bc8",
+    "title": "Associate Field Service Engineer",
+    "active": true,
+    "date_updated": 1775298421,
+    "date_posted": 1775297959,
+    "url": "https://elekta.wd3.myworkdayjobs.com/Elekta_Careers/job/Louisiana--Home-Based/Associate-Field-Service-Engineer---Baton-Rouge--LA_R2024-0706",
+    "locations": [
+      "Shreveport, LA",
+      "Baton Rouge, LA"
+    ],
+    "company_url": "https://simplify.jobs/c/Elekta",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Associate's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Applied Materials",
+    "id": "696aabab-5295-482b-b0bd-c1a23eb23597",
+    "title": "Graduate IT Systems Analyst",
+    "active": true,
+    "date_updated": 1775303698,
+    "date_posted": 1775299129,
+    "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/New-College-Grad-IT-Systems-Analyst--Bachelors---Multiple-Locations-_R2616320",
+    "locations": [
+      "Austin, TX",
+      "Santa Clara, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Applied-Materials",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Medical University of South Carolina",
+    "id": "4217d3a9-6456-42d4-8a51-958b48d7e3f2",
+    "title": "Univ Post-Doctoral Candidate - Biomedical Informatics Center/Public Health Sciences",
+    "active": true,
+    "date_updated": 1775297115,
+    "date_posted": 1775294398,
+    "url": "https://musc.wd1.myworkdayjobs.com/en-US/MUSC/job/Charleston/UNIV---Post-Doctoral-Candidate---Department-of-BMIC-PHS_R-0000056646",
+    "locations": [
+      "Charleston, SC"
+    ],
+    "company_url": "https://simplify.jobs/c/Medical-University-Of-South-Carolina",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "PhD"
+    ]
   }
 ]
