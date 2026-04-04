@@ -134875,5 +134875,64 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "University of Chicago",
+    "id": "294980b2-d9dd-43cd-a8b8-023cbd30e16e",
+    "title": "Research Analyst",
+    "active": true,
+    "date_updated": 1775294821,
+    "date_posted": 1775294621,
+    "url": "https://uchicago.wd5.myworkdayjobs.com/External/job/Chicago-IL/Research-Analyst_JR32400",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/University-Of-Chicago",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "TKO Group Holdings, Inc",
+    "id": "b0b81df7-55e6-4aef-8bb5-3b134aa451a1",
+    "title": "Analyst \u2013 TKO Analytics",
+    "active": true,
+    "date_updated": 1775295562,
+    "date_posted": 1775294052,
+    "url": "https://wwecorp.wd5.myworkdayjobs.com/tko/job/New-York-NY/Manager--Analytics_R0006875",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/TKO-Group-Holdings-Inc",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Riot Platforms",
+    "id": "07780b48-d69c-40c4-b75e-90fa0876c424",
+    "title": "ASIC Technician",
+    "active": true,
+    "date_updated": 1775295280,
+    "date_posted": 1775081366,
+    "url": "https://ats.rippling.com/riot-platforms-careers/jobs/81b8bcbb-4fc7-4f54-b72b-f5f40497e87a",
+    "locations": [
+      "Paducah, KY"
+    ],
+    "company_url": "https://simplify.jobs/c/Riot-Platforms",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
