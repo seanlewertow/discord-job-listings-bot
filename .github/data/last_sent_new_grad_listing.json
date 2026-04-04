@@ -134809,5 +134809,71 @@
       "Bachelor's",
       "Master's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "Google",
+    "id": "575cf92d-dfb0-4aff-ac98-9253c62d7837",
+    "title": "Product Manager 1 - YouTube Ads Responsibility",
+    "active": true,
+    "date_updated": 1775291558,
+    "date_posted": 1775120776,
+    "url": "https://www.google.com/about/careers/applications/jobs/results/92907964775441094",
+    "locations": [
+      "Seattle, WA",
+      "San Bruno, CA",
+      "Kirkland, WA",
+      "NYC",
+      "Mountain View, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Google",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "TikTok",
+    "id": "f22da764-7308-4324-b842-8abee0e14c08",
+    "title": "Graduate Machine Learning Engineer",
+    "active": true,
+    "date_updated": 1775092752,
+    "date_posted": 1775092373,
+    "url": "https://lifeattiktok.com/search/7533384972704778514",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/TikTok",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Aurora Innovation",
+    "id": "a36318ac-382b-44f4-84e2-b2601bb856bf",
+    "title": "Software Engineer 2 - Behavior Planning ML Platform",
+    "active": true,
+    "date_updated": 1775293635,
+    "date_posted": 1774995429,
+    "url": "https://aurora.tech/jobs/8336063002?gh_jid=8336063002",
+    "locations": [
+      "Pittsburgh, PA"
+    ],
+    "company_url": "https://simplify.jobs/c/Aurora-Innovation",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
