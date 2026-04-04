@@ -134621,5 +134621,106 @@
       "Bachelor's",
       "Master's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "IXL Learning",
+    "id": "9fc63854-be44-4620-875b-82f769c87858",
+    "title": "Software Engineer",
+    "active": true,
+    "date_updated": 1775267121,
+    "date_posted": 1775265592,
+    "url": "https://www.ixl.com/company/jobs?gh_jid=8486920002",
+    "locations": [
+      "Raleigh, NC"
+    ],
+    "company_url": "https://simplify.jobs/c/IXL-Learning",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Ultima Genomics",
+    "id": "698bf063-d516-477e-8c11-b02fa86f360b",
+    "title": "Product Engineer 1",
+    "active": true,
+    "date_updated": 1775267107,
+    "date_posted": 1775264987,
+    "url": "https://job-boards.greenhouse.io/ultimagenomics/jobs/5842648004",
+    "locations": [
+      "Fremont, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/UltimaGenomics",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Allstate Insurance Company",
+    "id": "5cd829dc-9c0a-426b-a2c1-d8a211d4400a",
+    "title": "Data Scientist - Agentic AI",
+    "active": true,
+    "date_updated": 1775266741,
+    "date_posted": 1775264846,
+    "url": "https://allstate.wd5.myworkdayjobs.com/allstate_careers/job/US---Remote/Data-Scientist---Agentic-AI--Enterprise-Risk-Management---AI-Governance-_R27680",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/Allstate-Insurance-Company",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "T-Mobile",
+    "id": "5094ac2b-4c86-4957-ad20-b098241cac08",
+    "title": "Associate Engineer - Software",
+    "active": true,
+    "date_updated": 1775267068,
+    "date_posted": 1775264773,
+    "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Frisco-Texas/Assoc-Engineer--Software_REQ350515-1",
+    "locations": [
+      "Frisco, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/T-Mobile",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "a2fa83d7-6007-4848-bea7-88c66d01cf6c",
+    "title": "Trading Assistant - Shift",
+    "active": true,
+    "date_updated": 1775266741,
+    "date_posted": 1775264817,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400056130",
+    "locations": [
+      "Aberdeen, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
