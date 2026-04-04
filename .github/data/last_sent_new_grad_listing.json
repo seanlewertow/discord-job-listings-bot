@@ -134785,5 +134785,29 @@
       "Bachelor's",
       "Master's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Uber",
+    "id": "99719cf7-1026-4771-b52b-e69f114fc2fd",
+    "title": "Graduate Software Engineer 1",
+    "active": true,
+    "date_updated": 1775284297,
+    "date_posted": 1775282808,
+    "url": "https://www.uber.com/global/en/careers/list/158011/",
+    "locations": [
+      "Seattle, WA",
+      "SF",
+      "NYC",
+      "Sunnyvale, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Uber",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
   }
 ]
