@@ -135667,5 +135667,107 @@
       "Master's",
       "PhD"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Intel",
+    "id": "2da18d89-6f69-495a-8c20-1e04f9c8493f",
+    "title": "Junior CPU Design Verification Engineer",
+    "active": true,
+    "date_updated": 1775302471,
+    "date_posted": 1775298122,
+    "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Texas-Austin/Junior-CPU-Design-Verification-Engineer_JR0282204",
+    "locations": [
+      "Austin, TX",
+      "Hillsboro, OR"
+    ],
+    "company_url": "https://simplify.jobs/c/Intel",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "Zurn Elkay Water Solutions",
+    "id": "f72ec598-6026-461b-abcb-0b6c45b2bcaf",
+    "title": "Product Specialist 2",
+    "active": true,
+    "date_updated": 1775302399,
+    "date_posted": 1775297656,
+    "url": "https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Downers-Grove-IL/Specialist-II--Product_REQ-019536-1",
+    "locations": [
+      "Downers Grove, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/Zurn-Elkay-Water-Solutions",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Northrop Grumman",
+    "id": "6b62d65b-f5d4-4a04-990c-bf1f6db41467",
+    "title": "Software Engineer",
+    "active": true,
+    "date_updated": 1775303461,
+    "date_posted": 1775298328,
+    "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Colorado-Springs/Software-Engineer---Level---2-or-3_R10227859",
+    "locations": [
+      "Colorado Springs, CO"
+    ],
+    "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "PhD"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Applied Materials",
+    "id": "ea8a3e2f-ee56-4534-9227-c86fdd328f5d",
+    "title": "Global Product Support Engineer",
+    "active": true,
+    "date_updated": 1775301481,
+    "date_posted": 1775299441,
+    "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Global-Product-Support-Engineer--Early-in-Career-_R2615694",
+    "locations": [
+      "Santa Clara, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Applied-Materials",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Northrop Grumman",
+    "id": "29c08cc2-35f8-4311-b833-96223a17fa42",
+    "title": "Mechanical Engineer / Principal Mechanical Engineer - Level",
+    "active": true,
+    "date_updated": 1775303539,
+    "date_posted": 1775300483,
+    "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Arizona-Gilbert/Engineer-Mechanical-Principal-Engineer-Mechanical--Level-2-3-_R10227027",
+    "locations": [
+      "Gilbert, AZ"
+    ],
+    "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "MBA",
+      "PhD"
+    ]
   }
 ]
