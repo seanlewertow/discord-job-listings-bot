@@ -135075,5 +135075,111 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "University of Pennsylvania",
+    "id": "29f906fa-6e6b-4239-9c4f-99012204cf53",
+    "title": "Pre-Doctoral Research Specialist",
+    "active": true,
+    "date_updated": 1775296981,
+    "date_posted": 1775293936,
+    "url": "https://upenn.wd1.myworkdayjobs.com/careers-at-penn/job/Dinan-Hall---3rd-Floor/Pre-Doctoral-Research-Specialist_JR00110787-1",
+    "locations": [
+      "Philadelphia, PA"
+    ],
+    "company_url": "https://simplify.jobs/c/University-Of-Pennsylvania",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Hewlett Packard Enterprise",
+    "id": "025be0de-f3a3-4b10-b605-ea3f0e828697",
+    "title": "Security Labs Research Engineer \u2013 Graduate Program",
+    "active": true,
+    "date_updated": 1775299501,
+    "date_posted": 1775299457,
+    "url": "https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Bristol-Avon-United-Kingdom/Security-Labs-Research-Engineer---Graduate-Program_1192992",
+    "locations": [
+      "Bristol, UK",
+      "Minna, Inverin, Co. Galway, Ireland"
+    ],
+    "company_url": "https://simplify.jobs/c/Hewlett-Packard-Enterprise",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Northrop Grumman",
+    "id": "494b25b0-08fd-4327-895c-92a03be4f674",
+    "title": "Engineer / Principal Engineer - Material Process",
+    "active": true,
+    "date_updated": 1775299321,
+    "date_posted": 1775297725,
+    "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Palmdale/Engineer---Principal-Engineer---Material-Process_R10225045",
+    "locations": [
+      "Palmdale, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Northrop Grumman",
+    "id": "8f864d60-339d-4b19-ace8-3147873ec6fc",
+    "title": "Embedded Software Engineer",
+    "active": true,
+    "date_updated": 1775303461,
+    "date_posted": 1775298141,
+    "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Georgia-Warner-Robins/Embedded-Software-Engineer---Level-1-and-2_R10227850",
+    "locations": [
+      "Warner Robins, GA"
+    ],
+    "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Bank of America",
+    "id": "3794db4d-6427-4840-b37a-cf1173cb852b",
+    "title": "Data Scientist 1",
+    "active": true,
+    "date_updated": 1775300715,
+    "date_posted": 1775299071,
+    "url": "https://ghr.wd1.myworkdayjobs.com/us-emplsv/job/New-York/Data-Scientist-I_25030183-1",
+    "locations": [
+      "Charlotte, NC",
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Bank-Of-America",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "PhD"
+    ]
   }
 ]
