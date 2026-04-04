@@ -135789,5 +135789,78 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "e0150f47-e5ca-4be9-9f63-00754c9234ee",
+    "title": "Trading Assistant",
+    "active": false,
+    "date_updated": 1775341441,
+    "date_posted": 1775340423,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400056230",
+    "locations": [
+      "Edinburgh, UK",
+      "Midlothian, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "da5945c2-f760-443d-a23f-b3f838feaaff",
+    "title": "Trading Assistant - Shift",
+    "active": true,
+    "date_updated": 1775341441,
+    "date_posted": 1775340428,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400056225",
+    "locations": [
+      "Cardiff, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "2f28a851-a74a-4523-bb96-7622fade0430",
+    "title": "Trading Assistant",
+    "active": true,
+    "date_updated": 1775341441,
+    "date_posted": 1775340423,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400056210",
+    "locations": [
+      "Wellington, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "2a88e862-f42d-4061-bc1e-05e9a3d82597",
+    "title": "Trading Assistant - Shift",
+    "active": true,
+    "date_updated": 1775341441,
+    "date_posted": 1775340424,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400056228",
+    "locations": [
+      "Croydon, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
