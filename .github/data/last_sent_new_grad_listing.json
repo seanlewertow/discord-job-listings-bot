@@ -135548,5 +135548,102 @@
     "degrees": [
       "PhD"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "4183cf7b-224f-4e67-8ca7-3efd7b86a685",
+    "title": "Trading Assistant",
+    "active": true,
+    "date_updated": 1775312461,
+    "date_posted": 1775311639,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400055209",
+    "locations": [
+      "Newcastle upon Tyne, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "1fa2a16b-26de-44c0-908d-f70307bf5bc4",
+    "title": "Trading Assistant",
+    "active": true,
+    "date_updated": 1775312461,
+    "date_posted": 1775311637,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400056171",
+    "locations": [
+      "Twyford, Reading, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Northrop Grumman",
+    "id": "9ff71ac5-29bd-4253-a902-6463b0957650",
+    "title": "Software Engineer - Embedded and Real Time",
+    "active": true,
+    "date_updated": 1775303055,
+    "date_posted": 1775298343,
+    "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/Engineer-Software---Embedded-and-Real-Time--Melbourne-FL-_R10222827",
+    "locations": [
+      "Melbourne, FL"
+    ],
+    "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Apex Fintech Solutions",
+    "id": "475a7b53-4f64-4781-b6c7-0dfe6b215f7e",
+    "title": "Contractor - Software Engineer II",
+    "active": true,
+    "date_updated": 1775302741,
+    "date_posted": 1775300287,
+    "url": "https://peak6group.wd1.myworkdayjobs.com/apexfintechsolutions/job/Austin-TX/Contractor--Software-Engineer-II_JR104222-1",
+    "locations": [
+      "Austin, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Apex-Fintech-Solutions",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "The Boeing Company",
+    "id": "b381b9ff-2013-49e6-891c-c85f6a6139ad",
+    "title": "Associate Test & Evaluation Lab Tech - Metrology & Calibration",
+    "active": true,
+    "date_updated": 1775303821,
+    "date_posted": 1775298174,
+    "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Salt-Lake-City-UT/Associate-Test---Evaluation-Lab-Tech--Metrology---Calibration-_JR2026502141-1",
+    "locations": [
+      "Salt Lake City, UT"
+    ],
+    "company_url": "https://simplify.jobs/c/Boeing",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
