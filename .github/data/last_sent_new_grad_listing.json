@@ -135284,5 +135284,102 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "4654947b-a29e-496f-bb39-1aa1b0b3fd88",
+    "title": "Trading Assistant",
+    "active": true,
+    "date_updated": 1775312461,
+    "date_posted": 1775311637,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400056160",
+    "locations": [
+      "United Kingdom"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Schweitzer Engineering Laboratories",
+    "id": "379da727-9a92-482a-bd2a-639f066f8cc5",
+    "title": "Embedded Systems Engineer",
+    "active": true,
+    "date_updated": 1775297521,
+    "date_posted": 1775297512,
+    "url": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/FPGA-Design-Engineer_2025-18317",
+    "locations": [
+      "Moscow, ID"
+    ],
+    "company_url": "https://simplify.jobs/c/SEL",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "GE Healthcare",
+    "id": "37af37dd-c844-4cad-aa52-3c95edc25c59",
+    "title": "Field Service Engineer 1",
+    "active": true,
+    "date_updated": 1775298166,
+    "date_posted": 1775295241,
+    "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Service-Engineer-1---Long-Island--NY_R4031346",
+    "locations": [
+      "Long Island, New York"
+    ],
+    "company_url": "https://simplify.jobs/c/GE-Healthcare",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Associate's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Texas A&M University - College Station",
+    "id": "acee71dc-3b25-4735-8336-d59cc82606d0",
+    "title": "Postdoctoral Research Associate - Shireman Lab",
+    "active": true,
+    "date_updated": 1775297661,
+    "date_posted": 1775294097,
+    "url": "https://tamus.wd1.myworkdayjobs.com/TAMU_External/job/Bryan-TX/Postdoctoral-Research-Associate---Shireman-Lab_R-090478-1",
+    "locations": [
+      "College Station, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Texas-AM-University-College-Station",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "PhD"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Dave & Busters",
+    "id": "09e91ab6-b357-41bc-b10a-3c0392f1a94c",
+    "title": "Support Technician",
+    "active": true,
+    "date_updated": 1775298421,
+    "date_posted": 1775297762,
+    "url": "https://daveandbusters.wd1.myworkdayjobs.com/dave_and_busters_careers/job/DB0181---Scranton-PA/Support-Technician_R-1003458",
+    "locations": [
+      "Dunmore, PA"
+    ],
+    "company_url": "https://simplify.jobs/c/Dave-And-Busters",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
