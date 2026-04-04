@@ -135645,5 +135645,27 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "RaceTrac",
+    "id": "520e7bbe-7c2c-4a7b-abd7-e5c6d8945f26",
+    "title": "Category Manager - Fresh Foods",
+    "active": true,
+    "date_updated": 1775301121,
+    "date_posted": 1775299580,
+    "url": "https://racetrac.wd5.myworkdayjobs.com/ssc/job/200-Galleria-Parkway-SE-Suite-900-Atlanta-GA-30339/Category-Manager_R10003238",
+    "locations": [
+      "Atlanta, GA"
+    ],
+    "company_url": "https://simplify.jobs/c/RaceTrac",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "PhD"
+    ]
   }
 ]
