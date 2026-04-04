@@ -135181,5 +135181,108 @@
       "Master's",
       "PhD"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Genentech",
+    "id": "2720fe54-4da2-4303-b5b0-3a03a496fad2",
+    "title": "Machine Learning Engineer/Senior Machine Learning Engineer - DevOps",
+    "active": true,
+    "date_updated": 1775294821,
+    "date_posted": 1775293952,
+    "url": "https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/New-York-City/Machine-Learning-Engineer---Devops_202509-122841",
+    "locations": [
+      "San Bruno, CA",
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Genentech",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Vishay Intertechnology",
+    "id": "4b68c28c-64f6-447e-925e-891691949a04",
+    "title": "Associate Design Engineer",
+    "active": true,
+    "date_updated": 1775296981,
+    "date_posted": 1775294927,
+    "url": "https://vishay.wd3.myworkdayjobs.com/VishayCareers/job/Duluth-MN/Associate-Design-Engineer_JR-14767",
+    "locations": [
+      "Duluth, MN"
+    ],
+    "company_url": "https://simplify.jobs/c/Vishay-Intertechnology",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Travelers",
+    "id": "e58b8033-7a6f-44be-b785-e9fec3b50d90",
+    "title": "Data Engineer 1 - Multiple Teams",
+    "active": true,
+    "date_updated": 1775297009,
+    "date_posted": 1775294452,
+    "url": "https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Data-Engineer-I--AWS--Python--SQL-_R-49596",
+    "locations": [
+      "Hartford, CT",
+      "St Paul, MN"
+    ],
+    "company_url": "https://simplify.jobs/c/Travelers",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Texas A&M University System",
+    "id": "09952996-bde9-4843-a68e-df3d90ae8ac1",
+    "title": "Postdoctoral Research Associate - Shireman Lab",
+    "active": true,
+    "date_updated": 1775297606,
+    "date_posted": 1775294243,
+    "url": "https://tamus.wd1.myworkdayjobs.com/System-wide_External/job/Bryan-TX/Postdoctoral-Research-Associate---Shireman-Lab_R-090478",
+    "locations": [
+      "College Station, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Texas-AM-University-System",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "PhD"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "ICF International",
+    "id": "41d7be69-4380-484f-8c67-3e452ade5761",
+    "title": "Data & Reporting Analyst - Business Systems",
+    "active": true,
+    "date_updated": 1775297662,
+    "date_posted": 1775294667,
+    "url": "https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/Data---Reporting-Analyst---Business-Systems_R2600536",
+    "locations": [
+      "Reston, VA"
+    ],
+    "company_url": "https://simplify.jobs/c/ICF-International",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
