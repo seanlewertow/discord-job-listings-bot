@@ -135381,5 +135381,110 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Johnson Controls",
+    "id": "28795922-760d-4edc-9e5e-d7908a921479",
+    "title": "Equipment Systems Application Engineer",
+    "active": true,
+    "date_updated": 1775303717,
+    "date_posted": 1775297859,
+    "url": "https://jci.wd5.myworkdayjobs.com/JCI/job/San-Antonio-Texas-United-States-of-America/Equipment-Systems-Application-Engineer--hybrid-_WD30265395",
+    "locations": [
+      "San Antonio, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Johnson-Controls",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Daikin Applied",
+    "id": "aa6e3cd6-6a4f-4b6c-948b-29c1f8091829",
+    "title": "Controls Engineer",
+    "active": true,
+    "date_updated": 1775302921,
+    "date_posted": 1775300312,
+    "url": "https://daikinapplied.wd1.myworkdayjobs.com/Daikin-Careers/job/Staunton-VA-24402/Controls-Engineer_R001833-1",
+    "locations": [
+      "Verona, VA"
+    ],
+    "company_url": "https://simplify.jobs/c/Daikin-Applied",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "University of Chicago",
+    "id": "90110353-4521-469d-bb52-46bbd73e5595",
+    "title": "Research Analyst",
+    "active": true,
+    "date_updated": 1775295721,
+    "date_posted": 1775294610,
+    "url": "https://uchicago.wd5.myworkdayjobs.com/External/job/Hyde-Park-Campus/Research-Analyst_JR32735",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/University-Of-Chicago",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "MBA",
+      "PhD"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Genentech",
+    "id": "d6ec77f2-0eb2-476e-9324-ac286732a6fd",
+    "title": "Machine Learning Engineer - Foundation Models",
+    "active": true,
+    "date_updated": 1775294821,
+    "date_posted": 1775293953,
+    "url": "https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/New-York-City/Machine-Learning-Engineer--Foundation-Models--Prescient---AI-for-Drug-Discovery-_202509-122066",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Genentech",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "PhD"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Tokyo Electron",
+    "id": "de5a23b4-cb1b-4bc4-9ec0-bcde470f7265",
+    "title": "Scanning Electron Microscope Technician - Contract Position",
+    "active": true,
+    "date_updated": 1775295762,
+    "date_posted": 1775294551,
+    "url": "https://tel.wd3.myworkdayjobs.com/tel-careers/job/Albany/SEM-Microscopy-Technician-Contract-Position_R25-01149",
+    "locations": [
+      "Albany, NY"
+    ],
+    "company_url": "https://simplify.jobs/c/Tokyo-Electron",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
