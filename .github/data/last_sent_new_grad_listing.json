@@ -135862,5 +135862,46 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Applied Materials",
+    "id": "e8d4a37e-6dac-4b25-8b6b-3f517a6a2cd3",
+    "title": "Global Product Support",
+    "active": true,
+    "date_updated": 1775351881,
+    "date_posted": 1775351381,
+    "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Global-Product-Support--early-in-Career-_R2616746-1",
+    "locations": [
+      "Santa Clara, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Applied-Materials",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "TikTok",
+    "id": "34b1d462-b361-4b09-8f3d-7a9f943946be",
+    "title": "Machine Learning Engineer Graduate - Data Search TikTok - BS/MS",
+    "active": true,
+    "date_updated": 1775179261,
+    "date_posted": 1775178840,
+    "url": "https://lifeattiktok.com/search/7533371534829095175",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/TikTok",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
   }
 ]
