@@ -136281,5 +136281,99 @@
       "Bachelor's",
       "Master's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Blackstone",
+    "id": "6a133606-bfd7-4fb6-b88b-39fc9331aa4c",
+    "title": "Technology and Innovations - Software Engineer Analyst",
+    "active": true,
+    "date_updated": 1775515637,
+    "date_posted": 1775513123,
+    "url": "https://blackstone.wd1.myworkdayjobs.com/bx_external_site/job/Miami/XMLNAME-2026-Blackstone-Technology-and-Innovations---Software-Engineer-Analyst_38715",
+    "locations": [
+      "Miami, FL"
+    ],
+    "company_url": "https://simplify.jobs/c/Blackstone",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "36549c30-529f-49e8-bbc9-44d976d063dd",
+    "title": "Trading Assistant",
+    "active": true,
+    "date_updated": 1775515501,
+    "date_posted": 1775513218,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400056336",
+    "locations": [
+      "Stoke-on-Trent, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Syncreon Consulting",
+    "id": "c8a609e1-4951-4aab-ba41-a16d10aa9d55",
+    "title": "Data Management & Quantitative Analyst 1",
+    "active": true,
+    "date_updated": 1775515423,
+    "date_posted": 1775513040,
+    "url": "https://jobs.smartrecruiters.com/SyncreonConsulting/744000118926247",
+    "locations": [
+      "Pittsburgh, PA"
+    ],
+    "company_url": "https://simplify.jobs/c/Syncreon-Consulting",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Centene",
+    "id": "1293d336-09f5-460a-9b86-f3ba141880fd",
+    "title": "Data Analyst 1 Healthcare Analytics",
+    "active": true,
+    "date_updated": 1775515201,
+    "date_posted": 1775513035,
+    "url": "https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MI/Data-Analyst-I-Healthcare-Analytics_1636195",
+    "locations": [
+      "Michigan"
+    ],
+    "company_url": "https://simplify.jobs/c/Centene",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Simulmedia",
+    "id": "5a52cd5a-c29d-4511-b49c-a7d5b3bca766",
+    "title": "Generative AI Analyst",
+    "active": true,
+    "date_updated": 1775514601,
+    "date_posted": 1775513036,
+    "url": "https://jobs.lever.co/simulmedia/52c56404-78f4-41be-a1a0-ef3ecd84993c/apply",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Simulmedia",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
