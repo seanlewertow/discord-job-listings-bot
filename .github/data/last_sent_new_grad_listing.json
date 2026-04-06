@@ -136022,5 +136022,27 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Uber",
+    "id": "679879b8-462e-4810-b391-25b5e93ef7e7",
+    "title": "Graduate Software Engineer 1 - Mobile - Android",
+    "active": true,
+    "date_updated": 1775471324,
+    "date_posted": 1775466406,
+    "url": "https://university-uber.icims.com/jobs/158037/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Seattle, WA",
+      "SF"
+    ],
+    "company_url": "https://simplify.jobs/c/Uber",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
   }
 ]
