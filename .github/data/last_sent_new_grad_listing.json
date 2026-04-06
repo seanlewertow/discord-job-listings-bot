@@ -136145,5 +136145,97 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Raymond James Financial",
+    "id": "c358f3f1-1ca6-4b3d-a4dc-51f29ef50d9d",
+    "title": "Senior Operations Support Associate - Mutual Fund Trading Dept",
+    "active": true,
+    "date_updated": 1775485830,
+    "date_posted": 1775484443,
+    "url": "https://raymondjames.wd1.myworkdayjobs.com/RaymondJamesCareers/job/Southfield-Michigan---United-States/Sr-Operations-Support-Associate--Mutual-Fund-Trading-Dept_R-0010437",
+    "locations": [
+      "Southfield, MI"
+    ],
+    "company_url": "https://simplify.jobs/c/Raymond-James-Financial",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "909fe32f-0346-4716-881f-2c755b3a2204",
+    "title": "Trading Assistant - Shift",
+    "active": true,
+    "date_updated": 1775485441,
+    "date_posted": 1775484454,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400056306",
+    "locations": [
+      "Dartford District, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "8fc493ac-0d45-474b-94cf-a96af5ff874d",
+    "title": "Trading Assistant",
+    "active": true,
+    "date_updated": 1775485441,
+    "date_posted": 1775484453,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400056297",
+    "locations": [
+      "United Kingdom"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Mirage",
+    "id": "7d404833-230f-4eab-b649-0378393e02e3",
+    "title": "Software Engineer \u2013 Early Career",
+    "active": true,
+    "date_updated": 1775485441,
+    "date_posted": 1775484610,
+    "url": "https://jobs.ashbyhq.com/mirage/ff388d40-ab91-4383-977b-4caa18e85160/application",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Mirage",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "42b861bd-eba9-4597-9f96-45ddcaf3f0ee",
+    "title": "Trading Assistant",
+    "active": true,
+    "date_updated": 1775485441,
+    "date_posted": 1775484453,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400056272",
+    "locations": [
+      "Dartford District, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
