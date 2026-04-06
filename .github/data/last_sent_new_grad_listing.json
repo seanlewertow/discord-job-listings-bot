@@ -136258,5 +136258,28 @@
       "Bachelor's",
       "Associate's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "University of Arkansas",
+    "id": "b3525827-636c-48ed-8016-d33e1d0518b7",
+    "title": "Research Associate",
+    "active": true,
+    "date_updated": 1775472419,
+    "date_posted": 1775294171,
+    "url": "https://uasys.wd5.myworkdayjobs.com/uasys/job/UAPBAQFISHAquaculture-Fisheries-Research-Station-and-Fish-Ponds/Research-Associate_R0079749",
+    "locations": [
+      "Jacksonville, AR",
+      "Greenville, MS",
+      "Pine Bluff, AR"
+    ],
+    "company_url": "https://simplify.jobs/c/1d49378c-2501-4900-8d62-ab3ca8ddadb0",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
   }
 ]
