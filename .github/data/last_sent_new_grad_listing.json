@@ -136540,5 +136540,87 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "73060319-ef4d-48d6-b5ef-fe3b6366d4d6",
+    "title": "Trading Assistant",
+    "active": true,
+    "date_updated": 1775555821,
+    "date_posted": 1775552691,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400056367",
+    "locations": [
+      "Edinburgh, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Shield AI",
+    "id": "994496ce-b5a7-4e69-a9eb-b70c6f001308",
+    "title": "Senior Engineer - Autonomy - Tactical Behaviors",
+    "active": true,
+    "date_updated": 1775555821,
+    "date_posted": 1755295103,
+    "url": "https://jobs.lever.co/shieldai/1af75b70-43ff-457b-858b-2935e7c8983a/apply",
+    "locations": [
+      "Washington, DC"
+    ],
+    "company_url": "https://simplify.jobs/c/Shield-AI",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Handshake",
+    "id": "594e3770-fcd1-4bc5-ac62-ed97804b6051",
+    "title": "Machine Learning Engineer 1",
+    "active": true,
+    "date_updated": 1775555061,
+    "date_posted": 1775484598,
+    "url": "https://jobs.ashbyhq.com/handshake/dd1fd4fc-6f6d-4a3d-8c54-dd91ed48dd70/application",
+    "locations": [
+      "SF"
+    ],
+    "company_url": "https://simplify.jobs/c/Handshake",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "PhD"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Intertek",
+    "id": "56bacc67-1bc6-4e45-a5f7-3e4a6bee1d56",
+    "title": "Project Engineer - Safety",
+    "active": true,
+    "date_updated": 1775555821,
+    "date_posted": 1773796181,
+    "url": "https://hcog.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/14279",
+    "locations": [
+      "Lexington, KY"
+    ],
+    "company_url": "https://simplify.jobs/c/Intertek",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
   }
 ]
