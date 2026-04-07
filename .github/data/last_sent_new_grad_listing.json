@@ -136891,5 +136891,104 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Cambridge Associates",
+    "id": "136f4344-9b79-4cd9-a0e5-c9b6d6a69d0f",
+    "title": "Investment Analyst - Hedge Funds",
+    "active": true,
+    "date_updated": 1775601002,
+    "date_posted": 1775599361,
+    "url": "https://cambridgeassociates.wd5.myworkdayjobs.com/Cambridge_Associates/job/Boston/Investment-Analyst--Hedge-Funds_JR0000201-1",
+    "locations": [
+      "Boston, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/Cambridge-Associates",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Goldman Sachs",
+    "id": "05dacdeb-375b-46e4-bd1b-fdbe4c87d6cd",
+    "title": "Asset and Wealth Management - Software Engineer - Analyst",
+    "active": true,
+    "date_updated": 1775601469,
+    "date_posted": 1775599812,
+    "url": "https://higher.gs.com/roles/166075",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Goldman-Sachs",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Comcast",
+    "id": "eb1b01dc-6441-425f-9ded-486669bf708d",
+    "title": "Residential Installation & Service Technician",
+    "active": true,
+    "date_updated": 1775601002,
+    "date_posted": 1775599859,
+    "url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/DC---Washington-900-Michigan-Ave-NE/Residential-Installation---Service-Technician_R433033-1",
+    "locations": [
+      "Washington, DC"
+    ],
+    "company_url": "https://simplify.jobs/c/Comcast",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "Kohl's",
+    "id": "55771c1e-4128-4109-b40d-d81be00d6433",
+    "title": "Assistant Designer",
+    "active": true,
+    "date_updated": 1775601002,
+    "date_posted": 1775599755,
+    "url": "https://kohls.wd1.myworkdayjobs.com/kohlscareers/job/New-York-Design-Office-0908/Assistant-Designer--On-Site-_R467235-1",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Kohls",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "GM financial",
+    "id": "295552cf-62f8-43b8-93f0-3ceed854d125",
+    "title": "Software Development Engineer 1 - React",
+    "active": true,
+    "date_updated": 1775601354,
+    "date_posted": 1775599648,
+    "url": "https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1901",
+    "locations": [
+      "Irving, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/GM-Financial",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
