@@ -136694,5 +136694,101 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Visa",
+    "id": "8932be12-3312-4724-9d42-246940666574",
+    "title": "Graduate Software Engineer",
+    "active": true,
+    "date_updated": 1775572696,
+    "date_posted": 1775570738,
+    "url": "https://jobs.smartrecruiters.com/Visa/744000119099324",
+    "locations": [
+      "Highlands Ranch, CO"
+    ],
+    "company_url": "https://simplify.jobs/c/Visa",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "802fa02c-385d-44c4-8200-b87c44768687",
+    "title": "Trading Assistant",
+    "active": true,
+    "date_updated": 1775572201,
+    "date_posted": 1775570877,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400056414",
+    "locations": [
+      "Trafford, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "557635d5-9a68-4bb1-8eed-a5eb85243726",
+    "title": "Trading Assistant",
+    "active": true,
+    "date_updated": 1775572201,
+    "date_posted": 1775570876,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400056412",
+    "locations": [
+      "Aldershot, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "197b36aa-8cfb-4ee4-920d-da493fdc5e2b",
+    "title": "Trading Assistant",
+    "active": true,
+    "date_updated": 1775572201,
+    "date_posted": 1775570876,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400056012",
+    "locations": [
+      "Stratford-upon-Avon, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Visa",
+    "id": "c44798aa-ac2c-4311-88a9-caee71998c86",
+    "title": "Software Engineer \u2013 New College Grad",
+    "active": true,
+    "date_updated": 1775572201,
+    "date_posted": 1775570737,
+    "url": "https://jobs.smartrecruiters.com/Visa/744000119102127",
+    "locations": [
+      "Atlanta, GA"
+    ],
+    "company_url": "https://simplify.jobs/c/Visa",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
   }
 ]
